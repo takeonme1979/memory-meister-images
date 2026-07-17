@@ -10142,13 +10142,19 @@ window.QM_UKCOUNTIES_DATA = [
     "id": "cty_1",
     "name": "Buckinghamshire",
     "town": "Aylesbury",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-buckinghamshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-buckinghamshire.svg",
+    "focalX": 96.5385589164886,
+    "focalY": 92.51159967033385,
+    "zoom": 1.45
   },
   {
     "id": "cty_2",
     "name": "Cambridgeshire",
     "town": "Cambridge",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-cambridgeshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-cambridgeshire.svg",
+    "focalX": 100,
+    "focalY": 92.92423927409011,
+    "zoom": 1.4
   },
   {
     "id": "cty_3",
@@ -27536,133 +27542,6 @@ window.QM_VOCABEXPERT_DATA = [
     "term": "Sempiternal",
     "definition": "Eternal and unchanging; everlasting.",
     "example": "The desert stretched out in sempiternal stillness."
-  }
-];
-window.QM_BALLETS_DATA = [
-  {
-    "id": 1,
-    "term": "Swan Lake",
-    "definition": "Pyotr Ilyich Tchaikovsky"
-  },
-  {
-    "id": 2,
-    "term": "The Nutcracker",
-    "definition": "Pyotr Ilyich Tchaikovsky"
-  },
-  {
-    "id": 3,
-    "term": "The Sleeping Beauty",
-    "definition": "Pyotr Ilyich Tchaikovsky"
-  },
-  {
-    "id": 4,
-    "term": "The Firebird",
-    "definition": "Igor Stravinsky"
-  },
-  {
-    "id": 5,
-    "term": "Petrushka",
-    "definition": "Igor Stravinsky"
-  },
-  {
-    "id": 6,
-    "term": "The Rite of Spring",
-    "definition": "Igor Stravinsky"
-  },
-  {
-    "id": 7,
-    "term": "Pulcinella",
-    "definition": "Igor Stravinsky"
-  },
-  {
-    "id": 8,
-    "term": "Romeo and Juliet",
-    "definition": "Sergei Prokofiev"
-  },
-  {
-    "id": 9,
-    "term": "Cinderella",
-    "definition": "Sergei Prokofiev"
-  },
-  {
-    "id": 10,
-    "term": "Giselle",
-    "definition": "Adolphe Adam"
-  },
-  {
-    "id": 11,
-    "term": "Le Corsaire",
-    "definition": "Adolphe Adam"
-  },
-  {
-    "id": 12,
-    "term": "Coppélia",
-    "definition": "Léo Delibes"
-  },
-  {
-    "id": 13,
-    "term": "Sylvia",
-    "definition": "Léo Delibes"
-  },
-  {
-    "id": 14,
-    "term": "Don Quixote",
-    "definition": "Ludwig Minkus"
-  },
-  {
-    "id": 15,
-    "term": "La Bayadère",
-    "definition": "Ludwig Minkus"
-  },
-  {
-    "id": 16,
-    "term": "Spartacus",
-    "definition": "Aram Khachaturian"
-  },
-  {
-    "id": 17,
-    "term": "Gayane",
-    "definition": "Aram Khachaturian"
-  },
-  {
-    "id": 18,
-    "term": "Appalachian Spring",
-    "definition": "Aaron Copland"
-  },
-  {
-    "id": 19,
-    "term": "Rodeo",
-    "definition": "Aaron Copland"
-  },
-  {
-    "id": 20,
-    "term": "Boléro",
-    "definition": "Maurice Ravel"
-  },
-  {
-    "id": 21,
-    "term": "Daphnis et Chloé",
-    "definition": "Maurice Ravel"
-  },
-  {
-    "id": 22,
-    "term": "The Three-Cornered Hat",
-    "definition": "Manuel de Falla"
-  },
-  {
-    "id": 23,
-    "term": "The Miraculous Mandarin",
-    "definition": "Béla Bartók"
-  },
-  {
-    "id": 24,
-    "term": "Fancy Free",
-    "definition": "Leonard Bernstein"
-  },
-  {
-    "id": 25,
-    "term": "Parade",
-    "definition": "Erik Satie"
   }
 ];
 window.QM_BALLETPIX_DATA = [
