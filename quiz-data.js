@@ -1387,7 +1387,7 @@ window.QM_HIDDEN_QUIZZES = [
   "resAdjectives",
   "rptAdjectives",
   "ukCounties",
-  "female90s",
+  "ballets",
   "nlAdjectives",
   "rnlAdjectives"
 ];
@@ -9387,252 +9387,402 @@ window.QM_USASTATESMAP_DATA = [
   {
     "id": 1,
     "name": "Alabama",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-alabama.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-alabama.svg",
+    "focalX": 100,
+    "focalY": 100,
+    "zoom": 1.25
   },
   {
     "id": 2,
     "name": "Alaska",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-alaska.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-alaska.svg",
+    "focalX": 0,
+    "focalY": 100,
+    "zoom": 1.45
   },
   {
     "id": 3,
     "name": "Arizona",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-arizona.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-arizona.svg",
+    "focalX": 0,
+    "focalY": 100,
+    "zoom": 1.3
   },
   {
     "id": 4,
     "name": "Arkansas",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-arkansas.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-arkansas.svg",
+    "focalX": 86.72316737449394,
+    "focalY": 78.86733125075409,
+    "zoom": 1.2
   },
   {
     "id": 5,
     "name": "California",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-california.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-california.svg",
+    "focalX": 0,
+    "focalY": 13.915850665118237,
+    "zoom": 1.2
   },
   {
     "id": 6,
     "name": "Colorado",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-colorado.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-colorado.svg",
+    "focalX": 6.55667781829833,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": 7,
     "name": "Connecticut",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-connecticut.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-connecticut.svg",
+    "focalX": 100,
+    "focalY": 22.287503167951357,
+    "zoom": 2.25
   },
   {
     "id": 8,
     "name": "Delaware",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-delaware.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-delaware.svg",
+    "focalX": 100,
+    "focalY": 25.448502829098103,
+    "zoom": 3
   },
   {
     "id": 9,
     "name": "Florida",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-florida.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-florida.svg",
+    "focalX": 89.14333465369373,
+    "focalY": 100,
+    "zoom": 1.75
   },
   {
     "id": 10,
     "name": "Georgia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-georgia.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-georgia.svg",
+    "focalX": 100,
+    "focalY": 100,
+    "zoom": 1.5
   },
   {
     "id": 11,
     "name": "Hawaii",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-hawaii.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-hawaii.svg",
+    "focalX": 22.930917768048904,
+    "focalY": 100,
+    "zoom": 2.0999999999999996
   },
   {
     "id": 12,
     "name": "Idaho",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-idaho.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-idaho.svg",
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1.35
   },
   {
     "id": 13,
     "name": "Illinois",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-illinois.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-illinois.svg",
+    "focalX": 80.82505573597992,
+    "focalY": 27.96826925977317,
+    "zoom": 1.3499999999999999
   },
   {
     "id": 14,
     "name": "Indiana",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-indiana.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-indiana.svg",
+    "focalX": 91.89909705820011,
+    "focalY": 48.8453043934001,
+    "zoom": 1.5
   },
   {
     "id": 15,
     "name": "Iowa",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-iowa.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-iowa.svg",
+    "focalX": 72.70038614593429,
+    "focalY": 15.359226064792471,
+    "zoom": 1.5
   },
   {
     "id": 16,
     "name": "Kansas",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-kansas.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-kansas.svg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1.35
   },
   {
     "id": 17,
     "name": "Kentucky",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-kentucky.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-kentucky.svg",
+    "focalX": 91.31913511124979,
+    "focalY": 62.50916312866997,
+    "zoom": 1.6
   },
   {
     "id": 18,
     "name": "Louisiana",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-louisiana.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-louisiana.svg",
+    "focalX": 71.08553918579436,
+    "focalY": 100,
+    "zoom": 1.6
   },
   {
     "id": 19,
     "name": "Maine",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-maine.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-maine.svg",
+    "focalX": 100,
+    "focalY": 9.92455133363578,
+    "zoom": 1.95
   },
   {
     "id": 20,
     "name": "Maryland",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-maryland.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-maryland.svg",
+    "focalX": 100,
+    "focalY": 39.21274000298466,
+    "zoom": 1.95
   },
   {
     "id": 21,
     "name": "Massachusetts",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-massachusetts.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-massachusetts.svg",
+    "focalX": 100,
+    "focalY": 9.433822461294708,
+    "zoom": 1.95
   },
   {
     "id": 22,
     "name": "Michigan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-michigan.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-michigan.svg",
+    "focalX": 87.14695591077094,
+    "focalY": 16.59638141310156,
+    "zoom": 1.7
   },
   {
     "id": 23,
     "name": "Minnesota",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-minnesota.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-minnesota.svg",
+    "focalX": 65.22844883128526,
+    "focalY": 1.4066875364482894,
+    "zoom": 1.6
   },
   {
     "id": 24,
     "name": "Mississippi",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-mississippi.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-mississippi.svg",
+    "focalX": 74.5180083844461,
+    "focalY": 100,
+    "zoom": 1.75
   },
   {
     "id": 25,
     "name": "Missouri",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-missouri.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-missouri.svg",
+    "focalX": 77.52684302782946,
+    "focalY": 74.12482722977282,
+    "zoom": 1.25
   },
   {
     "id": 26,
     "name": "Montana",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-montana.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-montana.svg",
+    "focalX": 16.483526829371193,
+    "focalY": 0,
+    "zoom": 1.45
   },
   {
     "id": 27,
     "name": "Nebraska",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-nebraska.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-nebraska.svg",
+    "focalX": 50,
+    "focalY": 27.868393121078665,
+    "zoom": 1.3
   },
   {
     "id": 28,
     "name": "Nevada",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-nevada.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-nevada.svg",
+    "focalX": 1.3596996920339273,
+    "focalY": 21.132660332925415,
+    "zoom": 1.4000000000000001
   },
   {
     "id": 29,
     "name": "New Hampshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-new-hampshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-new-hampshire.svg",
+    "focalX": 100,
+    "focalY": 11.958988009555643,
+    "zoom": 1.8
   },
   {
     "id": 30,
     "name": "New Jersey",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-new-jersey.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-new-jersey.svg",
+    "focalX": 100,
+    "focalY": 30.370213963963966,
+    "zoom": 1.75
   },
   {
     "id": 31,
     "name": "New Mexico",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-new-mexico.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-new-mexico.svg",
+    "focalX": 11.905468391665657,
+    "focalY": 100,
+    "zoom": 1.45
   },
   {
     "id": 32,
     "name": "New York",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-new-york.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-new-york.svg",
+    "focalX": 100,
+    "focalY": 16.913615839397096,
+    "zoom": 1.6500000000000001
   },
   {
     "id": 33,
     "name": "North Carolina",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-north-carolina.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-north-carolina.svg",
+    "focalX": 100,
+    "focalY": 67.54245015963765,
+    "zoom": 1.6500000000000001
   },
   {
     "id": 34,
     "name": "North Dakota",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-north-dakota.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-north-dakota.svg",
+    "focalX": 47.29220268095707,
+    "focalY": 0,
+    "zoom": 1.8
   },
   {
     "id": 35,
     "name": "Ohio",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-ohio.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-ohio.svg",
+    "focalX": 100,
+    "focalY": 24.885423579271233,
+    "zoom": 1.5
   },
   {
     "id": 36,
     "name": "Oklahoma",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-oklahoma.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-oklahoma.svg",
+    "focalX": 50.792207946555614,
+    "focalY": 87.78995234073358,
+    "zoom": 1.3
   },
   {
     "id": 37,
     "name": "Oregon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-oregon.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-oregon.svg",
+    "focalX": 7.893835134831072,
+    "focalY": 0,
+    "zoom": 1.45
   },
   {
     "id": 38,
     "name": "Pennsylvania",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-pennsylvania.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-pennsylvania.svg",
+    "focalX": 100,
+    "focalY": 26.239976239976244,
+    "zoom": 1.6500000000000001
   },
   {
     "id": 39,
     "name": "Rhode Island",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-rhode-island.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-rhode-island.svg",
+    "focalX": 100,
+    "focalY": 24.538558558963985,
+    "zoom": 3
   },
   {
     "id": 40,
     "name": "South Carolina",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-south-carolina.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-south-carolina.svg",
+    "focalX": 100,
+    "focalY": 100,
+    "zoom": 1.55
   },
   {
     "id": 41,
     "name": "South Dakota",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-south-dakota.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-south-dakota.svg",
+    "focalX": 50,
+    "focalY": 0,
+    "zoom": 1.35
   },
   {
     "id": 42,
     "name": "Tennessee",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-tennessee.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-tennessee.svg",
+    "focalX": 100,
+    "focalY": 100,
+    "zoom": 1.3
   },
   {
     "id": 43,
     "name": "Texas",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-texas.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-texas.svg",
+    "focalX": 45.71292099182086,
+    "focalY": 100,
+    "zoom": 1.3
   },
   {
     "id": 44,
     "name": "Utah",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-utah.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-utah.svg",
+    "focalX": 17.18749246213667,
+    "focalY": 15.840343342784744,
+    "zoom": 1.3
   },
   {
     "id": 45,
     "name": "Vermont",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-vermont.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-vermont.svg",
+    "focalX": 100,
+    "focalY": 8.660191800537783,
+    "zoom": 1.7
   },
   {
     "id": 46,
     "name": "Virginia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-virginia.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-virginia.svg",
+    "focalX": 100,
+    "focalY": 57.697951072584864,
+    "zoom": 1.6
   },
   {
     "id": 47,
     "name": "Washington",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-washington.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-washington.svg",
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1.45
   },
   {
     "id": 48,
     "name": "West Virginia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-west-virginia.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-west-virginia.svg",
+    "focalX": 100,
+    "focalY": 44.587410984505716,
+    "zoom": 1.4000000000000001
   },
   {
     "id": 49,
     "name": "Wisconsin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-wisconsin.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-wisconsin.svg",
+    "focalX": 78.85521005053039,
+    "focalY": 0,
+    "zoom": 1.3
   },
   {
     "id": 50,
     "name": "Wyoming",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-wyoming.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/us-states-map/state-wyoming.svg",
+    "focalX": 43.64849201683859,
+    "focalY": 18.823336450289574,
+    "zoom": 1.25
   }
 ];
 window.QM_LANDMARKS_DATA = [
@@ -10231,7 +10381,10 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784133075984_4nsbzgys",
     "name": "The Human League",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/the-human-league.jpg?v=1784212610856"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/the-human-league.jpg?v=1784212610856",
+    "focalX": 46.94274003959053,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075984_4oiv4a47",
@@ -10251,7 +10404,10 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784133075984_4ruqssb8",
     "name": "Tears for Fears",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/tears-for-fears.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/tears-for-fears.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075984_4sza9cpe",
@@ -10261,7 +10417,10 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784133075984_4tnvzxla",
     "name": "Orchestral Manoeuvres in the Dark",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/orchestral-manoeuvres-in-the-dark.jpg?v=1784212610856"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/orchestral-manoeuvres-in-the-dark.jpg?v=1784212610856",
+    "focalX": 0,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075984_4uvf1n6v",
@@ -27377,6 +27536,133 @@ window.QM_VOCABEXPERT_DATA = [
     "term": "Sempiternal",
     "definition": "Eternal and unchanging; everlasting.",
     "example": "The desert stretched out in sempiternal stillness."
+  }
+];
+window.QM_BALLETS_DATA = [
+  {
+    "id": 1,
+    "term": "Swan Lake",
+    "definition": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "id": 2,
+    "term": "The Nutcracker",
+    "definition": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "id": 3,
+    "term": "The Sleeping Beauty",
+    "definition": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "id": 4,
+    "term": "The Firebird",
+    "definition": "Igor Stravinsky"
+  },
+  {
+    "id": 5,
+    "term": "Petrushka",
+    "definition": "Igor Stravinsky"
+  },
+  {
+    "id": 6,
+    "term": "The Rite of Spring",
+    "definition": "Igor Stravinsky"
+  },
+  {
+    "id": 7,
+    "term": "Pulcinella",
+    "definition": "Igor Stravinsky"
+  },
+  {
+    "id": 8,
+    "term": "Romeo and Juliet",
+    "definition": "Sergei Prokofiev"
+  },
+  {
+    "id": 9,
+    "term": "Cinderella",
+    "definition": "Sergei Prokofiev"
+  },
+  {
+    "id": 10,
+    "term": "Giselle",
+    "definition": "Adolphe Adam"
+  },
+  {
+    "id": 11,
+    "term": "Le Corsaire",
+    "definition": "Adolphe Adam"
+  },
+  {
+    "id": 12,
+    "term": "Coppélia",
+    "definition": "Léo Delibes"
+  },
+  {
+    "id": 13,
+    "term": "Sylvia",
+    "definition": "Léo Delibes"
+  },
+  {
+    "id": 14,
+    "term": "Don Quixote",
+    "definition": "Ludwig Minkus"
+  },
+  {
+    "id": 15,
+    "term": "La Bayadère",
+    "definition": "Ludwig Minkus"
+  },
+  {
+    "id": 16,
+    "term": "Spartacus",
+    "definition": "Aram Khachaturian"
+  },
+  {
+    "id": 17,
+    "term": "Gayane",
+    "definition": "Aram Khachaturian"
+  },
+  {
+    "id": 18,
+    "term": "Appalachian Spring",
+    "definition": "Aaron Copland"
+  },
+  {
+    "id": 19,
+    "term": "Rodeo",
+    "definition": "Aaron Copland"
+  },
+  {
+    "id": 20,
+    "term": "Boléro",
+    "definition": "Maurice Ravel"
+  },
+  {
+    "id": 21,
+    "term": "Daphnis et Chloé",
+    "definition": "Maurice Ravel"
+  },
+  {
+    "id": 22,
+    "term": "The Three-Cornered Hat",
+    "definition": "Manuel de Falla"
+  },
+  {
+    "id": 23,
+    "term": "The Miraculous Mandarin",
+    "definition": "Béla Bartók"
+  },
+  {
+    "id": 24,
+    "term": "Fancy Free",
+    "definition": "Leonard Bernstein"
+  },
+  {
+    "id": 25,
+    "term": "Parade",
+    "definition": "Erik Satie"
   }
 ];
 window.QM_BALLETPIX_DATA = [
