@@ -5106,20 +5106,14 @@ window.QM_MALE00S_DATA = [
 ];
 window.QM_FEMALE00S_DATA = [
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783709881388_bbbbt3l6lb",
     "name": "Britney Spears",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/britney-spears-period.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/britney-spears-period.jpg?v=1784296789989"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783709881388_cjpo7bf81x",
     "name": "Christina Aguilera",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/christina-aguilera.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/christina-aguilera.jpg?v=1784296789989"
   },
   {
     "focalX": 50,
@@ -5377,12 +5371,9 @@ window.QM_FEMALE00S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/nicole-scherzinger-00s.jpg"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783819098206_ijm5m1gwt7",
     "name": "Lady Gaga",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/lady-gaga-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/lady-gaga-00s.jpg?v=1784296789989"
   },
   {
     "id": "id_1783819098206_fvp4ur8ii6",
@@ -5623,12 +5614,9 @@ window.QM_FEMALE00S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/dannii-minogue-00s.jpg"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783819098206_17qbj3hqc4",
     "name": "Victoria Beckham",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/victoria-beckham-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/victoria-beckham-00s.jpg?v=1784296789989"
   },
   {
     "id": "id_1783876338044_kerihilson",
