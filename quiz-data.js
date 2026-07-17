@@ -5688,7 +5688,7 @@ window.QM_FEMALE00S_DATA = [
 ];
 window.QM_MALE80S_DATA = [
   {
-    "focalX": 59.62568476875836,
+    "focalX": 54.374263474559385,
     "focalY": 0,
     "zoom": 1.2,
     "id": "id_1783716276549_pcm1b0s8oe",
@@ -5700,9 +5700,9 @@ window.QM_MALE80S_DATA = [
     "gamma": 1
   },
   {
-    "focalX": 71.61661051566196,
-    "focalY": 12.491652204590663,
-    "zoom": 1.52,
+    "focalX": 56.320769970842356,
+    "focalY": 12.41455133555864,
+    "zoom": 1.72,
     "id": "id_1783716276549_f3sadykv4j",
     "name": "Phil Collins",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Xjrp3GbKQj7y4hEW3qBEzlymDsQn9Kbt-KD1gx_uQg&s=10",
@@ -5712,8 +5712,8 @@ window.QM_MALE80S_DATA = [
     "gamma": 1
   },
   {
-    "focalX": 82.95452505509485,
-    "focalY": 32.39539257383539,
+    "focalX": 67.23467681910566,
+    "focalY": 31.49326822047812,
     "zoom": 1.32,
     "id": "id_1783716276549_uf2n3sw17h",
     "name": "Paul Young",
@@ -5724,30 +5724,48 @@ window.QM_MALE80S_DATA = [
     "gamma": 0.77
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 48.40252216045673,
+    "focalY": 8.721656435812907,
+    "zoom": 1.1500000000000001,
     "id": "id_1783716276549_127gsfthxc",
     "name": "Howard Jones",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/howard-jones.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/howard-jones.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783716276550_abnkdj1jnt",
     "name": "Nik Kershaw",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/nik-kershaw.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/nik-kershaw.jpg",
+    "focalX": 50.03596049634827,
+    "focalY": 0,
+    "zoom": 1.1500000000000001,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783716276550_twl2sns8zw",
     "name": "Adam Ant",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/adam-ant.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/adam-ant.jpg",
+    "focalX": 61.382665389623405,
+    "focalY": 8.867025749335095,
+    "zoom": 1.2
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 18.73286566230498,
     "zoom": 1,
     "id": "id_1783716276550_kgx835r2ke",
     "name": "Marc Almond",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/marc-almond.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/marc-almond.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783716276550_7rrm6azdrd",
@@ -5755,20 +5773,28 @@ window.QM_MALE80S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/chris-de-burgh.jpg"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 50.70920175484823,
+    "focalY": 0,
+    "zoom": 1.25,
     "id": "id_1783716276550_l9xnz9cuzy",
     "name": "Rick Astley",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/rick-astley.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/rick-astley.webp",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 90.11499453813603,
+    "focalY": 0,
+    "zoom": 1.4000000000000001,
     "id": "id_1783716276550_8u2zjnztto",
     "name": "Jason Donovan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/jason-donovan.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/jason-donovan.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
