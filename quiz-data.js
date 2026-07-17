@@ -27720,7 +27720,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "rot",
     "es": "rojo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-red.jpg",
-    "pt": "vermelho"
+    "pt": "vermelho",
+    "nl": "rood"
   },
   {
     "id": "orange_color",
@@ -27731,7 +27732,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "orange",
     "es": "naranja",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-orange_color.jpg",
-    "pt": "laranja"
+    "pt": "laranja",
+    "nl": "oranje"
   },
   {
     "id": "yellow",
@@ -27742,7 +27744,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "gelb",
     "es": "amarillo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-yellow.jpg",
-    "pt": "amarelo"
+    "pt": "amarelo",
+    "nl": "geel"
   },
   {
     "id": "green",
@@ -27753,7 +27756,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "grün",
     "es": "verde",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-green.jpg",
-    "pt": "verde"
+    "pt": "verde",
+    "nl": "groen"
   },
   {
     "id": "blue",
@@ -27764,7 +27768,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "blau",
     "es": "azul",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-blue.jpg",
-    "pt": "azul"
+    "pt": "azul",
+    "nl": "blauw"
   },
   {
     "id": "purple",
@@ -27775,7 +27780,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "lila",
     "es": "morado",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-purple.jpg",
-    "pt": "roxo"
+    "pt": "roxo",
+    "nl": "paars"
   },
   {
     "id": "pink",
@@ -27786,7 +27792,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "rosa",
     "es": "rosa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-pink.jpg",
-    "pt": "rosa"
+    "pt": "rosa",
+    "nl": "roze"
   },
   {
     "id": "brown",
@@ -27797,7 +27804,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "braun",
     "es": "marrón",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-brown.jpg",
-    "pt": "castanho / marrom"
+    "pt": "castanho / marrom",
+    "nl": "bruin"
   },
   {
     "id": "black",
@@ -27808,7 +27816,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "schwarz",
     "es": "negro",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-black.jpg",
-    "pt": "preto"
+    "pt": "preto",
+    "nl": "zwart"
   },
   {
     "id": "white",
@@ -27819,7 +27828,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "weiß",
     "es": "blanco",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-white.jpg",
-    "pt": "branco"
+    "pt": "branco",
+    "nl": "wit"
   },
   {
     "id": "grey",
@@ -27830,7 +27840,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "grau",
     "es": "gris",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-grey.jpg",
-    "pt": "cinzento / cinza"
+    "pt": "cinzento / cinza",
+    "nl": "grijs"
   },
   {
     "id": "turquoise",
@@ -27841,7 +27852,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "türkis",
     "es": "turquesa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-turquoise.jpg",
-    "pt": "turquesa"
+    "pt": "turquesa",
+    "nl": "turkoois"
   },
   {
     "id": "gold_color",
@@ -27852,7 +27864,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "golden",
     "es": "dorado",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-gold_color.jpg",
-    "pt": "dourado"
+    "pt": "dourado",
+    "nl": "goud"
   },
   {
     "id": "silver_color",
@@ -27863,7 +27876,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "silbern",
     "es": "plateado",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-silver_color.jpg",
-    "pt": "prateado"
+    "pt": "prateado",
+    "nl": "zilver"
   },
   {
     "id": "beige",
@@ -27874,7 +27888,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "beige",
     "es": "beige",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-beige.jpg",
-    "pt": "bege"
+    "pt": "bege",
+    "nl": "beige"
   },
   {
     "id": "navy",
@@ -27885,7 +27900,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "marineblau",
     "es": "azul marino",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-navy.jpg",
-    "pt": "azul-marinho"
+    "pt": "azul-marinho",
+    "nl": "marineblauw"
   },
   {
     "id": "maroon",
@@ -27896,7 +27912,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "de": "weinrot",
     "es": "granate",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-maroon.jpg",
-    "pt": "bordô"
+    "pt": "bordô",
+    "nl": "bordeauxrood"
   }
 ];
 window.QM_VOCAB_OCCUPATIONS_DATA = [
@@ -27912,7 +27929,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "focalX": 50,
     "focalY": 50,
     "zoom": 1,
-    "pt": "o chef / a chef"
+    "pt": "o chef / a chef",
+    "nl": "de kok / de kokkin"
   },
   {
     "id": "policeofficer",
@@ -27926,7 +27944,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "focalX": 50,
     "focalY": 23,
     "zoom": 1,
-    "pt": "o polícia / a polícia / o policial / a policial"
+    "pt": "o polícia / a polícia / o policial / a policial",
+    "nl": "de politieagent / de politieagente"
   },
   {
     "id": "firefighter",
@@ -27937,7 +27956,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Feuerwehrmann / die Feuerwehrfrau",
     "es": "el bombero / la bombera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-firefighter.jpg",
-    "pt": "o bombeiro / a bombeira"
+    "pt": "o bombeiro / a bombeira",
+    "nl": "de brandweerman / de brandweervrouw"
   },
   {
     "id": "farmer",
@@ -27948,7 +27968,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Bauer / die Bäuerin",
     "es": "el agricultor / la agricultora",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-farmer.jpg",
-    "pt": "o agricultor / a agricultora"
+    "pt": "o agricultor / a agricultora",
+    "nl": "de boer / de boerin"
   },
   {
     "id": "nurse",
@@ -27959,7 +27980,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Krankenpfleger / die Krankenschwester",
     "es": "el enfermero / la enfermera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-nurse.jpg",
-    "pt": "o enfermeiro / a enfermeira"
+    "pt": "o enfermeiro / a enfermeira",
+    "nl": "de verpleger / de verpleegster"
   },
   {
     "id": "mechanic",
@@ -27970,7 +27992,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Mechaniker / die Mechanikerin",
     "es": "el mecánico / la mecánica",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-mechanic.jpg",
-    "pt": "o mecânico / a mecânica"
+    "pt": "o mecânico / a mecânica",
+    "nl": "de monteur"
   },
   {
     "id": "pilot",
@@ -27981,7 +28004,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Pilot / die Pilotin",
     "es": "el piloto / la piloto",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-pilot.jpg",
-    "pt": "o piloto / a piloto"
+    "pt": "o piloto / a piloto",
+    "nl": "de piloot / de pilote"
   },
   {
     "id": "waiter",
@@ -27992,7 +28016,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Kellner / die Kellnerin",
     "es": "el camarero / la camarera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-waiter.jpg",
-    "pt": "o empregado de mesa / a empregada de mesa / o garçom / a garçonete"
+    "pt": "o empregado de mesa / a empregada de mesa / o garçom / a garçonete",
+    "nl": "de ober / de serveerster"
   },
   {
     "id": "hairdresser",
@@ -28003,7 +28028,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Friseur / die Friseurin",
     "es": "el peluquero / la peluquera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-hairdresser.jpg",
-    "pt": "o cabeleireiro / a cabeleireira"
+    "pt": "o cabeleireiro / a cabeleireira",
+    "nl": "de kapper / de kapster"
   },
   {
     "id": "dentist",
@@ -28014,7 +28040,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Zahnarzt / die Zahnärztin",
     "es": "el dentista / la dentista",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-dentist.jpg",
-    "pt": "o dentista / a dentista"
+    "pt": "o dentista / a dentista",
+    "nl": "de tandarts"
   },
   {
     "id": "engineer",
@@ -28025,7 +28052,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Ingenieur / die Ingenieurin",
     "es": "el ingeniero / la ingeniera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-engineer.jpg",
-    "pt": "o engenheiro / a engenheira"
+    "pt": "o engenheiro / a engenheira",
+    "nl": "de ingenieur"
   },
   {
     "id": "artist",
@@ -28039,7 +28067,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "focalX": 50,
     "focalY": 69,
     "zoom": 1,
-    "pt": "o artista / a artista"
+    "pt": "o artista / a artista",
+    "nl": "de kunstenaar / de kunstenares"
   },
   {
     "id": "scientist",
@@ -28050,7 +28079,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Wissenschaftler / die Wissenschaftlerin",
     "es": "el científico / la científica",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-scientist.jpg",
-    "pt": "o cientista / a cientista"
+    "pt": "o cientista / a cientista",
+    "nl": "de wetenschapper"
   },
   {
     "id": "vet",
@@ -28064,7 +28094,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "focalX": 50,
     "focalY": 57,
     "zoom": 1,
-    "pt": "o veterinário / a veterinária"
+    "pt": "o veterinário / a veterinária",
+    "nl": "de dierenarts"
   },
   {
     "id": "soldier",
@@ -28078,7 +28109,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "focalX": 50,
     "focalY": 35,
     "zoom": 1,
-    "pt": "o soldado / a soldado"
+    "pt": "o soldado / a soldado",
+    "nl": "de soldaat"
   },
   {
     "id": "judge",
@@ -28089,7 +28121,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Richter / die Richterin",
     "es": "el juez / la jueza",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-judge.png",
-    "pt": "o juiz / a juíza"
+    "pt": "o juiz / a juíza",
+    "nl": "de rechter"
   },
   {
     "id": "baker",
@@ -28100,7 +28133,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Bäcker / die Bäckerin",
     "es": "el panadero / la panadera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-baker.jpg",
-    "pt": "o padeiro / a padeira"
+    "pt": "o padeiro / a padeira",
+    "nl": "de bakker / de bakster"
   },
   {
     "id": "fisherman",
@@ -28111,7 +28145,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Fischer / die Fischerin",
     "es": "el pescador / la pescadora",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-fisherman.jpg",
-    "pt": "o pescador / a pescadora"
+    "pt": "o pescador / a pescadora",
+    "nl": "de visser"
   },
   {
     "id": "carpenter",
@@ -28122,7 +28157,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Zimmermann / die Zimmerin",
     "es": "el carpintero / la carpintera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-carpenter.jpg",
-    "pt": "o carpinteiro / a carpinteira"
+    "pt": "o carpinteiro / a carpinteira",
+    "nl": "de timmerman / de timmervrouw"
   },
   {
     "id": "plumber",
@@ -28133,7 +28169,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Klempner / die Klempnerin",
     "es": "el fontanero / la fontanera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-plumber.jpg",
-    "pt": "o canalizador / a canalizadora / o encanador / a encanadora"
+    "pt": "o canalizador / a canalizadora / o encanador / a encanadora",
+    "nl": "de loodgieter"
   },
   {
     "id": "electrician",
@@ -28144,7 +28181,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Elektriker / die Elektrikerin",
     "es": "el electricista / la electricista",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-electrician.jpg",
-    "pt": "o eletricista / a eletricista"
+    "pt": "o eletricista / a eletricista",
+    "nl": "de elektricien"
   },
   {
     "id": "photographer",
@@ -28158,7 +28196,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "focalX": 50,
     "focalY": 65,
     "zoom": 1,
-    "pt": "o fotógrafo / a fotógrafa"
+    "pt": "o fotógrafo / a fotógrafa",
+    "nl": "de fotograaf / de fotografe"
   },
   {
     "id": "astronaut",
@@ -28172,7 +28211,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "focalX": 50,
     "focalY": 28,
     "zoom": 1,
-    "pt": "o astronauta / a astronauta"
+    "pt": "o astronauta / a astronauta",
+    "nl": "de astronaut / de astronaute"
   },
   {
     "id": "architect",
@@ -28183,7 +28223,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Architekt / die Architektin",
     "es": "el arquitecto / la arquitecta",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-architect.jpg",
-    "pt": "o arquiteto / a arquiteta"
+    "pt": "o arquiteto / a arquiteta",
+    "nl": "de architect / de architecte"
   },
   {
     "id": "librarian",
@@ -28194,7 +28235,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "de": "der Bibliothekar / die Bibliothekarin",
     "es": "el bibliotecario / la bibliotecaria",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-librarian.jpg",
-    "pt": "o bibliotecário / a bibliotecária"
+    "pt": "o bibliotecário / a bibliotecária",
+    "nl": "de bibliothecaris / de bibliothecaresse"
   }
 ];
 window.QM_VOCAB_SPORTS_DATA = [
