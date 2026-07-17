@@ -6666,20 +6666,14 @@ window.QM_FEMALE80S_DATA = [
 ];
 window.QM_MALE60S_DATA = [
   {
-    "focalX": 50,
-    "focalY": 16.400017907093698,
-    "zoom": 1,
     "id": "id_1783715420475_xzhiqsml7f",
     "name": "Cliff Richard",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/cliff-richard.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/cliff-richard.jpg?v=1784295256570"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783715420476_rxc6f6w1zp",
     "name": "Tom Jones",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/tom-jones.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/tom-jones.jpg?v=1784294910584"
   },
   {
     "focalX": 50,
@@ -6714,12 +6708,9 @@ window.QM_MALE60S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/frank-ifield.jpg"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783715420476_a4v5cwr1ao",
     "name": "Val Doonican",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/val-doonican.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/val-doonican.jpg?v=1784294910584"
   },
   {
     "focalX": 50,
@@ -6745,7 +6736,7 @@ window.QM_MALE60S_DATA = [
   {
     "id": "id_1783715420476_ofh69zvk9t",
     "name": "Georgie Fame",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/georgie-fame.jpg?v=1784212610856"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/georgie-fame.jpg?v=1784294910584"
   },
   {
     "id": "id_1783715420476_qn4wv2lee7",
@@ -6768,7 +6759,7 @@ window.QM_MALE60S_DATA = [
   {
     "id": "id_1783715420476_6wiz4yqdq5",
     "name": "John Leyton",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/john-leyton.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/john-leyton.jpg?v=1784294910584"
   },
   {
     "focalX": 50,
@@ -6779,12 +6770,9 @@ window.QM_MALE60S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/gerry-marsden.jpg"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783715420476_wx5tx1ajeo",
     "name": "Peter Noone",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/peter-noone.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/peter-noone.jpg?v=1784294910584"
   },
   {
     "id": "id_1783715420476_ygra2d3ptv",
@@ -6890,11 +6878,7 @@ window.QM_MALE60S_DATA = [
   {
     "id": "id_1783812479653_tgyouio63d",
     "name": "Paul Jones (Manfred Mann)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/paul-jones-manfred.png",
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/paul-jones-manfred.jpg?v=1784294910584"
   },
   {
     "id": "id_1783812479653_8zvuzu5h5u",
@@ -6904,11 +6888,7 @@ window.QM_MALE60S_DATA = [
   {
     "id": "id_1783812479653_c09xez1152",
     "name": "Brian Wilson (The Beach Boys)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/brian-wilson.jpg",
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/brian-wilson.jpg?v=1784294910584"
   },
   {
     "id": "id_1783812479653_qz65ye0inu",
@@ -6940,20 +6920,12 @@ window.QM_MALE60S_DATA = [
   {
     "id": "id_1783812479653_m445hw536h",
     "name": "Micky Dolenz (The Monkees)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/micky-dolenz.jpg",
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/micky-dolenz.jpg?v=1784294910584"
   },
   {
     "id": "id_1783812479653_siv3xec88g",
     "name": "Duane Eddy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/duane-eddy.jpg?v=1784212610856",
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/duane-eddy.jpg?v=1784295174024"
   },
   {
     "id": "id_1783812479653_6s5zdvt46e",
@@ -6985,11 +6957,7 @@ window.QM_MALE60S_DATA = [
   {
     "id": "id_1783812479653_h7wtwefbph",
     "name": "Reg Presley (The Troggs)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/reg-presley.png",
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/reg-presley.jpg?v=1784295174024"
   },
   {
     "id": "id_1783812479653_3tixjluvgt",
@@ -7035,20 +7003,12 @@ window.QM_MALE60S_DATA = [
   {
     "id": "id_1783812479653_7ikk69rgo0",
     "name": "Stevie Wonder",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/stevie-wonder.jpg",
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/stevie-wonder.jpg?v=1784294910584"
   },
   {
     "id": "id_1783812479653_t191kz6hsz",
     "name": "Mr. Acker Bilk",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/mr-acker-bilk.jpg",
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/mr-acker-bilk.jpg?v=1784294910584"
   },
   {
     "id": "id_1783812479653_cfn2gg56ho",
@@ -7172,7 +7132,7 @@ window.QM_MALE60S_DATA = [
   {
     "id": "id_1783812479653_ux2f7178oi",
     "name": "Gary Puckett (Gary Puckett And The Union Gap)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/gary-puckett.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/gary-puckett.jpg?v=1784294910584"
   },
   {
     "id": "id_1783812479653_7qmx2unsz5",
@@ -7201,12 +7161,12 @@ window.QM_MALE60S_DATA = [
   {
     "id": "id_1783812479653_vo3m9owubl",
     "name": "Clem Curtis (The Foundations)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/clem-curtis.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/clem-curtis.jpg?v=1784295174024"
   },
   {
     "id": "id_1783812479653_ofjw24g7fw",
     "name": "Allan Clarke (The Hollies)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/allan-clarke.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/allan-clarke.jpg?v=1784295174024"
   },
   {
     "id": "id_1783812479653_dlvupo8l5q",
