@@ -4674,26 +4674,17 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783709881387_v6adetxqdy",
     "name": "Justin Timberlake",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/justin-timberlake.jpg",
-    "focalY": 35,
-    "focalX": 50,
-    "zoom": 1
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/justin-timberlake.jpg?v=1784296172997"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783709881387_6jtyazx3in",
     "name": "Usher",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/usher.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/usher.jpg?v=1784296330871"
   },
   {
-    "focalX": 50,
-    "focalY": 21.79639401088336,
-    "zoom": 1,
     "id": "id_1783709881387_ml9fmt48ei",
     "name": "Robbie Williams",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/robbie-williams.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/robbie-williams.jpg?v=1784296330871"
   },
   {
     "id": "id_1783709881387_iv89jd6spb",
@@ -4721,7 +4712,7 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783709881387_64rdwycq9l",
     "name": "James Blunt",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/james-blunt.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/james-blunt.jpg?v=1784296172997"
   },
   {
     "focalX": 50,
@@ -4732,33 +4723,24 @@ window.QM_MALE00S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/daniel-bedingfield.jpg"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783709881387_dn39c5x3f4",
     "name": "Craig David",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/craig-david.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/craig-david.jpg?v=1784296330871"
   },
   {
     "id": "id_1783709881387_t942v3wd1t",
     "name": "Eminem",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/eminem.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/eminem.jpg?v=1784296365727"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783709881387_bsfddgxwqp",
     "name": "Jay-Z",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/jay-z.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/jay-z.jpg?v=1784296172997"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783709881387_40zyvgm5o2",
     "name": "Kanye West",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/kanye-west.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/kanye-west.jpg?v=1784296172997"
   },
   {
     "focalX": 50,
@@ -4781,7 +4763,7 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783709881387_dapn35s25d",
     "name": "will.i.am",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/william.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/william.jpg?v=1784296429876"
   },
   {
     "focalX": 50,
@@ -4935,7 +4917,7 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783819098206_v3vx1v8bcs",
     "name": "James Dean Bradfield (Manic Street Preachers)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/james-dean-bradfield.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/james-dean-bradfield.jpg?v=1784296172997"
   },
   {
     "focalX": 50,
