@@ -1389,7 +1389,8 @@ window.QM_HIDDEN_QUIZZES = [
   "ukCounties",
   "ballets",
   "nlAdjectives",
-  "rnlAdjectives"
+  "rnlAdjectives",
+  "male80s"
 ];
 window.QM_QUIZ_META = {
   "male90s": {
