@@ -5108,7 +5108,10 @@ window.QM_FEMALE00S_DATA = [
   {
     "id": "id_1783709881388_bbbbt3l6lb",
     "name": "Britney Spears",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/britney-spears-period.jpg?v=1784296789989"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/britney-spears-period.jpg?v=1784296789989",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1
   },
   {
     "id": "id_1783709881388_cjpo7bf81x",
@@ -5767,20 +5770,28 @@ window.QM_MALE80S_DATA = [
     "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 34.02417826856306,
+    "focalY": 13.130458671248752,
+    "zoom": 1.1500000000000001,
     "id": "id_1783716276550_yova6jchuu",
     "name": "Elton John",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/elton-john.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/elton-john.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 37.70503510641452,
+    "focalY": 10.722156657215248,
+    "zoom": 1.35,
     "id": "id_1783716276550_sxeeukb20y",
     "name": "Sting",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/sting-alt.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/sting-alt.webp",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
