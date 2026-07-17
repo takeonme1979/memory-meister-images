@@ -7992,12 +7992,12 @@ window.QM_FEMALE70S_DATA = [
   {
     "id": "id_1784112229105_vc08l6ui9l",
     "name": "Stevie Nicks (Fleetwood Mac)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-70s/stevie-nicks-fleetwood-mac.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-70s/stevie-nicks-fleetwood-mac.jpg?v=1784294166927"
   },
   {
     "id": "id_1784112229105_19o83ub19y",
     "name": "Christine McVie (Fleetwood Mac)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-70s/christine-mcvie-fleetwood-mac.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-70s/christine-mcvie-fleetwood-mac.jpg?v=1784294166927"
   },
   {
     "id": "id_1784112229105_w4p90uoapw",
@@ -8032,7 +8032,7 @@ window.QM_FEMALE70S_DATA = [
   {
     "id": "id_1784112229105_ihfnjdmbhi",
     "name": "Crystal Gayle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-70s/crystal-gayle.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-70s/crystal-gayle.jpg?v=1784294166927"
   },
   {
     "id": "id_1784112229105_pralo43urk",
