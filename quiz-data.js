@@ -7198,7 +7198,7 @@ window.QM_FEMALE60S_DATA = [
   {
     "id": "id_1784112229104_de5mbv55ju",
     "name": "Petula Clark",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-60s/petula-clark.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-60s/petula-clark.jpg?v=1784295615502"
   },
   {
     "id": "id_1784112229104_chz3us419r",
@@ -7208,7 +7208,7 @@ window.QM_FEMALE60S_DATA = [
   {
     "id": "id_1784112229104_1kthgpfoce",
     "name": "Helen Shapiro",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-60s/helen-shapiro.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-60s/helen-shapiro.jpg?v=1784295615502"
   },
   {
     "id": "id_1784112229104_pshvzlp35i",
@@ -7283,7 +7283,7 @@ window.QM_FEMALE60S_DATA = [
   {
     "id": "id_1784112229104_2vor47u56z",
     "name": "Diana Ross (The Supremes)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-60s/diana-ross-the-supremes.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-60s/diana-ross-the-supremes.jpg?v=1784295722190"
   },
   {
     "id": "id_1784112229104_auata4x22q",
@@ -7333,7 +7333,7 @@ window.QM_FEMALE60S_DATA = [
   {
     "id": "id_1784112229104_r4jve9q05y",
     "name": "Barbara Lewis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-60s/barbara-lewis.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-60s/barbara-lewis.jpg?v=1784295615502"
   },
   {
     "id": "id_1784112229104_rav86yhfga",
