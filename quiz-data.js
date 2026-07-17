@@ -7605,7 +7605,7 @@ window.QM_MALE70S_DATA = [
   {
     "id": "id_1784112229105_6ymz178ogh",
     "name": "Rod Stewart",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/rod-stewart.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/rod-stewart.jpg?v=1784293448221"
   },
   {
     "id": "id_1784112229105_w3dq24kvwh",
@@ -7620,17 +7620,17 @@ window.QM_MALE70S_DATA = [
   {
     "id": "id_1784112229105_rowci5h8a9",
     "name": "Robert Plant (Led Zeppelin)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/robert-plant-led-zeppelin.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/robert-plant-led-zeppelin.jpg?v=1784293448221"
   },
   {
     "id": "id_1784112229105_zysv5st9r1",
     "name": "Mick Jagger (The Rolling Stones)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/mick-jagger-the-rolling-stones.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/mick-jagger-the-rolling-stones.jpg?v=1784293620157"
   },
   {
     "id": "id_1784112229105_b6homgovdg",
     "name": "Paul McCartney (Wings)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/paul-mccartney-wings.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/paul-mccartney-wings.jpg?v=1784293448221"
   },
   {
     "id": "id_1784112229105_51yohvb677",
@@ -7665,7 +7665,7 @@ window.QM_MALE70S_DATA = [
   {
     "id": "id_1784112229105_q10ugqrovz",
     "name": "Les Gray (Mud)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/les-gray-mud.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/les-gray-mud.jpg?v=1784293448221"
   },
   {
     "id": "id_1784112229105_z66o4v2qfq",
@@ -7680,12 +7680,12 @@ window.QM_MALE70S_DATA = [
   {
     "id": "id_1784112229105_jcc041xa6i",
     "name": "Jeff Lynne (ELO)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/jeff-lynne-elo.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/jeff-lynne-elo.jpg?v=1784293620157"
   },
   {
     "id": "id_1784112229105_galt0h773l",
     "name": "Bryan Ferry (Roxy Music)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/bryan-ferry-roxy-music.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/bryan-ferry-roxy-music.jpg?v=1784293448221"
   },
   {
     "id": "id_1784112229105_6mhszbbcys",
@@ -7730,7 +7730,7 @@ window.QM_MALE70S_DATA = [
   {
     "id": "id_1784112229105_ua4rg1vo0l",
     "name": "Cliff Richard",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/cliff-richard.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/cliff-richard.jpg?v=1784293448221"
   },
   {
     "id": "id_1784112229105_9qq7v25hiq",
@@ -7815,12 +7815,12 @@ window.QM_MALE70S_DATA = [
   {
     "id": "id_1784112229105_60428yn5yw",
     "name": "Ozzy Osbourne (Black Sabbath)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/ozzy-osbourne-black-sabbath.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/ozzy-osbourne-black-sabbath.jpg?v=1784293448221"
   },
   {
     "id": "id_1784112229105_igrusk9rzt",
     "name": "Ian Gillan (Deep Purple)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/ian-gillan-deep-purple.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/ian-gillan-deep-purple.jpg?v=1784293448221"
   },
   {
     "id": "id_1784112229105_52o4q3z23r",
@@ -7830,7 +7830,7 @@ window.QM_MALE70S_DATA = [
   {
     "id": "id_1784112229105_uo1f3qdw0a",
     "name": "Ian Anderson (Jethro Tull)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/ian-anderson-jethro-tull.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/ian-anderson-jethro-tull.jpg?v=1784293448221"
   },
   {
     "id": "id_1784112229105_8w3m1tqt9o",
@@ -7960,12 +7960,12 @@ window.QM_MALE70S_DATA = [
   {
     "id": "id_1784112229105_ka83pgkxtj",
     "name": "Terry Jacks",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/terry-jacks.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/terry-jacks.jpg?v=1784293448221"
   },
   {
     "id": "id_1784112229105_0vj8li7dp6",
     "name": "Carl Douglas",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/carl-douglas.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/carl-douglas.jpg?v=1784293448221"
   }
 ];
 window.QM_FEMALE70S_DATA = [
