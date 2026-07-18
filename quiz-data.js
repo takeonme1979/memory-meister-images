@@ -10433,167 +10433,266 @@ window.QM_SCOTTISHCOUNTIES_DATA = [
   {
     "id": "sco_aberdeenshire",
     "name": "Aberdeenshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-aberdeenshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-aberdeenshire.svg",
+    "focalX": 44.45406456133386,
+    "focalY": 31.37207753569816,
+    "zoom": 1.5
   },
   {
     "id": "sco_angus",
     "name": "Angus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-angus.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-angus.svg",
+    "focalX": 44.12321898817871,
+    "focalY": 32.711536627009174,
+    "zoom": 1.6
   },
   {
     "id": "sco_argyllshire",
     "name": "Argyllshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-argyllshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-argyllshire.svg",
+    "focalX": 24.59865472255609,
+    "focalY": 42.86733138518025,
+    "zoom": 1.25
   },
   {
     "id": "sco_ayrshire",
     "name": "Ayrshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-ayrshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-ayrshire.svg",
+    "focalX": 51.43780830578927,
+    "focalY": 50.20083849258504,
+    "zoom": 1.5
   },
   {
     "id": "sco_banffshire",
     "name": "Banffshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-banffshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-banffshire.svg",
+    "focalX": 49.041435046073715,
+    "focalY": 23.70183742699382,
+    "zoom": 1.5
   },
   {
     "id": "sco_berwickshire",
     "name": "Berwickshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-berwickshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-berwickshire.svg",
+    "focalX": 54.845947961182326,
+    "focalY": 37.29129735090269,
+    "zoom": 1.45
   },
   {
     "id": "sco_buteshire",
     "name": "Buteshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-buteshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-buteshire.svg",
+    "focalX": 50.479262914413056,
+    "focalY": 47.58461474504542,
+    "zoom": 1.6
   },
   {
     "id": "sco_caithness",
     "name": "Caithness",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-caithness.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-caithness.svg",
+    "focalX": 50,
+    "focalY": 17.999999999999996,
+    "zoom": 1.45
   },
   {
     "id": "sco_clackmannanshire",
     "name": "Clackmannanshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-clackmannanshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-clackmannanshire.svg",
+    "focalX": 51.07835296891695,
+    "focalY": 42.41881293154163,
+    "zoom": 2
   },
   {
     "id": "sco_dumfriesshire",
     "name": "Dumfriesshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-dumfriesshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-dumfriesshire.svg",
+    "focalX": 63.04682978877315,
+    "focalY": 53.80996443248356,
+    "zoom": 1.45
   },
   {
     "id": "sco_dunbartonshire",
     "name": "Dunbartonshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-dunbartonshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-dunbartonshire.svg",
+    "focalX": 52.59604820838343,
+    "focalY": 39.563366937447796,
+    "zoom": 1.5
   },
   {
     "id": "sco_east-lothian",
     "name": "East Lothian",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-east-lothian.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-east-lothian.svg",
+    "focalX": 50.479243351862976,
+    "focalY": 33.82059440244024,
+    "zoom": 1.5
   },
   {
     "id": "sco_fife",
     "name": "Fife",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-fife.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-fife.svg",
+    "focalX": 50,
+    "focalY": 36.6031154109556,
+    "zoom": 1.4000000000000001
   },
   {
     "id": "sco_inverness-shire",
     "name": "Inverness-shire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-inverness-shire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-inverness-shire.svg",
+    "focalX": 50,
+    "focalY": 24.272349810211676,
+    "zoom": 1.4000000000000001
   },
   {
     "id": "sco_kincardineshire",
     "name": "Kincardineshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-kincardineshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-kincardineshire.svg",
+    "focalX": 48.91075721153847,
+    "focalY": 32.0477962176427,
+    "zoom": 1.55
   },
   {
     "id": "sco_kinross-shire",
     "name": "Kinross-shire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-kinross-shire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-kinross-shire.svg",
+    "focalX": 49.782144328653125,
+    "focalY": 33.65107690123047,
+    "zoom": 1.65
   },
   {
     "id": "sco_kirkcudbrightshire",
     "name": "Kirkcudbrightshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-kirkcudbrightshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-kirkcudbrightshire.svg",
+    "focalX": 53.834181565504814,
+    "focalY": 49.076519266491154,
+    "zoom": 1.5
   },
   {
     "id": "sco_lanarkshire",
     "name": "Lanarkshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-lanarkshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-lanarkshire.svg",
+    "focalX": 43.76948429987981,
+    "focalY": 36.43405122597897,
+    "zoom": 1.25
   },
   {
     "id": "sco_midlothian",
     "name": "Midlothian",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-midlothian.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-midlothian.svg",
+    "focalX": 51.96066547384907,
+    "focalY": 34.1091553158187,
+    "zoom": 1.55
   },
   {
     "id": "sco_morayshire",
     "name": "Morayshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-morayshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-morayshire.svg",
+    "focalX": 50,
+    "focalY": 21.613838499009795,
+    "zoom": 1.5
   },
   {
     "id": "sco_nairnshire",
     "name": "Nairnshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-nairnshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-nairnshire.svg",
+    "focalX": 49.4674639144854,
+    "focalY": 20.37165178571428,
+    "zoom": 1.45
   },
   {
     "id": "sco_orkney",
     "name": "Orkney",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-orkney.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-orkney.svg",
+    "focalX": 52.596048208383415,
+    "focalY": 14.72588201383989,
+    "zoom": 1.6
   },
   {
     "id": "sco_peeblesshire",
     "name": "Peeblesshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-peeblesshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-peeblesshire.svg",
+    "focalX": 54.792734480938734,
+    "focalY": 49.54368693527872,
+    "zoom": 1.6500000000000001
   },
   {
     "id": "sco_perthshire",
     "name": "Perthshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-perthshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-perthshire.svg",
+    "focalX": 42.33163686899039,
+    "focalY": 35.8503586296762,
+    "zoom": 1.25
   },
   {
     "id": "sco_renfrewshire",
     "name": "Renfrewshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-renfrewshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-renfrewshire.svg",
+    "focalX": 36.58040364583333,
+    "focalY": 41.96553512802698,
+    "zoom": 1.5
   },
   {
     "id": "sco_ross-and-cromarty",
     "name": "Ross and Cromarty",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-ross-and-cromarty.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-ross-and-cromarty.svg",
+    "focalX": 50,
+    "focalY": 17.999999999999996,
+    "zoom": 1.3
   },
   {
     "id": "sco_roxburghshire",
     "name": "Roxburghshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-roxburghshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-roxburghshire.svg",
+    "focalX": 50.95856495392628,
+    "focalY": 54.153463697587114,
+    "zoom": 1.5
   },
   {
     "id": "sco_selkirkshire",
     "name": "Selkirkshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-selkirkshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-selkirkshire.svg",
+    "focalX": 57.189059313082744,
+    "focalY": 50.60005303134254,
+    "zoom": 1.55
   },
   {
     "id": "sco_shetland",
     "name": "Shetland",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-shetland.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-shetland.svg",
+    "focalX": 62.880374223758004,
+    "focalY": 0,
+    "zoom": 1.4000000000000001
   },
   {
     "id": "sco_stirlingshire",
     "name": "Stirlingshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-stirlingshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-stirlingshire.svg",
+    "focalX": 45.86081338095499,
+    "focalY": 35.712442231935434,
+    "zoom": 1.45
   },
   {
     "id": "sco_sutherland",
     "name": "Sutherland",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-sutherland.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-sutherland.svg",
+    "focalX": 50,
+    "focalY": 17.999999999999996,
+    "zoom": 1.35
   },
   {
     "id": "sco_west-lothian",
     "name": "West Lothian",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-west-lothian.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-west-lothian.svg",
+    "focalX": 53.59455336872328,
+    "focalY": 47.87315314156669,
+    "zoom": 1.6
   },
   {
     "id": "sco_wigtownshire",
     "name": "Wigtownshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-wigtownshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-wigtownshire.svg",
+    "focalX": 54.79271298363096,
+    "focalY": 61.56160950266241,
+    "zoom": 1.8
   }
 ];
 window.QM_WELSHCOUNTIES_DATA = [
