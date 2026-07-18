@@ -1390,7 +1390,6 @@ window.QM_HIDDEN_QUIZZES = [
   "rnlAdjectives",
   "male80s",
   "scottishCounties",
-  "welshCounties",
   "irishCounties"
 ];
 window.QM_QUIZ_META = {
@@ -10699,67 +10698,106 @@ window.QM_WELSHCOUNTIES_DATA = [
   {
     "id": "wal_anglesey",
     "name": "Anglesey",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-anglesey.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-anglesey.svg",
+    "focalX": 66.63016947379238,
+    "focalY": 87.51052538057029,
+    "zoom": 2.25
   },
   {
     "id": "wal_brecknockshire",
     "name": "Brecknockshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-brecknockshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-brecknockshire.svg",
+    "focalX": 70.8300300570198,
+    "focalY": 87.29513246958598,
+    "zoom": 2.1999999999999997
   },
   {
     "id": "wal_caernarfonshire",
     "name": "Caernarfonshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-caernarfonshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-caernarfonshire.svg",
+    "focalX": 67.360267747841,
+    "focalY": 87.3903922951689,
+    "zoom": 2.1999999999999997
   },
   {
     "id": "wal_cardiganshire",
     "name": "Cardiganshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-cardiganshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-cardiganshire.svg",
+    "focalX": 60.565768866550115,
+    "focalY": 86.26462618770876,
+    "zoom": 2.3499999999999996
   },
   {
     "id": "wal_carmarthenshire",
     "name": "Carmarthenshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-carmarthenshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-carmarthenshire.svg",
+    "focalX": 64.9772187583467,
+    "focalY": 88.69573233316288,
+    "zoom": 2.3
   },
   {
     "id": "wal_denbighshire",
     "name": "Denbighshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-denbighshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-denbighshire.svg",
+    "focalX": 77.22874420569761,
+    "focalY": 88.14696109533085,
+    "zoom": 2
   },
   {
     "id": "wal_flintshire",
     "name": "Flintshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-flintshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-flintshire.svg",
+    "focalX": 76.61300766062794,
+    "focalY": 87.84331150674619,
+    "zoom": 2.05
   },
   {
     "id": "wal_glamorgan",
     "name": "Glamorgan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-glamorgan.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-glamorgan.svg",
+    "focalX": 64.91066261574075,
+    "focalY": 89.03318668267721,
+    "zoom": 2.3499999999999996
   },
   {
     "id": "wal_merionethshire",
     "name": "Merionethshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-merionethshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-merionethshire.svg",
+    "focalX": 66.24553651959356,
+    "focalY": 87.14098141943401,
+    "zoom": 2.3
   },
   {
     "id": "wal_monmouthshire",
     "name": "Monmouthshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-monmouthshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-monmouthshire.svg",
+    "focalX": 69.25205496921218,
+    "focalY": 88.80553546331373,
+    "zoom": 2.3
   },
   {
     "id": "wal_montgomeryshire",
     "name": "Montgomeryshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-montgomeryshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-montgomeryshire.svg",
+    "focalX": 65.91866182320284,
+    "focalY": 87.45865515670997,
+    "zoom": 2.4
   },
   {
     "id": "wal_pembrokeshire",
     "name": "Pembrokeshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-pembrokeshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-pembrokeshire.svg",
+    "focalX": 64.30682646922577,
+    "focalY": 86.99679818692513,
+    "zoom": 2.1999999999999997
   },
   {
     "id": "wal_radnorshire",
     "name": "Radnorshire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-radnorshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-radnorshire.svg",
+    "focalX": 67.9726761187465,
+    "focalY": 88.6332485045545,
+    "zoom": 2.15
   }
 ];
 window.QM_IRISHCOUNTIES_DATA = [
