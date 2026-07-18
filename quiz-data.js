@@ -10146,7 +10146,7 @@ window.QM_UKCOUNTIES_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-buckinghamshire.svg",
     "focalX": 96.5385589164886,
     "focalY": 92.51159967033385,
-    "zoom": 1.45
+    "zoom": 1.5
   },
   {
     "id": "cty_2",
@@ -10162,216 +10162,297 @@ window.QM_UKCOUNTIES_DATA = [
     "name": "Cornwall",
     "town": "Truro",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-cornwall.svg",
-    "focalX": 50,
+    "focalX": 41.781346221612424,
     "focalY": 100,
-    "zoom": 1
+    "zoom": 2.05
   },
   {
     "id": "cty_4",
     "name": "County Durham",
     "town": "Durham",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-county-durham.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-county-durham.svg",
+    "focalX": 29.840201548155775,
+    "focalY": 63.012032464934734,
+    "zoom": 1.25
   },
   {
     "id": "cty_5",
     "name": "Cumberland",
     "town": "Carlisle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-cumberland.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-cumberland.svg",
+    "focalX": 65.27678660857372,
+    "focalY": 62.21423746289677,
+    "zoom": 1.8
   },
   {
     "id": "cty_6",
     "name": "Derbyshire",
     "town": "Matlock",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-derbyshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-derbyshire.svg",
+    "focalX": 100,
+    "focalY": 84.14726086414706,
+    "zoom": 1.3499999999999999
   },
   {
     "id": "cty_7",
     "name": "Devon",
     "town": "Exeter",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-devon.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-devon.svg",
+    "focalX": 49.84023917434562,
+    "focalY": 100,
+    "zoom": 1.75
   },
   {
     "id": "cty_8",
     "name": "Dorset",
     "town": "Dorchester",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-dorset.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-dorset.svg",
+    "focalX": 71.04400243514624,
+    "focalY": 100,
+    "zoom": 1.6
   },
   {
     "id": "cty_9",
     "name": "East Sussex",
     "town": "Lewes",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-east-sussex.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-east-sussex.svg",
+    "focalX": 100,
+    "focalY": 97.51233155195587,
+    "zoom": 2.25
   },
   {
     "id": "cty_10",
     "name": "Essex",
     "town": "Chelmsford",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-essex.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-essex.svg",
+    "focalX": 100,
+    "focalY": 91.50990596205784,
+    "zoom": 2.0999999999999996
   },
   {
     "id": "cty_11",
     "name": "Gloucestershire",
     "town": "Gloucester",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-gloucestershire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-gloucestershire.svg",
+    "focalX": 59.585440872061966,
+    "focalY": 96.72123582397056,
+    "zoom": 1.75
   },
   {
     "id": "cty_12",
     "name": "Hampshire",
     "town": "Winchester",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-hampshire.svg",
-    "focalX": 50,
+    "focalX": 75.84432736791744,
     "focalY": 100,
-    "zoom": 1
+    "zoom": 1.55
   },
   {
     "id": "cty_13",
     "name": "Herefordshire",
     "town": "Hereford",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-herefordshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-herefordshire.svg",
+    "focalX": 68.51730524521051,
+    "focalY": 97.16883397752139,
+    "zoom": 1.55
   },
   {
     "id": "cty_14",
     "name": "Hertfordshire",
     "town": "Hertford",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-hertfordshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-hertfordshire.svg",
+    "focalX": 100,
+    "focalY": 91.68953466296703,
+    "zoom": 1.7
   },
   {
     "id": "cty_15",
     "name": "Isle of Wight",
     "town": "Newport",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-isle-of-wight.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-isle-of-wight.svg",
+    "focalX": 75.91062203431741,
+    "focalY": 97.7168291524387,
+    "zoom": 2.5999999999999996
   },
   {
     "id": "cty_16",
     "name": "Kent",
     "town": "Maidstone",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-kent.svg",
-    "focalX": 50,
-    "focalY": 100,
-    "zoom": 1
+    "focalX": 100,
+    "focalY": 93.55913893462355,
+    "zoom": 2.0999999999999996
   },
   {
     "id": "cty_17",
     "name": "Lancashire",
     "town": "Preston",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-lancashire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-lancashire.svg",
+    "focalX": 100,
+    "focalY": 77.86912151900752,
+    "zoom": 1.2
   },
   {
     "id": "cty_18",
     "name": "Leicestershire",
     "town": "Leicester",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-leicestershire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-leicestershire.svg",
+    "focalX": 95.4839533025568,
+    "focalY": 93.6917360245309,
+    "zoom": 1.55
   },
   {
     "id": "cty_19",
     "name": "Lincolnshire",
     "town": "Lincoln",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-lincolnshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-lincolnshire.svg",
+    "focalX": 100,
+    "focalY": 86.45689941337073,
+    "zoom": 1.45
   },
   {
     "id": "cty_20",
     "name": "Norfolk",
     "town": "Norwich",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-norfolk.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-norfolk.svg",
+    "focalX": 100,
+    "focalY": 89.033039570173,
+    "zoom": 1.45
   },
   {
     "id": "cty_21",
     "name": "North Yorkshire",
     "town": "Northallerton",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-north-yorkshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-north-yorkshire.svg",
+    "focalX": 100,
+    "focalY": 77.49266210435596,
+    "zoom": 1.2
   },
   {
     "id": "cty_22",
     "name": "Northumberland",
     "town": "Morpeth",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-northumberland.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-northumberland.svg",
+    "focalX": 2.432290101662701,
+    "focalY": 60.27459292048493,
+    "zoom": 1.05
   },
   {
     "id": "cty_23",
     "name": "Nottinghamshire",
     "town": "Nottingham",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-nottinghamshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-nottinghamshire.svg",
+    "focalX": 100,
+    "focalY": 93.8640875449462,
+    "zoom": 1.35
   },
   {
     "id": "cty_24",
     "name": "Oxfordshire",
     "town": "Oxford",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-oxfordshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-oxfordshire.svg",
+    "focalX": 100,
+    "focalY": 100,
+    "zoom": 1.4
   },
   {
     "id": "cty_25",
     "name": "Rutland",
     "town": "Oakham",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-rutland.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-rutland.svg",
+    "focalX": 100,
+    "focalY": 87.89692354635261,
+    "zoom": 1.5999999999999999
   },
   {
     "id": "cty_26",
     "name": "Shropshire",
     "town": "Shrewsbury",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-shropshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-shropshire.svg",
+    "focalX": 99.2012393440616,
+    "focalY": 90.05170550079781,
+    "zoom": 1.45
   },
   {
     "id": "cty_27",
     "name": "Somerset",
     "town": "Taunton",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-somerset.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-somerset.svg",
+    "focalX": 60.507105840498646,
+    "focalY": 100,
+    "zoom": 1.6500000000000001
   },
   {
     "id": "cty_28",
     "name": "Staffordshire",
     "town": "Stafford",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-staffordshire.svg",
-    "focalX": 50,
-    "focalY": 67.3024523160763,
-    "zoom": 1
+    "focalX": 100,
+    "focalY": 91.52638460952434,
+    "zoom": 1.4000000000000001
   },
   {
     "id": "cty_29",
     "name": "Suffolk",
     "town": "Ipswich",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-suffolk.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-suffolk.svg",
+    "focalX": 100,
+    "focalY": 89.79493964149931,
+    "zoom": 1.8
   },
   {
     "id": "cty_30",
     "name": "Surrey",
     "town": "Guildford",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-surrey.svg",
-    "focalX": 50,
-    "focalY": 100,
-    "zoom": 1
+    "focalX": 95.06632486979166,
+    "focalY": 91.22652237414788,
+    "zoom": 1.85
   },
   {
     "id": "cty_31",
     "name": "Warwickshire",
     "town": "Warwick",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-warwickshire.svg",
-    "focalX": 50,
-    "focalY": 91.34030109790103,
-    "zoom": 1
+    "focalX": 92.8948035606971,
+    "focalY": 90.43189059201121,
+    "zoom": 1.5
   },
   {
     "id": "cty_32",
     "name": "West Sussex",
     "town": "Chichester",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-west-sussex.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-west-sussex.svg",
+    "focalX": 96.5385589164886,
+    "focalY": 93.3942134611289,
+    "zoom": 1.45
   },
   {
     "id": "cty_33",
     "name": "Westmorland and Furness",
     "town": "Kendal",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-westmorland-and-furness.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-westmorland-and-furness.svg",
+    "focalX": 38.91675900190306,
+    "focalY": 67.36515186127681,
+    "zoom": 1.2
   },
   {
     "id": "cty_34",
     "name": "Wiltshire",
     "town": "Trowbridge",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-wiltshire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-wiltshire.svg",
+    "focalX": 92.9678175184462,
+    "focalY": 95.7224882980371,
+    "zoom": 1.4
   },
   {
     "id": "cty_35",
     "name": "Worcestershire",
     "town": "Worcester",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-worcestershire.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-worcestershire.svg",
+    "focalX": 94.69434694724845,
+    "focalY": 90.97046725446461,
+    "zoom": 1.5
   }
 ];
 window.QM_SYNTHPOPBANDS_DATA = [
