@@ -9790,9 +9790,7 @@ window.QM_USASTATESMAP_DATA = [
 window.QM_LANDMARKS_DATA = [
   {
     "id": "id_1784133075982_1oswmrff",
-    "name": "Eiffel Tower",
-    "city": "Paris",
-    "country": "France",
+    "name": "Eiffel Tower (Paris, France)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/eiffel-tower.webp",
     "focalX": 50.727276239259076,
     "focalY": 0,
@@ -9804,9 +9802,7 @@ window.QM_LANDMARKS_DATA = [
   },
   {
     "id": "id_1784133075982_1p5pw3tw",
-    "name": "Taj Mahal",
-    "city": "Agra",
-    "country": "India",
+    "name": "Taj Mahal (Agra, India)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/taj-mahal.webp",
     "focalX": 50,
     "focalY": 6.00918291199882,
@@ -9818,16 +9814,12 @@ window.QM_LANDMARKS_DATA = [
   },
   {
     "id": "id_1784133075982_1qj2ta0e",
-    "name": "Colosseum",
-    "city": "Rome",
-    "country": "Italy",
+    "name": "Colosseum (Rome, Italy)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/colosseum.jpg"
   },
   {
     "id": "id_1784133075982_1rd8dtj5",
-    "name": "Sydney Opera House",
-    "city": "Sydney",
-    "country": "Australia",
+    "name": "Sydney Opera House (Australia)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/sydney-opera-house.jpg",
     "focalX": 63.4578857421875,
     "focalY": 50,
@@ -9835,9 +9827,7 @@ window.QM_LANDMARKS_DATA = [
   },
   {
     "id": "id_1784133075982_1sso4r21",
-    "name": "Big Ben",
-    "city": "London",
-    "country": "United Kingdom",
+    "name": "Big Ben (London, United Kingdom)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/big-ben.jpg",
     "focalX": 50,
     "focalY": 40.62100963266974,
@@ -9845,51 +9835,37 @@ window.QM_LANDMARKS_DATA = [
   },
   {
     "id": "id_1784133075982_1toonpzy",
-    "name": "Statue of Liberty",
-    "city": "New York City",
-    "country": "United States",
+    "name": "Statue of Liberty (New York City, United States)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/statue-of-liberty.jpg"
   },
   {
     "id": "id_1784133075982_1umcv2vy",
-    "name": "Golden Gate Bridge",
-    "city": "San Francisco",
-    "country": "United States",
+    "name": "Golden Gate Bridge (San Francisco, United States)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/golden-gate-bridge.jpg"
   },
   {
     "id": "id_1784133075982_1vmonug8",
-    "name": "Burj Khalifa",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
+    "name": "Burj Khalifa (Dubai, United Arab Emirates)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/burj-khalifa.jpg"
   },
   {
     "id": "id_1784133075982_1wom2nif",
-    "name": "Leaning Tower of Pisa",
-    "city": "Pisa",
-    "country": "Italy",
+    "name": "Leaning Tower of Pisa (Italy)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/leaning-tower-of-pisa.jpg"
   },
   {
     "id": "id_1784133075982_1xqk2nnr",
-    "name": "Christ the Redeemer",
-    "city": "Rio de Janeiro",
-    "country": "Brazil",
+    "name": "Christ the Redeemer (Rio de Janeiro, Brazil)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/christ-the-redeemer.jpg"
   },
   {
     "id": "id_1784133075982_1y3wqbbe",
-    "name": "Great Wall of China",
-    "city": "Beijing",
-    "country": "China",
+    "name": "Great Wall of China (Beijing)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/great-wall-of-china.jpg"
   },
   {
     "id": "id_1784133075982_1zp6z6db",
-    "name": "Machu Picchu",
-    "city": "Cusco Region",
-    "country": "Peru",
+    "name": "Machu Picchu (Cusco Region, Peru)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/machu-picchu.jpg",
     "focalX": 50,
     "focalY": 50,
@@ -9897,268 +9873,192 @@ window.QM_LANDMARKS_DATA = [
   },
   {
     "id": "id_1784133075982_20yi5y6j",
-    "name": "Petra",
-    "city": "Ma'an",
-    "country": "Jordan",
+    "name": "Petra (Ma'an, Jordan)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/petra.jpg"
   },
   {
     "id": "id_1784133075982_21xgsn7u",
-    "name": "Sagrada Família",
-    "city": "Barcelona",
-    "country": "Spain",
+    "name": "Sagrada Família (Barcelona, Spain)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/sagrada-famlia.jpg"
   },
   {
     "id": "id_1784133075982_22iy9ilx",
-    "name": "Empire State Building",
-    "city": "New York City",
-    "country": "United States",
+    "name": "Empire State Building (New York City, United States)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/empire-state-building.jpg"
   },
   {
     "id": "id_1784133075982_23ty7mlp",
-    "name": "Chrysler Building",
-    "city": "New York City",
-    "country": "United States",
+    "name": "Chrysler Building (New York City, United States)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/chrysler-building.jpg"
   },
   {
     "id": "id_1784133075982_24bdgdwx",
-    "name": "Guggenheim Museum Bilbao",
-    "city": "Bilbao",
-    "country": "Spain",
+    "name": "Guggenheim Museum Bilbao (Spain)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/guggenheim-museum-bilbao.jpg"
   },
   {
     "id": "id_1784133075982_251b7i46",
-    "name": "Fallingwater",
-    "city": "Mill Run",
-    "country": "United States",
+    "name": "Fallingwater (Mill Run, United States)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/fallingwater.jpg"
   },
   {
     "id": "id_1784133075982_261fwxcm",
-    "name": "Notre-Dame Cathedral",
-    "city": "Paris",
-    "country": "France",
+    "name": "Notre-Dame Cathedral (Paris, France)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/notre-dame-cathedral.jpg"
   },
   {
     "id": "id_1784133075982_274yvuwm",
-    "name": "St. Peter's Basilica",
-    "city": "Vatican City",
-    "country": "Vatican City",
+    "name": "St. Peter's Basilica (Vatican City)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/st-peters-basilica.jpg"
   },
   {
     "id": "id_1784133075982_28ay168w",
-    "name": "Neuschwanstein Castle",
-    "city": "Schwangau",
-    "country": "Germany",
+    "name": "Neuschwanstein Castle (Schwangau, Germany)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/neuschwanstein-castle.jpg"
   },
   {
     "id": "id_1784133075982_29rqzn6p",
-    "name": "Brandenburg Gate",
-    "city": "Berlin",
-    "country": "Germany",
+    "name": "Brandenburg Gate (Berlin, Germany)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/brandenburg-gate.jpg"
   },
   {
     "id": "id_1784133075982_2ash1ldz",
-    "name": "Parthenon",
-    "city": "Athens",
-    "country": "Greece",
+    "name": "Parthenon (Athens, Greece)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/parthenon.jpg"
   },
   {
     "id": "id_1784133075982_2bddr11u",
-    "name": "Hagia Sophia",
-    "city": "Istanbul",
-    "country": "Turkey",
+    "name": "Hagia Sophia (Istanbul, Turkey)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/hagia-sophia.jpg"
   },
   {
     "id": "id_1784133075982_2ch5j3uh",
-    "name": "Angkor Wat",
-    "city": "Siem Reap",
-    "country": "Cambodia",
+    "name": "Angkor Wat (Siem Reap, Cambodia)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/angkor-wat.jpg"
   },
   {
     "id": "id_1784133075982_2dkky1eh",
-    "name": "Forbidden City",
-    "city": "Beijing",
-    "country": "China",
+    "name": "Forbidden City (Beijing, China)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/forbidden-city.jpg"
   },
   {
     "id": "id_1784133075982_2e9frssb",
-    "name": "Petronas Towers",
-    "city": "Kuala Lumpur",
-    "country": "Malaysia",
+    "name": "Petronas Towers (Kuala Lumpur, Malaysia)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/petronas-towers.jpg"
   },
   {
     "id": "id_1784133075982_2f72u1h5",
-    "name": "Marina Bay Sands",
-    "city": "Singapore",
-    "country": "Singapore",
+    "name": "Marina Bay Sands (Singapore)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/marina-bay-sands.jpg"
   },
   {
     "id": "id_1784133075982_2g3po1o4",
-    "name": "Gateway Arch",
-    "city": "St. Louis",
-    "country": "United States",
+    "name": "Gateway Arch (St. Louis, United States)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/gateway-arch.jpg"
   },
   {
     "id": "id_1784133075982_2hd8nb7z",
-    "name": "Space Needle",
-    "city": "Seattle",
-    "country": "United States",
+    "name": "Space Needle (Seattle, United States)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/space-needle.jpg"
   },
   {
     "id": "id_1784133075982_2ifwtyyt",
-    "name": "Flatiron Building",
-    "city": "New York City",
-    "country": "United States",
+    "name": "Flatiron Building (New York City, United States)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/flatiron-building.jpg"
   },
   {
     "id": "id_1784133075982_2j6834ct",
-    "name": "Buckingham Palace",
-    "city": "London",
-    "country": "United Kingdom",
+    "name": "Buckingham Palace (London, United Kingdom)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/buckingham-palace.jpg"
   },
   {
     "id": "id_1784133075982_2kpi01g6",
-    "name": "Tower Bridge",
-    "city": "London",
-    "country": "United Kingdom",
+    "name": "Tower Bridge (London, United Kingdom)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/tower-bridge.jpg"
   },
   {
     "id": "id_1784133075982_2l1wm77q",
-    "name": "St. Paul's Cathedral",
-    "city": "London",
-    "country": "United Kingdom",
+    "name": "St. Paul's Cathedral (London, United Kingdom)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/st-pauls-cathedral.jpg"
   },
   {
     "id": "id_1784133075982_2m9yrv10",
-    "name": "Arc de Triomphe",
-    "city": "Paris",
-    "country": "France",
+    "name": "Arc de Triomphe (Paris, France)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/arc-de-triomphe.jpg"
   },
   {
     "id": "id_1784133075982_2ntsqzsd",
-    "name": "Mont-Saint-Michel",
-    "city": "Normandy",
-    "country": "France",
+    "name": "Mont-Saint-Michel (Normandy, France)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/mont-saint-michel.jpg"
   },
   {
     "id": "id_1784133075982_2otxco8w",
-    "name": "Palace of Versailles",
-    "city": "Versailles",
-    "country": "France",
+    "name": "Palace of Versailles (France)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/palace-of-versailles.jpg"
   },
   {
     "id": "id_1784133075982_2pte0aae",
-    "name": "Florence Cathedral",
-    "city": "Florence",
-    "country": "Italy",
+    "name": "Florence Cathedral (Italy)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/florence-cathedral.jpg"
   },
   {
     "id": "id_1784133075982_2qujpv28",
-    "name": "St. Basil's Cathedral",
-    "city": "Moscow",
-    "country": "Russia",
+    "name": "St. Basil's Cathedral (Moscow, Russia)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/st-basils-cathedral.jpg"
   },
   {
     "id": "id_1784133075982_2ruwyo0h",
-    "name": "CN Tower",
-    "city": "Toronto",
-    "country": "Canada",
+    "name": "CN Tower (Toronto, Canada)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/cn-tower.jpg"
   },
   {
     "id": "id_1784133075982_2s9o8nor",
-    "name": "Burj Al Arab",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
+    "name": "Burj Al Arab (Dubai, United Arab Emirates)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/burj-al-arab.jpg"
   },
   {
     "id": "id_1784133075982_2t1445yh",
-    "name": "Atomium",
-    "city": "Brussels",
-    "country": "Belgium",
+    "name": "Atomium (Brussels, Belgium)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/atomium.jpg"
   },
   {
     "id": "id_1784133075982_2uouyylf",
-    "name": "Pyramids of Giza",
-    "city": "Giza",
-    "country": "Egypt",
+    "name": "Pyramids of Giza (Egypt)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/pyramids-of-giza.jpg"
   },
   {
     "id": "id_1784133075982_2vuwho8t",
-    "name": "Stonehenge",
-    "city": "Wiltshire",
-    "country": "United Kingdom",
+    "name": "Stonehenge (Wiltshire, United Kingdom)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/stonehenge.jpg"
   },
   {
     "id": "id_1784133075982_2wsfg54n",
-    "name": "Alhambra",
-    "city": "Granada",
-    "country": "Spain",
+    "name": "Alhambra (Granada, Spain)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/alhambra.jpg"
   },
   {
     "id": "id_1784133075982_2x1l5lyt",
-    "name": "Himeji Castle",
-    "city": "Himeji",
-    "country": "Japan",
+    "name": "Himeji Castle (Japan)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/himeji-castle.jpg"
   },
   {
     "id": "id_1784133075982_2yy0cxpv",
-    "name": "Tokyo Tower",
-    "city": "Tokyo",
-    "country": "Japan",
+    "name": "Tokyo Tower (Japan)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/tokyo-tower.jpg"
   },
   {
     "id": "id_1784133075982_2zphysa2",
-    "name": "One World Trade Center",
-    "city": "New York City",
-    "country": "United States",
+    "name": "One World Trade Center (New York City, United States)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/one-world-trade-center.jpg"
   },
   {
     "id": "id_1784133075982_30tp3c1h",
-    "name": "Willis Tower",
-    "city": "Chicago",
-    "country": "United States",
+    "name": "Willis Tower (Chicago, United States)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/willis-tower.jpg"
   },
   {
     "id": "id_1784133075982_3124c8o5",
-    "name": "The Shard",
-    "city": "London",
-    "country": "United Kingdom",
+    "name": "The Shard (London, United Kingdom)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/the-shard.png"
   }
 ];
