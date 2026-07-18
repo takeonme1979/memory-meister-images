@@ -10686,7 +10686,7 @@ window.QM_IRISHCOUNTIES_DATA = [
   },
   {
     "id": "irl_londonderry",
-    "name": "Londonderry",
+    "name": "Derry / Londonderry",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-londonderry.svg"
   },
   {
