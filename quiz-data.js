@@ -1388,7 +1388,10 @@ window.QM_HIDDEN_QUIZZES = [
   "ballets",
   "nlAdjectives",
   "rnlAdjectives",
-  "male80s"
+  "male80s",
+  "scottishCounties",
+  "welshCounties",
+  "irishCounties"
 ];
 window.QM_QUIZ_META = {
   "male90s": {
@@ -10424,6 +10427,402 @@ window.QM_UKCOUNTIES_DATA = [
     "focalX": 94.69434694724845,
     "focalY": 90.97046725446461,
     "zoom": 1.5
+  }
+];
+window.QM_SCOTTISHCOUNTIES_DATA = [
+  {
+    "id": "sco_aberdeenshire",
+    "name": "Aberdeenshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-aberdeenshire.svg"
+  },
+  {
+    "id": "sco_angus",
+    "name": "Angus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-angus.svg"
+  },
+  {
+    "id": "sco_argyllshire",
+    "name": "Argyllshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-argyllshire.svg"
+  },
+  {
+    "id": "sco_ayrshire",
+    "name": "Ayrshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-ayrshire.svg"
+  },
+  {
+    "id": "sco_banffshire",
+    "name": "Banffshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-banffshire.svg"
+  },
+  {
+    "id": "sco_berwickshire",
+    "name": "Berwickshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-berwickshire.svg"
+  },
+  {
+    "id": "sco_buteshire",
+    "name": "Buteshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-buteshire.svg"
+  },
+  {
+    "id": "sco_caithness",
+    "name": "Caithness",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-caithness.svg"
+  },
+  {
+    "id": "sco_clackmannanshire",
+    "name": "Clackmannanshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-clackmannanshire.svg"
+  },
+  {
+    "id": "sco_dumfriesshire",
+    "name": "Dumfriesshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-dumfriesshire.svg"
+  },
+  {
+    "id": "sco_dunbartonshire",
+    "name": "Dunbartonshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-dunbartonshire.svg"
+  },
+  {
+    "id": "sco_east-lothian",
+    "name": "East Lothian",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-east-lothian.svg"
+  },
+  {
+    "id": "sco_fife",
+    "name": "Fife",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-fife.svg"
+  },
+  {
+    "id": "sco_inverness-shire",
+    "name": "Inverness-shire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-inverness-shire.svg"
+  },
+  {
+    "id": "sco_kincardineshire",
+    "name": "Kincardineshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-kincardineshire.svg"
+  },
+  {
+    "id": "sco_kinross-shire",
+    "name": "Kinross-shire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-kinross-shire.svg"
+  },
+  {
+    "id": "sco_kirkcudbrightshire",
+    "name": "Kirkcudbrightshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-kirkcudbrightshire.svg"
+  },
+  {
+    "id": "sco_lanarkshire",
+    "name": "Lanarkshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-lanarkshire.svg"
+  },
+  {
+    "id": "sco_midlothian",
+    "name": "Midlothian",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-midlothian.svg"
+  },
+  {
+    "id": "sco_morayshire",
+    "name": "Morayshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-morayshire.svg"
+  },
+  {
+    "id": "sco_nairnshire",
+    "name": "Nairnshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-nairnshire.svg"
+  },
+  {
+    "id": "sco_orkney",
+    "name": "Orkney",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-orkney.svg"
+  },
+  {
+    "id": "sco_peeblesshire",
+    "name": "Peeblesshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-peeblesshire.svg"
+  },
+  {
+    "id": "sco_perthshire",
+    "name": "Perthshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-perthshire.svg"
+  },
+  {
+    "id": "sco_renfrewshire",
+    "name": "Renfrewshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-renfrewshire.svg"
+  },
+  {
+    "id": "sco_ross-and-cromarty",
+    "name": "Ross and Cromarty",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-ross-and-cromarty.svg"
+  },
+  {
+    "id": "sco_roxburghshire",
+    "name": "Roxburghshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-roxburghshire.svg"
+  },
+  {
+    "id": "sco_selkirkshire",
+    "name": "Selkirkshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-selkirkshire.svg"
+  },
+  {
+    "id": "sco_shetland",
+    "name": "Shetland",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-shetland.svg"
+  },
+  {
+    "id": "sco_stirlingshire",
+    "name": "Stirlingshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-stirlingshire.svg"
+  },
+  {
+    "id": "sco_sutherland",
+    "name": "Sutherland",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-sutherland.svg"
+  },
+  {
+    "id": "sco_west-lothian",
+    "name": "West Lothian",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-west-lothian.svg"
+  },
+  {
+    "id": "sco_wigtownshire",
+    "name": "Wigtownshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-wigtownshire.svg"
+  }
+];
+window.QM_WELSHCOUNTIES_DATA = [
+  {
+    "id": "wal_anglesey",
+    "name": "Anglesey",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-anglesey.svg"
+  },
+  {
+    "id": "wal_brecknockshire",
+    "name": "Brecknockshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-brecknockshire.svg"
+  },
+  {
+    "id": "wal_caernarfonshire",
+    "name": "Caernarfonshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-caernarfonshire.svg"
+  },
+  {
+    "id": "wal_cardiganshire",
+    "name": "Cardiganshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-cardiganshire.svg"
+  },
+  {
+    "id": "wal_carmarthenshire",
+    "name": "Carmarthenshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-carmarthenshire.svg"
+  },
+  {
+    "id": "wal_denbighshire",
+    "name": "Denbighshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-denbighshire.svg"
+  },
+  {
+    "id": "wal_flintshire",
+    "name": "Flintshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-flintshire.svg"
+  },
+  {
+    "id": "wal_glamorgan",
+    "name": "Glamorgan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-glamorgan.svg"
+  },
+  {
+    "id": "wal_merionethshire",
+    "name": "Merionethshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-merionethshire.svg"
+  },
+  {
+    "id": "wal_monmouthshire",
+    "name": "Monmouthshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-monmouthshire.svg"
+  },
+  {
+    "id": "wal_montgomeryshire",
+    "name": "Montgomeryshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-montgomeryshire.svg"
+  },
+  {
+    "id": "wal_pembrokeshire",
+    "name": "Pembrokeshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-pembrokeshire.svg"
+  },
+  {
+    "id": "wal_radnorshire",
+    "name": "Radnorshire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/welsh-counties-map/county-radnorshire.svg"
+  }
+];
+window.QM_IRISHCOUNTIES_DATA = [
+  {
+    "id": "irl_antrim",
+    "name": "Antrim",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-antrim.svg"
+  },
+  {
+    "id": "irl_armagh",
+    "name": "Armagh",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-armagh.svg"
+  },
+  {
+    "id": "irl_down",
+    "name": "Down",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-down.svg"
+  },
+  {
+    "id": "irl_fermanagh",
+    "name": "Fermanagh",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-fermanagh.svg"
+  },
+  {
+    "id": "irl_londonderry",
+    "name": "Londonderry",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-londonderry.svg"
+  },
+  {
+    "id": "irl_tyrone",
+    "name": "Tyrone",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-tyrone.svg"
+  },
+  {
+    "id": "irl_carlow",
+    "name": "Carlow",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-carlow.svg"
+  },
+  {
+    "id": "irl_cavan",
+    "name": "Cavan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-cavan.svg"
+  },
+  {
+    "id": "irl_clare",
+    "name": "Clare",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-clare.svg"
+  },
+  {
+    "id": "irl_donegal",
+    "name": "Donegal",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-donegal.svg"
+  },
+  {
+    "id": "irl_dublin",
+    "name": "Dublin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-dublin.svg"
+  },
+  {
+    "id": "irl_galway",
+    "name": "Galway",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-galway.svg"
+  },
+  {
+    "id": "irl_kerry",
+    "name": "Kerry",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-kerry.svg"
+  },
+  {
+    "id": "irl_kildare",
+    "name": "Kildare",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-kildare.svg"
+  },
+  {
+    "id": "irl_kilkenny",
+    "name": "Kilkenny",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-kilkenny.svg"
+  },
+  {
+    "id": "irl_laois",
+    "name": "Laois",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-laois.svg"
+  },
+  {
+    "id": "irl_leitrim",
+    "name": "Leitrim",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-leitrim.svg"
+  },
+  {
+    "id": "irl_limerick",
+    "name": "Limerick",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-limerick.svg"
+  },
+  {
+    "id": "irl_longford",
+    "name": "Longford",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-longford.svg"
+  },
+  {
+    "id": "irl_louth",
+    "name": "Louth",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-louth.svg"
+  },
+  {
+    "id": "irl_mayo",
+    "name": "Mayo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-mayo.svg"
+  },
+  {
+    "id": "irl_meath",
+    "name": "Meath",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-meath.svg"
+  },
+  {
+    "id": "irl_monaghan",
+    "name": "Monaghan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-monaghan.svg"
+  },
+  {
+    "id": "irl_offaly",
+    "name": "Offaly",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-offaly.svg"
+  },
+  {
+    "id": "irl_roscommon",
+    "name": "Roscommon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-roscommon.svg"
+  },
+  {
+    "id": "irl_sligo",
+    "name": "Sligo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-sligo.svg"
+  },
+  {
+    "id": "irl_tipperary",
+    "name": "Tipperary",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-tipperary.svg"
+  },
+  {
+    "id": "irl_waterford",
+    "name": "Waterford",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-waterford.svg"
+  },
+  {
+    "id": "irl_westmeath",
+    "name": "Westmeath",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-westmeath.svg"
+  },
+  {
+    "id": "irl_wexford",
+    "name": "Wexford",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-wexford.svg"
+  },
+  {
+    "id": "irl_wicklow",
+    "name": "Wicklow",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-wicklow.svg"
+  },
+  {
+    "id": "irl_cork",
+    "name": "Cork",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/irish-counties-map/county-cork.svg"
   }
 ];
 window.QM_SYNTHPOPBANDS_DATA = [
