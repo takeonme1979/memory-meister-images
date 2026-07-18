@@ -12744,6 +12744,11 @@ window.QM_BIRDS_DATA = [
     "focalX": 50,
     "focalY": 50,
     "zoom": 1
+  },
+  {
+    "id": "id_1784378802072_mandarin",
+    "name": "Mandarin Duck",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/mandarin-duck.jpg"
   }
 ];
 window.QM_ARTWORKS_DATA = [
