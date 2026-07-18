@@ -1386,7 +1386,6 @@ window.QM_HIDDEN_QUIZZES = [
   "rdeAdjectives",
   "resAdjectives",
   "rptAdjectives",
-  "ukCounties",
   "ballets",
   "nlAdjectives",
   "rnlAdjectives",
