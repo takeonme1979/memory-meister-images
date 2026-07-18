@@ -11105,7 +11105,10 @@ window.QM_UKBOYBANDS_DATA = [
   {
     "id": "id_1784133075985_89i44u7p",
     "name": "Boyzone",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/boyzone.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/boyzone.jpg",
+    "focalX": 46.11312555930232,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075985_8atc8iy5",
@@ -11120,7 +11123,10 @@ window.QM_UKBOYBANDS_DATA = [
   {
     "id": "id_1784133075985_8c5yik6k",
     "name": "McFly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/mcfly.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/mcfly.jpg",
+    "focalX": 38.16387610521145,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075985_8d2ifcy6",
@@ -11130,7 +11136,10 @@ window.QM_UKBOYBANDS_DATA = [
   {
     "id": "id_1784133075985_8ef11awt",
     "name": "5ive",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/5ive.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/5ive.jpg",
+    "focalX": 50,
+    "focalY": 28.340737212514128,
+    "zoom": 1
   },
   {
     "id": "id_1784133075985_8fhqrmpi",
@@ -11140,7 +11149,10 @@ window.QM_UKBOYBANDS_DATA = [
   {
     "id": "id_1784133075985_8goqcazf",
     "name": "East 17",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/east-17.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/east-17.jpg",
+    "focalX": 52.496384309497316,
+    "focalY": 50,
+    "zoom": 1.15
   },
   {
     "id": "id_1784133075985_8h66rhm9",
@@ -11175,7 +11187,10 @@ window.QM_UKBOYBANDS_DATA = [
   {
     "id": "id_1784133075985_8ntkyzg6",
     "name": "Triple 8",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/triple-8.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/triple-8.jpg",
+    "focalX": 27.820011234549096,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075985_8o63g8w5",
@@ -11195,27 +11210,42 @@ window.QM_UKBOYBANDS_DATA = [
   {
     "id": "id_1784133075985_8r6f6xdn",
     "name": "Bad Boys Inc",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/bad-boys-inc.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/bad-boys-inc.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1
   },
   {
     "id": "id_1784133075985_8sp2xc8u",
     "name": "Let Loose",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/let-loose.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/let-loose.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1
   },
   {
     "id": "id_1784133075985_8t1wzdjq",
     "name": "Ultimate Kaos",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/ultimate-kaos.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/ultimate-kaos.jpg",
+    "focalX": 25.327087402343736,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075985_8unaarsb",
     "name": "allSTARS*",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/allstars.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/allstars.jpg",
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1.05
   },
   {
     "id": "id_1784133075985_8vu7tcl8",
     "name": "OTT",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/ott.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/ott.jpg",
+    "focalX": 50,
+    "focalY": 1.1417475101509655,
+    "zoom": 1
   },
   {
     "id": "id_1784133075985_8wm01wn0",
@@ -11230,7 +11260,10 @@ window.QM_UKBOYBANDS_DATA = [
   {
     "id": "id_1784133075985_8yvxqo86",
     "name": "North and South",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/north-and-south.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/north-and-south.jpg",
+    "focalX": 50.41229023652918,
+    "focalY": 50,
+    "zoom": 1
   }
 ];
 window.QM_UKGIRLBANDS_DATA = [
@@ -11359,7 +11392,10 @@ window.QM_PUPPIES_DATA = [
   {
     "id": "id_1784133075980_0q5g0xf",
     "name": "Dalmatian",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/puppies/dalmatian.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/puppies/dalmatian.png",
+    "focalX": 29.853368519309043,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075980_11mph8c",
