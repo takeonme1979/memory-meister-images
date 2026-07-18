@@ -1389,7 +1389,6 @@ window.QM_HIDDEN_QUIZZES = [
   "nlAdjectives",
   "rnlAdjectives",
   "male80s",
-  "scottishCounties",
   "irishCounties"
 ];
 window.QM_QUIZ_META = {
