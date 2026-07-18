@@ -12303,11 +12303,6 @@ window.QM_BIRDS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/magpie.jpg"
   },
   {
-    "id": "id_1784133075983_4c4fhyay",
-    "name": "Raven",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/raven.jpg?v=1784375406002"
-  },
-  {
     "id": "id_1784133075983_4dcm4lpw",
     "name": "Crow",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/crow.jpg"
