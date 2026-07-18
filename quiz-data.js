@@ -9828,14 +9828,20 @@ window.QM_LANDMARKS_DATA = [
     "name": "Sydney Opera House",
     "city": "Sydney",
     "country": "Australia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/sydney-opera-house.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/sydney-opera-house.jpg",
+    "focalX": 63.4578857421875,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_1sso4r21",
     "name": "Big Ben",
     "city": "London",
     "country": "United Kingdom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/big-ben.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/big-ben.jpg",
+    "focalX": 50,
+    "focalY": 40.62100963266974,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_1toonpzy",
@@ -9884,7 +9890,10 @@ window.QM_LANDMARKS_DATA = [
     "name": "Machu Picchu",
     "city": "Cusco Region",
     "country": "Peru",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/machu-picchu.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/machu-picchu.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_20yi5y6j",
