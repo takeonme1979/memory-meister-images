@@ -29887,32 +29887,50 @@ window.QM_DOGBREEDS_DATA = [
   {
     "id": "id_1784052298586_1y43gkj7qr",
     "name": "Dalmatian",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/dalmatian.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/dalmatian.jpg",
+    "focalX": 12.481209692228532,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_tmr8why7dm",
     "name": "Chihuahua",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/chihuahua.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/chihuahua.jpg",
+    "focalX": 8.082503786385885,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_nfp65juj96",
     "name": "Great Dane",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/greatdane.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/greatdane.jpg",
+    "focalX": 100,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_bodcaqfy8g",
     "name": "Pug",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/pug.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/pug.jpg",
+    "focalX": 63.194045521854584,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_zckdra4um",
     "name": "Pembroke Welsh Corgi",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/corgi.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/corgi.jpg",
+    "focalX": 23.55752819312547,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_stjgoiwlq9",
     "name": "Dachshund",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/dachshund.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/dachshund.jpg",
+    "focalX": 62.2423185059414,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_y4nvbq36uu",
@@ -29927,12 +29945,18 @@ window.QM_DOGBREEDS_DATA = [
   {
     "id": "id_1784052298586_m7bclajh7m",
     "name": "English Bulldog",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/englishbulldog.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/englishbulldog.jpg",
+    "focalX": 38.27191521139706,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_96uhk39uf7",
     "name": "Golden Retriever",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/goldenretriever.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/goldenretriever.jpg",
+    "focalX": 50,
+    "focalY": 53.52668042452831,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_4oi33pnhak",
@@ -29947,7 +29971,10 @@ window.QM_DOGBREEDS_DATA = [
   {
     "id": "id_1784052298586_10e9h7yr3e",
     "name": "Rottweiler",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/rottweiler.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/rottweiler.jpg",
+    "focalX": 65.59380520595595,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_vcyyrsdz5j",
@@ -29957,7 +29984,10 @@ window.QM_DOGBREEDS_DATA = [
   {
     "id": "id_1784052298586_w9q4kpq6x7",
     "name": "Boxer",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/boxer.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/boxer.jpg",
+    "focalX": 97.28084418055313,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_kqya69ovb6",
@@ -29972,13 +30002,16 @@ window.QM_DOGBREEDS_DATA = [
   {
     "id": "id_1784052298586_1f5kqmg1xl",
     "name": "Bloodhound",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/bloodhound.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/bloodhound.jpg",
+    "focalX": 26.05523003472222,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_u3huakyvm2",
     "name": "Greyhound",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/greyhound.jpg",
-    "focalX": 12,
+    "focalX": 24.705365349264703,
     "focalY": 50,
     "zoom": 1
   },
@@ -30000,12 +30033,18 @@ window.QM_DOGBREEDS_DATA = [
   {
     "id": "id_1784052298586_a37aach47s",
     "name": "Newfoundland",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/newfoundland.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/newfoundland.jpg",
+    "focalX": 29.964591630923206,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_vng87gxm83",
     "name": "Great Pyrenees",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/greatpyrenees.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/greatpyrenees.jpg",
+    "focalX": 39.67825290376106,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_2009l4p9zo",
@@ -30020,22 +30059,34 @@ window.QM_DOGBREEDS_DATA = [
   {
     "id": "id_1784052298586_0w3c313so7",
     "name": "Pomeranian",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/pomeranian.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/pomeranian.jpg",
+    "focalX": 35.80291788395687,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_4ziseet8we",
     "name": "Chow Chow",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/chowchow.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/chowchow.jpg",
+    "focalX": 30.941872191584967,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_wlm5242n19",
     "name": "Akita",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/akita.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/akita.jpg",
+    "focalX": 44.13599749795752,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_iqvhc1rsmp",
     "name": "Shiba Inu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/shibainu.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/shibainu.jpg",
+    "focalX": 71.99012905943627,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_a8jur6tnj",
@@ -30045,12 +30096,18 @@ window.QM_DOGBREEDS_DATA = [
   {
     "id": "id_1784052298586_42yodsq608",
     "name": "Siberian Husky",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/siberianhusky.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/siberianhusky.jpg",
+    "focalX": 66.90147523872125,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_00ados9xbm",
     "name": "Weimaraner",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/weimaraner.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/weimaraner.jpg",
+    "focalX": 100,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_mydl5023ku",
@@ -30060,17 +30117,26 @@ window.QM_DOGBREEDS_DATA = [
   {
     "id": "id_1784052298586_lspewlgapb",
     "name": "Bull Terrier",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/bullterrier.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/bullterrier.jpg",
+    "focalX": 30.07783573086982,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_ehtr8r1hz1",
     "name": "Basenji",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/basenji.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/basenji.jpg",
+    "focalX": 4.065100975285948,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_2l2b7y9op2",
     "name": "Afghan Hound",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/afghanhound.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/afghanhound.jpg",
+    "focalX": 44.66402090974963,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_qy9aeu6y0d",
@@ -30085,7 +30151,10 @@ window.QM_DOGBREEDS_DATA = [
   {
     "id": "id_1784052298586_m3jfovdp1e",
     "name": "Cavalier King Charles Spaniel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/cavalierkingcharles.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/cavalierkingcharles.jpg",
+    "focalX": 22.62883735815415,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_v3rpnfhdys",
@@ -30095,17 +30164,26 @@ window.QM_DOGBREEDS_DATA = [
   {
     "id": "id_1784052298586_j5a1htighh",
     "name": "Yorkshire Terrier",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/yorkshireterrier.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/yorkshireterrier.jpg",
+    "focalX": 74.86869439673856,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_o6cy10z5cj",
     "name": "West Highland White Terrier",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/westhighlandterrier.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/westhighlandterrier.jpg",
+    "focalX": 71.3724447911479,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_565tq1pdzm",
     "name": "Scottish Terrier",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/scottishterrier.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/scottishterrier.jpg",
+    "focalX": 79.36698343517101,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_jm6f1lb1f5",
@@ -30130,7 +30208,10 @@ window.QM_DOGBREEDS_DATA = [
   {
     "id": "id_1784052298586_8ucvtxhel3",
     "name": "Papillon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/papillon.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/papillon.jpg",
+    "focalX": 0,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_gru7k353v3",
@@ -30140,37 +30221,58 @@ window.QM_DOGBREEDS_DATA = [
   {
     "id": "id_1784052298586_8vjp6mg3zf",
     "name": "Old English Sheepdog",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/oldenglishsheepdog.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/oldenglishsheepdog.jpg",
+    "focalX": 21.657188265931374,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_jw2ow5hu6t",
     "name": "Cane Corso",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/canecorso.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/canecorso.jpg",
+    "focalX": 22.725705620869824,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_7s8mm3yc5r",
     "name": "Neapolitan Mastiff",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/neapolitanmastiff.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/neapolitanmastiff.jpg",
+    "focalX": 30.453271803513072,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_1d6emi6ibe",
     "name": "Pekingese",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/pekingese.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/pekingese.jpg",
+    "focalX": 36.428848887733324,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_hzotsp7v7b",
     "name": "Bichon Frise",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/bichonfrise.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/bichonfrise.jpg",
+    "focalX": 24.968491983701853,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_d97v70vilh",
     "name": "Komondor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/komondor.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/komondor.jpg",
+    "focalX": 56.35268267463235,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_b0z8k9557b",
     "name": "Chinese Crested",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/chinesecrested.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/chinesecrested.jpg",
+    "focalX": 82.25217333026961,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784052298586_96jf0szhgr",
@@ -30188,6 +30290,9 @@ window.QM_DOGBREEDS_DATA = [
   {
     "id": "id_1784052298586_2tjy5pvec7",
     "name": "Keeshond",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/keeshond.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/dogbreeds/keeshond.jpg",
+    "focalX": 68.08076746323529,
+    "focalY": 50,
+    "zoom": 1
   }
 ];
