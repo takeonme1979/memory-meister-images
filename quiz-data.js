@@ -11232,14 +11232,6 @@ window.QM_UKBOYBANDS_DATA = [
     "zoom": 1
   },
   {
-    "id": "id_1784133075985_8unaarsb",
-    "name": "allSTARS*",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/allstars.jpg",
-    "focalX": 0,
-    "focalY": 0,
-    "zoom": 1.05
-  },
-  {
     "id": "id_1784133075985_8vu7tcl8",
     "name": "OTT",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/ott.jpg",
