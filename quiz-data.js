@@ -1411,6 +1411,8 @@ window.QM_QUIZ_META = {
 window.QM_CATEGORY_META = {};
 window.QM_CATEGORY_ORDER = [];
 window.QM_QUIZ_ORDER = {};
+window.QM_VOCAB_LANG_META = {};
+window.QM_VOCAB_CAT_META = {};
 window.QM_MUSICIANS_DATA = [
   {
     "id": "id_1783551205698_3q5hykqivs",
