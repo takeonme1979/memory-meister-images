@@ -9792,14 +9792,28 @@ window.QM_LANDMARKS_DATA = [
     "name": "Eiffel Tower",
     "city": "Paris",
     "country": "France",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/eiffel-tower.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/eiffel-tower.webp",
+    "focalX": 50.727276239259076,
+    "focalY": 0,
+    "zoom": 1.0999999999999999,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075982_1p5pw3tw",
     "name": "Taj Mahal",
     "city": "Agra",
     "country": "India",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/taj-mahal.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/taj-mahal.webp",
+    "focalX": 50,
+    "focalY": 6.00918291199882,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075982_1qj2ta0e",
