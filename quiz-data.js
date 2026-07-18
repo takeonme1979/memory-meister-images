@@ -10194,9 +10194,9 @@ window.QM_UKCOUNTIES_DATA = [
     "name": "Cumberland",
     "town": "Carlisle",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-cumberland.svg",
-    "focalX": 65.27678660857372,
-    "focalY": 62.21423746289677,
-    "zoom": 1.8
+    "focalX": 68.31972574770427,
+    "focalY": 61.61408536467299,
+    "zoom": 1.5
   },
   {
     "id": "cty_6",
