@@ -1373,7 +1373,6 @@ window.QM_HIDDEN_QUIZZES = [
   "ukGirlbands",
   "puppies",
   "birds",
-  "landmarks",
   "itAdjectives",
   "plAdjectives",
   "frAdjectives",
@@ -9836,7 +9835,10 @@ window.QM_LANDMARKS_DATA = [
   {
     "id": "id_1784133075982_1toonpzy",
     "name": "Statue of Liberty (New York City, United States)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/statue-of-liberty.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/statue-of-liberty.jpg",
+    "focalX": 48.50127698770472,
+    "focalY": 13.91585066511829,
+    "zoom": 1.1
   },
   {
     "id": "id_1784133075982_1umcv2vy",
@@ -9884,12 +9886,18 @@ window.QM_LANDMARKS_DATA = [
   {
     "id": "id_1784133075982_22iy9ilx",
     "name": "Empire State Building (New York City, United States)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/empire-state-building.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/empire-state-building.jpg",
+    "focalX": 50,
+    "focalY": 20.579926467493546,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_23ty7mlp",
     "name": "Chrysler Building (New York City, United States)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/chrysler-building.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/chrysler-building.jpg",
+    "focalX": 50,
+    "focalY": 52.36758185049389,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_24bdgdwx",
@@ -9949,7 +9957,10 @@ window.QM_LANDMARKS_DATA = [
   {
     "id": "id_1784133075982_2f72u1h5",
     "name": "Marina Bay Sands (Singapore)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/marina-bay-sands.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/marina-bay-sands.jpg",
+    "focalX": 61.85789255599897,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_2g3po1o4",
@@ -9959,17 +9970,26 @@ window.QM_LANDMARKS_DATA = [
   {
     "id": "id_1784133075982_2hd8nb7z",
     "name": "Space Needle (Seattle, United States)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/space-needle.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/space-needle.jpg",
+    "focalX": 8.59464633821531,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_2ifwtyyt",
     "name": "Flatiron Building (New York City, United States)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/flatiron-building.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/flatiron-building.jpg",
+    "focalX": 50,
+    "focalY": 100,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_2j6834ct",
     "name": "Buckingham Palace (London, United Kingdom)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/buckingham-palace.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/buckingham-palace.jpg",
+    "focalX": 84.45365462101307,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_2kpi01g6",
@@ -9984,22 +10004,34 @@ window.QM_LANDMARKS_DATA = [
   {
     "id": "id_1784133075982_2m9yrv10",
     "name": "Arc de Triomphe (Paris, France)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/arc-de-triomphe.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/arc-de-triomphe.jpg",
+    "focalX": 40.2085179312065,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_2ntsqzsd",
     "name": "Mont-Saint-Michel (Normandy, France)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/mont-saint-michel.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/mont-saint-michel.jpg",
+    "focalX": 97.70330414792708,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_2otxco8w",
     "name": "Palace of Versailles (France)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/palace-of-versailles.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/palace-of-versailles.jpg",
+    "focalX": 50.56607171599106,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_2pte0aae",
     "name": "Florence Cathedral (Italy)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/florence-cathedral.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/florence-cathedral.jpg",
+    "focalX": 50,
+    "focalY": 17.04032838364813,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_2qujpv28",
@@ -10009,12 +10041,18 @@ window.QM_LANDMARKS_DATA = [
   {
     "id": "id_1784133075982_2ruwyo0h",
     "name": "CN Tower (Toronto, Canada)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/cn-tower.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/cn-tower.jpg",
+    "focalX": 50,
+    "focalY": 20.529475450015646,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_2s9o8nor",
     "name": "Burj Al Arab (Dubai, United Arab Emirates)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/burj-al-arab.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/burj-al-arab.jpg",
+    "focalX": 24.79893689215295,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_2t1445yh",
@@ -10044,7 +10082,10 @@ window.QM_LANDMARKS_DATA = [
   {
     "id": "id_1784133075982_2yy0cxpv",
     "name": "Tokyo Tower (Japan)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/tokyo-tower.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/tokyo-tower.jpg",
+    "focalX": 50,
+    "focalY": 17.999999999999996,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_2zphysa2",
@@ -10054,12 +10095,18 @@ window.QM_LANDMARKS_DATA = [
   {
     "id": "id_1784133075982_30tp3c1h",
     "name": "Willis Tower (Chicago, United States)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/willis-tower.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/willis-tower.jpg",
+    "focalX": 50,
+    "focalY": 12.355749610609504,
+    "zoom": 1
   },
   {
     "id": "id_1784133075982_3124c8o5",
     "name": "The Shard (London, United Kingdom)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/the-shard.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/the-shard.png",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   }
 ];
 window.QM_UKCOUNTIES_DATA = [
