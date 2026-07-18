@@ -27695,11 +27695,11 @@ window.QM_BALLETPIX_DATA = [
   },
   {
     "id": 15,
-    "name": "Jewels (Fauré/Stravinsky/Tchaikovsky)",
+    "name": "Emeralds (Jewels) (Fauré/Stravinsky/Tchaikovsky)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/ballet-photos/jewels.jpg",
     "focalX": 6.997102226307189,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1.05
   },
   {
     "id": 16,
