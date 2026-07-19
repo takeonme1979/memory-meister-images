@@ -10975,10 +10975,7 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784133075984_4nsbzgys",
     "name": "The Human League",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/the-human-league.jpg?v=1784212610856",
-    "focalX": 46.94274003959053,
-    "focalY": 50,
-    "zoom": 1
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/the-human-league.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_4oiv4a47",
@@ -10988,12 +10985,12 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784133075984_4p0y0ve3",
     "name": "Ultravox",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/ultravox.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/ultravox.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_4qj1x78k",
     "name": "Spandau Ballet",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/spandau-ballet.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/spandau-ballet.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_4ruqssb8",
@@ -11006,15 +11003,12 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784133075984_4sza9cpe",
     "name": "Eurythmics",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/eurythmics.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/eurythmics.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_4tnvzxla",
     "name": "Orchestral Manoeuvres in the Dark",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/orchestral-manoeuvres-in-the-dark.jpg?v=1784212610856",
-    "focalX": 0,
-    "focalY": 50,
-    "zoom": 1
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/orchestral-manoeuvres-in-the-dark.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_4uvf1n6v",
@@ -11034,7 +11028,7 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784133075984_4xxyuj9z",
     "name": "Talk Talk",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/talk-talk.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/talk-talk.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_4y1at2ak",
@@ -11044,17 +11038,17 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784133075984_4zl1b6o1",
     "name": "Visage",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/visage.jpg?v=1784212853831"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/visage.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_502tpxle",
     "name": "Heaven 17",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/heaven-17.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/heaven-17.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_51so05kg",
     "name": "Yazoo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/yazoo.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/yazoo.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_525rpytp",
@@ -11069,7 +11063,7 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784133075984_54jm55h2",
     "name": "Culture Club",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/culture-club.jpg?v=1784212610856"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/culture-club.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_55hgc9pi",
@@ -11084,7 +11078,7 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784133075984_57ag1gsl",
     "name": "The B-52's",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/the-b-52s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/the-b-52s.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_58ifro4g",
@@ -11094,17 +11088,17 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784133075984_59r9aksi",
     "name": "Howard Jones",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/howard-jones.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/howard-jones.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_5ah581ux",
     "name": "Bronski Beat",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/bronski-beat.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/bronski-beat.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_5bhtsphl",
     "name": "ABC",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/abc.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/abc.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_5c7i2x1f",
@@ -11134,7 +11128,7 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784133075984_5hepjmv7",
     "name": "Frankie Goes to Hollywood",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/frankie-goes-to-hollywood.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/frankie-goes-to-hollywood.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_5iniyhlx",
@@ -11144,7 +11138,7 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784133075984_5j5c9nmk",
     "name": "China Crisis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/china-crisis.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/china-crisis.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_5kth167f",
@@ -11154,12 +11148,12 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784133075984_5lao1gig",
     "name": "Propaganda",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/propaganda.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/propaganda.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_5m8w1p5g",
     "name": "Gary Numan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/gary-numan.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/gary-numan.jpg?v=1784485606001"
   },
   {
     "id": "id_1784133075984_5nctof33",
