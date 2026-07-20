@@ -10035,22 +10035,38 @@ window.QM_MENSTENNIS_DATA = [
   {
     "id": "id_1784131543315_rhkbvh3",
     "name": "Andre Agassi",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/andre-agassi.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/andre-agassi.jpg",
+    "focalX": 50,
+    "focalY": 0,
+    "zoom": 1
   },
   {
     "id": "id_1784131543315_sfis85f",
     "name": "Jim Courier",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/jim-courier.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/jim-courier.jpg",
+    "focalX": 6.06668586404921,
+    "focalY": 17.250851556628884,
+    "zoom": 1.1500000000000001
   },
   {
     "id": "id_1784131543315_trxe3rx",
     "name": "Sergi Bruguera",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/sergi-bruguera.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/sergi-bruguera.jpg",
+    "focalX": 38.018198909922546,
+    "focalY": 88.33782193861352,
+    "zoom": 1.3,
+    "brightness": 1.1,
+    "contrast": 1.03,
+    "saturation": 1,
+    "gamma": 0.65
   },
   {
     "id": "id_1784131543315_uubtxuz",
     "name": "Thomas Muster",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/thomas-muster.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/thomas-muster.jpg",
+    "focalX": 94.87723681754443,
+    "focalY": 12.199985723225982,
+    "zoom": 1.55
   },
   {
     "id": "id_1784131543315_vjtpvsb",
