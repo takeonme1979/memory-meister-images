@@ -10064,19 +10064,25 @@ window.QM_MENSTENNIS_DATA = [
     "id": "id_1784131543315_uubtxuz",
     "name": "Thomas Muster",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/thomas-muster.jpg",
-    "focalX": 94.87723681754443,
-    "focalY": 12.199985723225982,
-    "zoom": 1.55
+    "focalX": 81.74239591003746,
+    "focalY": 7.240921184779192,
+    "zoom": 1.5999999999999999
   },
   {
     "id": "id_1784131543315_vjtpvsb",
     "name": "Gustavo Kuerten",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/gustavo-kuerten.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/gustavo-kuerten.jpg",
+    "focalX": 30.55526118575435,
+    "focalY": 59.51821184038432,
+    "zoom": 1.7
   },
   {
     "id": "id_1784131543315_wrj02al",
     "name": "Petr Korda",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/petr-korda.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/petr-korda.jpg",
+    "focalX": 33.22545565091646,
+    "focalY": 0,
+    "zoom": 1.25
   },
   {
     "id": "id_1784131543315_xmmahgk",
@@ -10086,47 +10092,90 @@ window.QM_MENSTENNIS_DATA = [
   {
     "id": "id_1784131543315_yvmizx6",
     "name": "Yevgeny Kafelnikov",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/yevgeny-kafelnikov.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/yevgeny-kafelnikov.jpg",
+    "focalX": 50,
+    "focalY": 38.95267636367636,
+    "zoom": 1
   },
   {
     "id": "id_1784131543315_zptfjyy",
     "name": "Patrick Rafter",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/patrick-rafter.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/patrick-rafter.jpg",
+    "focalX": 47.73349419325412,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784131543315_101mpr3j",
     "name": "Richard Krajicek",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/richard-krajicek.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/richard-krajicek.webp",
+    "focalX": 52.795749240451386,
+    "focalY": 2.531508495284092,
+    "zoom": 1.3,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_11uprp7q",
     "name": "Michael Stich",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/michael-stich.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/michael-stich.jpg",
+    "focalX": 68.63560019852872,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_12jxy9x8",
     "name": "Goran Ivanišević",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/goran-ivanievi.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/goran-ivanievi.jpg",
+    "focalX": 48.25719019749781,
+    "focalY": 59.20291534102482,
+    "zoom": 1.55
   },
   {
     "id": "id_1784131543315_137vr3nn",
     "name": "Marat Safin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/marat-safin.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/marat-safin.png",
+    "focalX": 45.852892808461725,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_145rsjuy",
     "name": "Lleyton Hewitt",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/lleyton-hewitt.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/lleyton-hewitt.jpg",
+    "focalX": 50,
+    "focalY": 5.238049407882753,
+    "zoom": 1
   },
   {
     "id": "id_1784131543315_15ncyge6",
     "name": "Albert Costa",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/albert-costa.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/albert-costa.jpg",
+    "focalX": 80.35364395532848,
+    "focalY": 0,
+    "zoom": 1.05,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_16yqgsqi",
     "name": "Juan Carlos Ferrero",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/juan-carlos-ferrero.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/juan-carlos-ferrero.jpg",
+    "focalX": 51.91712990785257,
+    "focalY": 48.348416626908396,
+    "zoom": 1.25
   },
   {
     "id": "id_1784131543315_17g2hjma",
@@ -10136,27 +10185,50 @@ window.QM_MENSTENNIS_DATA = [
   {
     "id": "id_1784131543315_18xiiv3d",
     "name": "Andy Roddick",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/andy-roddick.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/andy-roddick.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784131543315_195e3wvo",
     "name": "Gastón Gaudio",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/gastn-gaudio.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/gastn-gaudio.webp",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_1a0hmfx3",
     "name": "Rafael Nadal",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/rafael-nadal.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/rafael-nadal.jpg",
+    "focalX": 57.68764825812055,
+    "focalY": 6.4103410050675675,
+    "zoom": 1.5
   },
   {
     "id": "id_1784131543315_1bokbrr6",
     "name": "Novak Djokovic",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/novak-djokovic.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/novak-djokovic.jpg",
+    "focalX": 50.479282476963135,
+    "focalY": 0.11591361420606064,
+    "zoom": 1.25
   },
   {
     "id": "id_1784131543315_1cs2gsws",
     "name": "Juan Martín del Potro",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/juan-martn-del-potro.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/juan-martn-del-potro.jpg",
+    "focalX": 50.39940206413595,
+    "focalY": 0,
+    "zoom": 1.25,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.8
   },
   {
     "id": "id_1784131543315_1dzmup3j",
@@ -10166,32 +10238,66 @@ window.QM_MENSTENNIS_DATA = [
   {
     "id": "id_1784131543315_1e6yg6p5",
     "name": "Stan Wawrinka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/stan-wawrinka.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/stan-wawrinka.jpg",
+    "focalX": 45.001679741904596,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784131543315_1fs2nkpm",
     "name": "Marin Čilić",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/marin-ili.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/marin-ili.jpg",
+    "focalX": 65.34289585260082,
+    "focalY": 25.943900443412176,
+    "zoom": 1.1500000000000001,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.82
   },
   {
     "id": "id_1784131543315_1g6gj42g",
     "name": "Dominic Thiem",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/dominic-thiem.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/dominic-thiem.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.69
   },
   {
     "id": "id_1784131543315_1hddl2hl",
     "name": "Daniil Medvedev",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/daniil-medvedev.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/daniil-medvedev.jpg",
+    "focalX": 35.62172131660659,
+    "focalY": 0,
+    "zoom": 1.1
   },
   {
     "id": "id_1784131543315_1iqn01d0",
     "name": "Carlos Alcaraz",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/carlos-alcaraz.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/carlos-alcaraz.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.88,
+    "focalX": 50,
+    "focalY": 0,
+    "zoom": 1
   },
   {
     "id": "id_1784131543315_1jymtkj2",
     "name": "Jannik Sinner",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/jannik-sinner.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/jannik-sinner.jpg",
+    "focalX": 51.8414728855858,
+    "focalY": 6.699052219071776,
+    "zoom": 1.1500000000000001,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.78
   },
   {
     "id": "id_1784549728339_majqft1f",
@@ -10199,7 +10305,11 @@ window.QM_MENSTENNIS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/alexander-zverev.jpg",
     "focalX": 24,
     "focalY": 40,
-    "zoom": 1
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.73
   }
 ];
 window.QM_WOMENSTENNIS_DATA = [
