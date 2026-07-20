@@ -1352,6 +1352,7 @@ window.QM_CAPS_DATA = [
     "continent": "Africa"
   }
 ];
+window.QM_FLAGS_DATA = [];
 window.QM_HIDDEN_QUIZZES = [
   "male60s",
   "startrek",
@@ -9012,6 +9013,14 @@ window.QM_MENSTENNIS_DATA = [
     "id": "id_1784131543315_1jymtkj2",
     "name": "Jannik Sinner",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/jannik-sinner.jpg"
+  },
+  {
+    "id": "id_1784549728339_majqft1f",
+    "name": "Alexander Zverev",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/alexander-zverev.jpg",
+    "focalX": 24,
+    "focalY": 40,
+    "zoom": 1
   }
 ];
 window.QM_WOMENSTENNIS_DATA = [
@@ -9264,6 +9273,16 @@ window.QM_WOMENSTENNIS_DATA = [
     "id": "id_1784131543317_2x38u9vj",
     "name": "Madison Keys",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/womens-tennis/madison-keys.jpg"
+  },
+  {
+    "id": "id_1784549729103_47am2t70",
+    "name": "Mirra Andreeva",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/womens-tennis/mirra-andreeva.jpg"
+  },
+  {
+    "id": "id_1784549729700_6o8fw410",
+    "name": "Linda Nosková",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/womens-tennis/linda-noskova.jpg"
   }
 ];
 window.QM_MENSSNOOKER_DATA = [
