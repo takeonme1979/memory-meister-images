@@ -8630,7 +8630,7 @@ window.QM_MENSTENNIS_DATA = [
     "name": "Ken Rosewall",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/ken-rosewall.jpg",
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 19.362707256065086,
     "zoom": 1
   },
   {
@@ -8641,37 +8641,66 @@ window.QM_MENSTENNIS_DATA = [
   {
     "id": "id_1784131543315_32l2qr4",
     "name": "Arthur Ashe",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/arthur-ashe.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/arthur-ashe.jpg",
+    "focalX": 89.69966529780983,
+    "focalY": 0,
+    "zoom": 1.3
   },
   {
     "id": "id_1784131543315_4z6rb1y",
     "name": "Stan Smith",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/stan-smith.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/stan-smith.jpg",
+    "focalX": 48.006373945687045,
+    "focalY": 10.003623607112724,
+    "zoom": 1.85
   },
   {
     "id": "id_1784131543315_5dkxlzt",
     "name": "Ilie Năstase",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/ilie-nstase.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/ilie-nstase.webp",
+    "focalX": 60.90350028796073,
+    "focalY": 10.177873991968584,
+    "zoom": 1.25,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_62wrr9a",
     "name": "Jan Kodeš",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/jan-kode.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/jan-kode.jpg",
+    "focalX": 61.21484375,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784131543315_7hnrh4c",
     "name": "Jimmy Connors",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/jimmy-connors.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/jimmy-connors.jpg",
+    "focalX": 45.64103187271581,
+    "focalY": 14.313130977874158,
+    "zoom": 1.65
   },
   {
     "id": "id_1784131543315_8wdqvbe",
     "name": "Björn Borg",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/bjrn-borg.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/bjrn-borg.webp",
+    "focalX": 6.4661531366853735,
+    "focalY": 0,
+    "zoom": 1.3,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_9o0a5s8",
     "name": "Guillermo Vilas",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/guillermo-vilas.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/guillermo-vilas.jpg",
+    "focalX": 45.28753893490351,
+    "focalY": 28.616218398393915,
+    "zoom": 1.95
   },
   {
     "id": "id_1784131543315_ar3pxci",
@@ -8681,27 +8710,62 @@ window.QM_MENSTENNIS_DATA = [
   {
     "id": "id_1784131543315_bz8lhnn",
     "name": "Adriano Panatta",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/adriano-panatta.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/adriano-panatta.jpg",
+    "focalX": 36.83294505315582,
+    "focalY": 17.11039893586074,
+    "zoom": 2.0500000000000003,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_cs9tvkw",
     "name": "Vitas Gerulaitis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/vitas-gerulaitis.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/vitas-gerulaitis.jpg",
+    "focalX": 42.45706470640981,
+    "focalY": 0,
+    "zoom": 1.9000000000000001,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_d5j6q68",
     "name": "Roscoe Tanner",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/roscoe-tanner.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/roscoe-tanner.jpg",
+    "focalX": 72.3366073531195,
+    "focalY": 42.21827969287872,
+    "zoom": 2.25,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_ekrf1tj",
     "name": "Brian Teacher",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/brian-teacher.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/brian-teacher.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_fur2qj3",
     "name": "Mark Edmondson",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/mark-edmondson.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/mark-edmondson.jpg",
+    "focalX": 43.609740863158834,
+    "focalY": 17.707975841839342,
+    "zoom": 1.45,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_gxbzekt",
