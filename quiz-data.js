@@ -2568,6 +2568,11 @@ window.QM_QUIZ_META = {
     "title": "Tech and Chat Acronyms",
     "promptText": "What does this stand for?",
     "desc": "100 common internet and technology abbreviations."
+  },
+  "mensTennis": {
+    "title": "Men's Tennis Grand Slam Champions",
+    "promptText": "Name the champ.",
+    "desc": "Open Era men's Grand Slam champions."
   }
 };
 window.QM_CATEGORY_META = {};
