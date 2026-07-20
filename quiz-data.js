@@ -8770,17 +8770,34 @@ window.QM_MENSTENNIS_DATA = [
   {
     "id": "id_1784131543315_gxbzekt",
     "name": "Johan Kriek",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/johan-kriek.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/johan-kriek.jpg",
+    "focalX": 68.45197107037927,
+    "focalY": 0,
+    "zoom": 1.75,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_h0xxw92",
     "name": "John McEnroe",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/john-mcenroe.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/john-mcenroe.jpg",
+    "focalX": 28.432810204660825,
+    "focalY": 0,
+    "zoom": 1.1500000000000001
   },
   {
     "id": "id_1784131543315_ifntxgz",
     "name": "Mats Wilander",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/mats-wilander.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/mats-wilander.png",
+    "focalX": 31.966894470754042,
+    "focalY": 54.84484053612555,
+    "zoom": 1.85,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_jppy7gm",
@@ -8790,37 +8807,66 @@ window.QM_MENSTENNIS_DATA = [
   {
     "id": "id_1784131543315_kdovd6s",
     "name": "Boris Becker",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/boris-becker.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/boris-becker.jpg",
+    "focalX": 60.61935981369798,
+    "focalY": 31.10504525299447,
+    "zoom": 1.55,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_ll8td04",
     "name": "Stefan Edberg",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/stefan-edberg.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/stefan-edberg.jpg",
+    "focalX": 50,
+    "focalY": 50.926021221274176,
+    "zoom": 1
   },
   {
     "id": "id_1784131543315_m2snii9",
     "name": "Michael Chang",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/michael-chang.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/michael-chang.jpg",
+    "focalX": 3.028764422581314,
+    "focalY": 0,
+    "zoom": 1.2
   },
   {
     "id": "id_1784131543315_no9ubr2",
     "name": "Yannick Noah",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/yannick-noah.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/yannick-noah.jpg",
+    "focalX": 54.48963652667462,
+    "focalY": 38.40967596336855,
+    "zoom": 1.95
   },
   {
     "id": "id_1784131543315_oce7bep",
     "name": "Andrés Gómez",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/andrs-gmez.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/andrs-gmez.jpg",
+    "focalX": 60.01331948826455,
+    "focalY": 0,
+    "zoom": 1.7,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543315_p9kwxic",
     "name": "Pat Cash",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/pat-cash.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/pat-cash.jpg",
+    "focalX": 58.09736741600323,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784131543315_qv8uhz0",
     "name": "Pete Sampras",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/pete-sampras.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-tennis/pete-sampras.jpg",
+    "focalX": 42.375229344223484,
+    "focalY": 29.442617729101805,
+    "zoom": 1.55
   },
   {
     "id": "id_1784131543315_rhkbvh3",
