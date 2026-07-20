@@ -2520,7 +2520,6 @@ window.QM_HIDDEN_QUIZZES = [
   "female80s",
   "female60s",
   "guitarists",
-  "mensTennis",
   "womensTennis",
   "mensSnooker",
   "worldChessChamps",
