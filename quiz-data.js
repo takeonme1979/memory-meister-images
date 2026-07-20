@@ -2551,7 +2551,9 @@ window.QM_HIDDEN_QUIZZES = [
   "asiaMap",
   "namericaMap",
   "samericaMap",
-  "oceaniaMap"
+  "oceaniaMap",
+  "male00s",
+  "female00s"
 ];
 window.QM_QUIZ_META = {
   "male90s": {
@@ -12550,8 +12552,12 @@ window.QM_LANDMARKS_DATA = [
     "name": "Flatiron Building (New York City, United States)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/flatiron-building.jpg",
     "focalX": 50,
-    "focalY": 100,
-    "zoom": 1
+    "focalY": 4.917681884209143,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075982_2j6834ct",
@@ -12600,7 +12606,7 @@ window.QM_LANDMARKS_DATA = [
     "name": "Florence Cathedral (Italy)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/florence-cathedral.jpg",
     "focalX": 50,
-    "focalY": 17.04032838364813,
+    "focalY": 12.881829719996816,
     "zoom": 1
   },
   {
@@ -12642,7 +12648,14 @@ window.QM_LANDMARKS_DATA = [
   {
     "id": "id_1784133075982_2wsfg54n",
     "name": "Alhambra (Granada, Spain)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/alhambra.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/alhambra.jpg",
+    "focalX": 31.59376444207482,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075982_2x1l5lyt",
@@ -12654,8 +12667,12 @@ window.QM_LANDMARKS_DATA = [
     "name": "Tokyo Tower (Japan)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/tokyo-tower.jpg",
     "focalX": 50,
-    "focalY": 17.999999999999996,
-    "zoom": 1
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075982_2zphysa2",
@@ -12667,7 +12684,7 @@ window.QM_LANDMARKS_DATA = [
     "name": "Willis Tower (Chicago, United States)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/landmarks/willis-tower.jpg",
     "focalX": 50,
-    "focalY": 12.355749610609504,
+    "focalY": 5.476819898506354,
     "zoom": 1
   },
   {
