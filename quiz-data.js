@@ -12548,12 +12548,18 @@ window.QM_BIRDS_DATA = [
   {
     "id": "id_1784133075983_3razuo3o",
     "name": "Ostrich",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/ostrich.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/ostrich.jpg",
+    "focalX": 0,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075983_3s89e9e8",
     "name": "Emu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/emu.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/emu.jpg",
+    "focalX": 1.646258683881724,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075983_3tdrdyxt",
