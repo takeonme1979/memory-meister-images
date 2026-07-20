@@ -2521,7 +2521,6 @@ window.QM_HIDDEN_QUIZZES = [
   "female60s",
   "guitarists",
   "womensTennis",
-  "mensSnooker",
   "worldChessChamps",
   "synthpopBands",
   "classicRockBands",
@@ -10885,9 +10884,13 @@ window.QM_MENSSNOOKER_DATA = [
     "id": "id_1784570057348_m4inh87r",
     "name": "Wu Yize",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/wu-yize.jpg",
-    "focalX": 50,
-    "focalY": 30,
-    "zoom": 1
+    "focalX": 49.33701493180007,
+    "focalY": 0,
+    "zoom": 1.1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.78
   }
 ];
 window.QM_WORLDCHESSCHAMPS_DATA = [
