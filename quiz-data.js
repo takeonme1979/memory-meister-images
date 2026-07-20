@@ -13943,6 +13943,86 @@ window.QM_SYNTHPOPBANDS_DATA = [
     "id": "id_1784505944184_863e8us2",
     "name": "Dead or Alive",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/dead-or-alive.jpg"
+  },
+  {
+    "id": "id_1784591481166_ud00ld2w",
+    "name": "Nik Kershaw",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/nik-kershaw.jpg"
+  },
+  {
+    "id": "id_1784591481664_qfnx0zl6",
+    "name": "Haircut 100",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/haircut-100.jpg"
+  },
+  {
+    "id": "id_1784591482433_z4s42zug",
+    "name": "Altered Images",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/altered-images.jpg"
+  },
+  {
+    "id": "id_1784591482872_ragmzr0m",
+    "name": "The Cars",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/the-cars.jpg"
+  },
+  {
+    "id": "id_1784591483667_n5flksnr",
+    "name": "INXS",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/inxs.jpg"
+  },
+  {
+    "id": "id_1784591484429_m14b4cs1",
+    "name": "Fun Boy Three",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/fun-boy-three.jpg"
+  },
+  {
+    "id": "id_1784591484858_8zxt47yg",
+    "name": "Desireless",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/desireless.jpg"
+  },
+  {
+    "id": "id_1784591485278_jjrur9sa",
+    "name": "Jean-Michel Jarre",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/jean-michel-jarre.jpg"
+  },
+  {
+    "id": "id_1784591486162_8anj27kp",
+    "name": "The Cure",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/the-cure.jpg"
+  },
+  {
+    "id": "id_1784591487063_kbs8hux7",
+    "name": "Echo & the Bunnymen",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/echo-and-the-bunnymen.jpg"
+  },
+  {
+    "id": "id_1784591487641_ajh32b6z",
+    "name": "Strawberry Switchblade",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/strawberry-switchblade.jpg"
+  },
+  {
+    "id": "id_1784591488229_qm72pc18",
+    "name": "Kon Kan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/kon-kan.jpg"
+  },
+  {
+    "id": "id_1784591488229_pzlogi40",
+    "name": "Fiction Factory",
+    "imageUrl": ""
+  },
+  {
+    "id": "id_1784591488229_6deu64kp",
+    "name": "Dollar",
+    "imageUrl": ""
+  },
+  {
+    "id": "id_1784591488229_xc6pfuz8",
+    "name": "Landscape",
+    "imageUrl": ""
+  },
+  {
+    "id": "id_1784591488229_mn2shxdk",
+    "name": "The Assembly",
+    "imageUrl": ""
   }
 ];
 window.QM_CLASSICROCKBANDS_DATA = [
