@@ -10577,127 +10577,292 @@ window.QM_MENSSNOOKER_DATA = [
   {
     "id": "id_1784131543318_2ydzbrao",
     "name": "Joe Davis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/joe-davis.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/joe-davis.jpg",
+    "focalX": 50,
+    "focalY": 23.98869969021311,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_2ztk3jjw",
     "name": "Fred Davis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/fred-davis.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/fred-davis.jpg",
+    "focalX": 51.24960556667827,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_3097cfxa",
     "name": "Walter Donaldson",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/walter-donaldson.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/walter-donaldson.jpg",
+    "focalX": 50,
+    "focalY": 2.425825154412914,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_31ba570w",
     "name": "John Pulman",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/john-pulman.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/john-pulman.jpg",
+    "focalX": 89.53982622195507,
+    "focalY": 14.80879165990915,
+    "zoom": 1.1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_32tofii9",
     "name": "John Spencer",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/john-spencer.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/john-spencer.jpg",
+    "focalX": 52.44889771840544,
+    "focalY": 50,
+    "zoom": 1.05,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_33rgrd5d",
     "name": "Ray Reardon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/ray-reardon.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/ray-reardon.webp",
+    "focalX": 5.826520919799819,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 0.91,
+    "contrast": 1,
+    "saturation": 1.2,
+    "gamma": 0.76
   },
   {
     "id": "id_1784131543318_34e3lm2b",
     "name": "Alex Higgins",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/alex-higgins.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/alex-higgins.jpg",
+    "focalX": 57.80328546912925,
+    "focalY": 6.121684777690637,
+    "zoom": 1.4,
+    "brightness": 0.99,
+    "contrast": 1,
+    "saturation": 0.9,
+    "gamma": 1.29
   },
   {
     "id": "id_1784131543318_358zg1b4",
     "name": "Terry Griffiths",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/terry-griffiths.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/terry-griffiths.jpg",
+    "focalX": 0.73009729385376,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784131543318_3666h93b",
     "name": "Cliff Thorburn",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/cliff-thorburn.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/cliff-thorburn.jpg",
+    "focalX": 29.745066064035797,
+    "focalY": 14.183250462077742,
+    "zoom": 1.35,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_37emsb45",
     "name": "Steve Davis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/steve-davis.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/steve-davis.jpg",
+    "focalX": 0,
+    "focalY": 13.26454483474163,
+    "zoom": 1.05,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_38ef3vmg",
     "name": "Dennis Taylor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/dennis-taylor.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/dennis-taylor.jpg",
+    "focalX": 47.43265002103446,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_39lsmp8d",
     "name": "Joe Johnson",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/joe-johnson.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/joe-johnson.jpg",
+    "focalX": 54.95456105415213,
+    "focalY": 25.37112120590776,
+    "zoom": 1.7,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.86
   },
   {
     "id": "id_1784131543318_3ax58yto",
     "name": "Stephen Hendry",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/stephen-hendry.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/stephen-hendry.jpg",
+    "focalX": 51.52761089138763,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_3bys6xo4",
     "name": "Ken Doherty",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/ken-doherty.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/ken-doherty.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1,
+    "focalX": 39.38068342404075,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784131543318_3ccmki40",
     "name": "John Higgins",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/john-higgins.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/john-higgins.jpg",
+    "focalX": 56.56027621213441,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_3dbibxft",
     "name": "Mark Williams",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/mark-williams.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/mark-williams.jpg",
+    "focalX": 44.40850151909723,
+    "focalY": 0.09279740075769286,
+    "zoom": 1.1500000000000001,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_3erjbqlw",
     "name": "Ronnie O'Sullivan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/ronnie-osullivan.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/ronnie-osullivan.jpg",
+    "focalX": 48.06053072562014,
+    "focalY": 0.2039139795487561,
+    "zoom": 1.2,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_3fz0jp27",
     "name": "Peter Ebdon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/peter-ebdon.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/peter-ebdon.jpg",
+    "focalX": 40.3158118797876,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_3g2tncti",
     "name": "Shaun Murphy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/shaun-murphy.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/shaun-murphy.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1.05,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_3ht76o6a",
     "name": "Graeme Dott",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/graeme-dott.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/graeme-dott.jpg",
+    "focalX": 50,
+    "focalY": 0,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.82
   },
   {
     "id": "id_1784131543318_3iit6h4k",
     "name": "Neil Robertson",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/neil-robertson.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/neil-robertson.jpg",
+    "focalX": 50.25183854702704,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.79
   },
   {
     "id": "id_1784131543318_3jc03n1e",
     "name": "Stuart Bingham",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/stuart-bingham.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/stuart-bingham.jpg",
+    "brightness": 1.25,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.67
   },
   {
     "id": "id_1784131543318_3kihjmp0",
     "name": "Mark Selby",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/mark-selby.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/mark-selby.jpg",
+    "focalX": 51.40141482208429,
+    "focalY": 1.6472540306768928,
+    "zoom": 1.2,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.88
   },
   {
     "id": "id_1784131543318_3li929q5",
     "name": "Judd Trump",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/judd-trump.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/judd-trump.jpg",
+    "focalX": 48.87157339842065,
+    "focalY": 14.637550147804063,
+    "zoom": 1.4000000000000001,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.8
   },
   {
     "id": "id_1784131543318_3mxtx398",
     "name": "Kyren Wilson",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/kyren-wilson.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/kyren-wilson.jpg",
+    "brightness": 1.01,
+    "contrast": 1,
+    "saturation": 0.92,
+    "gamma": 1
   },
   {
     "id": "id_1784131543318_3n14yf5t",
@@ -10707,7 +10872,14 @@ window.QM_MENSSNOOKER_DATA = [
   {
     "id": "id_1784131543318_3o7y84j8",
     "name": "Zhao Xintong",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/zhao-xintong.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/zhao-xintong.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1.31,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.89
   }
 ];
 window.QM_WORLDCHESSCHAMPS_DATA = [
