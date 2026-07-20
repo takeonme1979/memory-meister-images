@@ -2571,7 +2571,17 @@ window.QM_QUIZ_META = {
   }
 };
 window.QM_CATEGORY_META = {};
-window.QM_CATEGORY_ORDER = [];
+window.QM_CATEGORY_ORDER = [
+  "music",
+  "geography",
+  "art",
+  "brands",
+  "tv",
+  "reference",
+  "scitech",
+  "sports-and-games",
+  "languages"
+];
 window.QM_QUIZ_ORDER = {};
 window.QM_VOCAB_LANG_META = {};
 window.QM_VOCAB_CAT_META = {};
