@@ -2573,6 +2573,11 @@ window.QM_QUIZ_META = {
     "title": "Men's Tennis Grand Slam Champions",
     "promptText": "Name the champ.",
     "desc": "Open Era men's Grand Slam champions."
+  },
+  "womensTennis": {
+    "title": "Women's Tennis Grand Slam Champions",
+    "promptText": "Name the champ.",
+    "desc": "Open Era women's Grand Slam champions."
   }
 };
 window.QM_CATEGORY_META = {};
