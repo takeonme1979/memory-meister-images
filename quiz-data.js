@@ -11337,6 +11337,26 @@ window.QM_SYNTHPOPBANDS_DATA = [
     "contrast": 1,
     "saturation": 1,
     "gamma": 1
+  },
+  {
+    "id": "id_1784505943918_ubxy9zmr",
+    "name": "Wang Chung",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/wang-chung.jpg"
+  },
+  {
+    "id": "id_1784505944147_tpfqruas",
+    "name": "Trio",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/trio.jpg"
+  },
+  {
+    "id": "id_1784505944156_5a7aumjh",
+    "name": "Classix Nouveaux",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/classix-nouveaux.jpg"
+  },
+  {
+    "id": "id_1784505944184_863e8us2",
+    "name": "Dead or Alive",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/dead-or-alive.jpg"
   }
 ];
 window.QM_CLASSICROCKBANDS_DATA = [
