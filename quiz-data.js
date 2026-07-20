@@ -10594,54 +10594,6 @@ window.QM_WOMENSTENNIS_DATA = [
 ];
 window.QM_MENSSNOOKER_DATA = [
   {
-    "id": "id_1784131543318_2ydzbrao",
-    "name": "Joe Davis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/joe-davis.jpg",
-    "focalX": 50,
-    "focalY": 23.98869969021311,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "id_1784131543318_2ztk3jjw",
-    "name": "Fred Davis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/fred-davis.jpg",
-    "focalX": 51.24960556667827,
-    "focalY": 50,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "id_1784131543318_3097cfxa",
-    "name": "Walter Donaldson",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/walter-donaldson.jpg",
-    "focalX": 50,
-    "focalY": 2.425825154412914,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "id_1784131543318_31ba570w",
-    "name": "John Pulman",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/john-pulman.jpg",
-    "focalX": 89.53982622195507,
-    "focalY": 14.80879165990915,
-    "zoom": 1.1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
     "id": "id_1784131543318_32tofii9",
     "name": "John Spencer",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/john-spencer.jpg",
