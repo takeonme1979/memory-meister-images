@@ -10880,6 +10880,14 @@ window.QM_MENSSNOOKER_DATA = [
     "contrast": 1,
     "saturation": 1,
     "gamma": 0.89
+  },
+  {
+    "id": "id_1784570057348_m4inh87r",
+    "name": "Wu Yize",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/sports-and-games/mens-snooker/wu-yize.jpg",
+    "focalX": 50,
+    "focalY": 30,
+    "zoom": 1
   }
 ];
 window.QM_WORLDCHESSCHAMPS_DATA = [
