@@ -1390,7 +1390,13 @@ window.QM_HIDDEN_QUIZZES = [
   "nlAdjectives",
   "rnlAdjectives",
   "male80s",
-  "irishCounties"
+  "irishCounties",
+  "europeMap",
+  "africaMap",
+  "asiaMap",
+  "namericaMap",
+  "samericaMap",
+  "oceaniaMap"
 ];
 window.QM_QUIZ_META = {
   "male90s": {
@@ -9914,6 +9920,1003 @@ window.QM_USASTATESMAP_DATA = [
     "focalX": 43.64849201683859,
     "focalY": 18.823336450289574,
     "zoom": 1.25
+  }
+];
+window.QM_EUROPEMAP_DATA = [
+  {
+    "id": "europeMap_1",
+    "name": "Vatican",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-va.png"
+  },
+  {
+    "id": "europeMap_2",
+    "name": "United Kingdom",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-gb.png"
+  },
+  {
+    "id": "europeMap_3",
+    "name": "Ukraine",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ua.png"
+  },
+  {
+    "id": "europeMap_4",
+    "name": "Switzerland",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ch.png"
+  },
+  {
+    "id": "europeMap_5",
+    "name": "Sweden",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-se.png"
+  },
+  {
+    "id": "europeMap_6",
+    "name": "Spain",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-es.png"
+  },
+  {
+    "id": "europeMap_7",
+    "name": "Slovakia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-sk.png"
+  },
+  {
+    "id": "europeMap_8",
+    "name": "Slovenia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-si.png"
+  },
+  {
+    "id": "europeMap_9",
+    "name": "Serbia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-rs.png"
+  },
+  {
+    "id": "europeMap_10",
+    "name": "San Marino",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-sm.png"
+  },
+  {
+    "id": "europeMap_11",
+    "name": "Russia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ru.png"
+  },
+  {
+    "id": "europeMap_12",
+    "name": "Romania",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ro.png"
+  },
+  {
+    "id": "europeMap_13",
+    "name": "Portugal",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-pt.png"
+  },
+  {
+    "id": "europeMap_14",
+    "name": "Poland",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-pl.png"
+  },
+  {
+    "id": "europeMap_15",
+    "name": "Norway",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-no.png"
+  },
+  {
+    "id": "europeMap_16",
+    "name": "Netherlands",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-nl.png"
+  },
+  {
+    "id": "europeMap_17",
+    "name": "Montenegro",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-me.png"
+  },
+  {
+    "id": "europeMap_18",
+    "name": "Moldova",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-md.png"
+  },
+  {
+    "id": "europeMap_19",
+    "name": "Monaco",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-mc.png"
+  },
+  {
+    "id": "europeMap_20",
+    "name": "Malta",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-mt.png"
+  },
+  {
+    "id": "europeMap_21",
+    "name": "North Macedonia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-mk.png"
+  },
+  {
+    "id": "europeMap_22",
+    "name": "Luxembourg",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-lu.png"
+  },
+  {
+    "id": "europeMap_23",
+    "name": "Lithuania",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-lt.png"
+  },
+  {
+    "id": "europeMap_24",
+    "name": "Liechtenstein",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-li.png"
+  },
+  {
+    "id": "europeMap_25",
+    "name": "Latvia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-lv.png"
+  },
+  {
+    "id": "europeMap_26",
+    "name": "Kosovo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-xk.png"
+  },
+  {
+    "id": "europeMap_27",
+    "name": "Italy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-it.png"
+  },
+  {
+    "id": "europeMap_28",
+    "name": "Ireland",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ie.png"
+  },
+  {
+    "id": "europeMap_29",
+    "name": "Iceland",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-is.png"
+  },
+  {
+    "id": "europeMap_30",
+    "name": "Hungary",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-hu.png"
+  },
+  {
+    "id": "europeMap_31",
+    "name": "Greece",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-gr.png"
+  },
+  {
+    "id": "europeMap_32",
+    "name": "Germany",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-de.png"
+  },
+  {
+    "id": "europeMap_33",
+    "name": "France",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-fr.png"
+  },
+  {
+    "id": "europeMap_34",
+    "name": "Finland",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-fi.png"
+  },
+  {
+    "id": "europeMap_35",
+    "name": "Estonia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ee.png"
+  },
+  {
+    "id": "europeMap_36",
+    "name": "Denmark",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-dk.png"
+  },
+  {
+    "id": "europeMap_37",
+    "name": "Czechia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-cz.png"
+  },
+  {
+    "id": "europeMap_38",
+    "name": "Croatia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-hr.png"
+  },
+  {
+    "id": "europeMap_39",
+    "name": "Bulgaria",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-bg.png"
+  },
+  {
+    "id": "europeMap_40",
+    "name": "Bosnia and Herz.",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ba.png"
+  },
+  {
+    "id": "europeMap_41",
+    "name": "Belgium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-be.png"
+  },
+  {
+    "id": "europeMap_42",
+    "name": "Belarus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-by.png"
+  },
+  {
+    "id": "europeMap_43",
+    "name": "Austria",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-at.png"
+  },
+  {
+    "id": "europeMap_44",
+    "name": "Andorra",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ad.png"
+  },
+  {
+    "id": "europeMap_45",
+    "name": "Albania",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-al.png"
+  }
+];
+window.QM_AFRICAMAP_DATA = [
+  {
+    "id": "africaMap_1",
+    "name": "Zimbabwe",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-zw.png"
+  },
+  {
+    "id": "africaMap_2",
+    "name": "Zambia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-zm.png"
+  },
+  {
+    "id": "africaMap_3",
+    "name": "Uganda",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-ug.png"
+  },
+  {
+    "id": "africaMap_4",
+    "name": "Tunisia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-tn.png"
+  },
+  {
+    "id": "africaMap_5",
+    "name": "Togo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-tg.png"
+  },
+  {
+    "id": "africaMap_6",
+    "name": "Tanzania",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-tz.png"
+  },
+  {
+    "id": "africaMap_7",
+    "name": "eSwatini",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-sz.png"
+  },
+  {
+    "id": "africaMap_8",
+    "name": "S. Sudan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-ss.png"
+  },
+  {
+    "id": "africaMap_9",
+    "name": "Sudan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-sd.png"
+  },
+  {
+    "id": "africaMap_10",
+    "name": "South Africa",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-za.png"
+  },
+  {
+    "id": "africaMap_11",
+    "name": "Somalia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-so.png"
+  },
+  {
+    "id": "africaMap_12",
+    "name": "Sierra Leone",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-sl.png"
+  },
+  {
+    "id": "africaMap_13",
+    "name": "Seychelles",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-sc.png"
+  },
+  {
+    "id": "africaMap_14",
+    "name": "Senegal",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-sn.png"
+  },
+  {
+    "id": "africaMap_15",
+    "name": "São Tomé and Principe",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-st.png"
+  },
+  {
+    "id": "africaMap_16",
+    "name": "Rwanda",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-rw.png"
+  },
+  {
+    "id": "africaMap_17",
+    "name": "Nigeria",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-ng.png"
+  },
+  {
+    "id": "africaMap_18",
+    "name": "Niger",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-ne.png"
+  },
+  {
+    "id": "africaMap_19",
+    "name": "Namibia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-na.png"
+  },
+  {
+    "id": "africaMap_20",
+    "name": "Mozambique",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-mz.png"
+  },
+  {
+    "id": "africaMap_21",
+    "name": "Morocco",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-ma.png"
+  },
+  {
+    "id": "africaMap_22",
+    "name": "Mauritius",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-mu.png"
+  },
+  {
+    "id": "africaMap_23",
+    "name": "Mauritania",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-mr.png"
+  },
+  {
+    "id": "africaMap_24",
+    "name": "Mali",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-ml.png"
+  },
+  {
+    "id": "africaMap_25",
+    "name": "Malawi",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-mw.png"
+  },
+  {
+    "id": "africaMap_26",
+    "name": "Madagascar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-mg.png"
+  },
+  {
+    "id": "africaMap_27",
+    "name": "Libya",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-ly.png"
+  },
+  {
+    "id": "africaMap_28",
+    "name": "Liberia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-lr.png"
+  },
+  {
+    "id": "africaMap_29",
+    "name": "Lesotho",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-ls.png"
+  },
+  {
+    "id": "africaMap_30",
+    "name": "Kenya",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-ke.png"
+  },
+  {
+    "id": "africaMap_31",
+    "name": "Guinea-Bissau",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-gw.png"
+  },
+  {
+    "id": "africaMap_32",
+    "name": "Guinea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-gn.png"
+  },
+  {
+    "id": "africaMap_33",
+    "name": "Ghana",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-gh.png"
+  },
+  {
+    "id": "africaMap_34",
+    "name": "Gambia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-gm.png"
+  },
+  {
+    "id": "africaMap_35",
+    "name": "Gabon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-ga.png"
+  },
+  {
+    "id": "africaMap_36",
+    "name": "Ethiopia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-et.png"
+  },
+  {
+    "id": "africaMap_37",
+    "name": "Eritrea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-er.png"
+  },
+  {
+    "id": "africaMap_38",
+    "name": "Eq. Guinea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-gq.png"
+  },
+  {
+    "id": "africaMap_39",
+    "name": "Egypt",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-eg.png"
+  },
+  {
+    "id": "africaMap_40",
+    "name": "Djibouti",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-dj.png"
+  },
+  {
+    "id": "africaMap_41",
+    "name": "Côte d'Ivoire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-ci.png"
+  },
+  {
+    "id": "africaMap_42",
+    "name": "Dem. Rep. Congo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-cd.png"
+  },
+  {
+    "id": "africaMap_43",
+    "name": "Congo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-cg.png"
+  },
+  {
+    "id": "africaMap_44",
+    "name": "Comoros",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-km.png"
+  },
+  {
+    "id": "africaMap_45",
+    "name": "Chad",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-td.png"
+  },
+  {
+    "id": "africaMap_46",
+    "name": "Central African Rep.",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-cf.png"
+  },
+  {
+    "id": "africaMap_47",
+    "name": "Cabo Verde",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-cv.png"
+  },
+  {
+    "id": "africaMap_48",
+    "name": "Cameroon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-cm.png"
+  },
+  {
+    "id": "africaMap_49",
+    "name": "Burundi",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-bi.png"
+  },
+  {
+    "id": "africaMap_50",
+    "name": "Burkina Faso",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-bf.png"
+  },
+  {
+    "id": "africaMap_51",
+    "name": "Botswana",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-bw.png"
+  },
+  {
+    "id": "africaMap_52",
+    "name": "Benin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-bj.png"
+  },
+  {
+    "id": "africaMap_53",
+    "name": "Angola",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-ao.png"
+  },
+  {
+    "id": "africaMap_54",
+    "name": "Algeria",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-dz.png"
+  }
+];
+window.QM_ASIAMAP_DATA = [
+  {
+    "id": "asiaMap_1",
+    "name": "Yemen",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-ye.png"
+  },
+  {
+    "id": "asiaMap_2",
+    "name": "Vietnam",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-vn.png"
+  },
+  {
+    "id": "asiaMap_3",
+    "name": "Uzbekistan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-uz.png"
+  },
+  {
+    "id": "asiaMap_4",
+    "name": "United Arab Emirates",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-ae.png"
+  },
+  {
+    "id": "asiaMap_5",
+    "name": "Turkmenistan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tm.png"
+  },
+  {
+    "id": "asiaMap_6",
+    "name": "Turkey",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tr.png"
+  },
+  {
+    "id": "asiaMap_7",
+    "name": "Timor-Leste",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tl.png"
+  },
+  {
+    "id": "asiaMap_8",
+    "name": "Thailand",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-th.png"
+  },
+  {
+    "id": "asiaMap_9",
+    "name": "Tajikistan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tj.png"
+  },
+  {
+    "id": "asiaMap_10",
+    "name": "Taiwan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tw.png"
+  },
+  {
+    "id": "asiaMap_11",
+    "name": "Syria",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-sy.png"
+  },
+  {
+    "id": "asiaMap_12",
+    "name": "Sri Lanka",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-lk.png"
+  },
+  {
+    "id": "asiaMap_13",
+    "name": "South Korea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-kr.png"
+  },
+  {
+    "id": "asiaMap_14",
+    "name": "Singapore",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-sg.png"
+  },
+  {
+    "id": "asiaMap_15",
+    "name": "Saudi Arabia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-sa.png"
+  },
+  {
+    "id": "asiaMap_16",
+    "name": "Qatar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-qa.png"
+  },
+  {
+    "id": "asiaMap_17",
+    "name": "Philippines",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-ph.png"
+  },
+  {
+    "id": "asiaMap_18",
+    "name": "Pakistan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-pk.png"
+  },
+  {
+    "id": "asiaMap_19",
+    "name": "Oman",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-om.png"
+  },
+  {
+    "id": "asiaMap_20",
+    "name": "North Korea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-kp.png"
+  },
+  {
+    "id": "asiaMap_21",
+    "name": "Nepal",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-np.png"
+  },
+  {
+    "id": "asiaMap_22",
+    "name": "Mongolia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-mn.png"
+  },
+  {
+    "id": "asiaMap_23",
+    "name": "Maldives",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-mv.png"
+  },
+  {
+    "id": "asiaMap_24",
+    "name": "Malaysia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-my.png"
+  },
+  {
+    "id": "asiaMap_25",
+    "name": "Lebanon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-lb.png"
+  },
+  {
+    "id": "asiaMap_26",
+    "name": "Laos",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-la.png"
+  },
+  {
+    "id": "asiaMap_27",
+    "name": "Kyrgyzstan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-kg.png"
+  },
+  {
+    "id": "asiaMap_28",
+    "name": "Kuwait",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-kw.png"
+  },
+  {
+    "id": "asiaMap_29",
+    "name": "Kazakhstan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-kz.png"
+  },
+  {
+    "id": "asiaMap_30",
+    "name": "Jordan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-jo.png"
+  },
+  {
+    "id": "asiaMap_31",
+    "name": "Japan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-jp.png"
+  },
+  {
+    "id": "asiaMap_32",
+    "name": "Israel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-il.png"
+  },
+  {
+    "id": "asiaMap_33",
+    "name": "Palestine",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-ps.png"
+  },
+  {
+    "id": "asiaMap_34",
+    "name": "Iraq",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-iq.png"
+  },
+  {
+    "id": "asiaMap_35",
+    "name": "Iran",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-ir.png"
+  },
+  {
+    "id": "asiaMap_36",
+    "name": "Indonesia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-id.png"
+  },
+  {
+    "id": "asiaMap_37",
+    "name": "India",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-in.png"
+  },
+  {
+    "id": "asiaMap_38",
+    "name": "Georgia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-ge.png"
+  },
+  {
+    "id": "asiaMap_39",
+    "name": "Cyprus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-cy.png"
+  },
+  {
+    "id": "asiaMap_40",
+    "name": "China",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-cn.png"
+  },
+  {
+    "id": "asiaMap_41",
+    "name": "Cambodia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-kh.png"
+  },
+  {
+    "id": "asiaMap_42",
+    "name": "Myanmar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-mm.png"
+  },
+  {
+    "id": "asiaMap_43",
+    "name": "Brunei",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-bn.png"
+  },
+  {
+    "id": "asiaMap_44",
+    "name": "Bhutan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-bt.png"
+  },
+  {
+    "id": "asiaMap_45",
+    "name": "Bangladesh",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-bd.png"
+  },
+  {
+    "id": "asiaMap_46",
+    "name": "Bahrain",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-bh.png"
+  },
+  {
+    "id": "asiaMap_47",
+    "name": "Azerbaijan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-az.png"
+  },
+  {
+    "id": "asiaMap_48",
+    "name": "Armenia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-am.png"
+  },
+  {
+    "id": "asiaMap_49",
+    "name": "Afghanistan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-af.png"
+  }
+];
+window.QM_NAMERICAMAP_DATA = [
+  {
+    "id": "namericaMap_1",
+    "name": "United States of America",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-us.png"
+  },
+  {
+    "id": "namericaMap_2",
+    "name": "Trinidad and Tobago",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-tt.png"
+  },
+  {
+    "id": "namericaMap_3",
+    "name": "St. Vin. and Gren.",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-vc.png"
+  },
+  {
+    "id": "namericaMap_4",
+    "name": "Saint Lucia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-lc.png"
+  },
+  {
+    "id": "namericaMap_5",
+    "name": "St. Kitts and Nevis",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-kn.png"
+  },
+  {
+    "id": "namericaMap_6",
+    "name": "Panama",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-pa.png"
+  },
+  {
+    "id": "namericaMap_7",
+    "name": "Nicaragua",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-ni.png"
+  },
+  {
+    "id": "namericaMap_8",
+    "name": "Mexico",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-mx.png"
+  },
+  {
+    "id": "namericaMap_9",
+    "name": "Jamaica",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-jm.png"
+  },
+  {
+    "id": "namericaMap_10",
+    "name": "Honduras",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-hn.png"
+  },
+  {
+    "id": "namericaMap_11",
+    "name": "Haiti",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-ht.png"
+  },
+  {
+    "id": "namericaMap_12",
+    "name": "Guatemala",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-gt.png"
+  },
+  {
+    "id": "namericaMap_13",
+    "name": "Grenada",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-gd.png"
+  },
+  {
+    "id": "namericaMap_14",
+    "name": "El Salvador",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-sv.png"
+  },
+  {
+    "id": "namericaMap_15",
+    "name": "Dominican Rep.",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-do.png"
+  },
+  {
+    "id": "namericaMap_16",
+    "name": "Dominica",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-dm.png"
+  },
+  {
+    "id": "namericaMap_17",
+    "name": "Cuba",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-cu.png"
+  },
+  {
+    "id": "namericaMap_18",
+    "name": "Costa Rica",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-cr.png"
+  },
+  {
+    "id": "namericaMap_19",
+    "name": "Canada",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-ca.png"
+  },
+  {
+    "id": "namericaMap_20",
+    "name": "Belize",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-bz.png"
+  },
+  {
+    "id": "namericaMap_21",
+    "name": "Barbados",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-bb.png"
+  },
+  {
+    "id": "namericaMap_22",
+    "name": "Bahamas",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-bs.png"
+  },
+  {
+    "id": "namericaMap_23",
+    "name": "Antigua and Barb.",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-ag.png"
+  }
+];
+window.QM_SAMERICAMAP_DATA = [
+  {
+    "id": "samericaMap_1",
+    "name": "Venezuela",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-ve.png"
+  },
+  {
+    "id": "samericaMap_2",
+    "name": "Uruguay",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-uy.png"
+  },
+  {
+    "id": "samericaMap_3",
+    "name": "Suriname",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-sr.png"
+  },
+  {
+    "id": "samericaMap_4",
+    "name": "Peru",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-pe.png"
+  },
+  {
+    "id": "samericaMap_5",
+    "name": "Paraguay",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-py.png"
+  },
+  {
+    "id": "samericaMap_6",
+    "name": "Guyana",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-gy.png"
+  },
+  {
+    "id": "samericaMap_7",
+    "name": "Ecuador",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-ec.png"
+  },
+  {
+    "id": "samericaMap_8",
+    "name": "Colombia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-co.png"
+  },
+  {
+    "id": "samericaMap_9",
+    "name": "Chile",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-cl.png"
+  },
+  {
+    "id": "samericaMap_10",
+    "name": "Brazil",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-br.png"
+  },
+  {
+    "id": "samericaMap_11",
+    "name": "Bolivia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-bo.png"
+  },
+  {
+    "id": "samericaMap_12",
+    "name": "Argentina",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-ar.png"
+  }
+];
+window.QM_OCEANIAMAP_DATA = [
+  {
+    "id": "oceaniaMap_1",
+    "name": "Vanuatu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-vu.png"
+  },
+  {
+    "id": "oceaniaMap_2",
+    "name": "Micronesia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-fm.png"
+  },
+  {
+    "id": "oceaniaMap_3",
+    "name": "Marshall Is.",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-mh.png"
+  },
+  {
+    "id": "oceaniaMap_4",
+    "name": "Tonga",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-to.png"
+  },
+  {
+    "id": "oceaniaMap_5",
+    "name": "Solomon Is.",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-sb.png"
+  },
+  {
+    "id": "oceaniaMap_6",
+    "name": "Samoa",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-ws.png"
+  },
+  {
+    "id": "oceaniaMap_7",
+    "name": "Papua New Guinea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-pg.png"
+  },
+  {
+    "id": "oceaniaMap_8",
+    "name": "Palau",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-pw.png"
+  },
+  {
+    "id": "oceaniaMap_9",
+    "name": "New Zealand",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-nz.png"
+  },
+  {
+    "id": "oceaniaMap_10",
+    "name": "Nauru",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-nr.png"
+  },
+  {
+    "id": "oceaniaMap_11",
+    "name": "Kiribati",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-ki.png"
+  },
+  {
+    "id": "oceaniaMap_12",
+    "name": "Fiji",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-fj.png"
+  },
+  {
+    "id": "oceaniaMap_13",
+    "name": "Australia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-au.png"
+  },
+  {
+    "id": "oceaniaMap_14",
+    "name": "Tuvalu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-tv.png"
   }
 ];
 window.QM_LANDMARKS_DATA = [
