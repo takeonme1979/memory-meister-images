@@ -12909,9 +12909,9 @@ window.QM_UKCOUNTIES_DATA = [
     "name": "Bedfordshire",
     "town": "Bedford",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/uk-counties-map/county-bedfordshire.svg",
-    "focalX": 92.42676537505238,
-    "focalY": 88.50064168500809,
-    "zoom": 2.3000000000000003
+    "focalX": 97.82149663894049,
+    "focalY": 90.08761782398071,
+    "zoom": 2.0999999999999996
   },
   {
     "id": "cty_37",
@@ -13342,8 +13342,8 @@ window.QM_SCOTTISHCOUNTIES_DATA = [
     "id": "sco_aberdeenshire",
     "name": "Aberdeenshire",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-aberdeenshire.svg",
-    "focalX": 44.45406456133386,
-    "focalY": 31.37207753569816,
+    "focalX": 86.6299052814861,
+    "focalY": 45.1849758704021,
     "zoom": 1.5
   },
   {
