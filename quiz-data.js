@@ -2546,7 +2546,6 @@ window.QM_HIDDEN_QUIZZES = [
   "male80s",
   "irishCounties",
   "africaMap",
-  "samericaMap",
   "oceaniaMap",
   "male00s",
   "female00s",
@@ -12610,62 +12609,98 @@ window.QM_SAMERICAMAP_DATA = [
   {
     "id": "samericaMap_1",
     "name": "Venezuela",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-ve.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-ve.png",
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1.35
   },
   {
     "id": "samericaMap_2",
     "name": "Uruguay",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-uy.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-uy.png",
+    "focalX": 50,
+    "focalY": 61.34299603571822,
+    "zoom": 1
   },
   {
     "id": "samericaMap_3",
     "name": "Suriname",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-sr.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-sr.png",
+    "focalX": 28.033408140524845,
+    "focalY": 0,
+    "zoom": 1.3
   },
   {
     "id": "samericaMap_4",
     "name": "Peru",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-pe.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-pe.png",
+    "focalX": 0,
+    "focalY": 2.2832193125517435,
+    "zoom": 1.2
   },
   {
     "id": "samericaMap_5",
     "name": "Paraguay",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-py.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-py.png",
+    "focalX": 50,
+    "focalY": 31.416017906688086,
+    "zoom": 1
   },
   {
     "id": "samericaMap_6",
     "name": "Guyana",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-gy.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-gy.png",
+    "focalX": 4.1268820291037285,
+    "focalY": 0,
+    "zoom": 1.4000000000000001
   },
   {
     "id": "samericaMap_7",
     "name": "Ecuador",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-ec.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-ec.png",
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1.6
   },
   {
     "id": "samericaMap_8",
     "name": "Colombia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-co.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-co.png",
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1.6
   },
   {
     "id": "samericaMap_9",
     "name": "Chile",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-cl.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-cl.png",
+    "focalX": 50,
+    "focalY": 94.58310934761974,
+    "zoom": 1
   },
   {
     "id": "samericaMap_10",
     "name": "Brazil",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-br.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-br.png",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1
   },
   {
     "id": "samericaMap_11",
     "name": "Bolivia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-bo.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-bo.png",
+    "focalX": 50,
+    "focalY": 18.419248777015188,
+    "zoom": 1
   },
   {
     "id": "samericaMap_12",
     "name": "Argentina",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-ar.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/samerica-map/country-ar.png",
+    "focalX": 50,
+    "focalY": 77.77970073379089,
+    "zoom": 1
   }
 ];
 window.QM_OCEANIAMAP_DATA = [
