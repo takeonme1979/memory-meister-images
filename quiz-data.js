@@ -2610,6 +2610,9 @@ window.QM_QUIZ_META = {
   },
   "female80s": {
     "desc": "Identify these best-selling female artists from the 80s, based on the UK charts."
+  },
+  "synthpopBands": {
+    "desc": "Synthpop and new wave acts of the 70s and 80s, mostly based on the UK charts."
   }
 };
 window.QM_CATEGORY_META = {};
