@@ -15841,7 +15841,10 @@ window.QM_BIRDS_DATA = [
   {
     "id": "id_1784133075983_3a0cy1gx",
     "name": "Flamingo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/flamingo.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/flamingo.jpg",
+    "focalX": 100,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075983_3bji7wj3",
@@ -15856,12 +15859,18 @@ window.QM_BIRDS_DATA = [
   {
     "id": "id_1784133075983_3d4lcslo",
     "name": "Scarlet Macaw",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/scarlet-macaw.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/scarlet-macaw.jpg",
+    "focalX": 50,
+    "focalY": 0,
+    "zoom": 1
   },
   {
     "id": "id_1784133075983_3el8yifr",
     "name": "Sacred Ibis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/sacred-ibis.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/sacred-ibis.jpg",
+    "focalX": 56.298167760943116,
+    "focalY": 100,
+    "zoom": 1.1
   },
   {
     "id": "id_1784133075983_3fjb0arg",
@@ -15881,40 +15890,62 @@ window.QM_BIRDS_DATA = [
   {
     "id": "id_1784133075983_3iwpocxm",
     "name": "Pelican",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/pelican.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/pelican.jpg",
+    "focalX": 28.987231285743466,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075983_3jn3ov5u",
     "name": "Grey Crowned Crane",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/grey-crowned-crane.jpg",
-    "focalX": 50,
-    "focalY": 40,
-    "zoom": 1
+    "focalX": 31.698663325683945,
+    "focalY": 30.370198253499037,
+    "zoom": 1.25
   },
   {
     "id": "id_1784133075983_3k84ae7j",
     "name": "Golden Eagle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/golden-eagle.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/golden-eagle.jpg",
+    "focalX": 58.52069495029356,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1.26,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.75
   },
   {
     "id": "id_1784133075983_3ltdsmrz",
     "name": "Peregrine Falcon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/peregrine-falcon.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/peregrine-falcon.jpg",
+    "focalX": 59.05402474243139,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075983_3mmjph5i",
     "name": "Osprey",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/osprey.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/osprey.jpg",
+    "focalX": 74.92213031045752,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075983_3nhw51rq",
     "name": "Snowy Owl",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/snowy-owl.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/snowy-owl.jpg",
+    "focalX": 69.75708910240664,
+    "focalY": 59.89739091371346,
+    "zoom": 1.2
   },
   {
     "id": "id_1784133075983_3o6y6zau",
     "name": "Great Horned Owl",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/great-horned-owl.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/great-horned-owl.jpg",
+    "focalX": 100,
+    "focalY": 74.53719326888272,
+    "zoom": 1.2
   },
   {
     "id": "id_1784133075983_3p261apv",
@@ -15924,7 +15955,10 @@ window.QM_BIRDS_DATA = [
   {
     "id": "id_1784133075983_3q48phfx",
     "name": "Hummingbird",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/hummingbird.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/hummingbird.jpg",
+    "focalX": 50,
+    "focalY": 66.66862746904481,
+    "zoom": 1
   },
   {
     "id": "id_1784133075983_3razuo3o",
@@ -15938,19 +15972,25 @@ window.QM_BIRDS_DATA = [
     "id": "id_1784133075983_3s89e9e8",
     "name": "Emu",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/emu.jpg",
-    "focalX": 1.646258683881724,
-    "focalY": 50,
-    "zoom": 1
+    "focalX": 16.87257922183683,
+    "focalY": 100,
+    "zoom": 1.1
   },
   {
     "id": "id_1784133075983_3tdrdyxt",
     "name": "Cassowary",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/cassowary.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/cassowary.jpg",
+    "focalX": 50,
+    "focalY": 36.73314238095819,
+    "zoom": 1
   },
   {
     "id": "id_1784133075983_3um2ujlv",
     "name": "Kiwi",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/kiwi.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/kiwi.jpg",
+    "focalX": 29.56858141597809,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075983_3vxq2i1y",
