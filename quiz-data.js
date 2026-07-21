@@ -12707,12 +12707,18 @@ window.QM_OCEANIAMAP_DATA = [
   {
     "id": "oceaniaMap_1",
     "name": "Vanuatu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-vu.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-vu.png",
+    "focalX": 33.39262296183785,
+    "focalY": 31.660758422879287,
+    "zoom": 1.8499999999999999
   },
   {
     "id": "oceaniaMap_2",
     "name": "Micronesia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-fm.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-fm.png",
+    "focalX": 31.019383526730415,
+    "focalY": 0,
+    "zoom": 2.2
   },
   {
     "id": "oceaniaMap_3",
