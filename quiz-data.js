@@ -11606,97 +11606,154 @@ window.QM_EUROPEMAP_DATA = [
   {
     "id": "europeMap_27",
     "name": "Italy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-it.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-it.png",
+    "focalX": 47.83570384428326,
+    "focalY": 100,
+    "zoom": 2.15
   },
   {
     "id": "europeMap_28",
     "name": "Ireland",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ie.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ie.png",
+    "focalX": 8.85610250857894,
+    "focalY": 66.23612899507162,
+    "zoom": 2.4499999999999997
   },
   {
     "id": "europeMap_29",
     "name": "Iceland",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-is.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-is.png",
+    "focalX": 0,
+    "focalY": 14.792323598051512,
+    "zoom": 1.75
   },
   {
     "id": "europeMap_30",
     "name": "Hungary",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-hu.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-hu.png",
+    "focalX": 63.20493040123354,
+    "focalY": 97.08002954059697,
+    "zoom": 2.3
   },
   {
     "id": "europeMap_31",
     "name": "Greece",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-gr.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-gr.png",
+    "focalX": 66.73996411305912,
+    "focalY": 100,
+    "zoom": 2.9
   },
   {
     "id": "europeMap_32",
     "name": "Germany",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-de.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-de.png",
+    "focalX": 39.10746541056599,
+    "focalY": 82.4027250302173,
+    "zoom": 1.9000000000000001
   },
   {
     "id": "europeMap_33",
     "name": "France",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-fr.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-fr.png",
+    "focalX": 28.56592248987269,
+    "focalY": 92.50969983574396,
+    "zoom": 2.15
   },
   {
     "id": "europeMap_34",
     "name": "Finland",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-fi.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-fi.png",
+    "focalX": 93.05056058443509,
+    "focalY": 0,
+    "zoom": 1.5
   },
   {
     "id": "europeMap_35",
     "name": "Estonia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ee.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ee.png",
+    "focalX": 81.6174549773546,
+    "focalY": 46.028252433244575,
+    "zoom": 1.65
   },
   {
     "id": "europeMap_36",
     "name": "Denmark",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-dk.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-dk.png",
+    "focalX": 41.50385645441798,
+    "focalY": 57.66562547605749,
+    "zoom": 2.3
   },
   {
     "id": "europeMap_37",
     "name": "Czechia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-cz.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-cz.png",
+    "focalX": 56.144684693911074,
+    "focalY": 83.96820517497773,
+    "zoom": 2.1500000000000004
   },
   {
     "id": "europeMap_38",
     "name": "Croatia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-hr.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-hr.png",
+    "focalX": 56.30927033476777,
+    "focalY": 96.44349148333514,
+    "zoom": 3
   },
   {
     "id": "europeMap_39",
     "name": "Bulgaria",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-bg.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-bg.png",
+    "focalX": 66.78256153658987,
+    "focalY": 100,
+    "zoom": 2.65
   },
   {
     "id": "europeMap_40",
-    "name": "Bosnia and Herz.",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ba.png"
+    "name": "Bosnia and Herzegovina",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ba.png",
+    "focalX": 58.54086891590647,
+    "focalY": 98.31251029940522,
+    "zoom": 2.75
   },
   {
     "id": "europeMap_41",
     "name": "Belgium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-be.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-be.png",
+    "focalX": 33.19576130775816,
+    "focalY": 74.65009074075729,
+    "zoom": 2.8499999999999996
   },
   {
     "id": "europeMap_42",
     "name": "Belarus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-by.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-by.png",
+    "focalX": 74.11934094551282,
+    "focalY": 64.61451279205191,
+    "zoom": 2.25
   },
   {
     "id": "europeMap_43",
     "name": "Austria",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-at.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-at.png",
+    "focalX": 50.806286659813814,
+    "focalY": 88.79490786220407,
+    "zoom": 2.45
   },
   {
     "id": "europeMap_44",
     "name": "Andorra",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ad.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-ad.png",
+    "focalX": 26.460424191306902,
+    "focalY": 100,
+    "zoom": 3
   },
   {
     "id": "europeMap_45",
     "name": "Albania",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-al.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/europe-map/country-al.png",
+    "focalX": 58.087716366852284,
+    "focalY": 99.01208007150109,
+    "zoom": 3
   }
 ];
 window.QM_AFRICAMAP_DATA = [
