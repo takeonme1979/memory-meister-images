@@ -13181,7 +13181,7 @@ window.QM_FLOWERS_DATA = [
     "name": "Sunflower",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sunflower.jpg",
     "focalX": 50,
-    "focalY": 33.98027710431042,
+    "focalY": 36.13974637581235,
     "zoom": 1
   },
   {
@@ -13201,7 +13201,7 @@ window.QM_FLOWERS_DATA = [
     "name": "Iris",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/iris.jpg",
     "focalX": 50,
-    "focalY": 5.6644289862845945,
+    "focalY": 11.295883890926946,
     "zoom": 1
   },
   {
@@ -13217,12 +13217,22 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "hydrangea",
     "name": "Hydrangea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hydrangea.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hydrangea.jpg",
+    "focalX": 50,
+    "focalY": 78.47979464196855,
+    "zoom": 1
   },
   {
     "id": "chrysanthemum",
     "name": "Chrysanthemum",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/chrysanthemum.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/chrysanthemum.webp",
+    "focalX": 50,
+    "focalY": 96.99843611807194,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "poppy",
@@ -13232,7 +13242,10 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "foxglove",
     "name": "Foxglove",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/foxglove.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/foxglove.jpg",
+    "focalX": 50,
+    "focalY": 0,
+    "zoom": 1
   },
   {
     "id": "lavender",
@@ -13247,7 +13260,10 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "snapdragon",
     "name": "Snapdragon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/snapdragon.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/snapdragon.jpg",
+    "focalX": 50,
+    "focalY": 40.62038698621616,
+    "zoom": 1
   },
   {
     "id": "delphinium",
@@ -13257,22 +13273,34 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "lupin",
     "name": "Lupin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lupin.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lupin.jpg",
+    "focalX": 50,
+    "focalY": 45.85879730418988,
+    "zoom": 1
   },
   {
     "id": "marigold",
     "name": "Marigold",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/marigold.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/marigold.jpg",
+    "focalX": 50,
+    "focalY": 10.870306166541974,
+    "zoom": 1
   },
   {
     "id": "pansy",
     "name": "Pansy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/pansy.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/pansy.jpg",
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1
   },
   {
     "id": "petunia",
     "name": "Petunia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/petunia.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/petunia.jpg",
+    "focalX": 50,
+    "focalY": 13.475914827577625,
+    "zoom": 1
   },
   {
     "id": "geranium",
