@@ -13960,17 +13960,38 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784505943918_ubxy9zmr",
     "name": "Wang Chung",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/wang-chung.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/wang-chung.jpg",
+    "focalX": 100,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784505944147_tpfqruas",
     "name": "Trio",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/trio.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/trio.webp",
+    "focalX": 45.001679741904596,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784505944156_5a7aumjh",
     "name": "Classix Nouveaux",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/classix-nouveaux.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/classix-nouveaux.jpg",
+    "focalX": 45.332230108408986,
+    "focalY": 26.90608786800196,
+    "zoom": 1.1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.9
   },
   {
     "id": "id_1784505944184_863e8us2",
