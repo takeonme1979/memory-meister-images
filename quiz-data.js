@@ -13382,8 +13382,8 @@ window.QM_SCOTTISHCOUNTIES_DATA = [
     "id": "sco_berwickshire",
     "name": "Berwickshire",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/scottish-counties-map/county-berwickshire.svg",
-    "focalX": 54.845947961182326,
-    "focalY": 37.29129735090269,
+    "focalX": 100,
+    "focalY": 86.58780338795519,
     "zoom": 1.45
   },
   {
