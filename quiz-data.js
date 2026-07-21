@@ -2546,7 +2546,6 @@ window.QM_HIDDEN_QUIZZES = [
   "male80s",
   "irishCounties",
   "africaMap",
-  "oceaniaMap",
   "male00s",
   "female00s",
   "scottishCounties",
@@ -12708,77 +12707,113 @@ window.QM_OCEANIAMAP_DATA = [
     "id": "oceaniaMap_1",
     "name": "Vanuatu",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-vu.png",
-    "focalX": 33.39262296183785,
-    "focalY": 31.660758422879287,
-    "zoom": 1.8499999999999999
+    "focalX": 55.23095970625804,
+    "focalY": 23.577072887106347,
+    "zoom": 1.85
   },
   {
     "id": "oceaniaMap_2",
     "name": "Micronesia",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-fm.png",
-    "focalX": 31.019383526730415,
+    "focalX": 31.209310806143304,
     "focalY": 0,
     "zoom": 2.2
   },
   {
     "id": "oceaniaMap_3",
     "name": "Marshall Islands",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-mh.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-mh.png",
+    "focalX": 36.574304958103156,
+    "focalY": 0,
+    "zoom": 1.85
   },
   {
     "id": "oceaniaMap_4",
     "name": "Tonga",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-to.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-to.png",
+    "focalX": 65.44719926777302,
+    "focalY": 8.76097218870658,
+    "zoom": 1.4000000000000001
   },
   {
     "id": "oceaniaMap_5",
     "name": "Solomon Islands",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-sb.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-sb.png",
+    "focalX": 7.268605459638204,
+    "focalY": 28.21829016897376,
+    "zoom": 1.55
   },
   {
     "id": "oceaniaMap_6",
     "name": "Samoa",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-ws.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-ws.png",
+    "focalX": 63.714240004462184,
+    "focalY": 30.927829926853367,
+    "zoom": 1.45
   },
   {
     "id": "oceaniaMap_7",
     "name": "Papua New Guinea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-pg.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-pg.png",
+    "focalX": 0,
+    "focalY": 8.302776479046015,
+    "zoom": 1.45
   },
   {
     "id": "oceaniaMap_8",
     "name": "Palau",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-pw.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-pw.png",
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1.75
   },
   {
     "id": "oceaniaMap_9",
     "name": "New Zealand",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-nz.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-nz.png",
+    "focalX": 38.96388572100605,
+    "focalY": 100,
+    "zoom": 1.4000000000000001
   },
   {
     "id": "oceaniaMap_10",
     "name": "Nauru",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-nr.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-nr.png",
+    "focalX": 36.8230124835902,
+    "focalY": 0,
+    "zoom": 2.0999999999999996
   },
   {
     "id": "oceaniaMap_11",
     "name": "Kiribati",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-ki.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-ki.png",
+    "focalX": 100,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "oceaniaMap_12",
     "name": "Fiji",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-fj.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-fj.png",
+    "focalX": 44.85848738445197,
+    "focalY": 21.304105071805274,
+    "zoom": 1.5
   },
   {
     "id": "oceaniaMap_13",
     "name": "Australia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-au.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-au.png",
+    "focalX": 0,
+    "focalY": 37.298371893098455,
+    "zoom": 1.25
   },
   {
     "id": "oceaniaMap_14",
     "name": "Tuvalu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-tv.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-tv.png",
+    "focalX": 62.571503391195805,
+    "focalY": 12.046546131629142,
+    "zoom": 1.65
   }
 ];
 window.QM_LANDMARKS_DATA = [
