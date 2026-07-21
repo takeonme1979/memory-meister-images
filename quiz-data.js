@@ -11794,7 +11794,7 @@ window.QM_AFRICAMAP_DATA = [
   },
   {
     "id": "africaMap_8",
-    "name": "S. Sudan",
+    "name": "South Sudan",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-ss.png"
   },
   {
@@ -11944,7 +11944,7 @@ window.QM_AFRICAMAP_DATA = [
   },
   {
     "id": "africaMap_38",
-    "name": "Eq. Guinea",
+    "name": "Equatorial Guinea",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-gq.png"
   },
   {
@@ -11964,7 +11964,7 @@ window.QM_AFRICAMAP_DATA = [
   },
   {
     "id": "africaMap_42",
-    "name": "Dem. Rep. Congo",
+    "name": "Democratic Republic of the Congo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-cd.png"
   },
   {
@@ -11984,7 +11984,7 @@ window.QM_AFRICAMAP_DATA = [
   },
   {
     "id": "africaMap_46",
-    "name": "Central African Rep.",
+    "name": "Central African Republic",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/africa-map/country-cf.png"
   },
   {
@@ -12297,7 +12297,7 @@ window.QM_NAMERICAMAP_DATA = [
   },
   {
     "id": "namericaMap_3",
-    "name": "St. Vin. and Gren.",
+    "name": "Saint Vincent and the Grenadines",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-vc.png",
     "focalX": 100,
     "focalY": 100,
@@ -12310,7 +12310,7 @@ window.QM_NAMERICAMAP_DATA = [
   },
   {
     "id": "namericaMap_5",
-    "name": "St. Kitts and Nevis",
+    "name": "Saint Kitts and Nevis",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-kn.png"
   },
   {
@@ -12360,7 +12360,7 @@ window.QM_NAMERICAMAP_DATA = [
   },
   {
     "id": "namericaMap_15",
-    "name": "Dominican Rep.",
+    "name": "Dominican Republic",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-do.png"
   },
   {
@@ -12400,7 +12400,7 @@ window.QM_NAMERICAMAP_DATA = [
   },
   {
     "id": "namericaMap_23",
-    "name": "Antigua and Barb.",
+    "name": "Antigua and Barbuda",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-ag.png"
   }
 ];
@@ -12479,7 +12479,7 @@ window.QM_OCEANIAMAP_DATA = [
   },
   {
     "id": "oceaniaMap_3",
-    "name": "Marshall Is.",
+    "name": "Marshall Islands",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-mh.png"
   },
   {
@@ -12489,7 +12489,7 @@ window.QM_OCEANIAMAP_DATA = [
   },
   {
     "id": "oceaniaMap_5",
-    "name": "Solomon Is.",
+    "name": "Solomon Islands",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/oceania-map/country-sb.png"
   },
   {
@@ -26326,7 +26326,7 @@ window.QM_COUNTRIES_AFRICA_DATA = [
   },
   {
     "id": "ss",
-    "english": "S. Sudan",
+    "english": "South Sudan",
     "it": "Sudan del Sud",
     "pl": "Sudan Południowy",
     "fr": "Soudan du Sud",
@@ -26686,7 +26686,7 @@ window.QM_COUNTRIES_AFRICA_DATA = [
   },
   {
     "id": "gq",
-    "english": "Eq. Guinea",
+    "english": "Equatorial Guinea",
     "it": "Guinea Equatoriale",
     "pl": "Gwinea Równikowa",
     "fr": "Guinée équatoriale",
@@ -26734,7 +26734,7 @@ window.QM_COUNTRIES_AFRICA_DATA = [
   },
   {
     "id": "cd",
-    "english": "Dem. Rep. Congo",
+    "english": "Democratic Republic of the Congo",
     "it": "Repubblica Democratica del Congo",
     "pl": "Demokratyczna Republika Konga",
     "fr": "République démocratique du Congo",
@@ -26782,7 +26782,7 @@ window.QM_COUNTRIES_AFRICA_DATA = [
   },
   {
     "id": "cf",
-    "english": "Central African Rep.",
+    "english": "Central African Republic",
     "it": "Repubblica Centrafricana",
     "pl": "Republika Środkowoafrykańska",
     "fr": "République centrafricaine",
@@ -27950,7 +27950,7 @@ window.QM_COUNTRIES_EUROPE_DATA = [
   },
   {
     "id": "ba",
-    "english": "Bosnia and Herz.",
+    "english": "Bosnia and Herzegovina",
     "it": "Bosnia ed Erzegovina",
     "pl": "Bośnia i Hercegowina",
     "fr": "Bosnie-Herzégovine",
@@ -28048,7 +28048,7 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
   },
   {
     "id": "vc",
-    "english": "St. Vin. and Gren.",
+    "english": "Saint Vincent and the Grenadines",
     "it": "Saint Vincent e Grenadine",
     "pl": "Saint Vincent i Grenadyny",
     "fr": "Saint-Vincent-et-les-Grenadines",
@@ -28072,7 +28072,7 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
   },
   {
     "id": "kn",
-    "english": "St. Kitts and Nevis",
+    "english": "Saint Kitts and Nevis",
     "it": "Saint Kitts e Nevis",
     "pl": "Saint Kitts i Nevis",
     "fr": "Saint-Christophe-et-Niévès",
@@ -28192,7 +28192,7 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
   },
   {
     "id": "do",
-    "english": "Dominican Rep.",
+    "english": "Dominican Republic",
     "it": "Repubblica Dominicana",
     "pl": "Dominikana",
     "fr": "République dominicaine",
@@ -28288,7 +28288,7 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
   },
   {
     "id": "ag",
-    "english": "Antigua and Barb.",
+    "english": "Antigua and Barbuda",
     "it": "Antigua e Barbuda",
     "pl": "Antigua i Barbuda",
     "fr": "Antigua-et-Barbuda",
@@ -28472,7 +28472,7 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
   },
   {
     "id": "mh",
-    "english": "Marshall Is.",
+    "english": "Marshall Islands",
     "it": "Isole Marshall",
     "pl": "Wyspy Marshalla",
     "fr": "Îles Marshall",
@@ -28496,7 +28496,7 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
   },
   {
     "id": "sb",
-    "english": "Solomon Is.",
+    "english": "Solomon Islands",
     "it": "Isole Salomone",
     "pl": "Wyspy Salomona",
     "fr": "Îles Salomon",
