@@ -13996,47 +13996,110 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784505944184_863e8us2",
     "name": "Dead or Alive",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/dead-or-alive.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/dead-or-alive.jpg",
+    "focalX": 50,
+    "focalY": 18.476865448749443,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784591481166_ud00ld2w",
     "name": "Nik Kershaw",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/nik-kershaw.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/nik-kershaw.jpg",
+    "focalX": 50,
+    "focalY": 9.584942933282338,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784591481664_qfnx0zl6",
     "name": "Haircut 100",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/haircut-100.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/haircut-100.png",
+    "focalX": 48.291766496869506,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784591482433_z4s42zug",
     "name": "Altered Images",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/altered-images.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/altered-images.webp",
+    "focalX": 53.83410331530448,
+    "focalY": 13.769946955105933,
+    "zoom": 1.25,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784591482872_ragmzr0m",
     "name": "The Cars",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/the-cars.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/the-cars.jpg",
+    "focalX": 17.788543491599317,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1.14,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784591483667_n5flksnr",
     "name": "INXS",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/inxs.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/inxs.webp",
+    "focalX": 60.38419283353363,
+    "focalY": 15.804014552603446,
+    "zoom": 1.1500000000000001,
+    "brightness": 1.1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784591484429_m14b4cs1",
     "name": "Fun Boy Three",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/fun-boy-three.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/fun-boy-three.jpg",
+    "focalX": 30.28618097305297,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784591484858_8zxt47yg",
     "name": "Desireless",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/desireless.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/desireless.jpg",
+    "focalX": 19.37644874656595,
+    "focalY": 7.836755353856276,
+    "zoom": 1.55,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784591485278_jjrur9sa",
     "name": "Jean-Michel Jarre",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/jean-michel-jarre.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/jean-michel-jarre.jpg",
+    "focalX": 34.82311281383549,
+    "focalY": 13.87960711461987,
+    "zoom": 1.1500000000000001,
+    "brightness": 1.2,
+    "contrast": 1,
+    "saturation": 0.77,
+    "gamma": 1
   },
   {
     "id": "id_1784591486162_8anj27kp",
