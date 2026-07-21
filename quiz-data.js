@@ -12080,7 +12080,7 @@ window.QM_ASIAMAP_DATA = [
     "id": "asiaMap_7",
     "name": "Timor-Leste",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tl.png",
-    "focalX": 91.70876351453457,
+    "focalX": 90.70366933695773,
     "focalY": 100,
     "zoom": 3
   },
@@ -12208,9 +12208,9 @@ window.QM_ASIAMAP_DATA = [
     "id": "asiaMap_23",
     "name": "Maldives",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-mv.png",
-    "focalX": 23.229675214201702,
-    "focalY": 79.05489779251127,
-    "zoom": 1.65
+    "focalX": 20.68049791760079,
+    "focalY": 80.16033251584965,
+    "zoom": 2.24
   },
   {
     "id": "asiaMap_24",
