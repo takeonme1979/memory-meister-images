@@ -12032,7 +12032,10 @@ window.QM_ASIAMAP_DATA = [
   {
     "id": "asiaMap_1",
     "name": "Yemen",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-ye.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-ye.png",
+    "focalX": 7.663828574304238,
+    "focalY": 80.73106566911498,
+    "zoom": 1.65
   },
   {
     "id": "asiaMap_2",
@@ -12279,17 +12282,26 @@ window.QM_NAMERICAMAP_DATA = [
   {
     "id": "namericaMap_1",
     "name": "United States of America",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-us.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-us.png",
+    "focalX": 0,
+    "focalY": 24.4407206232053,
+    "zoom": 1.05
   },
   {
     "id": "namericaMap_2",
     "name": "Trinidad and Tobago",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-tt.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-tt.png",
+    "focalX": 92.93074974646936,
+    "focalY": 99.08435190841381,
+    "zoom": 3
   },
   {
     "id": "namericaMap_3",
     "name": "St. Vin. and Gren.",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-vc.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-vc.png",
+    "focalX": 100,
+    "focalY": 100,
+    "zoom": 3
   },
   {
     "id": "namericaMap_4",
