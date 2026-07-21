@@ -2522,7 +2522,6 @@ window.QM_HIDDEN_QUIZZES = [
   "guitarists",
   "womensTennis",
   "worldChessChamps",
-  "synthpopBands",
   "classicRockBands",
   "modernRockBands",
   "ukBoybands",
