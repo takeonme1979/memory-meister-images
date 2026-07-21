@@ -13305,17 +13305,26 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "geranium",
     "name": "Geranium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/geranium.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/geranium.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "begonia",
     "name": "Begonia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/begonia.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/begonia.jpg",
+    "focalX": 50,
+    "focalY": 30.85791093376791,
+    "zoom": 1
   },
   {
     "id": "fuchsia",
     "name": "Fuchsia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/fuchsia.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/fuchsia.jpg",
+    "focalX": 0,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "camellia",
@@ -13345,7 +13354,10 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "hibiscus",
     "name": "Hibiscus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hibiscus.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hibiscus.jpg",
+    "focalX": 50,
+    "focalY": 23.27286921604183,
+    "zoom": 1
   },
   {
     "id": "magnolia",
@@ -13360,7 +13372,10 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "lotus",
     "name": "Lotus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lotus.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lotus.jpg",
+    "focalX": 50,
+    "focalY": 70.48696443313551,
+    "zoom": 1
   },
   {
     "id": "bird-of-paradise",
@@ -13380,7 +13395,10 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "amaryllis",
     "name": "Amaryllis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/amaryllis.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/amaryllis.jpg",
+    "focalX": 11.869201660156229,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "gladiolus",
@@ -13407,7 +13425,10 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "cosmos",
     "name": "Cosmos",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cosmos.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cosmos.jpg",
+    "focalX": 50,
+    "focalY": 100,
+    "zoom": 1
   },
   {
     "id": "nasturtium",
@@ -13417,34 +13438,49 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "sweet-pea",
     "name": "Sweet Pea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sweet-pea.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sweet-pea.jpg",
+    "focalX": 50,
+    "focalY": 34.85770992797619,
+    "zoom": 1
   },
   {
     "id": "bluebell",
     "name": "Bluebell",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bluebell.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bluebell.jpg",
+    "focalX": 50,
+    "focalY": 30.171463133000692,
+    "zoom": 1
   },
   {
     "id": "crocus",
     "name": "Crocus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/crocus.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/crocus.jpg",
+    "focalX": 66.15167162632983,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "hyacinth",
     "name": "Hyacinth",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hyacinth.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hyacinth.jpg",
+    "focalX": 50,
+    "focalY": 33.47709665480693,
+    "zoom": 1
   },
   {
     "id": "anemone",
     "name": "Anemone",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/anemone.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/anemone.jpg",
+    "focalX": 1.3560863541777832,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ranunculus",
     "name": "Ranunculus",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/ranunculus.webp",
     "focalX": 100,
-    "focalY": 48.23988760201034,
+    "focalY": 50.76294296288808,
     "zoom": 1.05,
     "brightness": 1.11,
     "contrast": 1,
@@ -13459,7 +13495,10 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "bougainvillea",
     "name": "Bougainvillea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bougainvillea.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bougainvillea.jpg",
+    "focalX": 27.485551063640205,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "lilac",
@@ -13484,22 +13523,38 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "red-hot-poker",
     "name": "Red Hot Poker",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/red-hot-poker.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/red-hot-poker.jpg",
+    "focalX": 0,
+    "focalY": 39.45922746781115,
+    "zoom": 1.2
   },
   {
     "id": "astilbe",
     "name": "Astilbe",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/astilbe.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/astilbe.jpg",
+    "focalX": 50,
+    "focalY": 96.85171283956308,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "canna-lily",
     "name": "Canna Lily",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/canna-lily.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/canna-lily.jpg",
+    "focalX": 50,
+    "focalY": 24.98070519874973,
+    "zoom": 1
   },
   {
     "id": "columbine",
     "name": "Columbine",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/columbine.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/columbine.jpg",
+    "focalX": 3.1098859063510296,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "bleeding-heart",
@@ -13529,7 +13584,10 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "bee-balm",
     "name": "Bee Balm",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bee-balm.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bee-balm.jpg",
+    "focalX": 50,
+    "focalY": 31.33414065610072,
+    "zoom": 1
   },
   {
     "id": "aster",
@@ -13539,7 +13597,10 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "gerbera",
     "name": "Gerbera",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gerbera.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gerbera.jpg",
+    "focalX": 50,
+    "focalY": 10.911609299328267,
+    "zoom": 1
   },
   {
     "id": "black-eyed-susan",
@@ -13549,12 +13610,18 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "primrose",
     "name": "Primrose",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/primrose.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/primrose.jpg",
+    "focalX": 28.69165039062499,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "cyclamen",
     "name": "Cyclamen",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cyclamen.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cyclamen.jpg",
+    "focalX": 50,
+    "focalY": 34.66767096063893,
+    "zoom": 1
   },
   {
     "id": "freesia",
@@ -13574,7 +13641,10 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "protea",
     "name": "Protea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/protea.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/protea.jpg",
+    "focalX": 50,
+    "focalY": 100,
+    "zoom": 1
   },
   {
     "id": "frangipani",
@@ -13584,12 +13654,18 @@ window.QM_FLOWERS_DATA = [
   {
     "id": "passionflower",
     "name": "Passionflower",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/passionflower.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/passionflower.jpg",
+    "focalX": 50,
+    "focalY": 45.215261430422125,
+    "zoom": 1
   },
   {
     "id": "morning-glory",
     "name": "Morning Glory",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/morning-glory.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/morning-glory.jpg",
+    "focalX": 100,
+    "focalY": 50,
+    "zoom": 1
   }
 ];
 window.QM_UKCOUNTIES_DATA = [
