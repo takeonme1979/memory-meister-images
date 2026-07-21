@@ -2553,7 +2553,9 @@ window.QM_HIDDEN_QUIZZES = [
   "samericaMap",
   "oceaniaMap",
   "male00s",
-  "female00s"
+  "female00s",
+  "scottishCounties",
+  "welshCounties"
 ];
 window.QM_QUIZ_META = {
   "male90s": {
