@@ -12434,8 +12434,8 @@ window.QM_NAMERICAMAP_DATA = [
     "id": "namericaMap_2",
     "name": "Trinidad and Tobago",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-tt.png",
-    "focalX": 92.93074974646936,
-    "focalY": 99.08435190841381,
+    "focalX": 94.30865752391327,
+    "focalY": 100,
     "zoom": 3
   },
   {
@@ -12449,62 +12449,98 @@ window.QM_NAMERICAMAP_DATA = [
   {
     "id": "namericaMap_4",
     "name": "Saint Lucia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-lc.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-lc.png",
+    "focalX": 98.68200253217648,
+    "focalY": 100,
+    "zoom": 3
   },
   {
     "id": "namericaMap_5",
     "name": "Saint Kitts and Nevis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-kn.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-kn.png",
+    "focalX": 100,
+    "focalY": 100,
+    "zoom": 3
   },
   {
     "id": "namericaMap_6",
     "name": "Panama",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-pa.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-pa.png",
+    "focalX": 81.35353085838318,
+    "focalY": 100,
+    "zoom": 3
   },
   {
     "id": "namericaMap_7",
     "name": "Nicaragua",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-ni.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-ni.png",
+    "focalX": 72.86123422475958,
+    "focalY": 100,
+    "zoom": 3
   },
   {
     "id": "namericaMap_8",
     "name": "Mexico",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-mx.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-mx.png",
+    "focalX": 70.36913032205692,
+    "focalY": 100,
+    "zoom": 1.8
   },
   {
     "id": "namericaMap_9",
     "name": "Jamaica",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-jm.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-jm.png",
+    "focalX": 81.82158508098408,
+    "focalY": 100,
+    "zoom": 2.3499999999999996
   },
   {
     "id": "namericaMap_10",
     "name": "Honduras",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-hn.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-hn.png",
+    "focalX": 71.52154460119282,
+    "focalY": 100,
+    "zoom": 2.4
   },
   {
     "id": "namericaMap_11",
     "name": "Haiti",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-ht.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-ht.png",
+    "focalX": 96.78254278536838,
+    "focalY": 100,
+    "zoom": 3
   },
   {
     "id": "namericaMap_12",
     "name": "Guatemala",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-gt.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-gt.png",
+    "focalX": 73.36254059139637,
+    "focalY": 100,
+    "zoom": 2.8000000000000003
   },
   {
     "id": "namericaMap_13",
     "name": "Grenada",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-gd.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-gd.png",
+    "focalX": 100,
+    "focalY": 100,
+    "zoom": 3
   },
   {
     "id": "namericaMap_14",
     "name": "El Salvador",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-sv.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-sv.png",
+    "focalX": 76.57560690855368,
+    "focalY": 100,
+    "zoom": 3
   },
   {
     "id": "namericaMap_15",
     "name": "Dominican Republic",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-do.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-do.png",
+    "focalX": 100,
+    "focalY": 100,
+    "zoom": 3
   },
   {
     "id": "namericaMap_16",
