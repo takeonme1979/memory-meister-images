@@ -12033,54 +12033,81 @@ window.QM_ASIAMAP_DATA = [
     "id": "asiaMap_1",
     "name": "Yemen",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-ye.png",
-    "focalX": 7.663828574304238,
-    "focalY": 80.73106566911498,
-    "zoom": 1.65
+    "focalX": 0,
+    "focalY": 72.1819160677193,
+    "zoom": 1.9000000000000001
   },
   {
     "id": "asiaMap_2",
     "name": "Vietnam",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-vn.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-vn.png",
+    "focalX": 63.547019957348894,
+    "focalY": 73.82494437503176,
+    "zoom": 2.25
   },
   {
     "id": "asiaMap_3",
     "name": "Uzbekistan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-uz.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-uz.png",
+    "focalX": 3.8438091893151505,
+    "focalY": 0,
+    "zoom": 1.3499999999999999
   },
   {
     "id": "asiaMap_4",
     "name": "United Arab Emirates",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-ae.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-ae.png",
+    "focalX": 7.084875331185516,
+    "focalY": 60.79440062594359,
+    "zoom": 2.3
   },
   {
     "id": "asiaMap_5",
     "name": "Turkmenistan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tm.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tm.png",
+    "focalX": 0,
+    "focalY": 22.42465483234813,
+    "zoom": 1.55
   },
   {
     "id": "asiaMap_6",
     "name": "Turkey",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tr.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tr.png",
+    "focalX": 0,
+    "focalY": 33.349763814481136,
+    "zoom": 1.8
   },
   {
     "id": "asiaMap_7",
     "name": "Timor-Leste",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tl.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tl.png",
+    "focalX": 89.36355060437018,
+    "focalY": 100,
+    "zoom": 3
   },
   {
     "id": "asiaMap_8",
     "name": "Thailand",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-th.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-th.png",
+    "focalX": 68.18908024063805,
+    "focalY": 76.79069136100387,
+    "zoom": 2.25
   },
   {
     "id": "asiaMap_9",
     "name": "Tajikistan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tj.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tj.png",
+    "focalX": 26.433830334067483,
+    "focalY": 19.38002891982385,
+    "zoom": 1.6
   },
   {
     "id": "asiaMap_10",
     "name": "Taiwan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tw.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/asia-map/country-tw.png",
+    "focalX": 83.80689412986119,
+    "focalY": 67.97241796537887,
+    "zoom": 2.4499999999999997
   },
   {
     "id": "asiaMap_11",
