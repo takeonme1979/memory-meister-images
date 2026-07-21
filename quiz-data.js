@@ -2548,8 +2548,7 @@ window.QM_HIDDEN_QUIZZES = [
   "male00s",
   "female00s",
   "scottishCounties",
-  "welshCounties",
-  "flowers"
+  "welshCounties"
 ];
 window.QM_QUIZ_META = {
   "male90s": {
@@ -16001,10 +16000,14 @@ window.QM_PUPPIES_DATA = [
   {
     "id": "id_1784133075980_0q5g0xf",
     "name": "Dalmatian",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/puppies/dalmatian.png",
-    "focalX": 29.853368519309043,
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/puppies/dalmatian.jpg",
+    "focalX": 60.59441817434211,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075980_11mph8c",
@@ -16014,7 +16017,14 @@ window.QM_PUPPIES_DATA = [
   {
     "id": "id_1784133075980_25mnfc9",
     "name": "Great Dane",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/puppies/great-dane.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/puppies/great-dane.jpg",
+    "focalX": 0,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1.36,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075980_36iusaz",
