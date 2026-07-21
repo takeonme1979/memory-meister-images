@@ -2559,12 +2559,12 @@ window.QM_QUIZ_META = {
   "male90s": {
     "title": "Male Artists (90s)",
     "promptText": "Identify this artist",
-    "desc": "Identify these best-selling male artists from the 90s."
+    "desc": "Identify these best-selling male artists from the 90s, based on the UK charts."
   },
   "musicians": {
     "title": "Female Artists (2010+)",
     "promptText": "Identify this artist",
-    "desc": "Identify these best-selling female artists since 2010."
+    "desc": "Identify these best-selling female artists since 2010, based on the UK charts."
   },
   "techAcronyms": {
     "title": "Tech and Chat Acronyms",
@@ -2580,6 +2580,36 @@ window.QM_QUIZ_META = {
     "title": "Women's Tennis Grand Slam Champions",
     "promptText": "Name the champ.",
     "desc": "Open Era women's Grand Slam champions."
+  },
+  "male2010s": {
+    "desc": "Identify these best-selling male artists since 2010, based on the UK charts."
+  },
+  "female90s": {
+    "desc": "Identify these best-selling female artists from the 90s, based on the UK charts."
+  },
+  "male00s": {
+    "desc": "Identify these best-selling male artists from the 2000s, based on the UK charts."
+  },
+  "female00s": {
+    "desc": "Identify these best-selling female artists from the 2000s, based on the UK charts."
+  },
+  "male60s": {
+    "desc": "Identify these best-selling male artists from the 60s, based on the UK charts."
+  },
+  "female60s": {
+    "desc": "Identify these best-selling female artists from the 60s, based on the UK charts."
+  },
+  "male70s": {
+    "desc": "Identify these best-selling male artists from the 70s, based on the UK charts."
+  },
+  "female70s": {
+    "desc": "Identify these best-selling female artists from the 70s, based on the UK charts."
+  },
+  "male80s": {
+    "desc": "Identify these best-selling male artists from the 80s, based on the UK charts."
+  },
+  "female80s": {
+    "desc": "Identify these best-selling female artists from the 80s, based on the UK charts."
   }
 };
 window.QM_CATEGORY_META = {};
