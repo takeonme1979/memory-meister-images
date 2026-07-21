@@ -2546,7 +2546,6 @@ window.QM_HIDDEN_QUIZZES = [
   "male80s",
   "irishCounties",
   "africaMap",
-  "namericaMap",
   "samericaMap",
   "oceaniaMap",
   "male00s",
@@ -12530,7 +12529,7 @@ window.QM_NAMERICAMAP_DATA = [
     "id": "namericaMap_14",
     "name": "El Salvador",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-sv.png",
-    "focalX": 76.57560690855368,
+    "focalX": 77.4742419903095,
     "focalY": 100,
     "zoom": 3
   },
@@ -12545,42 +12544,66 @@ window.QM_NAMERICAMAP_DATA = [
   {
     "id": "namericaMap_16",
     "name": "Dominica",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-dm.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-dm.png",
+    "focalX": 96.18978255834335,
+    "focalY": 100,
+    "zoom": 3
   },
   {
     "id": "namericaMap_17",
     "name": "Cuba",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-cu.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-cu.png",
+    "focalX": 94.80365793907521,
+    "focalY": 100,
+    "zoom": 2.4499999999999997
   },
   {
     "id": "namericaMap_18",
     "name": "Costa Rica",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-cr.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-cr.png",
+    "focalX": 81.7365816096195,
+    "focalY": 100,
+    "zoom": 2.9
   },
   {
     "id": "namericaMap_19",
     "name": "Canada",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-ca.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-ca.png",
+    "focalX": 50,
+    "focalY": 0,
+    "zoom": 1
   },
   {
     "id": "namericaMap_20",
     "name": "Belize",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-bz.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-bz.png",
+    "focalX": 82.40512010043261,
+    "focalY": 100,
+    "zoom": 2.8499999999999996
   },
   {
     "id": "namericaMap_21",
     "name": "Barbados",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-bb.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-bb.png",
+    "focalX": 99.70045823317307,
+    "focalY": 100,
+    "zoom": 3
   },
   {
     "id": "namericaMap_22",
     "name": "Bahamas",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-bs.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-bs.png",
+    "focalX": 93.3586721455221,
+    "focalY": 98.06449020470116,
+    "zoom": 2.75
   },
   {
     "id": "namericaMap_23",
     "name": "Antigua and Barbuda",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-ag.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/geography/namerica-map/country-ag.png",
+    "focalX": 94.54828898111978,
+    "focalY": 100,
+    "zoom": 3
   }
 ];
 window.QM_SAMERICAMAP_DATA = [
