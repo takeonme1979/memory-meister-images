@@ -14104,42 +14104,98 @@ window.QM_SYNTHPOPBANDS_DATA = [
   {
     "id": "id_1784591486162_8anj27kp",
     "name": "The Cure",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/the-cure.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/the-cure.jpg",
+    "focalX": 50,
+    "focalY": 36.94409592087203,
+    "zoom": 1,
+    "brightness": 1.15,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784591487063_kbs8hux7",
     "name": "Echo & the Bunnymen",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/echo-and-the-bunnymen.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/echo-and-the-bunnymen.jpg",
+    "focalX": 32.623551420109,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784591487641_ajh32b6z",
     "name": "Strawberry Switchblade",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/strawberry-switchblade.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/strawberry-switchblade.jpg",
+    "focalX": 29.397173533830795,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784591488229_qm72pc18",
     "name": "Kon Kan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/kon-kan.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/kon-kan.jpg",
+    "focalX": 41.21315458900908,
+    "focalY": 0,
+    "zoom": 1.0999999999999999,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784591488229_pzlogi40",
     "name": "Fiction Factory",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/fiction-factory.webp",
+    "focalX": 50,
+    "focalY": 26.59413239146909,
+    "zoom": 1,
+    "brightness": 0.95,
+    "contrast": 1,
+    "saturation": 1.05,
+    "gamma": 1
   },
   {
     "id": "id_1784591488229_6deu64kp",
     "name": "Dollar",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/dollar.webp",
+    "focalX": 45.2071752303686,
+    "focalY": 0,
+    "zoom": 1.1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.77
   },
   {
     "id": "id_1784591488229_xc6pfuz8",
     "name": "Landscape",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/landscape.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1.37,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.69
   },
   {
     "id": "id_1784591488229_mn2shxdk",
     "name": "The Assembly",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/synthpop-bands/the-assembly.jpg",
+    "focalX": 58.33014267986937,
+    "focalY": 28.545237262583456,
+    "zoom": 1.75,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   }
 ];
 window.QM_CLASSICROCKBANDS_DATA = [
