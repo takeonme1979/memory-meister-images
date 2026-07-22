@@ -17110,6 +17110,240 @@ window.QM_FLOWERS_DATA = [
 ];
 window.QM_MONARCHS_DATA = [
   {
+    "id": "egbert",
+    "name": "Egbert",
+    "reign": "802–839",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/egbert.jpg"
+  },
+  {
+    "id": "aethelwulf",
+    "name": "Æthelwulf",
+    "reign": "839–858",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelwulf.jpg"
+  },
+  {
+    "id": "aethelbald",
+    "name": "Æthelbald",
+    "reign": "858–860",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelbald.jpg"
+  },
+  {
+    "id": "aethelberht",
+    "name": "Æthelberht",
+    "reign": "860–865",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelberht.jpg"
+  },
+  {
+    "id": "aethelred-i",
+    "name": "Æthelred I",
+    "reign": "865–871",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelred-i.jpg"
+  },
+  {
+    "id": "alfred-the-great",
+    "name": "Alfred the Great",
+    "reign": "871–899",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/alfred-the-great.jpg"
+  },
+  {
+    "id": "edward-the-elder",
+    "name": "Edward the Elder",
+    "reign": "899–924",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-elder.jpg"
+  },
+  {
+    "id": "aethelstan",
+    "name": "Æthelstan",
+    "reign": "924–939",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelstan.jpg"
+  },
+  {
+    "id": "edmund-i",
+    "name": "Edmund I",
+    "reign": "939–946",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edmund-i.jpg"
+  },
+  {
+    "id": "eadred",
+    "name": "Eadred",
+    "reign": "946–955",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/eadred.jpg"
+  },
+  {
+    "id": "eadwig",
+    "name": "Eadwig",
+    "reign": "955–959",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/eadwig.jpg"
+  },
+  {
+    "id": "edgar-the-peaceful",
+    "name": "Edgar the Peaceful",
+    "reign": "959–975",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edgar-the-peaceful.jpg"
+  },
+  {
+    "id": "edward-the-martyr",
+    "name": "Edward the Martyr",
+    "reign": "975–978",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-martyr.jpg"
+  },
+  {
+    "id": "aethelred-unready",
+    "name": "Æthelred the Unready",
+    "reign": "978–1016",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelred-unready.jpg"
+  },
+  {
+    "id": "sweyn-forkbeard",
+    "name": "Sweyn Forkbeard",
+    "reign": "1013–1014",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/sweyn-forkbeard.jpg"
+  },
+  {
+    "id": "edmund-ironside",
+    "name": "Edmund Ironside",
+    "reign": "1016",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edmund-ironside.jpg"
+  },
+  {
+    "id": "cnut-the-great",
+    "name": "Cnut the Great",
+    "reign": "1016–1035",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/cnut-the-great.jpg"
+  },
+  {
+    "id": "harold-harefoot",
+    "name": "Harold Harefoot",
+    "reign": "1035–1040",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harold-harefoot.jpg"
+  },
+  {
+    "id": "harthacnut",
+    "name": "Harthacnut",
+    "reign": "1040–1042",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harthacnut.jpg"
+  },
+  {
+    "id": "edward-the-confessor",
+    "name": "Edward the Confessor",
+    "reign": "1042–1066",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-confessor.jpg"
+  },
+  {
+    "id": "harold-ii",
+    "name": "Harold II",
+    "reign": "1066",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harold-ii.jpg"
+  },
+  {
+    "id": "william-the-conqueror",
+    "name": "William the Conqueror",
+    "reign": "1066–1087",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-the-conqueror.jpg"
+  },
+  {
+    "id": "william-ii",
+    "name": "William II",
+    "reign": "1087–1100",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-ii.jpg"
+  },
+  {
+    "id": "henry-i",
+    "name": "Henry I",
+    "reign": "1100–1135",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-i.jpg"
+  },
+  {
+    "id": "stephen",
+    "name": "Stephen",
+    "reign": "1135–1154",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/stephen.jpg"
+  },
+  {
+    "id": "henry-ii",
+    "name": "Henry II",
+    "reign": "1154–1189",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-ii.jpg"
+  },
+  {
+    "id": "richard-the-lionheart",
+    "name": "Richard the Lionheart",
+    "reign": "1189–1199",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-the-lionheart.jpg"
+  },
+  {
+    "id": "john",
+    "name": "John",
+    "reign": "1199–1216",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/john.jpg"
+  },
+  {
+    "id": "henry-iii",
+    "name": "Henry III",
+    "reign": "1216–1272",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-iii.jpg"
+  },
+  {
+    "id": "edward-i",
+    "name": "Edward I",
+    "reign": "1272–1307",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-i.jpg"
+  },
+  {
+    "id": "edward-ii",
+    "name": "Edward II",
+    "reign": "1307–1327",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-ii.jpg"
+  },
+  {
+    "id": "edward-iii",
+    "name": "Edward III",
+    "reign": "1327–1377",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-iii.jpg"
+  },
+  {
+    "id": "richard-ii",
+    "name": "Richard II",
+    "reign": "1377–1399",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-ii.jpg"
+  },
+  {
+    "id": "henry-iv",
+    "name": "Henry IV",
+    "reign": "1399–1413",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-iv.jpg"
+  },
+  {
+    "id": "henry-v",
+    "name": "Henry V",
+    "reign": "1413–1422",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-v.jpg"
+  },
+  {
+    "id": "henry-vi",
+    "name": "Henry VI",
+    "reign": "1422–1461, 1470–1471",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-vi.jpg"
+  },
+  {
+    "id": "edward-iv",
+    "name": "Edward IV",
+    "reign": "1461–1470, 1471–1483",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-iv.jpg"
+  },
+  {
+    "id": "edward-v",
+    "name": "Edward V",
+    "reign": "1483",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-v.jpg"
+  },
+  {
+    "id": "richard-iii",
+    "name": "Richard III",
+    "reign": "1483–1485",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-iii.jpg"
+  },
+  {
     "id": "henry-vii",
     "name": "Henry VII",
     "reign": "1485–1509",
