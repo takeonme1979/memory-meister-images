@@ -2548,7 +2548,8 @@ window.QM_HIDDEN_QUIZZES = [
   "male00s",
   "female00s",
   "scottishCounties",
-  "welshCounties"
+  "welshCounties",
+  "monarchs"
 ];
 window.QM_QUIZ_META = {
   "male90s": {
@@ -13153,6 +13154,900 @@ window.QM_LANDMARKS_DATA = [
     "zoom": 1
   }
 ];
+window.QM_FLOWERS_DATA = [
+  {
+    "id": "rose",
+    "name": "Rose",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/rose.jpg",
+    "focalX": 50,
+    "focalY": 12.097217874846674,
+    "zoom": 1
+  },
+  {
+    "id": "tulip",
+    "name": "Tulip",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/tulip.jpg"
+  },
+  {
+    "id": "daffodil",
+    "name": "Daffodil",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/daffodil.jpg",
+    "focalX": 50,
+    "focalY": 29.90547092705016,
+    "zoom": 1
+  },
+  {
+    "id": "sunflower",
+    "name": "Sunflower",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sunflower.jpg",
+    "focalX": 50,
+    "focalY": 36.13974637581235,
+    "zoom": 1
+  },
+  {
+    "id": "orchid",
+    "name": "Orchid",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/orchid.jpg",
+    "focalX": 92.75833158666946,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "iris",
+    "name": "Iris",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/iris.jpg",
+    "focalX": 50,
+    "focalY": 11.295883890926946,
+    "zoom": 1
+  },
+  {
+    "id": "peony",
+    "name": "Peony",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/peony.jpg"
+  },
+  {
+    "id": "dahlia",
+    "name": "Dahlia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/dahlia.jpg"
+  },
+  {
+    "id": "hydrangea",
+    "name": "Hydrangea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hydrangea.jpg",
+    "focalX": 50,
+    "focalY": 78.47979464196855,
+    "zoom": 1
+  },
+  {
+    "id": "chrysanthemum",
+    "name": "Chrysanthemum",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/chrysanthemum.webp",
+    "focalX": 50,
+    "focalY": 96.99843611807194,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "poppy",
+    "name": "Poppy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/poppy.jpg"
+  },
+  {
+    "id": "foxglove",
+    "name": "Foxglove",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/foxglove.jpg",
+    "focalX": 50,
+    "focalY": 0,
+    "zoom": 1
+  },
+  {
+    "id": "lavender",
+    "name": "Lavender",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lavender.jpg"
+  },
+  {
+    "id": "hollyhock",
+    "name": "Hollyhock",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hollyhock.jpg"
+  },
+  {
+    "id": "snapdragon",
+    "name": "Snapdragon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/snapdragon.jpg",
+    "focalX": 50,
+    "focalY": 40.62038698621616,
+    "zoom": 1
+  },
+  {
+    "id": "delphinium",
+    "name": "Delphinium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/delphinium.jpg"
+  },
+  {
+    "id": "lupin",
+    "name": "Lupin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lupin.jpg",
+    "focalX": 50,
+    "focalY": 45.85879730418988,
+    "zoom": 1
+  },
+  {
+    "id": "marigold",
+    "name": "Marigold",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/marigold.jpg",
+    "focalX": 50,
+    "focalY": 10.870306166541974,
+    "zoom": 1
+  },
+  {
+    "id": "pansy",
+    "name": "Pansy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/pansy.jpg",
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1
+  },
+  {
+    "id": "petunia",
+    "name": "Petunia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/petunia.jpg",
+    "focalX": 50,
+    "focalY": 13.475914827577625,
+    "zoom": 1
+  },
+  {
+    "id": "geranium",
+    "name": "Geranium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/geranium.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "begonia",
+    "name": "Begonia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/begonia.jpg",
+    "focalX": 50,
+    "focalY": 30.85791093376791,
+    "zoom": 1
+  },
+  {
+    "id": "fuchsia",
+    "name": "Fuchsia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/fuchsia.jpg",
+    "focalX": 0,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "camellia",
+    "name": "Camellia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/camellia.jpg"
+  },
+  {
+    "id": "rhododendron",
+    "name": "Rhododendron",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/rhododendron.jpg"
+  },
+  {
+    "id": "coneflower",
+    "name": "Coneflower",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/coneflower.jpg"
+  },
+  {
+    "id": "wisteria",
+    "name": "Wisteria",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/wisteria.jpg"
+  },
+  {
+    "id": "clematis",
+    "name": "Clematis",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/clematis.jpg"
+  },
+  {
+    "id": "hibiscus",
+    "name": "Hibiscus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hibiscus.jpg",
+    "focalX": 50,
+    "focalY": 23.27286921604183,
+    "zoom": 1
+  },
+  {
+    "id": "magnolia",
+    "name": "Magnolia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/magnolia.jpg"
+  },
+  {
+    "id": "water-lily",
+    "name": "Water Lily",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/water-lily.jpg"
+  },
+  {
+    "id": "lotus",
+    "name": "Lotus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lotus.jpg",
+    "focalX": 50,
+    "focalY": 70.48696443313551,
+    "zoom": 1
+  },
+  {
+    "id": "bird-of-paradise",
+    "name": "Bird of Paradise",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bird-of-paradise.jpg"
+  },
+  {
+    "id": "anthurium",
+    "name": "Anthurium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/anthurium.jpg"
+  },
+  {
+    "id": "calla-lily",
+    "name": "Calla Lily",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/calla-lily.jpg"
+  },
+  {
+    "id": "amaryllis",
+    "name": "Amaryllis",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/amaryllis.jpg",
+    "focalX": 11.869201660156229,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "gladiolus",
+    "name": "Gladiolus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gladiolus.jpg",
+    "focalX": 50,
+    "focalY": 68.78470482016509,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "carnation",
+    "name": "Carnation",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/carnation.jpg"
+  },
+  {
+    "id": "zinnia",
+    "name": "Zinnia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/zinnia.jpg"
+  },
+  {
+    "id": "cosmos",
+    "name": "Cosmos",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cosmos.jpg",
+    "focalX": 50,
+    "focalY": 100,
+    "zoom": 1
+  },
+  {
+    "id": "nasturtium",
+    "name": "Nasturtium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/nasturtium.jpg"
+  },
+  {
+    "id": "sweet-pea",
+    "name": "Sweet Pea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sweet-pea.jpg",
+    "focalX": 50,
+    "focalY": 34.85770992797619,
+    "zoom": 1
+  },
+  {
+    "id": "bluebell",
+    "name": "Bluebell",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bluebell.jpg",
+    "focalX": 50,
+    "focalY": 30.171463133000692,
+    "zoom": 1
+  },
+  {
+    "id": "crocus",
+    "name": "Crocus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/crocus.jpg",
+    "focalX": 66.15167162632983,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "hyacinth",
+    "name": "Hyacinth",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hyacinth.jpg",
+    "focalX": 50,
+    "focalY": 33.47709665480693,
+    "zoom": 1
+  },
+  {
+    "id": "anemone",
+    "name": "Anemone",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/anemone.jpg",
+    "focalX": 1.3560863541777832,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "ranunculus",
+    "name": "Ranunculus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/ranunculus.webp",
+    "focalX": 100,
+    "focalY": 50.76294296288808,
+    "zoom": 1.05,
+    "brightness": 1.11,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.84
+  },
+  {
+    "id": "gardenia",
+    "name": "Gardenia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gardenia.jpg"
+  },
+  {
+    "id": "bougainvillea",
+    "name": "Bougainvillea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bougainvillea.jpg",
+    "focalX": 27.485551063640205,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "lilac",
+    "name": "Lilac",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lilac.jpg"
+  },
+  {
+    "id": "agapanthus",
+    "name": "Agapanthus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/agapanthus.jpg"
+  },
+  {
+    "id": "allium",
+    "name": "Allium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/allium.jpg"
+  },
+  {
+    "id": "alstroemeria",
+    "name": "Alstroemeria",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/alstroemeria.jpg"
+  },
+  {
+    "id": "red-hot-poker",
+    "name": "Red Hot Poker",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/red-hot-poker.jpg",
+    "focalX": 0,
+    "focalY": 39.45922746781115,
+    "zoom": 1.2
+  },
+  {
+    "id": "astilbe",
+    "name": "Astilbe",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/astilbe.jpg",
+    "focalX": 50,
+    "focalY": 96.85171283956308,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "canna-lily",
+    "name": "Canna Lily",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/canna-lily.jpg",
+    "focalX": 50,
+    "focalY": 24.98070519874973,
+    "zoom": 1
+  },
+  {
+    "id": "columbine",
+    "name": "Columbine",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/columbine.jpg",
+    "focalX": 3.1098859063510296,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "bleeding-heart",
+    "name": "Bleeding Heart",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bleeding-heart.jpg"
+  },
+  {
+    "id": "sweet-william",
+    "name": "Sweet William",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sweet-william.jpg"
+  },
+  {
+    "id": "love-in-a-mist",
+    "name": "Love-in-a-Mist",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/love-in-a-mist.jpg"
+  },
+  {
+    "id": "scabiosa",
+    "name": "Scabiosa",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/scabiosa.jpg"
+  },
+  {
+    "id": "cornflower",
+    "name": "Cornflower",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cornflower.jpg"
+  },
+  {
+    "id": "bee-balm",
+    "name": "Bee Balm",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bee-balm.jpg",
+    "focalX": 50,
+    "focalY": 31.33414065610072,
+    "zoom": 1
+  },
+  {
+    "id": "aster",
+    "name": "Aster",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/aster.jpg"
+  },
+  {
+    "id": "gerbera",
+    "name": "Gerbera",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gerbera.jpg",
+    "focalX": 50,
+    "focalY": 10.911609299328267,
+    "zoom": 1
+  },
+  {
+    "id": "black-eyed-susan",
+    "name": "Black-eyed Susan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/black-eyed-susan.jpg"
+  },
+  {
+    "id": "primrose",
+    "name": "Primrose",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/primrose.jpg",
+    "focalX": 28.69165039062499,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "cyclamen",
+    "name": "Cyclamen",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cyclamen.jpg",
+    "focalX": 50,
+    "focalY": 34.66767096063893,
+    "zoom": 1
+  },
+  {
+    "id": "freesia",
+    "name": "Freesia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/freesia.jpg"
+  },
+  {
+    "id": "salvia",
+    "name": "Salvia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/salvia.jpg"
+  },
+  {
+    "id": "verbena",
+    "name": "Verbena",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/verbena.jpg"
+  },
+  {
+    "id": "protea",
+    "name": "Protea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/protea.jpg",
+    "focalX": 50,
+    "focalY": 100,
+    "zoom": 1
+  },
+  {
+    "id": "frangipani",
+    "name": "Frangipani",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/frangipani.jpg"
+  },
+  {
+    "id": "passionflower",
+    "name": "Passionflower",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/passionflower.jpg",
+    "focalX": 50,
+    "focalY": 45.215261430422125,
+    "zoom": 1
+  },
+  {
+    "id": "morning-glory",
+    "name": "Morning Glory",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/morning-glory.jpg",
+    "focalX": 100,
+    "focalY": 50,
+    "zoom": 1
+  }
+];
+window.QM_MONARCHS_DATA = [
+  {
+    "id": "egbert",
+    "name": "Egbert",
+    "reign": "802–839",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/egbert.jpg"
+  },
+  {
+    "id": "aethelwulf",
+    "name": "Æthelwulf",
+    "reign": "839–858",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelwulf.jpg"
+  },
+  {
+    "id": "aethelbald",
+    "name": "Æthelbald",
+    "reign": "858–860",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelbald.jpg"
+  },
+  {
+    "id": "aethelberht",
+    "name": "Æthelberht",
+    "reign": "860–865",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelberht.jpg"
+  },
+  {
+    "id": "aethelred-i",
+    "name": "Æthelred I",
+    "reign": "865–871",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelred-i.jpg"
+  },
+  {
+    "id": "alfred-the-great",
+    "name": "Alfred the Great",
+    "reign": "871–899",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/alfred-the-great.jpg"
+  },
+  {
+    "id": "edward-the-elder",
+    "name": "Edward the Elder",
+    "reign": "899–924",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-elder.jpg"
+  },
+  {
+    "id": "aethelstan",
+    "name": "Æthelstan",
+    "reign": "924–939",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelstan.jpg"
+  },
+  {
+    "id": "edmund-i",
+    "name": "Edmund I",
+    "reign": "939–946",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edmund-i.jpg"
+  },
+  {
+    "id": "eadred",
+    "name": "Eadred",
+    "reign": "946–955",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/eadred.jpg"
+  },
+  {
+    "id": "eadwig",
+    "name": "Eadwig",
+    "reign": "955–959",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/eadwig.jpg"
+  },
+  {
+    "id": "edgar-the-peaceful",
+    "name": "Edgar the Peaceful",
+    "reign": "959–975",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edgar-the-peaceful.jpg"
+  },
+  {
+    "id": "edward-the-martyr",
+    "name": "Edward the Martyr",
+    "reign": "975–978",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-martyr.jpg"
+  },
+  {
+    "id": "aethelred-unready",
+    "name": "Æthelred the Unready",
+    "reign": "978–1016",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelred-unready.jpg"
+  },
+  {
+    "id": "sweyn-forkbeard",
+    "name": "Sweyn Forkbeard",
+    "reign": "1013–1014",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/sweyn-forkbeard.jpg"
+  },
+  {
+    "id": "edmund-ironside",
+    "name": "Edmund Ironside",
+    "reign": "1016",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edmund-ironside.jpg"
+  },
+  {
+    "id": "cnut-the-great",
+    "name": "Cnut the Great",
+    "reign": "1016–1035",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/cnut-the-great.jpg"
+  },
+  {
+    "id": "harold-harefoot",
+    "name": "Harold Harefoot",
+    "reign": "1035–1040",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harold-harefoot.jpg"
+  },
+  {
+    "id": "harthacnut",
+    "name": "Harthacnut",
+    "reign": "1040–1042",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harthacnut.jpg"
+  },
+  {
+    "id": "edward-the-confessor",
+    "name": "Edward the Confessor",
+    "reign": "1042–1066",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-confessor.jpg"
+  },
+  {
+    "id": "harold-ii",
+    "name": "Harold II",
+    "reign": "1066",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harold-ii.jpg"
+  },
+  {
+    "id": "william-the-conqueror",
+    "name": "William the Conqueror",
+    "reign": "1066–1087",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-the-conqueror.jpg"
+  },
+  {
+    "id": "william-ii",
+    "name": "William II",
+    "reign": "1087–1100",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-ii.jpg"
+  },
+  {
+    "id": "henry-i",
+    "name": "Henry I",
+    "reign": "1100–1135",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-i.jpg"
+  },
+  {
+    "id": "stephen",
+    "name": "Stephen",
+    "reign": "1135–1154",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/stephen.jpg"
+  },
+  {
+    "id": "henry-ii",
+    "name": "Henry II",
+    "reign": "1154–1189",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-ii.jpg"
+  },
+  {
+    "id": "richard-the-lionheart",
+    "name": "Richard the Lionheart",
+    "reign": "1189–1199",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-the-lionheart.jpg"
+  },
+  {
+    "id": "john",
+    "name": "John",
+    "reign": "1199–1216",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/john.jpg"
+  },
+  {
+    "id": "henry-iii",
+    "name": "Henry III",
+    "reign": "1216–1272",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-iii.jpg"
+  },
+  {
+    "id": "edward-i",
+    "name": "Edward I",
+    "reign": "1272–1307",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-i.jpg"
+  },
+  {
+    "id": "edward-ii",
+    "name": "Edward II",
+    "reign": "1307–1327",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-ii.jpg"
+  },
+  {
+    "id": "edward-iii",
+    "name": "Edward III",
+    "reign": "1327–1377",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-iii.jpg"
+  },
+  {
+    "id": "richard-ii",
+    "name": "Richard II",
+    "reign": "1377–1399",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-ii.jpg"
+  },
+  {
+    "id": "henry-iv",
+    "name": "Henry IV",
+    "reign": "1399–1413",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-iv.jpg"
+  },
+  {
+    "id": "henry-v",
+    "name": "Henry V",
+    "reign": "1413–1422",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-v.jpg"
+  },
+  {
+    "id": "henry-vi",
+    "name": "Henry VI",
+    "reign": "1422–1461, 1470–1471",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-vi.jpg"
+  },
+  {
+    "id": "edward-iv",
+    "name": "Edward IV",
+    "reign": "1461–1470, 1471–1483",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-iv.jpg"
+  },
+  {
+    "id": "edward-v",
+    "name": "Edward V",
+    "reign": "1483",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-v.jpg"
+  },
+  {
+    "id": "richard-iii",
+    "name": "Richard III",
+    "reign": "1483–1485",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-iii.jpg"
+  },
+  {
+    "id": "henry-vii",
+    "name": "Henry VII",
+    "reign": "1485–1509",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-vii.jpg"
+  },
+  {
+    "id": "henry-viii",
+    "name": "Henry VIII",
+    "reign": "1509–1547",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-viii.jpg"
+  },
+  {
+    "id": "edward-vi",
+    "name": "Edward VI",
+    "reign": "1547–1553",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-vi.jpg"
+  },
+  {
+    "id": "mary-i",
+    "name": "Mary I",
+    "reign": "1553–1558",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/mary-i.jpg"
+  },
+  {
+    "id": "elizabeth-i",
+    "name": "Elizabeth I",
+    "reign": "1558–1603",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/elizabeth-i.jpg"
+  },
+  {
+    "id": "james-i",
+    "name": "James I",
+    "reign": "1603–1625",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/james-i.jpg"
+  },
+  {
+    "id": "charles-i",
+    "name": "Charles I",
+    "reign": "1625–1649",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-i.jpg"
+  },
+  {
+    "id": "charles-ii",
+    "name": "Charles II",
+    "reign": "1660–1685",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-ii.jpg"
+  },
+  {
+    "id": "james-ii",
+    "name": "James II",
+    "reign": "1685–1688",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/james-ii.jpg"
+  },
+  {
+    "id": "mary-ii",
+    "name": "Mary II",
+    "reign": "1689–1694",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/mary-ii.jpg"
+  },
+  {
+    "id": "william-iii",
+    "name": "William III",
+    "reign": "1689–1702",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-iii.jpg"
+  },
+  {
+    "id": "anne",
+    "name": "Anne",
+    "reign": "1702–1714",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/anne.jpg"
+  },
+  {
+    "id": "george-i",
+    "name": "George I",
+    "reign": "1714–1727",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-i.jpg"
+  },
+  {
+    "id": "george-ii",
+    "name": "George II",
+    "reign": "1727–1760",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-ii.jpg"
+  },
+  {
+    "id": "george-iii",
+    "name": "George III",
+    "reign": "1760–1820",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-iii.jpg"
+  },
+  {
+    "id": "george-iv",
+    "name": "George IV",
+    "reign": "1820–1830",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-iv.jpg"
+  },
+  {
+    "id": "william-iv",
+    "name": "William IV",
+    "reign": "1830–1837",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-iv.jpg"
+  },
+  {
+    "id": "victoria",
+    "name": "Victoria",
+    "reign": "1837–1901",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/victoria.jpg"
+  },
+  {
+    "id": "edward-vii",
+    "name": "Edward VII",
+    "reign": "1901–1910",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-vii.jpg"
+  },
+  {
+    "id": "george-v",
+    "name": "George V",
+    "reign": "1910–1936",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-v.jpg"
+  },
+  {
+    "id": "edward-viii",
+    "name": "Edward VIII",
+    "reign": "1936",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-viii.jpg"
+  },
+  {
+    "id": "george-vi",
+    "name": "George VI",
+    "reign": "1936–1952",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-vi.jpg"
+  },
+  {
+    "id": "elizabeth-ii",
+    "name": "Elizabeth II",
+    "reign": "1952–2022",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/elizabeth-ii.jpg"
+  },
+  {
+    "id": "charles-iii",
+    "name": "Charles III",
+    "reign": "2022–present",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-iii.jpg"
+  }
+];
 window.QM_UKCOUNTIES_DATA = [
   {
     "id": "cty_36",
@@ -16592,900 +17487,6 @@ window.QM_BIRDS_DATA = [
     "id": "id_1784378802072_mandarin",
     "name": "Mandarin Duck",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/mandarin-duck.jpg"
-  }
-];
-window.QM_FLOWERS_DATA = [
-  {
-    "id": "rose",
-    "name": "Rose",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/rose.jpg",
-    "focalX": 50,
-    "focalY": 12.097217874846674,
-    "zoom": 1
-  },
-  {
-    "id": "tulip",
-    "name": "Tulip",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/tulip.jpg"
-  },
-  {
-    "id": "daffodil",
-    "name": "Daffodil",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/daffodil.jpg",
-    "focalX": 50,
-    "focalY": 29.90547092705016,
-    "zoom": 1
-  },
-  {
-    "id": "sunflower",
-    "name": "Sunflower",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sunflower.jpg",
-    "focalX": 50,
-    "focalY": 36.13974637581235,
-    "zoom": 1
-  },
-  {
-    "id": "orchid",
-    "name": "Orchid",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/orchid.jpg",
-    "focalX": 92.75833158666946,
-    "focalY": 50,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "iris",
-    "name": "Iris",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/iris.jpg",
-    "focalX": 50,
-    "focalY": 11.295883890926946,
-    "zoom": 1
-  },
-  {
-    "id": "peony",
-    "name": "Peony",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/peony.jpg"
-  },
-  {
-    "id": "dahlia",
-    "name": "Dahlia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/dahlia.jpg"
-  },
-  {
-    "id": "hydrangea",
-    "name": "Hydrangea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hydrangea.jpg",
-    "focalX": 50,
-    "focalY": 78.47979464196855,
-    "zoom": 1
-  },
-  {
-    "id": "chrysanthemum",
-    "name": "Chrysanthemum",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/chrysanthemum.webp",
-    "focalX": 50,
-    "focalY": 96.99843611807194,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "poppy",
-    "name": "Poppy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/poppy.jpg"
-  },
-  {
-    "id": "foxglove",
-    "name": "Foxglove",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/foxglove.jpg",
-    "focalX": 50,
-    "focalY": 0,
-    "zoom": 1
-  },
-  {
-    "id": "lavender",
-    "name": "Lavender",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lavender.jpg"
-  },
-  {
-    "id": "hollyhock",
-    "name": "Hollyhock",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hollyhock.jpg"
-  },
-  {
-    "id": "snapdragon",
-    "name": "Snapdragon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/snapdragon.jpg",
-    "focalX": 50,
-    "focalY": 40.62038698621616,
-    "zoom": 1
-  },
-  {
-    "id": "delphinium",
-    "name": "Delphinium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/delphinium.jpg"
-  },
-  {
-    "id": "lupin",
-    "name": "Lupin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lupin.jpg",
-    "focalX": 50,
-    "focalY": 45.85879730418988,
-    "zoom": 1
-  },
-  {
-    "id": "marigold",
-    "name": "Marigold",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/marigold.jpg",
-    "focalX": 50,
-    "focalY": 10.870306166541974,
-    "zoom": 1
-  },
-  {
-    "id": "pansy",
-    "name": "Pansy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/pansy.jpg",
-    "focalX": 0,
-    "focalY": 0,
-    "zoom": 1
-  },
-  {
-    "id": "petunia",
-    "name": "Petunia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/petunia.jpg",
-    "focalX": 50,
-    "focalY": 13.475914827577625,
-    "zoom": 1
-  },
-  {
-    "id": "geranium",
-    "name": "Geranium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/geranium.jpg",
-    "focalX": 50,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "begonia",
-    "name": "Begonia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/begonia.jpg",
-    "focalX": 50,
-    "focalY": 30.85791093376791,
-    "zoom": 1
-  },
-  {
-    "id": "fuchsia",
-    "name": "Fuchsia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/fuchsia.jpg",
-    "focalX": 0,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "camellia",
-    "name": "Camellia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/camellia.jpg"
-  },
-  {
-    "id": "rhododendron",
-    "name": "Rhododendron",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/rhododendron.jpg"
-  },
-  {
-    "id": "coneflower",
-    "name": "Coneflower",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/coneflower.jpg"
-  },
-  {
-    "id": "wisteria",
-    "name": "Wisteria",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/wisteria.jpg"
-  },
-  {
-    "id": "clematis",
-    "name": "Clematis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/clematis.jpg"
-  },
-  {
-    "id": "hibiscus",
-    "name": "Hibiscus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hibiscus.jpg",
-    "focalX": 50,
-    "focalY": 23.27286921604183,
-    "zoom": 1
-  },
-  {
-    "id": "magnolia",
-    "name": "Magnolia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/magnolia.jpg"
-  },
-  {
-    "id": "water-lily",
-    "name": "Water Lily",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/water-lily.jpg"
-  },
-  {
-    "id": "lotus",
-    "name": "Lotus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lotus.jpg",
-    "focalX": 50,
-    "focalY": 70.48696443313551,
-    "zoom": 1
-  },
-  {
-    "id": "bird-of-paradise",
-    "name": "Bird of Paradise",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bird-of-paradise.jpg"
-  },
-  {
-    "id": "anthurium",
-    "name": "Anthurium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/anthurium.jpg"
-  },
-  {
-    "id": "calla-lily",
-    "name": "Calla Lily",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/calla-lily.jpg"
-  },
-  {
-    "id": "amaryllis",
-    "name": "Amaryllis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/amaryllis.jpg",
-    "focalX": 11.869201660156229,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "gladiolus",
-    "name": "Gladiolus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gladiolus.jpg",
-    "focalX": 50,
-    "focalY": 68.78470482016509,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "carnation",
-    "name": "Carnation",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/carnation.jpg"
-  },
-  {
-    "id": "zinnia",
-    "name": "Zinnia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/zinnia.jpg"
-  },
-  {
-    "id": "cosmos",
-    "name": "Cosmos",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cosmos.jpg",
-    "focalX": 50,
-    "focalY": 100,
-    "zoom": 1
-  },
-  {
-    "id": "nasturtium",
-    "name": "Nasturtium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/nasturtium.jpg"
-  },
-  {
-    "id": "sweet-pea",
-    "name": "Sweet Pea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sweet-pea.jpg",
-    "focalX": 50,
-    "focalY": 34.85770992797619,
-    "zoom": 1
-  },
-  {
-    "id": "bluebell",
-    "name": "Bluebell",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bluebell.jpg",
-    "focalX": 50,
-    "focalY": 30.171463133000692,
-    "zoom": 1
-  },
-  {
-    "id": "crocus",
-    "name": "Crocus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/crocus.jpg",
-    "focalX": 66.15167162632983,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "hyacinth",
-    "name": "Hyacinth",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hyacinth.jpg",
-    "focalX": 50,
-    "focalY": 33.47709665480693,
-    "zoom": 1
-  },
-  {
-    "id": "anemone",
-    "name": "Anemone",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/anemone.jpg",
-    "focalX": 1.3560863541777832,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "ranunculus",
-    "name": "Ranunculus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/ranunculus.webp",
-    "focalX": 100,
-    "focalY": 50.76294296288808,
-    "zoom": 1.05,
-    "brightness": 1.11,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 0.84
-  },
-  {
-    "id": "gardenia",
-    "name": "Gardenia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gardenia.jpg"
-  },
-  {
-    "id": "bougainvillea",
-    "name": "Bougainvillea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bougainvillea.jpg",
-    "focalX": 27.485551063640205,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "lilac",
-    "name": "Lilac",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lilac.jpg"
-  },
-  {
-    "id": "agapanthus",
-    "name": "Agapanthus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/agapanthus.jpg"
-  },
-  {
-    "id": "allium",
-    "name": "Allium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/allium.jpg"
-  },
-  {
-    "id": "alstroemeria",
-    "name": "Alstroemeria",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/alstroemeria.jpg"
-  },
-  {
-    "id": "red-hot-poker",
-    "name": "Red Hot Poker",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/red-hot-poker.jpg",
-    "focalX": 0,
-    "focalY": 39.45922746781115,
-    "zoom": 1.2
-  },
-  {
-    "id": "astilbe",
-    "name": "Astilbe",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/astilbe.jpg",
-    "focalX": 50,
-    "focalY": 96.85171283956308,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "canna-lily",
-    "name": "Canna Lily",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/canna-lily.jpg",
-    "focalX": 50,
-    "focalY": 24.98070519874973,
-    "zoom": 1
-  },
-  {
-    "id": "columbine",
-    "name": "Columbine",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/columbine.jpg",
-    "focalX": 3.1098859063510296,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "bleeding-heart",
-    "name": "Bleeding Heart",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bleeding-heart.jpg"
-  },
-  {
-    "id": "sweet-william",
-    "name": "Sweet William",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sweet-william.jpg"
-  },
-  {
-    "id": "love-in-a-mist",
-    "name": "Love-in-a-Mist",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/love-in-a-mist.jpg"
-  },
-  {
-    "id": "scabiosa",
-    "name": "Scabiosa",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/scabiosa.jpg"
-  },
-  {
-    "id": "cornflower",
-    "name": "Cornflower",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cornflower.jpg"
-  },
-  {
-    "id": "bee-balm",
-    "name": "Bee Balm",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bee-balm.jpg",
-    "focalX": 50,
-    "focalY": 31.33414065610072,
-    "zoom": 1
-  },
-  {
-    "id": "aster",
-    "name": "Aster",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/aster.jpg"
-  },
-  {
-    "id": "gerbera",
-    "name": "Gerbera",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gerbera.jpg",
-    "focalX": 50,
-    "focalY": 10.911609299328267,
-    "zoom": 1
-  },
-  {
-    "id": "black-eyed-susan",
-    "name": "Black-eyed Susan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/black-eyed-susan.jpg"
-  },
-  {
-    "id": "primrose",
-    "name": "Primrose",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/primrose.jpg",
-    "focalX": 28.69165039062499,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "cyclamen",
-    "name": "Cyclamen",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cyclamen.jpg",
-    "focalX": 50,
-    "focalY": 34.66767096063893,
-    "zoom": 1
-  },
-  {
-    "id": "freesia",
-    "name": "Freesia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/freesia.jpg"
-  },
-  {
-    "id": "salvia",
-    "name": "Salvia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/salvia.jpg"
-  },
-  {
-    "id": "verbena",
-    "name": "Verbena",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/verbena.jpg"
-  },
-  {
-    "id": "protea",
-    "name": "Protea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/protea.jpg",
-    "focalX": 50,
-    "focalY": 100,
-    "zoom": 1
-  },
-  {
-    "id": "frangipani",
-    "name": "Frangipani",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/frangipani.jpg"
-  },
-  {
-    "id": "passionflower",
-    "name": "Passionflower",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/passionflower.jpg",
-    "focalX": 50,
-    "focalY": 45.215261430422125,
-    "zoom": 1
-  },
-  {
-    "id": "morning-glory",
-    "name": "Morning Glory",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/morning-glory.jpg",
-    "focalX": 100,
-    "focalY": 50,
-    "zoom": 1
-  }
-];
-window.QM_MONARCHS_DATA = [
-  {
-    "id": "egbert",
-    "name": "Egbert",
-    "reign": "802–839",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/egbert.jpg"
-  },
-  {
-    "id": "aethelwulf",
-    "name": "Æthelwulf",
-    "reign": "839–858",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelwulf.jpg"
-  },
-  {
-    "id": "aethelbald",
-    "name": "Æthelbald",
-    "reign": "858–860",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelbald.jpg"
-  },
-  {
-    "id": "aethelberht",
-    "name": "Æthelberht",
-    "reign": "860–865",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelberht.jpg"
-  },
-  {
-    "id": "aethelred-i",
-    "name": "Æthelred I",
-    "reign": "865–871",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelred-i.jpg"
-  },
-  {
-    "id": "alfred-the-great",
-    "name": "Alfred the Great",
-    "reign": "871–899",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/alfred-the-great.jpg"
-  },
-  {
-    "id": "edward-the-elder",
-    "name": "Edward the Elder",
-    "reign": "899–924",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-elder.jpg"
-  },
-  {
-    "id": "aethelstan",
-    "name": "Æthelstan",
-    "reign": "924–939",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelstan.jpg"
-  },
-  {
-    "id": "edmund-i",
-    "name": "Edmund I",
-    "reign": "939–946",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edmund-i.jpg"
-  },
-  {
-    "id": "eadred",
-    "name": "Eadred",
-    "reign": "946–955",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/eadred.jpg"
-  },
-  {
-    "id": "eadwig",
-    "name": "Eadwig",
-    "reign": "955–959",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/eadwig.jpg"
-  },
-  {
-    "id": "edgar-the-peaceful",
-    "name": "Edgar the Peaceful",
-    "reign": "959–975",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edgar-the-peaceful.jpg"
-  },
-  {
-    "id": "edward-the-martyr",
-    "name": "Edward the Martyr",
-    "reign": "975–978",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-martyr.jpg"
-  },
-  {
-    "id": "aethelred-unready",
-    "name": "Æthelred the Unready",
-    "reign": "978–1016",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelred-unready.jpg"
-  },
-  {
-    "id": "sweyn-forkbeard",
-    "name": "Sweyn Forkbeard",
-    "reign": "1013–1014",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/sweyn-forkbeard.jpg"
-  },
-  {
-    "id": "edmund-ironside",
-    "name": "Edmund Ironside",
-    "reign": "1016",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edmund-ironside.jpg"
-  },
-  {
-    "id": "cnut-the-great",
-    "name": "Cnut the Great",
-    "reign": "1016–1035",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/cnut-the-great.jpg"
-  },
-  {
-    "id": "harold-harefoot",
-    "name": "Harold Harefoot",
-    "reign": "1035–1040",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harold-harefoot.jpg"
-  },
-  {
-    "id": "harthacnut",
-    "name": "Harthacnut",
-    "reign": "1040–1042",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harthacnut.jpg"
-  },
-  {
-    "id": "edward-the-confessor",
-    "name": "Edward the Confessor",
-    "reign": "1042–1066",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-confessor.jpg"
-  },
-  {
-    "id": "harold-ii",
-    "name": "Harold II",
-    "reign": "1066",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harold-ii.jpg"
-  },
-  {
-    "id": "william-the-conqueror",
-    "name": "William the Conqueror",
-    "reign": "1066–1087",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-the-conqueror.jpg"
-  },
-  {
-    "id": "william-ii",
-    "name": "William II",
-    "reign": "1087–1100",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-ii.jpg"
-  },
-  {
-    "id": "henry-i",
-    "name": "Henry I",
-    "reign": "1100–1135",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-i.jpg"
-  },
-  {
-    "id": "stephen",
-    "name": "Stephen",
-    "reign": "1135–1154",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/stephen.jpg"
-  },
-  {
-    "id": "henry-ii",
-    "name": "Henry II",
-    "reign": "1154–1189",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-ii.jpg"
-  },
-  {
-    "id": "richard-the-lionheart",
-    "name": "Richard the Lionheart",
-    "reign": "1189–1199",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-the-lionheart.jpg"
-  },
-  {
-    "id": "john",
-    "name": "John",
-    "reign": "1199–1216",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/john.jpg"
-  },
-  {
-    "id": "henry-iii",
-    "name": "Henry III",
-    "reign": "1216–1272",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-iii.jpg"
-  },
-  {
-    "id": "edward-i",
-    "name": "Edward I",
-    "reign": "1272–1307",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-i.jpg"
-  },
-  {
-    "id": "edward-ii",
-    "name": "Edward II",
-    "reign": "1307–1327",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-ii.jpg"
-  },
-  {
-    "id": "edward-iii",
-    "name": "Edward III",
-    "reign": "1327–1377",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-iii.jpg"
-  },
-  {
-    "id": "richard-ii",
-    "name": "Richard II",
-    "reign": "1377–1399",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-ii.jpg"
-  },
-  {
-    "id": "henry-iv",
-    "name": "Henry IV",
-    "reign": "1399–1413",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-iv.jpg"
-  },
-  {
-    "id": "henry-v",
-    "name": "Henry V",
-    "reign": "1413–1422",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-v.jpg"
-  },
-  {
-    "id": "henry-vi",
-    "name": "Henry VI",
-    "reign": "1422–1461, 1470–1471",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-vi.jpg"
-  },
-  {
-    "id": "edward-iv",
-    "name": "Edward IV",
-    "reign": "1461–1470, 1471–1483",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-iv.jpg"
-  },
-  {
-    "id": "edward-v",
-    "name": "Edward V",
-    "reign": "1483",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-v.jpg"
-  },
-  {
-    "id": "richard-iii",
-    "name": "Richard III",
-    "reign": "1483–1485",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-iii.jpg"
-  },
-  {
-    "id": "henry-vii",
-    "name": "Henry VII",
-    "reign": "1485–1509",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-vii.jpg"
-  },
-  {
-    "id": "henry-viii",
-    "name": "Henry VIII",
-    "reign": "1509–1547",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-viii.jpg"
-  },
-  {
-    "id": "edward-vi",
-    "name": "Edward VI",
-    "reign": "1547–1553",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-vi.jpg"
-  },
-  {
-    "id": "mary-i",
-    "name": "Mary I",
-    "reign": "1553–1558",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/mary-i.jpg"
-  },
-  {
-    "id": "elizabeth-i",
-    "name": "Elizabeth I",
-    "reign": "1558–1603",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/elizabeth-i.jpg"
-  },
-  {
-    "id": "james-i",
-    "name": "James I",
-    "reign": "1603–1625",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/james-i.jpg"
-  },
-  {
-    "id": "charles-i",
-    "name": "Charles I",
-    "reign": "1625–1649",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-i.jpg"
-  },
-  {
-    "id": "charles-ii",
-    "name": "Charles II",
-    "reign": "1660–1685",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-ii.jpg"
-  },
-  {
-    "id": "james-ii",
-    "name": "James II",
-    "reign": "1685–1688",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/james-ii.jpg"
-  },
-  {
-    "id": "mary-ii",
-    "name": "Mary II",
-    "reign": "1689–1694",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/mary-ii.jpg"
-  },
-  {
-    "id": "william-iii",
-    "name": "William III",
-    "reign": "1689–1702",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-iii.jpg"
-  },
-  {
-    "id": "anne",
-    "name": "Anne",
-    "reign": "1702–1714",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/anne.jpg"
-  },
-  {
-    "id": "george-i",
-    "name": "George I",
-    "reign": "1714–1727",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-i.jpg"
-  },
-  {
-    "id": "george-ii",
-    "name": "George II",
-    "reign": "1727–1760",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-ii.jpg"
-  },
-  {
-    "id": "george-iii",
-    "name": "George III",
-    "reign": "1760–1820",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-iii.jpg"
-  },
-  {
-    "id": "george-iv",
-    "name": "George IV",
-    "reign": "1820–1830",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-iv.jpg"
-  },
-  {
-    "id": "william-iv",
-    "name": "William IV",
-    "reign": "1830–1837",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-iv.jpg"
-  },
-  {
-    "id": "victoria",
-    "name": "Victoria",
-    "reign": "1837–1901",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/victoria.jpg"
-  },
-  {
-    "id": "edward-vii",
-    "name": "Edward VII",
-    "reign": "1901–1910",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-vii.jpg"
-  },
-  {
-    "id": "george-v",
-    "name": "George V",
-    "reign": "1910–1936",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-v.jpg"
-  },
-  {
-    "id": "edward-viii",
-    "name": "Edward VIII",
-    "reign": "1936",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-viii.jpg"
-  },
-  {
-    "id": "george-vi",
-    "name": "George VI",
-    "reign": "1936–1952",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-vi.jpg"
-  },
-  {
-    "id": "elizabeth-ii",
-    "name": "Elizabeth II",
-    "reign": "1952–2022",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/elizabeth-ii.jpg"
-  },
-  {
-    "id": "charles-iii",
-    "name": "Charles III",
-    "reign": "2022–present",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-iii.jpg"
   }
 ];
 window.QM_ARTWORKS_DATA = [
