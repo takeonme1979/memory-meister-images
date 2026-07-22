@@ -13154,900 +13154,6 @@ window.QM_LANDMARKS_DATA = [
     "zoom": 1
   }
 ];
-window.QM_FLOWERS_DATA = [
-  {
-    "id": "rose",
-    "name": "Rose",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/rose.jpg",
-    "focalX": 50,
-    "focalY": 12.097217874846674,
-    "zoom": 1
-  },
-  {
-    "id": "tulip",
-    "name": "Tulip",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/tulip.jpg"
-  },
-  {
-    "id": "daffodil",
-    "name": "Daffodil",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/daffodil.jpg",
-    "focalX": 50,
-    "focalY": 29.90547092705016,
-    "zoom": 1
-  },
-  {
-    "id": "sunflower",
-    "name": "Sunflower",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sunflower.jpg",
-    "focalX": 50,
-    "focalY": 36.13974637581235,
-    "zoom": 1
-  },
-  {
-    "id": "orchid",
-    "name": "Orchid",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/orchid.jpg",
-    "focalX": 92.75833158666946,
-    "focalY": 50,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "iris",
-    "name": "Iris",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/iris.jpg",
-    "focalX": 50,
-    "focalY": 11.295883890926946,
-    "zoom": 1
-  },
-  {
-    "id": "peony",
-    "name": "Peony",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/peony.jpg"
-  },
-  {
-    "id": "dahlia",
-    "name": "Dahlia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/dahlia.jpg"
-  },
-  {
-    "id": "hydrangea",
-    "name": "Hydrangea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hydrangea.jpg",
-    "focalX": 50,
-    "focalY": 78.47979464196855,
-    "zoom": 1
-  },
-  {
-    "id": "chrysanthemum",
-    "name": "Chrysanthemum",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/chrysanthemum.webp",
-    "focalX": 50,
-    "focalY": 96.99843611807194,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "poppy",
-    "name": "Poppy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/poppy.jpg"
-  },
-  {
-    "id": "foxglove",
-    "name": "Foxglove",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/foxglove.jpg",
-    "focalX": 50,
-    "focalY": 0,
-    "zoom": 1
-  },
-  {
-    "id": "lavender",
-    "name": "Lavender",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lavender.jpg"
-  },
-  {
-    "id": "hollyhock",
-    "name": "Hollyhock",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hollyhock.jpg"
-  },
-  {
-    "id": "snapdragon",
-    "name": "Snapdragon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/snapdragon.jpg",
-    "focalX": 50,
-    "focalY": 40.62038698621616,
-    "zoom": 1
-  },
-  {
-    "id": "delphinium",
-    "name": "Delphinium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/delphinium.jpg"
-  },
-  {
-    "id": "lupin",
-    "name": "Lupin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lupin.jpg",
-    "focalX": 50,
-    "focalY": 45.85879730418988,
-    "zoom": 1
-  },
-  {
-    "id": "marigold",
-    "name": "Marigold",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/marigold.jpg",
-    "focalX": 50,
-    "focalY": 10.870306166541974,
-    "zoom": 1
-  },
-  {
-    "id": "pansy",
-    "name": "Pansy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/pansy.jpg",
-    "focalX": 0,
-    "focalY": 0,
-    "zoom": 1
-  },
-  {
-    "id": "petunia",
-    "name": "Petunia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/petunia.jpg",
-    "focalX": 50,
-    "focalY": 13.475914827577625,
-    "zoom": 1
-  },
-  {
-    "id": "geranium",
-    "name": "Geranium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/geranium.jpg",
-    "focalX": 50,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "begonia",
-    "name": "Begonia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/begonia.jpg",
-    "focalX": 50,
-    "focalY": 30.85791093376791,
-    "zoom": 1
-  },
-  {
-    "id": "fuchsia",
-    "name": "Fuchsia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/fuchsia.jpg",
-    "focalX": 0,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "camellia",
-    "name": "Camellia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/camellia.jpg"
-  },
-  {
-    "id": "rhododendron",
-    "name": "Rhododendron",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/rhododendron.jpg"
-  },
-  {
-    "id": "coneflower",
-    "name": "Coneflower",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/coneflower.jpg"
-  },
-  {
-    "id": "wisteria",
-    "name": "Wisteria",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/wisteria.jpg"
-  },
-  {
-    "id": "clematis",
-    "name": "Clematis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/clematis.jpg"
-  },
-  {
-    "id": "hibiscus",
-    "name": "Hibiscus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hibiscus.jpg",
-    "focalX": 50,
-    "focalY": 23.27286921604183,
-    "zoom": 1
-  },
-  {
-    "id": "magnolia",
-    "name": "Magnolia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/magnolia.jpg"
-  },
-  {
-    "id": "water-lily",
-    "name": "Water Lily",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/water-lily.jpg"
-  },
-  {
-    "id": "lotus",
-    "name": "Lotus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lotus.jpg",
-    "focalX": 50,
-    "focalY": 70.48696443313551,
-    "zoom": 1
-  },
-  {
-    "id": "bird-of-paradise",
-    "name": "Bird of Paradise",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bird-of-paradise.jpg"
-  },
-  {
-    "id": "anthurium",
-    "name": "Anthurium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/anthurium.jpg"
-  },
-  {
-    "id": "calla-lily",
-    "name": "Calla Lily",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/calla-lily.jpg"
-  },
-  {
-    "id": "amaryllis",
-    "name": "Amaryllis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/amaryllis.jpg",
-    "focalX": 11.869201660156229,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "gladiolus",
-    "name": "Gladiolus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gladiolus.jpg",
-    "focalX": 50,
-    "focalY": 68.78470482016509,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "carnation",
-    "name": "Carnation",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/carnation.jpg"
-  },
-  {
-    "id": "zinnia",
-    "name": "Zinnia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/zinnia.jpg"
-  },
-  {
-    "id": "cosmos",
-    "name": "Cosmos",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cosmos.jpg",
-    "focalX": 50,
-    "focalY": 100,
-    "zoom": 1
-  },
-  {
-    "id": "nasturtium",
-    "name": "Nasturtium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/nasturtium.jpg"
-  },
-  {
-    "id": "sweet-pea",
-    "name": "Sweet Pea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sweet-pea.jpg",
-    "focalX": 50,
-    "focalY": 34.85770992797619,
-    "zoom": 1
-  },
-  {
-    "id": "bluebell",
-    "name": "Bluebell",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bluebell.jpg",
-    "focalX": 50,
-    "focalY": 30.171463133000692,
-    "zoom": 1
-  },
-  {
-    "id": "crocus",
-    "name": "Crocus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/crocus.jpg",
-    "focalX": 66.15167162632983,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "hyacinth",
-    "name": "Hyacinth",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hyacinth.jpg",
-    "focalX": 50,
-    "focalY": 33.47709665480693,
-    "zoom": 1
-  },
-  {
-    "id": "anemone",
-    "name": "Anemone",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/anemone.jpg",
-    "focalX": 1.3560863541777832,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "ranunculus",
-    "name": "Ranunculus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/ranunculus.webp",
-    "focalX": 100,
-    "focalY": 50.76294296288808,
-    "zoom": 1.05,
-    "brightness": 1.11,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 0.84
-  },
-  {
-    "id": "gardenia",
-    "name": "Gardenia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gardenia.jpg"
-  },
-  {
-    "id": "bougainvillea",
-    "name": "Bougainvillea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bougainvillea.jpg",
-    "focalX": 27.485551063640205,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "lilac",
-    "name": "Lilac",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lilac.jpg"
-  },
-  {
-    "id": "agapanthus",
-    "name": "Agapanthus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/agapanthus.jpg"
-  },
-  {
-    "id": "allium",
-    "name": "Allium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/allium.jpg"
-  },
-  {
-    "id": "alstroemeria",
-    "name": "Alstroemeria",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/alstroemeria.jpg"
-  },
-  {
-    "id": "red-hot-poker",
-    "name": "Red Hot Poker",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/red-hot-poker.jpg",
-    "focalX": 0,
-    "focalY": 39.45922746781115,
-    "zoom": 1.2
-  },
-  {
-    "id": "astilbe",
-    "name": "Astilbe",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/astilbe.jpg",
-    "focalX": 50,
-    "focalY": 96.85171283956308,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "canna-lily",
-    "name": "Canna Lily",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/canna-lily.jpg",
-    "focalX": 50,
-    "focalY": 24.98070519874973,
-    "zoom": 1
-  },
-  {
-    "id": "columbine",
-    "name": "Columbine",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/columbine.jpg",
-    "focalX": 3.1098859063510296,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "bleeding-heart",
-    "name": "Bleeding Heart",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bleeding-heart.jpg"
-  },
-  {
-    "id": "sweet-william",
-    "name": "Sweet William",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sweet-william.jpg"
-  },
-  {
-    "id": "love-in-a-mist",
-    "name": "Love-in-a-Mist",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/love-in-a-mist.jpg"
-  },
-  {
-    "id": "scabiosa",
-    "name": "Scabiosa",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/scabiosa.jpg"
-  },
-  {
-    "id": "cornflower",
-    "name": "Cornflower",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cornflower.jpg"
-  },
-  {
-    "id": "bee-balm",
-    "name": "Bee Balm",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bee-balm.jpg",
-    "focalX": 50,
-    "focalY": 31.33414065610072,
-    "zoom": 1
-  },
-  {
-    "id": "aster",
-    "name": "Aster",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/aster.jpg"
-  },
-  {
-    "id": "gerbera",
-    "name": "Gerbera",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gerbera.jpg",
-    "focalX": 50,
-    "focalY": 10.911609299328267,
-    "zoom": 1
-  },
-  {
-    "id": "black-eyed-susan",
-    "name": "Black-eyed Susan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/black-eyed-susan.jpg"
-  },
-  {
-    "id": "primrose",
-    "name": "Primrose",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/primrose.jpg",
-    "focalX": 28.69165039062499,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "cyclamen",
-    "name": "Cyclamen",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cyclamen.jpg",
-    "focalX": 50,
-    "focalY": 34.66767096063893,
-    "zoom": 1
-  },
-  {
-    "id": "freesia",
-    "name": "Freesia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/freesia.jpg"
-  },
-  {
-    "id": "salvia",
-    "name": "Salvia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/salvia.jpg"
-  },
-  {
-    "id": "verbena",
-    "name": "Verbena",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/verbena.jpg"
-  },
-  {
-    "id": "protea",
-    "name": "Protea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/protea.jpg",
-    "focalX": 50,
-    "focalY": 100,
-    "zoom": 1
-  },
-  {
-    "id": "frangipani",
-    "name": "Frangipani",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/frangipani.jpg"
-  },
-  {
-    "id": "passionflower",
-    "name": "Passionflower",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/passionflower.jpg",
-    "focalX": 50,
-    "focalY": 45.215261430422125,
-    "zoom": 1
-  },
-  {
-    "id": "morning-glory",
-    "name": "Morning Glory",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/morning-glory.jpg",
-    "focalX": 100,
-    "focalY": 50,
-    "zoom": 1
-  }
-];
-window.QM_MONARCHS_DATA = [
-  {
-    "id": "egbert",
-    "name": "Egbert",
-    "reign": "802–839",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/egbert.jpg"
-  },
-  {
-    "id": "aethelwulf",
-    "name": "Æthelwulf",
-    "reign": "839–858",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelwulf.jpg"
-  },
-  {
-    "id": "aethelbald",
-    "name": "Æthelbald",
-    "reign": "858–860",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelbald.jpg"
-  },
-  {
-    "id": "aethelberht",
-    "name": "Æthelberht",
-    "reign": "860–865",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelberht.jpg"
-  },
-  {
-    "id": "aethelred-i",
-    "name": "Æthelred I",
-    "reign": "865–871",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelred-i.jpg"
-  },
-  {
-    "id": "alfred-the-great",
-    "name": "Alfred the Great",
-    "reign": "871–899",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/alfred-the-great.jpg"
-  },
-  {
-    "id": "edward-the-elder",
-    "name": "Edward the Elder",
-    "reign": "899–924",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-elder.jpg"
-  },
-  {
-    "id": "aethelstan",
-    "name": "Æthelstan",
-    "reign": "924–939",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelstan.jpg"
-  },
-  {
-    "id": "edmund-i",
-    "name": "Edmund I",
-    "reign": "939–946",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edmund-i.jpg"
-  },
-  {
-    "id": "eadred",
-    "name": "Eadred",
-    "reign": "946–955",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/eadred.jpg"
-  },
-  {
-    "id": "eadwig",
-    "name": "Eadwig",
-    "reign": "955–959",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/eadwig.jpg"
-  },
-  {
-    "id": "edgar-the-peaceful",
-    "name": "Edgar the Peaceful",
-    "reign": "959–975",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edgar-the-peaceful.jpg"
-  },
-  {
-    "id": "edward-the-martyr",
-    "name": "Edward the Martyr",
-    "reign": "975–978",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-martyr.jpg"
-  },
-  {
-    "id": "aethelred-unready",
-    "name": "Æthelred the Unready",
-    "reign": "978–1016",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelred-unready.jpg"
-  },
-  {
-    "id": "sweyn-forkbeard",
-    "name": "Sweyn Forkbeard",
-    "reign": "1013–1014",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/sweyn-forkbeard.jpg"
-  },
-  {
-    "id": "edmund-ironside",
-    "name": "Edmund Ironside",
-    "reign": "1016",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edmund-ironside.jpg"
-  },
-  {
-    "id": "cnut-the-great",
-    "name": "Cnut the Great",
-    "reign": "1016–1035",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/cnut-the-great.jpg"
-  },
-  {
-    "id": "harold-harefoot",
-    "name": "Harold Harefoot",
-    "reign": "1035–1040",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harold-harefoot.jpg"
-  },
-  {
-    "id": "harthacnut",
-    "name": "Harthacnut",
-    "reign": "1040–1042",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harthacnut.jpg"
-  },
-  {
-    "id": "edward-the-confessor",
-    "name": "Edward the Confessor",
-    "reign": "1042–1066",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-confessor.jpg"
-  },
-  {
-    "id": "harold-ii",
-    "name": "Harold II",
-    "reign": "1066",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harold-ii.jpg"
-  },
-  {
-    "id": "william-the-conqueror",
-    "name": "William the Conqueror",
-    "reign": "1066–1087",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-the-conqueror.jpg"
-  },
-  {
-    "id": "william-ii",
-    "name": "William II",
-    "reign": "1087–1100",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-ii.jpg"
-  },
-  {
-    "id": "henry-i",
-    "name": "Henry I",
-    "reign": "1100–1135",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-i.jpg"
-  },
-  {
-    "id": "stephen",
-    "name": "Stephen",
-    "reign": "1135–1154",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/stephen.jpg"
-  },
-  {
-    "id": "henry-ii",
-    "name": "Henry II",
-    "reign": "1154–1189",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-ii.jpg"
-  },
-  {
-    "id": "richard-the-lionheart",
-    "name": "Richard the Lionheart",
-    "reign": "1189–1199",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-the-lionheart.jpg"
-  },
-  {
-    "id": "john",
-    "name": "John",
-    "reign": "1199–1216",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/john.jpg"
-  },
-  {
-    "id": "henry-iii",
-    "name": "Henry III",
-    "reign": "1216–1272",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-iii.jpg"
-  },
-  {
-    "id": "edward-i",
-    "name": "Edward I",
-    "reign": "1272–1307",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-i.jpg"
-  },
-  {
-    "id": "edward-ii",
-    "name": "Edward II",
-    "reign": "1307–1327",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-ii.jpg"
-  },
-  {
-    "id": "edward-iii",
-    "name": "Edward III",
-    "reign": "1327–1377",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-iii.jpg"
-  },
-  {
-    "id": "richard-ii",
-    "name": "Richard II",
-    "reign": "1377–1399",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-ii.jpg"
-  },
-  {
-    "id": "henry-iv",
-    "name": "Henry IV",
-    "reign": "1399–1413",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-iv.jpg"
-  },
-  {
-    "id": "henry-v",
-    "name": "Henry V",
-    "reign": "1413–1422",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-v.jpg"
-  },
-  {
-    "id": "henry-vi",
-    "name": "Henry VI",
-    "reign": "1422–1461, 1470–1471",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-vi.jpg"
-  },
-  {
-    "id": "edward-iv",
-    "name": "Edward IV",
-    "reign": "1461–1470, 1471–1483",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-iv.jpg"
-  },
-  {
-    "id": "edward-v",
-    "name": "Edward V",
-    "reign": "1483",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-v.jpg"
-  },
-  {
-    "id": "richard-iii",
-    "name": "Richard III",
-    "reign": "1483–1485",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-iii.jpg"
-  },
-  {
-    "id": "henry-vii",
-    "name": "Henry VII",
-    "reign": "1485–1509",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-vii.jpg"
-  },
-  {
-    "id": "henry-viii",
-    "name": "Henry VIII",
-    "reign": "1509–1547",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-viii.jpg"
-  },
-  {
-    "id": "edward-vi",
-    "name": "Edward VI",
-    "reign": "1547–1553",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-vi.jpg"
-  },
-  {
-    "id": "mary-i",
-    "name": "Mary I",
-    "reign": "1553–1558",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/mary-i.jpg"
-  },
-  {
-    "id": "elizabeth-i",
-    "name": "Elizabeth I",
-    "reign": "1558–1603",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/elizabeth-i.jpg"
-  },
-  {
-    "id": "james-i",
-    "name": "James I",
-    "reign": "1603–1625",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/james-i.jpg"
-  },
-  {
-    "id": "charles-i",
-    "name": "Charles I",
-    "reign": "1625–1649",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-i.jpg"
-  },
-  {
-    "id": "charles-ii",
-    "name": "Charles II",
-    "reign": "1660–1685",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-ii.jpg"
-  },
-  {
-    "id": "james-ii",
-    "name": "James II",
-    "reign": "1685–1688",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/james-ii.jpg"
-  },
-  {
-    "id": "mary-ii",
-    "name": "Mary II",
-    "reign": "1689–1694",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/mary-ii.jpg"
-  },
-  {
-    "id": "william-iii",
-    "name": "William III",
-    "reign": "1689–1702",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-iii.jpg"
-  },
-  {
-    "id": "anne",
-    "name": "Anne",
-    "reign": "1702–1714",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/anne.jpg"
-  },
-  {
-    "id": "george-i",
-    "name": "George I",
-    "reign": "1714–1727",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-i.jpg"
-  },
-  {
-    "id": "george-ii",
-    "name": "George II",
-    "reign": "1727–1760",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-ii.jpg"
-  },
-  {
-    "id": "george-iii",
-    "name": "George III",
-    "reign": "1760–1820",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-iii.jpg"
-  },
-  {
-    "id": "george-iv",
-    "name": "George IV",
-    "reign": "1820–1830",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-iv.jpg"
-  },
-  {
-    "id": "william-iv",
-    "name": "William IV",
-    "reign": "1830–1837",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-iv.jpg"
-  },
-  {
-    "id": "victoria",
-    "name": "Victoria",
-    "reign": "1837–1901",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/victoria.jpg"
-  },
-  {
-    "id": "edward-vii",
-    "name": "Edward VII",
-    "reign": "1901–1910",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-vii.jpg"
-  },
-  {
-    "id": "george-v",
-    "name": "George V",
-    "reign": "1910–1936",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-v.jpg"
-  },
-  {
-    "id": "edward-viii",
-    "name": "Edward VIII",
-    "reign": "1936",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-viii.jpg"
-  },
-  {
-    "id": "george-vi",
-    "name": "George VI",
-    "reign": "1936–1952",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-vi.jpg"
-  },
-  {
-    "id": "elizabeth-ii",
-    "name": "Elizabeth II",
-    "reign": "1952–2022",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/elizabeth-ii.jpg"
-  },
-  {
-    "id": "charles-iii",
-    "name": "Charles III",
-    "reign": "2022–present",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-iii.jpg"
-  }
-];
 window.QM_UKCOUNTIES_DATA = [
   {
     "id": "cty_36",
@@ -17489,6 +16595,900 @@ window.QM_BIRDS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/mandarin-duck.jpg"
   }
 ];
+window.QM_FLOWERS_DATA = [
+  {
+    "id": "rose",
+    "name": "Rose",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/rose.jpg",
+    "focalX": 50,
+    "focalY": 12.097217874846674,
+    "zoom": 1
+  },
+  {
+    "id": "tulip",
+    "name": "Tulip",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/tulip.jpg"
+  },
+  {
+    "id": "daffodil",
+    "name": "Daffodil",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/daffodil.jpg",
+    "focalX": 50,
+    "focalY": 29.90547092705016,
+    "zoom": 1
+  },
+  {
+    "id": "sunflower",
+    "name": "Sunflower",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sunflower.jpg",
+    "focalX": 50,
+    "focalY": 36.13974637581235,
+    "zoom": 1
+  },
+  {
+    "id": "orchid",
+    "name": "Orchid",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/orchid.jpg",
+    "focalX": 92.75833158666946,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "iris",
+    "name": "Iris",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/iris.jpg",
+    "focalX": 50,
+    "focalY": 11.295883890926946,
+    "zoom": 1
+  },
+  {
+    "id": "peony",
+    "name": "Peony",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/peony.jpg"
+  },
+  {
+    "id": "dahlia",
+    "name": "Dahlia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/dahlia.jpg"
+  },
+  {
+    "id": "hydrangea",
+    "name": "Hydrangea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hydrangea.jpg",
+    "focalX": 50,
+    "focalY": 78.47979464196855,
+    "zoom": 1
+  },
+  {
+    "id": "chrysanthemum",
+    "name": "Chrysanthemum",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/chrysanthemum.webp",
+    "focalX": 50,
+    "focalY": 96.99843611807194,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "poppy",
+    "name": "Poppy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/poppy.jpg"
+  },
+  {
+    "id": "foxglove",
+    "name": "Foxglove",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/foxglove.jpg",
+    "focalX": 50,
+    "focalY": 0,
+    "zoom": 1
+  },
+  {
+    "id": "lavender",
+    "name": "Lavender",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lavender.jpg"
+  },
+  {
+    "id": "hollyhock",
+    "name": "Hollyhock",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hollyhock.jpg"
+  },
+  {
+    "id": "snapdragon",
+    "name": "Snapdragon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/snapdragon.jpg",
+    "focalX": 50,
+    "focalY": 40.62038698621616,
+    "zoom": 1
+  },
+  {
+    "id": "delphinium",
+    "name": "Delphinium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/delphinium.jpg"
+  },
+  {
+    "id": "lupin",
+    "name": "Lupin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lupin.jpg",
+    "focalX": 50,
+    "focalY": 45.85879730418988,
+    "zoom": 1
+  },
+  {
+    "id": "marigold",
+    "name": "Marigold",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/marigold.jpg",
+    "focalX": 50,
+    "focalY": 10.870306166541974,
+    "zoom": 1
+  },
+  {
+    "id": "pansy",
+    "name": "Pansy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/pansy.jpg",
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1
+  },
+  {
+    "id": "petunia",
+    "name": "Petunia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/petunia.jpg",
+    "focalX": 50,
+    "focalY": 13.475914827577625,
+    "zoom": 1
+  },
+  {
+    "id": "geranium",
+    "name": "Geranium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/geranium.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "begonia",
+    "name": "Begonia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/begonia.jpg",
+    "focalX": 50,
+    "focalY": 30.85791093376791,
+    "zoom": 1
+  },
+  {
+    "id": "fuchsia",
+    "name": "Fuchsia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/fuchsia.jpg",
+    "focalX": 0,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "camellia",
+    "name": "Camellia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/camellia.jpg"
+  },
+  {
+    "id": "rhododendron",
+    "name": "Rhododendron",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/rhododendron.jpg"
+  },
+  {
+    "id": "coneflower",
+    "name": "Coneflower",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/coneflower.jpg"
+  },
+  {
+    "id": "wisteria",
+    "name": "Wisteria",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/wisteria.jpg"
+  },
+  {
+    "id": "clematis",
+    "name": "Clematis",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/clematis.jpg"
+  },
+  {
+    "id": "hibiscus",
+    "name": "Hibiscus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hibiscus.jpg",
+    "focalX": 50,
+    "focalY": 23.27286921604183,
+    "zoom": 1
+  },
+  {
+    "id": "magnolia",
+    "name": "Magnolia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/magnolia.jpg"
+  },
+  {
+    "id": "water-lily",
+    "name": "Water Lily",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/water-lily.jpg"
+  },
+  {
+    "id": "lotus",
+    "name": "Lotus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lotus.jpg",
+    "focalX": 50,
+    "focalY": 70.48696443313551,
+    "zoom": 1
+  },
+  {
+    "id": "bird-of-paradise",
+    "name": "Bird of Paradise",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bird-of-paradise.jpg"
+  },
+  {
+    "id": "anthurium",
+    "name": "Anthurium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/anthurium.jpg"
+  },
+  {
+    "id": "calla-lily",
+    "name": "Calla Lily",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/calla-lily.jpg"
+  },
+  {
+    "id": "amaryllis",
+    "name": "Amaryllis",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/amaryllis.jpg",
+    "focalX": 11.869201660156229,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "gladiolus",
+    "name": "Gladiolus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gladiolus.jpg",
+    "focalX": 50,
+    "focalY": 68.78470482016509,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "carnation",
+    "name": "Carnation",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/carnation.jpg"
+  },
+  {
+    "id": "zinnia",
+    "name": "Zinnia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/zinnia.jpg"
+  },
+  {
+    "id": "cosmos",
+    "name": "Cosmos",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cosmos.jpg",
+    "focalX": 50,
+    "focalY": 100,
+    "zoom": 1
+  },
+  {
+    "id": "nasturtium",
+    "name": "Nasturtium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/nasturtium.jpg"
+  },
+  {
+    "id": "sweet-pea",
+    "name": "Sweet Pea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sweet-pea.jpg",
+    "focalX": 50,
+    "focalY": 34.85770992797619,
+    "zoom": 1
+  },
+  {
+    "id": "bluebell",
+    "name": "Bluebell",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bluebell.jpg",
+    "focalX": 50,
+    "focalY": 30.171463133000692,
+    "zoom": 1
+  },
+  {
+    "id": "crocus",
+    "name": "Crocus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/crocus.jpg",
+    "focalX": 66.15167162632983,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "hyacinth",
+    "name": "Hyacinth",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hyacinth.jpg",
+    "focalX": 50,
+    "focalY": 33.47709665480693,
+    "zoom": 1
+  },
+  {
+    "id": "anemone",
+    "name": "Anemone",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/anemone.jpg",
+    "focalX": 1.3560863541777832,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "ranunculus",
+    "name": "Ranunculus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/ranunculus.webp",
+    "focalX": 100,
+    "focalY": 50.76294296288808,
+    "zoom": 1.05,
+    "brightness": 1.11,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.84
+  },
+  {
+    "id": "gardenia",
+    "name": "Gardenia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gardenia.jpg"
+  },
+  {
+    "id": "bougainvillea",
+    "name": "Bougainvillea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bougainvillea.jpg",
+    "focalX": 27.485551063640205,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "lilac",
+    "name": "Lilac",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lilac.jpg"
+  },
+  {
+    "id": "agapanthus",
+    "name": "Agapanthus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/agapanthus.jpg"
+  },
+  {
+    "id": "allium",
+    "name": "Allium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/allium.jpg"
+  },
+  {
+    "id": "alstroemeria",
+    "name": "Alstroemeria",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/alstroemeria.jpg"
+  },
+  {
+    "id": "red-hot-poker",
+    "name": "Red Hot Poker",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/red-hot-poker.jpg",
+    "focalX": 0,
+    "focalY": 39.45922746781115,
+    "zoom": 1.2
+  },
+  {
+    "id": "astilbe",
+    "name": "Astilbe",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/astilbe.jpg",
+    "focalX": 50,
+    "focalY": 96.85171283956308,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "canna-lily",
+    "name": "Canna Lily",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/canna-lily.jpg",
+    "focalX": 50,
+    "focalY": 24.98070519874973,
+    "zoom": 1
+  },
+  {
+    "id": "columbine",
+    "name": "Columbine",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/columbine.jpg",
+    "focalX": 3.1098859063510296,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "bleeding-heart",
+    "name": "Bleeding Heart",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bleeding-heart.jpg"
+  },
+  {
+    "id": "sweet-william",
+    "name": "Sweet William",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sweet-william.jpg"
+  },
+  {
+    "id": "love-in-a-mist",
+    "name": "Love-in-a-Mist",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/love-in-a-mist.jpg"
+  },
+  {
+    "id": "scabiosa",
+    "name": "Scabiosa",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/scabiosa.jpg"
+  },
+  {
+    "id": "cornflower",
+    "name": "Cornflower",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cornflower.jpg"
+  },
+  {
+    "id": "bee-balm",
+    "name": "Bee Balm",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bee-balm.jpg",
+    "focalX": 50,
+    "focalY": 31.33414065610072,
+    "zoom": 1
+  },
+  {
+    "id": "aster",
+    "name": "Aster",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/aster.jpg"
+  },
+  {
+    "id": "gerbera",
+    "name": "Gerbera",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gerbera.jpg",
+    "focalX": 50,
+    "focalY": 10.911609299328267,
+    "zoom": 1
+  },
+  {
+    "id": "black-eyed-susan",
+    "name": "Black-eyed Susan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/black-eyed-susan.jpg"
+  },
+  {
+    "id": "primrose",
+    "name": "Primrose",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/primrose.jpg",
+    "focalX": 28.69165039062499,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "cyclamen",
+    "name": "Cyclamen",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cyclamen.jpg",
+    "focalX": 50,
+    "focalY": 34.66767096063893,
+    "zoom": 1
+  },
+  {
+    "id": "freesia",
+    "name": "Freesia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/freesia.jpg"
+  },
+  {
+    "id": "salvia",
+    "name": "Salvia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/salvia.jpg"
+  },
+  {
+    "id": "verbena",
+    "name": "Verbena",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/verbena.jpg"
+  },
+  {
+    "id": "protea",
+    "name": "Protea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/protea.jpg",
+    "focalX": 50,
+    "focalY": 100,
+    "zoom": 1
+  },
+  {
+    "id": "frangipani",
+    "name": "Frangipani",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/frangipani.jpg"
+  },
+  {
+    "id": "passionflower",
+    "name": "Passionflower",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/passionflower.jpg",
+    "focalX": 50,
+    "focalY": 45.215261430422125,
+    "zoom": 1
+  },
+  {
+    "id": "morning-glory",
+    "name": "Morning Glory",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/morning-glory.jpg",
+    "focalX": 100,
+    "focalY": 50,
+    "zoom": 1
+  }
+];
+window.QM_MONARCHS_DATA = [
+  {
+    "id": "egbert",
+    "name": "Egbert",
+    "reign": "802–839",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/egbert.jpg"
+  },
+  {
+    "id": "aethelwulf",
+    "name": "Æthelwulf",
+    "reign": "839–858",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelwulf.jpg"
+  },
+  {
+    "id": "aethelbald",
+    "name": "Æthelbald",
+    "reign": "858–860",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelbald.jpg"
+  },
+  {
+    "id": "aethelberht",
+    "name": "Æthelberht",
+    "reign": "860–865",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelberht.jpg"
+  },
+  {
+    "id": "aethelred-i",
+    "name": "Æthelred I",
+    "reign": "865–871",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelred-i.jpg"
+  },
+  {
+    "id": "alfred-the-great",
+    "name": "Alfred the Great",
+    "reign": "871–899",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/alfred-the-great.jpg"
+  },
+  {
+    "id": "edward-the-elder",
+    "name": "Edward the Elder",
+    "reign": "899–924",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-elder.jpg"
+  },
+  {
+    "id": "aethelstan",
+    "name": "Æthelstan",
+    "reign": "924–939",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelstan.jpg"
+  },
+  {
+    "id": "edmund-i",
+    "name": "Edmund I",
+    "reign": "939–946",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edmund-i.jpg"
+  },
+  {
+    "id": "eadred",
+    "name": "Eadred",
+    "reign": "946–955",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/eadred.jpg"
+  },
+  {
+    "id": "eadwig",
+    "name": "Eadwig",
+    "reign": "955–959",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/eadwig.jpg"
+  },
+  {
+    "id": "edgar-the-peaceful",
+    "name": "Edgar the Peaceful",
+    "reign": "959–975",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edgar-the-peaceful.jpg"
+  },
+  {
+    "id": "edward-the-martyr",
+    "name": "Edward the Martyr",
+    "reign": "975–978",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-martyr.jpg"
+  },
+  {
+    "id": "aethelred-unready",
+    "name": "Æthelred the Unready",
+    "reign": "978–1016",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelred-unready.jpg"
+  },
+  {
+    "id": "sweyn-forkbeard",
+    "name": "Sweyn Forkbeard",
+    "reign": "1013–1014",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/sweyn-forkbeard.jpg"
+  },
+  {
+    "id": "edmund-ironside",
+    "name": "Edmund Ironside",
+    "reign": "1016",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edmund-ironside.jpg"
+  },
+  {
+    "id": "cnut-the-great",
+    "name": "Cnut the Great",
+    "reign": "1016–1035",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/cnut-the-great.jpg"
+  },
+  {
+    "id": "harold-harefoot",
+    "name": "Harold Harefoot",
+    "reign": "1035–1040",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harold-harefoot.jpg"
+  },
+  {
+    "id": "harthacnut",
+    "name": "Harthacnut",
+    "reign": "1040–1042",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harthacnut.jpg"
+  },
+  {
+    "id": "edward-the-confessor",
+    "name": "Edward the Confessor",
+    "reign": "1042–1066",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-confessor.jpg"
+  },
+  {
+    "id": "harold-ii",
+    "name": "Harold II",
+    "reign": "1066",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harold-ii.jpg"
+  },
+  {
+    "id": "william-the-conqueror",
+    "name": "William the Conqueror",
+    "reign": "1066–1087",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-the-conqueror.jpg"
+  },
+  {
+    "id": "william-ii",
+    "name": "William II",
+    "reign": "1087–1100",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-ii.jpg"
+  },
+  {
+    "id": "henry-i",
+    "name": "Henry I",
+    "reign": "1100–1135",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-i.jpg"
+  },
+  {
+    "id": "stephen",
+    "name": "Stephen",
+    "reign": "1135–1154",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/stephen.jpg"
+  },
+  {
+    "id": "henry-ii",
+    "name": "Henry II",
+    "reign": "1154–1189",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-ii.jpg"
+  },
+  {
+    "id": "richard-the-lionheart",
+    "name": "Richard the Lionheart",
+    "reign": "1189–1199",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-the-lionheart.jpg"
+  },
+  {
+    "id": "john",
+    "name": "John",
+    "reign": "1199–1216",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/john.jpg"
+  },
+  {
+    "id": "henry-iii",
+    "name": "Henry III",
+    "reign": "1216–1272",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-iii.jpg"
+  },
+  {
+    "id": "edward-i",
+    "name": "Edward I",
+    "reign": "1272–1307",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-i.jpg"
+  },
+  {
+    "id": "edward-ii",
+    "name": "Edward II",
+    "reign": "1307–1327",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-ii.jpg"
+  },
+  {
+    "id": "edward-iii",
+    "name": "Edward III",
+    "reign": "1327–1377",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-iii.jpg"
+  },
+  {
+    "id": "richard-ii",
+    "name": "Richard II",
+    "reign": "1377–1399",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-ii.jpg"
+  },
+  {
+    "id": "henry-iv",
+    "name": "Henry IV",
+    "reign": "1399–1413",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-iv.jpg"
+  },
+  {
+    "id": "henry-v",
+    "name": "Henry V",
+    "reign": "1413–1422",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-v.jpg"
+  },
+  {
+    "id": "henry-vi",
+    "name": "Henry VI",
+    "reign": "1422–1461, 1470–1471",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-vi.jpg"
+  },
+  {
+    "id": "edward-iv",
+    "name": "Edward IV",
+    "reign": "1461–1470, 1471–1483",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-iv.jpg"
+  },
+  {
+    "id": "edward-v",
+    "name": "Edward V",
+    "reign": "1483",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-v.jpg"
+  },
+  {
+    "id": "richard-iii",
+    "name": "Richard III",
+    "reign": "1483–1485",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-iii.jpg"
+  },
+  {
+    "id": "henry-vii",
+    "name": "Henry VII",
+    "reign": "1485–1509",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-vii.jpg"
+  },
+  {
+    "id": "henry-viii",
+    "name": "Henry VIII",
+    "reign": "1509–1547",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-viii.jpg"
+  },
+  {
+    "id": "edward-vi",
+    "name": "Edward VI",
+    "reign": "1547–1553",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-vi.jpg"
+  },
+  {
+    "id": "mary-i",
+    "name": "Mary I",
+    "reign": "1553–1558",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/mary-i.jpg"
+  },
+  {
+    "id": "elizabeth-i",
+    "name": "Elizabeth I",
+    "reign": "1558–1603",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/elizabeth-i.jpg"
+  },
+  {
+    "id": "james-i",
+    "name": "James I",
+    "reign": "1603–1625",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/james-i.jpg"
+  },
+  {
+    "id": "charles-i",
+    "name": "Charles I",
+    "reign": "1625–1649",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-i.jpg"
+  },
+  {
+    "id": "charles-ii",
+    "name": "Charles II",
+    "reign": "1660–1685",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-ii.jpg"
+  },
+  {
+    "id": "james-ii",
+    "name": "James II",
+    "reign": "1685–1688",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/james-ii.jpg"
+  },
+  {
+    "id": "mary-ii",
+    "name": "Mary II",
+    "reign": "1689–1694",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/mary-ii.jpg"
+  },
+  {
+    "id": "william-iii",
+    "name": "William III",
+    "reign": "1689–1702",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-iii.jpg"
+  },
+  {
+    "id": "anne",
+    "name": "Anne",
+    "reign": "1702–1714",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/anne.jpg"
+  },
+  {
+    "id": "george-i",
+    "name": "George I",
+    "reign": "1714–1727",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-i.jpg"
+  },
+  {
+    "id": "george-ii",
+    "name": "George II",
+    "reign": "1727–1760",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-ii.jpg"
+  },
+  {
+    "id": "george-iii",
+    "name": "George III",
+    "reign": "1760–1820",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-iii.jpg"
+  },
+  {
+    "id": "george-iv",
+    "name": "George IV",
+    "reign": "1820–1830",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-iv.jpg"
+  },
+  {
+    "id": "william-iv",
+    "name": "William IV",
+    "reign": "1830–1837",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-iv.jpg"
+  },
+  {
+    "id": "victoria",
+    "name": "Victoria",
+    "reign": "1837–1901",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/victoria.jpg"
+  },
+  {
+    "id": "edward-vii",
+    "name": "Edward VII",
+    "reign": "1901–1910",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-vii.jpg"
+  },
+  {
+    "id": "george-v",
+    "name": "George V",
+    "reign": "1910–1936",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-v.jpg"
+  },
+  {
+    "id": "edward-viii",
+    "name": "Edward VIII",
+    "reign": "1936",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-viii.jpg"
+  },
+  {
+    "id": "george-vi",
+    "name": "George VI",
+    "reign": "1936–1952",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-vi.jpg"
+  },
+  {
+    "id": "elizabeth-ii",
+    "name": "Elizabeth II",
+    "reign": "1952–2022",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/elizabeth-ii.jpg"
+  },
+  {
+    "id": "charles-iii",
+    "name": "Charles III",
+    "reign": "2022–present",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-iii.jpg"
+  }
+];
 window.QM_ARTWORKS_DATA = [
   {
     "id": "art_mona-lisa",
@@ -18780,7 +18780,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el gato",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-cat.jpg",
     "pt": "o gato",
-    "nl": "de kat"
+    "nl": "de kat",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "horse",
@@ -18852,7 +18855,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la cabra",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-goat.jpg",
     "pt": "a cabra",
-    "nl": "de geit"
+    "nl": "de geit",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "chicken",
@@ -18864,7 +18870,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la gallina",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-chicken.jpg",
     "pt": "a galinha",
-    "nl": "de kip"
+    "nl": "de kip",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "duck",
@@ -18891,7 +18900,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el ganso",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-goose.jpg",
     "pt": "o ganso",
-    "nl": "de gans"
+    "nl": "de gans",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "rabbit",
@@ -18918,7 +18930,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el ratón",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-mouse.jpg",
     "pt": "o rato",
-    "nl": "de muis"
+    "nl": "de muis",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "rat",
@@ -18930,7 +18945,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la rata",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-rat.jpg",
     "pt": "a ratazana",
-    "nl": "de rat"
+    "nl": "de rat",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "fox",
@@ -18942,7 +18960,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el zorro",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-fox.jpg",
     "pt": "a raposa",
-    "nl": "de vos"
+    "nl": "de vos",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "wolf",
@@ -18954,7 +18975,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el lobo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-wolf.jpg",
     "pt": "o lobo",
-    "nl": "de wolf"
+    "nl": "de wolf",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "bear",
@@ -18966,7 +18990,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el oso",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-bear.jpg",
     "pt": "o urso",
-    "nl": "de beer"
+    "nl": "de beer",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "lion",
@@ -18978,7 +19005,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el león",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-lion.jpg",
     "pt": "o leão",
-    "nl": "de leeuw"
+    "nl": "de leeuw",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "tiger",
@@ -19005,7 +19035,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el elefante",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-elephant.jpg",
     "pt": "o elefante",
-    "nl": "de olifant"
+    "nl": "de olifant",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "giraffe",
@@ -19017,7 +19050,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la jirafa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-giraffe.jpg",
     "pt": "a girafa",
-    "nl": "de giraf"
+    "nl": "de giraf",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "zebra",
@@ -19029,7 +19065,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la cebra",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-zebra.jpg",
     "pt": "a zebra",
-    "nl": "de zebra"
+    "nl": "de zebra",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "monkey",
@@ -19056,7 +19095,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el gorila",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-gorilla.jpg",
     "pt": "o gorila",
-    "nl": "de gorilla"
+    "nl": "de gorilla",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "chimpanzee",
@@ -19068,7 +19110,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el chimpancé",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-chimpanzee.jpg",
     "pt": "o chimpanzé",
-    "nl": "de chimpansee"
+    "nl": "de chimpansee",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "kangaroo",
@@ -19080,7 +19125,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el canguro",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-kangaroo.jpg",
     "pt": "o canguru",
-    "nl": "de kangoeroe"
+    "nl": "de kangoeroe",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "koala",
@@ -19107,7 +19155,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el panda",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-panda.jpg",
     "pt": "o panda",
-    "nl": "de panda"
+    "nl": "de panda",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "deer",
@@ -19119,7 +19170,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el ciervo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-deer.jpg",
     "pt": "o cervo",
-    "nl": "het hert"
+    "nl": "het hert",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "moose",
@@ -19131,7 +19185,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el alce",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-moose.jpg",
     "pt": "o alce",
-    "nl": "de eland"
+    "nl": "de eland",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "camel",
@@ -19143,7 +19200,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el camello",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-camel.jpg",
     "pt": "o camelo",
-    "nl": "de kameel"
+    "nl": "de kameel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "hippopotamus",
@@ -19155,7 +19215,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el hipopótamo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-hippopotamus.jpg",
     "pt": "o hipopótamo",
-    "nl": "het nijlpaard"
+    "nl": "het nijlpaard",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "rhinoceros",
@@ -19167,7 +19230,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el rinoceronte",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-rhinoceros.jpg",
     "pt": "o rinoceronte",
-    "nl": "de neushoorn"
+    "nl": "de neushoorn",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "crocodile",
@@ -19179,7 +19245,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el cocodrilo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-crocodile.jpg",
     "pt": "o crocodilo",
-    "nl": "de krokodil"
+    "nl": "de krokodil",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "alligator",
@@ -19206,7 +19275,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la serpiente",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-snake.jpg",
     "pt": "a cobra",
-    "nl": "de slang"
+    "nl": "de slang",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "gecko",
@@ -19218,7 +19290,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el geco",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-gecko.jpg",
     "pt": "a osga",
-    "nl": "de gekko"
+    "nl": "de gekko",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "turtle",
@@ -19260,7 +19335,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el sapo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-toad.jpg",
     "pt": "o sapo",
-    "nl": "de pad"
+    "nl": "de pad",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "fish",
@@ -19272,7 +19350,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el pez",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-fish.jpg",
     "pt": "o peixe",
-    "nl": "de vis"
+    "nl": "de vis",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "shark",
@@ -19314,7 +19395,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la ballena",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-whale.jpg",
     "pt": "a baleia",
-    "nl": "de walvis"
+    "nl": "de walvis",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "octopus",
@@ -19326,7 +19410,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el pulpo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-octopus.jpg",
     "pt": "o polvo",
-    "nl": "de octopus"
+    "nl": "de octopus",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "crab",
@@ -19338,7 +19425,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el cangrejo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-crab.jpg",
     "pt": "o caranguejo",
-    "nl": "de krab"
+    "nl": "de krab",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "lobster",
@@ -19350,7 +19440,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la langosta",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-lobster.jpg",
     "pt": "a lagosta",
-    "nl": "de kreeft"
+    "nl": "de kreeft",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "shrimp",
@@ -19362,7 +19455,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "las gambas / los camarones",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-shrimp.jpg",
     "pt": "o camarão",
-    "nl": "de garnaal"
+    "nl": "de garnaal",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "jellyfish",
@@ -19374,7 +19470,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la medusa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-jellyfish.jpg",
     "pt": "a alforreca / a água-viva",
-    "nl": "de kwal"
+    "nl": "de kwal",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "seal",
@@ -19386,7 +19485,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la foca",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-seal.jpg",
     "pt": "a foca",
-    "nl": "de zeehond"
+    "nl": "de zeehond",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "otter",
@@ -19398,7 +19500,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la nutria",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-otter.jpg",
     "pt": "a lontra",
-    "nl": "de otter"
+    "nl": "de otter",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "beaver",
@@ -19425,7 +19530,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la ardilla",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-squirrel.jpg",
     "pt": "o esquilo",
-    "nl": "de eekhoorn"
+    "nl": "de eekhoorn",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "hedgehog",
@@ -19437,7 +19545,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el erizo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-hedgehog.jpg",
     "pt": "o ouriço",
-    "nl": "de egel"
+    "nl": "de egel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "bat",
@@ -19449,7 +19560,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el murciélago",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-bat.jpg",
     "pt": "o morcego",
-    "nl": "de vleermuis"
+    "nl": "de vleermuis",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "owl",
@@ -19506,7 +19620,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el halcón peregrino",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-falcon.jpg",
     "pt": "o falcão-peregrino",
-    "nl": "de valk"
+    "nl": "de valk",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "parrot",
@@ -19563,7 +19680,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el pavo real",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-peacock.jpg",
     "pt": "o pavão",
-    "nl": "de pauw"
+    "nl": "de pauw",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "flamingo",
@@ -19590,7 +19710,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el cisne",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-swan.jpg",
     "pt": "o cisne",
-    "nl": "de zwaan"
+    "nl": "de zwaan",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pigeon",
@@ -19602,7 +19725,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la paloma",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-pigeon.jpg",
     "pt": "o pombo",
-    "nl": "de duif"
+    "nl": "de duif",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sparrow",
@@ -19659,7 +19785,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la mariposa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-butterfly.jpg",
     "pt": "a borboleta",
-    "nl": "de vlinder"
+    "nl": "de vlinder",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ant",
@@ -19671,7 +19800,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la hormiga",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-ant.jpg",
     "pt": "a formiga",
-    "nl": "de mier"
+    "nl": "de mier",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "spider",
@@ -19683,7 +19815,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la araña",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-spider.jpg",
     "pt": "a aranha",
-    "nl": "de spin"
+    "nl": "de spin",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "scorpion",
@@ -19710,7 +19845,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el caracol",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-snail.jpg",
     "pt": "o caracol",
-    "nl": "de slak"
+    "nl": "de slak",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "worm",
@@ -19722,7 +19860,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el gusano",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-worm.jpg",
     "pt": "a minhoca",
-    "nl": "de worm"
+    "nl": "de worm",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "donkey",
@@ -19734,7 +19875,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el burro",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-donkey.jpg",
     "pt": "o burro",
-    "nl": "de ezel"
+    "nl": "de ezel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "buffalo",
@@ -19776,7 +19920,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el narval",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-narwhal.jpg",
     "pt": "o narval",
-    "nl": "de narwal"
+    "nl": "de narwal",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "axolotl",
@@ -19788,7 +19935,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el ajolote",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-axolotl.jpg",
     "pt": "o axolote",
-    "nl": "de axolotl"
+    "nl": "de axolotl",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "capybara",
@@ -19860,7 +20010,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el vombátido",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-wombat.jpg",
     "pt": "o vombate",
-    "nl": "de wombat"
+    "nl": "de wombat",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "meerkat",
@@ -19872,7 +20025,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el suricato",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-meerkat.jpg",
     "pt": "o suricato",
-    "nl": "de meerkat"
+    "nl": "de meerkat",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "platypus",
@@ -19884,7 +20040,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el ornitorrinco",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-platypus.jpg",
     "pt": "o ornitorrinco",
-    "nl": "het vogelbekdier"
+    "nl": "het vogelbekdier",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "armadillo",
@@ -19896,7 +20055,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el armadillo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-armadillo.jpg",
     "pt": "o tatu",
-    "nl": "het gordeldier"
+    "nl": "het gordeldier",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "lemur",
@@ -19923,7 +20085,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la hiena",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-hyena.jpg",
     "pt": "a hiena",
-    "nl": "de hyena"
+    "nl": "de hyena",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "chinchilla",
@@ -19935,7 +20100,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "la chinchilla",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-chinchilla.jpg",
     "pt": "a chinchila",
-    "nl": "de chinchilla"
+    "nl": "de chinchilla",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "alpaca",
@@ -19977,7 +20145,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el hurón",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-ferret.jpg",
     "pt": "o furão",
-    "nl": "de fret"
+    "nl": "de fret",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "weasel",
@@ -20034,7 +20205,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el caballito de mar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-seahorse.jpg",
     "pt": "o cavalo-marinho",
-    "nl": "het zeepaardje"
+    "nl": "het zeepaardje",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sloth",
@@ -20076,7 +20250,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "es": "el zorrillo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-skunk.jpg",
     "pt": "o gambá",
-    "nl": "het stinkdier"
+    "nl": "het stinkdier",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "manatee",
@@ -20120,7 +20297,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el plátano / la banana",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-banana.jpg",
     "pt": "a banana",
-    "nl": "de banaan"
+    "nl": "de banaan",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "orange",
@@ -20132,7 +20312,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la naranja",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-orange.jpg",
     "pt": "a laranja",
-    "nl": "de sinaasappel"
+    "nl": "de sinaasappel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "grapes",
@@ -20159,7 +20342,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la fresa / la frutilla",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-strawberry.jpg",
     "pt": "o morango",
-    "nl": "de aardbei"
+    "nl": "de aardbei",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "blueberry",
@@ -20171,7 +20357,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el arándano",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-blueberry.jpg",
     "pt": "o mirtilo",
-    "nl": "de bosbes"
+    "nl": "de bosbes",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "watermelon",
@@ -20183,7 +20372,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la sandía",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-watermelon.jpg",
     "pt": "a melancia",
-    "nl": "de watermeloen"
+    "nl": "de watermeloen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pineapple",
@@ -20195,7 +20387,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la piña / el ananá",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-pineapple.jpg",
     "pt": "o ananás / o abacaxi",
-    "nl": "de ananas"
+    "nl": "de ananas",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "mango",
@@ -20207,7 +20402,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el mango",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-mango.jpg",
     "pt": "a manga",
-    "nl": "de mango"
+    "nl": "de mango",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "peach",
@@ -20219,7 +20417,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el melocotón / el durazno",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-peach.jpg",
     "pt": "o pêssego",
-    "nl": "de perzik"
+    "nl": "de perzik",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pear",
@@ -20246,7 +20447,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "las cerezas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-cherry.jpg",
     "pt": "as cerejas",
-    "nl": "de kersen"
+    "nl": "de kersen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "lemon",
@@ -20258,7 +20462,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el limón",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-lemon.jpg",
     "pt": "o limão / o limão-siciliano",
-    "nl": "de citroen"
+    "nl": "de citroen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "lime",
@@ -20270,7 +20477,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la lima",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-lime.jpg",
     "pt": "a lima / o limão",
-    "nl": "de limoen"
+    "nl": "de limoen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "kiwi",
@@ -20282,7 +20492,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el kiwi",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-kiwi.jpg",
     "pt": "o kiwi",
-    "nl": "de kiwi"
+    "nl": "de kiwi",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "avocado",
@@ -20294,7 +20507,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el aguacate",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-avocado.jpg",
     "pt": "o abacate",
-    "nl": "de avocado"
+    "nl": "de avocado",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "coconut",
@@ -20306,7 +20522,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el coco",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-coconut.jpg",
     "pt": "o coco",
-    "nl": "de kokosnoot"
+    "nl": "de kokosnoot",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "fig",
@@ -20318,7 +20537,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el higo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-fig.jpg",
     "pt": "o figo",
-    "nl": "de vijg"
+    "nl": "de vijg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pomegranate",
@@ -20330,7 +20552,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la granada",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-pomegranate.jpg",
     "pt": "a romã",
-    "nl": "de granaatappel"
+    "nl": "de granaatappel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "raspberry",
@@ -20342,7 +20567,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la frambuesa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-raspberry.jpg",
     "pt": "a framboesa",
-    "nl": "de framboos"
+    "nl": "de framboos",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "tomato",
@@ -20414,7 +20642,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el ajo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-garlic.jpg",
     "pt": "o alho",
-    "nl": "de knoflook"
+    "nl": "de knoflook",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "cucumber",
@@ -20426,7 +20657,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el pepino",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-cucumber.jpg",
     "pt": "o pepino",
-    "nl": "de komkommer"
+    "nl": "de komkommer",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "lettuce",
@@ -20453,7 +20687,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el brócoli",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-broccoli.jpg",
     "pt": "os brócolos / o brócolis",
-    "nl": "de broccoli"
+    "nl": "de broccoli",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "cauliflower",
@@ -20465,7 +20702,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la coliflor",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-cauliflower.jpg",
     "pt": "a couve-flor",
-    "nl": "de bloemkool"
+    "nl": "de bloemkool",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "cabbage",
@@ -20507,7 +20747,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el pimiento",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-pepper.jpg",
     "pt": "o pimento / o pimentão",
-    "nl": "de paprika"
+    "nl": "de paprika",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "chili",
@@ -20549,7 +20792,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la calabaza",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-pumpkin.jpg",
     "pt": "a abóbora",
-    "nl": "de pompoen"
+    "nl": "de pompoen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "zucchini",
@@ -20576,7 +20822,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la berenjena",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-eggplant.jpg",
     "pt": "a beringela",
-    "nl": "de aubergine"
+    "nl": "de aubergine",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "mushroom",
@@ -20648,7 +20897,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la baguete",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-baguette.jpg",
     "pt": "a baguete",
-    "nl": "het stokbrood"
+    "nl": "het stokbrood",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "croissant",
@@ -20720,7 +20972,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el queso",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-cheese.jpg",
     "pt": "o queijo",
-    "nl": "de kaas"
+    "nl": "de kaas",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "butter",
@@ -20732,7 +20987,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la mantequilla",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-butter.jpg",
     "pt": "a manteiga",
-    "nl": "de boter"
+    "nl": "de boter",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "milk",
@@ -20744,7 +21002,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la leche",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-milk.jpg",
     "pt": "o leite",
-    "nl": "de melk"
+    "nl": "de melk",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "yogurt",
@@ -20756,7 +21017,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el yogur",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-yogurt.jpg",
     "pt": "o iogurte",
-    "nl": "de yoghurt"
+    "nl": "de yoghurt",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "egg",
@@ -20768,7 +21032,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el huevo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-egg.jpg",
     "pt": "o ovo",
-    "nl": "het ei"
+    "nl": "het ei",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "honey",
@@ -20810,7 +21077,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el arroz",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-rice.jpg",
     "pt": "o arroz",
-    "nl": "de rijst"
+    "nl": "de rijst",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pasta",
@@ -20852,7 +21122,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la pizza",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-pizza.jpg",
     "pt": "a pizza",
-    "nl": "de pizza"
+    "nl": "de pizza",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "burger",
@@ -20879,7 +21152,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el perrito caliente",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-hotdog.jpg",
     "pt": "o cachorro-quente",
-    "nl": "de hotdog"
+    "nl": "de hotdog",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sandwich",
@@ -20891,7 +21167,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el sándwich",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-sandwich.jpg",
     "pt": "a sandes / o sanduíche",
-    "nl": "de sandwich"
+    "nl": "de sandwich",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "taco",
@@ -20903,7 +21182,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el taco",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-taco.jpg",
     "pt": "o taco",
-    "nl": "de taco"
+    "nl": "de taco",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "burrito",
@@ -20960,7 +21242,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la sopa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-soup.jpg",
     "pt": "a sopa",
-    "nl": "de soep"
+    "nl": "de soep",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "salad",
@@ -20987,7 +21272,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el pollo frito",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-friedchicken.jpg",
     "pt": "o frango frito",
-    "nl": "de gebakken kip"
+    "nl": "de gebakken kip",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "steak",
@@ -21089,7 +21377,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "las patatas fritas / las papas fritas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-frenchfries.jpg",
     "pt": "as batatas fritas",
-    "nl": "de friet"
+    "nl": "de friet",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "chips",
@@ -21116,7 +21407,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "las palomitas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-popcorn.jpg",
     "pt": "a pipoca",
-    "nl": "de popcorn"
+    "nl": "de popcorn",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pretzel",
@@ -21143,7 +21437,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el donut / la dona",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-donut.jpg",
     "pt": "o donut",
-    "nl": "de donut"
+    "nl": "de donut",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "cake",
@@ -21200,7 +21497,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el chocolate",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-chocolate.jpg",
     "pt": "o chocolate",
-    "nl": "de chocolade"
+    "nl": "de chocolade",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "icecream",
@@ -21227,7 +21527,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "los caramelos",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-candy.jpg",
     "pt": "os rebuçados / as balas",
-    "nl": "het snoep"
+    "nl": "het snoep",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pie",
@@ -21299,7 +21602,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "la sal",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-salt.jpg",
     "pt": "o sal",
-    "nl": "het zout"
+    "nl": "het zout",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "coffee",
@@ -21311,7 +21617,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el café",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-coffee.jpg",
     "pt": "o café",
-    "nl": "de koffie"
+    "nl": "de koffie",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "tea",
@@ -21323,7 +21632,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el té",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-tea.jpg",
     "pt": "o chá",
-    "nl": "de thee"
+    "nl": "de thee",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "juice",
@@ -21350,7 +21662,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el agua",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-water.jpg",
     "pt": "a água",
-    "nl": "het water"
+    "nl": "het water",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "soda",
@@ -21362,7 +21677,10 @@ window.QM_VOCAB_FOODS_DATA = [
     "es": "el refresco",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-foods/food-soda.jpg",
     "pt": "o refrigerante",
-    "nl": "de frisdrank"
+    "nl": "de frisdrank",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "wine",
@@ -21481,7 +21799,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la casa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-house.jpg",
     "pt": "a casa",
-    "nl": "het huis"
+    "nl": "het huis",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "door",
@@ -21493,7 +21814,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la puerta",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-door.jpg",
     "pt": "a porta",
-    "nl": "de deur"
+    "nl": "de deur",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "window",
@@ -21520,7 +21844,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la llave",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-key.jpg",
     "pt": "a chave",
-    "nl": "de sleutel"
+    "nl": "de sleutel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "roof",
@@ -21547,7 +21874,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la pared",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-wall.jpg",
     "pt": "a parede",
-    "nl": "de muur"
+    "nl": "de muur",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "floor",
@@ -21559,7 +21889,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el suelo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-floor.jpg",
     "pt": "o chão",
-    "nl": "de vloer"
+    "nl": "de vloer",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "stairs",
@@ -21571,7 +21904,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "las escaleras",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-stairs.jpg",
     "pt": "as escadas",
-    "nl": "de trap"
+    "nl": "de trap",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ceiling",
@@ -21583,7 +21919,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el techo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-ceiling.jpg",
     "pt": "o teto",
-    "nl": "het plafond"
+    "nl": "het plafond",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "chimney",
@@ -21595,7 +21934,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la chimenea",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-chimney.jpg",
     "pt": "a chaminé",
-    "nl": "de schoorsteen"
+    "nl": "de schoorsteen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "fence",
@@ -21607,7 +21949,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la valla",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-fence.jpg",
     "pt": "a cerca",
-    "nl": "het hek"
+    "nl": "het hek",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "gate",
@@ -21799,7 +22144,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el cajón",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-drawer.jpg",
     "pt": "a gaveta",
-    "nl": "de la"
+    "nl": "de la",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "stool",
@@ -21916,7 +22264,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el reloj",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-clock.jpg",
     "pt": "o relógio",
-    "nl": "de klok"
+    "nl": "de klok",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "painting",
@@ -21943,7 +22294,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la fotografía",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-photograph.jpg",
     "pt": "a fotografia",
-    "nl": "de foto"
+    "nl": "de foto",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "calendar",
@@ -22075,7 +22429,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el peine",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-comb.jpg",
     "pt": "o pente",
-    "nl": "de kam"
+    "nl": "de kam",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "perfume",
@@ -22132,7 +22489,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el inodoro",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-toilet.jpg",
     "pt": "a sanita / o vaso sanitário",
-    "nl": "het toilet"
+    "nl": "het toilet",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "plate",
@@ -22159,7 +22519,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la taza",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-cup.jpg",
     "pt": "a chávena / a xícara",
-    "nl": "de kop"
+    "nl": "de kop",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "glass",
@@ -22246,7 +22609,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la sartén",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-pan.jpg",
     "pt": "a frigideira",
-    "nl": "de koekenpan"
+    "nl": "de koekenpan",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "bowl",
@@ -22258,7 +22624,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el cuenco",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-bowl.jpg",
     "pt": "a tigela",
-    "nl": "de kom"
+    "nl": "de kom",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "kettle",
@@ -22465,7 +22834,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "las botas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-boots.jpg",
     "pt": "as botas",
-    "nl": "de laarzen"
+    "nl": "de laarzen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "socks",
@@ -22642,7 +23014,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el paraguas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-umbrella.jpg",
     "pt": "o guarda-chuva",
-    "nl": "de paraplu"
+    "nl": "de paraplu",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "bag",
@@ -22684,7 +23059,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la maleta",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-suitcase.jpg",
     "pt": "a mala",
-    "nl": "de koffer"
+    "nl": "de koffer",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "wallet",
@@ -22696,7 +23074,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la cartera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-wallet.jpg",
     "pt": "a carteira",
-    "nl": "de portemonnee"
+    "nl": "de portemonnee",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "glasses",
@@ -22708,7 +23089,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "las gafas / los lentes",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-glasses.jpg",
     "pt": "os óculos",
-    "nl": "de bril"
+    "nl": "de bril",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "watch",
@@ -22720,7 +23104,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el reloj de pulsera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-watch.jpg",
     "pt": "o relógio de pulso",
-    "nl": "het horloge"
+    "nl": "het horloge",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ring",
@@ -22777,7 +23164,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el coche / el carro",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-car.jpg",
     "pt": "o carro",
-    "nl": "de auto"
+    "nl": "de auto",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "bus",
@@ -22789,7 +23179,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el autobús",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-bus.jpg",
     "pt": "o autocarro / o ônibus",
-    "nl": "de bus"
+    "nl": "de bus",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "train",
@@ -22801,7 +23194,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el tren",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-train.jpg",
     "pt": "o comboio / o trem",
-    "nl": "de trein"
+    "nl": "de trein",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "bicycle",
@@ -22828,7 +23224,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la motocicleta",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-motorcycle.jpg",
     "pt": "a mota / a moto",
-    "nl": "de motor"
+    "nl": "de motor",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "airplane",
@@ -22840,7 +23239,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el avión",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-airplane.jpg",
     "pt": "o avião",
-    "nl": "het vliegtuig"
+    "nl": "het vliegtuig",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "boat",
@@ -22852,7 +23254,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el barco",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-boat.jpg",
     "pt": "o barco",
-    "nl": "de boot"
+    "nl": "de boot",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ship",
@@ -22864,7 +23269,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el buque",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-ship.jpg",
     "pt": "o navio",
-    "nl": "het schip"
+    "nl": "het schip",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "truck",
@@ -22876,7 +23284,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el camión",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-truck.jpg",
     "pt": "o camião / o caminhão",
-    "nl": "de vrachtwagen"
+    "nl": "de vrachtwagen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "taxi",
@@ -22888,7 +23299,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el taxi",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-taxi.jpg",
     "pt": "o táxi",
-    "nl": "de taxi"
+    "nl": "de taxi",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "helicopter",
@@ -22900,7 +23314,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el helicóptero",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-helicopter.jpg",
     "pt": "o helicóptero",
-    "nl": "de helikopter"
+    "nl": "de helikopter",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "rocket",
@@ -22927,7 +23344,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la rueda",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-wheel.jpg",
     "pt": "a roda",
-    "nl": "het wiel"
+    "nl": "het wiel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "road",
@@ -22939,7 +23359,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la carretera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-road.jpg",
     "pt": "a estrada",
-    "nl": "de weg"
+    "nl": "de weg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "bridge",
@@ -22951,7 +23374,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el puente",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-bridge.jpg",
     "pt": "a ponte",
-    "nl": "de brug"
+    "nl": "de brug",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "trafficlight",
@@ -22963,7 +23389,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el semáforo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-trafficlight.jpg",
     "pt": "o semáforo",
-    "nl": "het stoplicht"
+    "nl": "het stoplicht",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sidewalk",
@@ -22990,7 +23419,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el túnel",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-tunnel.jpg",
     "pt": "o túnel",
-    "nl": "de tunnel"
+    "nl": "de tunnel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "station",
@@ -23002,7 +23434,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la estación",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-station.jpg",
     "pt": "a estação",
-    "nl": "het station"
+    "nl": "het station",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "airport",
@@ -23014,7 +23449,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el aeropuerto",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-airport.jpg",
     "pt": "o aeroporto",
-    "nl": "de luchthaven"
+    "nl": "de luchthaven",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "church",
@@ -23026,7 +23464,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la iglesia",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-church.jpg",
     "pt": "a igreja",
-    "nl": "de kerk"
+    "nl": "de kerk",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "castle",
@@ -23038,7 +23479,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el castillo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-castle.jpg",
     "pt": "o castelo",
-    "nl": "het kasteel"
+    "nl": "het kasteel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sun",
@@ -23065,7 +23509,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la luna",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-moon.jpg",
     "pt": "a lua",
-    "nl": "de maan"
+    "nl": "de maan",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "star",
@@ -23077,7 +23524,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la estrella",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-star.jpg",
     "pt": "a estrela",
-    "nl": "de ster"
+    "nl": "de ster",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sky",
@@ -23089,7 +23539,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el cielo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-sky.jpg",
     "pt": "o céu",
-    "nl": "de lucht"
+    "nl": "de lucht",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "cloud",
@@ -23101,7 +23554,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la nube",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-cloud.jpg",
     "pt": "a nuvem",
-    "nl": "de wolk"
+    "nl": "de wolk",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "rain",
@@ -23128,7 +23584,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la nieve",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-snow.jpg",
     "pt": "a neve",
-    "nl": "de sneeuw"
+    "nl": "de sneeuw",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "wind",
@@ -23140,7 +23599,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el viento",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-wind.jpg",
     "pt": "o vento",
-    "nl": "de wind"
+    "nl": "de wind",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "rainbow",
@@ -23167,7 +23629,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el trueno",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-thunder.jpg",
     "pt": "o trovão",
-    "nl": "de donder"
+    "nl": "de donder",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "lightning",
@@ -23179,7 +23644,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el rayo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-lightning.jpg",
     "pt": "o relâmpago",
-    "nl": "de bliksem"
+    "nl": "de bliksem",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "fog",
@@ -23191,7 +23659,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la niebla",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-fog.jpg",
     "pt": "o nevoeiro / a neblina",
-    "nl": "de mist"
+    "nl": "de mist",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ice",
@@ -23203,7 +23674,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el hielo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-ice.jpg",
     "pt": "o gelo",
-    "nl": "het ijs"
+    "nl": "het ijs",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "storm",
@@ -23215,7 +23689,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la tormenta",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-storm.jpg",
     "pt": "a tempestade",
-    "nl": "de storm"
+    "nl": "de storm",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "tree",
@@ -23227,7 +23704,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el árbol",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-tree.jpg",
     "pt": "a árvore",
-    "nl": "de boom"
+    "nl": "de boom",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "flower",
@@ -23239,7 +23719,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la flor",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-flower.jpg",
     "pt": "a flor",
-    "nl": "de bloem"
+    "nl": "de bloem",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "leaf",
@@ -23251,7 +23734,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la hoja",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-leaf.jpg",
     "pt": "a folha",
-    "nl": "het blad"
+    "nl": "het blad",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "grass",
@@ -23263,7 +23749,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la hierba",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-grass.jpg",
     "pt": "a relva / a grama",
-    "nl": "het gras"
+    "nl": "het gras",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "mountain",
@@ -23275,7 +23764,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la montaña",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-mountain.jpg",
     "pt": "a montanha",
-    "nl": "de berg"
+    "nl": "de berg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "river",
@@ -23287,7 +23779,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el río",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-river.jpg",
     "pt": "o rio",
-    "nl": "de rivier"
+    "nl": "de rivier",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "lake",
@@ -23299,7 +23794,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el lago",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-lake.jpg",
     "pt": "o lago",
-    "nl": "het meer"
+    "nl": "het meer",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sea",
@@ -23311,7 +23809,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el mar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-sea.jpg",
     "pt": "o mar",
-    "nl": "de zee"
+    "nl": "de zee",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "beach",
@@ -23323,7 +23824,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la playa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-beach.jpg",
     "pt": "a praia",
-    "nl": "het strand"
+    "nl": "het strand",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "forest",
@@ -23335,7 +23839,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el bosque",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-forest.jpg",
     "pt": "a floresta",
-    "nl": "het bos"
+    "nl": "het bos",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "rock",
@@ -23347,7 +23854,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la roca",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-rock.jpg",
     "pt": "a rocha",
-    "nl": "de rots"
+    "nl": "de rots",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "fire",
@@ -23359,7 +23869,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el fuego",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-fire.jpg",
     "pt": "o fogo",
-    "nl": "het vuur"
+    "nl": "het vuur",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "smoke",
@@ -23386,7 +23899,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la arena",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-sand.jpg",
     "pt": "a areia",
-    "nl": "het zand"
+    "nl": "het zand",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "mud",
@@ -23413,7 +23929,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el polvo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-dust.jpg",
     "pt": "o pó",
-    "nl": "het stof"
+    "nl": "het stof",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "man",
@@ -23440,7 +23959,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la mujer",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-woman.jpg",
     "pt": "a mulher",
-    "nl": "de vrouw"
+    "nl": "de vrouw",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "boy",
@@ -23497,7 +24019,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el padre",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-father.jpg",
     "pt": "o pai",
-    "nl": "de vader"
+    "nl": "de vader",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "mother",
@@ -23509,7 +24034,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la madre",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-mother.jpg",
     "pt": "a mãe",
-    "nl": "de moeder"
+    "nl": "de moeder",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "brother",
@@ -23521,7 +24049,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el hermano",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-brother.jpg",
     "pt": "o irmão",
-    "nl": "de broer"
+    "nl": "de broer",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sister",
@@ -23533,7 +24064,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la hermana",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-sister.jpg",
     "pt": "a irmã",
-    "nl": "de zus"
+    "nl": "de zus",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "friend",
@@ -23560,7 +24094,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el maestro",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-teacher.jpg",
     "pt": "o professor",
-    "nl": "de leraar"
+    "nl": "de leraar",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "doctor",
@@ -23617,7 +24154,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el libro",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-book.jpg",
     "pt": "o livro",
-    "nl": "het boek"
+    "nl": "het boek",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pen",
@@ -23629,7 +24169,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el bolígrafo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-pen.jpg",
     "pt": "a caneta",
-    "nl": "de pen"
+    "nl": "de pen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "paper",
@@ -23701,7 +24244,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "las tijeras",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-scissors.jpg",
     "pt": "a tesoura",
-    "nl": "de schaar"
+    "nl": "de schaar",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "envelope",
@@ -23713,7 +24259,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el sobre",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-envelope.jpg",
     "pt": "o envelope",
-    "nl": "de envelop"
+    "nl": "de envelop",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "stamp",
@@ -23725,7 +24274,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el sello",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-stamp.jpg",
     "pt": "o selo",
-    "nl": "de postzegel"
+    "nl": "de postzegel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "letter",
@@ -23752,7 +24304,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el periódico",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-newspaper.jpg",
     "pt": "o jornal",
-    "nl": "de krant"
+    "nl": "de krant",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "magazine",
@@ -23779,7 +24334,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el mapa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-map.jpg",
     "pt": "o mapa",
-    "nl": "de landkaart"
+    "nl": "de landkaart",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "calculator",
@@ -23851,7 +24409,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el teléfono",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-telephone.jpg",
     "pt": "o telefone",
-    "nl": "de telefoon"
+    "nl": "de telefoon",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "computer",
@@ -23863,7 +24424,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el ordenador / la computadora",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-computer.jpg",
     "pt": "o computador",
-    "nl": "de computer"
+    "nl": "de computer",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "keyboard",
@@ -23875,7 +24439,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el teclado",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-keyboard.jpg",
     "pt": "o teclado",
-    "nl": "het toetsenbord"
+    "nl": "het toetsenbord",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "computermouse",
@@ -23962,7 +24529,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el mando a distancia",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-remotecontrol.jpg",
     "pt": "o telecomando / o controle remoto",
-    "nl": "de afstandsbediening"
+    "nl": "de afstandsbediening",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "speaker",
@@ -23974,7 +24544,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el altavoz",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-speaker.jpg",
     "pt": "o altifalante / a caixa de som",
-    "nl": "de luidspreker"
+    "nl": "de luidspreker",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "microphone",
@@ -24031,7 +24604,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el destornillador",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-screwdriver.jpg",
     "pt": "a chave de fendas",
-    "nl": "de schroevendraaier"
+    "nl": "de schroevendraaier",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "nail",
@@ -24043,7 +24619,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el clavo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-nail.jpg",
     "pt": "o prego",
-    "nl": "de spijker"
+    "nl": "de spijker",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "screw",
@@ -24055,7 +24634,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el tornillo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-screw.jpg",
     "pt": "o parafuso",
-    "nl": "de schroef"
+    "nl": "de schroef",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "saw",
@@ -24097,7 +24679,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la cuerda",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-rope.jpg",
     "pt": "a corda",
-    "nl": "het touw"
+    "nl": "het touw",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "bucket",
@@ -24169,7 +24754,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la llave inglesa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-wrench.jpg",
     "pt": "a chave inglesa",
-    "nl": "de moersleutel"
+    "nl": "de moersleutel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "toolbox",
@@ -24196,7 +24784,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el pincel",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-paintbrush.jpg",
     "pt": "o pincel",
-    "nl": "de kwast"
+    "nl": "de kwast",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "money",
@@ -24208,7 +24799,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el dinero",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-money.jpg",
     "pt": "o dinheiro",
-    "nl": "het geld"
+    "nl": "het geld",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "coin",
@@ -24220,7 +24814,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la moneda",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-coin.jpg",
     "pt": "a moeda",
-    "nl": "de munt"
+    "nl": "de munt",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "banknote",
@@ -24232,7 +24829,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el billete",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-banknote.jpg",
     "pt": "a nota",
-    "nl": "het bankbiljet"
+    "nl": "het bankbiljet",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "creditcard",
@@ -24244,7 +24844,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la tarjeta de crédito",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-creditcard.jpg",
     "pt": "o cartão de crédito",
-    "nl": "de creditcard"
+    "nl": "de creditcard",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "shoppingcart",
@@ -24271,7 +24874,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la tienda",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-store.jpg",
     "pt": "a loja",
-    "nl": "de winkel"
+    "nl": "de winkel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "market",
@@ -24283,7 +24889,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el mercado",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-market.jpg",
     "pt": "o mercado",
-    "nl": "de markt"
+    "nl": "de markt",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "receipt",
@@ -24310,7 +24919,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la pelota",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-ballsports.jpg",
     "pt": "a bola",
-    "nl": "de bal"
+    "nl": "de bal",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "guitar",
@@ -24322,7 +24934,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la guitarra",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-guitar.jpg",
     "pt": "a guitarra / o violão",
-    "nl": "de gitaar"
+    "nl": "de gitaar",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "piano",
@@ -24349,7 +24964,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el tambor",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-drum.jpg",
     "pt": "o tambor",
-    "nl": "de trommel"
+    "nl": "de trommel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "violin",
@@ -24436,7 +25054,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el ajedrez",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-chess.jpg",
     "pt": "o xadrez",
-    "nl": "het schaken"
+    "nl": "het schaken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "puzzle",
@@ -24448,7 +25069,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el rompecabezas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-puzzle.jpg",
     "pt": "o puzzle / o quebra-cabeça",
-    "nl": "de puzzel"
+    "nl": "de puzzel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "skateboard",
@@ -24460,7 +25084,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la patineta",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-skateboard.jpg",
     "pt": "o skate",
-    "nl": "het skateboard"
+    "nl": "het skateboard",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "swing",
@@ -24547,7 +25174,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la campana",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-bell.jpg",
     "pt": "o sino",
-    "nl": "de bel"
+    "nl": "de bel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "flag",
@@ -24559,7 +25189,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la bandera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-flag.jpg",
     "pt": "a bandeira",
-    "nl": "de vlag"
+    "nl": "de vlag",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "compass",
@@ -24601,7 +25234,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el candado",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-lock.jpg",
     "pt": "a fechadura",
-    "nl": "het slot"
+    "nl": "het slot",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "chain",
@@ -24703,7 +25339,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la tostadora",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-toaster.jpg",
     "pt": "a torradeira",
-    "nl": "de broodrooster"
+    "nl": "de broodrooster",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "blender",
@@ -24730,7 +25369,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la plancha",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-iron.jpg",
     "pt": "o ferro de engomar",
-    "nl": "het strijkijzer"
+    "nl": "het strijkijzer",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "alarmclock",
@@ -24802,7 +25444,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la grúa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-crane.jpg",
     "pt": "o guindaste",
-    "nl": "de hijskraan"
+    "nl": "de hijskraan",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "lighthouse",
@@ -24814,7 +25459,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el faro",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-lighthouse.jpg",
     "pt": "o farol",
-    "nl": "de vuurtoren"
+    "nl": "de vuurtoren",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "streetlamp",
@@ -24826,7 +25474,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "la farola",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-streetlamp.jpg",
     "pt": "o candeeiro de rua / o poste de luz",
-    "nl": "de straatlantaarn"
+    "nl": "de straatlantaarn",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "mailbox",
@@ -24883,7 +25534,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el baño",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-bathroom.jpg",
     "pt": "a casa de banho / o banheiro",
-    "nl": "de badkamer"
+    "nl": "de badkamer",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "bedroom",
@@ -24925,7 +25579,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el garaje",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-garage.jpg",
     "pt": "a garagem",
-    "nl": "de garage"
+    "nl": "de garage",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "attic",
@@ -24937,7 +25594,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el desván",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-attic.jpg",
     "pt": "o sótão",
-    "nl": "de zolder"
+    "nl": "de zolder",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "basement",
@@ -24949,7 +25609,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el sótano",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-basement.png",
     "pt": "a cave / o porão",
-    "nl": "de kelder"
+    "nl": "de kelder",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "hallway",
@@ -24961,7 +25624,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el pasillo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-hallway.jpg",
     "pt": "o corredor",
-    "nl": "de gang"
+    "nl": "de gang",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "diningroom",
@@ -25003,7 +25669,10 @@ window.QM_VOCAB_NOUNS_DATA = [
     "es": "el despacho",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-homeoffice.jpg",
     "pt": "o escritório em casa",
-    "nl": "de werkkamer"
+    "nl": "de werkkamer",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pantry",
@@ -25032,7 +25701,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "apagar las velas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-blow_candles.jpg",
     "pt": "apagar as velas",
-    "nl": "kaarsjes uitblazen"
+    "nl": "kaarsjes uitblazen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "board_plane",
@@ -25044,7 +25716,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "abordar un avión",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-board_plane.jpg",
     "pt": "embarcar num avião",
-    "nl": "het vliegtuig instappen"
+    "nl": "het vliegtuig instappen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "bounce",
@@ -25056,7 +25731,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "rebotar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-bounce.jpg",
     "pt": "saltitar / quicar",
-    "nl": "stuiteren"
+    "nl": "stuiteren",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "brushteeth",
@@ -25068,7 +25746,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "cepillarse los dientes",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-brushteeth.jpg",
     "pt": "escovar os dentes",
-    "nl": "tanden poetsen"
+    "nl": "tanden poetsen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "burn",
@@ -25095,7 +25776,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "llamar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-call.jpg",
     "pt": "telefonar / ligar",
-    "nl": "bellen"
+    "nl": "bellen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "catch",
@@ -25107,7 +25791,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "atrapar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-catch.jpg",
     "pt": "apanhar / pegar",
-    "nl": "vangen"
+    "nl": "vangen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "charge_phone",
@@ -25119,7 +25806,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "cargar el teléfono",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-charge_phone.jpg",
     "pt": "carregar o telemóvel / carregar o celular",
-    "nl": "een telefoon opladen"
+    "nl": "een telefoon opladen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "clean_window",
@@ -25131,7 +25821,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "limpiar una ventana",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-clean_window.jpg",
     "pt": "limpar uma janela",
-    "nl": "een raam wassen"
+    "nl": "een raam wassen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "climb",
@@ -25158,7 +25851,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "subir por una escalera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-climb_ladder.jpg",
     "pt": "subir uma escada",
-    "nl": "op een ladder klimmen"
+    "nl": "op een ladder klimmen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "climb_stairs",
@@ -25170,7 +25866,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "subir las escaleras",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-climb_stairs.jpg",
     "pt": "subir as escadas",
-    "nl": "de trap oplopen"
+    "nl": "de trap oplopen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "cook",
@@ -25182,7 +25881,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "cocinar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-cook.jpg",
     "pt": "cozinhar",
-    "nl": "koken"
+    "nl": "koken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "cough",
@@ -25194,7 +25896,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "toser",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-cough.jpg",
     "pt": "tossir",
-    "nl": "hoesten"
+    "nl": "hoesten",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "crawl",
@@ -25206,7 +25911,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "gatear",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-crawl.jpg",
     "pt": "gatinhar",
-    "nl": "kruipen"
+    "nl": "kruipen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "cross_street",
@@ -25218,7 +25926,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "cruzar la calle",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-cross_street.jpg",
     "pt": "atravessar a rua",
-    "nl": "de straat oversteken"
+    "nl": "de straat oversteken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "cry",
@@ -25245,7 +25956,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "cortar el pan",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-cut_bread.jpg",
     "pt": "cortar o pão",
-    "nl": "brood snijden"
+    "nl": "brood snijden",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "cut_hair",
@@ -25257,7 +25971,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "cortar el pelo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-cut_hair.jpg",
     "pt": "cortar o cabelo",
-    "nl": "haar knippen"
+    "nl": "haar knippen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "die",
@@ -25284,7 +26001,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "bucear",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-dive.jpg",
     "pt": "mergulhar",
-    "nl": "duiken"
+    "nl": "duiken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "draw_picture",
@@ -25296,7 +26016,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "dibujar una imagen",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-draw_picture.jpg",
     "pt": "fazer um desenho",
-    "nl": "een tekening maken"
+    "nl": "een tekening maken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "drill_hole",
@@ -25308,7 +26031,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "taladrar un agujero",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-drill_hole.jpg",
     "pt": "furar um buraco",
-    "nl": "een gat boren"
+    "nl": "een gat boren",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "drink",
@@ -25320,7 +26046,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "beber",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-drink.jpg",
     "pt": "beber",
-    "nl": "drinken"
+    "nl": "drinken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "eat",
@@ -25332,7 +26061,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "comer",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-eat.jpg",
     "pt": "comer",
-    "nl": "eten"
+    "nl": "eten",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "enter",
@@ -25344,7 +26076,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "entrar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-enter.jpg",
     "pt": "entrar",
-    "nl": "binnenkomen"
+    "nl": "binnenkomen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "escape",
@@ -25356,7 +26091,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "escapar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-escape.jpg",
     "pt": "escapar",
-    "nl": "ontsnappen"
+    "nl": "ontsnappen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "faint",
@@ -25368,7 +26106,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "desmayarse",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-faint.jpg",
     "pt": "desmaiar",
-    "nl": "flauwvallen"
+    "nl": "flauwvallen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "feed",
@@ -25395,7 +26136,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "pelear",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-fight.jpg",
     "pt": "lutar",
-    "nl": "vechten"
+    "nl": "vechten",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "find",
@@ -25407,7 +26151,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "encontrar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-find.jpg",
     "pt": "encontrar",
-    "nl": "vinden"
+    "nl": "vinden",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "finish",
@@ -25434,7 +26181,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "pescar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-fish.jpg",
     "pt": "pescar",
-    "nl": "vissen"
+    "nl": "vissen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "fly_bird",
@@ -25446,7 +26196,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "volar (ave)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-fly_bird.jpg",
     "pt": "voar",
-    "nl": "vliegen (vogel)"
+    "nl": "vliegen (vogel)",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "fly_plane",
@@ -25458,7 +26211,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "pilotar un avión",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-fly_plane.jpg",
     "pt": "pilotar um avião",
-    "nl": "een vliegtuig besturen"
+    "nl": "een vliegtuig besturen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "fold",
@@ -25470,7 +26226,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "doblar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-fold.jpg",
     "pt": "dobrar",
-    "nl": "vouwen"
+    "nl": "vouwen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "follow",
@@ -25497,7 +26256,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "freír",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-fry.jpg",
     "pt": "fritar",
-    "nl": "bakken"
+    "nl": "bakken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "givegift",
@@ -25524,7 +26286,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "graduarse",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-graduate.jpg",
     "pt": "formar-se",
-    "nl": "afstuderen"
+    "nl": "afstuderen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "grate_food",
@@ -25536,7 +26301,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "rallar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-grate_food.jpg",
     "pt": "ralar",
-    "nl": "raspen"
+    "nl": "raspen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "heal",
@@ -25548,7 +26316,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "sanar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-heal.jpg",
     "pt": "curar",
-    "nl": "genezen"
+    "nl": "genezen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "hear",
@@ -25560,7 +26331,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "oír",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-hear.jpg",
     "pt": "ouvir",
-    "nl": "horen"
+    "nl": "horen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "help",
@@ -25572,7 +26346,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "ayudar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-help.jpg",
     "pt": "ajudar",
-    "nl": "helpen"
+    "nl": "helpen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "hug",
@@ -25584,7 +26361,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "abrazar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-hug.jpg",
     "pt": "abraçar",
-    "nl": "knuffelen"
+    "nl": "knuffelen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "jump",
@@ -25596,7 +26376,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "saltar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-jump.jpg",
     "pt": "saltar",
-    "nl": "springen"
+    "nl": "springen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "jump_rope",
@@ -25638,7 +26421,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "tejer",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-knit.jpg",
     "pt": "tricotar",
-    "nl": "breien"
+    "nl": "breien",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "knock",
@@ -25650,7 +26436,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "llamar (a la puerta)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-knock.jpg",
     "pt": "bater à porta",
-    "nl": "kloppen"
+    "nl": "kloppen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "leave",
@@ -25662,7 +26451,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "salir",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-leave.jpg",
     "pt": "sair",
-    "nl": "weggaan"
+    "nl": "weggaan",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "listen",
@@ -25674,7 +26466,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "escuchar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-listen.jpg",
     "pt": "escutar",
-    "nl": "luisteren"
+    "nl": "luisteren",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "mail_letter",
@@ -25686,7 +26481,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "enviar una carta",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-mail_letter.jpg",
     "pt": "enviar uma carta",
-    "nl": "een brief versturen"
+    "nl": "een brief versturen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "marry",
@@ -25713,7 +26511,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "masajear",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-massage.jpg",
     "pt": "massajar / massagear",
-    "nl": "masseren"
+    "nl": "masseren",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "melt",
@@ -25725,7 +26526,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "derretirse",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-melt.jpg",
     "pt": "derreter",
-    "nl": "smelten"
+    "nl": "smelten",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "meow",
@@ -25737,7 +26541,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "maullar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-meow.jpg",
     "pt": "miar",
-    "nl": "miauwen"
+    "nl": "miauwen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "nail_hammer",
@@ -25749,7 +26556,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "clavar un clavo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-nail_hammer.jpg",
     "pt": "martelar um prego",
-    "nl": "een spijker inslaan"
+    "nl": "een spijker inslaan",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "open_umbrella",
@@ -25761,7 +26571,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "abrir un paraguas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-open_umbrella.jpg",
     "pt": "abrir um guarda-chuva",
-    "nl": "een paraplu opendoen"
+    "nl": "een paraplu opendoen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pack",
@@ -25773,7 +26586,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "empacar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-pack.jpg",
     "pt": "fazer as malas",
-    "nl": "inpakken"
+    "nl": "inpakken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "paint_wall",
@@ -25800,7 +26616,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "pagar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-pay.jpg",
     "pt": "pagar",
-    "nl": "betalen"
+    "nl": "betalen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pet_animal",
@@ -25827,7 +26646,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "jugar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-play.jpg",
     "pt": "brincar",
-    "nl": "spelen"
+    "nl": "spelen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pour",
@@ -25839,7 +26661,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "verter",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-pour.jpg",
     "pt": "despejar",
-    "nl": "inschenken"
+    "nl": "inschenken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pray",
@@ -25851,7 +26676,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "rezar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-pray.jpg",
     "pt": "rezar",
-    "nl": "bidden"
+    "nl": "bidden",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "push_ups",
@@ -25863,7 +26691,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "hacer flexiones",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-push_ups.jpg",
     "pt": "fazer flexões",
-    "nl": "push-ups doen"
+    "nl": "push-ups doen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "read",
@@ -25875,7 +26706,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "leer",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-read.jpg",
     "pt": "ler",
-    "nl": "lezen"
+    "nl": "lezen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "repair",
@@ -25887,7 +26721,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "reparar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-repair.jpg",
     "pt": "reparar",
-    "nl": "repareren"
+    "nl": "repareren",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ring_bell",
@@ -25899,7 +26736,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "tocar el timbre",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-ring_bell.jpg",
     "pt": "tocar a campainha",
-    "nl": "aanbellen"
+    "nl": "aanbellen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ride_bus",
@@ -25911,7 +26751,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "tomar el autobús",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-ride_bus.jpg",
     "pt": "apanhar o autocarro / pegar o ônibus",
-    "nl": "met de bus reizen"
+    "nl": "met de bus reizen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ride_horse",
@@ -25923,7 +26766,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "montar a caballo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-ride_horse.jpg",
     "pt": "montar a cavalo",
-    "nl": "paardrijden"
+    "nl": "paardrijden",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ride_skateboard",
@@ -25935,7 +26781,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "andar en patineta",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-ride_skateboard.jpg",
     "pt": "andar de skate",
-    "nl": "skateboarden"
+    "nl": "skateboarden",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "row",
@@ -25947,7 +26796,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "remar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-row.jpg",
     "pt": "remar",
-    "nl": "roeien"
+    "nl": "roeien",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sell",
@@ -25959,7 +26811,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "vender",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-sell.jpg",
     "pt": "vender",
-    "nl": "verkopen"
+    "nl": "verkopen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "serve_food",
@@ -25971,7 +26826,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "servir la comida",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-serve_food.jpg",
     "pt": "servir a comida",
-    "nl": "eten serveren"
+    "nl": "eten serveren",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "set_table",
@@ -25983,7 +26841,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "poner la mesa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-set_table.jpg",
     "pt": "pôr a mesa",
-    "nl": "de tafel dekken"
+    "nl": "de tafel dekken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sew",
@@ -25995,7 +26856,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "coser",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-sew.jpg",
     "pt": "costurar",
-    "nl": "naaien"
+    "nl": "naaien",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "shake",
@@ -26022,7 +26886,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "tiritar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-shiver.jpg",
     "pt": "tremer",
-    "nl": "rillen"
+    "nl": "rillen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "skate",
@@ -26034,7 +26901,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "patinar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-skate.jpg",
     "pt": "patinar",
-    "nl": "schaatsen"
+    "nl": "schaatsen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ski",
@@ -26046,7 +26916,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "esquiar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-ski.jpg",
     "pt": "esquiar",
-    "nl": "skiën"
+    "nl": "skiën",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sleep",
@@ -26058,7 +26931,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "dormir",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-sleep.jpg",
     "pt": "dormir",
-    "nl": "slapen"
+    "nl": "slapen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "smile",
@@ -26070,7 +26946,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "sonreír",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-smile.jpg",
     "pt": "sorrir",
-    "nl": "glimlachen"
+    "nl": "glimlachen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sneeze",
@@ -26082,7 +26961,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "estornudar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-sneeze.jpg",
     "pt": "espirrar",
-    "nl": "niezen"
+    "nl": "niezen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "snow_verb",
@@ -26094,7 +26976,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "nevar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-snow_verb.jpg",
     "pt": "nevar",
-    "nl": "sneeuwen"
+    "nl": "sneeuwen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "splash",
@@ -26136,7 +27021,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "revolver",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-stir.jpg",
     "pt": "mexer",
-    "nl": "roeren"
+    "nl": "roeren",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "stop",
@@ -26148,7 +27036,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "parar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-stop.jpg",
     "pt": "parar",
-    "nl": "stoppen"
+    "nl": "stoppen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "stretch",
@@ -26160,7 +27051,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "estirarse",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-stretch.jpg",
     "pt": "esticar-se",
-    "nl": "zich uitrekken"
+    "nl": "zich uitrekken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "surf",
@@ -26172,7 +27066,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "hacer surf",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-surf.jpg",
     "pt": "fazer surf",
-    "nl": "surfen"
+    "nl": "surfen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "swim",
@@ -26184,7 +27081,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "nadar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-swim.jpg",
     "pt": "nadar",
-    "nl": "zwemmen"
+    "nl": "zwemmen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "swim_fish",
@@ -26196,7 +27096,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "nadar (pez)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-swim_fish.jpg",
     "pt": "nadar",
-    "nl": "zwemmen (vis)"
+    "nl": "zwemmen (vis)",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "take_bath",
@@ -26208,7 +27111,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "bañarse",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-take_bath.jpg",
     "pt": "tomar banho",
-    "nl": "in bad gaan"
+    "nl": "in bad gaan",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "takephoto",
@@ -26220,7 +27126,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "tomar una foto",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-takephoto.jpg",
     "pt": "tirar uma fotografia",
-    "nl": "een foto maken"
+    "nl": "een foto maken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "talk",
@@ -26232,7 +27141,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "hablar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-talk.jpg",
     "pt": "falar",
-    "nl": "praten"
+    "nl": "praten",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "text",
@@ -26244,7 +27156,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "enviar un mensaje",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-text.jpg",
     "pt": "enviar uma mensagem",
-    "nl": "een sms sturen"
+    "nl": "een sms sturen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "throw",
@@ -26256,7 +27171,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "lanzar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-throw.jpg",
     "pt": "atirar",
-    "nl": "gooien"
+    "nl": "gooien",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "touch",
@@ -26283,7 +27201,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "apagar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-turn_off.jpg",
     "pt": "desligar",
-    "nl": "uitzetten"
+    "nl": "uitzetten",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "type",
@@ -26295,7 +27216,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "escribir a máquina",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-type.jpg",
     "pt": "escrever no teclado / digitar",
-    "nl": "typen"
+    "nl": "typen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "vacuum",
@@ -26307,7 +27231,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "pasar la aspiradora",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-vacuum.jpg",
     "pt": "aspirar",
-    "nl": "stofzuigen"
+    "nl": "stofzuigen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "vomit",
@@ -26319,7 +27246,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "vomitar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-vomit.jpg",
     "pt": "vomitar",
-    "nl": "overgeven"
+    "nl": "overgeven",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "walk",
@@ -26346,7 +27276,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "lavar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-wash.jpg",
     "pt": "lavar",
-    "nl": "wassen"
+    "nl": "wassen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "whisk",
@@ -26358,7 +27291,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "batir",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-whisk.jpg",
     "pt": "bater",
-    "nl": "eieren kloppen"
+    "nl": "eieren kloppen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "win",
@@ -26370,7 +27306,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "ganar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-win.jpg",
     "pt": "ganhar",
-    "nl": "winnen"
+    "nl": "winnen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "wrap",
@@ -26382,7 +27321,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "envolver",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-wrap.jpg",
     "pt": "embrulhar",
-    "nl": "verpakken"
+    "nl": "verpakken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sing",
@@ -26394,7 +27336,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "cantar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-sing.jpg",
     "pt": "cantar",
-    "nl": "zingen"
+    "nl": "zingen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "break",
@@ -26406,7 +27351,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "romper",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-break.jpg",
     "pt": "partir / quebrar",
-    "nl": "breken"
+    "nl": "breken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "wave",
@@ -26418,7 +27366,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "saludar con la mano",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-wave.jpg",
     "pt": "acenar",
-    "nl": "zwaaien"
+    "nl": "zwaaien",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "hold",
@@ -26445,7 +27396,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "atar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-tie.jpg",
     "pt": "atar / amarrar",
-    "nl": "vastbinden"
+    "nl": "vastbinden",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "drop",
@@ -26457,7 +27411,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "dejar caer",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-drop.jpg",
     "pt": "deixar cair",
-    "nl": "laten vallen"
+    "nl": "laten vallen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "lose_game",
@@ -26469,7 +27426,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "perder (un juego)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-lose_game.jpg",
     "pt": "perder um jogo",
-    "nl": "verliezen"
+    "nl": "verliezen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "mow_lawn",
@@ -26481,7 +27441,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "cortar el césped",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-mow_lawn.jpg",
     "pt": "cortar a relva / cortar a grama",
-    "nl": "het gras maaien"
+    "nl": "het gras maaien",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "take_notes",
@@ -26493,7 +27456,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "tomar notas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-take_notes.jpg",
     "pt": "tomar notas",
-    "nl": "aantekeningen maken"
+    "nl": "aantekeningen maken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "light_candle",
@@ -26505,7 +27471,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "encender una vela",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-light_candle.jpg",
     "pt": "acender uma vela",
-    "nl": "een kaars aansteken"
+    "nl": "een kaars aansteken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "freeze",
@@ -26517,7 +27486,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "congelar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-freeze.jpg",
     "pt": "congelar",
-    "nl": "bevriezen"
+    "nl": "bevriezen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "buzz",
@@ -26544,7 +27516,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "comprar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-buy.jpg",
     "pt": "comprar",
-    "nl": "kopen"
+    "nl": "kopen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "camp",
@@ -26556,7 +27531,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "acampar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-camp.jpg",
     "pt": "acampar",
-    "nl": "kamperen"
+    "nl": "kamperen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "clean",
@@ -26583,7 +27561,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "trepar a un árbol",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-climb_tree.jpg",
     "pt": "trepar a uma árvore",
-    "nl": "in een boom klimmen"
+    "nl": "in een boom klimmen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "close",
@@ -26610,7 +27591,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "arrastrarse (insecto)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-crawl_insect.jpg",
     "pt": "rastejar",
-    "nl": "kruipen (insect)"
+    "nl": "kruipen (insect)",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "dig",
@@ -26622,7 +27606,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "cavar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-dig.jpg",
     "pt": "cavar",
-    "nl": "graven"
+    "nl": "graven",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "drive_car",
@@ -26634,7 +27621,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "conducir un coche",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-drive_car.jpg",
     "pt": "conduzir um carro / dirigir um carro",
-    "nl": "autorijden"
+    "nl": "autorijden",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "explode",
@@ -26646,7 +27636,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "explotar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-explode.jpg",
     "pt": "explodir",
-    "nl": "ontploffen"
+    "nl": "ontploffen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "fall",
@@ -26658,7 +27651,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "caer",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-fall.jpg",
     "pt": "cair",
-    "nl": "vallen"
+    "nl": "vallen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "go_down",
@@ -26700,7 +27696,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "hacer senderismo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-hike.jpg",
     "pt": "fazer caminhada",
-    "nl": "wandelen"
+    "nl": "wandelen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "laugh",
@@ -26727,7 +27726,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "poner un huevo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-lay_egg.jpg",
     "pt": "pôr um ovo",
-    "nl": "een ei leggen"
+    "nl": "een ei leggen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "measure",
@@ -26739,7 +27741,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "medir",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-measure.jpg",
     "pt": "medir",
-    "nl": "meten"
+    "nl": "meten",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "mix",
@@ -26751,7 +27756,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "mezclar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-mix.jpg",
     "pt": "misturar",
-    "nl": "mengen"
+    "nl": "mengen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pour_water",
@@ -26778,7 +27786,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "tirar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-pull.jpg",
     "pt": "puxar",
-    "nl": "trekken"
+    "nl": "trekken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "run",
@@ -26790,7 +27801,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "correr",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-run.jpg",
     "pt": "correr",
-    "nl": "rennen"
+    "nl": "rennen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sail",
@@ -26802,7 +27816,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "navegar a vela",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-sail.jpg",
     "pt": "navegar à vela",
-    "nl": "zeilen"
+    "nl": "zeilen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "rain_verb",
@@ -26814,7 +27831,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "llover",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-rain_verb.jpg",
     "pt": "chover",
-    "nl": "regenen"
+    "nl": "regenen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "roll",
@@ -26826,7 +27846,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "rodar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-roll.jpg",
     "pt": "rolar",
-    "nl": "rollen"
+    "nl": "rollen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "spin",
@@ -26838,7 +27861,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "girar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-spin.jpg",
     "pt": "girar",
-    "nl": "ronddraaien"
+    "nl": "ronddraaien",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "taste",
@@ -26850,7 +27876,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "probar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-taste.jpg",
     "pt": "provar",
-    "nl": "proeven"
+    "nl": "proeven",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "toast",
@@ -26862,7 +27891,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "brindar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-toast.jpg",
     "pt": "brindar",
-    "nl": "proosten"
+    "nl": "proosten",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "travel",
@@ -26889,7 +27921,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "votar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-vote.jpg",
     "pt": "votar",
-    "nl": "stemmen"
+    "nl": "stemmen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "watch",
@@ -26901,7 +27936,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "mirar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-watch.jpg",
     "pt": "ver",
-    "nl": "kijken"
+    "nl": "kijken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "waterplants",
@@ -26913,7 +27951,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "regar las plantas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-waterplants.jpg",
     "pt": "regar as plantas",
-    "nl": "planten water geven"
+    "nl": "planten water geven",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "wear",
@@ -26925,7 +27966,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "llevar puesto",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-wear.jpg",
     "pt": "vestir",
-    "nl": "dragen"
+    "nl": "dragen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "work",
@@ -26937,7 +27981,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "trabajar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-work.jpg",
     "pt": "trabalhar",
-    "nl": "werken"
+    "nl": "werken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "write",
@@ -26949,7 +27996,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "escribir",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-write.jpg",
     "pt": "escrever",
-    "nl": "schrijven"
+    "nl": "schrijven",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "kiss",
@@ -26976,7 +28026,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "construir",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-build.jpg",
     "pt": "construir",
-    "nl": "bouwen"
+    "nl": "bouwen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "go_up",
@@ -26988,7 +28041,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "subir",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-go_up.jpg",
     "pt": "subir",
-    "nl": "naar boven gaan"
+    "nl": "naar boven gaan",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "box_verb",
@@ -27000,7 +28056,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "boxear",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-box_verb.jpg",
     "pt": "boxear",
-    "nl": "boksen"
+    "nl": "boksen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "applaud",
@@ -27012,7 +28071,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "aplaudir",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-applaud.jpg",
     "pt": "aplaudir",
-    "nl": "applaudisseren"
+    "nl": "applaudisseren",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "shakehands",
@@ -27024,7 +28086,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "dar la mano",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-shakehands.jpg",
     "pt": "apertar a mão",
-    "nl": "handen schudden"
+    "nl": "handen schudden",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "learn",
@@ -27066,7 +28131,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "bailar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-dance.jpg",
     "pt": "dançar",
-    "nl": "dansen"
+    "nl": "dansen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "think",
@@ -27078,7 +28146,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "pensar",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-think.jpg",
     "pt": "pensar",
-    "nl": "denken"
+    "nl": "denken",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ridebike",
@@ -27090,7 +28161,10 @@ window.QM_VOCAB_VERBS_DATA = [
     "es": "montar en bicicleta",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-verbs/verb-ridebike.jpg",
     "pt": "andar de bicicleta",
-    "nl": "fietsen"
+    "nl": "fietsen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   }
 ];
 window.QM_VOCAB_BODYPARTS_DATA = [
@@ -27119,7 +28193,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "el ojo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-eye.jpg",
     "pt": "o olho",
-    "nl": "het oog"
+    "nl": "het oog",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ear",
@@ -27191,7 +28268,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "el cuello",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-neck.jpg",
     "pt": "o pescoço",
-    "nl": "de nek"
+    "nl": "de nek",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "shoulder",
@@ -27203,7 +28283,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "el hombro",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-shoulder.jpg",
     "pt": "o ombro",
-    "nl": "de schouder"
+    "nl": "de schouder",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "hand",
@@ -27230,7 +28313,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "el dedo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-finger.jpg",
     "pt": "o dedo",
-    "nl": "de vinger"
+    "nl": "de vinger",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "leg",
@@ -27257,7 +28343,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "el pie",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-foot.jpg",
     "pt": "o pé",
-    "nl": "de voet"
+    "nl": "de voet",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "knee",
@@ -27269,7 +28358,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "la rodilla",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-knee.jpg",
     "pt": "o joelho",
-    "nl": "de knie"
+    "nl": "de knie",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "brain",
@@ -27281,7 +28373,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "el cerebro",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-brain.jpg",
     "pt": "o cérebro",
-    "nl": "de hersenen"
+    "nl": "de hersenen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "wrist",
@@ -27308,7 +28403,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "la barbilla",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-chin.jpg",
     "pt": "o queixo",
-    "nl": "de kin"
+    "nl": "de kin",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "face",
@@ -27335,7 +28433,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "la frente",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-forehead.jpg",
     "pt": "a testa",
-    "nl": "het voorhoofd"
+    "nl": "het voorhoofd",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "eyebrow",
@@ -27362,7 +28463,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "las pestañas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-eyelash.jpg",
     "pt": "os cílios",
-    "nl": "de wimpers"
+    "nl": "de wimpers",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "earlobe",
@@ -27419,7 +28523,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "las fosas nasales",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-nostrils.jpg",
     "pt": "as narinas",
-    "nl": "de neusgaten"
+    "nl": "de neusgaten",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "skull",
@@ -27461,7 +28568,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "el ombligo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-bellybutton.jpg",
     "pt": "o umbigo",
-    "nl": "de navel"
+    "nl": "de navel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "thumb",
@@ -27518,7 +28628,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "los nudillos",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-knuckles.jpg",
     "pt": "os nós dos dedos",
-    "nl": "de knokkels"
+    "nl": "de knokkels",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "bigtoe",
@@ -27575,7 +28688,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "el corazón",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-heart.png",
     "pt": "o coração",
-    "nl": "het hart"
+    "nl": "het hart",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "lungs",
@@ -27617,7 +28733,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "el hígado",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-liver.png",
     "pt": "o fígado",
-    "nl": "de lever"
+    "nl": "de lever",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "blood",
@@ -27659,7 +28778,10 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "es": "las venas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-bodyparts/bp-veins.jpg",
     "pt": "as veias",
-    "nl": "de aderen"
+    "nl": "de aderen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   }
 ];
 window.QM_COUNTRIES_AFRICA_DATA = [
@@ -32943,7 +34065,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "rojo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-red.jpg",
     "pt": "vermelho",
-    "nl": "rood"
+    "nl": "rood",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "orange_color",
@@ -32955,7 +34080,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "naranja",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-orange_color.jpg",
     "pt": "laranja",
-    "nl": "oranje"
+    "nl": "oranje",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "yellow",
@@ -32967,7 +34095,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "amarillo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-yellow.jpg",
     "pt": "amarelo",
-    "nl": "geel"
+    "nl": "geel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "green",
@@ -32979,7 +34110,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "verde",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-green.jpg",
     "pt": "verde",
-    "nl": "groen"
+    "nl": "groen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "blue",
@@ -32991,7 +34125,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "azul",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-blue.jpg",
     "pt": "azul",
-    "nl": "blauw"
+    "nl": "blauw",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "purple",
@@ -33003,7 +34140,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "morado",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-purple.jpg",
     "pt": "roxo",
-    "nl": "paars"
+    "nl": "paars",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pink",
@@ -33015,7 +34155,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "rosa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-pink.jpg",
     "pt": "rosa",
-    "nl": "roze"
+    "nl": "roze",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "brown",
@@ -33027,7 +34170,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "marrón",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-brown.jpg",
     "pt": "castanho / marrom",
-    "nl": "bruin"
+    "nl": "bruin",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "black",
@@ -33039,7 +34185,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "negro",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-black.jpg",
     "pt": "preto",
-    "nl": "zwart"
+    "nl": "zwart",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "white",
@@ -33051,7 +34200,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "blanco",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-white.jpg",
     "pt": "branco",
-    "nl": "wit"
+    "nl": "wit",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "grey",
@@ -33063,7 +34215,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "gris",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-grey.jpg",
     "pt": "cinzento / cinza",
-    "nl": "grijs"
+    "nl": "grijs",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "turquoise",
@@ -33075,7 +34230,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "turquesa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-turquoise.jpg",
     "pt": "turquesa",
-    "nl": "turkoois"
+    "nl": "turkoois",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "gold_color",
@@ -33087,7 +34245,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "dorado",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-gold_color.jpg",
     "pt": "dourado",
-    "nl": "goud"
+    "nl": "goud",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "silver_color",
@@ -33099,7 +34260,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "plateado",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-silver_color.jpg",
     "pt": "prateado",
-    "nl": "zilver"
+    "nl": "zilver",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "beige",
@@ -33111,7 +34275,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "beige",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-beige.jpg",
     "pt": "bege",
-    "nl": "beige"
+    "nl": "beige",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "navy",
@@ -33123,7 +34290,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "azul marino",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-navy.jpg",
     "pt": "azul-marinho",
-    "nl": "marineblauw"
+    "nl": "marineblauw",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "maroon",
@@ -33135,7 +34305,10 @@ window.QM_VOCAB_COLOURS_DATA = [
     "es": "granate",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-maroon.jpg",
     "pt": "bordô",
-    "nl": "bordeauxrood"
+    "nl": "bordeauxrood",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   }
 ];
 window.QM_VOCAB_OCCUPATIONS_DATA = [
@@ -33179,7 +34352,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el bombero / la bombera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-firefighter.jpg",
     "pt": "o bombeiro / a bombeira",
-    "nl": "de brandweerman / de brandweervrouw"
+    "nl": "de brandweerman / de brandweervrouw",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "farmer",
@@ -33191,7 +34367,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el agricultor / la agricultora",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-farmer.jpg",
     "pt": "o agricultor / a agricultora",
-    "nl": "de boer / de boerin"
+    "nl": "de boer / de boerin",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "nurse",
@@ -33203,7 +34382,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el enfermero / la enfermera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-nurse.jpg",
     "pt": "o enfermeiro / a enfermeira",
-    "nl": "de verpleger / de verpleegster"
+    "nl": "de verpleger / de verpleegster",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "mechanic",
@@ -33215,7 +34397,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el mecánico / la mecánica",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-mechanic.jpg",
     "pt": "o mecânico / a mecânica",
-    "nl": "de monteur"
+    "nl": "de monteur",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pilot",
@@ -33227,7 +34412,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el piloto / la piloto",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-pilot.jpg",
     "pt": "o piloto / a piloto",
-    "nl": "de piloot / de pilote"
+    "nl": "de piloot / de pilote",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "waiter",
@@ -33239,7 +34427,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el camarero / la camarera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-waiter.jpg",
     "pt": "o empregado de mesa / a empregada de mesa / o garçom / a garçonete",
-    "nl": "de ober / de serveerster"
+    "nl": "de ober / de serveerster",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "hairdresser",
@@ -33251,7 +34442,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el peluquero / la peluquera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-hairdresser.jpg",
     "pt": "o cabeleireiro / a cabeleireira",
-    "nl": "de kapper / de kapster"
+    "nl": "de kapper / de kapster",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "dentist",
@@ -33263,7 +34457,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el dentista / la dentista",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-dentist.jpg",
     "pt": "o dentista / a dentista",
-    "nl": "de tandarts"
+    "nl": "de tandarts",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "engineer",
@@ -33275,7 +34472,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el ingeniero / la ingeniera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-engineer.jpg",
     "pt": "o engenheiro / a engenheira",
-    "nl": "de ingenieur"
+    "nl": "de ingenieur",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "artist",
@@ -33302,7 +34502,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el científico / la científica",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-scientist.jpg",
     "pt": "o cientista / a cientista",
-    "nl": "de wetenschapper"
+    "nl": "de wetenschapper",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "vet",
@@ -33344,7 +34547,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el juez / la jueza",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-judge.png",
     "pt": "o juiz / a juíza",
-    "nl": "de rechter"
+    "nl": "de rechter",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "baker",
@@ -33356,7 +34562,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el panadero / la panadera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-baker.jpg",
     "pt": "o padeiro / a padeira",
-    "nl": "de bakker / de bakster"
+    "nl": "de bakker / de bakster",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "fisherman",
@@ -33368,7 +34577,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el pescador / la pescadora",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-fisherman.jpg",
     "pt": "o pescador / a pescadora",
-    "nl": "de visser"
+    "nl": "de visser",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "carpenter",
@@ -33380,7 +34592,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el carpintero / la carpintera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-carpenter.jpg",
     "pt": "o carpinteiro / a carpinteira",
-    "nl": "de timmerman / de timmervrouw"
+    "nl": "de timmerman / de timmervrouw",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "plumber",
@@ -33392,7 +34607,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el fontanero / la fontanera",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-plumber.jpg",
     "pt": "o canalizador / a canalizadora / o encanador / a encanadora",
-    "nl": "de loodgieter"
+    "nl": "de loodgieter",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "electrician",
@@ -33404,7 +34622,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el electricista / la electricista",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-electrician.jpg",
     "pt": "o eletricista / a eletricista",
-    "nl": "de elektricien"
+    "nl": "de elektricien",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "photographer",
@@ -33446,7 +34667,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el arquitecto / la arquitecta",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-architect.jpg",
     "pt": "o arquiteto / a arquiteta",
-    "nl": "de architect / de architecte"
+    "nl": "de architect / de architecte",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "librarian",
@@ -33458,7 +34682,10 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "es": "el bibliotecario / la bibliotecaria",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-librarian.jpg",
     "pt": "o bibliotecário / a bibliotecária",
-    "nl": "de bibliothecaris / de bibliothecaresse"
+    "nl": "de bibliothecaris / de bibliothecaresse",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "priest",
@@ -33892,7 +35119,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el fútbol",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-soccer.jpg",
     "pt": "o futebol",
-    "nl": "het voetbal"
+    "nl": "het voetbal",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "basketballsport",
@@ -33904,7 +35134,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el baloncesto",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-basketballsport.jpg",
     "pt": "o basquetebol / o basquete",
-    "nl": "het basketbal"
+    "nl": "het basketbal",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "tennis",
@@ -33916,7 +35149,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el tenis",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-tennis.jpg",
     "pt": "o ténis",
-    "nl": "het tennis"
+    "nl": "het tennis",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "swimming",
@@ -33928,7 +35164,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "la natación",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-swimming.jpg",
     "pt": "a natação",
-    "nl": "het zwemmen"
+    "nl": "het zwemmen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "volleyball",
@@ -33940,7 +35179,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el voleibol",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-volleyball.jpg",
     "pt": "o voleibol",
-    "nl": "het volleybal"
+    "nl": "het volleybal",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "baseball",
@@ -33952,7 +35194,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el béisbol",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-baseball.jpg",
     "pt": "o basebol",
-    "nl": "het honkbal"
+    "nl": "het honkbal",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "golf",
@@ -33964,7 +35209,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el golf",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-golf.jpg",
     "pt": "o golfe",
-    "nl": "het golf"
+    "nl": "het golf",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "boxing",
@@ -33976,7 +35224,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el boxeo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-boxing.jpg",
     "pt": "o boxe",
-    "nl": "het boksen"
+    "nl": "het boksen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "cycling",
@@ -33988,7 +35239,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el ciclismo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-cycling.jpg",
     "pt": "o ciclismo",
-    "nl": "het wielrennen"
+    "nl": "het wielrennen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "running",
@@ -34000,7 +35254,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el atletismo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-running.jpg",
     "pt": "o atletismo",
-    "nl": "het hardlopen"
+    "nl": "het hardlopen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "skiing",
@@ -34012,7 +35269,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el esquí",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-skiing.jpg",
     "pt": "o esqui",
-    "nl": "het skiën"
+    "nl": "het skiën",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "surfing",
@@ -34024,7 +35284,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el surf",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-surfing.jpg",
     "pt": "o surf",
-    "nl": "het surfen"
+    "nl": "het surfen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "rugby",
@@ -34036,7 +35299,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el rugby",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-rugby.jpg",
     "pt": "o râguebi / o rugby",
-    "nl": "het rugby"
+    "nl": "het rugby",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "cricket",
@@ -34048,7 +35314,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el criquet",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-cricket.jpg",
     "pt": "o críquete",
-    "nl": "het cricket"
+    "nl": "het cricket",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "icehockey",
@@ -34060,7 +35329,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el hockey sobre hielo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-icehockey.jpg",
     "pt": "o hóquei no gelo",
-    "nl": "het ijshockey"
+    "nl": "het ijshockey",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "tabletennis",
@@ -34072,7 +35344,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el tenis de mesa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-tabletennis.jpg",
     "pt": "o ténis de mesa",
-    "nl": "het tafeltennis"
+    "nl": "het tafeltennis",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "badminton",
@@ -34084,7 +35359,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el bádminton",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-badminton.jpg",
     "pt": "o badminton",
-    "nl": "het badminton"
+    "nl": "het badminton",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "gymnastics",
@@ -34096,7 +35374,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "la gimnasia",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-gymnastics.jpg",
     "pt": "a ginástica",
-    "nl": "het turnen"
+    "nl": "het turnen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "wrestling",
@@ -34108,7 +35389,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "la lucha libre",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-wrestling.jpg",
     "pt": "a luta livre",
-    "nl": "het worstelen"
+    "nl": "het worstelen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "archery",
@@ -34120,7 +35404,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el tiro con arco",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-archery.jpg",
     "pt": "o tiro com arco",
-    "nl": "het boogschieten"
+    "nl": "het boogschieten",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "rowing",
@@ -34132,7 +35419,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el remo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-rowing.jpg",
     "pt": "o remo",
-    "nl": "het roeien"
+    "nl": "het roeien",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "soccerball",
@@ -34144,7 +35434,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el balón de fútbol",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-soccerball.jpg",
     "pt": "a bola de futebol",
-    "nl": "de voetbal"
+    "nl": "de voetbal",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "basketballhoop",
@@ -34156,7 +35449,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "la canasta de baloncesto",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-basketballhoop.jpg",
     "pt": "a cesta de basquetebol / a cesta de basquete",
-    "nl": "de basketbalring"
+    "nl": "de basketbalring",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "tennisracket",
@@ -34168,7 +35464,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "la raqueta de tenis",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-tennisracket.jpg",
     "pt": "a raquete de ténis",
-    "nl": "het tennisracket"
+    "nl": "het tennisracket",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "baseballbat",
@@ -34180,7 +35479,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el bate de béisbol",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-baseballbat.jpg",
     "pt": "o taco de basebol",
-    "nl": "de honkbalknuppel"
+    "nl": "de honkbalknuppel",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "baseballglove",
@@ -34192,7 +35494,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el guante de béisbol",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-baseballglove.jpg",
     "pt": "a luva de basebol",
-    "nl": "de honkbalhandschoen"
+    "nl": "de honkbalhandschoen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "golfclub",
@@ -34204,7 +35509,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el palo de golf",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-golfclub.jpg",
     "pt": "o taco de golfe",
-    "nl": "de golfclub"
+    "nl": "de golfclub",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "boxinggloves",
@@ -34216,7 +35524,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "los guantes de boxeo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-boxinggloves.jpg",
     "pt": "as luvas de boxe",
-    "nl": "de bokshandschoenen"
+    "nl": "de bokshandschoenen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "skis",
@@ -34228,7 +35539,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "los esquís",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-skis.jpg",
     "pt": "os esquis",
-    "nl": "de ski's"
+    "nl": "de ski's",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "surfboard",
@@ -34240,7 +35554,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "la tabla de surf",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-surfboard.jpg",
     "pt": "a prancha de surf",
-    "nl": "de surfplank"
+    "nl": "de surfplank",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "iceskates",
@@ -34252,7 +35569,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "los patines de hielo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-iceskates.jpg",
     "pt": "os patins de gelo",
-    "nl": "de schaatsen"
+    "nl": "de schaatsen",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "whistle",
@@ -34264,7 +35584,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el silbato",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-whistle.jpg",
     "pt": "o apito",
-    "nl": "het fluitje"
+    "nl": "het fluitje",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "trophy",
@@ -34276,7 +35599,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el trofeo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-trophy.jpg",
     "pt": "o troféu",
-    "nl": "de trofee"
+    "nl": "de trofee",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "medal",
@@ -34288,7 +35614,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "la medalla",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-medal.jpg",
     "pt": "a medalha",
-    "nl": "de medaille"
+    "nl": "de medaille",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "dumbbell",
@@ -34300,7 +35629,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "la mancuerna",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-dumbbell.jpg",
     "pt": "o haltere",
-    "nl": "de halter"
+    "nl": "de halter",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "treadmill",
@@ -34312,7 +35644,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "la cinta de correr",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-treadmill.jpg",
     "pt": "a passadeira / a esteira",
-    "nl": "de loopband"
+    "nl": "de loopband",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "yogamat",
@@ -34324,7 +35659,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "la esterilla de yoga",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-yogamat.jpg",
     "pt": "o tapete de ioga",
-    "nl": "de yogamat"
+    "nl": "de yogamat",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "swimminggoggles",
@@ -34336,7 +35674,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "las gafas de natación",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-sports/sport-swimminggoggles.jpg",
     "pt": "os óculos de natação",
-    "nl": "de zwembril"
+    "nl": "de zwembril",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "basketball",
@@ -34348,7 +35689,10 @@ window.QM_VOCAB_SPORTS_DATA = [
     "es": "el balón de baloncesto",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-nouns/noun-basketball.jpg",
     "pt": "a bola de basquetebol / a bola de basquete",
-    "nl": "het basketbal"
+    "nl": "het basketbal",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "helmet",
