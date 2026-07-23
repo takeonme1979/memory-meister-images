@@ -2555,17 +2555,17 @@ window.QM_QUIZ_META = {
   "male90s": {
     "title": "Male Artists (90s)",
     "promptText": "Identify this artist",
-    "desc": "Identify these best-selling male artists from the 90s, based on the UK charts."
+    "desc": "Best-selling male artists of the 90s (UK charts)."
   },
   "musicians": {
     "title": "Female Artists (2010+)",
     "promptText": "Identify this artist",
-    "desc": "Identify these best-selling female artists since 2010, based on the UK charts."
+    "desc": "Best-selling female artists since 2010 (UK charts)."
   },
   "techAcronyms": {
     "title": "Tech and Chat Acronyms",
     "promptText": "What does this stand for?",
-    "desc": "100 common internet and technology abbreviations."
+    "desc": "Common internet & tech abbreviations."
   },
   "mensTennis": {
     "title": "Men's Tennis Grand Slam Champions",
@@ -2578,37 +2578,37 @@ window.QM_QUIZ_META = {
     "desc": "Open Era women's Grand Slam champions."
   },
   "male2010s": {
-    "desc": "Identify these best-selling male artists since 2010, based on the UK charts."
+    "desc": "Best-selling male artists since 2010 (UK charts)."
   },
   "female90s": {
-    "desc": "Identify these best-selling female artists from the 90s, based on the UK charts."
+    "desc": "Best-selling female artists of the 90s (UK charts)."
   },
   "male00s": {
-    "desc": "Identify these best-selling male artists from the 2000s, based on the UK charts."
+    "desc": "Best-selling male artists of the 2000s (UK charts)."
   },
   "female00s": {
-    "desc": "Identify these best-selling female artists from the 2000s, based on the UK charts."
+    "desc": "Best-selling female artists of the 2000s (UK charts)."
   },
   "male60s": {
-    "desc": "Identify these best-selling male artists from the 60s, based on the UK charts."
+    "desc": "Best-selling male artists of the 60s (UK charts)."
   },
   "female60s": {
-    "desc": "Identify these best-selling female artists from the 60s, based on the UK charts."
+    "desc": "Best-selling female artists of the 60s (UK charts)."
   },
   "male70s": {
-    "desc": "Identify these best-selling male artists from the 70s, based on the UK charts."
+    "desc": "Best-selling male artists of the 70s (UK charts)."
   },
   "female70s": {
-    "desc": "Identify these best-selling female artists from the 70s, based on the UK charts."
+    "desc": "Best-selling female artists of the 70s (UK charts)."
   },
   "male80s": {
-    "desc": "Identify these best-selling male artists from the 80s, based on the UK charts."
+    "desc": "Best-selling male artists of the 80s (UK charts)."
   },
   "female80s": {
-    "desc": "Identify these best-selling female artists from the 80s, based on the UK charts."
+    "desc": "Best-selling female artists of the 80s (UK charts)."
   },
   "synthpopBands": {
-    "desc": "Synthpop and new wave acts of the 70s and 80s, mostly based on the UK charts."
+    "desc": "Synthpop & new wave of the 70s–80s (UK charts)."
   }
 };
 window.QM_CATEGORY_META = {};
