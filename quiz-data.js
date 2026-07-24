@@ -2551,6 +2551,7 @@ window.QM_HIDDEN_QUIZZES = [
   "welshCounties",
   "monarchs"
 ];
+window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
   "male90s": {
     "title": "Male Artists (90s)",
