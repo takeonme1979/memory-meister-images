@@ -35983,6 +35983,21 @@ window.QM_VOCAB_SPORTS_DATA = [
 ];
 window.QM_VOCAB_HOBBIES_DATA = [
   {
+    "id": "topiary",
+    "english": "Topiary",
+    "it": "l'arte topiaria",
+    "pl": "sztuka topiarska",
+    "fr": "l'art topiaire",
+    "de": "der Formschnitt",
+    "es": "el arte topiario",
+    "pt": "a arte topiária",
+    "nl": "de vormsnoei",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-hobbies/hobby-topiary.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
     "id": "gardening",
     "english": "Gardening",
     "it": "il giardinaggio",
