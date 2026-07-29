@@ -39601,8 +39601,8 @@ window.QM_GENZ_DATA = [
   {
     "id": 12,
     "term": "Skibidi",
-    "definition": "A nonsense intensifier from a viral cartoon; roughly \"weird\" or \"bad\"",
-    "example": "What is this skibidi nonsense you're watching?"
+    "definition": "Deliberate nonsense from the Skibidi Toilet memes — can mean cool, bad, or nothing at all",
+    "example": "Ohio skibidi rizz — the words mean nothing, that’s the joke."
   },
   {
     "id": 13,
