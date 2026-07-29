@@ -39650,6 +39650,3618 @@ window.QM_IDIOMS_LT_DATA = [
     "example": ""
   }
 ];
+window.QM_IDIOMS_NL_DATA = [
+  {
+    "id": 1,
+    "term": "aan de hand zijn",
+    "definition": "to occur, happen, go on, be at hand",
+    "example": "wat is er aan de hand."
+  },
+  {
+    "id": 2,
+    "term": "aan de tand voelen",
+    "definition": "to grill; to question thoroughly",
+    "example": "Ik zal hem nog eens aan de tand voelen om te achterhalen wat hij heeft uitgespookt."
+  },
+  {
+    "id": 3,
+    "term": "aan het eind van zijn Latijn zijn",
+    "definition": "to be at one's wits' end; to be exhausted",
+    "example": "Door het spervuur aan kritische vragen was de kandidaat aan het eind van haar Latijn."
+  },
+  {
+    "id": 4,
+    "term": "achter het behang kunnen plakken",
+    "definition": "to be fed up with, to be annoyed with",
+    "example": "Mijn zusje doet vandaag zo irritant, ik zou haar wel achter het behang kunnen plakken."
+  },
+  {
+    "id": 5,
+    "term": "alles op één kaart zetten",
+    "definition": "to put all one's eggs in one basket",
+    "example": ""
+  },
+  {
+    "id": 6,
+    "term": "als muziek in de oren klinken",
+    "definition": "to sound like music to someone's ears",
+    "example": "Een dag vrij? Dat klinkt me als muziek in de oren!"
+  },
+  {
+    "id": 7,
+    "term": "anderhalve man en een paardenkop",
+    "definition": "one man and his dog",
+    "example": "Er kwamen nauwelijks mensen naar het evenement, slechts anderhalve man en een paardenkop."
+  },
+  {
+    "id": 8,
+    "term": "beren op de weg zien",
+    "definition": "to imagine (future) problems",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "beter een vogel in de hand dan tien in de lucht",
+    "definition": "a bird in the hand is worth two in the bush",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "beter ten halve gekeerd dan ten hele gedwaald",
+    "definition": "a fault confessed is half redressed",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "bier na wijn geeft venijn",
+    "definition": "drinking beer following the consumption of wine causes greater discomfort (through excessive inebriation and h",
+    "example": ""
+  },
+  {
+    "id": 12,
+    "term": "bij de duivel te biecht gaan",
+    "definition": "to seek help or confide in someone untrustworthy, dangerous, or morally wrong",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "bij de pakken neerzitten",
+    "definition": "to throw in the towel; to give up; to resign oneself to a situation",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "bij nacht zijn alle katten grauw",
+    "definition": "all cats are grey in the dark",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "dat brengt moesje niet naar Parijs",
+    "definition": "it doesn't have a significant effect; it's not a useful contribution; it doesn't advance the matter",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "de kaas niet van het brood laten eten",
+    "definition": "to hold one's own, be assertive",
+    "example": "Maak je geen zorgen over haar, zij laat zich de kaas echt niet van het brood eten."
+  },
+  {
+    "id": 17,
+    "term": "de oren wassen",
+    "definition": "to rebuke, scold, reprimand severely, put someone in their place",
+    "example": "Ze waste de spijbelaar de oren."
+  },
+  {
+    "id": 18,
+    "term": "de vuile was buiten hangen",
+    "definition": "to air one's dirty laundry in public",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "de week doormidden zagen",
+    "definition": "to celebrate the halfway point of the working week on Wednesday",
+    "example": "Het is alweer woensdag, kom je mee uit lunchen om de week doormidden te zagen?"
+  },
+  {
+    "id": 20,
+    "term": "de wijsheid in pacht hebben",
+    "definition": "To know everything",
+    "example": "Pubers denken altijd dat ze de wijsheid in pacht hebben."
+  },
+  {
+    "id": 21,
+    "term": "een appel en een ei",
+    "definition": "peanuts; a low price",
+    "example": "Deze tweedehands platenspeler kostte een appel en een ei."
+  },
+  {
+    "id": 22,
+    "term": "een bord voor zijn kop hebben",
+    "definition": "to do as one pleases without shame or regard for signals from others",
+    "example": "Wat ik ook zeg, jij doet alsof de hele wereld om jou draait. Je hebt een bord voor je kop, en niet zo'n kleintje ook."
+  },
+  {
+    "id": 23,
+    "term": "een kind kan de was doen",
+    "definition": "anyone can do it",
+    "example": "De handleiding legt het allemaal erg goed uit, een kind kan de was doen."
+  },
+  {
+    "id": 24,
+    "term": "een rad voor de ogen draaien",
+    "definition": "to deceive, to pull the wool over someone's eyes",
+    "example": ""
+  },
+  {
+    "id": 25,
+    "term": "een speld tussen krijgen",
+    "definition": "to be unclear, refutable or debatable",
+    "example": "Dat zijn de feiten. Daar krijg je geen speld tussen."
+  },
+  {
+    "id": 26,
+    "term": "een worst voorhouden",
+    "definition": "to put something desirable in prospect in order to try to get someone to do something; to try to motivate",
+    "example": "De baas hield de werknemer een worst voor door toespelingen op een mogelijke promotie."
+  },
+  {
+    "id": 27,
+    "term": "familie van het zevende knoopsgat",
+    "definition": "a very distant relative",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "feest der herkenning",
+    "definition": "an experience that is enjoyable because it evokes a feeling of recognition",
+    "example": ""
+  },
+  {
+    "id": 29,
+    "term": "feest van de democratie",
+    "definition": "an election",
+    "example": ""
+  },
+  {
+    "id": 30,
+    "term": "fluitje van een cent",
+    "definition": "cakewalk, piece of cake",
+    "example": "Het bed in elkaar zetten is een fluitje van een cent, daar hoef je niet langer dan een uur mee bezig te zijn."
+  },
+  {
+    "id": 31,
+    "term": "gedane zaken nemen geen keer",
+    "definition": "what's done is done, what's done cannot be undone",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "geen blad voor de mond nemen",
+    "definition": "to be outspoken; not to mince words; to call a spade a spade",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "geen haan die ernaar kraait",
+    "definition": "nobody pays any minds to it; nobody cares about it",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "geen pap meer kunnen zeggen",
+    "definition": "to be exhausted",
+    "example": "Gelukkig zijn we eindelijk thuis, ik kan echt geen pap meer zeggen."
+  },
+  {
+    "id": 35,
+    "term": "geen windeieren leggen",
+    "definition": "to be beneficial to, particularly financially",
+    "example": "Zijn carrièreswitch heeft hem geen windeieren gelegd."
+  },
+  {
+    "id": 36,
+    "term": "Gods water over Gods akker laten lopen",
+    "definition": "To let matters run their course; to not be bothered about consequences",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "haar op zijn tanden hebben",
+    "definition": "to be assertive, hold one's own",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "het achterste van zijn tong laten zien",
+    "definition": "to put one's cards on the table, speak frankly",
+    "example": "Hij laat veel te snel het achterste van zijn tong zien."
+  },
+  {
+    "id": 39,
+    "term": "het bij het verkeerde eind hebben",
+    "definition": "to be mistaken",
+    "example": "Als u denkt dat u met mij kunt sollen, dan heeft u het bij het verkeerde eind."
+  },
+  {
+    "id": 40,
+    "term": "het bloed kruipt waar het niet gaan kan",
+    "definition": "blood will tell; one's true nature will eventually assert itself",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "het geluk is met de dommen",
+    "definition": "one seems to achieve something easier by luck, than through skill; it is better to be lucky than good",
+    "example": "Heb je het gehoord? Je collega heeft dat reuze-contract erdoor gekregen! — Het geluk is met de dommen."
+  },
+  {
+    "id": 42,
+    "term": "het rijk alleen hebben",
+    "definition": "To be home alone, to have one's residence all for oneself",
+    "example": "Haar vriend is er een paar dagen niet, dus heeft ze het rijk alleen."
+  },
+  {
+    "id": 43,
+    "term": "in de bres springen voor",
+    "definition": "to protect (someone) or to help (someone) in dire straits",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "in de lijn der verwachting liggen",
+    "definition": "to be expected",
+    "example": "Het lag in de lijn der verwachting dat de voetballer het met de scheidsrechter oneens zou zijn."
+  },
+  {
+    "id": 45,
+    "term": "in de melk te brokkelen hebben",
+    "definition": "to have a say, to have authority",
+    "example": "Hij heeft op zijn werk niets in de melk te brokkelen."
+  },
+  {
+    "id": 46,
+    "term": "in de rug steken",
+    "definition": "to stab (someone) in the back, to betray",
+    "example": "Hij is altijd bereid om iemand in de rug te steken."
+  },
+  {
+    "id": 47,
+    "term": "in de wieg gelegd zijn",
+    "definition": "to be cut out for, have the talent for",
+    "example": "Zij is voor het dansen in de wieg gelegd."
+  },
+  {
+    "id": 48,
+    "term": "in zijn oren knopen",
+    "definition": "to mark someone's words, take very conscious and careful mental note",
+    "example": "Knoop zijn advies maar goed in je oren!"
+  },
+  {
+    "id": 49,
+    "term": "jaar in jaar uit",
+    "definition": "year in, year out",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "Jan met de pet",
+    "definition": "John Q. Public, Joe Average, a hypothetical individual personification of the common man",
+    "example": "Gebruiksaanwijzingen moeten zo geformuleerd zijn dat Jan met de pet ze snapt."
+  },
+  {
+    "id": 51,
+    "term": "je bent wat je eet",
+    "definition": "you are what you eat",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "je van het",
+    "definition": "the bee's knees, the very best, fantastic",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "jong geleerd is oud gedaan",
+    "definition": "as the twig is bent, so is the tree inclined",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "jonge hond",
+    "definition": "An eager and energetic young newcomer",
+    "example": "De tegendraadse jonge hond veroorzaakte furore in de partij."
+  },
+  {
+    "id": 55,
+    "term": "kaas gegeten hebben",
+    "definition": "to be adept at, have extensive knowledge of",
+    "example": "Van algebra heeft hij geen kaas gegeten."
+  },
+  {
+    "id": 56,
+    "term": "kant noch wal raken",
+    "definition": "to make no sense, be nonsensical",
+    "example": "Zijn redenering raakte kant noch wal."
+  },
+  {
+    "id": 57,
+    "term": "kijken waar het schip strandt",
+    "definition": "to let the chips fall where they may",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "kind aan huis zijn",
+    "definition": "to visit frequently",
+    "example": "Hij was kind aan huis bij mijn grootvader."
+  },
+  {
+    "id": 59,
+    "term": "kind van de rekening",
+    "definition": "one who pays the price",
+    "example": "Die hoge lui ontspringen de dans, maar wij zijn het kind van de rekening."
+  },
+  {
+    "id": 60,
+    "term": "koeien met gouden horens",
+    "definition": "impossible, unrealistic or fantastic things; castles in the air",
+    "example": "De manager beloofde koeien met gouden horens in plaats van realistische doelen te stellen."
+  },
+  {
+    "id": 61,
+    "term": "leven als God in Frankrijk",
+    "definition": "to live comfortably and carefree",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "liever blode Jan dan dode Jan",
+    "definition": "better safe than sorry",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "lik op stuk geven",
+    "definition": "To have an answer ready; to address something (or someone) promptly and decisively",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "links laten liggen",
+    "definition": "to ignore, abandon, skip",
+    "example": "De toerist ging alleen naar Amsterdam, de rest van Nederland liet hij links liggen."
+  },
+  {
+    "id": 65,
+    "term": "lood om oud ijzer",
+    "definition": "it makes no difference",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "luiheid is des duivels oorkussen",
+    "definition": "idle hands are the devil's workshop",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "met alle winden meewaaien",
+    "definition": "to turn with every wind, to be inconsistent, to succumb easily to outside influence",
+    "example": "Want hij is een politicus die met alle winden meewaait."
+  },
+  {
+    "id": 68,
+    "term": "met de hakken over de sloot",
+    "definition": "just barely, by the skin of one's teeth",
+    "example": "Hij heeft met de hakken over de sloot zijn diploma gehaald."
+  },
+  {
+    "id": 69,
+    "term": "met de nek aankijken",
+    "definition": "To scorn, look down on, disregard",
+    "example": "Ze keken de nieuwkomer met de nek aan."
+  },
+  {
+    "id": 70,
+    "term": "met een kluitje in het riet sturen",
+    "definition": "to send someone off empty-handed or none the wiser",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "met man en muis",
+    "definition": "with everyone without exception",
+    "example": "met man en muis vergaan."
+  },
+  {
+    "id": 72,
+    "term": "met zijn gat in de boter vallen",
+    "definition": "to be in a comfortable situation through sheer luck; typically used to denote someone born into comfort",
+    "example": ""
+  },
+  {
+    "id": 73,
+    "term": "na aan het hart liggen",
+    "definition": "to be close to someone's heart, to be important to someone on a personal level",
+    "example": "Het voortbestaan van dit natuurgebied ligt hem na aan het hart."
+  },
+  {
+    "id": 74,
+    "term": "naar de mond praten",
+    "definition": "to pander to someone, act like a sycophant to someone",
+    "example": ""
+  },
+  {
+    "id": 75,
+    "term": "naar iemands pijpen dansen",
+    "definition": "to dance to someone's tune",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "niet onder stoelen of banken steken",
+    "definition": "To be very frank and not withhold information about something",
+    "example": "Tijdens de bijeenkomst stak hij zijn politieke ideeën niet onder stoelen of banken."
+  },
+  {
+    "id": 77,
+    "term": "niet voor de poes zijn",
+    "definition": "to be someone or something that is not to be underestimated or trifled with",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "niets nieuws onder de zon",
+    "definition": "there is nothing new under the sun",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "ondank is 's werelds loon",
+    "definition": "one often receives ingratitude or no recognition for one's accomplishments",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "onder de leden hebben",
+    "definition": "to have something in one's body; to be sick with something",
+    "example": "Hij heeft het virus al meer dan een week onder de leden."
+  },
+  {
+    "id": 81,
+    "term": "Onze Lieve Heer heeft rare kostgangers",
+    "definition": "Some people are surprisingly strange and eccentric; people are weird",
+    "example": "Ik zag laatst een man naakt schaatsen. Onze Lieve Heer heeft rare kostgangers."
+  },
+  {
+    "id": 82,
+    "term": "over de schutting gooien",
+    "definition": "To burden someone else with a problem one is faced with; to have someone else take care of an issue",
+    "example": "Deze vraag gooi ik liever over de schutting naar mijn collega."
+  },
+  {
+    "id": 83,
+    "term": "over een nacht ijs gaan",
+    "definition": "to be taken lightly, to be ill-considered, to be handled in an overhasty way",
+    "example": "Het besluit om een rechtszaak aan te spannen ging niet over één nacht ijs."
+  },
+  {
+    "id": 84,
+    "term": "over het paard getild zijn",
+    "definition": "to be arrogant due to excessive praise",
+    "example": "Hij is echt over het paard getild."
+  },
+  {
+    "id": 85,
+    "term": "paal en perk stellen",
+    "definition": "to limit, restrict",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "pappen en nathouden",
+    "definition": "to perfunctorily finish a task without consideration for results; to go through the motions",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "peilingen zijn palingen",
+    "definition": "opinion polls are fickle and an unreliable indicator of election results",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "per slot van rekening",
+    "definition": "after all",
+    "example": ""
+  },
+  {
+    "id": 89,
+    "term": "platte broodjes bakken",
+    "definition": "to grovel, to fawn, especially after having said something bold or controversial before; to attempt to reingra",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "praatjes vullen geen gaatjes",
+    "definition": "fine words butter no parsnips, actions speak louder than words",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "recht zo die gaat",
+    "definition": "straight ahead, without changing course",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "rechttoe rechtaan",
+    "definition": "straightforwardly, in a straightforward way",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "roet in het eten gooien",
+    "definition": "to ruin a plan, event, or situation",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "rond de pot draaien",
+    "definition": "to beat around the bush",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "schapen met bokken verdelen",
+    "definition": "to apply a double standard",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "term": "schering en inslag",
+    "definition": "something very common or ordinary",
+    "example": "Kabeldiefstal is tegenwoordig schering en inslag."
+  },
+  {
+    "id": 97,
+    "term": "scheve schaats rijden",
+    "definition": "to cheat on someone, be unfaithful",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "term": "schouders eronder zetten",
+    "definition": "to work hard and make a strong effort; to put in the work",
+    "example": "Als we nu even de schouders eronder zetten, kunnen we straks rustig aan doen."
+  },
+  {
+    "id": 99,
+    "term": "sigaar uit eigen doos",
+    "definition": "something presented as if it were a gift, but which was paid for by (or already belonged to) the recipient",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "stok om de hond te slaan",
+    "definition": "a pretense to do something that one already wanted to do",
+    "example": ""
+  }
+];
+window.QM_IDIOMS_PT_DATA = [
+  {
+    "id": 1,
+    "term": "a beleza está nos olhos de quem a vê",
+    "definition": "beauty is in the eye of the beholder",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "a casa de um homem é o seu castelo",
+    "definition": "a man's home is his castle",
+    "example": ""
+  },
+  {
+    "id": 3,
+    "term": "a montanha parir um rato",
+    "definition": "[for someone to] make a mountain out of a molehill",
+    "example": ""
+  },
+  {
+    "id": 4,
+    "term": "alugar um tríplex na cabeça de alguém",
+    "definition": "to psychologically affect someone to the point that they can't stop thinking about something or someone",
+    "example": ""
+  },
+  {
+    "id": 5,
+    "term": "até debaixo d'água",
+    "definition": "\"even underwater\", at all times, without exception",
+    "example": "Eu confio nele completamente, ele é meu amigo até debaixo d'água."
+  },
+  {
+    "id": 6,
+    "term": "basta a cada dia o seu mal",
+    "definition": "sufficient unto the day is the evil thereof",
+    "example": ""
+  },
+  {
+    "id": 7,
+    "term": "bater à porta",
+    "definition": "to come knocking",
+    "example": "a tentação bateu à minha porta."
+  },
+  {
+    "id": 8,
+    "term": "bicho de sete cabeças",
+    "definition": "rocket science, brain surgery",
+    "example": "É um pouco complicado, mas também não é um bicho de sete cabeças."
+  },
+  {
+    "id": 9,
+    "term": "botar a mão no fogo",
+    "definition": "to vouch for; to trust (someone) with one's life",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "botar na conta do papa",
+    "definition": "to let something be handled by someone else",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "burro velho não aprende línguas",
+    "definition": "you can't teach an old dog new tricks",
+    "example": ""
+  },
+  {
+    "id": 12,
+    "term": "caminhar com as próprias pernas",
+    "definition": "to stand on one's own two feet",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "colocar todos os ovos em uma única cesta",
+    "definition": "to have all one's eggs in one basket",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "com o passar do tempo",
+    "definition": "as time goes on, in the long run",
+    "example": "Não se preocupe, com o passar do tempo as coisas melhorar."
+  },
+  {
+    "id": 15,
+    "term": "com que cara",
+    "definition": "How am I supposed to (face someone after I did)...?",
+    "example": "Eu não consegui realizar as minhas tarefas. Com que cara direi isso ao meu chefe?"
+  },
+  {
+    "id": 16,
+    "term": "comer nas mãos de alguém",
+    "definition": "to eat out of someone's hand",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "cuidar da própria vida",
+    "definition": "to mind one's own business",
+    "example": "Cuida da tua vida ou te demitiremos."
+  },
+  {
+    "id": 18,
+    "term": "da frigideira para o fogo",
+    "definition": "out of the frying pan, into the fire",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "da noite para o dia",
+    "definition": "suddenly, from one day to the other",
+    "example": ""
+  },
+  {
+    "id": 20,
+    "term": "dar a cara a tapa",
+    "definition": "to face boldly some possibly unpleasant situation",
+    "example": ""
+  },
+  {
+    "id": 21,
+    "term": "dar a mão à palmatória",
+    "definition": "used to express disbelief about a proposition",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "dar o que falar",
+    "definition": "to generate attention and commentary, especially if suddenly and for a short time",
+    "example": "Este incidente deu o que falar."
+  },
+  {
+    "id": 23,
+    "term": "dar um tiro no pé",
+    "definition": "to shoot oneself in the foot",
+    "example": ""
+  },
+  {
+    "id": 24,
+    "term": "e olhe lá",
+    "definition": "at best; at most; and no more; and that's it",
+    "example": "Sua encomenda vai chegar em 3 dias e olhe lá!"
+  },
+  {
+    "id": 25,
+    "term": "em briga de marido e mulher, não se mete a colher",
+    "definition": "one should not interfere in a couple's quarrel",
+    "example": ""
+  },
+  {
+    "id": 26,
+    "term": "em casa de ferreiro, o espeto é de pau",
+    "definition": "the shoemaker's children go barefoot",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "em terra de cego, quem tem um olho é rei",
+    "definition": "in the land of the blind, the one-eyed man is king",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "estar com os pés na cova",
+    "definition": "on one's last legs; about to die",
+    "example": ""
+  },
+  {
+    "id": 29,
+    "term": "fazer corpo mole",
+    "definition": "to drag one's feet, to mess about, to slack off",
+    "example": "Meu filho sempre faz corpo mole para ir ao dentista."
+  },
+  {
+    "id": 30,
+    "term": "fazer de gato e sapato",
+    "definition": "to use, exploit, mistreat or humiliate someone",
+    "example": "Ela só me fez de gato e sapato!"
+  },
+  {
+    "id": 31,
+    "term": "ficar com o pé atrás",
+    "definition": "to distrust; to doubt",
+    "example": "Sempre fico com o pé atrás quando me fazem uma proposta suspeita dessa."
+  },
+  {
+    "id": 32,
+    "term": "focinho de porco não é tomada",
+    "definition": "to prove someone's misperception",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "fugir como o diabo foge da cruz",
+    "definition": "to flee like a bat out of hell",
+    "example": "Estou fugindo dele como o diabo foge da cruz."
+  },
+  {
+    "id": 34,
+    "term": "gato escaldado de água fria tem medo",
+    "definition": "once bitten, twice shy",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "gosto não se discute",
+    "definition": "there's no accounting for taste",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "gota d'água no oceano",
+    "definition": "drop in the bucket",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "grão a grão enche a galinha o papo",
+    "definition": "many a mickle makes a muckle",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "homem dos sete ofícios",
+    "definition": "jack of all trades",
+    "example": ""
+  },
+  {
+    "id": 39,
+    "term": "há algo de podre no reino da Dinamarca",
+    "definition": "something is rotten in the state of Denmark",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "há males que vêm para o bem",
+    "definition": "A negative event may have a later positive effect",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "há um chinelo velho para todo pé cansado",
+    "definition": "every Jack has his Jill",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "ideia de jerico",
+    "definition": "a stupid idea",
+    "example": "Quem teve a ideia de jerico de deixar a porta destrancada?"
+  },
+  {
+    "id": 43,
+    "term": "Inês é morta",
+    "definition": "it's too late; what's done is done",
+    "example": "Depois de acusá-la de traição e expulsá-la de casa, ele quer se desculpar. Agora, Inês é morta."
+  },
+  {
+    "id": 44,
+    "term": "ir com a cara",
+    "definition": "to have a good impression of a person (or by extension, a concept or object) at first glance",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "ir para a cucuia",
+    "definition": "to be forgotten, abandoned, discontinued or fail to produce results or consequences",
+    "example": "O projeto foi para a cucuia."
+  },
+  {
+    "id": 46,
+    "term": "jogar merda no ventilador",
+    "definition": "to spread bad rumours or compromising information",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "jogar na cara",
+    "definition": "to rub it in, to shove in someone's face",
+    "example": "— Eu ganho muito mais dinheiro que você. — Tá, mas não precisa jogar na cara assim."
+  },
+  {
+    "id": 48,
+    "term": "jogar um balde de água fria",
+    "definition": "to throw cold water on",
+    "example": ""
+  },
+  {
+    "id": 49,
+    "term": "joguete nas mãos de",
+    "definition": "putty in someone's hands",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "juntar a fome com a vontade de comer",
+    "definition": "to combine two different plans or goals into one",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "levantar a voz",
+    "definition": "To raise one's voice",
+    "example": "Não me levantes a voz!"
+  },
+  {
+    "id": 52,
+    "term": "levantar do lado errado da cama",
+    "definition": "to get up on the wrong side of the bed",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "levar água ao mar",
+    "definition": "to carry coals to Newcastle",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "ligar o foda-se",
+    "definition": "to stop caring",
+    "example": "O negócio é ligar o foda-se e não ficar com a pulga atrás da orelha."
+  },
+  {
+    "id": 55,
+    "term": "limpar a barra",
+    "definition": "to get rid of or free oneself from an undesirable or dangerous situation",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "mais vale só que mal acompanhado",
+    "definition": "it's better to be alone than in bad company",
+    "example": ""
+  },
+  {
+    "id": 57,
+    "term": "mais vale um pássaro na mão do que dois voando",
+    "definition": "a bird in the hand is worth two in the bush",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "mais velho que o cagar em cócoras",
+    "definition": "to be old as the hills, to be older than dirt",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "matar cachorro a grito",
+    "definition": "to be very poor, not to have money",
+    "example": "Ele está matando cachorro a grito."
+  },
+  {
+    "id": 60,
+    "term": "meter o rabo entre as pernas",
+    "definition": "to put one's tail between one's legs",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "na guerra e no amor vale tudo",
+    "definition": "all's fair in love and war",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "nascer em berço de ouro",
+    "definition": "to be born with a silver spoon in one's mouth",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "nascer virado para a lua",
+    "definition": "to be very lucky",
+    "example": "Ela nasceu virada para a lua."
+  },
+  {
+    "id": 64,
+    "term": "não ir com a cara de",
+    "definition": "to dislike",
+    "example": "Não vou com a cara do novo professor."
+  },
+  {
+    "id": 65,
+    "term": "não ter papas na língua",
+    "definition": "to not mince one's words, to speak one's mind",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "o bom filho a casa torna",
+    "definition": "to do something one has already done previously; to visit a place one has already been to",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "o bom é inimigo do ótimo",
+    "definition": "with limited resources, one should work with what they have rather than doing nothing and waiting for an impro",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "o espírito está pronto, mas a carne é fraca",
+    "definition": "the spirit is willing but the flesh is weak",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "o homem põe e Deus dispõe",
+    "definition": "man proposes, God disposes",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "o pão que o diabo amassou",
+    "definition": "great suffering or strife in one's life",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "passar a perna",
+    "definition": "to pull a fast one, trick, delude, deceive or fool someone",
+    "example": "Passei a perna no sujeito, tomei-lhe seu dinheiro sem perceber!"
+  },
+  {
+    "id": 72,
+    "term": "por que cargas d'água",
+    "definition": "why the hell; why the heck",
+    "example": "Por que cargas d'água você demorou tanto para chegar?"
+  },
+  {
+    "id": 73,
+    "term": "por um triz",
+    "definition": "by a whisker; by a hair's breadth; by the skin of one's teeth",
+    "example": "Eu consegui escapar do acidente por um triz."
+  },
+  {
+    "id": 74,
+    "term": "por via das dúvidas",
+    "definition": "just in case, just to be on the safe side",
+    "example": "Leva o guarda-chuva, por via das dúvidas."
+  },
+  {
+    "id": 75,
+    "term": "puxar a brasa para a sardinha de alguém",
+    "definition": "to pull for one's side, to toot one's own horn",
+    "example": "Aproveitei para puxar a brasa para minha sardinha."
+  },
+  {
+    "id": 76,
+    "term": "quando a esmola é demais, o santo desconfia",
+    "definition": "when a person acts excessively kind, they wants something in return",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "quando um não quer, dois não brigam",
+    "definition": "it takes two to tangle",
+    "example": "Não me importa quem começou. Quando um não quer, dois não brigam."
+  },
+  {
+    "id": 78,
+    "term": "quem ama o feio, bonito lhe parece",
+    "definition": "the judgement of someone's loved ones is biased because they are going to find qualities in him/her where ther",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "quem não chora, não mama",
+    "definition": "the squeaky wheel gets the grease",
+    "example": "O cachorro pede para arrumar água e ração, porque quem não chora, não mama."
+  },
+  {
+    "id": 80,
+    "term": "querer sol na eira e chuva no nabal",
+    "definition": "to want to have one's cake and eat it too",
+    "example": ""
+  },
+  {
+    "id": 81,
+    "term": "rachar o bico",
+    "definition": "to crack up",
+    "example": "rachei o bico com uma piada vi ontem."
+  },
+  {
+    "id": 82,
+    "term": "resumo da ópera",
+    "definition": "a concise description, especially of something that would be otherwise long and tiresome; the long story made",
+    "example": "Não vou ler esse documento gigantesco. Alguém me dá o resumo da ópera?"
+  },
+  {
+    "id": 83,
+    "term": "rir é o melhor remédio",
+    "definition": "laughter is the best medicine",
+    "example": ""
+  },
+  {
+    "id": 84,
+    "term": "Roma e Pavia não se fizeram num dia",
+    "definition": "Rome wasn't built in a day",
+    "example": ""
+  },
+  {
+    "id": 85,
+    "term": "roupa suja se lava em casa",
+    "definition": "don't wash your dirty linen in public",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "saco vazio não para em pé",
+    "definition": "one needs food in order to function well",
+    "example": "Deixa o trabalho aí e vai comer; saco vazio não para em pé, cê sabe, né?"
+  },
+  {
+    "id": 87,
+    "term": "sair de cima do muro",
+    "definition": "to solve a previous conflict between (usually two) different opinions or decisions; to decide",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "sangue nos olhos",
+    "definition": "determination, focus, courage",
+    "example": "Ela ficou com sangue nos olhos depois do insulto contra a sua filha."
+  },
+  {
+    "id": 89,
+    "term": "ser a praia de alguém",
+    "definition": "to be someone’s area of interest",
+    "example": "Dançar não é muito a minha praia."
+  },
+  {
+    "id": 90,
+    "term": "ser de comer rezando",
+    "definition": "to be exceptionally delicious",
+    "example": "A comida que ele faz é de comer rezando!"
+  },
+  {
+    "id": 91,
+    "term": "tanto faz como tanto fez",
+    "definition": "tomayto, tomahto; big deal; whatever",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "ter o olho maior do que a barriga",
+    "definition": "to have eyes bigger than one's stomach",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "ter sol na eira e chuva no nabal",
+    "definition": "to have one's cake and eat it too",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "tirar as palavras da boca",
+    "definition": "to say what someone was about to say; take the words out of someone's mouth",
+    "example": "Você tirou as palavras da minha boca! (Brazil)/Tiraste-me as palavras da boca! (Portugal)."
+  },
+  {
+    "id": 95,
+    "term": "um dia não são dias",
+    "definition": "you only live once",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "term": "um mal nunca vem só",
+    "definition": "misfortunes never come singly",
+    "example": ""
+  },
+  {
+    "id": 97,
+    "term": "um pior que o outro",
+    "definition": "all members of a group are very bad",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "term": "um sol para cada um",
+    "definition": "sunny and very hot; scorching hot",
+    "example": "Ainda nem é verão e já tem um sol pra cada um!"
+  },
+  {
+    "id": 99,
+    "term": "uma coisa é uma coisa, outra coisa é outra coisa",
+    "definition": "it has nothing to do with that",
+    "example": "— O carro dela quebrou e eu tive que ajudar ela. — Mas não foi ela que brigou com você esses dias? — Sim, mas uma coisa é uma coisa, outra coisa é outra coisa."
+  },
+  {
+    "id": 100,
+    "term": "varrer para debaixo do tapete",
+    "definition": "to sweep something under the rug",
+    "example": ""
+  }
+];
+window.QM_IDIOMS_ES_DATA = [
+  {
+    "id": 1,
+    "term": "a otro perro con ese hueso",
+    "definition": "you can't fool me, go tell that to somebody else; tell it to the marines",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "agarrar fuego el cañal",
+    "definition": "to have a situation or problem get more complicated or worse; to have a situation or problem go downhill",
+    "example": "Cuando él la insultó agarró fuego el cañal."
+  },
+  {
+    "id": 3,
+    "term": "al primer golpe de vista",
+    "definition": "as soon as one sets one's eyes on something",
+    "example": ""
+  },
+  {
+    "id": 4,
+    "term": "andar a tres menos cuartillo",
+    "definition": "to be skint; to be down on one's uppers",
+    "example": ""
+  },
+  {
+    "id": 5,
+    "term": "armar la de san Quintín",
+    "definition": "to start a fight",
+    "example": "Se armó la de San Quintín."
+  },
+  {
+    "id": 6,
+    "term": "arrimar el ascua a su sardina",
+    "definition": "to tip the balance in one's favour, look out for number one",
+    "example": ""
+  },
+  {
+    "id": 7,
+    "term": "bailar al son que le tocan",
+    "definition": "to do as one is told; to obey; to follow the rules",
+    "example": ""
+  },
+  {
+    "id": 8,
+    "term": "bien predica quien bien vive",
+    "definition": "he who preaches well is he who lives well",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "blanca y en botella, leche",
+    "definition": "no doubt about it, no question",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "brillar por su ausencia",
+    "definition": "to be conspicuous by one's absence, to be conspicuously absent",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "buscar pelos en la sopa",
+    "definition": "to look for excuses to complain",
+    "example": "¿Por qué buscabas pelos en la sopa?"
+  },
+  {
+    "id": 12,
+    "term": "buscarle las cosquillas a alguien",
+    "definition": "to push someone's buttons; to get someone's goat",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "caérsele la venda de los ojos",
+    "definition": "scales fall from someone's eyes",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "como alma que lleva el diablo",
+    "definition": "like a bat out of hell",
+    "example": "salir como alma que lleva el diablo."
+  },
+  {
+    "id": 15,
+    "term": "como si no hubiera un mañana",
+    "definition": "like one's life depended on it",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "como si tal cosa",
+    "definition": "as if it were nothing; business as usual",
+    "example": "No puedo dejar que te vayas como si tal cosa."
+  },
+  {
+    "id": 17,
+    "term": "con el corazón en la mano",
+    "definition": "with one's hand on one's heart",
+    "example": ""
+  },
+  {
+    "id": 18,
+    "term": "dar atole con el dedo",
+    "definition": "to deceive",
+    "example": "No me des atole con el dedo, dime la verdad."
+  },
+  {
+    "id": 19,
+    "term": "dar el brazo a torcer",
+    "definition": "to give in or give way, concede one's opinions, allow yourself to be persuaded",
+    "example": ""
+  },
+  {
+    "id": 20,
+    "term": "dar la espalda",
+    "definition": "to turn one's back; to refuse to help or aid somebody",
+    "example": "¡No me des la espalda!"
+  },
+  {
+    "id": 21,
+    "term": "de agárrate que hay curva",
+    "definition": "a helluva; mighty",
+    "example": "una fiesta de agárrate que hay curvas."
+  },
+  {
+    "id": 22,
+    "term": "desde el vientre de su madre",
+    "definition": "since before one was born; since one's conception",
+    "example": "Mi hijo fue elegido para salvar a nuestro pueblo desde el vientre de su madre."
+  },
+  {
+    "id": 23,
+    "term": "desde que uno tiene uso de razón",
+    "definition": "for as long as one can remember",
+    "example": "Dice que pinta desde que tiene uso de razón."
+  },
+  {
+    "id": 24,
+    "term": "echar a la calle",
+    "definition": "to dismiss or fire someone",
+    "example": "El dueño nos ha echado a todos a la calle."
+  },
+  {
+    "id": 25,
+    "term": "el que no chilla no mama",
+    "definition": "someone who does not express their needs or desires may not obtain them; a closed mouth doesn't get fed",
+    "example": ""
+  },
+  {
+    "id": 26,
+    "term": "en la flor de la juventud",
+    "definition": "in the flower of one's youth",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "en la punta de la lengua",
+    "definition": "on the tip of one's tongue",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "entrarle los siete males",
+    "definition": "to cause someone to fret; to drive (someone) nuts",
+    "example": "me entran los siete males pensando en ello."
+  },
+  {
+    "id": 29,
+    "term": "estar a partir un piñón",
+    "definition": "to get on (with someone); be bosom buddies; to get on like a house on fire",
+    "example": "está a partir un piñón con el vecino."
+  },
+  {
+    "id": 30,
+    "term": "feliz como una perdiz",
+    "definition": "happy as a clam, happy as Larry",
+    "example": ""
+  },
+  {
+    "id": 31,
+    "term": "firmar su propia sentencia de muerte",
+    "definition": "to sign one's death warrant",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "flor de la canela",
+    "definition": "the bee's knees; the cream of the crop",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "flor de la vida",
+    "definition": "youthful years; prime of life",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "fruncir el ceño",
+    "definition": "to frown, to scowl, to furrow one's brow",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "fuera de serie",
+    "definition": "off the charts, out of this world, exceptional",
+    "example": "un escritor fuera de serie."
+  },
+  {
+    "id": 36,
+    "term": "ganar la partida",
+    "definition": "to get one up (over someone); to get the better of",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "gastar la pólvora en salvas",
+    "definition": "to rearrange the deck chairs on the Titanic",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "gastar pólvora en gallinazos",
+    "definition": "to waste time",
+    "example": ""
+  },
+  {
+    "id": 39,
+    "term": "gato escaldado del agua fría huye",
+    "definition": "once bitten, twice shy",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "genio y figura hasta la sepultura",
+    "definition": "a leopard cannot change its spots",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "golpe de timón",
+    "definition": "change of tack; change of direction; change of course",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "haber gato encerrado",
+    "definition": "to have something fishy going on",
+    "example": "En aquella situación hubo gato encerrado."
+  },
+  {
+    "id": 43,
+    "term": "hacer la trece catorce",
+    "definition": "to trick, deceive, mislead; to perform a ruse",
+    "example": "Ya me hizo la trece catorce una vez, no puedo confiar de nuevo."
+  },
+  {
+    "id": 44,
+    "term": "hacer leña del árbol caído",
+    "definition": "to kick someone when they are down",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "hacer un hueco",
+    "definition": "to fit in; to make space",
+    "example": "Tengo todo el día liado, pero te puedo hacer un hueco desde las 11 hasta las y media."
+  },
+  {
+    "id": 46,
+    "term": "hacerse la picha un lío",
+    "definition": "get one's knickers in a twist",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "hasta el carné de identidad",
+    "definition": "absolutely everything; totally and utterly",
+    "example": "Le robaron hasta el carné de identidad."
+  },
+  {
+    "id": 48,
+    "term": "ir a misa",
+    "definition": "to go to Mass , to go to mass , to go to church",
+    "example": "Yo soy quien manda aquí, y lo que yo digo va a misa."
+  },
+  {
+    "id": 49,
+    "term": "ir al ajo del asunto",
+    "definition": "to cut to the chase, get to the point",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "ir cada uno por su lado",
+    "definition": "to go one's own way",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "ir con la verdad por delante",
+    "definition": "to tell the truth; to be totally honest",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "ir de mal en peor",
+    "definition": "to go from bad to worse; to worsen",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "irse de culo",
+    "definition": "to be taken aback or shocked",
+    "example": "Me fui de culo cuando lo vi engañándome."
+  },
+  {
+    "id": 54,
+    "term": "jugar al abejón con",
+    "definition": "to hold someone in low esteem, to not think much of someone",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "jugar bien sus bazas",
+    "definition": "to play one's cards right",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "jugar la última carta",
+    "definition": "to shoot one's load",
+    "example": ""
+  },
+  {
+    "id": 57,
+    "term": "jugar y nunca perder no puede ser",
+    "definition": "you win some, you lose some",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "jugárselo todo a una carta",
+    "definition": "to put all one's eggs in one basket",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "la avaricia rompe el saco",
+    "definition": "grasp all, lose all; greed overreaches itself",
+    "example": ""
+  },
+  {
+    "id": 60,
+    "term": "la belleza está en los ojos de quien ve",
+    "definition": "beauty is in the eye of the beholder",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "la cabeza blanca y el seso por venir",
+    "definition": "there's no fool like an old fool",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "la pelota está en el tejado de alguien",
+    "definition": "the ball is in someone's court",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "llegar a la suela del zapato",
+    "definition": "to not compare to, to have nothing on",
+    "example": "Juan no llega ni a la suela del zapato."
+  },
+  {
+    "id": 64,
+    "term": "mal de la azotea",
+    "definition": "off one's rocker; round the twist",
+    "example": ""
+  },
+  {
+    "id": 65,
+    "term": "manos a la obra",
+    "definition": "hands on deck, let's get to work, let's get to it, get down to work, get on with it, get down to business",
+    "example": "Ya es hora, manos a la obra."
+  },
+  {
+    "id": 66,
+    "term": "mentar la soga en casa del ahorcado",
+    "definition": "to say the wrong thing, to put one's foot in it",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "mirar por encima del hombro",
+    "definition": "to look down on, stick one's nose up",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "más chulo que un ocho",
+    "definition": "stuck-up; opinionated; up oneself",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "nadar y guardar la ropa",
+    "definition": "have one's cake and eat it",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "nadar y tener la ropa",
+    "definition": "to have one's cake and eat it too",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "no ser moco de pavo",
+    "definition": "to be nothing to sneeze at",
+    "example": "tampoco es moco de pavo."
+  },
+  {
+    "id": 72,
+    "term": "no tener vuelta de hoja",
+    "definition": "To be untouchable; hold up",
+    "example": "Creo que mi argumento no tiene vuelta de hoja."
+  },
+  {
+    "id": 73,
+    "term": "no ver la hora de",
+    "definition": "to look forward to; can't wait",
+    "example": "¡No veo la hora de que nos casemos!"
+  },
+  {
+    "id": 74,
+    "term": "ojos que no ven, corazón que no siente",
+    "definition": "out of sight, out of mind; what the eyes don't see, the heart doesn't grieve",
+    "example": ""
+  },
+  {
+    "id": 75,
+    "term": "oler a chamusquina",
+    "definition": "to start to get out of control; to lead to a slagging off",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "oler a cuerno quemado",
+    "definition": "to smell fishy",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "oler a pólvora",
+    "definition": "to smell fishy; to seem as though there's something fishy going on",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "oír hablar de",
+    "definition": "to hear of, to hear about",
+    "example": "La primera vez que oí hablar de Medjugorje fue a través de mis compañeros parroquianos."
+  },
+  {
+    "id": 79,
+    "term": "pagar con la misma moneda",
+    "definition": "to give someone a taste of their own medicine",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "para parar un tren",
+    "definition": "in great quantity, coming out of one's ears",
+    "example": "tiene potencia para parar un tren."
+  },
+  {
+    "id": 81,
+    "term": "parar los pies",
+    "definition": "to stop (someone) in their tracks",
+    "example": "Hay que pararle los pies."
+  },
+  {
+    "id": 82,
+    "term": "poner alguien en su sitio",
+    "definition": "to put someone in their place",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "poner de los nervios",
+    "definition": "to get on someone's nerves, to grate on",
+    "example": "De verdad eso me pone de los nervios."
+  },
+  {
+    "id": 84,
+    "term": "que ni pintado",
+    "definition": "down to a T; (suit) perfectly",
+    "example": "La camiseta me viene que ni pintada."
+  },
+  {
+    "id": 85,
+    "term": "quedar como Cagancho en Almagro",
+    "definition": "to make a show of oneself",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "quedar en agua de borrajas",
+    "definition": "to be put on hold; to not be fulfilled",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "querer cagar más arriba del culo",
+    "definition": "To live beyond one's means",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "quien a buen árbol se arrima, buena sombra le cobija",
+    "definition": "it's not what you know but who you know",
+    "example": ""
+  },
+  {
+    "id": 89,
+    "term": "refrescar la memoria",
+    "definition": "to refresh someone's memory",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "reina de la casa",
+    "definition": "a female family member of a household",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "Roma no se hizo en un día",
+    "definition": "Rome wasn't built in a day",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "romper una lanza",
+    "definition": "to stand up (for), to break a lance",
+    "example": "Rompió una lanza por su equipo."
+  },
+  {
+    "id": 93,
+    "term": "ruin señor cría ruin servidor",
+    "definition": "a bad master makes a bad servant; if leadership sets a bad example, their subordinates will follow suit",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "saber de qué pie cojea",
+    "definition": "to know one's ideology; to know one's weaknesses",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "sacar de quicio",
+    "definition": "to rile up, to annoy; to drive crazy; to drive someone nuts; to cause somebody to come unhinged",
+    "example": "Los llantos constantes de los bebés sacan de quicio a todos en el avión."
+  },
+  {
+    "id": 96,
+    "term": "sacar el ascua con la mano del gato",
+    "definition": "to get someone else to do one's dirty work",
+    "example": ""
+  },
+  {
+    "id": 97,
+    "term": "ser santo de la devoción de alguien",
+    "definition": "To be someone one likes or is fond of",
+    "example": "El presidente no es santo de mi devoción."
+  },
+  {
+    "id": 98,
+    "term": "si mi abuela tuviera ruedas, sería una bicicleta",
+    "definition": "if my aunt had balls, she'd be my uncle",
+    "example": "\"Habríamos ganado el partido si hubiéramos tenido un portero decente\" — \"Y si mi abuela tuviera ruedas, sería una bicicleta\"."
+  },
+  {
+    "id": 99,
+    "term": "tener agarrado por los cojones",
+    "definition": "to have someone by the balls",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "tener algo que ver con",
+    "definition": "to have something to do with, to concern, to have some relationship with",
+    "example": "Pensé que la broma tendría algo que ver con el boquete."
+  }
+];
+window.QM_IDIOMS_DE_DATA = [
+  {
+    "id": 1,
+    "term": "'n Appel und 'n Ei",
+    "definition": "peanuts; a low, minuscule price",
+    "example": "Er arbeitet für 'n Appel und 'n Ei."
+  },
+  {
+    "id": 2,
+    "term": "alles auf eine Karte setzen",
+    "definition": "Risking everything, putting all one's eggs in one basket",
+    "example": ""
+  },
+  {
+    "id": 3,
+    "term": "auf dem Laufenden halten",
+    "definition": "to keep (someone) in the loop, to keep (someone) informed, to keep (someone) up-to-date",
+    "example": "Halt mich auf dem Laufenden!"
+  },
+  {
+    "id": 4,
+    "term": "auf die Nerven gehen",
+    "definition": "to get on someone's nerves, to annoy",
+    "example": "Euer Unsinn geht mir echt auf die Nerven."
+  },
+  {
+    "id": 5,
+    "term": "auf einem anderen Blatt stehen",
+    "definition": "to be another matter, to be a different story",
+    "example": "Er analysiert das verfehlte Regierungsprogramm sehr klar. Dass sein eigenes Programm noch verfehlter ist, steht auf einem anderen Blatt."
+  },
+  {
+    "id": 6,
+    "term": "aus der Not eine Tugend machen",
+    "definition": "to make a virtue of necessity",
+    "example": "Viele Männer mit Haarausfall machen aus der Not eine Tugend und scheren sich den Kopf kahl."
+  },
+  {
+    "id": 7,
+    "term": "aus einer Mücke einen Elefanten machen",
+    "definition": "to make a mountain out of a mole hill",
+    "example": "Du hast eine einzige Zwei bekommen und tust so, als würdest du in der Klasse durchfallen. Du machst aus einer Mücke einen Elefanten, wenn du mich fragst."
+  },
+  {
+    "id": 8,
+    "term": "bei Adam und Eva anfangen",
+    "definition": "to start from the very beginning",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "bei der Stange halten",
+    "definition": "to keep (someone) in line; to make loyal",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "bei sich sein",
+    "definition": "to have come to; to be calm or conscious",
+    "example": "Er kam kurz vorbei, aber jetzt ist er wieder bei sich."
+  },
+  {
+    "id": 11,
+    "term": "Bescheidenheit ist eine Zier, doch weiter kommt man ohne ihr",
+    "definition": "Being modest and humble is a morally commendable approach in life",
+    "example": ""
+  },
+  {
+    "id": 12,
+    "term": "besser ein Ende mit Schrecken, als ein Schrecken ohne Ende",
+    "definition": "However painful, dealing resolutely with a problematic situation is preferable to allowing it to go on indefin",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "Butter bei die Fische",
+    "definition": "talking turkey, cutting to the chase",
+    "example": "Jetzt mal Butter bei die Fische: Hast du's gemacht oder nicht?"
+  },
+  {
+    "id": 14,
+    "term": "Chinesisch sprechen",
+    "definition": "to be unintelligible",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "das Blaue vom Himmel versprechen",
+    "definition": "to make a promise that cannot be fulfilled",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "das Fell über die Ohren ziehen",
+    "definition": "to pull the wool over someone's eyes",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "das Gelbe vom Ei",
+    "definition": "the very best, something to write home about",
+    "example": "Das ist nicht gerade das Gelbe vom Ei."
+  },
+  {
+    "id": 18,
+    "term": "das Kind fällt in den Brunnen",
+    "definition": "a disaster happens or becomes inevitable; it is too late for precautions that should have been taken earlier",
+    "example": "Wenn das Kind in den Brunnen gefallen ist, wollen es alle wieder gleich gewusst haben."
+  },
+  {
+    "id": 19,
+    "term": "dem Fass den Boden ausschlagen",
+    "definition": "to be unbelievable, outrageous, to be the most unbelievable part, to take the biscuit",
+    "example": "Dass Sie die vertragsgemäße Wartung einfach nicht durchgeführt haben, ist schlimm genug, aber dass Sie mir dann trotzdem eine Rechnung schicken, schlägt dem Fass den Boden aus."
+  },
+  {
+    "id": 20,
+    "term": "durch den Kakao ziehen",
+    "definition": "to pull someone's leg, to make fun of someone or something, to roast someone",
+    "example": "Er zieht dich nur durch den Kakao."
+  },
+  {
+    "id": 21,
+    "term": "ein Ass im Ärmel haben",
+    "definition": "to have an ace up one's sleeve",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "ein bisschen Schwund ist immer",
+    "definition": "You must allow for some unanticipated or unexplained losses. You should expect neither that things proceed per",
+    "example": "Leute! Ein bisschen Schwund ist immer. Aber wie schnell hier meine Büroklammern immer aufgebraucht sind, grenzt an Diebstahl!"
+  },
+  {
+    "id": 23,
+    "term": "einen Frosch im Hals haben",
+    "definition": "to have a frog in one's throat",
+    "example": ""
+  },
+  {
+    "id": 24,
+    "term": "es kann nicht sein, was nicht sein darf",
+    "definition": "people find it extremely hard to accept facts when they go against their firmly held conviction or are otherwi",
+    "example": "Obwohl man den Krieg längst verloren wusste, führte man ihn weiter nach dem Prinzip: Es kann nicht sein, was nicht sein darf!"
+  },
+  {
+    "id": 25,
+    "term": "es von den Lebenden nehmen",
+    "definition": "to charge a lot of money, to overprice",
+    "example": "Die Anwälte nehmen es von den Lebenden, das ist ja allgemein bekannt."
+  },
+  {
+    "id": 26,
+    "term": "etwas im Schilde führen",
+    "definition": "to be up to something, to scheme, to carry on one's mind, to have something up one's sleeve",
+    "example": "Böses im Schilde führen."
+  },
+  {
+    "id": 27,
+    "term": "fehl am Platz",
+    "definition": "misplaced, out of place",
+    "example": "Ich fühlte mich in dieser Gesellschaft fehl am Platz."
+  },
+  {
+    "id": 28,
+    "term": "Feuer und Flamme sein",
+    "definition": "to be full of enthusiasm; to be keen as mustard",
+    "example": ""
+  },
+  {
+    "id": 29,
+    "term": "fix und fertig",
+    "definition": "bushed, burnt out, dead on one's feet, at the end of one's rope, running on fumes, ready to drop, out of steam",
+    "example": ""
+  },
+  {
+    "id": 30,
+    "term": "Freunde in der Not gehen hundert auf ein Lot",
+    "definition": "a friend in need is a friend indeed",
+    "example": ""
+  },
+  {
+    "id": 31,
+    "term": "fünf Finger und ein Griff",
+    "definition": "the act of stealing, especially casually when the opportunity presents itself",
+    "example": "Neue Jacke? Was hat die gekostet? Fünf Finger und einen Griff?"
+  },
+  {
+    "id": 32,
+    "term": "fünf Minuten vor der Zeit ist des Deutschen Pünktlichkeit",
+    "definition": "one should plan to arrive earlier than the date in order to make sure that one will not be late",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "ganz dicht sein",
+    "definition": "to be in one's right mind",
+    "example": "Bist du noch ganz dicht?"
+  },
+  {
+    "id": 34,
+    "term": "geschenkt ist geschenkt, wiederholen ist gestohlen",
+    "definition": "you can’t take back what you gave as a present; no backsies",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "gesunder Geist in gesundem Körper",
+    "definition": "A healthy mind in a healthy body",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "geteiltes Leid ist halbes Leid",
+    "definition": "a sorrow shared is a sorrow halved",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "Gleich und Gleich gesellt sich gern",
+    "definition": "birds of a feather flock together",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "Gottes Mühlen mahlen langsam",
+    "definition": "the mills of the gods grind slowly",
+    "example": "Gottes Mühlen mahlen langsam, mahlen aber trefflich klein."
+  },
+  {
+    "id": 39,
+    "term": "Hans Dampf in allen Gassen",
+    "definition": "jack of all trades",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "Himmel und Hölle in Bewegung setzen",
+    "definition": "to move heaven and earth",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "hingehen, wo der Pfeffer wächst",
+    "definition": "to go jump in the lake",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "hinter die Kulissen schauen",
+    "definition": "to take a look behind the scenes",
+    "example": ""
+  },
+  {
+    "id": 43,
+    "term": "hinters Licht führen",
+    "definition": "pull the wool over someone's eyes",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "Hopfen und Malz ist verloren",
+    "definition": "it's a waste, all hope is in vain",
+    "example": "Da ist Hopfen und Malz verloren."
+  },
+  {
+    "id": 45,
+    "term": "im falschen Film",
+    "definition": "in a bizarre situation that runs contrary to one's expectations",
+    "example": "Da waren nur Bekloppte, ich dacht, ich wär im falschen Film."
+  },
+  {
+    "id": 46,
+    "term": "in den letzten Zügen liegen",
+    "definition": "to be on one's last legs; to be in one's death throes",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "in den Tee tun",
+    "definition": "to slip something in someone’s drink",
+    "example": "Hast du mir schon Zucker in den Tee getan?"
+  },
+  {
+    "id": 48,
+    "term": "in der Kreide stehen",
+    "definition": "to be in (someone's) debt",
+    "example": "Ich stehe noch bei meinem Nachbarn in der Kreide."
+  },
+  {
+    "id": 49,
+    "term": "in die Enge treiben",
+    "definition": "to trap, to scare, to corner",
+    "example": "Viele Menschen fühlen sich durch die neuen Beschränkungen in die Enge getrieben."
+  },
+  {
+    "id": 50,
+    "term": "in die Pfanne hauen",
+    "definition": "to criticize or deride (someone) harshly, especially in a disloyal manner; to slam, to throw under the bus",
+    "example": "Ich will meine Kollegen nicht in die Pfanne hauen, aber ich muss doch festhalten, dass ich von Anfang an dagegen war."
+  },
+  {
+    "id": 51,
+    "term": "jedes Wort auf die Goldwaage legen",
+    "definition": "to think carefully about one's wording",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "jemandem das Ohr abkauen",
+    "definition": "to bother someone with endless speaking, get on someone's nerves",
+    "example": "Kau mir nicht das Ohr ab."
+  },
+  {
+    "id": 53,
+    "term": "jemandem ein Kuckucksei ins Nest legen",
+    "definition": "to hurt someone such in a way that it only becomes apparent later",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "jemandem ein X für ein U vormachen",
+    "definition": "to deceive, to hoodwink, to trick, to lead someone up the garden path",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "jemandem etwas zur Last legen",
+    "definition": "to accuse, blame",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "jemandem stehen die Haare zu Berge",
+    "definition": "someone is worked up, upset or frightened to no end",
+    "example": "Als das Monster dann um die Ecke kam, standen mir die Haare zu Berge."
+  },
+  {
+    "id": 57,
+    "term": "Kaiser von China",
+    "definition": "someone magnificent that one is not",
+    "example": "Er hält sich für den Kaiser von China."
+  },
+  {
+    "id": 58,
+    "term": "kein Blatt vor den Mund nehmen",
+    "definition": "to be outspoken; not to mince words; to call a spade a spade",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "keine Antwort ist auch eine Antwort",
+    "definition": "a person’s silence can be very telling",
+    "example": "Und? Wie schmeckt dir mein neues Gericht? – [Stille.] – Naja, keine Antwort ist auch eine Antwort."
+  },
+  {
+    "id": 60,
+    "term": "keine halben Sachen machen",
+    "definition": "to not do things by halves",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "Kindermund tut Wahrheit kund",
+    "definition": "out of the mouths of babes comes truth",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "knapp daneben ist auch vorbei",
+    "definition": "close, but no cigar; a miss is as good as a mile",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "leck mich am Arsch",
+    "definition": "kiss my ass",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "Leiche im Keller",
+    "definition": "skeleton in the cupboard, skeleton in the closet",
+    "example": ""
+  },
+  {
+    "id": 65,
+    "term": "Liebe geht durch den Magen",
+    "definition": "for someone, or offering someone food",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "lieber eine Stumme im Bett als eine Taube auf dem Dach",
+    "definition": "a bird in the hand is worth two in the bush",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "Loch im Kopf",
+    "definition": "a laceration on the scalp",
+    "example": "Der Peter ist gestern von der Mauer gefallen und hatte ein Loch im Kopf."
+  },
+  {
+    "id": 68,
+    "term": "Lügen haben schöne Beine",
+    "definition": "lying can be an attractive option; lies can be deceptively attractive",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "mir nichts, dir nichts",
+    "definition": "suddenly; without warning, or consideration, or regard for own detriment",
+    "example": "Jetzt haben sie ihren Sohn dreißig Jahre lang verwöhnt und kaum hat er eine Freundin, zieht er mir nichts, dir nichts aus."
+  },
+  {
+    "id": 70,
+    "term": "mit gewaschenem Hals",
+    "definition": "finding oneself in an awkward situation",
+    "example": "Ich würde mich da nicht unnötig festlegen. Nachher stehst du da mit deinem gewaschenen Hals."
+  },
+  {
+    "id": 71,
+    "term": "mit jemandem ins Gericht gehen",
+    "definition": "to take a hard look at someone, to judge someone",
+    "example": ""
+  },
+  {
+    "id": 72,
+    "term": "mit Kind und Kegel",
+    "definition": "as a large group; with all of one's family, contents, and/or livestock",
+    "example": "Angelina Jolie und Brad Pitt sind mit Kind und Kegel in Nizza angekommen."
+  },
+  {
+    "id": 73,
+    "term": "mit Sack und Pack",
+    "definition": "with all one's belongings, bag and baggage",
+    "example": "Unerwartet stand mein Bruder mit Sack und Pack vor meiner Haustür und bat um Herberge."
+  },
+  {
+    "id": 74,
+    "term": "nach Adam Riese",
+    "definition": "calculating correctly, by the rules of mathematics",
+    "example": "Wenn du am Tag 70 Euro verdienst, aber über 20 Euro Fahrtkosten hast, bleiben dir nach Adam Riese nicht mal 50 Euro übrig."
+  },
+  {
+    "id": 75,
+    "term": "nach oben buckeln und nach unten treten",
+    "definition": "to be meek towards one's superiors and despotic towards one's inferiors",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "nachts sind alle Katzen grau",
+    "definition": "differences that are normally clearly noticeable may become blurred under certain circumstances",
+    "example": "Hannah Arendt lehnte die Idee einer Kollektivschuld ab, weil sie dazu führe, dass nach dem Prinzip „Nachts sind alle Katzen grau“ die wirklich Schuldigen entlastet würden."
+  },
+  {
+    "id": 77,
+    "term": "nicht alle Tassen im Schrank haben",
+    "definition": "to not have all one's marbles, (being) a few cards short of a deck, have a screw loose",
+    "example": "Der hat doch nicht alle Tassen im Schrank!"
+  },
+  {
+    "id": 78,
+    "term": "nicht der Rede wert sein",
+    "definition": "to be nothing worth mentioning",
+    "example": "nicht der Rede wert."
+  },
+  {
+    "id": 79,
+    "term": "ob man will oder nicht",
+    "definition": "willy-nilly; whether we like it or not",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "oben licht und unten dicht",
+    "definition": "mentally capable and continent",
+    "example": "Solang man oben licht und unten dicht bleibt, ist ja alles noch in Ordnung."
+  },
+  {
+    "id": 81,
+    "term": "ohne Fleiß kein Preis",
+    "definition": "no pain, no gain",
+    "example": ""
+  },
+  {
+    "id": 82,
+    "term": "ohne mit der Wimper zu zucken",
+    "definition": "without batting an eyelash",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "ohne Punkt und Komma",
+    "definition": "lengthy and rapid, without pause, possibly also somewhat incoherent",
+    "example": "Er redet ohne Punkt und Komma."
+  },
+  {
+    "id": 84,
+    "term": "Pack schlägt sich, Pack verträgt sich",
+    "definition": "It is normal for people (especially impulsive ones) to have big fights or enmities and then suddenly be friend",
+    "example": "„Jahrelang haben sie sich bekriegt und jetzt verbünden sie sich auf einmal.“ – „Tja, Pack schlägt sich, Pack verträgt sich.“."
+  },
+  {
+    "id": 85,
+    "term": "Papier ist geduldig",
+    "definition": "the fact that something has been put in writing does not make it true or certain to be realized",
+    "example": "Die Verordnung schreibt doch ganz genau vor, wie in solchen Fällen zu verfahren ist! — Naja, Papier ist geduldig, und hier auf dem Land wird das eben etwas anders gehandhabt."
+  },
+  {
+    "id": 86,
+    "term": "Perlen vor die Säue werfen",
+    "definition": "cast pearls before swine",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "Platz nehmen",
+    "definition": "to have a seat, to take a seat",
+    "example": "bitte nehmen Sie Platz."
+  },
+  {
+    "id": 88,
+    "term": "Probieren geht über Studieren",
+    "definition": "experience is the best teacher; experimentation and hands-on experience is more valuable than theoretizing",
+    "example": ""
+  },
+  {
+    "id": 89,
+    "term": "Raben zeugen keine Tauben",
+    "definition": "a wild goose never laid a tame egg",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "Rede und Antwort stehen",
+    "definition": "to answer to",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "Reden ist Silber, Schweigen ist Gold",
+    "definition": "speech is silver, silence is golden",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "Rom ist nicht an einem Tag erbaut worden",
+    "definition": "Rome wasn't built in a day",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "rum wie num",
+    "definition": "all the same; either way; it makes no difference",
+    "example": "Ob du rechts oder links anfängst, ist rum wie num."
+  },
+  {
+    "id": 94,
+    "term": "sein Glück nicht fassen können",
+    "definition": "to cannot believe one's luck, to be overjoyed",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "sein Licht unter den Scheffel stellen",
+    "definition": "to hide one's light under a bushel",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "term": "sich aus den Fingern saugen",
+    "definition": "to think of something, to make up, to make up out of thin air, to invent (false stories, figures, etc.)",
+    "example": "Das hast du dir wieder aus den Fingern gesaugt."
+  },
+  {
+    "id": 97,
+    "term": "sich die Butter vom Brot nehmen lassen",
+    "definition": "to (allow oneself to) be outmaneuvered, blindsided, ousted, displaced, to stick up for oneself, hold one's own",
+    "example": "Auch wenn sie noch neu ist, merkt man schon, dass sie sich nicht so leicht die Butter vom Brot nehmen lässt."
+  },
+  {
+    "id": 98,
+    "term": "so klein mit Hut",
+    "definition": "meek, silenced, put in one's place, cut down to size",
+    "example": "Ich hab ihm mal gesagt, was ich von ihm halte; da war er aber so klein mit Hut."
+  },
+  {
+    "id": 99,
+    "term": "traue keiner Statistik, die du nicht selbst gefälscht hast",
+    "definition": "always take statistics with a grain of salt",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "Tropfen, der das Fass zum Überlaufen bringt",
+    "definition": "final straw, last straw, the straw that broke the camel's back",
+    "example": ""
+  }
+];
+window.QM_IDIOMS_FR_DATA = [
+  {
+    "id": 1,
+    "term": "attacher sa tuque",
+    "definition": "to brace oneself; to get ready; to hold onto one's hat",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "au fur et à mesure",
+    "definition": "in keeping with",
+    "example": "La demande diminue toujours au fur et à mesure que le prix augmente."
+  },
+  {
+    "id": 3,
+    "term": "avec des bouts de ficelle",
+    "definition": "on a shoestring",
+    "example": "Il est devenu millionnaire grâce à un prototype construit avec des bouts de ficelle."
+  },
+  {
+    "id": 4,
+    "term": "avoir du pain sur la planche",
+    "definition": "to have bread on the table",
+    "example": "Bon, là, il faut qu'on commence. On a du pain sur la planche !"
+  },
+  {
+    "id": 5,
+    "term": "avoir du sang sur les mains",
+    "definition": "to have blood on one's hands",
+    "example": "Tu es peut-être sorti indemne de ton accident de conduite en état d'ivresse, mais tu as le sang de ce pauvre garçon sur les mains."
+  },
+  {
+    "id": 6,
+    "term": "avoir le cœur sur la main",
+    "definition": "to be open-handed, to be generous",
+    "example": "Magali a le cœur sur la main."
+  },
+  {
+    "id": 7,
+    "term": "bien mal acquis ne profite jamais",
+    "definition": "ill-gotten gains never prosper",
+    "example": ""
+  },
+  {
+    "id": 8,
+    "term": "bien tard venu pour néant tenu",
+    "definition": "what comes too late doesn't count any more",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "bonnet blanc, blanc bonnet",
+    "definition": "tomayto, tomahto; same difference; six of one, half a dozen of the other",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "bouche de miel, cœur de fiel",
+    "definition": "One who speaks sweetly but harbors bitterness or malice; smooth lips hide an evil heart",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "boucler la boucle",
+    "definition": "to come full circle",
+    "example": "la boucle est bouclée."
+  },
+  {
+    "id": 12,
+    "term": "bâtir des châteaux en Espagne",
+    "definition": "to chase rainbows, to build castles in the air",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "c'est au fruit que l'on connaît l'arbre",
+    "definition": "the proof of the pudding is in the eating",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "c'est dans le besoin qu'on reconnaît ses vrais amis",
+    "definition": "a friend in need is a friend indeed",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "chien qui aboie ne mord pas",
+    "definition": "barking dogs seldom bite, one's bark is worse than one's bite, all talk no bite",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "comment sont les zaricos",
+    "definition": "how are you?, how are things?",
+    "example": "Comment sont les zaricos? — Oh, les zaricos sont salés!"
+  },
+  {
+    "id": 17,
+    "term": "couper les cheveux en quatre",
+    "definition": "to split hairs",
+    "example": "Ne coupe pas les cheveux en quatre. Tu sais où je veux en venir."
+  },
+  {
+    "id": 18,
+    "term": "coûter les yeux de la tête",
+    "definition": "to cost an arm and a leg, to cost the earth: to cost too much, to be very expensive",
+    "example": "J'en ai marre de payer un loyer dans cette ville. Ça me coûte les yeux de la tête !"
+  },
+  {
+    "id": 19,
+    "term": "de deux maux, il faut choisir le moindre",
+    "definition": "one must choose the lesser of two evils",
+    "example": ""
+  },
+  {
+    "id": 20,
+    "term": "des goûts et des couleurs, on ne discute pas",
+    "definition": "there's no accounting for taste",
+    "example": ""
+  },
+  {
+    "id": 21,
+    "term": "deux avis valent mieux qu'un",
+    "definition": "two heads are better than one",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "deux précautions valent mieux qu'une",
+    "definition": "better safe than sorry; a belt-and-braces/belt-and-suspenders approach always wins the day",
+    "example": ""
+  },
+  {
+    "id": 23,
+    "term": "du fil à retordre",
+    "definition": "a hard time, some difficulties",
+    "example": "Son adversaire lui a donné du fil à retordre."
+  },
+  {
+    "id": 24,
+    "term": "en avoir jusque-là",
+    "definition": "to have had it up to here (with); to have had enough (of), to be fed up",
+    "example": "Il en a jusque-là de ton insouciance."
+  },
+  {
+    "id": 25,
+    "term": "en avoir pour son argent",
+    "definition": "to get one's money's worth, to get good value for money",
+    "example": ""
+  },
+  {
+    "id": 26,
+    "term": "en avril ne te découvre pas d'un fil, en mai fais ce qu'il te plaît",
+    "definition": "ne'er cast a clout till May be out",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "entre l'arbre et l'écorce",
+    "definition": "In a bad situation; between a rock and a hard place",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "entre le marteau et l'enclume",
+    "definition": "between the hammer and the anvil",
+    "example": "J'étais entre le marteau et l'enclume, car si je ne contractais pas un autre prêt - et ne m'endettais pas davantage - je ne pourrais pas rembourser les dettes que j'avais déjà."
+  },
+  {
+    "id": 29,
+    "term": "faire d'une pierre deux coups",
+    "definition": "to kill two birds with one stone",
+    "example": "Autant faire d'une pierre deux coups et déposer mes feuilles d'impôts pendant que je suis au centre commercial pour la pièce d'ordinateur dont j'ai besoin."
+  },
+  {
+    "id": 30,
+    "term": "faire une belle jambe",
+    "definition": "to do a fat lot of good",
+    "example": "Ça me fait une belle jambe !"
+  },
+  {
+    "id": 31,
+    "term": "fais ce que je dis, pas ce que je fais",
+    "definition": "do as I say and not as I do",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "faute avouée est à moitié pardonnée",
+    "definition": "a fault confessed is half redressed",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "faute de grives on mange des merles",
+    "definition": "beggars can't be choosers, half a loaf is better than none, any port in a storm",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "gagner son bifteck",
+    "definition": "to bring home the bacon",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "garder son sang-froid",
+    "definition": "to keep one's cool; to keep a cool head",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "grasse matinée",
+    "definition": "sleep-in, lie-in",
+    "example": "Je n'aurais pas dû faire la grasse matinée."
+  },
+  {
+    "id": 37,
+    "term": "griffer la glace",
+    "definition": "To ice-skate",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "gros bonnet",
+    "definition": "bigwig",
+    "example": ""
+  },
+  {
+    "id": 39,
+    "term": "grosse légume",
+    "definition": "big cheese, bigwig",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "habit vert",
+    "definition": "the clothing worn by the members of the Institut de France",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "heure du mystère",
+    "definition": "dusk, twilight",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "huile de coude",
+    "definition": "elbow grease",
+    "example": ""
+  },
+  {
+    "id": 43,
+    "term": "huis clos",
+    "definition": "closed door",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "huitième art",
+    "definition": "television",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "humour noir",
+    "definition": "black humor",
+    "example": ""
+  },
+  {
+    "id": 46,
+    "term": "il faut battre le fer pendant qu'il est chaud",
+    "definition": "One must strike while the iron is hot",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "il faut de tout pour faire un monde",
+    "definition": "it takes all kinds to make a world, it takes all sorts, variety is the spice of life",
+    "example": ""
+  },
+  {
+    "id": 48,
+    "term": "il faut que jeunesse se passe",
+    "definition": "youth must have its fling; boys will be boys",
+    "example": ""
+  },
+  {
+    "id": 49,
+    "term": "il n'est pire aveugle que celui qui ne veut pas voir",
+    "definition": "there are none so blind as those who will not see",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "il n'est pire sourd que celui qui ne veut pas entendre",
+    "definition": "there are none so deaf as those who will not hear",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "il n'est si bon charretier qui ne verse",
+    "definition": "even Homer nods, it's a good horse that never stumbles",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "jamais deux sans trois",
+    "definition": "all things come in threes, things always come in threes",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "je te dis merde",
+    "definition": "break a leg! good luck!",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "jeter de l'huile sur le feu",
+    "definition": "add fuel to the fire",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "jeter le bébé avec l'eau du bain",
+    "definition": "throw the baby out with the bathwater",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "jeter le gant",
+    "definition": "throw down the gauntlet",
+    "example": "Le plus grand syndicat d'enseignants a jeté le gant au gouvernement hier, menaçant de faire grève si ses revendications ne sont pas satisfaites."
+  },
+  {
+    "id": 57,
+    "term": "jeu de main, jeu de vilain",
+    "definition": "it will end in tears! stop fooling around! stop roughhousing! you'll poke an eye out! it's all fun and games t",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "l'appétit vient en mangeant",
+    "definition": "appetite comes with eating",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "l'argent est le nerf de la guerre",
+    "definition": "money is crucial to wage a war, money is key when waging a war, money is the fuel of war",
+    "example": ""
+  },
+  {
+    "id": 60,
+    "term": "l'argent ne pousse pas dans les arbres",
+    "definition": "money doesn't grow on trees",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "l'avenir appartient à ceux qui se lèvent tôt",
+    "definition": "the early bird gets the worm",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "les absents ont toujours tort",
+    "definition": "it is easy to accuse someone of wrongdoing when they are not there to defend themselves",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "manger à tous les râteliers",
+    "definition": "to have many irons in the fire, to play the field",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "mariage pluvieux, mariage heureux",
+    "definition": "Rain on one's wedding day brings good luck",
+    "example": ""
+  },
+  {
+    "id": 65,
+    "term": "mettre de l'eau dans son vin",
+    "definition": "to moderate one's impetuosity; to compromise",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "mieux vaut prévenir que guérir",
+    "definition": "prevention is better than cure, better safe than sorry",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "mieux vaut tenir que courir",
+    "definition": "a bird in the hand is worth two in the bush, better an egg today than a hen tomorrow",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "mieux vaut être seul que mal accompagné",
+    "definition": "it is better to be alone than in bad company",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "n'y être pour rien",
+    "definition": "to have no responsibility (for it); to have no part (in it), to have nothing to do",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "ne pas desserrer les dents",
+    "definition": "to keep one's lips sealed, to remain silent",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "ne pas lésiner sur les moyens",
+    "definition": "To go all out; to pull out all the stops",
+    "example": ""
+  },
+  {
+    "id": 72,
+    "term": "Noël au balcon, Pâques au tison",
+    "definition": "If Christmas is warm, Easter will be cold",
+    "example": ""
+  },
+  {
+    "id": 73,
+    "term": "nul n'a bien s'il ne le compère",
+    "definition": "Nothing comes out of nothing",
+    "example": ""
+  },
+  {
+    "id": 74,
+    "term": "nul n'est censé ignorer la loi",
+    "definition": "ignorantia juris non excusat, ignorance of the law is not a valid excuse",
+    "example": ""
+  },
+  {
+    "id": 75,
+    "term": "oignez vilain, il vous poindra ; poignez vilain, il vous oindra",
+    "definition": "if you behave kindly towards a bad person, they will be mean",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "on en apprend tous les jours",
+    "definition": "you learn something new every day, every day is a school day",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "on n'a rien sans rien",
+    "definition": "you don't get something for nothing; there's no such thing as a free lunch",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "on n'apprend pas pour l'école mais pour la vie",
+    "definition": "we do not learn for school, but for life",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "on n'arrête pas le progrès",
+    "definition": "you can't stop progress, there's no stopping progress",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "on n'attrape pas des mouches avec du vinaigre",
+    "definition": "honey catches more flies than vinegar; you can catch more flies with honey than with vinegar",
+    "example": ""
+  },
+  {
+    "id": 81,
+    "term": "Paris ne s'est pas fait en un jour",
+    "definition": "Rome wasn't built in a day",
+    "example": ""
+  },
+  {
+    "id": 82,
+    "term": "petit à petit, l'oiseau fait son nid",
+    "definition": "slow and steady wins the race; little strokes fell great oaks",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "petite pluie abat grand vent",
+    "definition": "Small rain lays great dust; a little kindness goes a long way",
+    "example": ""
+  },
+  {
+    "id": 84,
+    "term": "pierre qui roule n'amasse pas mousse",
+    "definition": "a rolling stone gathers no moss",
+    "example": ""
+  },
+  {
+    "id": 85,
+    "term": "plus fait douceur que violence",
+    "definition": "gentleness works better than violence; you'll get more by being kind than by resorting to violence",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "qu'est-ce qu'il y a",
+    "definition": "what's happening? what's the matter?",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "quand le chat n'est pas là, les souris dansent",
+    "definition": "when the cat's away the mice will play",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "quand le vin est tiré, il faut le boire",
+    "definition": "in for a penny, in for a pound",
+    "example": ""
+  },
+  {
+    "id": 89,
+    "term": "quand les poules auront des dents",
+    "definition": "when Hell freezes over; when pigs fly",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "quand on aime on ne compte pas",
+    "definition": "when you love, you don't count the cost",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "rendre son âme au bon Dieu",
+    "definition": "to pass away; to give up the ghost",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "rien ne sert de courir, il faut partir à point",
+    "definition": "slow and steady wins the race; more haste, less speed",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "rira bien qui rira le dernier",
+    "definition": "he who laughs last laughs best",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "s'y casser les dents",
+    "definition": "to come up against a brick wall",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "se changer les idées",
+    "definition": "to start a new activity in order to change one's state of mind",
+    "example": "J'en ai marre de cette ambiance tendue ! Je sors pour me changer les idées."
+  },
+  {
+    "id": 96,
+    "term": "se jeter au cou",
+    "definition": "to embrace with affection, to shower with affection",
+    "example": "se jeter au cou de quelqu'un."
+  },
+  {
+    "id": 97,
+    "term": "se tirer une balle dans le pied",
+    "definition": "to shoot oneself in the foot",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "term": "sur le bout de la langue",
+    "definition": "on the tip of one's tongue",
+    "example": ""
+  },
+  {
+    "id": 99,
+    "term": "taillable et corvéable à merci",
+    "definition": "heavily taxed; enslaved to do onerous work",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "tailler le bout de gras",
+    "definition": "to shoot the breeze, to chew the fat, to chat",
+    "example": ""
+  }
+];
+window.QM_IDIOMS_IT_DATA = [
+  {
+    "id": 1,
+    "term": "a proprio rischio e pericolo",
+    "definition": "at one's own risk, at one's own peril",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "alle spalle di",
+    "definition": "at the expense of (someone); on the back of",
+    "example": "vivere alle spalle di Larry."
+  },
+  {
+    "id": 3,
+    "term": "andare da sé",
+    "definition": "to proceed smoothly without the need for external interventions; to go on on one's own",
+    "example": "l'accordo va da sé."
+  },
+  {
+    "id": 4,
+    "term": "andare per la propria strada",
+    "definition": "to go their separate ways",
+    "example": "man mano che la serata giungeva al termine, i promessi sposi sono andati per le proprie strade."
+  },
+  {
+    "id": 5,
+    "term": "avere a ridosso",
+    "definition": "to have (someone) who follows insistingly or threateningly; to be dogged or harassed",
+    "example": "aveva gli sbirri a ridosso."
+  },
+  {
+    "id": 6,
+    "term": "avere il cuore sulle labbra",
+    "definition": "to wear one's heart on one's sleeve",
+    "example": ""
+  },
+  {
+    "id": 7,
+    "term": "averne le palle piene",
+    "definition": "to be fed up with something; to be sick and tired",
+    "example": "Ne ho le palle piene di questa situazione."
+  },
+  {
+    "id": 8,
+    "term": "battere il capo nel muro",
+    "definition": "to beat one's head against a stone wall",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "battere il ferro finché è caldo",
+    "definition": "to strike while the iron is hot",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "battere in ritirata",
+    "definition": "to retreat oneself hurriedly; to beat a retreat; to flee",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "battere la grancassa",
+    "definition": "to advertise loudly; to spread the news widely",
+    "example": ""
+  },
+  {
+    "id": 12,
+    "term": "bell'e buono",
+    "definition": "real, utter, outright, plain and simple",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "bellezza acqua e sapone",
+    "definition": "natural (rather than artificial) beauty",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "buttare il bambino con l'acqua sporca",
+    "definition": "to throw the baby out with the bathwater",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "cambiare le carte in tavola",
+    "definition": "to contradict what one has said or done in the past; to shift one's ground; to move the goalposts",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "cavare le castagne dal fuoco",
+    "definition": "to pull someone's bacon out of the fire, pull someone's chestnuts out of the fire",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "che fine ha fatto",
+    "definition": "what happened to",
+    "example": "Ho scoperto che fine ha fatto Luca, si è trasferito a Londra."
+  },
+  {
+    "id": 18,
+    "term": "chi fa da sé fa per tre",
+    "definition": "it is most efficient to work by oneself without asking for help from others",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "chi è causa del suo mal pianga sé stesso",
+    "definition": "only oneself is to blame for the consequences of one's actions",
+    "example": ""
+  },
+  {
+    "id": 20,
+    "term": "cogliere la palla al balzo",
+    "definition": "to take advantage of a situation, which is beneficial but was not planned; to seize and opportunity",
+    "example": "È vero che hanno iniziato loro, ma voi avete colto la palla al balzo e vi siete uniti."
+  },
+  {
+    "id": 21,
+    "term": "con il sorcio in bocca",
+    "definition": "with one's hand in the cookie jar",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "da capo a piedi",
+    "definition": "from head to toe; from top to bottom",
+    "example": "Sono ricoperto di neve da capo a piedi."
+  },
+  {
+    "id": 23,
+    "term": "da un giorno all'altro",
+    "definition": "suddenly, all of a sudden, unexpectedly",
+    "example": ""
+  },
+  {
+    "id": 24,
+    "term": "dal profondo del cuore",
+    "definition": "from the bottom of one's heart",
+    "example": ""
+  },
+  {
+    "id": 25,
+    "term": "dare per buono",
+    "definition": "to reluctantly accept as good enough; to take it",
+    "example": "non sono le migliori prestazioni, ma lo do per buono."
+  },
+  {
+    "id": 26,
+    "term": "dare un colpo di freno",
+    "definition": "to abruptly bring to a halt; to stop in one's tracks",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "di notte tutti i gatti sono bigi",
+    "definition": "all cats are grey in the dark",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "dietro l'angolo",
+    "definition": "around the corner",
+    "example": "la farmacia è proprio dietro l'angolo."
+  },
+  {
+    "id": 29,
+    "term": "entrare in scena",
+    "definition": "to go on stage",
+    "example": "i valori della liberaldemocrazia sono pronti a entrare in scena."
+  },
+  {
+    "id": 30,
+    "term": "entrare nel vivo",
+    "definition": "to turn to the crux or climax; to get to the heart; to cut to the chase",
+    "example": ""
+  },
+  {
+    "id": 31,
+    "term": "errare è umano perdonare divino",
+    "definition": "to err is human; to forgive is divine",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "essere in sé",
+    "definition": "to possess and be able to control one's mental faculties; feel like oneself",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "essere passata molt'acqua sotto i ponti",
+    "definition": "for a lot of time to have passed",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "essere pazzo",
+    "definition": "to be crazy (fervently) about/for somebody",
+    "example": "Euforia, sono pazza di te."
+  },
+  {
+    "id": 35,
+    "term": "essere su questa terra",
+    "definition": "to live",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "fa agli altri quel che vorresti fosse fatto a te",
+    "definition": "do unto others as you would have them do unto you",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "fare buon viso a cattivo gioco",
+    "definition": "to grin and bear it; to put a brave face on it",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "fare del proprio meglio",
+    "definition": "to do one's best ; to put one's best foot forward",
+    "example": "ha fatto del suo meglio per riuscire simpatico."
+  },
+  {
+    "id": 39,
+    "term": "fare il bello e il cattivo tempo",
+    "definition": "to boldly exert power; to lay down the law",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "fare il passo più lungo della gamba",
+    "definition": "to bite off more than one can chew",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "fare il passo secondo la gamba",
+    "definition": "to cut one's coat according to one's cloth",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "fare le nozze coi fichi secchi",
+    "definition": "to try to do something challenging with limited means; to work on a shoestring",
+    "example": ""
+  },
+  {
+    "id": 43,
+    "term": "gallina dalle uova d'oro",
+    "definition": "the golden goose",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "gallina vecchia fa buon brodo",
+    "definition": "there's many a good tune played on an old fiddle",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "gelare il sangue",
+    "definition": "to make (someone's) blood run cold",
+    "example": ""
+  },
+  {
+    "id": 46,
+    "term": "gettare acqua sul fuoco",
+    "definition": "to throw cold water on something",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "gettare fumo negli occhi",
+    "definition": "to pull the wool over someone's eyes",
+    "example": ""
+  },
+  {
+    "id": 48,
+    "term": "gli assenti hanno sempre torto",
+    "definition": "one who is not present, or who does not show up to a situation",
+    "example": ""
+  },
+  {
+    "id": 49,
+    "term": "guardare in faccia",
+    "definition": "to look in the face; to face up to",
+    "example": "guardare in faccia la morte."
+  },
+  {
+    "id": 50,
+    "term": "hai voluto la bicicletta e adesso pedala",
+    "definition": "make one's bed and lie in it",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "i panni sporchi si lavano in famiglia",
+    "definition": "it is best not to wash one's dirty laundry in public",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "i soldi non crescono sugli alberi",
+    "definition": "money doesn't grow on trees; there's no such thing as a free lunch",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "il bisogno aguzza l'ingegno",
+    "definition": "necessity is the mother of invention",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "il bue che dice cornuto all'asino",
+    "definition": "pot calling the kettle black; it takes one to know one; I know you are but what am I",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "il diavolo fa le pentole ma non i coperchi",
+    "definition": "The devil teaches us his tricks but not how to hide them",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "il gioco non vale la candela",
+    "definition": "the game is not worth the candle",
+    "example": ""
+  },
+  {
+    "id": 57,
+    "term": "il giorno di San Mai",
+    "definition": "the first of never, February 31",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "l'abito non fa il monaco",
+    "definition": "you can't judge a book by its cover; clothes don't make the man, the cowl does not make the monk",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "l'erba cattiva non muore mai",
+    "definition": "a bad penny always turns up",
+    "example": ""
+  },
+  {
+    "id": 60,
+    "term": "l'erba del vicino è sempre più verde",
+    "definition": "the grass is always greener on the other side",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "l'etiope non si sbianca",
+    "definition": "it is futile to try to change human nature; human nature is innate and immutable",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "l'occhio del padrone ingrassa il cavallo",
+    "definition": "a business thrives when the owner keeps his eye on it",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "l'unione fa la forza",
+    "definition": "unity is strength; many hands make light work; united we stand, divided we fall; there is strength in numbers",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "la bellezza di",
+    "definition": "the entire quantity, duration, sum, etc. of",
+    "example": "ho la bellezza di 76 anni."
+  },
+  {
+    "id": 65,
+    "term": "ma anche no",
+    "definition": "or not",
+    "example": "A: Potremmo comprare un'altra macchina / B: Ma anche no."
+  },
+  {
+    "id": 66,
+    "term": "meglio soli che male accompagnati",
+    "definition": "it is better to be alone than in bad company",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "meglio tirare a campare che tirare le cuoia",
+    "definition": "it is better to advance one's own interests (even through illicit or questionable means) than to surrender one",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "meglio un uovo oggi che una gallina domani",
+    "definition": "a bird in the hand is worth two in the bush; better an egg today than a hen tomorrow",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "mettere le carte in tavola",
+    "definition": "to put one's cards on the table",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "mettersi al passo con i tempi",
+    "definition": "to update oneself",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "montare il sangue alla testa",
+    "definition": "to make one's blood boil",
+    "example": "quella maestra mi monta il sangue alla testa."
+  },
+  {
+    "id": 72,
+    "term": "ne uccide più la penna della spada",
+    "definition": "the pen is mightier than the sword",
+    "example": ""
+  },
+  {
+    "id": 73,
+    "term": "nelle botti piccole sta il vino buono",
+    "definition": "good things come in small packages",
+    "example": ""
+  },
+  {
+    "id": 74,
+    "term": "non c'è trippa per gatti",
+    "definition": "there are few or no resources at someone's disposal",
+    "example": ""
+  },
+  {
+    "id": 75,
+    "term": "non di solo pane vive l'uomo",
+    "definition": "man shall not live by bread alone",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "non dire gatto se non ce l'hai nel sacco",
+    "definition": "don't count your chickens before they're hatched",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "non giudicare un libro dalla copertina",
+    "definition": "don't judge a book by its cover",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "non resta che",
+    "definition": "there is nothing left to do but; it's time to",
+    "example": "non resta che aprire la scatola."
+  },
+  {
+    "id": 79,
+    "term": "o mangi la minestra o salti la finestra",
+    "definition": "one must like it or lump it; beggars can't be choosers; one must take the bitter pill to swallow",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "occhio non vede, cuore non duole",
+    "definition": "ignorance is bliss, what you don't know can't hurt you",
+    "example": ""
+  },
+  {
+    "id": 81,
+    "term": "occhio per occhio, dente per dente",
+    "definition": "an eye for an eye, a tooth for a tooth",
+    "example": ""
+  },
+  {
+    "id": 82,
+    "term": "ogni lasciata è persa",
+    "definition": "opportunity seldom knocks twice",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "ogni promessa è debito",
+    "definition": "promise is debt",
+    "example": ""
+  },
+  {
+    "id": 84,
+    "term": "ogni riccio un capriccio",
+    "definition": "women are often fickle and capricious",
+    "example": ""
+  },
+  {
+    "id": 85,
+    "term": "ora o mai più",
+    "definition": "now or never",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "paese che vai, usanze che trovi",
+    "definition": "one should not be surprised by how different someone else's culture and traditions might be",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "parli del diavolo e spuntano le corna",
+    "definition": "speak of the devil and he appears, speak of the devil",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "passare sotto le forche caudine",
+    "definition": "to run the gauntlet, to pass under the yoke",
+    "example": "Appena uscito dal tribunale, tutti i giornalisti intorno lo hanno fatto passare sotto le forche caudine."
+  },
+  {
+    "id": 89,
+    "term": "per filo e per segno",
+    "definition": "in minute detail, step by step, word for word",
+    "example": "Dimmi per filo e per segno come si fa questa torta."
+  },
+  {
+    "id": 90,
+    "term": "per il rotto della cuffia",
+    "definition": "by the skin of one's teeth",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "perdere il lume della ragione",
+    "definition": "to lose it, to lose control, to go crazy",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "perdere le staffe",
+    "definition": "to lose one's temper; to lose it",
+    "example": "talvolta anche i più tranquilli perdono le staffe."
+  },
+  {
+    "id": 93,
+    "term": "quando c'era lui",
+    "definition": "Used to decry the current state of politics as decadent, claiming that in the past things were done better",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "quando gli asini voleranno",
+    "definition": "when pigs fly, until hell freezes over",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "quando il gatto non c'è, i topi ballano",
+    "definition": "when the cat's away the mice will play",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "term": "quando il gioco si fa duro, i duri cominciano a giocare",
+    "definition": "when the going gets tough, the tough get going",
+    "example": ""
+  },
+  {
+    "id": 97,
+    "term": "quel che è fatto è fatto",
+    "definition": "what's done is done",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "term": "questione di lana caprina",
+    "definition": "moot point, unproductive discussion, futile argument",
+    "example": ""
+  },
+  {
+    "id": 99,
+    "term": "raglio d'asino non sale al cielo",
+    "definition": "sticks and stones may break my bones, but words will never hurt me",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "rendere la pariglia",
+    "definition": "to get even; to strike back",
+    "example": "ti ha ferito, e ora vuoi rendere la pariglia."
+  }
+];
 window.QM_IDIOMS_RO_DATA = [
   {
     "id": 1,
