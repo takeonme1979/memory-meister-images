@@ -18172,6 +18172,315 @@ window.QM_ARTWORKS_DATA = [
     "gamma": 1
   }
 ];
+window.QM_MRMEN_DATA = [
+  {
+    "id": "mrmen_tickle",
+    "name": "Mr Tickle",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_greedy",
+    "name": "Mr Greedy",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_happy",
+    "name": "Mr Happy",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_nosey",
+    "name": "Mr Nosey",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_sneeze",
+    "name": "Mr Sneeze",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_bump",
+    "name": "Mr Bump",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_snow",
+    "name": "Mr Snow",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_messy",
+    "name": "Mr Messy",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_topsy-turvy",
+    "name": "Mr Topsy-Turvy",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_silly",
+    "name": "Mr Silly",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_uppity",
+    "name": "Mr Uppity",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_small",
+    "name": "Mr Small",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_daydream",
+    "name": "Mr Daydream",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_forgetful",
+    "name": "Mr Forgetful",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_jelly",
+    "name": "Mr Jelly",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_noisy",
+    "name": "Mr Noisy",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_lazy",
+    "name": "Mr Lazy",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_funny",
+    "name": "Mr Funny",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_mean",
+    "name": "Mr Mean",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_chatterbox",
+    "name": "Mr Chatterbox",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_fussy",
+    "name": "Mr Fussy",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_bounce",
+    "name": "Mr Bounce",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_muddle",
+    "name": "Mr Muddle",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_dizzy",
+    "name": "Mr Dizzy",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_impossible",
+    "name": "Mr Impossible",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_strong",
+    "name": "Mr Strong",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_grumpy",
+    "name": "Mr Grumpy",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_clumsy",
+    "name": "Mr Clumsy",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_quiet",
+    "name": "Mr Quiet",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_rush",
+    "name": "Mr Rush",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_tall",
+    "name": "Mr Tall",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_worry",
+    "name": "Mr Worry",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_nonsense",
+    "name": "Mr Nonsense",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_wrong",
+    "name": "Mr Wrong",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_skinny",
+    "name": "Mr Skinny",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_mischief",
+    "name": "Mr Mischief",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_clever",
+    "name": "Mr Clever",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_busy",
+    "name": "Mr Busy",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_slow",
+    "name": "Mr Slow",
+    "imageUrl": ""
+  },
+  {
+    "id": "mrmen_nobody",
+    "name": "Mr Nobody",
+    "imageUrl": ""
+  }
+];
+window.QM_LITTLEMISS_DATA = [
+  {
+    "id": "littlemiss_bossy",
+    "name": "Little Miss Bossy",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_naughty",
+    "name": "Little Miss Naughty",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_neat",
+    "name": "Little Miss Neat",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_sunshine",
+    "name": "Little Miss Sunshine",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_tiny",
+    "name": "Little Miss Tiny",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_trouble",
+    "name": "Little Miss Trouble",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_helpful",
+    "name": "Little Miss Helpful",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_shy",
+    "name": "Little Miss Shy",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_splendid",
+    "name": "Little Miss Splendid",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_late",
+    "name": "Little Miss Late",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_scatterbrain",
+    "name": "Little Miss Scatterbrain",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_greedy",
+    "name": "Little Miss Greedy",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_magic",
+    "name": "Little Miss Magic",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_giggles",
+    "name": "Little Miss Giggles",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_twins",
+    "name": "Little Miss Twins",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_chatterbox",
+    "name": "Little Miss Chatterbox",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_dotty",
+    "name": "Little Miss Dotty",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_lucky",
+    "name": "Little Miss Lucky",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_star",
+    "name": "Little Miss Star",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_fickle",
+    "name": "Little Miss Fickle",
+    "imageUrl": ""
+  },
+  {
+    "id": "littlemiss_contrary",
+    "name": "Little Miss Contrary",
+    "imageUrl": ""
+  }
+];
 window.QM_CARLOGOS_DATA = [
   {
     "id": "id_1783795661490_n0mwtmtyfk",
@@ -36208,6 +36517,608 @@ window.QM_VOCABEXPERT_DATA = [
     "term": "Sempiternal",
     "definition": "Eternal and unchanging; everlasting.",
     "example": "The desert stretched out in sempiternal stillness."
+  }
+];
+window.QM_IDIOMS_DATA = [
+  {
+    "id": 1,
+    "term": "A blessing in disguise",
+    "definition": "Something that seems bad at first but turns out to be good",
+    "example": "Losing that job was a blessing in disguise — she started her own business a month later."
+  },
+  {
+    "id": 2,
+    "term": "A drop in the ocean",
+    "definition": "A tiny amount compared with what is really needed",
+    "example": "The donation was generous, but it's a drop in the ocean next to the repair bill."
+  },
+  {
+    "id": 3,
+    "term": "A piece of cake",
+    "definition": "Something very easy to do",
+    "example": "After all that revision, the exam was a piece of cake."
+  },
+  {
+    "id": 4,
+    "term": "A storm in a teacup",
+    "definition": "A great fuss about something trivial",
+    "example": "The row over the parking space was a storm in a teacup."
+  },
+  {
+    "id": 5,
+    "term": "Add fuel to the fire",
+    "definition": "Do something that makes a bad situation worse",
+    "example": "Bringing up the old argument only added fuel to the fire."
+  },
+  {
+    "id": 6,
+    "term": "At the drop of a hat",
+    "definition": "Immediately, without any hesitation",
+    "example": "He'd drive across the country to help a friend at the drop of a hat."
+  },
+  {
+    "id": 7,
+    "term": "Back to square one",
+    "definition": "Back to the very beginning after a failure",
+    "example": "The client rejected the design, so we're back to square one."
+  },
+  {
+    "id": 8,
+    "term": "Barking up the wrong tree",
+    "definition": "Pursuing a mistaken idea or blaming the wrong person",
+    "example": "If you think I took your keys, you're barking up the wrong tree."
+  },
+  {
+    "id": 9,
+    "term": "Beat around the bush",
+    "definition": "Avoid saying what you really mean",
+    "example": "Stop beating around the bush and tell me what went wrong."
+  },
+  {
+    "id": 10,
+    "term": "Beggars can't be choosers",
+    "definition": "Take what you're offered when you have no alternative",
+    "example": "The only free room had a broken window, but beggars can't be choosers."
+  },
+  {
+    "id": 11,
+    "term": "Bend over backwards",
+    "definition": "Try extremely hard to help or please someone",
+    "example": "The staff bent over backwards to make the wedding perfect."
+  },
+  {
+    "id": 12,
+    "term": "Bite off more than you can chew",
+    "definition": "Take on more than you can manage",
+    "example": "Running two departments at once, he'd clearly bitten off more than he could chew."
+  },
+  {
+    "id": 13,
+    "term": "Bite the bullet",
+    "definition": "Force yourself to face something unpleasant",
+    "example": "I finally bit the bullet and booked the dentist."
+  },
+  {
+    "id": 14,
+    "term": "Bite your tongue",
+    "definition": "Stop yourself from saying what you're thinking",
+    "example": "I had to bite my tongue when she criticised the plan."
+  },
+  {
+    "id": 15,
+    "term": "Blow your own trumpet",
+    "definition": "Boast about your own achievements",
+    "example": "He never blows his own trumpet, but he wrote most of the book."
+  },
+  {
+    "id": 16,
+    "term": "Break a leg",
+    "definition": "Good luck — said to a performer before a show",
+    "example": "Break a leg tonight — the whole family will be in the audience."
+  },
+  {
+    "id": 17,
+    "term": "Break the ice",
+    "definition": "Say or do something to ease the awkwardness between strangers",
+    "example": "A quick quiz is a good way to break the ice at a new class."
+  },
+  {
+    "id": 18,
+    "term": "Burn the midnight oil",
+    "definition": "Work late into the night",
+    "example": "She burned the midnight oil to finish the report by Friday."
+  },
+  {
+    "id": 19,
+    "term": "Burn your bridges",
+    "definition": "Destroy relationships you may still need later",
+    "example": "Resign politely — there's no sense in burning your bridges."
+  },
+  {
+    "id": 20,
+    "term": "By the skin of your teeth",
+    "definition": "Only just; barely",
+    "example": "We caught the last train by the skin of our teeth."
+  },
+  {
+    "id": 21,
+    "term": "Call it a day",
+    "definition": "Stop working on something for now",
+    "example": "We've been at this for nine hours — let's call it a day."
+  },
+  {
+    "id": 22,
+    "term": "Cost an arm and a leg",
+    "definition": "Be extremely expensive",
+    "example": "Getting the roof retiled cost an arm and a leg."
+  },
+  {
+    "id": 23,
+    "term": "Cross that bridge when you come to it",
+    "definition": "Deal with a problem when it actually arises",
+    "example": "We might need a bigger office one day, but we'll cross that bridge when we come to it."
+  },
+  {
+    "id": 24,
+    "term": "Cry over spilt milk",
+    "definition": "Waste time regretting what can't be undone",
+    "example": "The deposit is gone — there's no use crying over spilt milk."
+  },
+  {
+    "id": 25,
+    "term": "Curiosity killed the cat",
+    "definition": "Being too inquisitive can get you into trouble",
+    "example": "Don't go opening his letters — curiosity killed the cat."
+  },
+  {
+    "id": 26,
+    "term": "Cut corners",
+    "definition": "Do something cheaply or quickly at the cost of quality",
+    "example": "The builders cut corners and the damp came straight back."
+  },
+  {
+    "id": 27,
+    "term": "Cut to the chase",
+    "definition": "Get to the important part without delay",
+    "example": "Let's cut to the chase — can you deliver by Monday or not?"
+  },
+  {
+    "id": 28,
+    "term": "Dodge a bullet",
+    "definition": "Narrowly escape something bad",
+    "example": "That flight was cancelled after we rebooked — we dodged a bullet."
+  },
+  {
+    "id": 29,
+    "term": "Don't count your chickens before they hatch",
+    "definition": "Don't rely on something good before it has actually happened",
+    "example": "You've had one interview, so don't count your chickens before they hatch."
+  },
+  {
+    "id": 30,
+    "term": "Down to the wire",
+    "definition": "Decided only at the very last moment",
+    "example": "The vote went down to the wire and was settled by four ballots."
+  },
+  {
+    "id": 31,
+    "term": "Every cloud has a silver lining",
+    "definition": "Even a bad situation has some good in it",
+    "example": "The delay was annoying, but every cloud has a silver lining — we met at the airport."
+  },
+  {
+    "id": 32,
+    "term": "Face the music",
+    "definition": "Accept the unpleasant consequences of your actions",
+    "example": "He had to face the music after the accounts were audited."
+  },
+  {
+    "id": 33,
+    "term": "Get a taste of your own medicine",
+    "definition": "Be treated the unpleasant way you treat others",
+    "example": "The prankster got a taste of his own medicine on his birthday."
+  },
+  {
+    "id": 34,
+    "term": "Get cold feet",
+    "definition": "Become too nervous to go through with something",
+    "example": "She got cold feet the night before the interview."
+  },
+  {
+    "id": 35,
+    "term": "Get out of hand",
+    "definition": "Become impossible to control",
+    "example": "The party got out of hand not long after midnight."
+  },
+  {
+    "id": 36,
+    "term": "Give someone the cold shoulder",
+    "definition": "Deliberately ignore someone",
+    "example": "Ever since the argument he's given me the cold shoulder."
+  },
+  {
+    "id": 37,
+    "term": "Go down like a lead balloon",
+    "definition": "Be received extremely badly",
+    "example": "His joke about the delays went down like a lead balloon."
+  },
+  {
+    "id": 38,
+    "term": "Go the extra mile",
+    "definition": "Do more than is expected of you",
+    "example": "The nurses went the extra mile all through the winter."
+  },
+  {
+    "id": 39,
+    "term": "Have a chip on your shoulder",
+    "definition": "Carry an obvious grudge or sense of grievance",
+    "example": "He's had a chip on his shoulder since he was passed over."
+  },
+  {
+    "id": 40,
+    "term": "Hit the ground running",
+    "definition": "Start something quickly and effectively",
+    "example": "The new manager hit the ground running in her first week."
+  },
+  {
+    "id": 41,
+    "term": "Hit the nail on the head",
+    "definition": "Describe something exactly right",
+    "example": "You've hit the nail on the head — the problem is the timetable."
+  },
+  {
+    "id": 42,
+    "term": "Hit the sack",
+    "definition": "Go to bed",
+    "example": "I'm shattered — I'm going to hit the sack."
+  },
+  {
+    "id": 43,
+    "term": "Hold your horses",
+    "definition": "Wait a moment; slow down",
+    "example": "Hold your horses — we haven't heard the other side yet."
+  },
+  {
+    "id": 44,
+    "term": "In hot water",
+    "definition": "In trouble",
+    "example": "He's in hot water for missing the deadline again."
+  },
+  {
+    "id": 45,
+    "term": "In the nick of time",
+    "definition": "Just before it would have been too late",
+    "example": "The ambulance arrived in the nick of time."
+  },
+  {
+    "id": 46,
+    "term": "In the same boat",
+    "definition": "In the same difficult situation as someone else",
+    "example": "Don't apologise — we're all in the same boat this month."
+  },
+  {
+    "id": 47,
+    "term": "It's not rocket science",
+    "definition": "It isn't difficult to understand",
+    "example": "Filling in the form isn't rocket science."
+  },
+  {
+    "id": 48,
+    "term": "Jump on the bandwagon",
+    "definition": "Join something simply because it has become popular",
+    "example": "Every shop jumped on the bandwagon once the trend took off."
+  },
+  {
+    "id": 49,
+    "term": "Jump the gun",
+    "definition": "Act too soon, before the right moment",
+    "example": "They jumped the gun and announced it before the contract was signed."
+  },
+  {
+    "id": 50,
+    "term": "Keep something at bay",
+    "definition": "Keep a problem at a safe distance",
+    "example": "A hot drink keeps the cold at bay on the touchline."
+  },
+  {
+    "id": 51,
+    "term": "Keep your cards close to your chest",
+    "definition": "Keep your plans or opinions secret",
+    "example": "She kept her cards close to her chest until the deal was done."
+  },
+  {
+    "id": 52,
+    "term": "Keep your chin up",
+    "definition": "Stay cheerful in a difficult situation",
+    "example": "Keep your chin up — there are plenty of other jobs."
+  },
+  {
+    "id": 53,
+    "term": "Kill two birds with one stone",
+    "definition": "Achieve two things with a single action",
+    "example": "I'll post the parcel on the way and kill two birds with one stone."
+  },
+  {
+    "id": 54,
+    "term": "Know the ropes",
+    "definition": "Understand how something is done from experience",
+    "example": "Ask Priya — she knows the ropes better than anyone here."
+  },
+  {
+    "id": 55,
+    "term": "Let sleeping dogs lie",
+    "definition": "Avoid stirring up an old problem",
+    "example": "Don't mention the inheritance — let sleeping dogs lie."
+  },
+  {
+    "id": 56,
+    "term": "Let the cat out of the bag",
+    "definition": "Reveal a secret by accident",
+    "example": "He let the cat out of the bag about the surprise party."
+  },
+  {
+    "id": 57,
+    "term": "Long shot",
+    "definition": "Something with only a small chance of success",
+    "example": "Applying was a long shot, but she got the place."
+  },
+  {
+    "id": 58,
+    "term": "Make a mountain out of a molehill",
+    "definition": "Treat a small problem as though it were huge",
+    "example": "It's one typo — don't make a mountain out of a molehill."
+  },
+  {
+    "id": 59,
+    "term": "Miss the boat",
+    "definition": "Miss your chance by being too slow",
+    "example": "We missed the boat on the early-bird tickets."
+  },
+  {
+    "id": 60,
+    "term": "Move the goalposts",
+    "definition": "Unfairly change the rules partway through",
+    "example": "Every time we hit the target they move the goalposts."
+  },
+  {
+    "id": 61,
+    "term": "Nip it in the bud",
+    "definition": "Stop a problem in its early stages",
+    "example": "Deal with the rumour now and nip it in the bud."
+  },
+  {
+    "id": 62,
+    "term": "Not my cup of tea",
+    "definition": "Not something you particularly enjoy",
+    "example": "Opera isn't really my cup of tea."
+  },
+  {
+    "id": 63,
+    "term": "Off the top of your head",
+    "definition": "From memory, without checking anything",
+    "example": "Off the top of my head, I'd say about forty people came."
+  },
+  {
+    "id": 64,
+    "term": "On the ball",
+    "definition": "Alert, well informed and quick to react",
+    "example": "The receptionist is really on the ball."
+  },
+  {
+    "id": 65,
+    "term": "On thin ice",
+    "definition": "In a risky position where one mistake will cause trouble",
+    "example": "After two warnings he's on thin ice at work."
+  },
+  {
+    "id": 66,
+    "term": "Once in a blue moon",
+    "definition": "Very rarely",
+    "example": "We only see each other once in a blue moon these days."
+  },
+  {
+    "id": 67,
+    "term": "Out of the blue",
+    "definition": "Completely unexpectedly",
+    "example": "She rang me out of the blue after fifteen years."
+  },
+  {
+    "id": 68,
+    "term": "Over the moon",
+    "definition": "Extremely happy",
+    "example": "They were over the moon about the new baby."
+  },
+  {
+    "id": 69,
+    "term": "Pay through the nose",
+    "definition": "Pay far more than something is worth",
+    "example": "You'll pay through the nose for a ticket on the day."
+  },
+  {
+    "id": 70,
+    "term": "Pull out all the stops",
+    "definition": "Make every possible effort",
+    "example": "The school pulled out all the stops for the centenary concert."
+  },
+  {
+    "id": 71,
+    "term": "Pull someone's leg",
+    "definition": "Tease someone playfully",
+    "example": "Relax — I'm only pulling your leg."
+  },
+  {
+    "id": 72,
+    "term": "Put all your eggs in one basket",
+    "definition": "Risk everything on a single plan",
+    "example": "Apply to a few places; don't put all your eggs in one basket."
+  },
+  {
+    "id": 73,
+    "term": "Put your foot in it",
+    "definition": "Say something tactless or embarrassing",
+    "example": "I put my foot in it by asking when the baby was due."
+  },
+  {
+    "id": 74,
+    "term": "Rain on someone's parade",
+    "definition": "Spoil someone's plans or good mood",
+    "example": "I hate to rain on your parade, but the venue is double-booked."
+  },
+  {
+    "id": 75,
+    "term": "Read between the lines",
+    "definition": "Work out the meaning that isn't stated openly",
+    "example": "Read between the lines and you can tell he wants to leave."
+  },
+  {
+    "id": 76,
+    "term": "Ring a bell",
+    "definition": "Sound vaguely familiar",
+    "example": "The name rings a bell, but I can't picture her."
+  },
+  {
+    "id": 77,
+    "term": "Rub someone up the wrong way",
+    "definition": "Irritate someone, often without meaning to",
+    "example": "His manner rubs some of the customers up the wrong way."
+  },
+  {
+    "id": 78,
+    "term": "Save for a rainy day",
+    "definition": "Put money aside for a time of need",
+    "example": "They saved for a rainy day and it paid off when the boiler went."
+  },
+  {
+    "id": 79,
+    "term": "See eye to eye",
+    "definition": "Agree completely with someone",
+    "example": "We don't see eye to eye on politics, but we're good friends."
+  },
+  {
+    "id": 80,
+    "term": "Sell like hot cakes",
+    "definition": "Sell very quickly and in large numbers",
+    "example": "The calendars sold like hot cakes at the fair."
+  },
+  {
+    "id": 81,
+    "term": "Shoot yourself in the foot",
+    "definition": "Do something that damages your own cause",
+    "example": "He shot himself in the foot by insulting the panel."
+  },
+  {
+    "id": 82,
+    "term": "Sit on the fence",
+    "definition": "Refuse to take sides in a dispute",
+    "example": "The committee sat on the fence for months."
+  },
+  {
+    "id": 83,
+    "term": "Sit tight",
+    "definition": "Wait patiently and take no action for now",
+    "example": "Sit tight — someone will come and collect you."
+  },
+  {
+    "id": 84,
+    "term": "Speak of the devil",
+    "definition": "Said when the person you're discussing appears",
+    "example": "Speak of the devil — here he is now."
+  },
+  {
+    "id": 85,
+    "term": "Spill the beans",
+    "definition": "Reveal information that was meant to be secret",
+    "example": "Go on, spill the beans about the new job."
+  },
+  {
+    "id": 86,
+    "term": "Steal someone's thunder",
+    "definition": "Take the attention or credit meant for someone else",
+    "example": "Announcing her engagement at the wedding stole the bride's thunder."
+  },
+  {
+    "id": 87,
+    "term": "Take it with a pinch of salt",
+    "definition": "Treat something as unlikely to be entirely true",
+    "example": "Take his version of events with a pinch of salt."
+  },
+  {
+    "id": 88,
+    "term": "Take the plunge",
+    "definition": "Finally commit to a big decision",
+    "example": "After renting for years they took the plunge and bought a flat."
+  },
+  {
+    "id": 89,
+    "term": "The ball is in your court",
+    "definition": "It is now your turn to act or decide",
+    "example": "I've made my offer — the ball is in your court."
+  },
+  {
+    "id": 90,
+    "term": "The best of both worlds",
+    "definition": "All the advantages of two different things at once",
+    "example": "Working from home two days a week gives us the best of both worlds."
+  },
+  {
+    "id": 91,
+    "term": "The last straw",
+    "definition": "The final small problem that makes a situation unbearable",
+    "example": "The cancelled trains were the last straw, so she bought a bike."
+  },
+  {
+    "id": 92,
+    "term": "The tip of the iceberg",
+    "definition": "A small visible part of a much larger problem",
+    "example": "The missing files are just the tip of the iceberg."
+  },
+  {
+    "id": 93,
+    "term": "Through thick and thin",
+    "definition": "In good times and bad alike",
+    "example": "They stayed together through thick and thin for fifty years."
+  },
+  {
+    "id": 94,
+    "term": "Throw in the towel",
+    "definition": "Give up and admit defeat",
+    "example": "After three failed attempts he threw in the towel."
+  },
+  {
+    "id": 95,
+    "term": "Turn a blind eye",
+    "definition": "Deliberately ignore something you know is wrong",
+    "example": "Management turned a blind eye to the long lunches."
+  },
+  {
+    "id": 96,
+    "term": "Twist someone's arm",
+    "definition": "Persuade a reluctant person to do something",
+    "example": "It didn't take much to twist his arm about the holiday."
+  },
+  {
+    "id": 97,
+    "term": "Under the weather",
+    "definition": "Slightly unwell",
+    "example": "She's a bit under the weather and staying home today."
+  },
+  {
+    "id": 98,
+    "term": "Up in the air",
+    "definition": "Still undecided or uncertain",
+    "example": "The date of the move is up in the air until the survey comes back."
+  },
+  {
+    "id": 99,
+    "term": "A chip off the old block",
+    "definition": "A child who is very like one of their parents",
+    "example": "He tinkers with engines all weekend — a chip off the old block."
+  },
+  {
+    "id": 100,
+    "term": "A wild goose chase",
+    "definition": "A hopeless search that leads nowhere",
+    "example": "The old address sent us on a wild goose chase across town."
   }
 ];
 window.QM_BALLETPIX_DATA = [
