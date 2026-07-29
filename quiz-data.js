@@ -2549,7 +2549,8 @@ window.QM_HIDDEN_QUIZZES = [
   "female00s",
   "scottishCounties",
   "welshCounties",
-  "monarchs"
+  "monarchs",
+  "genZ"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -13155,6 +13156,900 @@ window.QM_LANDMARKS_DATA = [
     "zoom": 1
   }
 ];
+window.QM_FLOWERS_DATA = [
+  {
+    "id": "rose",
+    "name": "Rose",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/rose.jpg",
+    "focalX": 50,
+    "focalY": 12.097217874846674,
+    "zoom": 1
+  },
+  {
+    "id": "tulip",
+    "name": "Tulip",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/tulip.jpg"
+  },
+  {
+    "id": "daffodil",
+    "name": "Daffodil",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/daffodil.jpg",
+    "focalX": 50,
+    "focalY": 29.90547092705016,
+    "zoom": 1
+  },
+  {
+    "id": "sunflower",
+    "name": "Sunflower",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sunflower.jpg",
+    "focalX": 50,
+    "focalY": 36.13974637581235,
+    "zoom": 1
+  },
+  {
+    "id": "orchid",
+    "name": "Orchid",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/orchid.jpg",
+    "focalX": 92.75833158666946,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "iris",
+    "name": "Iris",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/iris.jpg",
+    "focalX": 50,
+    "focalY": 11.295883890926946,
+    "zoom": 1
+  },
+  {
+    "id": "peony",
+    "name": "Peony",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/peony.jpg"
+  },
+  {
+    "id": "dahlia",
+    "name": "Dahlia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/dahlia.jpg"
+  },
+  {
+    "id": "hydrangea",
+    "name": "Hydrangea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hydrangea.jpg",
+    "focalX": 50,
+    "focalY": 78.47979464196855,
+    "zoom": 1
+  },
+  {
+    "id": "chrysanthemum",
+    "name": "Chrysanthemum",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/chrysanthemum.webp",
+    "focalX": 50,
+    "focalY": 96.99843611807194,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "poppy",
+    "name": "Poppy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/poppy.jpg"
+  },
+  {
+    "id": "foxglove",
+    "name": "Foxglove",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/foxglove.jpg",
+    "focalX": 50,
+    "focalY": 0,
+    "zoom": 1
+  },
+  {
+    "id": "lavender",
+    "name": "Lavender",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lavender.jpg"
+  },
+  {
+    "id": "hollyhock",
+    "name": "Hollyhock",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hollyhock.jpg"
+  },
+  {
+    "id": "snapdragon",
+    "name": "Snapdragon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/snapdragon.jpg",
+    "focalX": 50,
+    "focalY": 40.62038698621616,
+    "zoom": 1
+  },
+  {
+    "id": "delphinium",
+    "name": "Delphinium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/delphinium.jpg"
+  },
+  {
+    "id": "lupin",
+    "name": "Lupin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lupin.jpg",
+    "focalX": 50,
+    "focalY": 45.85879730418988,
+    "zoom": 1
+  },
+  {
+    "id": "marigold",
+    "name": "Marigold",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/marigold.jpg",
+    "focalX": 50,
+    "focalY": 10.870306166541974,
+    "zoom": 1
+  },
+  {
+    "id": "pansy",
+    "name": "Pansy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/pansy.jpg",
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1
+  },
+  {
+    "id": "petunia",
+    "name": "Petunia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/petunia.jpg",
+    "focalX": 50,
+    "focalY": 13.475914827577625,
+    "zoom": 1
+  },
+  {
+    "id": "geranium",
+    "name": "Geranium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/geranium.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "begonia",
+    "name": "Begonia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/begonia.jpg",
+    "focalX": 50,
+    "focalY": 30.85791093376791,
+    "zoom": 1
+  },
+  {
+    "id": "fuchsia",
+    "name": "Fuchsia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/fuchsia.jpg",
+    "focalX": 0,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "camellia",
+    "name": "Camellia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/camellia.jpg"
+  },
+  {
+    "id": "rhododendron",
+    "name": "Rhododendron",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/rhododendron.jpg"
+  },
+  {
+    "id": "coneflower",
+    "name": "Coneflower",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/coneflower.jpg"
+  },
+  {
+    "id": "wisteria",
+    "name": "Wisteria",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/wisteria.jpg"
+  },
+  {
+    "id": "clematis",
+    "name": "Clematis",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/clematis.jpg"
+  },
+  {
+    "id": "hibiscus",
+    "name": "Hibiscus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hibiscus.jpg",
+    "focalX": 50,
+    "focalY": 23.27286921604183,
+    "zoom": 1
+  },
+  {
+    "id": "magnolia",
+    "name": "Magnolia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/magnolia.jpg"
+  },
+  {
+    "id": "water-lily",
+    "name": "Water Lily",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/water-lily.jpg"
+  },
+  {
+    "id": "lotus",
+    "name": "Lotus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lotus.jpg",
+    "focalX": 50,
+    "focalY": 70.48696443313551,
+    "zoom": 1
+  },
+  {
+    "id": "bird-of-paradise",
+    "name": "Bird of Paradise",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bird-of-paradise.jpg"
+  },
+  {
+    "id": "anthurium",
+    "name": "Anthurium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/anthurium.jpg"
+  },
+  {
+    "id": "calla-lily",
+    "name": "Calla Lily",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/calla-lily.jpg"
+  },
+  {
+    "id": "amaryllis",
+    "name": "Amaryllis",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/amaryllis.jpg",
+    "focalX": 11.869201660156229,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "gladiolus",
+    "name": "Gladiolus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gladiolus.jpg",
+    "focalX": 50,
+    "focalY": 68.78470482016509,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "carnation",
+    "name": "Carnation",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/carnation.jpg"
+  },
+  {
+    "id": "zinnia",
+    "name": "Zinnia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/zinnia.jpg"
+  },
+  {
+    "id": "cosmos",
+    "name": "Cosmos",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cosmos.jpg",
+    "focalX": 50,
+    "focalY": 100,
+    "zoom": 1
+  },
+  {
+    "id": "nasturtium",
+    "name": "Nasturtium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/nasturtium.jpg"
+  },
+  {
+    "id": "sweet-pea",
+    "name": "Sweet Pea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sweet-pea.jpg",
+    "focalX": 50,
+    "focalY": 34.85770992797619,
+    "zoom": 1
+  },
+  {
+    "id": "bluebell",
+    "name": "Bluebell",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bluebell.jpg",
+    "focalX": 50,
+    "focalY": 30.171463133000692,
+    "zoom": 1
+  },
+  {
+    "id": "crocus",
+    "name": "Crocus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/crocus.jpg",
+    "focalX": 66.15167162632983,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "hyacinth",
+    "name": "Hyacinth",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hyacinth.jpg",
+    "focalX": 50,
+    "focalY": 33.47709665480693,
+    "zoom": 1
+  },
+  {
+    "id": "anemone",
+    "name": "Anemone",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/anemone.jpg",
+    "focalX": 1.3560863541777832,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "ranunculus",
+    "name": "Ranunculus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/ranunculus.webp",
+    "focalX": 100,
+    "focalY": 50.76294296288808,
+    "zoom": 1.05,
+    "brightness": 1.11,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 0.84
+  },
+  {
+    "id": "gardenia",
+    "name": "Gardenia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gardenia.jpg"
+  },
+  {
+    "id": "bougainvillea",
+    "name": "Bougainvillea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bougainvillea.jpg",
+    "focalX": 27.485551063640205,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "lilac",
+    "name": "Lilac",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lilac.jpg"
+  },
+  {
+    "id": "agapanthus",
+    "name": "Agapanthus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/agapanthus.jpg"
+  },
+  {
+    "id": "allium",
+    "name": "Allium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/allium.jpg"
+  },
+  {
+    "id": "alstroemeria",
+    "name": "Alstroemeria",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/alstroemeria.jpg"
+  },
+  {
+    "id": "red-hot-poker",
+    "name": "Red Hot Poker",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/red-hot-poker.jpg",
+    "focalX": 0,
+    "focalY": 39.45922746781115,
+    "zoom": 1.2
+  },
+  {
+    "id": "astilbe",
+    "name": "Astilbe",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/astilbe.jpg",
+    "focalX": 50,
+    "focalY": 96.85171283956308,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "canna-lily",
+    "name": "Canna Lily",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/canna-lily.jpg",
+    "focalX": 50,
+    "focalY": 24.98070519874973,
+    "zoom": 1
+  },
+  {
+    "id": "columbine",
+    "name": "Columbine",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/columbine.jpg",
+    "focalX": 3.1098859063510296,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "bleeding-heart",
+    "name": "Bleeding Heart",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bleeding-heart.jpg"
+  },
+  {
+    "id": "sweet-william",
+    "name": "Sweet William",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sweet-william.jpg"
+  },
+  {
+    "id": "love-in-a-mist",
+    "name": "Love-in-a-Mist",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/love-in-a-mist.jpg"
+  },
+  {
+    "id": "scabiosa",
+    "name": "Scabiosa",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/scabiosa.jpg"
+  },
+  {
+    "id": "cornflower",
+    "name": "Cornflower",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cornflower.jpg"
+  },
+  {
+    "id": "bee-balm",
+    "name": "Bee Balm",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bee-balm.jpg",
+    "focalX": 50,
+    "focalY": 31.33414065610072,
+    "zoom": 1
+  },
+  {
+    "id": "aster",
+    "name": "Aster",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/aster.jpg"
+  },
+  {
+    "id": "gerbera",
+    "name": "Gerbera",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gerbera.jpg",
+    "focalX": 50,
+    "focalY": 10.911609299328267,
+    "zoom": 1
+  },
+  {
+    "id": "black-eyed-susan",
+    "name": "Black-eyed Susan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/black-eyed-susan.jpg"
+  },
+  {
+    "id": "primrose",
+    "name": "Primrose",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/primrose.jpg",
+    "focalX": 28.69165039062499,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "cyclamen",
+    "name": "Cyclamen",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cyclamen.jpg",
+    "focalX": 50,
+    "focalY": 34.66767096063893,
+    "zoom": 1
+  },
+  {
+    "id": "freesia",
+    "name": "Freesia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/freesia.jpg"
+  },
+  {
+    "id": "salvia",
+    "name": "Salvia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/salvia.jpg"
+  },
+  {
+    "id": "verbena",
+    "name": "Verbena",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/verbena.jpg"
+  },
+  {
+    "id": "protea",
+    "name": "Protea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/protea.jpg",
+    "focalX": 50,
+    "focalY": 100,
+    "zoom": 1
+  },
+  {
+    "id": "frangipani",
+    "name": "Frangipani",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/frangipani.jpg"
+  },
+  {
+    "id": "passionflower",
+    "name": "Passionflower",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/passionflower.jpg",
+    "focalX": 50,
+    "focalY": 45.215261430422125,
+    "zoom": 1
+  },
+  {
+    "id": "morning-glory",
+    "name": "Morning Glory",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/morning-glory.jpg",
+    "focalX": 100,
+    "focalY": 50,
+    "zoom": 1
+  }
+];
+window.QM_MONARCHS_DATA = [
+  {
+    "id": "egbert",
+    "name": "Egbert",
+    "reign": "802–839",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/egbert.jpg"
+  },
+  {
+    "id": "aethelwulf",
+    "name": "Æthelwulf",
+    "reign": "839–858",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelwulf.jpg"
+  },
+  {
+    "id": "aethelbald",
+    "name": "Æthelbald",
+    "reign": "858–860",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelbald.jpg"
+  },
+  {
+    "id": "aethelberht",
+    "name": "Æthelberht",
+    "reign": "860–865",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelberht.jpg"
+  },
+  {
+    "id": "aethelred-i",
+    "name": "Æthelred I",
+    "reign": "865–871",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelred-i.jpg"
+  },
+  {
+    "id": "alfred-the-great",
+    "name": "Alfred the Great",
+    "reign": "871–899",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/alfred-the-great.jpg"
+  },
+  {
+    "id": "edward-the-elder",
+    "name": "Edward the Elder",
+    "reign": "899–924",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-elder.jpg"
+  },
+  {
+    "id": "aethelstan",
+    "name": "Æthelstan",
+    "reign": "924–939",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelstan.jpg"
+  },
+  {
+    "id": "edmund-i",
+    "name": "Edmund I",
+    "reign": "939–946",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edmund-i.jpg"
+  },
+  {
+    "id": "eadred",
+    "name": "Eadred",
+    "reign": "946–955",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/eadred.jpg"
+  },
+  {
+    "id": "eadwig",
+    "name": "Eadwig",
+    "reign": "955–959",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/eadwig.jpg"
+  },
+  {
+    "id": "edgar-the-peaceful",
+    "name": "Edgar the Peaceful",
+    "reign": "959–975",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edgar-the-peaceful.jpg"
+  },
+  {
+    "id": "edward-the-martyr",
+    "name": "Edward the Martyr",
+    "reign": "975–978",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-martyr.jpg"
+  },
+  {
+    "id": "aethelred-unready",
+    "name": "Æthelred the Unready",
+    "reign": "978–1016",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelred-unready.jpg"
+  },
+  {
+    "id": "sweyn-forkbeard",
+    "name": "Sweyn Forkbeard",
+    "reign": "1013–1014",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/sweyn-forkbeard.jpg"
+  },
+  {
+    "id": "edmund-ironside",
+    "name": "Edmund Ironside",
+    "reign": "1016",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edmund-ironside.jpg"
+  },
+  {
+    "id": "cnut-the-great",
+    "name": "Cnut the Great",
+    "reign": "1016–1035",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/cnut-the-great.jpg"
+  },
+  {
+    "id": "harold-harefoot",
+    "name": "Harold Harefoot",
+    "reign": "1035–1040",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harold-harefoot.jpg"
+  },
+  {
+    "id": "harthacnut",
+    "name": "Harthacnut",
+    "reign": "1040–1042",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harthacnut.jpg"
+  },
+  {
+    "id": "edward-the-confessor",
+    "name": "Edward the Confessor",
+    "reign": "1042–1066",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-confessor.jpg"
+  },
+  {
+    "id": "harold-ii",
+    "name": "Harold II",
+    "reign": "1066",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harold-ii.jpg"
+  },
+  {
+    "id": "william-the-conqueror",
+    "name": "William the Conqueror",
+    "reign": "1066–1087",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-the-conqueror.jpg"
+  },
+  {
+    "id": "william-ii",
+    "name": "William II",
+    "reign": "1087–1100",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-ii.jpg"
+  },
+  {
+    "id": "henry-i",
+    "name": "Henry I",
+    "reign": "1100–1135",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-i.jpg"
+  },
+  {
+    "id": "stephen",
+    "name": "Stephen",
+    "reign": "1135–1154",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/stephen.jpg"
+  },
+  {
+    "id": "henry-ii",
+    "name": "Henry II",
+    "reign": "1154–1189",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-ii.jpg"
+  },
+  {
+    "id": "richard-the-lionheart",
+    "name": "Richard the Lionheart",
+    "reign": "1189–1199",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-the-lionheart.jpg"
+  },
+  {
+    "id": "john",
+    "name": "John",
+    "reign": "1199–1216",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/john.jpg"
+  },
+  {
+    "id": "henry-iii",
+    "name": "Henry III",
+    "reign": "1216–1272",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-iii.jpg"
+  },
+  {
+    "id": "edward-i",
+    "name": "Edward I",
+    "reign": "1272–1307",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-i.jpg"
+  },
+  {
+    "id": "edward-ii",
+    "name": "Edward II",
+    "reign": "1307–1327",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-ii.jpg"
+  },
+  {
+    "id": "edward-iii",
+    "name": "Edward III",
+    "reign": "1327–1377",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-iii.jpg"
+  },
+  {
+    "id": "richard-ii",
+    "name": "Richard II",
+    "reign": "1377–1399",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-ii.jpg"
+  },
+  {
+    "id": "henry-iv",
+    "name": "Henry IV",
+    "reign": "1399–1413",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-iv.jpg"
+  },
+  {
+    "id": "henry-v",
+    "name": "Henry V",
+    "reign": "1413–1422",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-v.jpg"
+  },
+  {
+    "id": "henry-vi",
+    "name": "Henry VI",
+    "reign": "1422–1461, 1470–1471",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-vi.jpg"
+  },
+  {
+    "id": "edward-iv",
+    "name": "Edward IV",
+    "reign": "1461–1470, 1471–1483",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-iv.jpg"
+  },
+  {
+    "id": "edward-v",
+    "name": "Edward V",
+    "reign": "1483",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-v.jpg"
+  },
+  {
+    "id": "richard-iii",
+    "name": "Richard III",
+    "reign": "1483–1485",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-iii.jpg"
+  },
+  {
+    "id": "henry-vii",
+    "name": "Henry VII",
+    "reign": "1485–1509",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-vii.jpg"
+  },
+  {
+    "id": "henry-viii",
+    "name": "Henry VIII",
+    "reign": "1509–1547",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-viii.jpg"
+  },
+  {
+    "id": "edward-vi",
+    "name": "Edward VI",
+    "reign": "1547–1553",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-vi.jpg"
+  },
+  {
+    "id": "mary-i",
+    "name": "Mary I",
+    "reign": "1553–1558",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/mary-i.jpg"
+  },
+  {
+    "id": "elizabeth-i",
+    "name": "Elizabeth I",
+    "reign": "1558–1603",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/elizabeth-i.jpg"
+  },
+  {
+    "id": "james-i",
+    "name": "James I",
+    "reign": "1603–1625",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/james-i.jpg"
+  },
+  {
+    "id": "charles-i",
+    "name": "Charles I",
+    "reign": "1625–1649",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-i.jpg"
+  },
+  {
+    "id": "charles-ii",
+    "name": "Charles II",
+    "reign": "1660–1685",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-ii.jpg"
+  },
+  {
+    "id": "james-ii",
+    "name": "James II",
+    "reign": "1685–1688",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/james-ii.jpg"
+  },
+  {
+    "id": "mary-ii",
+    "name": "Mary II",
+    "reign": "1689–1694",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/mary-ii.jpg"
+  },
+  {
+    "id": "william-iii",
+    "name": "William III",
+    "reign": "1689–1702",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-iii.jpg"
+  },
+  {
+    "id": "anne",
+    "name": "Anne",
+    "reign": "1702–1714",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/anne.jpg"
+  },
+  {
+    "id": "george-i",
+    "name": "George I",
+    "reign": "1714–1727",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-i.jpg"
+  },
+  {
+    "id": "george-ii",
+    "name": "George II",
+    "reign": "1727–1760",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-ii.jpg"
+  },
+  {
+    "id": "george-iii",
+    "name": "George III",
+    "reign": "1760–1820",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-iii.jpg"
+  },
+  {
+    "id": "george-iv",
+    "name": "George IV",
+    "reign": "1820–1830",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-iv.jpg"
+  },
+  {
+    "id": "william-iv",
+    "name": "William IV",
+    "reign": "1830–1837",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-iv.jpg"
+  },
+  {
+    "id": "victoria",
+    "name": "Victoria",
+    "reign": "1837–1901",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/victoria.jpg"
+  },
+  {
+    "id": "edward-vii",
+    "name": "Edward VII",
+    "reign": "1901–1910",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-vii.jpg"
+  },
+  {
+    "id": "george-v",
+    "name": "George V",
+    "reign": "1910–1936",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-v.jpg"
+  },
+  {
+    "id": "edward-viii",
+    "name": "Edward VIII",
+    "reign": "1936",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-viii.jpg"
+  },
+  {
+    "id": "george-vi",
+    "name": "George VI",
+    "reign": "1936–1952",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-vi.jpg"
+  },
+  {
+    "id": "elizabeth-ii",
+    "name": "Elizabeth II",
+    "reign": "1952–2022",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/elizabeth-ii.jpg"
+  },
+  {
+    "id": "charles-iii",
+    "name": "Charles III",
+    "reign": "2022–present",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-iii.jpg"
+  }
+];
 window.QM_UKCOUNTIES_DATA = [
   {
     "id": "cty_36",
@@ -16596,900 +17491,6 @@ window.QM_BIRDS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/scitech/birds/mandarin-duck.jpg"
   }
 ];
-window.QM_FLOWERS_DATA = [
-  {
-    "id": "rose",
-    "name": "Rose",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/rose.jpg",
-    "focalX": 50,
-    "focalY": 12.097217874846674,
-    "zoom": 1
-  },
-  {
-    "id": "tulip",
-    "name": "Tulip",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/tulip.jpg"
-  },
-  {
-    "id": "daffodil",
-    "name": "Daffodil",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/daffodil.jpg",
-    "focalX": 50,
-    "focalY": 29.90547092705016,
-    "zoom": 1
-  },
-  {
-    "id": "sunflower",
-    "name": "Sunflower",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sunflower.jpg",
-    "focalX": 50,
-    "focalY": 36.13974637581235,
-    "zoom": 1
-  },
-  {
-    "id": "orchid",
-    "name": "Orchid",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/orchid.jpg",
-    "focalX": 92.75833158666946,
-    "focalY": 50,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "iris",
-    "name": "Iris",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/iris.jpg",
-    "focalX": 50,
-    "focalY": 11.295883890926946,
-    "zoom": 1
-  },
-  {
-    "id": "peony",
-    "name": "Peony",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/peony.jpg"
-  },
-  {
-    "id": "dahlia",
-    "name": "Dahlia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/dahlia.jpg"
-  },
-  {
-    "id": "hydrangea",
-    "name": "Hydrangea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hydrangea.jpg",
-    "focalX": 50,
-    "focalY": 78.47979464196855,
-    "zoom": 1
-  },
-  {
-    "id": "chrysanthemum",
-    "name": "Chrysanthemum",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/chrysanthemum.webp",
-    "focalX": 50,
-    "focalY": 96.99843611807194,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "poppy",
-    "name": "Poppy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/poppy.jpg"
-  },
-  {
-    "id": "foxglove",
-    "name": "Foxglove",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/foxglove.jpg",
-    "focalX": 50,
-    "focalY": 0,
-    "zoom": 1
-  },
-  {
-    "id": "lavender",
-    "name": "Lavender",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lavender.jpg"
-  },
-  {
-    "id": "hollyhock",
-    "name": "Hollyhock",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hollyhock.jpg"
-  },
-  {
-    "id": "snapdragon",
-    "name": "Snapdragon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/snapdragon.jpg",
-    "focalX": 50,
-    "focalY": 40.62038698621616,
-    "zoom": 1
-  },
-  {
-    "id": "delphinium",
-    "name": "Delphinium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/delphinium.jpg"
-  },
-  {
-    "id": "lupin",
-    "name": "Lupin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lupin.jpg",
-    "focalX": 50,
-    "focalY": 45.85879730418988,
-    "zoom": 1
-  },
-  {
-    "id": "marigold",
-    "name": "Marigold",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/marigold.jpg",
-    "focalX": 50,
-    "focalY": 10.870306166541974,
-    "zoom": 1
-  },
-  {
-    "id": "pansy",
-    "name": "Pansy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/pansy.jpg",
-    "focalX": 0,
-    "focalY": 0,
-    "zoom": 1
-  },
-  {
-    "id": "petunia",
-    "name": "Petunia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/petunia.jpg",
-    "focalX": 50,
-    "focalY": 13.475914827577625,
-    "zoom": 1
-  },
-  {
-    "id": "geranium",
-    "name": "Geranium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/geranium.jpg",
-    "focalX": 50,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "begonia",
-    "name": "Begonia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/begonia.jpg",
-    "focalX": 50,
-    "focalY": 30.85791093376791,
-    "zoom": 1
-  },
-  {
-    "id": "fuchsia",
-    "name": "Fuchsia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/fuchsia.jpg",
-    "focalX": 0,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "camellia",
-    "name": "Camellia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/camellia.jpg"
-  },
-  {
-    "id": "rhododendron",
-    "name": "Rhododendron",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/rhododendron.jpg"
-  },
-  {
-    "id": "coneflower",
-    "name": "Coneflower",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/coneflower.jpg"
-  },
-  {
-    "id": "wisteria",
-    "name": "Wisteria",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/wisteria.jpg"
-  },
-  {
-    "id": "clematis",
-    "name": "Clematis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/clematis.jpg"
-  },
-  {
-    "id": "hibiscus",
-    "name": "Hibiscus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hibiscus.jpg",
-    "focalX": 50,
-    "focalY": 23.27286921604183,
-    "zoom": 1
-  },
-  {
-    "id": "magnolia",
-    "name": "Magnolia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/magnolia.jpg"
-  },
-  {
-    "id": "water-lily",
-    "name": "Water Lily",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/water-lily.jpg"
-  },
-  {
-    "id": "lotus",
-    "name": "Lotus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lotus.jpg",
-    "focalX": 50,
-    "focalY": 70.48696443313551,
-    "zoom": 1
-  },
-  {
-    "id": "bird-of-paradise",
-    "name": "Bird of Paradise",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bird-of-paradise.jpg"
-  },
-  {
-    "id": "anthurium",
-    "name": "Anthurium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/anthurium.jpg"
-  },
-  {
-    "id": "calla-lily",
-    "name": "Calla Lily",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/calla-lily.jpg"
-  },
-  {
-    "id": "amaryllis",
-    "name": "Amaryllis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/amaryllis.jpg",
-    "focalX": 11.869201660156229,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "gladiolus",
-    "name": "Gladiolus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gladiolus.jpg",
-    "focalX": 50,
-    "focalY": 68.78470482016509,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "carnation",
-    "name": "Carnation",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/carnation.jpg"
-  },
-  {
-    "id": "zinnia",
-    "name": "Zinnia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/zinnia.jpg"
-  },
-  {
-    "id": "cosmos",
-    "name": "Cosmos",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cosmos.jpg",
-    "focalX": 50,
-    "focalY": 100,
-    "zoom": 1
-  },
-  {
-    "id": "nasturtium",
-    "name": "Nasturtium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/nasturtium.jpg"
-  },
-  {
-    "id": "sweet-pea",
-    "name": "Sweet Pea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sweet-pea.jpg",
-    "focalX": 50,
-    "focalY": 34.85770992797619,
-    "zoom": 1
-  },
-  {
-    "id": "bluebell",
-    "name": "Bluebell",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bluebell.jpg",
-    "focalX": 50,
-    "focalY": 30.171463133000692,
-    "zoom": 1
-  },
-  {
-    "id": "crocus",
-    "name": "Crocus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/crocus.jpg",
-    "focalX": 66.15167162632983,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "hyacinth",
-    "name": "Hyacinth",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/hyacinth.jpg",
-    "focalX": 50,
-    "focalY": 33.47709665480693,
-    "zoom": 1
-  },
-  {
-    "id": "anemone",
-    "name": "Anemone",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/anemone.jpg",
-    "focalX": 1.3560863541777832,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "ranunculus",
-    "name": "Ranunculus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/ranunculus.webp",
-    "focalX": 100,
-    "focalY": 50.76294296288808,
-    "zoom": 1.05,
-    "brightness": 1.11,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 0.84
-  },
-  {
-    "id": "gardenia",
-    "name": "Gardenia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gardenia.jpg"
-  },
-  {
-    "id": "bougainvillea",
-    "name": "Bougainvillea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bougainvillea.jpg",
-    "focalX": 27.485551063640205,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "lilac",
-    "name": "Lilac",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/lilac.jpg"
-  },
-  {
-    "id": "agapanthus",
-    "name": "Agapanthus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/agapanthus.jpg"
-  },
-  {
-    "id": "allium",
-    "name": "Allium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/allium.jpg"
-  },
-  {
-    "id": "alstroemeria",
-    "name": "Alstroemeria",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/alstroemeria.jpg"
-  },
-  {
-    "id": "red-hot-poker",
-    "name": "Red Hot Poker",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/red-hot-poker.jpg",
-    "focalX": 0,
-    "focalY": 39.45922746781115,
-    "zoom": 1.2
-  },
-  {
-    "id": "astilbe",
-    "name": "Astilbe",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/astilbe.jpg",
-    "focalX": 50,
-    "focalY": 96.85171283956308,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
-    "id": "canna-lily",
-    "name": "Canna Lily",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/canna-lily.jpg",
-    "focalX": 50,
-    "focalY": 24.98070519874973,
-    "zoom": 1
-  },
-  {
-    "id": "columbine",
-    "name": "Columbine",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/columbine.jpg",
-    "focalX": 3.1098859063510296,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "bleeding-heart",
-    "name": "Bleeding Heart",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bleeding-heart.jpg"
-  },
-  {
-    "id": "sweet-william",
-    "name": "Sweet William",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/sweet-william.jpg"
-  },
-  {
-    "id": "love-in-a-mist",
-    "name": "Love-in-a-Mist",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/love-in-a-mist.jpg"
-  },
-  {
-    "id": "scabiosa",
-    "name": "Scabiosa",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/scabiosa.jpg"
-  },
-  {
-    "id": "cornflower",
-    "name": "Cornflower",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cornflower.jpg"
-  },
-  {
-    "id": "bee-balm",
-    "name": "Bee Balm",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/bee-balm.jpg",
-    "focalX": 50,
-    "focalY": 31.33414065610072,
-    "zoom": 1
-  },
-  {
-    "id": "aster",
-    "name": "Aster",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/aster.jpg"
-  },
-  {
-    "id": "gerbera",
-    "name": "Gerbera",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/gerbera.jpg",
-    "focalX": 50,
-    "focalY": 10.911609299328267,
-    "zoom": 1
-  },
-  {
-    "id": "black-eyed-susan",
-    "name": "Black-eyed Susan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/black-eyed-susan.jpg"
-  },
-  {
-    "id": "primrose",
-    "name": "Primrose",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/primrose.jpg",
-    "focalX": 28.69165039062499,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
-    "id": "cyclamen",
-    "name": "Cyclamen",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/cyclamen.jpg",
-    "focalX": 50,
-    "focalY": 34.66767096063893,
-    "zoom": 1
-  },
-  {
-    "id": "freesia",
-    "name": "Freesia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/freesia.jpg"
-  },
-  {
-    "id": "salvia",
-    "name": "Salvia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/salvia.jpg"
-  },
-  {
-    "id": "verbena",
-    "name": "Verbena",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/verbena.jpg"
-  },
-  {
-    "id": "protea",
-    "name": "Protea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/protea.jpg",
-    "focalX": 50,
-    "focalY": 100,
-    "zoom": 1
-  },
-  {
-    "id": "frangipani",
-    "name": "Frangipani",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/frangipani.jpg"
-  },
-  {
-    "id": "passionflower",
-    "name": "Passionflower",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/passionflower.jpg",
-    "focalX": 50,
-    "focalY": 45.215261430422125,
-    "zoom": 1
-  },
-  {
-    "id": "morning-glory",
-    "name": "Morning Glory",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/flowers/morning-glory.jpg",
-    "focalX": 100,
-    "focalY": 50,
-    "zoom": 1
-  }
-];
-window.QM_MONARCHS_DATA = [
-  {
-    "id": "egbert",
-    "name": "Egbert",
-    "reign": "802–839",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/egbert.jpg"
-  },
-  {
-    "id": "aethelwulf",
-    "name": "Æthelwulf",
-    "reign": "839–858",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelwulf.jpg"
-  },
-  {
-    "id": "aethelbald",
-    "name": "Æthelbald",
-    "reign": "858–860",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelbald.jpg"
-  },
-  {
-    "id": "aethelberht",
-    "name": "Æthelberht",
-    "reign": "860–865",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelberht.jpg"
-  },
-  {
-    "id": "aethelred-i",
-    "name": "Æthelred I",
-    "reign": "865–871",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelred-i.jpg"
-  },
-  {
-    "id": "alfred-the-great",
-    "name": "Alfred the Great",
-    "reign": "871–899",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/alfred-the-great.jpg"
-  },
-  {
-    "id": "edward-the-elder",
-    "name": "Edward the Elder",
-    "reign": "899–924",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-elder.jpg"
-  },
-  {
-    "id": "aethelstan",
-    "name": "Æthelstan",
-    "reign": "924–939",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelstan.jpg"
-  },
-  {
-    "id": "edmund-i",
-    "name": "Edmund I",
-    "reign": "939–946",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edmund-i.jpg"
-  },
-  {
-    "id": "eadred",
-    "name": "Eadred",
-    "reign": "946–955",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/eadred.jpg"
-  },
-  {
-    "id": "eadwig",
-    "name": "Eadwig",
-    "reign": "955–959",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/eadwig.jpg"
-  },
-  {
-    "id": "edgar-the-peaceful",
-    "name": "Edgar the Peaceful",
-    "reign": "959–975",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edgar-the-peaceful.jpg"
-  },
-  {
-    "id": "edward-the-martyr",
-    "name": "Edward the Martyr",
-    "reign": "975–978",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-martyr.jpg"
-  },
-  {
-    "id": "aethelred-unready",
-    "name": "Æthelred the Unready",
-    "reign": "978–1016",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/aethelred-unready.jpg"
-  },
-  {
-    "id": "sweyn-forkbeard",
-    "name": "Sweyn Forkbeard",
-    "reign": "1013–1014",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/sweyn-forkbeard.jpg"
-  },
-  {
-    "id": "edmund-ironside",
-    "name": "Edmund Ironside",
-    "reign": "1016",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edmund-ironside.jpg"
-  },
-  {
-    "id": "cnut-the-great",
-    "name": "Cnut the Great",
-    "reign": "1016–1035",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/cnut-the-great.jpg"
-  },
-  {
-    "id": "harold-harefoot",
-    "name": "Harold Harefoot",
-    "reign": "1035–1040",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harold-harefoot.jpg"
-  },
-  {
-    "id": "harthacnut",
-    "name": "Harthacnut",
-    "reign": "1040–1042",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harthacnut.jpg"
-  },
-  {
-    "id": "edward-the-confessor",
-    "name": "Edward the Confessor",
-    "reign": "1042–1066",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-the-confessor.jpg"
-  },
-  {
-    "id": "harold-ii",
-    "name": "Harold II",
-    "reign": "1066",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/harold-ii.jpg"
-  },
-  {
-    "id": "william-the-conqueror",
-    "name": "William the Conqueror",
-    "reign": "1066–1087",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-the-conqueror.jpg"
-  },
-  {
-    "id": "william-ii",
-    "name": "William II",
-    "reign": "1087–1100",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-ii.jpg"
-  },
-  {
-    "id": "henry-i",
-    "name": "Henry I",
-    "reign": "1100–1135",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-i.jpg"
-  },
-  {
-    "id": "stephen",
-    "name": "Stephen",
-    "reign": "1135–1154",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/stephen.jpg"
-  },
-  {
-    "id": "henry-ii",
-    "name": "Henry II",
-    "reign": "1154–1189",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-ii.jpg"
-  },
-  {
-    "id": "richard-the-lionheart",
-    "name": "Richard the Lionheart",
-    "reign": "1189–1199",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-the-lionheart.jpg"
-  },
-  {
-    "id": "john",
-    "name": "John",
-    "reign": "1199–1216",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/john.jpg"
-  },
-  {
-    "id": "henry-iii",
-    "name": "Henry III",
-    "reign": "1216–1272",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-iii.jpg"
-  },
-  {
-    "id": "edward-i",
-    "name": "Edward I",
-    "reign": "1272–1307",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-i.jpg"
-  },
-  {
-    "id": "edward-ii",
-    "name": "Edward II",
-    "reign": "1307–1327",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-ii.jpg"
-  },
-  {
-    "id": "edward-iii",
-    "name": "Edward III",
-    "reign": "1327–1377",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-iii.jpg"
-  },
-  {
-    "id": "richard-ii",
-    "name": "Richard II",
-    "reign": "1377–1399",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-ii.jpg"
-  },
-  {
-    "id": "henry-iv",
-    "name": "Henry IV",
-    "reign": "1399–1413",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-iv.jpg"
-  },
-  {
-    "id": "henry-v",
-    "name": "Henry V",
-    "reign": "1413–1422",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-v.jpg"
-  },
-  {
-    "id": "henry-vi",
-    "name": "Henry VI",
-    "reign": "1422–1461, 1470–1471",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-vi.jpg"
-  },
-  {
-    "id": "edward-iv",
-    "name": "Edward IV",
-    "reign": "1461–1470, 1471–1483",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-iv.jpg"
-  },
-  {
-    "id": "edward-v",
-    "name": "Edward V",
-    "reign": "1483",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-v.jpg"
-  },
-  {
-    "id": "richard-iii",
-    "name": "Richard III",
-    "reign": "1483–1485",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/richard-iii.jpg"
-  },
-  {
-    "id": "henry-vii",
-    "name": "Henry VII",
-    "reign": "1485–1509",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-vii.jpg"
-  },
-  {
-    "id": "henry-viii",
-    "name": "Henry VIII",
-    "reign": "1509–1547",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/henry-viii.jpg"
-  },
-  {
-    "id": "edward-vi",
-    "name": "Edward VI",
-    "reign": "1547–1553",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-vi.jpg"
-  },
-  {
-    "id": "mary-i",
-    "name": "Mary I",
-    "reign": "1553–1558",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/mary-i.jpg"
-  },
-  {
-    "id": "elizabeth-i",
-    "name": "Elizabeth I",
-    "reign": "1558–1603",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/elizabeth-i.jpg"
-  },
-  {
-    "id": "james-i",
-    "name": "James I",
-    "reign": "1603–1625",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/james-i.jpg"
-  },
-  {
-    "id": "charles-i",
-    "name": "Charles I",
-    "reign": "1625–1649",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-i.jpg"
-  },
-  {
-    "id": "charles-ii",
-    "name": "Charles II",
-    "reign": "1660–1685",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-ii.jpg"
-  },
-  {
-    "id": "james-ii",
-    "name": "James II",
-    "reign": "1685–1688",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/james-ii.jpg"
-  },
-  {
-    "id": "mary-ii",
-    "name": "Mary II",
-    "reign": "1689–1694",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/mary-ii.jpg"
-  },
-  {
-    "id": "william-iii",
-    "name": "William III",
-    "reign": "1689–1702",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-iii.jpg"
-  },
-  {
-    "id": "anne",
-    "name": "Anne",
-    "reign": "1702–1714",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/anne.jpg"
-  },
-  {
-    "id": "george-i",
-    "name": "George I",
-    "reign": "1714–1727",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-i.jpg"
-  },
-  {
-    "id": "george-ii",
-    "name": "George II",
-    "reign": "1727–1760",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-ii.jpg"
-  },
-  {
-    "id": "george-iii",
-    "name": "George III",
-    "reign": "1760–1820",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-iii.jpg"
-  },
-  {
-    "id": "george-iv",
-    "name": "George IV",
-    "reign": "1820–1830",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-iv.jpg"
-  },
-  {
-    "id": "william-iv",
-    "name": "William IV",
-    "reign": "1830–1837",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/william-iv.jpg"
-  },
-  {
-    "id": "victoria",
-    "name": "Victoria",
-    "reign": "1837–1901",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/victoria.jpg"
-  },
-  {
-    "id": "edward-vii",
-    "name": "Edward VII",
-    "reign": "1901–1910",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-vii.jpg"
-  },
-  {
-    "id": "george-v",
-    "name": "George V",
-    "reign": "1910–1936",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-v.jpg"
-  },
-  {
-    "id": "edward-viii",
-    "name": "Edward VIII",
-    "reign": "1936",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/edward-viii.jpg"
-  },
-  {
-    "id": "george-vi",
-    "name": "George VI",
-    "reign": "1936–1952",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/george-vi.jpg"
-  },
-  {
-    "id": "elizabeth-ii",
-    "name": "Elizabeth II",
-    "reign": "1952–2022",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/elizabeth-ii.jpg"
-  },
-  {
-    "id": "charles-iii",
-    "name": "Charles III",
-    "reign": "2022–present",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/monarchs/charles-iii.jpg"
-  }
-];
 window.QM_ARTWORKS_DATA = [
   {
     "id": "art_mona-lisa",
@@ -19067,5149 +19068,6 @@ window.QM_STARTREK_DATA = [
     "contrast": 1,
     "saturation": 1,
     "gamma": 1
-  }
-];
-window.QM_POKEMON_GEN1_DATA = [
-  {
-    "id": "pkmn_0001",
-    "name": "Bulbasaur",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0001-bulbasaur.png"
-  },
-  {
-    "id": "pkmn_0002",
-    "name": "Ivysaur",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0002-ivysaur.png"
-  },
-  {
-    "id": "pkmn_0003",
-    "name": "Venusaur",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0003-venusaur.png"
-  },
-  {
-    "id": "pkmn_0004",
-    "name": "Charmander",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0004-charmander.png"
-  },
-  {
-    "id": "pkmn_0005",
-    "name": "Charmeleon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0005-charmeleon.png"
-  },
-  {
-    "id": "pkmn_0006",
-    "name": "Charizard",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0006-charizard.png"
-  },
-  {
-    "id": "pkmn_0007",
-    "name": "Squirtle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0007-squirtle.png"
-  },
-  {
-    "id": "pkmn_0008",
-    "name": "Wartortle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0008-wartortle.png"
-  },
-  {
-    "id": "pkmn_0009",
-    "name": "Blastoise",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0009-blastoise.png"
-  },
-  {
-    "id": "pkmn_0010",
-    "name": "Caterpie",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0010-caterpie.png"
-  },
-  {
-    "id": "pkmn_0011",
-    "name": "Metapod",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0011-metapod.png"
-  },
-  {
-    "id": "pkmn_0012",
-    "name": "Butterfree",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0012-butterfree.png"
-  },
-  {
-    "id": "pkmn_0013",
-    "name": "Weedle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0013-weedle.png"
-  },
-  {
-    "id": "pkmn_0014",
-    "name": "Kakuna",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0014-kakuna.png"
-  },
-  {
-    "id": "pkmn_0015",
-    "name": "Beedrill",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0015-beedrill.png"
-  },
-  {
-    "id": "pkmn_0016",
-    "name": "Pidgey",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0016-pidgey.png"
-  },
-  {
-    "id": "pkmn_0017",
-    "name": "Pidgeotto",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0017-pidgeotto.png"
-  },
-  {
-    "id": "pkmn_0018",
-    "name": "Pidgeot",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0018-pidgeot.png"
-  },
-  {
-    "id": "pkmn_0019",
-    "name": "Rattata",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0019-rattata.png"
-  },
-  {
-    "id": "pkmn_0020",
-    "name": "Raticate",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0020-raticate.png"
-  },
-  {
-    "id": "pkmn_0021",
-    "name": "Spearow",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0021-spearow.png"
-  },
-  {
-    "id": "pkmn_0022",
-    "name": "Fearow",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0022-fearow.png"
-  },
-  {
-    "id": "pkmn_0023",
-    "name": "Ekans",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0023-ekans.png"
-  },
-  {
-    "id": "pkmn_0024",
-    "name": "Arbok",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0024-arbok.png"
-  },
-  {
-    "id": "pkmn_0025",
-    "name": "Pikachu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0025-pikachu.png"
-  },
-  {
-    "id": "pkmn_0026",
-    "name": "Raichu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0026-raichu.png"
-  },
-  {
-    "id": "pkmn_0027",
-    "name": "Sandshrew",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0027-sandshrew.png"
-  },
-  {
-    "id": "pkmn_0028",
-    "name": "Sandslash",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0028-sandslash.png"
-  },
-  {
-    "id": "pkmn_0029",
-    "name": "Nidoran♀",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0029-nidoran-f.png"
-  },
-  {
-    "id": "pkmn_0030",
-    "name": "Nidorina",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0030-nidorina.png"
-  },
-  {
-    "id": "pkmn_0031",
-    "name": "Nidoqueen",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0031-nidoqueen.png"
-  },
-  {
-    "id": "pkmn_0032",
-    "name": "Nidoran♂",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0032-nidoran-m.png"
-  },
-  {
-    "id": "pkmn_0033",
-    "name": "Nidorino",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0033-nidorino.png"
-  },
-  {
-    "id": "pkmn_0034",
-    "name": "Nidoking",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0034-nidoking.png"
-  },
-  {
-    "id": "pkmn_0035",
-    "name": "Clefairy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0035-clefairy.png"
-  },
-  {
-    "id": "pkmn_0036",
-    "name": "Clefable",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0036-clefable.png"
-  },
-  {
-    "id": "pkmn_0037",
-    "name": "Vulpix",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0037-vulpix.png"
-  },
-  {
-    "id": "pkmn_0038",
-    "name": "Ninetales",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0038-ninetales.png"
-  },
-  {
-    "id": "pkmn_0039",
-    "name": "Jigglypuff",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0039-jigglypuff.png"
-  },
-  {
-    "id": "pkmn_0040",
-    "name": "Wigglytuff",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0040-wigglytuff.png"
-  },
-  {
-    "id": "pkmn_0041",
-    "name": "Zubat",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0041-zubat.png"
-  },
-  {
-    "id": "pkmn_0042",
-    "name": "Golbat",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0042-golbat.png"
-  },
-  {
-    "id": "pkmn_0043",
-    "name": "Oddish",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0043-oddish.png"
-  },
-  {
-    "id": "pkmn_0044",
-    "name": "Gloom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0044-gloom.png"
-  },
-  {
-    "id": "pkmn_0045",
-    "name": "Vileplume",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0045-vileplume.png"
-  },
-  {
-    "id": "pkmn_0046",
-    "name": "Paras",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0046-paras.png"
-  },
-  {
-    "id": "pkmn_0047",
-    "name": "Parasect",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0047-parasect.png"
-  },
-  {
-    "id": "pkmn_0048",
-    "name": "Venonat",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0048-venonat.png"
-  },
-  {
-    "id": "pkmn_0049",
-    "name": "Venomoth",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0049-venomoth.png"
-  },
-  {
-    "id": "pkmn_0050",
-    "name": "Diglett",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0050-diglett.png"
-  },
-  {
-    "id": "pkmn_0051",
-    "name": "Dugtrio",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0051-dugtrio.png"
-  },
-  {
-    "id": "pkmn_0052",
-    "name": "Meowth",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0052-meowth.png"
-  },
-  {
-    "id": "pkmn_0053",
-    "name": "Persian",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0053-persian.png"
-  },
-  {
-    "id": "pkmn_0054",
-    "name": "Psyduck",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0054-psyduck.png"
-  },
-  {
-    "id": "pkmn_0055",
-    "name": "Golduck",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0055-golduck.png"
-  },
-  {
-    "id": "pkmn_0056",
-    "name": "Mankey",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0056-mankey.png"
-  },
-  {
-    "id": "pkmn_0057",
-    "name": "Primeape",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0057-primeape.png"
-  },
-  {
-    "id": "pkmn_0058",
-    "name": "Growlithe",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0058-growlithe.png"
-  },
-  {
-    "id": "pkmn_0059",
-    "name": "Arcanine",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0059-arcanine.png"
-  },
-  {
-    "id": "pkmn_0060",
-    "name": "Poliwag",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0060-poliwag.png"
-  },
-  {
-    "id": "pkmn_0061",
-    "name": "Poliwhirl",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0061-poliwhirl.png"
-  },
-  {
-    "id": "pkmn_0062",
-    "name": "Poliwrath",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0062-poliwrath.png"
-  },
-  {
-    "id": "pkmn_0063",
-    "name": "Abra",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0063-abra.png"
-  },
-  {
-    "id": "pkmn_0064",
-    "name": "Kadabra",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0064-kadabra.png"
-  },
-  {
-    "id": "pkmn_0065",
-    "name": "Alakazam",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0065-alakazam.png"
-  },
-  {
-    "id": "pkmn_0066",
-    "name": "Machop",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0066-machop.png"
-  },
-  {
-    "id": "pkmn_0067",
-    "name": "Machoke",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0067-machoke.png"
-  },
-  {
-    "id": "pkmn_0068",
-    "name": "Machamp",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0068-machamp.png"
-  },
-  {
-    "id": "pkmn_0069",
-    "name": "Bellsprout",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0069-bellsprout.png"
-  },
-  {
-    "id": "pkmn_0070",
-    "name": "Weepinbell",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0070-weepinbell.png"
-  },
-  {
-    "id": "pkmn_0071",
-    "name": "Victreebel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0071-victreebel.png"
-  },
-  {
-    "id": "pkmn_0072",
-    "name": "Tentacool",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0072-tentacool.png"
-  },
-  {
-    "id": "pkmn_0073",
-    "name": "Tentacruel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0073-tentacruel.png"
-  },
-  {
-    "id": "pkmn_0074",
-    "name": "Geodude",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0074-geodude.png"
-  },
-  {
-    "id": "pkmn_0075",
-    "name": "Graveler",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0075-graveler.png"
-  },
-  {
-    "id": "pkmn_0076",
-    "name": "Golem",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0076-golem.png"
-  },
-  {
-    "id": "pkmn_0077",
-    "name": "Ponyta",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0077-ponyta.png"
-  },
-  {
-    "id": "pkmn_0078",
-    "name": "Rapidash",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0078-rapidash.png"
-  },
-  {
-    "id": "pkmn_0079",
-    "name": "Slowpoke",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0079-slowpoke.png"
-  },
-  {
-    "id": "pkmn_0080",
-    "name": "Slowbro",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0080-slowbro.png"
-  },
-  {
-    "id": "pkmn_0081",
-    "name": "Magnemite",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0081-magnemite.png"
-  },
-  {
-    "id": "pkmn_0082",
-    "name": "Magneton",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0082-magneton.png"
-  },
-  {
-    "id": "pkmn_0083",
-    "name": "Farfetch'd",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0083-farfetchd.png"
-  },
-  {
-    "id": "pkmn_0084",
-    "name": "Doduo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0084-doduo.png"
-  },
-  {
-    "id": "pkmn_0085",
-    "name": "Dodrio",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0085-dodrio.png"
-  },
-  {
-    "id": "pkmn_0086",
-    "name": "Seel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0086-seel.png"
-  },
-  {
-    "id": "pkmn_0087",
-    "name": "Dewgong",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0087-dewgong.png"
-  },
-  {
-    "id": "pkmn_0088",
-    "name": "Grimer",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0088-grimer.png"
-  },
-  {
-    "id": "pkmn_0089",
-    "name": "Muk",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0089-muk.png"
-  },
-  {
-    "id": "pkmn_0090",
-    "name": "Shellder",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0090-shellder.png"
-  },
-  {
-    "id": "pkmn_0091",
-    "name": "Cloyster",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0091-cloyster.png"
-  },
-  {
-    "id": "pkmn_0092",
-    "name": "Gastly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0092-gastly.png"
-  },
-  {
-    "id": "pkmn_0093",
-    "name": "Haunter",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0093-haunter.png"
-  },
-  {
-    "id": "pkmn_0094",
-    "name": "Gengar",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0094-gengar.png"
-  },
-  {
-    "id": "pkmn_0095",
-    "name": "Onix",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0095-onix.png"
-  },
-  {
-    "id": "pkmn_0096",
-    "name": "Drowzee",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0096-drowzee.png"
-  },
-  {
-    "id": "pkmn_0097",
-    "name": "Hypno",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0097-hypno.png"
-  },
-  {
-    "id": "pkmn_0098",
-    "name": "Krabby",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0098-krabby.png"
-  },
-  {
-    "id": "pkmn_0099",
-    "name": "Kingler",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0099-kingler.png"
-  },
-  {
-    "id": "pkmn_0100",
-    "name": "Voltorb",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0100-voltorb.png"
-  },
-  {
-    "id": "pkmn_0101",
-    "name": "Electrode",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0101-electrode.png"
-  },
-  {
-    "id": "pkmn_0102",
-    "name": "Exeggcute",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0102-exeggcute.png"
-  },
-  {
-    "id": "pkmn_0103",
-    "name": "Exeggutor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0103-exeggutor.png"
-  },
-  {
-    "id": "pkmn_0104",
-    "name": "Cubone",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0104-cubone.png"
-  },
-  {
-    "id": "pkmn_0105",
-    "name": "Marowak",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0105-marowak.png"
-  },
-  {
-    "id": "pkmn_0106",
-    "name": "Hitmonlee",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0106-hitmonlee.png"
-  },
-  {
-    "id": "pkmn_0107",
-    "name": "Hitmonchan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0107-hitmonchan.png"
-  },
-  {
-    "id": "pkmn_0108",
-    "name": "Lickitung",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0108-lickitung.png"
-  },
-  {
-    "id": "pkmn_0109",
-    "name": "Koffing",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0109-koffing.png"
-  },
-  {
-    "id": "pkmn_0110",
-    "name": "Weezing",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0110-weezing.png"
-  },
-  {
-    "id": "pkmn_0111",
-    "name": "Rhyhorn",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0111-rhyhorn.png"
-  },
-  {
-    "id": "pkmn_0112",
-    "name": "Rhydon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0112-rhydon.png"
-  },
-  {
-    "id": "pkmn_0113",
-    "name": "Chansey",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0113-chansey.png"
-  },
-  {
-    "id": "pkmn_0114",
-    "name": "Tangela",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0114-tangela.png"
-  },
-  {
-    "id": "pkmn_0115",
-    "name": "Kangaskhan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0115-kangaskhan.png"
-  },
-  {
-    "id": "pkmn_0116",
-    "name": "Horsea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0116-horsea.png"
-  },
-  {
-    "id": "pkmn_0117",
-    "name": "Seadra",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0117-seadra.png"
-  },
-  {
-    "id": "pkmn_0118",
-    "name": "Goldeen",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0118-goldeen.png"
-  },
-  {
-    "id": "pkmn_0119",
-    "name": "Seaking",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0119-seaking.png"
-  },
-  {
-    "id": "pkmn_0120",
-    "name": "Staryu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0120-staryu.png"
-  },
-  {
-    "id": "pkmn_0121",
-    "name": "Starmie",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0121-starmie.png"
-  },
-  {
-    "id": "pkmn_0122",
-    "name": "Mr. Mime",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0122-mr-mime.png"
-  },
-  {
-    "id": "pkmn_0123",
-    "name": "Scyther",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0123-scyther.png"
-  },
-  {
-    "id": "pkmn_0124",
-    "name": "Jynx",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0124-jynx.png"
-  },
-  {
-    "id": "pkmn_0125",
-    "name": "Electabuzz",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0125-electabuzz.png"
-  },
-  {
-    "id": "pkmn_0126",
-    "name": "Magmar",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0126-magmar.png"
-  },
-  {
-    "id": "pkmn_0127",
-    "name": "Pinsir",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0127-pinsir.png"
-  },
-  {
-    "id": "pkmn_0128",
-    "name": "Tauros",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0128-tauros.png"
-  },
-  {
-    "id": "pkmn_0129",
-    "name": "Magikarp",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0129-magikarp.png"
-  },
-  {
-    "id": "pkmn_0130",
-    "name": "Gyarados",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0130-gyarados.png"
-  },
-  {
-    "id": "pkmn_0131",
-    "name": "Lapras",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0131-lapras.png"
-  },
-  {
-    "id": "pkmn_0132",
-    "name": "Ditto",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0132-ditto.png"
-  },
-  {
-    "id": "pkmn_0133",
-    "name": "Eevee",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0133-eevee.png"
-  },
-  {
-    "id": "pkmn_0134",
-    "name": "Vaporeon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0134-vaporeon.png"
-  },
-  {
-    "id": "pkmn_0135",
-    "name": "Jolteon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0135-jolteon.png"
-  },
-  {
-    "id": "pkmn_0136",
-    "name": "Flareon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0136-flareon.png"
-  },
-  {
-    "id": "pkmn_0137",
-    "name": "Porygon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0137-porygon.png"
-  },
-  {
-    "id": "pkmn_0138",
-    "name": "Omanyte",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0138-omanyte.png"
-  },
-  {
-    "id": "pkmn_0139",
-    "name": "Omastar",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0139-omastar.png"
-  },
-  {
-    "id": "pkmn_0140",
-    "name": "Kabuto",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0140-kabuto.png"
-  },
-  {
-    "id": "pkmn_0141",
-    "name": "Kabutops",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0141-kabutops.png"
-  },
-  {
-    "id": "pkmn_0142",
-    "name": "Aerodactyl",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0142-aerodactyl.png"
-  },
-  {
-    "id": "pkmn_0143",
-    "name": "Snorlax",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0143-snorlax.png"
-  },
-  {
-    "id": "pkmn_0144",
-    "name": "Articuno",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0144-articuno.png"
-  },
-  {
-    "id": "pkmn_0145",
-    "name": "Zapdos",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0145-zapdos.png"
-  },
-  {
-    "id": "pkmn_0146",
-    "name": "Moltres",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0146-moltres.png"
-  },
-  {
-    "id": "pkmn_0147",
-    "name": "Dratini",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0147-dratini.png"
-  },
-  {
-    "id": "pkmn_0148",
-    "name": "Dragonair",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0148-dragonair.png"
-  },
-  {
-    "id": "pkmn_0149",
-    "name": "Dragonite",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0149-dragonite.png"
-  },
-  {
-    "id": "pkmn_0150",
-    "name": "Mewtwo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0150-mewtwo.png"
-  },
-  {
-    "id": "pkmn_0151",
-    "name": "Mew",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0151-mew.png"
-  }
-];
-window.QM_POKEMON_GEN2_DATA = [
-  {
-    "id": "pkmn_0152",
-    "name": "Chikorita",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0152-chikorita.png"
-  },
-  {
-    "id": "pkmn_0153",
-    "name": "Bayleef",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0153-bayleef.png"
-  },
-  {
-    "id": "pkmn_0154",
-    "name": "Meganium",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0154-meganium.png"
-  },
-  {
-    "id": "pkmn_0155",
-    "name": "Cyndaquil",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0155-cyndaquil.png"
-  },
-  {
-    "id": "pkmn_0156",
-    "name": "Quilava",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0156-quilava.png"
-  },
-  {
-    "id": "pkmn_0157",
-    "name": "Typhlosion",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0157-typhlosion.png"
-  },
-  {
-    "id": "pkmn_0158",
-    "name": "Totodile",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0158-totodile.png"
-  },
-  {
-    "id": "pkmn_0159",
-    "name": "Croconaw",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0159-croconaw.png"
-  },
-  {
-    "id": "pkmn_0160",
-    "name": "Feraligatr",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0160-feraligatr.png"
-  },
-  {
-    "id": "pkmn_0161",
-    "name": "Sentret",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0161-sentret.png"
-  },
-  {
-    "id": "pkmn_0162",
-    "name": "Furret",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0162-furret.png"
-  },
-  {
-    "id": "pkmn_0163",
-    "name": "Hoothoot",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0163-hoothoot.png"
-  },
-  {
-    "id": "pkmn_0164",
-    "name": "Noctowl",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0164-noctowl.png"
-  },
-  {
-    "id": "pkmn_0165",
-    "name": "Ledyba",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0165-ledyba.png"
-  },
-  {
-    "id": "pkmn_0166",
-    "name": "Ledian",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0166-ledian.png"
-  },
-  {
-    "id": "pkmn_0167",
-    "name": "Spinarak",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0167-spinarak.png"
-  },
-  {
-    "id": "pkmn_0168",
-    "name": "Ariados",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0168-ariados.png"
-  },
-  {
-    "id": "pkmn_0169",
-    "name": "Crobat",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0169-crobat.png"
-  },
-  {
-    "id": "pkmn_0170",
-    "name": "Chinchou",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0170-chinchou.png"
-  },
-  {
-    "id": "pkmn_0171",
-    "name": "Lanturn",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0171-lanturn.png"
-  },
-  {
-    "id": "pkmn_0172",
-    "name": "Pichu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0172-pichu.png"
-  },
-  {
-    "id": "pkmn_0173",
-    "name": "Cleffa",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0173-cleffa.png"
-  },
-  {
-    "id": "pkmn_0174",
-    "name": "Igglybuff",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0174-igglybuff.png"
-  },
-  {
-    "id": "pkmn_0175",
-    "name": "Togepi",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0175-togepi.png"
-  },
-  {
-    "id": "pkmn_0176",
-    "name": "Togetic",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0176-togetic.png"
-  },
-  {
-    "id": "pkmn_0177",
-    "name": "Natu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0177-natu.png"
-  },
-  {
-    "id": "pkmn_0178",
-    "name": "Xatu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0178-xatu.png"
-  },
-  {
-    "id": "pkmn_0179",
-    "name": "Mareep",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0179-mareep.png"
-  },
-  {
-    "id": "pkmn_0180",
-    "name": "Flaaffy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0180-flaaffy.png"
-  },
-  {
-    "id": "pkmn_0181",
-    "name": "Ampharos",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0181-ampharos.png"
-  },
-  {
-    "id": "pkmn_0182",
-    "name": "Bellossom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0182-bellossom.png"
-  },
-  {
-    "id": "pkmn_0183",
-    "name": "Marill",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0183-marill.png"
-  },
-  {
-    "id": "pkmn_0184",
-    "name": "Azumarill",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0184-azumarill.png"
-  },
-  {
-    "id": "pkmn_0185",
-    "name": "Sudowoodo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0185-sudowoodo.png"
-  },
-  {
-    "id": "pkmn_0186",
-    "name": "Politoed",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0186-politoed.png"
-  },
-  {
-    "id": "pkmn_0187",
-    "name": "Hoppip",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0187-hoppip.png"
-  },
-  {
-    "id": "pkmn_0188",
-    "name": "Skiploom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0188-skiploom.png"
-  },
-  {
-    "id": "pkmn_0189",
-    "name": "Jumpluff",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0189-jumpluff.png"
-  },
-  {
-    "id": "pkmn_0190",
-    "name": "Aipom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0190-aipom.png"
-  },
-  {
-    "id": "pkmn_0191",
-    "name": "Sunkern",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0191-sunkern.png"
-  },
-  {
-    "id": "pkmn_0192",
-    "name": "Sunflora",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0192-sunflora.png"
-  },
-  {
-    "id": "pkmn_0193",
-    "name": "Yanma",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0193-yanma.png"
-  },
-  {
-    "id": "pkmn_0194",
-    "name": "Wooper",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0194-wooper.png"
-  },
-  {
-    "id": "pkmn_0195",
-    "name": "Quagsire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0195-quagsire.png"
-  },
-  {
-    "id": "pkmn_0196",
-    "name": "Espeon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0196-espeon.png"
-  },
-  {
-    "id": "pkmn_0197",
-    "name": "Umbreon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0197-umbreon.png"
-  },
-  {
-    "id": "pkmn_0198",
-    "name": "Murkrow",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0198-murkrow.png"
-  },
-  {
-    "id": "pkmn_0199",
-    "name": "Slowking",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0199-slowking.png"
-  },
-  {
-    "id": "pkmn_0200",
-    "name": "Misdreavus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0200-misdreavus.png"
-  },
-  {
-    "id": "pkmn_0201",
-    "name": "Unown",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0201-unown.png"
-  },
-  {
-    "id": "pkmn_0202",
-    "name": "Wobbuffet",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0202-wobbuffet.png"
-  },
-  {
-    "id": "pkmn_0203",
-    "name": "Girafarig",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0203-girafarig.png"
-  },
-  {
-    "id": "pkmn_0204",
-    "name": "Pineco",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0204-pineco.png"
-  },
-  {
-    "id": "pkmn_0205",
-    "name": "Forretress",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0205-forretress.png"
-  },
-  {
-    "id": "pkmn_0206",
-    "name": "Dunsparce",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0206-dunsparce.png"
-  },
-  {
-    "id": "pkmn_0207",
-    "name": "Gligar",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0207-gligar.png"
-  },
-  {
-    "id": "pkmn_0208",
-    "name": "Steelix",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0208-steelix.png"
-  },
-  {
-    "id": "pkmn_0209",
-    "name": "Snubbull",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0209-snubbull.png"
-  },
-  {
-    "id": "pkmn_0210",
-    "name": "Granbull",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0210-granbull.png"
-  },
-  {
-    "id": "pkmn_0211",
-    "name": "Qwilfish",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0211-qwilfish.png"
-  },
-  {
-    "id": "pkmn_0212",
-    "name": "Scizor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0212-scizor.png"
-  },
-  {
-    "id": "pkmn_0213",
-    "name": "Shuckle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0213-shuckle.png"
-  },
-  {
-    "id": "pkmn_0214",
-    "name": "Heracross",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0214-heracross.png"
-  },
-  {
-    "id": "pkmn_0215",
-    "name": "Sneasel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0215-sneasel.png"
-  },
-  {
-    "id": "pkmn_0216",
-    "name": "Teddiursa",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0216-teddiursa.png"
-  },
-  {
-    "id": "pkmn_0217",
-    "name": "Ursaring",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0217-ursaring.png"
-  },
-  {
-    "id": "pkmn_0218",
-    "name": "Slugma",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0218-slugma.png"
-  },
-  {
-    "id": "pkmn_0219",
-    "name": "Magcargo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0219-magcargo.png"
-  },
-  {
-    "id": "pkmn_0220",
-    "name": "Swinub",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0220-swinub.png"
-  },
-  {
-    "id": "pkmn_0221",
-    "name": "Piloswine",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0221-piloswine.png"
-  },
-  {
-    "id": "pkmn_0222",
-    "name": "Corsola",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0222-corsola.png"
-  },
-  {
-    "id": "pkmn_0223",
-    "name": "Remoraid",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0223-remoraid.png"
-  },
-  {
-    "id": "pkmn_0224",
-    "name": "Octillery",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0224-octillery.png"
-  },
-  {
-    "id": "pkmn_0225",
-    "name": "Delibird",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0225-delibird.png"
-  },
-  {
-    "id": "pkmn_0226",
-    "name": "Mantine",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0226-mantine.png"
-  },
-  {
-    "id": "pkmn_0227",
-    "name": "Skarmory",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0227-skarmory.png"
-  },
-  {
-    "id": "pkmn_0228",
-    "name": "Houndour",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0228-houndour.png"
-  },
-  {
-    "id": "pkmn_0229",
-    "name": "Houndoom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0229-houndoom.png"
-  },
-  {
-    "id": "pkmn_0230",
-    "name": "Kingdra",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0230-kingdra.png"
-  },
-  {
-    "id": "pkmn_0231",
-    "name": "Phanpy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0231-phanpy.png"
-  },
-  {
-    "id": "pkmn_0232",
-    "name": "Donphan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0232-donphan.png"
-  },
-  {
-    "id": "pkmn_0233",
-    "name": "Porygon2",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0233-porygon2.png"
-  },
-  {
-    "id": "pkmn_0234",
-    "name": "Stantler",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0234-stantler.png"
-  },
-  {
-    "id": "pkmn_0235",
-    "name": "Smeargle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0235-smeargle.png"
-  },
-  {
-    "id": "pkmn_0236",
-    "name": "Tyrogue",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0236-tyrogue.png"
-  },
-  {
-    "id": "pkmn_0237",
-    "name": "Hitmontop",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0237-hitmontop.png"
-  },
-  {
-    "id": "pkmn_0238",
-    "name": "Smoochum",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0238-smoochum.png"
-  },
-  {
-    "id": "pkmn_0239",
-    "name": "Elekid",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0239-elekid.png"
-  },
-  {
-    "id": "pkmn_0240",
-    "name": "Magby",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0240-magby.png"
-  },
-  {
-    "id": "pkmn_0241",
-    "name": "Miltank",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0241-miltank.png"
-  },
-  {
-    "id": "pkmn_0242",
-    "name": "Blissey",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0242-blissey.png"
-  },
-  {
-    "id": "pkmn_0243",
-    "name": "Raikou",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0243-raikou.png"
-  },
-  {
-    "id": "pkmn_0244",
-    "name": "Entei",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0244-entei.png"
-  },
-  {
-    "id": "pkmn_0245",
-    "name": "Suicune",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0245-suicune.png"
-  },
-  {
-    "id": "pkmn_0246",
-    "name": "Larvitar",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0246-larvitar.png"
-  },
-  {
-    "id": "pkmn_0247",
-    "name": "Pupitar",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0247-pupitar.png"
-  },
-  {
-    "id": "pkmn_0248",
-    "name": "Tyranitar",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0248-tyranitar.png"
-  },
-  {
-    "id": "pkmn_0249",
-    "name": "Lugia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0249-lugia.png"
-  },
-  {
-    "id": "pkmn_0250",
-    "name": "Ho-Oh",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0250-ho-oh.png"
-  },
-  {
-    "id": "pkmn_0251",
-    "name": "Celebi",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0251-celebi.png"
-  }
-];
-window.QM_POKEMON_GEN3_DATA = [
-  {
-    "id": "pkmn_0252",
-    "name": "Treecko",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0252-treecko.png"
-  },
-  {
-    "id": "pkmn_0253",
-    "name": "Grovyle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0253-grovyle.png"
-  },
-  {
-    "id": "pkmn_0254",
-    "name": "Sceptile",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0254-sceptile.png"
-  },
-  {
-    "id": "pkmn_0255",
-    "name": "Torchic",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0255-torchic.png"
-  },
-  {
-    "id": "pkmn_0256",
-    "name": "Combusken",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0256-combusken.png"
-  },
-  {
-    "id": "pkmn_0257",
-    "name": "Blaziken",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0257-blaziken.png"
-  },
-  {
-    "id": "pkmn_0258",
-    "name": "Mudkip",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0258-mudkip.png"
-  },
-  {
-    "id": "pkmn_0259",
-    "name": "Marshtomp",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0259-marshtomp.png"
-  },
-  {
-    "id": "pkmn_0260",
-    "name": "Swampert",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0260-swampert.png"
-  },
-  {
-    "id": "pkmn_0261",
-    "name": "Poochyena",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0261-poochyena.png"
-  },
-  {
-    "id": "pkmn_0262",
-    "name": "Mightyena",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0262-mightyena.png"
-  },
-  {
-    "id": "pkmn_0263",
-    "name": "Zigzagoon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0263-zigzagoon.png"
-  },
-  {
-    "id": "pkmn_0264",
-    "name": "Linoone",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0264-linoone.png"
-  },
-  {
-    "id": "pkmn_0265",
-    "name": "Wurmple",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0265-wurmple.png"
-  },
-  {
-    "id": "pkmn_0266",
-    "name": "Silcoon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0266-silcoon.png"
-  },
-  {
-    "id": "pkmn_0267",
-    "name": "Beautifly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0267-beautifly.png"
-  },
-  {
-    "id": "pkmn_0268",
-    "name": "Cascoon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0268-cascoon.png"
-  },
-  {
-    "id": "pkmn_0269",
-    "name": "Dustox",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0269-dustox.png"
-  },
-  {
-    "id": "pkmn_0270",
-    "name": "Lotad",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0270-lotad.png"
-  },
-  {
-    "id": "pkmn_0271",
-    "name": "Lombre",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0271-lombre.png"
-  },
-  {
-    "id": "pkmn_0272",
-    "name": "Ludicolo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0272-ludicolo.png"
-  },
-  {
-    "id": "pkmn_0273",
-    "name": "Seedot",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0273-seedot.png"
-  },
-  {
-    "id": "pkmn_0274",
-    "name": "Nuzleaf",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0274-nuzleaf.png"
-  },
-  {
-    "id": "pkmn_0275",
-    "name": "Shiftry",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0275-shiftry.png"
-  },
-  {
-    "id": "pkmn_0276",
-    "name": "Taillow",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0276-taillow.png"
-  },
-  {
-    "id": "pkmn_0277",
-    "name": "Swellow",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0277-swellow.png"
-  },
-  {
-    "id": "pkmn_0278",
-    "name": "Wingull",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0278-wingull.png"
-  },
-  {
-    "id": "pkmn_0279",
-    "name": "Pelipper",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0279-pelipper.png"
-  },
-  {
-    "id": "pkmn_0280",
-    "name": "Ralts",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0280-ralts.png"
-  },
-  {
-    "id": "pkmn_0281",
-    "name": "Kirlia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0281-kirlia.png"
-  },
-  {
-    "id": "pkmn_0282",
-    "name": "Gardevoir",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0282-gardevoir.png"
-  },
-  {
-    "id": "pkmn_0283",
-    "name": "Surskit",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0283-surskit.png"
-  },
-  {
-    "id": "pkmn_0284",
-    "name": "Masquerain",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0284-masquerain.png"
-  },
-  {
-    "id": "pkmn_0285",
-    "name": "Shroomish",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0285-shroomish.png"
-  },
-  {
-    "id": "pkmn_0286",
-    "name": "Breloom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0286-breloom.png"
-  },
-  {
-    "id": "pkmn_0287",
-    "name": "Slakoth",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0287-slakoth.png"
-  },
-  {
-    "id": "pkmn_0288",
-    "name": "Vigoroth",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0288-vigoroth.png"
-  },
-  {
-    "id": "pkmn_0289",
-    "name": "Slaking",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0289-slaking.png"
-  },
-  {
-    "id": "pkmn_0290",
-    "name": "Nincada",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0290-nincada.png"
-  },
-  {
-    "id": "pkmn_0291",
-    "name": "Ninjask",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0291-ninjask.png"
-  },
-  {
-    "id": "pkmn_0292",
-    "name": "Shedinja",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0292-shedinja.png"
-  },
-  {
-    "id": "pkmn_0293",
-    "name": "Whismur",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0293-whismur.png"
-  },
-  {
-    "id": "pkmn_0294",
-    "name": "Loudred",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0294-loudred.png"
-  },
-  {
-    "id": "pkmn_0295",
-    "name": "Exploud",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0295-exploud.png"
-  },
-  {
-    "id": "pkmn_0296",
-    "name": "Makuhita",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0296-makuhita.png"
-  },
-  {
-    "id": "pkmn_0297",
-    "name": "Hariyama",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0297-hariyama.png"
-  },
-  {
-    "id": "pkmn_0298",
-    "name": "Azurill",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0298-azurill.png"
-  },
-  {
-    "id": "pkmn_0299",
-    "name": "Nosepass",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0299-nosepass.png"
-  },
-  {
-    "id": "pkmn_0300",
-    "name": "Skitty",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0300-skitty.png"
-  },
-  {
-    "id": "pkmn_0301",
-    "name": "Delcatty",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0301-delcatty.png"
-  },
-  {
-    "id": "pkmn_0302",
-    "name": "Sableye",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0302-sableye.png"
-  },
-  {
-    "id": "pkmn_0303",
-    "name": "Mawile",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0303-mawile.png"
-  },
-  {
-    "id": "pkmn_0304",
-    "name": "Aron",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0304-aron.png"
-  },
-  {
-    "id": "pkmn_0305",
-    "name": "Lairon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0305-lairon.png"
-  },
-  {
-    "id": "pkmn_0306",
-    "name": "Aggron",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0306-aggron.png"
-  },
-  {
-    "id": "pkmn_0307",
-    "name": "Meditite",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0307-meditite.png"
-  },
-  {
-    "id": "pkmn_0308",
-    "name": "Medicham",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0308-medicham.png"
-  },
-  {
-    "id": "pkmn_0309",
-    "name": "Electrike",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0309-electrike.png"
-  },
-  {
-    "id": "pkmn_0310",
-    "name": "Manectric",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0310-manectric.png"
-  },
-  {
-    "id": "pkmn_0311",
-    "name": "Plusle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0311-plusle.png"
-  },
-  {
-    "id": "pkmn_0312",
-    "name": "Minun",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0312-minun.png"
-  },
-  {
-    "id": "pkmn_0313",
-    "name": "Volbeat",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0313-volbeat.png"
-  },
-  {
-    "id": "pkmn_0314",
-    "name": "Illumise",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0314-illumise.png"
-  },
-  {
-    "id": "pkmn_0315",
-    "name": "Roselia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0315-roselia.png"
-  },
-  {
-    "id": "pkmn_0316",
-    "name": "Gulpin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0316-gulpin.png"
-  },
-  {
-    "id": "pkmn_0317",
-    "name": "Swalot",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0317-swalot.png"
-  },
-  {
-    "id": "pkmn_0318",
-    "name": "Carvanha",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0318-carvanha.png"
-  },
-  {
-    "id": "pkmn_0319",
-    "name": "Sharpedo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0319-sharpedo.png"
-  },
-  {
-    "id": "pkmn_0320",
-    "name": "Wailmer",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0320-wailmer.png"
-  },
-  {
-    "id": "pkmn_0321",
-    "name": "Wailord",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0321-wailord.png"
-  },
-  {
-    "id": "pkmn_0322",
-    "name": "Numel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0322-numel.png"
-  },
-  {
-    "id": "pkmn_0323",
-    "name": "Camerupt",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0323-camerupt.png"
-  },
-  {
-    "id": "pkmn_0324",
-    "name": "Torkoal",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0324-torkoal.png"
-  },
-  {
-    "id": "pkmn_0325",
-    "name": "Spoink",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0325-spoink.png"
-  },
-  {
-    "id": "pkmn_0326",
-    "name": "Grumpig",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0326-grumpig.png"
-  },
-  {
-    "id": "pkmn_0327",
-    "name": "Spinda",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0327-spinda.png"
-  },
-  {
-    "id": "pkmn_0328",
-    "name": "Trapinch",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0328-trapinch.png"
-  },
-  {
-    "id": "pkmn_0329",
-    "name": "Vibrava",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0329-vibrava.png"
-  },
-  {
-    "id": "pkmn_0330",
-    "name": "Flygon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0330-flygon.png"
-  },
-  {
-    "id": "pkmn_0331",
-    "name": "Cacnea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0331-cacnea.png"
-  },
-  {
-    "id": "pkmn_0332",
-    "name": "Cacturne",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0332-cacturne.png"
-  },
-  {
-    "id": "pkmn_0333",
-    "name": "Swablu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0333-swablu.png"
-  },
-  {
-    "id": "pkmn_0334",
-    "name": "Altaria",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0334-altaria.png"
-  },
-  {
-    "id": "pkmn_0335",
-    "name": "Zangoose",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0335-zangoose.png"
-  },
-  {
-    "id": "pkmn_0336",
-    "name": "Seviper",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0336-seviper.png"
-  },
-  {
-    "id": "pkmn_0337",
-    "name": "Lunatone",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0337-lunatone.png"
-  },
-  {
-    "id": "pkmn_0338",
-    "name": "Solrock",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0338-solrock.png"
-  },
-  {
-    "id": "pkmn_0339",
-    "name": "Barboach",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0339-barboach.png"
-  },
-  {
-    "id": "pkmn_0340",
-    "name": "Whiscash",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0340-whiscash.png"
-  },
-  {
-    "id": "pkmn_0341",
-    "name": "Corphish",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0341-corphish.png"
-  },
-  {
-    "id": "pkmn_0342",
-    "name": "Crawdaunt",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0342-crawdaunt.png"
-  },
-  {
-    "id": "pkmn_0343",
-    "name": "Baltoy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0343-baltoy.png"
-  },
-  {
-    "id": "pkmn_0344",
-    "name": "Claydol",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0344-claydol.png"
-  },
-  {
-    "id": "pkmn_0345",
-    "name": "Lileep",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0345-lileep.png"
-  },
-  {
-    "id": "pkmn_0346",
-    "name": "Cradily",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0346-cradily.png"
-  },
-  {
-    "id": "pkmn_0347",
-    "name": "Anorith",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0347-anorith.png"
-  },
-  {
-    "id": "pkmn_0348",
-    "name": "Armaldo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0348-armaldo.png"
-  },
-  {
-    "id": "pkmn_0349",
-    "name": "Feebas",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0349-feebas.png"
-  },
-  {
-    "id": "pkmn_0350",
-    "name": "Milotic",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0350-milotic.png"
-  },
-  {
-    "id": "pkmn_0351",
-    "name": "Castform",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0351-castform.png"
-  },
-  {
-    "id": "pkmn_0352",
-    "name": "Kecleon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0352-kecleon.png"
-  },
-  {
-    "id": "pkmn_0353",
-    "name": "Shuppet",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0353-shuppet.png"
-  },
-  {
-    "id": "pkmn_0354",
-    "name": "Banette",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0354-banette.png"
-  },
-  {
-    "id": "pkmn_0355",
-    "name": "Duskull",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0355-duskull.png"
-  },
-  {
-    "id": "pkmn_0356",
-    "name": "Dusclops",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0356-dusclops.png"
-  },
-  {
-    "id": "pkmn_0357",
-    "name": "Tropius",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0357-tropius.png"
-  },
-  {
-    "id": "pkmn_0358",
-    "name": "Chimecho",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0358-chimecho.png"
-  },
-  {
-    "id": "pkmn_0359",
-    "name": "Absol",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0359-absol.png"
-  },
-  {
-    "id": "pkmn_0360",
-    "name": "Wynaut",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0360-wynaut.png"
-  },
-  {
-    "id": "pkmn_0361",
-    "name": "Snorunt",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0361-snorunt.png"
-  },
-  {
-    "id": "pkmn_0362",
-    "name": "Glalie",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0362-glalie.png"
-  },
-  {
-    "id": "pkmn_0363",
-    "name": "Spheal",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0363-spheal.png"
-  },
-  {
-    "id": "pkmn_0364",
-    "name": "Sealeo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0364-sealeo.png"
-  },
-  {
-    "id": "pkmn_0365",
-    "name": "Walrein",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0365-walrein.png"
-  },
-  {
-    "id": "pkmn_0366",
-    "name": "Clamperl",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0366-clamperl.png"
-  },
-  {
-    "id": "pkmn_0367",
-    "name": "Huntail",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0367-huntail.png"
-  },
-  {
-    "id": "pkmn_0368",
-    "name": "Gorebyss",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0368-gorebyss.png"
-  },
-  {
-    "id": "pkmn_0369",
-    "name": "Relicanth",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0369-relicanth.png"
-  },
-  {
-    "id": "pkmn_0370",
-    "name": "Luvdisc",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0370-luvdisc.png"
-  },
-  {
-    "id": "pkmn_0371",
-    "name": "Bagon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0371-bagon.png"
-  },
-  {
-    "id": "pkmn_0372",
-    "name": "Shelgon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0372-shelgon.png"
-  },
-  {
-    "id": "pkmn_0373",
-    "name": "Salamence",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0373-salamence.png"
-  },
-  {
-    "id": "pkmn_0374",
-    "name": "Beldum",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0374-beldum.png"
-  },
-  {
-    "id": "pkmn_0375",
-    "name": "Metang",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0375-metang.png"
-  },
-  {
-    "id": "pkmn_0376",
-    "name": "Metagross",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0376-metagross.png"
-  },
-  {
-    "id": "pkmn_0377",
-    "name": "Regirock",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0377-regirock.png"
-  },
-  {
-    "id": "pkmn_0378",
-    "name": "Regice",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0378-regice.png"
-  },
-  {
-    "id": "pkmn_0379",
-    "name": "Registeel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0379-registeel.png"
-  },
-  {
-    "id": "pkmn_0380",
-    "name": "Latias",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0380-latias.png"
-  },
-  {
-    "id": "pkmn_0381",
-    "name": "Latios",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0381-latios.png"
-  },
-  {
-    "id": "pkmn_0382",
-    "name": "Kyogre",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0382-kyogre.png"
-  },
-  {
-    "id": "pkmn_0383",
-    "name": "Groudon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0383-groudon.png"
-  },
-  {
-    "id": "pkmn_0384",
-    "name": "Rayquaza",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0384-rayquaza.png"
-  },
-  {
-    "id": "pkmn_0385",
-    "name": "Jirachi",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0385-jirachi.png"
-  },
-  {
-    "id": "pkmn_0386",
-    "name": "Deoxys Normal",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0386-deoxys-normal.png"
-  }
-];
-window.QM_POKEMON_GEN4_DATA = [
-  {
-    "id": "pkmn_0387",
-    "name": "Turtwig",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0387-turtwig.png"
-  },
-  {
-    "id": "pkmn_0388",
-    "name": "Grotle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0388-grotle.png"
-  },
-  {
-    "id": "pkmn_0389",
-    "name": "Torterra",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0389-torterra.png"
-  },
-  {
-    "id": "pkmn_0390",
-    "name": "Chimchar",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0390-chimchar.png"
-  },
-  {
-    "id": "pkmn_0391",
-    "name": "Monferno",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0391-monferno.png"
-  },
-  {
-    "id": "pkmn_0392",
-    "name": "Infernape",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0392-infernape.png"
-  },
-  {
-    "id": "pkmn_0393",
-    "name": "Piplup",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0393-piplup.png"
-  },
-  {
-    "id": "pkmn_0394",
-    "name": "Prinplup",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0394-prinplup.png"
-  },
-  {
-    "id": "pkmn_0395",
-    "name": "Empoleon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0395-empoleon.png"
-  },
-  {
-    "id": "pkmn_0396",
-    "name": "Starly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0396-starly.png"
-  },
-  {
-    "id": "pkmn_0397",
-    "name": "Staravia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0397-staravia.png"
-  },
-  {
-    "id": "pkmn_0398",
-    "name": "Staraptor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0398-staraptor.png"
-  },
-  {
-    "id": "pkmn_0399",
-    "name": "Bidoof",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0399-bidoof.png"
-  },
-  {
-    "id": "pkmn_0400",
-    "name": "Bibarel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0400-bibarel.png"
-  },
-  {
-    "id": "pkmn_0401",
-    "name": "Kricketot",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0401-kricketot.png"
-  },
-  {
-    "id": "pkmn_0402",
-    "name": "Kricketune",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0402-kricketune.png"
-  },
-  {
-    "id": "pkmn_0403",
-    "name": "Shinx",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0403-shinx.png"
-  },
-  {
-    "id": "pkmn_0404",
-    "name": "Luxio",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0404-luxio.png"
-  },
-  {
-    "id": "pkmn_0405",
-    "name": "Luxray",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0405-luxray.png"
-  },
-  {
-    "id": "pkmn_0406",
-    "name": "Budew",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0406-budew.png"
-  },
-  {
-    "id": "pkmn_0407",
-    "name": "Roserade",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0407-roserade.png"
-  },
-  {
-    "id": "pkmn_0408",
-    "name": "Cranidos",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0408-cranidos.png"
-  },
-  {
-    "id": "pkmn_0409",
-    "name": "Rampardos",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0409-rampardos.png"
-  },
-  {
-    "id": "pkmn_0410",
-    "name": "Shieldon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0410-shieldon.png"
-  },
-  {
-    "id": "pkmn_0411",
-    "name": "Bastiodon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0411-bastiodon.png"
-  },
-  {
-    "id": "pkmn_0412",
-    "name": "Burmy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0412-burmy.png"
-  },
-  {
-    "id": "pkmn_0413",
-    "name": "Wormadam Plant",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0413-wormadam-plant.png"
-  },
-  {
-    "id": "pkmn_0414",
-    "name": "Mothim",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0414-mothim.png"
-  },
-  {
-    "id": "pkmn_0415",
-    "name": "Combee",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0415-combee.png"
-  },
-  {
-    "id": "pkmn_0416",
-    "name": "Vespiquen",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0416-vespiquen.png"
-  },
-  {
-    "id": "pkmn_0417",
-    "name": "Pachirisu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0417-pachirisu.png"
-  },
-  {
-    "id": "pkmn_0418",
-    "name": "Buizel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0418-buizel.png"
-  },
-  {
-    "id": "pkmn_0419",
-    "name": "Floatzel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0419-floatzel.png"
-  },
-  {
-    "id": "pkmn_0420",
-    "name": "Cherubi",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0420-cherubi.png"
-  },
-  {
-    "id": "pkmn_0421",
-    "name": "Cherrim",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0421-cherrim.png"
-  },
-  {
-    "id": "pkmn_0422",
-    "name": "Shellos",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0422-shellos.png"
-  },
-  {
-    "id": "pkmn_0423",
-    "name": "Gastrodon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0423-gastrodon.png"
-  },
-  {
-    "id": "pkmn_0424",
-    "name": "Ambipom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0424-ambipom.png"
-  },
-  {
-    "id": "pkmn_0425",
-    "name": "Drifloon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0425-drifloon.png"
-  },
-  {
-    "id": "pkmn_0426",
-    "name": "Drifblim",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0426-drifblim.png"
-  },
-  {
-    "id": "pkmn_0427",
-    "name": "Buneary",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0427-buneary.png"
-  },
-  {
-    "id": "pkmn_0428",
-    "name": "Lopunny",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0428-lopunny.png"
-  },
-  {
-    "id": "pkmn_0429",
-    "name": "Mismagius",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0429-mismagius.png"
-  },
-  {
-    "id": "pkmn_0430",
-    "name": "Honchkrow",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0430-honchkrow.png"
-  },
-  {
-    "id": "pkmn_0431",
-    "name": "Glameow",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0431-glameow.png"
-  },
-  {
-    "id": "pkmn_0432",
-    "name": "Purugly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0432-purugly.png"
-  },
-  {
-    "id": "pkmn_0433",
-    "name": "Chingling",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0433-chingling.png"
-  },
-  {
-    "id": "pkmn_0434",
-    "name": "Stunky",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0434-stunky.png"
-  },
-  {
-    "id": "pkmn_0435",
-    "name": "Skuntank",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0435-skuntank.png"
-  },
-  {
-    "id": "pkmn_0436",
-    "name": "Bronzor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0436-bronzor.png"
-  },
-  {
-    "id": "pkmn_0437",
-    "name": "Bronzong",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0437-bronzong.png"
-  },
-  {
-    "id": "pkmn_0438",
-    "name": "Bonsly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0438-bonsly.png"
-  },
-  {
-    "id": "pkmn_0439",
-    "name": "Mime Jr.",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0439-mime-jr.png"
-  },
-  {
-    "id": "pkmn_0440",
-    "name": "Happiny",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0440-happiny.png"
-  },
-  {
-    "id": "pkmn_0441",
-    "name": "Chatot",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0441-chatot.png"
-  },
-  {
-    "id": "pkmn_0442",
-    "name": "Spiritomb",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0442-spiritomb.png"
-  },
-  {
-    "id": "pkmn_0443",
-    "name": "Gible",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0443-gible.png"
-  },
-  {
-    "id": "pkmn_0444",
-    "name": "Gabite",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0444-gabite.png"
-  },
-  {
-    "id": "pkmn_0445",
-    "name": "Garchomp",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0445-garchomp.png"
-  },
-  {
-    "id": "pkmn_0446",
-    "name": "Munchlax",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0446-munchlax.png"
-  },
-  {
-    "id": "pkmn_0447",
-    "name": "Riolu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0447-riolu.png"
-  },
-  {
-    "id": "pkmn_0448",
-    "name": "Lucario",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0448-lucario.png"
-  },
-  {
-    "id": "pkmn_0449",
-    "name": "Hippopotas",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0449-hippopotas.png"
-  },
-  {
-    "id": "pkmn_0450",
-    "name": "Hippowdon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0450-hippowdon.png"
-  },
-  {
-    "id": "pkmn_0451",
-    "name": "Skorupi",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0451-skorupi.png"
-  },
-  {
-    "id": "pkmn_0452",
-    "name": "Drapion",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0452-drapion.png"
-  },
-  {
-    "id": "pkmn_0453",
-    "name": "Croagunk",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0453-croagunk.png"
-  },
-  {
-    "id": "pkmn_0454",
-    "name": "Toxicroak",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0454-toxicroak.png"
-  },
-  {
-    "id": "pkmn_0455",
-    "name": "Carnivine",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0455-carnivine.png"
-  },
-  {
-    "id": "pkmn_0456",
-    "name": "Finneon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0456-finneon.png"
-  },
-  {
-    "id": "pkmn_0457",
-    "name": "Lumineon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0457-lumineon.png"
-  },
-  {
-    "id": "pkmn_0458",
-    "name": "Mantyke",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0458-mantyke.png"
-  },
-  {
-    "id": "pkmn_0459",
-    "name": "Snover",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0459-snover.png"
-  },
-  {
-    "id": "pkmn_0460",
-    "name": "Abomasnow",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0460-abomasnow.png"
-  },
-  {
-    "id": "pkmn_0461",
-    "name": "Weavile",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0461-weavile.png"
-  },
-  {
-    "id": "pkmn_0462",
-    "name": "Magnezone",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0462-magnezone.png"
-  },
-  {
-    "id": "pkmn_0463",
-    "name": "Lickilicky",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0463-lickilicky.png"
-  },
-  {
-    "id": "pkmn_0464",
-    "name": "Rhyperior",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0464-rhyperior.png"
-  },
-  {
-    "id": "pkmn_0465",
-    "name": "Tangrowth",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0465-tangrowth.png"
-  },
-  {
-    "id": "pkmn_0466",
-    "name": "Electivire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0466-electivire.png"
-  },
-  {
-    "id": "pkmn_0467",
-    "name": "Magmortar",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0467-magmortar.png"
-  },
-  {
-    "id": "pkmn_0468",
-    "name": "Togekiss",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0468-togekiss.png"
-  },
-  {
-    "id": "pkmn_0469",
-    "name": "Yanmega",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0469-yanmega.png"
-  },
-  {
-    "id": "pkmn_0470",
-    "name": "Leafeon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0470-leafeon.png"
-  },
-  {
-    "id": "pkmn_0471",
-    "name": "Glaceon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0471-glaceon.png"
-  },
-  {
-    "id": "pkmn_0472",
-    "name": "Gliscor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0472-gliscor.png"
-  },
-  {
-    "id": "pkmn_0473",
-    "name": "Mamoswine",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0473-mamoswine.png"
-  },
-  {
-    "id": "pkmn_0474",
-    "name": "Porygon-Z",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0474-porygon-z.png"
-  },
-  {
-    "id": "pkmn_0475",
-    "name": "Gallade",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0475-gallade.png"
-  },
-  {
-    "id": "pkmn_0476",
-    "name": "Probopass",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0476-probopass.png"
-  },
-  {
-    "id": "pkmn_0477",
-    "name": "Dusknoir",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0477-dusknoir.png"
-  },
-  {
-    "id": "pkmn_0478",
-    "name": "Froslass",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0478-froslass.png"
-  },
-  {
-    "id": "pkmn_0479",
-    "name": "Rotom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0479-rotom.png"
-  },
-  {
-    "id": "pkmn_0480",
-    "name": "Uxie",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0480-uxie.png"
-  },
-  {
-    "id": "pkmn_0481",
-    "name": "Mesprit",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0481-mesprit.png"
-  },
-  {
-    "id": "pkmn_0482",
-    "name": "Azelf",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0482-azelf.png"
-  },
-  {
-    "id": "pkmn_0483",
-    "name": "Dialga",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0483-dialga.png"
-  },
-  {
-    "id": "pkmn_0484",
-    "name": "Palkia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0484-palkia.png"
-  },
-  {
-    "id": "pkmn_0485",
-    "name": "Heatran",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0485-heatran.png"
-  },
-  {
-    "id": "pkmn_0486",
-    "name": "Regigigas",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0486-regigigas.png"
-  },
-  {
-    "id": "pkmn_0487",
-    "name": "Giratina Altered",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0487-giratina-altered.png"
-  },
-  {
-    "id": "pkmn_0488",
-    "name": "Cresselia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0488-cresselia.png"
-  },
-  {
-    "id": "pkmn_0489",
-    "name": "Phione",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0489-phione.png"
-  },
-  {
-    "id": "pkmn_0490",
-    "name": "Manaphy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0490-manaphy.png"
-  },
-  {
-    "id": "pkmn_0491",
-    "name": "Darkrai",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0491-darkrai.png"
-  },
-  {
-    "id": "pkmn_0492",
-    "name": "Shaymin Land",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0492-shaymin-land.png"
-  },
-  {
-    "id": "pkmn_0493",
-    "name": "Arceus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0493-arceus.png"
-  }
-];
-window.QM_POKEMON_GEN5_DATA = [
-  {
-    "id": "pkmn_0494",
-    "name": "Victini",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0494-victini.png"
-  },
-  {
-    "id": "pkmn_0495",
-    "name": "Snivy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0495-snivy.png"
-  },
-  {
-    "id": "pkmn_0496",
-    "name": "Servine",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0496-servine.png"
-  },
-  {
-    "id": "pkmn_0497",
-    "name": "Serperior",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0497-serperior.png"
-  },
-  {
-    "id": "pkmn_0498",
-    "name": "Tepig",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0498-tepig.png"
-  },
-  {
-    "id": "pkmn_0499",
-    "name": "Pignite",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0499-pignite.png"
-  },
-  {
-    "id": "pkmn_0500",
-    "name": "Emboar",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0500-emboar.png"
-  },
-  {
-    "id": "pkmn_0501",
-    "name": "Oshawott",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0501-oshawott.png"
-  },
-  {
-    "id": "pkmn_0502",
-    "name": "Dewott",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0502-dewott.png"
-  },
-  {
-    "id": "pkmn_0503",
-    "name": "Samurott",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0503-samurott.png"
-  },
-  {
-    "id": "pkmn_0504",
-    "name": "Patrat",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0504-patrat.png"
-  },
-  {
-    "id": "pkmn_0505",
-    "name": "Watchog",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0505-watchog.png"
-  },
-  {
-    "id": "pkmn_0506",
-    "name": "Lillipup",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0506-lillipup.png"
-  },
-  {
-    "id": "pkmn_0507",
-    "name": "Herdier",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0507-herdier.png"
-  },
-  {
-    "id": "pkmn_0508",
-    "name": "Stoutland",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0508-stoutland.png"
-  },
-  {
-    "id": "pkmn_0509",
-    "name": "Purrloin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0509-purrloin.png"
-  },
-  {
-    "id": "pkmn_0510",
-    "name": "Liepard",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0510-liepard.png"
-  },
-  {
-    "id": "pkmn_0511",
-    "name": "Pansage",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0511-pansage.png"
-  },
-  {
-    "id": "pkmn_0512",
-    "name": "Simisage",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0512-simisage.png"
-  },
-  {
-    "id": "pkmn_0513",
-    "name": "Pansear",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0513-pansear.png"
-  },
-  {
-    "id": "pkmn_0514",
-    "name": "Simisear",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0514-simisear.png"
-  },
-  {
-    "id": "pkmn_0515",
-    "name": "Panpour",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0515-panpour.png"
-  },
-  {
-    "id": "pkmn_0516",
-    "name": "Simipour",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0516-simipour.png"
-  },
-  {
-    "id": "pkmn_0517",
-    "name": "Munna",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0517-munna.png"
-  },
-  {
-    "id": "pkmn_0518",
-    "name": "Musharna",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0518-musharna.png"
-  },
-  {
-    "id": "pkmn_0519",
-    "name": "Pidove",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0519-pidove.png"
-  },
-  {
-    "id": "pkmn_0520",
-    "name": "Tranquill",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0520-tranquill.png"
-  },
-  {
-    "id": "pkmn_0521",
-    "name": "Unfezant",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0521-unfezant.png"
-  },
-  {
-    "id": "pkmn_0522",
-    "name": "Blitzle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0522-blitzle.png"
-  },
-  {
-    "id": "pkmn_0523",
-    "name": "Zebstrika",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0523-zebstrika.png"
-  },
-  {
-    "id": "pkmn_0524",
-    "name": "Roggenrola",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0524-roggenrola.png"
-  },
-  {
-    "id": "pkmn_0525",
-    "name": "Boldore",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0525-boldore.png"
-  },
-  {
-    "id": "pkmn_0526",
-    "name": "Gigalith",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0526-gigalith.png"
-  },
-  {
-    "id": "pkmn_0527",
-    "name": "Woobat",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0527-woobat.png"
-  },
-  {
-    "id": "pkmn_0528",
-    "name": "Swoobat",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0528-swoobat.png"
-  },
-  {
-    "id": "pkmn_0529",
-    "name": "Drilbur",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0529-drilbur.png"
-  },
-  {
-    "id": "pkmn_0530",
-    "name": "Excadrill",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0530-excadrill.png"
-  },
-  {
-    "id": "pkmn_0531",
-    "name": "Audino",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0531-audino.png"
-  },
-  {
-    "id": "pkmn_0532",
-    "name": "Timburr",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0532-timburr.png"
-  },
-  {
-    "id": "pkmn_0533",
-    "name": "Gurdurr",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0533-gurdurr.png"
-  },
-  {
-    "id": "pkmn_0534",
-    "name": "Conkeldurr",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0534-conkeldurr.png"
-  },
-  {
-    "id": "pkmn_0535",
-    "name": "Tympole",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0535-tympole.png"
-  },
-  {
-    "id": "pkmn_0536",
-    "name": "Palpitoad",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0536-palpitoad.png"
-  },
-  {
-    "id": "pkmn_0537",
-    "name": "Seismitoad",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0537-seismitoad.png"
-  },
-  {
-    "id": "pkmn_0538",
-    "name": "Throh",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0538-throh.png"
-  },
-  {
-    "id": "pkmn_0539",
-    "name": "Sawk",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0539-sawk.png"
-  },
-  {
-    "id": "pkmn_0540",
-    "name": "Sewaddle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0540-sewaddle.png"
-  },
-  {
-    "id": "pkmn_0541",
-    "name": "Swadloon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0541-swadloon.png"
-  },
-  {
-    "id": "pkmn_0542",
-    "name": "Leavanny",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0542-leavanny.png"
-  },
-  {
-    "id": "pkmn_0543",
-    "name": "Venipede",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0543-venipede.png"
-  },
-  {
-    "id": "pkmn_0544",
-    "name": "Whirlipede",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0544-whirlipede.png"
-  },
-  {
-    "id": "pkmn_0545",
-    "name": "Scolipede",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0545-scolipede.png"
-  },
-  {
-    "id": "pkmn_0546",
-    "name": "Cottonee",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0546-cottonee.png"
-  },
-  {
-    "id": "pkmn_0547",
-    "name": "Whimsicott",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0547-whimsicott.png"
-  },
-  {
-    "id": "pkmn_0548",
-    "name": "Petilil",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0548-petilil.png"
-  },
-  {
-    "id": "pkmn_0549",
-    "name": "Lilligant",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0549-lilligant.png"
-  },
-  {
-    "id": "pkmn_0550",
-    "name": "Basculin Red Striped",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0550-basculin-red-striped.png"
-  },
-  {
-    "id": "pkmn_0551",
-    "name": "Sandile",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0551-sandile.png"
-  },
-  {
-    "id": "pkmn_0552",
-    "name": "Krokorok",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0552-krokorok.png"
-  },
-  {
-    "id": "pkmn_0553",
-    "name": "Krookodile",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0553-krookodile.png"
-  },
-  {
-    "id": "pkmn_0554",
-    "name": "Darumaka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0554-darumaka.png"
-  },
-  {
-    "id": "pkmn_0555",
-    "name": "Darmanitan Standard",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0555-darmanitan-standard.png"
-  },
-  {
-    "id": "pkmn_0556",
-    "name": "Maractus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0556-maractus.png"
-  },
-  {
-    "id": "pkmn_0557",
-    "name": "Dwebble",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0557-dwebble.png"
-  },
-  {
-    "id": "pkmn_0558",
-    "name": "Crustle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0558-crustle.png"
-  },
-  {
-    "id": "pkmn_0559",
-    "name": "Scraggy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0559-scraggy.png"
-  },
-  {
-    "id": "pkmn_0560",
-    "name": "Scrafty",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0560-scrafty.png"
-  },
-  {
-    "id": "pkmn_0561",
-    "name": "Sigilyph",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0561-sigilyph.png"
-  },
-  {
-    "id": "pkmn_0562",
-    "name": "Yamask",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0562-yamask.png"
-  },
-  {
-    "id": "pkmn_0563",
-    "name": "Cofagrigus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0563-cofagrigus.png"
-  },
-  {
-    "id": "pkmn_0564",
-    "name": "Tirtouga",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0564-tirtouga.png"
-  },
-  {
-    "id": "pkmn_0565",
-    "name": "Carracosta",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0565-carracosta.png"
-  },
-  {
-    "id": "pkmn_0566",
-    "name": "Archen",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0566-archen.png"
-  },
-  {
-    "id": "pkmn_0567",
-    "name": "Archeops",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0567-archeops.png"
-  },
-  {
-    "id": "pkmn_0568",
-    "name": "Trubbish",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0568-trubbish.png"
-  },
-  {
-    "id": "pkmn_0569",
-    "name": "Garbodor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0569-garbodor.png"
-  },
-  {
-    "id": "pkmn_0570",
-    "name": "Zorua",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0570-zorua.png"
-  },
-  {
-    "id": "pkmn_0571",
-    "name": "Zoroark",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0571-zoroark.png"
-  },
-  {
-    "id": "pkmn_0572",
-    "name": "Minccino",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0572-minccino.png"
-  },
-  {
-    "id": "pkmn_0573",
-    "name": "Cinccino",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0573-cinccino.png"
-  },
-  {
-    "id": "pkmn_0574",
-    "name": "Gothita",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0574-gothita.png"
-  },
-  {
-    "id": "pkmn_0575",
-    "name": "Gothorita",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0575-gothorita.png"
-  },
-  {
-    "id": "pkmn_0576",
-    "name": "Gothitelle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0576-gothitelle.png"
-  },
-  {
-    "id": "pkmn_0577",
-    "name": "Solosis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0577-solosis.png"
-  },
-  {
-    "id": "pkmn_0578",
-    "name": "Duosion",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0578-duosion.png"
-  },
-  {
-    "id": "pkmn_0579",
-    "name": "Reuniclus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0579-reuniclus.png"
-  },
-  {
-    "id": "pkmn_0580",
-    "name": "Ducklett",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0580-ducklett.png"
-  },
-  {
-    "id": "pkmn_0581",
-    "name": "Swanna",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0581-swanna.png"
-  },
-  {
-    "id": "pkmn_0582",
-    "name": "Vanillite",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0582-vanillite.png"
-  },
-  {
-    "id": "pkmn_0583",
-    "name": "Vanillish",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0583-vanillish.png"
-  },
-  {
-    "id": "pkmn_0584",
-    "name": "Vanilluxe",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0584-vanilluxe.png"
-  },
-  {
-    "id": "pkmn_0585",
-    "name": "Deerling",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0585-deerling.png"
-  },
-  {
-    "id": "pkmn_0586",
-    "name": "Sawsbuck",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0586-sawsbuck.png"
-  },
-  {
-    "id": "pkmn_0587",
-    "name": "Emolga",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0587-emolga.png"
-  },
-  {
-    "id": "pkmn_0588",
-    "name": "Karrablast",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0588-karrablast.png"
-  },
-  {
-    "id": "pkmn_0589",
-    "name": "Escavalier",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0589-escavalier.png"
-  },
-  {
-    "id": "pkmn_0590",
-    "name": "Foongus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0590-foongus.png"
-  },
-  {
-    "id": "pkmn_0591",
-    "name": "Amoonguss",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0591-amoonguss.png"
-  },
-  {
-    "id": "pkmn_0592",
-    "name": "Frillish Male",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0592-frillish-male.png"
-  },
-  {
-    "id": "pkmn_0593",
-    "name": "Jellicent Male",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0593-jellicent-male.png"
-  },
-  {
-    "id": "pkmn_0594",
-    "name": "Alomomola",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0594-alomomola.png"
-  },
-  {
-    "id": "pkmn_0595",
-    "name": "Joltik",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0595-joltik.png"
-  },
-  {
-    "id": "pkmn_0596",
-    "name": "Galvantula",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0596-galvantula.png"
-  },
-  {
-    "id": "pkmn_0597",
-    "name": "Ferroseed",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0597-ferroseed.png"
-  },
-  {
-    "id": "pkmn_0598",
-    "name": "Ferrothorn",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0598-ferrothorn.png"
-  },
-  {
-    "id": "pkmn_0599",
-    "name": "Klink",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0599-klink.png"
-  },
-  {
-    "id": "pkmn_0600",
-    "name": "Klang",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0600-klang.png"
-  },
-  {
-    "id": "pkmn_0601",
-    "name": "Klinklang",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0601-klinklang.png"
-  },
-  {
-    "id": "pkmn_0602",
-    "name": "Tynamo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0602-tynamo.png"
-  },
-  {
-    "id": "pkmn_0603",
-    "name": "Eelektrik",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0603-eelektrik.png"
-  },
-  {
-    "id": "pkmn_0604",
-    "name": "Eelektross",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0604-eelektross.png"
-  },
-  {
-    "id": "pkmn_0605",
-    "name": "Elgyem",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0605-elgyem.png"
-  },
-  {
-    "id": "pkmn_0606",
-    "name": "Beheeyem",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0606-beheeyem.png"
-  },
-  {
-    "id": "pkmn_0607",
-    "name": "Litwick",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0607-litwick.png"
-  },
-  {
-    "id": "pkmn_0608",
-    "name": "Lampent",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0608-lampent.png"
-  },
-  {
-    "id": "pkmn_0609",
-    "name": "Chandelure",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0609-chandelure.png"
-  },
-  {
-    "id": "pkmn_0610",
-    "name": "Axew",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0610-axew.png"
-  },
-  {
-    "id": "pkmn_0611",
-    "name": "Fraxure",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0611-fraxure.png"
-  },
-  {
-    "id": "pkmn_0612",
-    "name": "Haxorus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0612-haxorus.png"
-  },
-  {
-    "id": "pkmn_0613",
-    "name": "Cubchoo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0613-cubchoo.png"
-  },
-  {
-    "id": "pkmn_0614",
-    "name": "Beartic",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0614-beartic.png"
-  },
-  {
-    "id": "pkmn_0615",
-    "name": "Cryogonal",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0615-cryogonal.png"
-  },
-  {
-    "id": "pkmn_0616",
-    "name": "Shelmet",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0616-shelmet.png"
-  },
-  {
-    "id": "pkmn_0617",
-    "name": "Accelgor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0617-accelgor.png"
-  },
-  {
-    "id": "pkmn_0618",
-    "name": "Stunfisk",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0618-stunfisk.png"
-  },
-  {
-    "id": "pkmn_0619",
-    "name": "Mienfoo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0619-mienfoo.png"
-  },
-  {
-    "id": "pkmn_0620",
-    "name": "Mienshao",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0620-mienshao.png"
-  },
-  {
-    "id": "pkmn_0621",
-    "name": "Druddigon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0621-druddigon.png"
-  },
-  {
-    "id": "pkmn_0622",
-    "name": "Golett",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0622-golett.png"
-  },
-  {
-    "id": "pkmn_0623",
-    "name": "Golurk",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0623-golurk.png"
-  },
-  {
-    "id": "pkmn_0624",
-    "name": "Pawniard",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0624-pawniard.png"
-  },
-  {
-    "id": "pkmn_0625",
-    "name": "Bisharp",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0625-bisharp.png"
-  },
-  {
-    "id": "pkmn_0626",
-    "name": "Bouffalant",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0626-bouffalant.png"
-  },
-  {
-    "id": "pkmn_0627",
-    "name": "Rufflet",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0627-rufflet.png"
-  },
-  {
-    "id": "pkmn_0628",
-    "name": "Braviary",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0628-braviary.png"
-  },
-  {
-    "id": "pkmn_0629",
-    "name": "Vullaby",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0629-vullaby.png"
-  },
-  {
-    "id": "pkmn_0630",
-    "name": "Mandibuzz",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0630-mandibuzz.png"
-  },
-  {
-    "id": "pkmn_0631",
-    "name": "Heatmor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0631-heatmor.png"
-  },
-  {
-    "id": "pkmn_0632",
-    "name": "Durant",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0632-durant.png"
-  },
-  {
-    "id": "pkmn_0633",
-    "name": "Deino",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0633-deino.png"
-  },
-  {
-    "id": "pkmn_0634",
-    "name": "Zweilous",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0634-zweilous.png"
-  },
-  {
-    "id": "pkmn_0635",
-    "name": "Hydreigon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0635-hydreigon.png"
-  },
-  {
-    "id": "pkmn_0636",
-    "name": "Larvesta",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0636-larvesta.png"
-  },
-  {
-    "id": "pkmn_0637",
-    "name": "Volcarona",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0637-volcarona.png"
-  },
-  {
-    "id": "pkmn_0638",
-    "name": "Cobalion",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0638-cobalion.png"
-  },
-  {
-    "id": "pkmn_0639",
-    "name": "Terrakion",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0639-terrakion.png"
-  },
-  {
-    "id": "pkmn_0640",
-    "name": "Virizion",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0640-virizion.png"
-  },
-  {
-    "id": "pkmn_0641",
-    "name": "Tornadus Incarnate",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0641-tornadus-incarnate.png"
-  },
-  {
-    "id": "pkmn_0642",
-    "name": "Thundurus Incarnate",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0642-thundurus-incarnate.png"
-  },
-  {
-    "id": "pkmn_0643",
-    "name": "Reshiram",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0643-reshiram.png"
-  },
-  {
-    "id": "pkmn_0644",
-    "name": "Zekrom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0644-zekrom.png"
-  },
-  {
-    "id": "pkmn_0645",
-    "name": "Landorus Incarnate",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0645-landorus-incarnate.png"
-  },
-  {
-    "id": "pkmn_0646",
-    "name": "Kyurem",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0646-kyurem.png"
-  },
-  {
-    "id": "pkmn_0647",
-    "name": "Keldeo Ordinary",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0647-keldeo-ordinary.png"
-  },
-  {
-    "id": "pkmn_0648",
-    "name": "Meloetta Aria",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0648-meloetta-aria.png"
-  },
-  {
-    "id": "pkmn_0649",
-    "name": "Genesect",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0649-genesect.png"
-  }
-];
-window.QM_POKEMON_GEN6_DATA = [
-  {
-    "id": "pkmn_0650",
-    "name": "Chespin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0650-chespin.png"
-  },
-  {
-    "id": "pkmn_0651",
-    "name": "Quilladin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0651-quilladin.png"
-  },
-  {
-    "id": "pkmn_0652",
-    "name": "Chesnaught",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0652-chesnaught.png"
-  },
-  {
-    "id": "pkmn_0653",
-    "name": "Fennekin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0653-fennekin.png"
-  },
-  {
-    "id": "pkmn_0654",
-    "name": "Braixen",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0654-braixen.png"
-  },
-  {
-    "id": "pkmn_0655",
-    "name": "Delphox",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0655-delphox.png"
-  },
-  {
-    "id": "pkmn_0656",
-    "name": "Froakie",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0656-froakie.png"
-  },
-  {
-    "id": "pkmn_0657",
-    "name": "Frogadier",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0657-frogadier.png"
-  },
-  {
-    "id": "pkmn_0658",
-    "name": "Greninja",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0658-greninja.png"
-  },
-  {
-    "id": "pkmn_0659",
-    "name": "Bunnelby",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0659-bunnelby.png"
-  },
-  {
-    "id": "pkmn_0660",
-    "name": "Diggersby",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0660-diggersby.png"
-  },
-  {
-    "id": "pkmn_0661",
-    "name": "Fletchling",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0661-fletchling.png"
-  },
-  {
-    "id": "pkmn_0662",
-    "name": "Fletchinder",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0662-fletchinder.png"
-  },
-  {
-    "id": "pkmn_0663",
-    "name": "Talonflame",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0663-talonflame.png"
-  },
-  {
-    "id": "pkmn_0664",
-    "name": "Scatterbug",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0664-scatterbug.png"
-  },
-  {
-    "id": "pkmn_0665",
-    "name": "Spewpa",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0665-spewpa.png"
-  },
-  {
-    "id": "pkmn_0666",
-    "name": "Vivillon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0666-vivillon.png"
-  },
-  {
-    "id": "pkmn_0667",
-    "name": "Litleo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0667-litleo.png"
-  },
-  {
-    "id": "pkmn_0668",
-    "name": "Pyroar Male",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0668-pyroar-male.png"
-  },
-  {
-    "id": "pkmn_0669",
-    "name": "Flabébé",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0669-flabebe.png"
-  },
-  {
-    "id": "pkmn_0670",
-    "name": "Floette",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0670-floette.png"
-  },
-  {
-    "id": "pkmn_0671",
-    "name": "Florges",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0671-florges.png"
-  },
-  {
-    "id": "pkmn_0672",
-    "name": "Skiddo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0672-skiddo.png"
-  },
-  {
-    "id": "pkmn_0673",
-    "name": "Gogoat",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0673-gogoat.png"
-  },
-  {
-    "id": "pkmn_0674",
-    "name": "Pancham",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0674-pancham.png"
-  },
-  {
-    "id": "pkmn_0675",
-    "name": "Pangoro",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0675-pangoro.png"
-  },
-  {
-    "id": "pkmn_0676",
-    "name": "Furfrou",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0676-furfrou.png"
-  },
-  {
-    "id": "pkmn_0677",
-    "name": "Espurr",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0677-espurr.png"
-  },
-  {
-    "id": "pkmn_0678",
-    "name": "Meowstic Male",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0678-meowstic-male.png"
-  },
-  {
-    "id": "pkmn_0679",
-    "name": "Honedge",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0679-honedge.png"
-  },
-  {
-    "id": "pkmn_0680",
-    "name": "Doublade",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0680-doublade.png"
-  },
-  {
-    "id": "pkmn_0681",
-    "name": "Aegislash Shield",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0681-aegislash-shield.png"
-  },
-  {
-    "id": "pkmn_0682",
-    "name": "Spritzee",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0682-spritzee.png"
-  },
-  {
-    "id": "pkmn_0683",
-    "name": "Aromatisse",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0683-aromatisse.png"
-  },
-  {
-    "id": "pkmn_0684",
-    "name": "Swirlix",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0684-swirlix.png"
-  },
-  {
-    "id": "pkmn_0685",
-    "name": "Slurpuff",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0685-slurpuff.png"
-  },
-  {
-    "id": "pkmn_0686",
-    "name": "Inkay",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0686-inkay.png"
-  },
-  {
-    "id": "pkmn_0687",
-    "name": "Malamar",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0687-malamar.png"
-  },
-  {
-    "id": "pkmn_0688",
-    "name": "Binacle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0688-binacle.png"
-  },
-  {
-    "id": "pkmn_0689",
-    "name": "Barbaracle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0689-barbaracle.png"
-  },
-  {
-    "id": "pkmn_0690",
-    "name": "Skrelp",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0690-skrelp.png"
-  },
-  {
-    "id": "pkmn_0691",
-    "name": "Dragalge",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0691-dragalge.png"
-  },
-  {
-    "id": "pkmn_0692",
-    "name": "Clauncher",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0692-clauncher.png"
-  },
-  {
-    "id": "pkmn_0693",
-    "name": "Clawitzer",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0693-clawitzer.png"
-  },
-  {
-    "id": "pkmn_0694",
-    "name": "Helioptile",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0694-helioptile.png"
-  },
-  {
-    "id": "pkmn_0695",
-    "name": "Heliolisk",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0695-heliolisk.png"
-  },
-  {
-    "id": "pkmn_0696",
-    "name": "Tyrunt",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0696-tyrunt.png"
-  },
-  {
-    "id": "pkmn_0697",
-    "name": "Tyrantrum",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0697-tyrantrum.png"
-  },
-  {
-    "id": "pkmn_0698",
-    "name": "Amaura",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0698-amaura.png"
-  },
-  {
-    "id": "pkmn_0699",
-    "name": "Aurorus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0699-aurorus.png"
-  },
-  {
-    "id": "pkmn_0700",
-    "name": "Sylveon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0700-sylveon.png"
-  },
-  {
-    "id": "pkmn_0701",
-    "name": "Hawlucha",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0701-hawlucha.png"
-  },
-  {
-    "id": "pkmn_0702",
-    "name": "Dedenne",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0702-dedenne.png"
-  },
-  {
-    "id": "pkmn_0703",
-    "name": "Carbink",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0703-carbink.png"
-  },
-  {
-    "id": "pkmn_0704",
-    "name": "Goomy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0704-goomy.png"
-  },
-  {
-    "id": "pkmn_0705",
-    "name": "Sliggoo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0705-sliggoo.png"
-  },
-  {
-    "id": "pkmn_0706",
-    "name": "Goodra",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0706-goodra.png"
-  },
-  {
-    "id": "pkmn_0707",
-    "name": "Klefki",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0707-klefki.png"
-  },
-  {
-    "id": "pkmn_0708",
-    "name": "Phantump",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0708-phantump.png"
-  },
-  {
-    "id": "pkmn_0709",
-    "name": "Trevenant",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0709-trevenant.png"
-  },
-  {
-    "id": "pkmn_0710",
-    "name": "Pumpkaboo Average",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0710-pumpkaboo-average.png"
-  },
-  {
-    "id": "pkmn_0711",
-    "name": "Gourgeist Average",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0711-gourgeist-average.png"
-  },
-  {
-    "id": "pkmn_0712",
-    "name": "Bergmite",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0712-bergmite.png"
-  },
-  {
-    "id": "pkmn_0713",
-    "name": "Avalugg",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0713-avalugg.png"
-  },
-  {
-    "id": "pkmn_0714",
-    "name": "Noibat",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0714-noibat.png"
-  },
-  {
-    "id": "pkmn_0715",
-    "name": "Noivern",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0715-noivern.png"
-  },
-  {
-    "id": "pkmn_0716",
-    "name": "Xerneas",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0716-xerneas.png"
-  },
-  {
-    "id": "pkmn_0717",
-    "name": "Yveltal",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0717-yveltal.png"
-  },
-  {
-    "id": "pkmn_0718",
-    "name": "Zygarde 50",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0718-zygarde-50.png"
-  },
-  {
-    "id": "pkmn_0719",
-    "name": "Diancie",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0719-diancie.png"
-  },
-  {
-    "id": "pkmn_0720",
-    "name": "Hoopa",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0720-hoopa.png"
-  },
-  {
-    "id": "pkmn_0721",
-    "name": "Volcanion",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0721-volcanion.png"
-  }
-];
-window.QM_POKEMON_GEN7_DATA = [
-  {
-    "id": "pkmn_0722",
-    "name": "Rowlet",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0722-rowlet.png"
-  },
-  {
-    "id": "pkmn_0723",
-    "name": "Dartrix",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0723-dartrix.png"
-  },
-  {
-    "id": "pkmn_0724",
-    "name": "Decidueye",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0724-decidueye.png"
-  },
-  {
-    "id": "pkmn_0725",
-    "name": "Litten",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0725-litten.png"
-  },
-  {
-    "id": "pkmn_0726",
-    "name": "Torracat",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0726-torracat.png"
-  },
-  {
-    "id": "pkmn_0727",
-    "name": "Incineroar",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0727-incineroar.png"
-  },
-  {
-    "id": "pkmn_0728",
-    "name": "Popplio",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0728-popplio.png"
-  },
-  {
-    "id": "pkmn_0729",
-    "name": "Brionne",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0729-brionne.png"
-  },
-  {
-    "id": "pkmn_0730",
-    "name": "Primarina",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0730-primarina.png"
-  },
-  {
-    "id": "pkmn_0731",
-    "name": "Pikipek",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0731-pikipek.png"
-  },
-  {
-    "id": "pkmn_0732",
-    "name": "Trumbeak",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0732-trumbeak.png"
-  },
-  {
-    "id": "pkmn_0733",
-    "name": "Toucannon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0733-toucannon.png"
-  },
-  {
-    "id": "pkmn_0734",
-    "name": "Yungoos",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0734-yungoos.png"
-  },
-  {
-    "id": "pkmn_0735",
-    "name": "Gumshoos",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0735-gumshoos.png"
-  },
-  {
-    "id": "pkmn_0736",
-    "name": "Grubbin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0736-grubbin.png"
-  },
-  {
-    "id": "pkmn_0737",
-    "name": "Charjabug",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0737-charjabug.png"
-  },
-  {
-    "id": "pkmn_0738",
-    "name": "Vikavolt",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0738-vikavolt.png"
-  },
-  {
-    "id": "pkmn_0739",
-    "name": "Crabrawler",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0739-crabrawler.png"
-  },
-  {
-    "id": "pkmn_0740",
-    "name": "Crabominable",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0740-crabominable.png"
-  },
-  {
-    "id": "pkmn_0741",
-    "name": "Oricorio Baile",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0741-oricorio-baile.png"
-  },
-  {
-    "id": "pkmn_0742",
-    "name": "Cutiefly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0742-cutiefly.png"
-  },
-  {
-    "id": "pkmn_0743",
-    "name": "Ribombee",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0743-ribombee.png"
-  },
-  {
-    "id": "pkmn_0744",
-    "name": "Rockruff",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0744-rockruff.png"
-  },
-  {
-    "id": "pkmn_0745",
-    "name": "Lycanroc Midday",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0745-lycanroc-midday.png"
-  },
-  {
-    "id": "pkmn_0746",
-    "name": "Wishiwashi Solo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0746-wishiwashi-solo.png"
-  },
-  {
-    "id": "pkmn_0747",
-    "name": "Mareanie",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0747-mareanie.png"
-  },
-  {
-    "id": "pkmn_0748",
-    "name": "Toxapex",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0748-toxapex.png"
-  },
-  {
-    "id": "pkmn_0749",
-    "name": "Mudbray",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0749-mudbray.png"
-  },
-  {
-    "id": "pkmn_0750",
-    "name": "Mudsdale",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0750-mudsdale.png"
-  },
-  {
-    "id": "pkmn_0751",
-    "name": "Dewpider",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0751-dewpider.png"
-  },
-  {
-    "id": "pkmn_0752",
-    "name": "Araquanid",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0752-araquanid.png"
-  },
-  {
-    "id": "pkmn_0753",
-    "name": "Fomantis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0753-fomantis.png"
-  },
-  {
-    "id": "pkmn_0754",
-    "name": "Lurantis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0754-lurantis.png"
-  },
-  {
-    "id": "pkmn_0755",
-    "name": "Morelull",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0755-morelull.png"
-  },
-  {
-    "id": "pkmn_0756",
-    "name": "Shiinotic",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0756-shiinotic.png"
-  },
-  {
-    "id": "pkmn_0757",
-    "name": "Salandit",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0757-salandit.png"
-  },
-  {
-    "id": "pkmn_0758",
-    "name": "Salazzle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0758-salazzle.png"
-  },
-  {
-    "id": "pkmn_0759",
-    "name": "Stufful",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0759-stufful.png"
-  },
-  {
-    "id": "pkmn_0760",
-    "name": "Bewear",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0760-bewear.png"
-  },
-  {
-    "id": "pkmn_0761",
-    "name": "Bounsweet",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0761-bounsweet.png"
-  },
-  {
-    "id": "pkmn_0762",
-    "name": "Steenee",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0762-steenee.png"
-  },
-  {
-    "id": "pkmn_0763",
-    "name": "Tsareena",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0763-tsareena.png"
-  },
-  {
-    "id": "pkmn_0764",
-    "name": "Comfey",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0764-comfey.png"
-  },
-  {
-    "id": "pkmn_0765",
-    "name": "Oranguru",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0765-oranguru.png"
-  },
-  {
-    "id": "pkmn_0766",
-    "name": "Passimian",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0766-passimian.png"
-  },
-  {
-    "id": "pkmn_0767",
-    "name": "Wimpod",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0767-wimpod.png"
-  },
-  {
-    "id": "pkmn_0768",
-    "name": "Golisopod",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0768-golisopod.png"
-  },
-  {
-    "id": "pkmn_0769",
-    "name": "Sandygast",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0769-sandygast.png"
-  },
-  {
-    "id": "pkmn_0770",
-    "name": "Palossand",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0770-palossand.png"
-  },
-  {
-    "id": "pkmn_0771",
-    "name": "Pyukumuku",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0771-pyukumuku.png"
-  },
-  {
-    "id": "pkmn_0772",
-    "name": "Type: Null",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0772-type-null.png"
-  },
-  {
-    "id": "pkmn_0773",
-    "name": "Silvally",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0773-silvally.png"
-  },
-  {
-    "id": "pkmn_0774",
-    "name": "Minior Red Meteor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0774-minior-red-meteor.png"
-  },
-  {
-    "id": "pkmn_0775",
-    "name": "Komala",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0775-komala.png"
-  },
-  {
-    "id": "pkmn_0776",
-    "name": "Turtonator",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0776-turtonator.png"
-  },
-  {
-    "id": "pkmn_0777",
-    "name": "Togedemaru",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0777-togedemaru.png"
-  },
-  {
-    "id": "pkmn_0778",
-    "name": "Mimikyu Disguised",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0778-mimikyu-disguised.png"
-  },
-  {
-    "id": "pkmn_0779",
-    "name": "Bruxish",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0779-bruxish.png"
-  },
-  {
-    "id": "pkmn_0780",
-    "name": "Drampa",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0780-drampa.png"
-  },
-  {
-    "id": "pkmn_0781",
-    "name": "Dhelmise",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0781-dhelmise.png"
-  },
-  {
-    "id": "pkmn_0782",
-    "name": "Jangmo-o",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0782-jangmo-o.png"
-  },
-  {
-    "id": "pkmn_0783",
-    "name": "Hakamo-o",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0783-hakamo-o.png"
-  },
-  {
-    "id": "pkmn_0784",
-    "name": "Kommo-o",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0784-kommo-o.png"
-  },
-  {
-    "id": "pkmn_0785",
-    "name": "Tapu Koko",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0785-tapu-koko.png"
-  },
-  {
-    "id": "pkmn_0786",
-    "name": "Tapu Lele",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0786-tapu-lele.png"
-  },
-  {
-    "id": "pkmn_0787",
-    "name": "Tapu Bulu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0787-tapu-bulu.png"
-  },
-  {
-    "id": "pkmn_0788",
-    "name": "Tapu Fini",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0788-tapu-fini.png"
-  },
-  {
-    "id": "pkmn_0789",
-    "name": "Cosmog",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0789-cosmog.png"
-  },
-  {
-    "id": "pkmn_0790",
-    "name": "Cosmoem",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0790-cosmoem.png"
-  },
-  {
-    "id": "pkmn_0791",
-    "name": "Solgaleo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0791-solgaleo.png"
-  },
-  {
-    "id": "pkmn_0792",
-    "name": "Lunala",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0792-lunala.png"
-  },
-  {
-    "id": "pkmn_0793",
-    "name": "Nihilego",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0793-nihilego.png"
-  },
-  {
-    "id": "pkmn_0794",
-    "name": "Buzzwole",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0794-buzzwole.png"
-  },
-  {
-    "id": "pkmn_0795",
-    "name": "Pheromosa",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0795-pheromosa.png"
-  },
-  {
-    "id": "pkmn_0796",
-    "name": "Xurkitree",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0796-xurkitree.png"
-  },
-  {
-    "id": "pkmn_0797",
-    "name": "Celesteela",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0797-celesteela.png"
-  },
-  {
-    "id": "pkmn_0798",
-    "name": "Kartana",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0798-kartana.png"
-  },
-  {
-    "id": "pkmn_0799",
-    "name": "Guzzlord",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0799-guzzlord.png"
-  },
-  {
-    "id": "pkmn_0800",
-    "name": "Necrozma",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0800-necrozma.png"
-  },
-  {
-    "id": "pkmn_0801",
-    "name": "Magearna",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0801-magearna.png"
-  },
-  {
-    "id": "pkmn_0802",
-    "name": "Marshadow",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0802-marshadow.png"
-  },
-  {
-    "id": "pkmn_0803",
-    "name": "Poipole",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0803-poipole.png"
-  },
-  {
-    "id": "pkmn_0804",
-    "name": "Naganadel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0804-naganadel.png"
-  },
-  {
-    "id": "pkmn_0805",
-    "name": "Stakataka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0805-stakataka.png"
-  },
-  {
-    "id": "pkmn_0806",
-    "name": "Blacephalon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0806-blacephalon.png"
-  },
-  {
-    "id": "pkmn_0807",
-    "name": "Zeraora",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0807-zeraora.png"
-  },
-  {
-    "id": "pkmn_0808",
-    "name": "Meltan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0808-meltan.png"
-  },
-  {
-    "id": "pkmn_0809",
-    "name": "Melmetal",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0809-melmetal.png"
-  }
-];
-window.QM_POKEMON_GEN8_DATA = [
-  {
-    "id": "pkmn_0810",
-    "name": "Grookey",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0810-grookey.png"
-  },
-  {
-    "id": "pkmn_0811",
-    "name": "Thwackey",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0811-thwackey.png"
-  },
-  {
-    "id": "pkmn_0812",
-    "name": "Rillaboom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0812-rillaboom.png"
-  },
-  {
-    "id": "pkmn_0813",
-    "name": "Scorbunny",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0813-scorbunny.png"
-  },
-  {
-    "id": "pkmn_0814",
-    "name": "Raboot",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0814-raboot.png"
-  },
-  {
-    "id": "pkmn_0815",
-    "name": "Cinderace",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0815-cinderace.png"
-  },
-  {
-    "id": "pkmn_0816",
-    "name": "Sobble",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0816-sobble.png"
-  },
-  {
-    "id": "pkmn_0817",
-    "name": "Drizzile",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0817-drizzile.png"
-  },
-  {
-    "id": "pkmn_0818",
-    "name": "Inteleon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0818-inteleon.png"
-  },
-  {
-    "id": "pkmn_0819",
-    "name": "Skwovet",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0819-skwovet.png"
-  },
-  {
-    "id": "pkmn_0820",
-    "name": "Greedent",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0820-greedent.png"
-  },
-  {
-    "id": "pkmn_0821",
-    "name": "Rookidee",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0821-rookidee.png"
-  },
-  {
-    "id": "pkmn_0822",
-    "name": "Corvisquire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0822-corvisquire.png"
-  },
-  {
-    "id": "pkmn_0823",
-    "name": "Corviknight",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0823-corviknight.png"
-  },
-  {
-    "id": "pkmn_0824",
-    "name": "Blipbug",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0824-blipbug.png"
-  },
-  {
-    "id": "pkmn_0825",
-    "name": "Dottler",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0825-dottler.png"
-  },
-  {
-    "id": "pkmn_0826",
-    "name": "Orbeetle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0826-orbeetle.png"
-  },
-  {
-    "id": "pkmn_0827",
-    "name": "Nickit",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0827-nickit.png"
-  },
-  {
-    "id": "pkmn_0828",
-    "name": "Thievul",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0828-thievul.png"
-  },
-  {
-    "id": "pkmn_0829",
-    "name": "Gossifleur",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0829-gossifleur.png"
-  },
-  {
-    "id": "pkmn_0830",
-    "name": "Eldegoss",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0830-eldegoss.png"
-  },
-  {
-    "id": "pkmn_0831",
-    "name": "Wooloo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0831-wooloo.png"
-  },
-  {
-    "id": "pkmn_0832",
-    "name": "Dubwool",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0832-dubwool.png"
-  },
-  {
-    "id": "pkmn_0833",
-    "name": "Chewtle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0833-chewtle.png"
-  },
-  {
-    "id": "pkmn_0834",
-    "name": "Drednaw",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0834-drednaw.png"
-  },
-  {
-    "id": "pkmn_0835",
-    "name": "Yamper",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0835-yamper.png"
-  },
-  {
-    "id": "pkmn_0836",
-    "name": "Boltund",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0836-boltund.png"
-  },
-  {
-    "id": "pkmn_0837",
-    "name": "Rolycoly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0837-rolycoly.png"
-  },
-  {
-    "id": "pkmn_0838",
-    "name": "Carkol",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0838-carkol.png"
-  },
-  {
-    "id": "pkmn_0839",
-    "name": "Coalossal",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0839-coalossal.png"
-  },
-  {
-    "id": "pkmn_0840",
-    "name": "Applin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0840-applin.png"
-  },
-  {
-    "id": "pkmn_0841",
-    "name": "Flapple",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0841-flapple.png"
-  },
-  {
-    "id": "pkmn_0842",
-    "name": "Appletun",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0842-appletun.png"
-  },
-  {
-    "id": "pkmn_0843",
-    "name": "Silicobra",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0843-silicobra.png"
-  },
-  {
-    "id": "pkmn_0844",
-    "name": "Sandaconda",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0844-sandaconda.png"
-  },
-  {
-    "id": "pkmn_0845",
-    "name": "Cramorant",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0845-cramorant.png"
-  },
-  {
-    "id": "pkmn_0846",
-    "name": "Arrokuda",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0846-arrokuda.png"
-  },
-  {
-    "id": "pkmn_0847",
-    "name": "Barraskewda",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0847-barraskewda.png"
-  },
-  {
-    "id": "pkmn_0848",
-    "name": "Toxel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0848-toxel.png"
-  },
-  {
-    "id": "pkmn_0849",
-    "name": "Toxtricity Amped",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0849-toxtricity-amped.png"
-  },
-  {
-    "id": "pkmn_0850",
-    "name": "Sizzlipede",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0850-sizzlipede.png"
-  },
-  {
-    "id": "pkmn_0851",
-    "name": "Centiskorch",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0851-centiskorch.png"
-  },
-  {
-    "id": "pkmn_0852",
-    "name": "Clobbopus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0852-clobbopus.png"
-  },
-  {
-    "id": "pkmn_0853",
-    "name": "Grapploct",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0853-grapploct.png"
-  },
-  {
-    "id": "pkmn_0854",
-    "name": "Sinistea",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0854-sinistea.png"
-  },
-  {
-    "id": "pkmn_0855",
-    "name": "Polteageist",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0855-polteageist.png"
-  },
-  {
-    "id": "pkmn_0856",
-    "name": "Hatenna",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0856-hatenna.png"
-  },
-  {
-    "id": "pkmn_0857",
-    "name": "Hattrem",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0857-hattrem.png"
-  },
-  {
-    "id": "pkmn_0858",
-    "name": "Hatterene",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0858-hatterene.png"
-  },
-  {
-    "id": "pkmn_0859",
-    "name": "Impidimp",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0859-impidimp.png"
-  },
-  {
-    "id": "pkmn_0860",
-    "name": "Morgrem",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0860-morgrem.png"
-  },
-  {
-    "id": "pkmn_0861",
-    "name": "Grimmsnarl",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0861-grimmsnarl.png"
-  },
-  {
-    "id": "pkmn_0862",
-    "name": "Obstagoon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0862-obstagoon.png"
-  },
-  {
-    "id": "pkmn_0863",
-    "name": "Perrserker",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0863-perrserker.png"
-  },
-  {
-    "id": "pkmn_0864",
-    "name": "Cursola",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0864-cursola.png"
-  },
-  {
-    "id": "pkmn_0865",
-    "name": "Sirfetch'd",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0865-sirfetchd.png"
-  },
-  {
-    "id": "pkmn_0866",
-    "name": "Mr. Rime",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0866-mr-rime.png"
-  },
-  {
-    "id": "pkmn_0867",
-    "name": "Runerigus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0867-runerigus.png"
-  },
-  {
-    "id": "pkmn_0868",
-    "name": "Milcery",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0868-milcery.png"
-  },
-  {
-    "id": "pkmn_0869",
-    "name": "Alcremie",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0869-alcremie.png"
-  },
-  {
-    "id": "pkmn_0870",
-    "name": "Falinks",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0870-falinks.png"
-  },
-  {
-    "id": "pkmn_0871",
-    "name": "Pincurchin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0871-pincurchin.png"
-  },
-  {
-    "id": "pkmn_0872",
-    "name": "Snom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0872-snom.png"
-  },
-  {
-    "id": "pkmn_0873",
-    "name": "Frosmoth",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0873-frosmoth.png"
-  },
-  {
-    "id": "pkmn_0874",
-    "name": "Stonjourner",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0874-stonjourner.png"
-  },
-  {
-    "id": "pkmn_0875",
-    "name": "Eiscue Ice",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0875-eiscue-ice.png"
-  },
-  {
-    "id": "pkmn_0876",
-    "name": "Indeedee Male",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0876-indeedee-male.png"
-  },
-  {
-    "id": "pkmn_0877",
-    "name": "Morpeko Full Belly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0877-morpeko-full-belly.png"
-  },
-  {
-    "id": "pkmn_0878",
-    "name": "Cufant",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0878-cufant.png"
-  },
-  {
-    "id": "pkmn_0879",
-    "name": "Copperajah",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0879-copperajah.png"
-  },
-  {
-    "id": "pkmn_0880",
-    "name": "Dracozolt",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0880-dracozolt.png"
-  },
-  {
-    "id": "pkmn_0881",
-    "name": "Arctozolt",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0881-arctozolt.png"
-  },
-  {
-    "id": "pkmn_0882",
-    "name": "Dracovish",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0882-dracovish.png"
-  },
-  {
-    "id": "pkmn_0883",
-    "name": "Arctovish",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0883-arctovish.png"
-  },
-  {
-    "id": "pkmn_0884",
-    "name": "Duraludon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0884-duraludon.png"
-  },
-  {
-    "id": "pkmn_0885",
-    "name": "Dreepy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0885-dreepy.png"
-  },
-  {
-    "id": "pkmn_0886",
-    "name": "Drakloak",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0886-drakloak.png"
-  },
-  {
-    "id": "pkmn_0887",
-    "name": "Dragapult",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0887-dragapult.png"
-  },
-  {
-    "id": "pkmn_0888",
-    "name": "Zacian",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0888-zacian.png"
-  },
-  {
-    "id": "pkmn_0889",
-    "name": "Zamazenta",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0889-zamazenta.png"
-  },
-  {
-    "id": "pkmn_0890",
-    "name": "Eternatus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0890-eternatus.png"
-  },
-  {
-    "id": "pkmn_0891",
-    "name": "Kubfu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0891-kubfu.png"
-  },
-  {
-    "id": "pkmn_0892",
-    "name": "Urshifu Single Strike",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0892-urshifu-single-strike.png"
-  },
-  {
-    "id": "pkmn_0893",
-    "name": "Zarude",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0893-zarude.png"
-  },
-  {
-    "id": "pkmn_0894",
-    "name": "Regieleki",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0894-regieleki.png"
-  },
-  {
-    "id": "pkmn_0895",
-    "name": "Regidrago",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0895-regidrago.png"
-  },
-  {
-    "id": "pkmn_0896",
-    "name": "Glastrier",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0896-glastrier.png"
-  },
-  {
-    "id": "pkmn_0897",
-    "name": "Spectrier",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0897-spectrier.png"
-  },
-  {
-    "id": "pkmn_0898",
-    "name": "Calyrex",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0898-calyrex.png"
-  },
-  {
-    "id": "pkmn_0899",
-    "name": "Wyrdeer",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0899-wyrdeer.png"
-  },
-  {
-    "id": "pkmn_0900",
-    "name": "Kleavor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0900-kleavor.png"
-  },
-  {
-    "id": "pkmn_0901",
-    "name": "Ursaluna",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0901-ursaluna.png"
-  },
-  {
-    "id": "pkmn_0902",
-    "name": "Basculegion Male",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0902-basculegion-male.png"
-  },
-  {
-    "id": "pkmn_0903",
-    "name": "Sneasler",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0903-sneasler.png"
-  },
-  {
-    "id": "pkmn_0904",
-    "name": "Overqwil",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0904-overqwil.png"
-  },
-  {
-    "id": "pkmn_0905",
-    "name": "Enamorus Incarnate",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0905-enamorus-incarnate.png"
-  }
-];
-window.QM_POKEMON_GEN9_DATA = [
-  {
-    "id": "pkmn_0906",
-    "name": "Sprigatito",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0906-sprigatito.png"
-  },
-  {
-    "id": "pkmn_0907",
-    "name": "Floragato",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0907-floragato.png"
-  },
-  {
-    "id": "pkmn_0908",
-    "name": "Meowscarada",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0908-meowscarada.png"
-  },
-  {
-    "id": "pkmn_0909",
-    "name": "Fuecoco",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0909-fuecoco.png"
-  },
-  {
-    "id": "pkmn_0910",
-    "name": "Crocalor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0910-crocalor.png"
-  },
-  {
-    "id": "pkmn_0911",
-    "name": "Skeledirge",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0911-skeledirge.png"
-  },
-  {
-    "id": "pkmn_0912",
-    "name": "Quaxly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0912-quaxly.png"
-  },
-  {
-    "id": "pkmn_0913",
-    "name": "Quaxwell",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0913-quaxwell.png"
-  },
-  {
-    "id": "pkmn_0914",
-    "name": "Quaquaval",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0914-quaquaval.png"
-  },
-  {
-    "id": "pkmn_0915",
-    "name": "Lechonk",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0915-lechonk.png"
-  },
-  {
-    "id": "pkmn_0916",
-    "name": "Oinkologne Male",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0916-oinkologne-male.png"
-  },
-  {
-    "id": "pkmn_0917",
-    "name": "Tarountula",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0917-tarountula.png"
-  },
-  {
-    "id": "pkmn_0918",
-    "name": "Spidops",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0918-spidops.png"
-  },
-  {
-    "id": "pkmn_0919",
-    "name": "Nymble",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0919-nymble.png"
-  },
-  {
-    "id": "pkmn_0920",
-    "name": "Lokix",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0920-lokix.png"
-  },
-  {
-    "id": "pkmn_0921",
-    "name": "Pawmi",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0921-pawmi.png"
-  },
-  {
-    "id": "pkmn_0922",
-    "name": "Pawmo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0922-pawmo.png"
-  },
-  {
-    "id": "pkmn_0923",
-    "name": "Pawmot",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0923-pawmot.png"
-  },
-  {
-    "id": "pkmn_0924",
-    "name": "Tandemaus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0924-tandemaus.png"
-  },
-  {
-    "id": "pkmn_0925",
-    "name": "Maushold Family Of Four",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0925-maushold-family-of-four.png"
-  },
-  {
-    "id": "pkmn_0926",
-    "name": "Fidough",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0926-fidough.png"
-  },
-  {
-    "id": "pkmn_0927",
-    "name": "Dachsbun",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0927-dachsbun.png"
-  },
-  {
-    "id": "pkmn_0928",
-    "name": "Smoliv",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0928-smoliv.png"
-  },
-  {
-    "id": "pkmn_0929",
-    "name": "Dolliv",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0929-dolliv.png"
-  },
-  {
-    "id": "pkmn_0930",
-    "name": "Arboliva",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0930-arboliva.png"
-  },
-  {
-    "id": "pkmn_0931",
-    "name": "Squawkabilly Green Plumage",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0931-squawkabilly-green-plumage.png"
-  },
-  {
-    "id": "pkmn_0932",
-    "name": "Nacli",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0932-nacli.png"
-  },
-  {
-    "id": "pkmn_0933",
-    "name": "Naclstack",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0933-naclstack.png"
-  },
-  {
-    "id": "pkmn_0934",
-    "name": "Garganacl",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0934-garganacl.png"
-  },
-  {
-    "id": "pkmn_0935",
-    "name": "Charcadet",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0935-charcadet.png"
-  },
-  {
-    "id": "pkmn_0936",
-    "name": "Armarouge",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0936-armarouge.png"
-  },
-  {
-    "id": "pkmn_0937",
-    "name": "Ceruledge",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0937-ceruledge.png"
-  },
-  {
-    "id": "pkmn_0938",
-    "name": "Tadbulb",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0938-tadbulb.png"
-  },
-  {
-    "id": "pkmn_0939",
-    "name": "Bellibolt",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0939-bellibolt.png"
-  },
-  {
-    "id": "pkmn_0940",
-    "name": "Wattrel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0940-wattrel.png"
-  },
-  {
-    "id": "pkmn_0941",
-    "name": "Kilowattrel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0941-kilowattrel.png"
-  },
-  {
-    "id": "pkmn_0942",
-    "name": "Maschiff",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0942-maschiff.png"
-  },
-  {
-    "id": "pkmn_0943",
-    "name": "Mabosstiff",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0943-mabosstiff.png"
-  },
-  {
-    "id": "pkmn_0944",
-    "name": "Shroodle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0944-shroodle.png"
-  },
-  {
-    "id": "pkmn_0945",
-    "name": "Grafaiai",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0945-grafaiai.png"
-  },
-  {
-    "id": "pkmn_0946",
-    "name": "Bramblin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0946-bramblin.png"
-  },
-  {
-    "id": "pkmn_0947",
-    "name": "Brambleghast",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0947-brambleghast.png"
-  },
-  {
-    "id": "pkmn_0948",
-    "name": "Toedscool",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0948-toedscool.png"
-  },
-  {
-    "id": "pkmn_0949",
-    "name": "Toedscruel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0949-toedscruel.png"
-  },
-  {
-    "id": "pkmn_0950",
-    "name": "Klawf",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0950-klawf.png"
-  },
-  {
-    "id": "pkmn_0951",
-    "name": "Capsakid",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0951-capsakid.png"
-  },
-  {
-    "id": "pkmn_0952",
-    "name": "Scovillain",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0952-scovillain.png"
-  },
-  {
-    "id": "pkmn_0953",
-    "name": "Rellor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0953-rellor.png"
-  },
-  {
-    "id": "pkmn_0954",
-    "name": "Rabsca",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0954-rabsca.png"
-  },
-  {
-    "id": "pkmn_0955",
-    "name": "Flittle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0955-flittle.png"
-  },
-  {
-    "id": "pkmn_0956",
-    "name": "Espathra",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0956-espathra.png"
-  },
-  {
-    "id": "pkmn_0957",
-    "name": "Tinkatink",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0957-tinkatink.png"
-  },
-  {
-    "id": "pkmn_0958",
-    "name": "Tinkatuff",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0958-tinkatuff.png"
-  },
-  {
-    "id": "pkmn_0959",
-    "name": "Tinkaton",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0959-tinkaton.png"
-  },
-  {
-    "id": "pkmn_0960",
-    "name": "Wiglett",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0960-wiglett.png"
-  },
-  {
-    "id": "pkmn_0961",
-    "name": "Wugtrio",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0961-wugtrio.png"
-  },
-  {
-    "id": "pkmn_0962",
-    "name": "Bombirdier",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0962-bombirdier.png"
-  },
-  {
-    "id": "pkmn_0963",
-    "name": "Finizen",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0963-finizen.png"
-  },
-  {
-    "id": "pkmn_0964",
-    "name": "Palafin Zero",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0964-palafin-zero.png"
-  },
-  {
-    "id": "pkmn_0965",
-    "name": "Varoom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0965-varoom.png"
-  },
-  {
-    "id": "pkmn_0966",
-    "name": "Revavroom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0966-revavroom.png"
-  },
-  {
-    "id": "pkmn_0967",
-    "name": "Cyclizar",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0967-cyclizar.png"
-  },
-  {
-    "id": "pkmn_0968",
-    "name": "Orthworm",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0968-orthworm.png"
-  },
-  {
-    "id": "pkmn_0969",
-    "name": "Glimmet",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0969-glimmet.png"
-  },
-  {
-    "id": "pkmn_0970",
-    "name": "Glimmora",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0970-glimmora.png"
-  },
-  {
-    "id": "pkmn_0971",
-    "name": "Greavard",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0971-greavard.png"
-  },
-  {
-    "id": "pkmn_0972",
-    "name": "Houndstone",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0972-houndstone.png"
-  },
-  {
-    "id": "pkmn_0973",
-    "name": "Flamigo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0973-flamigo.png"
-  },
-  {
-    "id": "pkmn_0974",
-    "name": "Cetoddle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0974-cetoddle.png"
-  },
-  {
-    "id": "pkmn_0975",
-    "name": "Cetitan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0975-cetitan.png"
-  },
-  {
-    "id": "pkmn_0976",
-    "name": "Veluza",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0976-veluza.png"
-  },
-  {
-    "id": "pkmn_0977",
-    "name": "Dondozo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0977-dondozo.png"
-  },
-  {
-    "id": "pkmn_0978",
-    "name": "Tatsugiri Curly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0978-tatsugiri-curly.png"
-  },
-  {
-    "id": "pkmn_0979",
-    "name": "Annihilape",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0979-annihilape.png"
-  },
-  {
-    "id": "pkmn_0980",
-    "name": "Clodsire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0980-clodsire.png"
-  },
-  {
-    "id": "pkmn_0981",
-    "name": "Farigiraf",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0981-farigiraf.png"
-  },
-  {
-    "id": "pkmn_0982",
-    "name": "Dudunsparce Two Segment",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0982-dudunsparce-two-segment.png"
-  },
-  {
-    "id": "pkmn_0983",
-    "name": "Kingambit",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0983-kingambit.png"
-  },
-  {
-    "id": "pkmn_0984",
-    "name": "Great Tusk",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0984-great-tusk.png"
-  },
-  {
-    "id": "pkmn_0985",
-    "name": "Scream Tail",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0985-scream-tail.png"
-  },
-  {
-    "id": "pkmn_0986",
-    "name": "Brute Bonnet",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0986-brute-bonnet.png"
-  },
-  {
-    "id": "pkmn_0987",
-    "name": "Flutter Mane",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0987-flutter-mane.png"
-  },
-  {
-    "id": "pkmn_0988",
-    "name": "Slither Wing",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0988-slither-wing.png"
-  },
-  {
-    "id": "pkmn_0989",
-    "name": "Sandy Shocks",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0989-sandy-shocks.png"
-  },
-  {
-    "id": "pkmn_0990",
-    "name": "Iron Treads",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0990-iron-treads.png"
-  },
-  {
-    "id": "pkmn_0991",
-    "name": "Iron Bundle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0991-iron-bundle.png"
-  },
-  {
-    "id": "pkmn_0992",
-    "name": "Iron Hands",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0992-iron-hands.png"
-  },
-  {
-    "id": "pkmn_0993",
-    "name": "Iron Jugulis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0993-iron-jugulis.png"
-  },
-  {
-    "id": "pkmn_0994",
-    "name": "Iron Moth",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0994-iron-moth.png"
-  },
-  {
-    "id": "pkmn_0995",
-    "name": "Iron Thorns",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0995-iron-thorns.png"
-  },
-  {
-    "id": "pkmn_0996",
-    "name": "Frigibax",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0996-frigibax.png"
-  },
-  {
-    "id": "pkmn_0997",
-    "name": "Arctibax",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0997-arctibax.png"
-  },
-  {
-    "id": "pkmn_0998",
-    "name": "Baxcalibur",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0998-baxcalibur.png"
-  },
-  {
-    "id": "pkmn_0999",
-    "name": "Gimmighoul",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0999-gimmighoul.png"
-  },
-  {
-    "id": "pkmn_1000",
-    "name": "Gholdengo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1000-gholdengo.png"
-  },
-  {
-    "id": "pkmn_1001",
-    "name": "Wo Chien",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1001-wo-chien.png"
-  },
-  {
-    "id": "pkmn_1002",
-    "name": "Chien Pao",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1002-chien-pao.png"
-  },
-  {
-    "id": "pkmn_1003",
-    "name": "Ting Lu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1003-ting-lu.png"
-  },
-  {
-    "id": "pkmn_1004",
-    "name": "Chi Yu",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1004-chi-yu.png"
-  },
-  {
-    "id": "pkmn_1005",
-    "name": "Roaring Moon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1005-roaring-moon.png"
-  },
-  {
-    "id": "pkmn_1006",
-    "name": "Iron Valiant",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1006-iron-valiant.png"
-  },
-  {
-    "id": "pkmn_1007",
-    "name": "Koraidon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1007-koraidon.png"
-  },
-  {
-    "id": "pkmn_1008",
-    "name": "Miraidon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1008-miraidon.png"
-  },
-  {
-    "id": "pkmn_1009",
-    "name": "Walking Wake",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1009-walking-wake.png"
-  },
-  {
-    "id": "pkmn_1010",
-    "name": "Iron Leaves",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1010-iron-leaves.png"
-  },
-  {
-    "id": "pkmn_1011",
-    "name": "Dipplin",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1011-dipplin.png"
-  },
-  {
-    "id": "pkmn_1012",
-    "name": "Poltchageist",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1012-poltchageist.png"
-  },
-  {
-    "id": "pkmn_1013",
-    "name": "Sinistcha",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1013-sinistcha.png"
-  },
-  {
-    "id": "pkmn_1014",
-    "name": "Okidogi",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1014-okidogi.png"
-  },
-  {
-    "id": "pkmn_1015",
-    "name": "Munkidori",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1015-munkidori.png"
-  },
-  {
-    "id": "pkmn_1016",
-    "name": "Fezandipiti",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1016-fezandipiti.png"
-  },
-  {
-    "id": "pkmn_1017",
-    "name": "Ogerpon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1017-ogerpon.png"
-  },
-  {
-    "id": "pkmn_1018",
-    "name": "Archaludon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1018-archaludon.png"
-  },
-  {
-    "id": "pkmn_1019",
-    "name": "Hydrapple",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1019-hydrapple.png"
-  },
-  {
-    "id": "pkmn_1020",
-    "name": "Gouging Fire",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1020-gouging-fire.png"
-  },
-  {
-    "id": "pkmn_1021",
-    "name": "Raging Bolt",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1021-raging-bolt.png"
-  },
-  {
-    "id": "pkmn_1022",
-    "name": "Iron Boulder",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1022-iron-boulder.png"
-  },
-  {
-    "id": "pkmn_1023",
-    "name": "Iron Crown",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1023-iron-crown.png"
-  },
-  {
-    "id": "pkmn_1024",
-    "name": "Terapagos",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1024-terapagos.png"
-  },
-  {
-    "id": "pkmn_1025",
-    "name": "Pecharunt",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1025-pecharunt.png"
   }
 ];
 window.QM_VOCAB_ANIMALS_DATA = [
@@ -44571,608 +39429,6 @@ window.QM_IDIOMS2_DATA = [
     "example": "Her first novel broke the mould for the genre."
   }
 ];
-window.QM_IDIOMSOBSCURE_DATA = [
-  {
-    "id": 1,
-    "term": "All mouth and no trousers",
-    "definition": "Full of boastful talk but never actually acts",
-    "example": "He's been promising to fix that fence for a year — all mouth and no trousers."
-  },
-  {
-    "id": 2,
-    "term": "At sixes and sevens",
-    "definition": "In complete disorder or confusion",
-    "example": "The office was at sixes and sevens the week before the move."
-  },
-  {
-    "id": 3,
-    "term": "The back of beyond",
-    "definition": "An extremely remote place",
-    "example": "Their cottage is out in the back of beyond, miles from a shop."
-  },
-  {
-    "id": 4,
-    "term": "A baker's dozen",
-    "definition": "Thirteen rather than twelve",
-    "example": "She asked for a dozen buns and got a baker's dozen."
-  },
-  {
-    "id": 5,
-    "term": "Beyond the pale",
-    "definition": "Outside the bounds of acceptable behaviour",
-    "example": "Shouting at the referee is one thing, but that was beyond the pale."
-  },
-  {
-    "id": 6,
-    "term": "Blot your copybook",
-    "definition": "Spoil an otherwise good record with one mistake",
-    "example": "He blotted his copybook by turning up late to the interview."
-  },
-  {
-    "id": 7,
-    "term": "Bob's your uncle",
-    "definition": "And there you have it — it's as simple as that",
-    "example": "Twist it clockwise, tighten the screw, and Bob's your uncle."
-  },
-  {
-    "id": 8,
-    "term": "Born with a silver spoon in your mouth",
-    "definition": "Born into wealth and privilege",
-    "example": "He talks about hardship, but he was born with a silver spoon in his mouth."
-  },
-  {
-    "id": 9,
-    "term": "A busman's holiday",
-    "definition": "Time off spent doing what you do at work anyway",
-    "example": "A chef eating out every night is a bit of a busman's holiday."
-  },
-  {
-    "id": 10,
-    "term": "By hook or by crook",
-    "definition": "By whatever means it takes",
-    "example": "We'll get there by Friday, by hook or by crook."
-  },
-  {
-    "id": 11,
-    "term": "Cap in hand",
-    "definition": "Humbly, as a supplicant asking for something",
-    "example": "They went cap in hand to the bank for another loan."
-  },
-  {
-    "id": 12,
-    "term": "Carry coals to Newcastle",
-    "definition": "Do something completely superfluous",
-    "example": "Taking wine to a vineyard is carrying coals to Newcastle."
-  },
-  {
-    "id": 13,
-    "term": "Chalk and cheese",
-    "definition": "Two things utterly unlike each other",
-    "example": "The twins are chalk and cheese."
-  },
-  {
-    "id": 14,
-    "term": "Cock a snook",
-    "definition": "Show open contempt or defiance",
-    "example": "The film cocks a snook at the whole industry."
-  },
-  {
-    "id": 15,
-    "term": "Come a cropper",
-    "definition": "Suffer a heavy fall or a sudden failure",
-    "example": "He came a cropper on the last bend."
-  },
-  {
-    "id": 16,
-    "term": "Cupboard love",
-    "definition": "Affection shown only to get something",
-    "example": "The cat's all purrs at six o'clock — pure cupboard love."
-  },
-  {
-    "id": 17,
-    "term": "A curate's egg",
-    "definition": "Partly good and partly bad",
-    "example": "The reviews called the album a curate's egg."
-  },
-  {
-    "id": 18,
-    "term": "A damp squib",
-    "definition": "Something that fails to live up to expectations",
-    "example": "After all the hype the parade was a damp squib."
-  },
-  {
-    "id": 19,
-    "term": "A dead ringer",
-    "definition": "An exact double of someone",
-    "example": "Your brother is a dead ringer for our old geography teacher."
-  },
-  {
-    "id": 20,
-    "term": "The devil to pay",
-    "definition": "Serious trouble still to come",
-    "example": "If the inspectors find that, there'll be the devil to pay."
-  },
-  {
-    "id": 21,
-    "term": "Dine out on something",
-    "definition": "Retell a story for years for social credit",
-    "example": "He's dined out on meeting the Queen ever since."
-  },
-  {
-    "id": 22,
-    "term": "Donkey's years",
-    "definition": "A very long time indeed",
-    "example": "I haven't seen Pat in donkey's years."
-  },
-  {
-    "id": 23,
-    "term": "Fall on your sword",
-    "definition": "Take the blame and resign over it",
-    "example": "The minister fell on his sword after the leak."
-  },
-  {
-    "id": 24,
-    "term": "A fine kettle of fish",
-    "definition": "An awkward mess of a situation",
-    "example": "Both drivers off sick — that's a fine kettle of fish."
-  },
-  {
-    "id": 25,
-    "term": "A flash in the pan",
-    "definition": "A brief success that is never repeated",
-    "example": "One good season, then nothing — a flash in the pan."
-  },
-  {
-    "id": 26,
-    "term": "A fly in the ointment",
-    "definition": "One small thing that spoils the whole",
-    "example": "The venue is perfect; the parking is the fly in the ointment."
-  },
-  {
-    "id": 27,
-    "term": "Get down to brass tacks",
-    "definition": "Deal with the practical details at last",
-    "example": "Let's get down to brass tacks — what will it cost?"
-  },
-  {
-    "id": 28,
-    "term": "The gift of the gab",
-    "definition": "A natural talent for fluent, persuasive talk",
-    "example": "With his gift of the gab he could sell anything."
-  },
-  {
-    "id": 29,
-    "term": "Gild the lily",
-    "definition": "Spoil something fine by over-embellishing it",
-    "example": "The dress is lovely as it is — don't gild the lily."
-  },
-  {
-    "id": 30,
-    "term": "Go the whole hog",
-    "definition": "Do the thing completely, holding nothing back",
-    "example": "They went the whole hog and hired a marquee."
-  },
-  {
-    "id": 31,
-    "term": "Grasp the nettle",
-    "definition": "Tackle an unpleasant difficulty boldly",
-    "example": "Someone has to grasp the nettle and tell him."
-  },
-  {
-    "id": 32,
-    "term": "The hair of the dog",
-    "definition": "A morning drink taken to cure a hangover",
-    "example": "He swore by the hair of the dog on New Year's Day."
-  },
-  {
-    "id": 33,
-    "term": "Hang fire",
-    "definition": "Hold back and delay taking action",
-    "example": "Hang fire on the order until the survey is in."
-  },
-  {
-    "id": 34,
-    "term": "Hoist by your own petard",
-    "definition": "Harmed by the very scheme you devised",
-    "example": "He was hoist by his own petard when the rule caught him too."
-  },
-  {
-    "id": 35,
-    "term": "In a brown study",
-    "definition": "Lost in gloomy, absorbed thought",
-    "example": "She sat in a brown study all the way home."
-  },
-  {
-    "id": 36,
-    "term": "In the doldrums",
-    "definition": "Flat, stagnant and low-spirited",
-    "example": "Sales have been in the doldrums since Christmas."
-  },
-  {
-    "id": 37,
-    "term": "In the offing",
-    "definition": "Likely to happen before long",
-    "example": "There's a reshuffle in the offing, by all accounts."
-  },
-  {
-    "id": 38,
-    "term": "Jam tomorrow",
-    "definition": "A promised benefit that never actually arrives",
-    "example": "Another pay review, another helping of jam tomorrow."
-  },
-  {
-    "id": 39,
-    "term": "Keep your powder dry",
-    "definition": "Stay ready and hold your resources in reserve",
-    "example": "Say nothing yet and keep your powder dry."
-  },
-  {
-    "id": 40,
-    "term": "Kick over the traces",
-    "definition": "Throw off restraint and start misbehaving",
-    "example": "He kicked over the traces the moment he left home."
-  },
-  {
-    "id": 41,
-    "term": "Knock into a cocked hat",
-    "definition": "Beat something comprehensively",
-    "example": "This year's team knocks last year's into a cocked hat."
-  },
-  {
-    "id": 42,
-    "term": "A lame duck",
-    "definition": "Someone or something left ineffective and powerless",
-    "example": "The chairman is a lame duck until the vote."
-  },
-  {
-    "id": 43,
-    "term": "Laugh like a drain",
-    "definition": "Laugh loudly and coarsely",
-    "example": "She laughed like a drain at his impression of the vicar."
-  },
-  {
-    "id": 44,
-    "term": "Lead someone a merry dance",
-    "definition": "Cause someone a great deal of trouble",
-    "example": "The insurers led us a merry dance for six months."
-  },
-  {
-    "id": 45,
-    "term": "Leave someone in the lurch",
-    "definition": "Abandon them in the middle of difficulty",
-    "example": "He resigned mid-project and left us in the lurch."
-  },
-  {
-    "id": 46,
-    "term": "Let the side down",
-    "definition": "Fail the people who were counting on you",
-    "example": "Turn up sober and don't let the side down."
-  },
-  {
-    "id": 47,
-    "term": "The life of Riley",
-    "definition": "An easy, comfortable, carefree life",
-    "example": "Retired at fifty-five, living the life of Riley."
-  },
-  {
-    "id": 48,
-    "term": "Long in the tooth",
-    "definition": "Getting rather old for something",
-    "example": "I'm a bit long in the tooth for five-a-side."
-  },
-  {
-    "id": 49,
-    "term": "Mind your Ps and Qs",
-    "definition": "Be careful of your manners and language",
-    "example": "Mind your Ps and Qs at your grandmother's."
-  },
-  {
-    "id": 50,
-    "term": "Mutton dressed as lamb",
-    "definition": "Dressed far too young for one's age",
-    "example": "The hat was pure mutton dressed as lamb."
-  },
-  {
-    "id": 51,
-    "term": "Nail your colours to the mast",
-    "definition": "Declare your position openly and for good",
-    "example": "He nailed his colours to the mast and backed the strike."
-  },
-  {
-    "id": 52,
-    "term": "Nineteen to the dozen",
-    "definition": "Talking rapidly and without pause",
-    "example": "She was chatting nineteen to the dozen all the way there."
-  },
-  {
-    "id": 53,
-    "term": "No room to swing a cat",
-    "definition": "Extremely cramped for space",
-    "example": "The kitchen's lovely but there's no room to swing a cat."
-  },
-  {
-    "id": 54,
-    "term": "Not cricket",
-    "definition": "Unfair; against the spirit of fair play",
-    "example": "Reading someone's post simply isn't cricket."
-  },
-  {
-    "id": 55,
-    "term": "Off your own bat",
-    "definition": "On your own initiative, unprompted",
-    "example": "He organised the whole collection off his own bat."
-  },
-  {
-    "id": 56,
-    "term": "On tenterhooks",
-    "definition": "In a state of anxious suspense",
-    "example": "We were on tenterhooks until the phone rang."
-  },
-  {
-    "id": 57,
-    "term": "On the fiddle",
-    "definition": "Engaged in petty dishonesty for gain",
-    "example": "The stocktake showed someone had been on the fiddle."
-  },
-  {
-    "id": 58,
-    "term": "Out of kilter",
-    "definition": "Out of balance or proper working order",
-    "example": "My sleep has been out of kilter since the flight."
-  },
-  {
-    "id": 59,
-    "term": "Over-egg the pudding",
-    "definition": "Overdo something and spoil the effect",
-    "example": "One apology is enough — don't over-egg the pudding."
-  },
-  {
-    "id": 60,
-    "term": "A pig in a poke",
-    "definition": "Something bought without being inspected first",
-    "example": "Buying at auction unseen is asking for a pig in a poke."
-  },
-  {
-    "id": 61,
-    "term": "Pip someone at the post",
-    "definition": "Beat them at the very last moment",
-    "example": "We were pipped at the post by two votes."
-  },
-  {
-    "id": 62,
-    "term": "Pour oil on troubled waters",
-    "definition": "Say something calming to settle a dispute",
-    "example": "The chair poured oil on troubled waters and the meeting went on."
-  },
-  {
-    "id": 63,
-    "term": "Pull the wool over someone's eyes",
-    "definition": "Deceive them thoroughly",
-    "example": "Don't let that salesman pull the wool over your eyes."
-  },
-  {
-    "id": 64,
-    "term": "Push the boat out",
-    "definition": "Spend generously on a celebration",
-    "example": "They pushed the boat out for their fortieth anniversary."
-  },
-  {
-    "id": 65,
-    "term": "Put the cat among the pigeons",
-    "definition": "Say or do something that causes uproar",
-    "example": "Mentioning the merger really put the cat among the pigeons."
-  },
-  {
-    "id": 66,
-    "term": "Put the kibosh on",
-    "definition": "Put a decisive stop to something",
-    "example": "The weather put the kibosh on the barbecue."
-  },
-  {
-    "id": 67,
-    "term": "Queer someone's pitch",
-    "definition": "Spoil their plans in advance",
-    "example": "Announcing early queered our pitch completely."
-  },
-  {
-    "id": 68,
-    "term": "Rest on your laurels",
-    "definition": "Coast along on past achievements",
-    "example": "One good year is no reason to rest on your laurels."
-  },
-  {
-    "id": 69,
-    "term": "Rob Peter to pay Paul",
-    "definition": "Settle one debt by creating another",
-    "example": "Paying the card off with a loan is robbing Peter to pay Paul."
-  },
-  {
-    "id": 70,
-    "term": "A sacred cow",
-    "definition": "Something held immune from criticism",
-    "example": "In this office the Friday meeting is a sacred cow."
-  },
-  {
-    "id": 71,
-    "term": "Sail close to the wind",
-    "definition": "Act right at the edge of what's allowed",
-    "example": "That expenses claim sails very close to the wind."
-  },
-  {
-    "id": 72,
-    "term": "Salad days",
-    "definition": "The carefree, inexperienced time of your youth",
-    "example": "In my salad days I'd think nothing of a night bus home."
-  },
-  {
-    "id": 73,
-    "term": "Scot-free",
-    "definition": "Without any punishment at all",
-    "example": "The driver who caused it got off scot-free."
-  },
-  {
-    "id": 74,
-    "term": "Send someone to Coventry",
-    "definition": "Ostracise them by refusing to speak to them",
-    "example": "The crew sent him to Coventry after he informed on them."
-  },
-  {
-    "id": 75,
-    "term": "Shank's pony",
-    "definition": "On foot; walking",
-    "example": "The last bus had gone, so it was shank's pony home."
-  },
-  {
-    "id": 76,
-    "term": "Ship-shape and Bristol fashion",
-    "definition": "Neat, orderly and properly prepared",
-    "example": "He left the workshop ship-shape and Bristol fashion."
-  },
-  {
-    "id": 77,
-    "term": "Short shrift",
-    "definition": "Brief and unsympathetic treatment",
-    "example": "The complaint got short shrift from the council."
-  },
-  {
-    "id": 78,
-    "term": "A skeleton in the cupboard",
-    "definition": "A shameful secret from the past",
-    "example": "Every old family has a skeleton or two in the cupboard."
-  },
-  {
-    "id": 79,
-    "term": "Sling your hook",
-    "definition": "Go away; clear off",
-    "example": "He was told in no uncertain terms to sling his hook."
-  },
-  {
-    "id": 80,
-    "term": "Spend a penny",
-    "definition": "Go to the lavatory",
-    "example": "I'll just spend a penny before we set off."
-  },
-  {
-    "id": 81,
-    "term": "Spick and span",
-    "definition": "Spotlessly clean and tidy",
-    "example": "The whole house was spick and span before the viewing."
-  },
-  {
-    "id": 82,
-    "term": "A stalking horse",
-    "definition": "A false front used to disguise the real aim",
-    "example": "His candidacy was only ever a stalking horse."
-  },
-  {
-    "id": 83,
-    "term": "Steal a march on someone",
-    "definition": "Gain an advantage by acting first",
-    "example": "They stole a march on us by launching in April."
-  },
-  {
-    "id": 84,
-    "term": "A swan song",
-    "definition": "A final performance before retiring or ending",
-    "example": "The concert was the conductor's swan song."
-  },
-  {
-    "id": 85,
-    "term": "Swing the lead",
-    "definition": "Shirk work by inventing excuses",
-    "example": "He's not ill, he's swinging the lead again."
-  },
-  {
-    "id": 86,
-    "term": "Take the biscuit",
-    "definition": "Be the most extreme or annoying instance yet",
-    "example": "Charging for tap water really takes the biscuit."
-  },
-  {
-    "id": 87,
-    "term": "Talk the hind legs off a donkey",
-    "definition": "Talk endlessly and unstoppably",
-    "example": "Don't get her started — she'd talk the hind legs off a donkey."
-  },
-  {
-    "id": 88,
-    "term": "Tarred with the same brush",
-    "definition": "Assumed to share the same faults as others",
-    "example": "One bad landlord and they're all tarred with the same brush."
-  },
-  {
-    "id": 89,
-    "term": "The bee's knees",
-    "definition": "Outstandingly good",
-    "example": "He thinks that car is the bee's knees."
-  },
-  {
-    "id": 90,
-    "term": "The full monty",
-    "definition": "The whole lot; everything included",
-    "example": "Breakfast came with the full monty, black pudding and all."
-  },
-  {
-    "id": 91,
-    "term": "The penny dropped",
-    "definition": "You finally understood",
-    "example": "Halfway home the penny dropped and I realised who she was."
-  },
-  {
-    "id": 92,
-    "term": "The real McCoy",
-    "definition": "The genuine article, not an imitation",
-    "example": "That's no copy — it's the real McCoy."
-  },
-  {
-    "id": 93,
-    "term": "Tilt at windmills",
-    "definition": "Fight enemies that exist only in your head",
-    "example": "Campaigning against that is tilting at windmills."
-  },
-  {
-    "id": 94,
-    "term": "A turn-up for the books",
-    "definition": "A surprising and unexpected development",
-    "example": "Him volunteering was a turn-up for the books."
-  },
-  {
-    "id": 95,
-    "term": "Turn up trumps",
-    "definition": "Come good unexpectedly when it matters",
-    "example": "The neighbours turned up trumps while she was in hospital."
-  },
-  {
-    "id": 96,
-    "term": "Up sticks",
-    "definition": "Pack up and move away",
-    "example": "They upped sticks and moved to the coast."
-  },
-  {
-    "id": 97,
-    "term": "Warts and all",
-    "definition": "Including every flaw, nothing hidden",
-    "example": "It's an honest portrait of the man, warts and all."
-  },
-  {
-    "id": 98,
-    "term": "Wet behind the ears",
-    "definition": "Young, raw and inexperienced",
-    "example": "The new sergeant was still wet behind the ears."
-  },
-  {
-    "id": 99,
-    "term": "A whipping boy",
-    "definition": "Someone made to take the blame for others",
-    "example": "The department became the whipping boy for every delay."
-  },
-  {
-    "id": 100,
-    "term": "The wooden spoon",
-    "definition": "The booby prize for finishing last",
-    "example": "We won the wooden spoon three seasons running."
-  }
-];
 window.QM_GENZ_DATA = [
   {
     "id": 1,
@@ -45775,6628 +40031,606 @@ window.QM_GENZ_DATA = [
     "example": "He complained about phones again — ok boomer."
   }
 ];
-window.QM_IDIOMS_PL_DATA = [
+window.QM_IDIOMSOBSCURE_DATA = [
   {
     "id": 1,
-    "term": "Bułka z masłem",
-    "definition": "\"A bread roll with butter\" — a piece of cake; dead easy",
-    "example": "Ten egzamin to była bułka z masłem."
+    "term": "All mouth and no trousers",
+    "definition": "Full of boastful talk but never actually acts",
+    "example": "He's been promising to fix that fence for a year — all mouth and no trousers."
   },
   {
     "id": 2,
-    "term": "Rzucać grochem o ścianę",
-    "definition": "\"To throw peas at a wall\" — to waste your breath on someone",
-    "example": "Tłumaczę mu to od lat, ale to jak rzucanie grochem o ścianę."
+    "term": "At sixes and sevens",
+    "definition": "In complete disorder or confusion",
+    "example": "The office was at sixes and sevens the week before the move."
   },
   {
     "id": 3,
-    "term": "Nie mój cyrk, nie moje małpy",
-    "definition": "\"Not my circus, not my monkeys\" — not my problem",
-    "example": "Niech sami to sobie rozwiążą — nie mój cyrk, nie moje małpy."
+    "term": "The back of beyond",
+    "definition": "An extremely remote place",
+    "example": "Their cottage is out in the back of beyond, miles from a shop."
   },
   {
     "id": 4,
-    "term": "Wiercić komuś dziurę w brzuchu",
-    "definition": "\"To drill a hole in someone's belly\" — to pester someone relentlessly",
-    "example": "Dzieci wierciły mi dziurę w brzuchu, żeby kupić psa."
+    "term": "A baker's dozen",
+    "definition": "Thirteen rather than twelve",
+    "example": "She asked for a dozen buns and got a baker's dozen."
   },
   {
     "id": 5,
-    "term": "Robić z igły widły",
-    "definition": "\"To make a pitchfork out of a needle\" — to make a mountain out of a molehill",
-    "example": "Spóźnił się pięć minut, nie rób z igły wideł."
+    "term": "Beyond the pale",
+    "definition": "Outside the bounds of acceptable behaviour",
+    "example": "Shouting at the referee is one thing, but that was beyond the pale."
   },
   {
     "id": 6,
-    "term": "Być nie w sosie",
-    "definition": "\"To be not in the sauce\" — to be in a bad mood",
-    "example": "Nie zaczepiaj go dzisiaj, jest nie w sosie."
+    "term": "Blot your copybook",
+    "definition": "Spoil an otherwise good record with one mistake",
+    "example": "He blotted his copybook by turning up late to the interview."
   },
   {
     "id": 7,
-    "term": "Mieć muchy w nosie",
-    "definition": "\"To have flies in your nose\" — to be sulky and touchy",
-    "example": "Od rana ma muchy w nosie i się nie odzywa."
+    "term": "Bob's your uncle",
+    "definition": "And there you have it — it's as simple as that",
+    "example": "Twist it clockwise, tighten the screw, and Bob's your uncle."
   },
   {
     "id": 8,
-    "term": "Czuć do kogoś miętę",
-    "definition": "\"To feel mint for someone\" — to fancy someone",
-    "example": "Chyba czuje do niej miętę od pierwszego dnia."
+    "term": "Born with a silver spoon in your mouth",
+    "definition": "Born into wealth and privilege",
+    "example": "He talks about hardship, but he was born with a silver spoon in his mouth."
   },
   {
     "id": 9,
-    "term": "Rzucać komuś kłody pod nogi",
-    "definition": "\"To throw logs under someone's feet\" — to put obstacles in their way",
-    "example": "Zamiast pomóc, rzucał nam kłody pod nogi."
+    "term": "A busman's holiday",
+    "definition": "Time off spent doing what you do at work anyway",
+    "example": "A chef eating out every night is a bit of a busman's holiday."
   },
   {
     "id": 10,
-    "term": "Wpaść jak śliwka w kompot",
-    "definition": "\"To fall in like a plum into compote\" — to land yourself in a mess",
-    "example": "Wpadłem jak śliwka w kompot i musiałem tłumaczyć się z wszystkiego."
+    "term": "By hook or by crook",
+    "definition": "By whatever means it takes",
+    "example": "We'll get there by Friday, by hook or by crook."
   },
   {
     "id": 11,
-    "term": "Gdzie diabeł mówi dobranoc",
-    "definition": "\"Where the devil says goodnight\" — the middle of nowhere",
-    "example": "Mieszkają gdzieś, gdzie diabeł mówi dobranoc."
+    "term": "Cap in hand",
+    "definition": "Humbly, as a supplicant asking for something",
+    "example": "They went cap in hand to the bank for another loan."
   },
   {
     "id": 12,
-    "term": "Mieć węża w kieszeni",
-    "definition": "\"To have a snake in your pocket\" — to be tight-fisted",
-    "example": "Nigdy nie stawia kawy — ma węża w kieszeni."
+    "term": "Carry coals to Newcastle",
+    "definition": "Do something completely superfluous",
+    "example": "Taking wine to a vineyard is carrying coals to Newcastle."
   },
   {
     "id": 13,
-    "term": "Chodzić spać z kurami",
-    "definition": "\"To go to bed with the hens\" — to turn in very early",
-    "example": "W wakacje chodzimy spać z kurami."
+    "term": "Chalk and cheese",
+    "definition": "Two things utterly unlike each other",
+    "example": "The twins are chalk and cheese."
   },
   {
     "id": 14,
-    "term": "Musztarda po obiedzie",
-    "definition": "\"Mustard after dinner\" — too little, too late",
-    "example": "Przeprosiny po tygodniu to musztarda po obiedzie."
+    "term": "Cock a snook",
+    "definition": "Show open contempt or defiance",
+    "example": "The film cocks a snook at the whole industry."
   },
   {
     "id": 15,
-    "term": "Nie ucz ojca dzieci robić",
-    "definition": "\"Don't teach your father how to make children\" — don't teach your grandmother to suck eggs",
-    "example": "Robię to od dwudziestu lat — nie ucz ojca dzieci robić."
+    "term": "Come a cropper",
+    "definition": "Suffer a heavy fall or a sudden failure",
+    "example": "He came a cropper on the last bend."
   },
   {
     "id": 16,
-    "term": "Co ma piernik do wiatraka?",
-    "definition": "\"What has gingerbread to do with a windmill?\" — what's that got to do with anything?",
-    "example": "Mówimy o rachunkach, a co ma piernik do wiatraka?"
+    "term": "Cupboard love",
+    "definition": "Affection shown only to get something",
+    "example": "The cat's all purrs at six o'clock — pure cupboard love."
   },
   {
     "id": 17,
-    "term": "Bić pianę",
-    "definition": "\"To beat foam\" — to waffle without saying anything",
-    "example": "Przestań bić pianę i powiedz, ile to kosztuje."
+    "term": "A curate's egg",
+    "definition": "Partly good and partly bad",
+    "example": "The reviews called the album a curate's egg."
   },
   {
     "id": 18,
-    "term": "Głowa do góry",
-    "definition": "\"Head up\" — chin up, keep your spirits up",
-    "example": "Głowa do góry, jutro będzie lepiej."
+    "term": "A damp squib",
+    "definition": "Something that fails to live up to expectations",
+    "example": "After all the hype the parade was a damp squib."
   },
   {
     "id": 19,
-    "term": "Trzymać kciuki",
-    "definition": "\"To hold your thumbs\" — to keep your fingers crossed",
-    "example": "Trzymam kciuki za twój egzamin."
+    "term": "A dead ringer",
+    "definition": "An exact double of someone",
+    "example": "Your brother is a dead ringer for our old geography teacher."
   },
   {
     "id": 20,
-    "term": "Raz na ruski rok",
-    "definition": "\"Once in a Russian year\" — once in a blue moon",
-    "example": "Dzwoni do nas raz na ruski rok."
+    "term": "The devil to pay",
+    "definition": "Serious trouble still to come",
+    "example": "If the inspectors find that, there'll be the devil to pay."
   },
   {
     "id": 21,
-    "term": "Wyjść z twarzą",
-    "definition": "\"To come out with your face\" — to save face",
-    "example": "Przegrali, ale wyszli z twarzy."
+    "term": "Dine out on something",
+    "definition": "Retell a story for years for social credit",
+    "example": "He's dined out on meeting the Queen ever since."
   },
   {
     "id": 22,
-    "term": "Mieć głowę na karku",
-    "definition": "\"To have a head on your neck\" — to have your wits about you",
-    "example": "Spokojnie, ona ma głowę na karku."
+    "term": "Donkey's years",
+    "definition": "A very long time indeed",
+    "example": "I haven't seen Pat in donkey's years."
   },
   {
     "id": 23,
-    "term": "Wziąć byka za rogi",
-    "definition": "\"To take the bull by the horns\" — to tackle it head on",
-    "example": "Wziął byka za rogi i zadzwonił do szefa."
+    "term": "Fall on your sword",
+    "definition": "Take the blame and resign over it",
+    "example": "The minister fell on his sword after the leak."
   },
   {
     "id": 24,
-    "term": "Rzucić okiem",
-    "definition": "\"To throw an eye\" — to have a quick look",
-    "example": "Rzuć okiem na tę umowę, dobrze?"
+    "term": "A fine kettle of fish",
+    "definition": "An awkward mess of a situation",
+    "example": "Both drivers off sick — that's a fine kettle of fish."
   },
   {
     "id": 25,
-    "term": "Rzucać słowa na wiatr",
-    "definition": "\"To throw words to the wind\" — to make promises you won't keep",
-    "example": "On nie rzuca słów na wiatr — jak obiecał, to zrobi."
+    "term": "A flash in the pan",
+    "definition": "A brief success that is never repeated",
+    "example": "One good season, then nothing — a flash in the pan."
   },
   {
     "id": 26,
-    "term": "Obiecywać gruszki na wierzbie",
-    "definition": "\"To promise pears on a willow\" — to promise the impossible",
-    "example": "Politycy znowu obiecują gruszki na wierzbie."
+    "term": "A fly in the ointment",
+    "definition": "One small thing that spoils the whole",
+    "example": "The venue is perfect; the parking is the fly in the ointment."
   },
   {
     "id": 27,
-    "term": "Robić dobrą minę do złej gry",
-    "definition": "\"To put a good face on a bad game\" — to grin and bear it",
-    "example": "Nie było mu wesoło, ale robił dobrą minę do złej gry."
+    "term": "Get down to brass tacks",
+    "definition": "Deal with the practical details at last",
+    "example": "Let's get down to brass tacks — what will it cost?"
   },
   {
     "id": 28,
-    "term": "Pluć sobie w brodę",
-    "definition": "\"To spit into your own beard\" — to kick yourself with regret",
-    "example": "Pluję sobie w brodę, że nie kupiłem tych biletów."
+    "term": "The gift of the gab",
+    "definition": "A natural talent for fluent, persuasive talk",
+    "example": "With his gift of the gab he could sell anything."
   },
   {
     "id": 29,
-    "term": "Wpuścić kogoś w maliny",
-    "definition": "\"To let someone into the raspberries\" — to lead them up the garden path",
-    "example": "Wpuścili nas w maliny z tym mieszkaniem."
+    "term": "Gild the lily",
+    "definition": "Spoil something fine by over-embellishing it",
+    "example": "The dress is lovely as it is — don't gild the lily."
   },
   {
     "id": 30,
-    "term": "Bez ogródek",
-    "definition": "\"Without little gardens\" — bluntly, without mincing words",
-    "example": "Powiedziała mu bez ogródek, co o tym myśli."
+    "term": "Go the whole hog",
+    "definition": "Do the thing completely, holding nothing back",
+    "example": "They went the whole hog and hired a marquee."
   },
   {
     "id": 31,
-    "term": "Kręcić nosem",
-    "definition": "\"To twist your nose\" — to turn your nose up at something",
-    "example": "Kręci nosem na każdą propozycję."
+    "term": "Grasp the nettle",
+    "definition": "Tackle an unpleasant difficulty boldly",
+    "example": "Someone has to grasp the nettle and tell him."
   },
   {
     "id": 32,
-    "term": "Mieć coś w małym palcu",
-    "definition": "\"To have something in your little finger\" — to know it inside out",
-    "example": "Ma tę ustawę w małym palcu."
+    "term": "The hair of the dog",
+    "definition": "A morning drink taken to cure a hangover",
+    "example": "He swore by the hair of the dog on New Year's Day."
   },
   {
     "id": 33,
-    "term": "Iść jak po maśle",
-    "definition": "\"To go like on butter\" — to go perfectly smoothly",
-    "example": "Rozmowa poszła jak po maśle."
+    "term": "Hang fire",
+    "definition": "Hold back and delay taking action",
+    "example": "Hang fire on the order until the survey is in."
   },
   {
     "id": 34,
-    "term": "Być w gorącej wodzie kąpanym",
-    "definition": "\"To have been bathed in hot water\" — to be impatient and hot-headed",
-    "example": "Poczekaj chwilę, jesteś w gorącej wodzie kąpany."
+    "term": "Hoist by your own petard",
+    "definition": "Harmed by the very scheme you devised",
+    "example": "He was hoist by his own petard when the rule caught him too."
   },
   {
     "id": 35,
-    "term": "Palić się do czegoś",
-    "definition": "\"To be on fire for something\" — to be raring to do it",
-    "example": "Pali się do tej pracy."
+    "term": "In a brown study",
+    "definition": "Lost in gloomy, absorbed thought",
+    "example": "She sat in a brown study all the way home."
   },
   {
     "id": 36,
-    "term": "Dolewać oliwy do ognia",
-    "definition": "\"To pour oil on the fire\" — to make matters worse",
-    "example": "Twoje żarty tylko dolewają oliwy do ognia."
+    "term": "In the doldrums",
+    "definition": "Flat, stagnant and low-spirited",
+    "example": "Sales have been in the doldrums since Christmas."
   },
   {
     "id": 37,
-    "term": "Owijać w bawełnę",
-    "definition": "\"To wrap in cotton wool\" — to beat about the bush",
-    "example": "Nie owijaj w bawełnę, powiedz wprost."
+    "term": "In the offing",
+    "definition": "Likely to happen before long",
+    "example": "There's a reshuffle in the offing, by all accounts."
   },
   {
     "id": 38,
-    "term": "Wywołać wilka z lasu",
-    "definition": "\"To call the wolf out of the forest\" — to speak of the devil",
-    "example": "O wilku mowa — właśnie wszedł."
+    "term": "Jam tomorrow",
+    "definition": "A promised benefit that never actually arrives",
+    "example": "Another pay review, another helping of jam tomorrow."
   },
   {
     "id": 39,
-    "term": "Nie zasypiać gruszek w popiele",
-    "definition": "\"Not to let pears sleep in the ashes\" — not to let a chance slip",
-    "example": "Nie zasypiaj gruszek w popiele i złóż podanie dziś."
+    "term": "Keep your powder dry",
+    "definition": "Stay ready and hold your resources in reserve",
+    "example": "Say nothing yet and keep your powder dry."
   },
   {
     "id": 40,
-    "term": "Kopać się z koniem",
-    "definition": "\"To kick with a horse\" — to fight a battle you cannot win",
-    "example": "Nie ma sensu kopać się z koniem, oni mają prawników."
+    "term": "Kick over the traces",
+    "definition": "Throw off restraint and start misbehaving",
+    "example": "He kicked over the traces the moment he left home."
   },
   {
     "id": 41,
-    "term": "Siedzieć jak na szpilkach",
-    "definition": "\"To sit as if on pins\" — to be on tenterhooks",
-    "example": "Siedziałam jak na szpilkach, czekając na wyniki."
+    "term": "Knock into a cocked hat",
+    "definition": "Beat something comprehensively",
+    "example": "This year's team knocks last year's into a cocked hat."
   },
   {
     "id": 42,
-    "term": "Mieć duszę na ramieniu",
-    "definition": "\"To have your soul on your shoulder\" — to have your heart in your mouth",
-    "example": "Wchodziłem tam z duszą na ramieniu."
+    "term": "A lame duck",
+    "definition": "Someone or something left ineffective and powerless",
+    "example": "The chairman is a lame duck until the vote."
   },
   {
     "id": 43,
-    "term": "Strach ma wielkie oczy",
-    "definition": "\"Fear has big eyes\" — fear makes things look worse than they are",
-    "example": "Wszystko poszło gładko — strach ma wielkie oczy."
+    "term": "Laugh like a drain",
+    "definition": "Laugh loudly and coarsely",
+    "example": "She laughed like a drain at his impression of the vicar."
   },
   {
     "id": 44,
-    "term": "Nie taki diabeł straszny, jak go malują",
-    "definition": "\"The devil isn't as terrible as he's painted\" — it's not as bad as it sounds",
-    "example": "Ten egzamin? Nie taki diabeł straszny, jak go malują."
+    "term": "Lead someone a merry dance",
+    "definition": "Cause someone a great deal of trouble",
+    "example": "The insurers led us a merry dance for six months."
   },
   {
     "id": 45,
-    "term": "Coś jest do bani",
-    "definition": "\"Something is fit for the shed\" — something is rubbish",
-    "example": "Ten film jest do bani."
+    "term": "Leave someone in the lurch",
+    "definition": "Abandon them in the middle of difficulty",
+    "example": "He resigned mid-project and left us in the lurch."
   },
   {
     "id": 46,
-    "term": "Leje jak z cebra",
-    "definition": "\"It's pouring as if from a tub\" — it's raining cats and dogs",
-    "example": "Weź parasol, leje jak z cebra."
+    "term": "Let the side down",
+    "definition": "Fail the people who were counting on you",
+    "example": "Turn up sober and don't let the side down."
   },
   {
     "id": 47,
-    "term": "Robić komuś wodę z mózgu",
-    "definition": "\"To make water out of someone's brain\" — to mess with their head",
-    "example": "Nie rób mi wody z mózgu, wiem, co widziałem."
+    "term": "The life of Riley",
+    "definition": "An easy, comfortable, carefree life",
+    "example": "Retired at fifty-five, living the life of Riley."
   },
   {
     "id": 48,
-    "term": "Pójść po rozum do głowy",
-    "definition": "\"To go to your head for reason\" — to finally come to your senses",
-    "example": "W końcu poszedł po rozum do głowy i sprzedał ten samochód."
+    "term": "Long in the tooth",
+    "definition": "Getting rather old for something",
+    "example": "I'm a bit long in the tooth for five-a-side."
   },
   {
     "id": 49,
-    "term": "Mieć olej w głowie",
-    "definition": "\"To have oil in your head\" — to be sensible and quick-witted",
-    "example": "To zdolny chłopak, ma olej w głowie."
+    "term": "Mind your Ps and Qs",
+    "definition": "Be careful of your manners and language",
+    "example": "Mind your Ps and Qs at your grandmother's."
   },
   {
     "id": 50,
-    "term": "Tonący brzytwy się chwyta",
-    "definition": "\"A drowning man grabs at a razor\" — clutching at straws",
-    "example": "Poszedł nawet do wróżki — tonący brzytwy się chwyta."
+    "term": "Mutton dressed as lamb",
+    "definition": "Dressed far too young for one's age",
+    "example": "The hat was pure mutton dressed as lamb."
   },
   {
     "id": 51,
-    "term": "Kupować kota w worku",
-    "definition": "\"To buy a cat in a sack\" — to buy a pig in a poke",
-    "example": "Nie oglądałeś mieszkania? Kupujesz kota w worku."
+    "term": "Nail your colours to the mast",
+    "definition": "Declare your position openly and for good",
+    "example": "He nailed his colours to the mast and backed the strike."
   },
   {
     "id": 52,
-    "term": "Rzucać perły przed wieprze",
-    "definition": "\"To cast pearls before swine\" — to waste something good on someone who can't value it",
-    "example": "Grać im Chopina to rzucać perły przed wieprze."
+    "term": "Nineteen to the dozen",
+    "definition": "Talking rapidly and without pause",
+    "example": "She was chatting nineteen to the dozen all the way there."
   },
   {
     "id": 53,
-    "term": "Kto rano wstaje, temu Pan Bóg daje",
-    "definition": "\"God provides for the one who rises early\" — the early bird catches the worm",
-    "example": "Wstałem o piątej — kto rano wstaje, temu Pan Bóg daje."
+    "term": "No room to swing a cat",
+    "definition": "Extremely cramped for space",
+    "example": "The kitchen's lovely but there's no room to swing a cat."
   },
   {
     "id": 54,
-    "term": "Gdzie kucharek sześć, tam nie ma co jeść",
-    "definition": "\"Where there are six cooks, there's nothing to eat\" — too many cooks spoil the broth",
-    "example": "Każdy chce rządzić projektem, a gdzie kucharek sześć, tam nie ma co jeść."
+    "term": "Not cricket",
+    "definition": "Unfair; against the spirit of fair play",
+    "example": "Reading someone's post simply isn't cricket."
   },
   {
     "id": 55,
-    "term": "Co dwie głowy, to nie jedna",
-    "definition": "\"Two heads are not one\" — two heads are better than one",
-    "example": "Usiądźmy nad tym razem, co dwie głowy, to nie jedna."
+    "term": "Off your own bat",
+    "definition": "On your own initiative, unprompted",
+    "example": "He organised the whole collection off his own bat."
   },
   {
     "id": 56,
-    "term": "Apetyt rośnie w miarę jedzenia",
-    "definition": "\"Appetite grows as you eat\" — the more you get, the more you want",
-    "example": "Najpierw chciał rower, teraz motor — apetyt rośnie w miarę jedzenia."
+    "term": "On tenterhooks",
+    "definition": "In a state of anxious suspense",
+    "example": "We were on tenterhooks until the phone rang."
   },
   {
     "id": 57,
-    "term": "Cicha woda brzegi rwie",
-    "definition": "\"Still water tears the banks\" — still waters run deep",
-    "example": "Taka cicha, a wszystko zorganizowała — cicha woda brzegi rwie."
+    "term": "On the fiddle",
+    "definition": "Engaged in petty dishonesty for gain",
+    "example": "The stocktake showed someone had been on the fiddle."
   },
   {
     "id": 58,
-    "term": "Nie ma tego złego, co by na dobre nie wyszło",
-    "definition": "\"There's no bad that won't turn out for the good\" — every cloud has a silver lining",
-    "example": "Straciłem tę pracę, ale nie ma tego złego, co by na dobre nie wyszło."
+    "term": "Out of kilter",
+    "definition": "Out of balance or proper working order",
+    "example": "My sleep has been out of kilter since the flight."
   },
   {
     "id": 59,
-    "term": "Fortuna kołem się toczy",
-    "definition": "\"Fortune rolls like a wheel\" — what goes around comes around",
-    "example": "Dziś on na górze, jutro ty — fortuna kołem się toczy."
+    "term": "Over-egg the pudding",
+    "definition": "Overdo something and spoil the effect",
+    "example": "One apology is enough — don't over-egg the pudding."
   },
   {
     "id": 60,
-    "term": "Czas leczy rany",
-    "definition": "\"Time heals wounds\" — time is a great healer",
-    "example": "Daj sobie czas, czas leczy rany."
+    "term": "A pig in a poke",
+    "definition": "Something bought without being inspected first",
+    "example": "Buying at auction unseen is asking for a pig in a poke."
   },
   {
     "id": 61,
-    "term": "Nie chwal dnia przed zachodem słońca",
-    "definition": "\"Don't praise the day before sunset\" — don't count your chickens",
-    "example": "Prowadzimy, ale nie chwal dnia przed zachodem słońca."
+    "term": "Pip someone at the post",
+    "definition": "Beat them at the very last moment",
+    "example": "We were pipped at the post by two votes."
   },
   {
     "id": 62,
-    "term": "Mądry Polak po szkodzie",
-    "definition": "\"A Pole is wise after the damage\" — wise after the event; hindsight is easy",
-    "example": "Teraz wszyscy wiedzą, jak trzeba było — mądry Polak po szkodzie."
+    "term": "Pour oil on troubled waters",
+    "definition": "Say something calming to settle a dispute",
+    "example": "The chair poured oil on troubled waters and the meeting went on."
   },
   {
     "id": 63,
-    "term": "Ryba psuje się od głowy",
-    "definition": "\"A fish rots from the head\" — problems start at the top",
-    "example": "W tej firmie ryba psuje się od głowy."
+    "term": "Pull the wool over someone's eyes",
+    "definition": "Deceive them thoroughly",
+    "example": "Don't let that salesman pull the wool over your eyes."
   },
   {
     "id": 64,
-    "term": "Wszędzie dobrze, ale w domu najlepiej",
-    "definition": "\"Everywhere is good, but home is best\" — there's no place like home",
-    "example": "Fajny był urlop, ale wszędzie dobrze, a w domu najlepiej."
+    "term": "Push the boat out",
+    "definition": "Spend generously on a celebration",
+    "example": "They pushed the boat out for their fortieth anniversary."
   },
   {
     "id": 65,
-    "term": "Nie od razu Kraków zbudowano",
-    "definition": "\"Kraków wasn't built at once\" — Rome wasn't built in a day",
-    "example": "Spokojnie, nie od razu Kraków zbudowano."
+    "term": "Put the cat among the pigeons",
+    "definition": "Say or do something that causes uproar",
+    "example": "Mentioning the merger really put the cat among the pigeons."
   },
   {
     "id": 66,
-    "term": "Bez pracy nie ma kołaczy",
-    "definition": "\"Without work there are no cakes\" — no pain, no gain",
-    "example": "Ucz się, bez pracy nie ma kołaczy."
+    "term": "Put the kibosh on",
+    "definition": "Put a decisive stop to something",
+    "example": "The weather put the kibosh on the barbecue."
   },
   {
     "id": 67,
-    "term": "Kuć żelazo, póki gorące",
-    "definition": "\"Strike the iron while it's hot\" — act while the chance is there",
-    "example": "Zadzwoń do nich dziś — kuj żelazo, póki gorące."
+    "term": "Queer someone's pitch",
+    "definition": "Spoil their plans in advance",
+    "example": "Announcing early queered our pitch completely."
   },
   {
     "id": 68,
-    "term": "I wilk syty, i owca cała",
-    "definition": "\"The wolf is full and the sheep is whole\" — a solution that suits everyone",
-    "example": "Podzieliliśmy dyżury tak, że i wilk syty, i owca cała."
+    "term": "Rest on your laurels",
+    "definition": "Coast along on past achievements",
+    "example": "One good year is no reason to rest on your laurels."
   },
   {
     "id": 69,
-    "term": "Zamienić się w słuch",
-    "definition": "\"To turn into hearing\" — to be all ears",
-    "example": "Mów, zamieniam się w słuch."
+    "term": "Rob Peter to pay Paul",
+    "definition": "Settle one debt by creating another",
+    "example": "Paying the card off with a loan is robbing Peter to pay Paul."
   },
   {
     "id": 70,
-    "term": "Urwanie głowy",
-    "definition": "\"A tearing-off of the head\" — an absolute madhouse of a day",
-    "example": "W sklepie przed świętami było urwanie głowy."
+    "term": "A sacred cow",
+    "definition": "Something held immune from criticism",
+    "example": "In this office the Friday meeting is a sacred cow."
   },
   {
     "id": 71,
-    "term": "Wziąć nogi za pas",
-    "definition": "\"To take your legs behind your belt\" — to leg it",
-    "example": "Zobaczył psa i wziął nogi za pas."
+    "term": "Sail close to the wind",
+    "definition": "Act right at the edge of what's allowed",
+    "example": "That expenses claim sails very close to the wind."
   },
   {
     "id": 72,
-    "term": "Zbijać bąki",
-    "definition": "\"To swat horseflies\" — to laze about doing nothing",
-    "example": "Całe wakacje zbijał bąki."
+    "term": "Salad days",
+    "definition": "The carefree, inexperienced time of your youth",
+    "example": "In my salad days I'd think nothing of a night bus home."
   },
   {
     "id": 73,
-    "term": "Chodzić na rzęsach",
-    "definition": "\"To walk on your eyelashes\" — to be completely worn out",
-    "example": "Po nocnej zmianie chodzę na rzęsach."
+    "term": "Scot-free",
+    "definition": "Without any punishment at all",
+    "example": "The driver who caused it got off scot-free."
   },
   {
     "id": 74,
-    "term": "Spać jak suseł",
-    "definition": "\"To sleep like a gopher\" — to sleep like a log",
-    "example": "Spał jak suseł do południa."
+    "term": "Send someone to Coventry",
+    "definition": "Ostracise them by refusing to speak to them",
+    "example": "The crew sent him to Coventry after he informed on them."
   },
   {
     "id": 75,
-    "term": "Być w siódmym niebie",
-    "definition": "\"To be in the seventh heaven\" — to be over the moon",
-    "example": "Jest w siódmym niebie po tych wiadomościach."
+    "term": "Shank's pony",
+    "definition": "On foot; walking",
+    "example": "The last bus had gone, so it was shank's pony home."
   },
   {
     "id": 76,
-    "term": "Czuć się jak ryba w wodzie",
-    "definition": "\"To feel like a fish in water\" — to be in your element",
-    "example": "Na scenie czuje się jak ryba w wodzie."
+    "term": "Ship-shape and Bristol fashion",
+    "definition": "Neat, orderly and properly prepared",
+    "example": "He left the workshop ship-shape and Bristol fashion."
   },
   {
     "id": 77,
-    "term": "Mieć kogoś na oku",
-    "definition": "\"To have someone on your eye\" — to keep an eye on them",
-    "example": "Miej go na oku, jest nowy."
+    "term": "Short shrift",
+    "definition": "Brief and unsympathetic treatment",
+    "example": "The complaint got short shrift from the council."
   },
   {
     "id": 78,
-    "term": "Trzymać rękę na pulsie",
-    "definition": "\"To keep your hand on the pulse\" — to stay on top of things",
-    "example": "Trzymaj rękę na pulsie, sytuacja się zmienia."
+    "term": "A skeleton in the cupboard",
+    "definition": "A shameful secret from the past",
+    "example": "Every old family has a skeleton or two in the cupboard."
   },
   {
     "id": 79,
-    "term": "Coś tu nie gra",
-    "definition": "\"Something doesn't play here\" — something doesn't add up",
-    "example": "Te rachunki... coś tu nie gra."
+    "term": "Sling your hook",
+    "definition": "Go away; clear off",
+    "example": "He was told in no uncertain terms to sling his hook."
   },
   {
     "id": 80,
-    "term": "Ni z gruszki, ni z pietruszki",
-    "definition": "\"Neither from a pear nor from parsley\" — completely out of the blue",
-    "example": "Ni z gruszki, ni z pietruszki oświadczył, że wyjeżdża."
+    "term": "Spend a penny",
+    "definition": "Go to the lavatory",
+    "example": "I'll just spend a penny before we set off."
   },
   {
     "id": 81,
-    "term": "Raz kozie śmierć",
-    "definition": "\"A goat dies but once\" — here goes nothing; you only live once",
-    "example": "Raz kozie śmierć — składam podanie."
+    "term": "Spick and span",
+    "definition": "Spotlessly clean and tidy",
+    "example": "The whole house was spick and span before the viewing."
   },
   {
     "id": 82,
-    "term": "Nie ma róży bez kolców",
-    "definition": "\"There's no rose without thorns\" — nothing good comes without a drawback",
-    "example": "Praca świetna, ale dojazdy... nie ma róży bez kolców."
+    "term": "A stalking horse",
+    "definition": "A false front used to disguise the real aim",
+    "example": "His candidacy was only ever a stalking horse."
   },
   {
     "id": 83,
-    "term": "Prawda w oczy kole",
-    "definition": "\"The truth pricks the eyes\" — the truth hurts",
-    "example": "Obraził się, bo prawda w oczy kole."
+    "term": "Steal a march on someone",
+    "definition": "Gain an advantage by acting first",
+    "example": "They stole a march on us by launching in April."
   },
   {
     "id": 84,
-    "term": "Ściany mają uszy",
-    "definition": "\"The walls have ears\" — you may be overheard",
-    "example": "Ciszej, ściany mają uszy."
+    "term": "A swan song",
+    "definition": "A final performance before retiring or ending",
+    "example": "The concert was the conductor's swan song."
   },
   {
     "id": 85,
-    "term": "Kropla drąży skałę",
-    "definition": "\"A drop hollows out the rock\" — persistence pays off",
-    "example": "Ćwicz codziennie po chwili — kropla drąży skałę."
+    "term": "Swing the lead",
+    "definition": "Shirk work by inventing excuses",
+    "example": "He's not ill, he's swinging the lead again."
   },
   {
     "id": 86,
-    "term": "Jak sobie pościelesz, tak się wyśpisz",
-    "definition": "\"As you make your bed, so you will sleep\" — you've made your bed, now lie in it",
-    "example": "Nie uczyłeś się — jak sobie pościelesz, tak się wyśpisz."
+    "term": "Take the biscuit",
+    "definition": "Be the most extreme or annoying instance yet",
+    "example": "Charging for tap water really takes the biscuit."
   },
   {
     "id": 87,
-    "term": "Baba z wozu, koniom lżej",
-    "definition": "\"The woman off the cart, the horses have it easier\" — good riddance",
-    "example": "Odszedł z zespołu? Baba z wozu, koniom lżej."
+    "term": "Talk the hind legs off a donkey",
+    "definition": "Talk endlessly and unstoppably",
+    "example": "Don't get her started — she'd talk the hind legs off a donkey."
   },
   {
     "id": 88,
-    "term": "Darowanemu koniowi w zęby się nie zagląda",
-    "definition": "\"You don't look a given horse in the teeth\" — don't look a gift horse in the mouth",
-    "example": "Stary rower, ale darowanemu koniowi w zęby się nie zagląda."
+    "term": "Tarred with the same brush",
+    "definition": "Assumed to share the same faults as others",
+    "example": "One bad landlord and they're all tarred with the same brush."
   },
   {
     "id": 89,
-    "term": "Kto pod kim dołki kopie, ten sam w nie wpada",
-    "definition": "\"He who digs pits under others falls into them himself\" — what goes around comes around",
-    "example": "Donosił na kolegów i sam stracił pracę — kto pod kim dołki kopie…"
+    "term": "The bee's knees",
+    "definition": "Outstandingly good",
+    "example": "He thinks that car is the bee's knees."
   },
   {
     "id": 90,
-    "term": "Lepszy wróbel w garści niż gołąb na dachu",
-    "definition": "\"A sparrow in the hand beats a pigeon on the roof\" — a bird in the hand is worth two in the bush",
-    "example": "Weź tę ofertę: lepszy wróbel w garści niż gołąb na dachu."
+    "term": "The full monty",
+    "definition": "The whole lot; everything included",
+    "example": "Breakfast came with the full monty, black pudding and all."
   },
   {
     "id": 91,
-    "term": "Uderz w stół, a nożyce się odezwą",
-    "definition": "\"Hit the table and the scissors will answer\" — the guilty one gives themselves away",
-    "example": "Nikogo nie oskarżałem, a on od razu się tłumaczy — uderz w stół…"
+    "term": "The penny dropped",
+    "definition": "You finally understood",
+    "example": "Halfway home the penny dropped and I realised who she was."
   },
   {
     "id": 92,
-    "term": "Z deszczu pod rynnę",
-    "definition": "\"Out of the rain and under the drainpipe\" — out of the frying pan into the fire",
-    "example": "Zmienił pracę i trafił z deszczu pod rynnę."
+    "term": "The real McCoy",
+    "definition": "The genuine article, not an imitation",
+    "example": "That's no copy — it's the real McCoy."
   },
   {
     "id": 93,
-    "term": "Trafić w dziesiątkę",
-    "definition": "\"To hit the ten\" — to hit the bullseye; to get it exactly right",
-    "example": "Z tym prezentem trafiłeś w dziesiątkę."
+    "term": "Tilt at windmills",
+    "definition": "Fight enemies that exist only in your head",
+    "example": "Campaigning against that is tilting at windmills."
   },
   {
     "id": 94,
-    "term": "Wisieć na włosku",
-    "definition": "\"To hang by a hair\" — to hang by a thread",
-    "example": "Jego posada wisi na włosku."
+    "term": "A turn-up for the books",
+    "definition": "A surprising and unexpected development",
+    "example": "Him volunteering was a turn-up for the books."
   },
   {
     "id": 95,
-    "term": "Mieć dwie lewe ręce",
-    "definition": "\"To have two left hands\" — to be hopelessly clumsy with practical work",
-    "example": "Nie proś mnie o półkę, mam dwie lewe ręce."
+    "term": "Turn up trumps",
+    "definition": "Come good unexpectedly when it matters",
+    "example": "The neighbours turned up trumps while she was in hospital."
   },
   {
     "id": 96,
-    "term": "Złota rączka",
-    "definition": "\"A golden little hand\" — someone handy who can fix anything",
-    "example": "Sąsiad to złota rączka, naprawi wszystko."
+    "term": "Up sticks",
+    "definition": "Pack up and move away",
+    "example": "They upped sticks and moved to the coast."
   },
   {
     "id": 97,
-    "term": "Puścić coś mimo uszu",
-    "definition": "\"To let something pass by your ears\" — to ignore a remark",
-    "example": "Puściłem tę uwagę mimo uszu."
+    "term": "Warts and all",
+    "definition": "Including every flaw, nothing hidden",
+    "example": "It's an honest portrait of the man, warts and all."
   },
   {
     "id": 98,
-    "term": "Nabić kogoś w butelkę",
-    "definition": "\"To stuff someone into a bottle\" — to take someone for a ride",
-    "example": "Nabili nas w butelkę z tą gwarancją."
+    "term": "Wet behind the ears",
+    "definition": "Young, raw and inexperienced",
+    "example": "The new sergeant was still wet behind the ears."
   },
   {
     "id": 99,
-    "term": "Siedzieć cicho jak mysz pod miotłą",
-    "definition": "\"To sit as quiet as a mouse under a broom\" — to keep very quiet and out of trouble",
-    "example": "Po tej awanturze siedział cicho jak mysz pod miotłą."
+    "term": "A whipping boy",
+    "definition": "Someone made to take the blame for others",
+    "example": "The department became the whipping boy for every delay."
   },
   {
     "id": 100,
-    "term": "Wpaść komuś w oko",
-    "definition": "\"To fall into someone's eye\" — to catch someone's fancy",
-    "example": "Ta sukienka od razu wpadła jej w oko."
-  }
-];
-window.QM_IDIOMS_LT_DATA = [
-  {
-    "id": 1,
-    "term": "akis dumti",
-    "definition": "to pull the wool over someone's eyes; to deceive",
-    "example": ""
-  },
-  {
-    "id": 2,
-    "term": "badyti akis",
-    "definition": "to be glaringly obvious; to stick out",
-    "example": ""
-  },
-  {
-    "id": 3,
-    "term": "bala nematė",
-    "definition": "to hell with it; never mind",
-    "example": ""
-  },
-  {
-    "id": 4,
-    "term": "ir sienos turi ausis",
-    "definition": "walls have ears",
-    "example": ""
-  },
-  {
-    "id": 5,
-    "term": "išdėti į šuns dienas",
-    "definition": "to give someone a dressing-down; to berate",
-    "example": ""
-  },
-  {
-    "id": 6,
-    "term": "kad prisivirei košės, tai ir srėbk",
-    "definition": "you've made your bed, now lie in it",
-    "example": ""
-  },
-  {
-    "id": 7,
-    "term": "kristi į akis",
-    "definition": "to catch the eye; to stand out",
-    "example": ""
-  },
-  {
-    "id": 8,
-    "term": "lieti ašaras",
-    "definition": "to shed tears",
-    "example": ""
-  },
-  {
-    "id": 9,
-    "term": "lyja kirviais",
-    "definition": "\"it's raining axes\" — it's pouring down",
-    "example": ""
-  },
-  {
-    "id": 10,
-    "term": "man šakės",
-    "definition": "I'm done for; I'm in real trouble",
-    "example": ""
-  },
-  {
-    "id": 11,
-    "term": "nespręsk apie knygą iš viršelio",
-    "definition": "don't judge a book by its cover",
-    "example": ""
-  },
-  {
-    "id": 12,
-    "term": "nėra to blogo, kas neišeitų į gerą",
-    "definition": "every cloud has a silver lining",
-    "example": ""
-  },
-  {
-    "id": 13,
-    "term": "panosė šlapia",
-    "definition": "still wet behind the ears; inexperienced",
-    "example": ""
-  },
-  {
-    "id": 14,
-    "term": "privirti košės",
-    "definition": "to stir up trouble; to make a mess of things",
-    "example": ""
-  },
-  {
-    "id": 15,
-    "term": "vienas kaip pirštas",
-    "definition": "\"alone as a finger\" — all on one's own",
-    "example": ""
-  },
-  {
-    "id": 16,
-    "term": "vienas velnias",
-    "definition": "it makes no odds; all the same",
-    "example": ""
-  },
-  {
-    "id": 17,
-    "term": "viena koja",
-    "definition": "in a flash; very quickly",
-    "example": ""
-  },
-  {
-    "id": 18,
-    "term": "turėti omenyje",
-    "definition": "to bear in mind",
-    "example": ""
-  },
-  {
-    "id": 19,
-    "term": "žvirbliu netapsi",
-    "definition": "you won't become a sparrow — you can't change what you are",
-    "example": ""
-  }
-];
-window.QM_IDIOMS_NL_DATA = [
-  {
-    "id": 1,
-    "term": "aan de hand zijn",
-    "definition": "to occur, happen, go on, be at hand",
-    "example": "wat is er aan de hand."
-  },
-  {
-    "id": 2,
-    "term": "aan de tand voelen",
-    "definition": "to grill; to question thoroughly",
-    "example": "Ik zal hem nog eens aan de tand voelen om te achterhalen wat hij heeft uitgespookt."
-  },
-  {
-    "id": 3,
-    "term": "aan het eind van zijn Latijn zijn",
-    "definition": "to be at one's wits' end; to be exhausted",
-    "example": "Door het spervuur aan kritische vragen was de kandidaat aan het eind van haar Latijn."
-  },
-  {
-    "id": 4,
-    "term": "achter het behang kunnen plakken",
-    "definition": "to be fed up with, to be annoyed with",
-    "example": "Mijn zusje doet vandaag zo irritant, ik zou haar wel achter het behang kunnen plakken."
-  },
-  {
-    "id": 5,
-    "term": "alles op één kaart zetten",
-    "definition": "to put all one's eggs in one basket",
-    "example": ""
-  },
-  {
-    "id": 6,
-    "term": "als muziek in de oren klinken",
-    "definition": "to sound like music to someone's ears",
-    "example": "Een dag vrij? Dat klinkt me als muziek in de oren!"
-  },
-  {
-    "id": 7,
-    "term": "anderhalve man en een paardenkop",
-    "definition": "one man and his dog",
-    "example": "Er kwamen nauwelijks mensen naar het evenement, slechts anderhalve man en een paardenkop."
-  },
-  {
-    "id": 8,
-    "term": "beren op de weg zien",
-    "definition": "to imagine (future) problems",
-    "example": ""
-  },
-  {
-    "id": 9,
-    "term": "beter een vogel in de hand dan tien in de lucht",
-    "definition": "a bird in the hand is worth two in the bush",
-    "example": ""
-  },
-  {
-    "id": 10,
-    "term": "beter ten halve gekeerd dan ten hele gedwaald",
-    "definition": "a fault confessed is half redressed",
-    "example": ""
-  },
-  {
-    "id": 11,
-    "term": "bier na wijn geeft venijn",
-    "definition": "drinking beer following the consumption of wine causes greater discomfort (through excessive inebriation and h",
-    "example": ""
-  },
-  {
-    "id": 12,
-    "term": "bij de duivel te biecht gaan",
-    "definition": "to seek help or confide in someone untrustworthy, dangerous, or morally wrong",
-    "example": ""
-  },
-  {
-    "id": 13,
-    "term": "bij de pakken neerzitten",
-    "definition": "to throw in the towel; to give up; to resign oneself to a situation",
-    "example": ""
-  },
-  {
-    "id": 14,
-    "term": "bij nacht zijn alle katten grauw",
-    "definition": "all cats are grey in the dark",
-    "example": ""
-  },
-  {
-    "id": 15,
-    "term": "dat brengt moesje niet naar Parijs",
-    "definition": "it doesn't have a significant effect; it's not a useful contribution; it doesn't advance the matter",
-    "example": ""
-  },
-  {
-    "id": 16,
-    "term": "de kaas niet van het brood laten eten",
-    "definition": "to hold one's own, be assertive",
-    "example": "Maak je geen zorgen over haar, zij laat zich de kaas echt niet van het brood eten."
-  },
-  {
-    "id": 17,
-    "term": "de oren wassen",
-    "definition": "to rebuke, scold, reprimand severely, put someone in their place",
-    "example": "Ze waste de spijbelaar de oren."
-  },
-  {
-    "id": 18,
-    "term": "de vuile was buiten hangen",
-    "definition": "to air one's dirty laundry in public",
-    "example": ""
-  },
-  {
-    "id": 19,
-    "term": "de week doormidden zagen",
-    "definition": "to celebrate the halfway point of the working week on Wednesday",
-    "example": "Het is alweer woensdag, kom je mee uit lunchen om de week doormidden te zagen?"
-  },
-  {
-    "id": 20,
-    "term": "de wijsheid in pacht hebben",
-    "definition": "To know everything",
-    "example": "Pubers denken altijd dat ze de wijsheid in pacht hebben."
-  },
-  {
-    "id": 21,
-    "term": "een appel en een ei",
-    "definition": "peanuts; a low price",
-    "example": "Deze tweedehands platenspeler kostte een appel en een ei."
-  },
-  {
-    "id": 22,
-    "term": "een bord voor zijn kop hebben",
-    "definition": "to do as one pleases without shame or regard for signals from others",
-    "example": "Wat ik ook zeg, jij doet alsof de hele wereld om jou draait. Je hebt een bord voor je kop, en niet zo'n kleintje ook."
-  },
-  {
-    "id": 23,
-    "term": "een kind kan de was doen",
-    "definition": "anyone can do it",
-    "example": "De handleiding legt het allemaal erg goed uit, een kind kan de was doen."
-  },
-  {
-    "id": 24,
-    "term": "een rad voor de ogen draaien",
-    "definition": "to deceive, to pull the wool over someone's eyes",
-    "example": ""
-  },
-  {
-    "id": 25,
-    "term": "een speld tussen krijgen",
-    "definition": "to be unclear, refutable or debatable",
-    "example": "Dat zijn de feiten. Daar krijg je geen speld tussen."
-  },
-  {
-    "id": 26,
-    "term": "een worst voorhouden",
-    "definition": "to put something desirable in prospect in order to try to get someone to do something; to try to motivate",
-    "example": "De baas hield de werknemer een worst voor door toespelingen op een mogelijke promotie."
-  },
-  {
-    "id": 27,
-    "term": "familie van het zevende knoopsgat",
-    "definition": "a very distant relative",
-    "example": ""
-  },
-  {
-    "id": 28,
-    "term": "feest der herkenning",
-    "definition": "an experience that is enjoyable because it evokes a feeling of recognition",
-    "example": ""
-  },
-  {
-    "id": 29,
-    "term": "feest van de democratie",
-    "definition": "an election",
-    "example": ""
-  },
-  {
-    "id": 30,
-    "term": "fluitje van een cent",
-    "definition": "cakewalk, piece of cake",
-    "example": "Het bed in elkaar zetten is een fluitje van een cent, daar hoef je niet langer dan een uur mee bezig te zijn."
-  },
-  {
-    "id": 31,
-    "term": "gedane zaken nemen geen keer",
-    "definition": "what's done is done, what's done cannot be undone",
-    "example": ""
-  },
-  {
-    "id": 32,
-    "term": "geen blad voor de mond nemen",
-    "definition": "to be outspoken; not to mince words; to call a spade a spade",
-    "example": ""
-  },
-  {
-    "id": 33,
-    "term": "geen haan die ernaar kraait",
-    "definition": "nobody pays any minds to it; nobody cares about it",
-    "example": ""
-  },
-  {
-    "id": 34,
-    "term": "geen pap meer kunnen zeggen",
-    "definition": "to be exhausted",
-    "example": "Gelukkig zijn we eindelijk thuis, ik kan echt geen pap meer zeggen."
-  },
-  {
-    "id": 35,
-    "term": "geen windeieren leggen",
-    "definition": "to be beneficial to, particularly financially",
-    "example": "Zijn carrièreswitch heeft hem geen windeieren gelegd."
-  },
-  {
-    "id": 36,
-    "term": "Gods water over Gods akker laten lopen",
-    "definition": "To let matters run their course; to not be bothered about consequences",
-    "example": ""
-  },
-  {
-    "id": 37,
-    "term": "haar op zijn tanden hebben",
-    "definition": "to be assertive, hold one's own",
-    "example": ""
-  },
-  {
-    "id": 38,
-    "term": "het achterste van zijn tong laten zien",
-    "definition": "to put one's cards on the table, speak frankly",
-    "example": "Hij laat veel te snel het achterste van zijn tong zien."
-  },
-  {
-    "id": 39,
-    "term": "het bij het verkeerde eind hebben",
-    "definition": "to be mistaken",
-    "example": "Als u denkt dat u met mij kunt sollen, dan heeft u het bij het verkeerde eind."
-  },
-  {
-    "id": 40,
-    "term": "het bloed kruipt waar het niet gaan kan",
-    "definition": "blood will tell; one's true nature will eventually assert itself",
-    "example": ""
-  },
-  {
-    "id": 41,
-    "term": "het geluk is met de dommen",
-    "definition": "one seems to achieve something easier by luck, than through skill; it is better to be lucky than good",
-    "example": "Heb je het gehoord? Je collega heeft dat reuze-contract erdoor gekregen! — Het geluk is met de dommen."
-  },
-  {
-    "id": 42,
-    "term": "het rijk alleen hebben",
-    "definition": "To be home alone, to have one's residence all for oneself",
-    "example": "Haar vriend is er een paar dagen niet, dus heeft ze het rijk alleen."
-  },
-  {
-    "id": 43,
-    "term": "in de bres springen voor",
-    "definition": "to protect (someone) or to help (someone) in dire straits",
-    "example": ""
-  },
-  {
-    "id": 44,
-    "term": "in de lijn der verwachting liggen",
-    "definition": "to be expected",
-    "example": "Het lag in de lijn der verwachting dat de voetballer het met de scheidsrechter oneens zou zijn."
-  },
-  {
-    "id": 45,
-    "term": "in de melk te brokkelen hebben",
-    "definition": "to have a say, to have authority",
-    "example": "Hij heeft op zijn werk niets in de melk te brokkelen."
-  },
-  {
-    "id": 46,
-    "term": "in de rug steken",
-    "definition": "to stab (someone) in the back, to betray",
-    "example": "Hij is altijd bereid om iemand in de rug te steken."
-  },
-  {
-    "id": 47,
-    "term": "in de wieg gelegd zijn",
-    "definition": "to be cut out for, have the talent for",
-    "example": "Zij is voor het dansen in de wieg gelegd."
-  },
-  {
-    "id": 48,
-    "term": "in zijn oren knopen",
-    "definition": "to mark someone's words, take very conscious and careful mental note",
-    "example": "Knoop zijn advies maar goed in je oren!"
-  },
-  {
-    "id": 49,
-    "term": "jaar in jaar uit",
-    "definition": "year in, year out",
-    "example": ""
-  },
-  {
-    "id": 50,
-    "term": "Jan met de pet",
-    "definition": "John Q. Public, Joe Average, a hypothetical individual personification of the common man",
-    "example": "Gebruiksaanwijzingen moeten zo geformuleerd zijn dat Jan met de pet ze snapt."
-  },
-  {
-    "id": 51,
-    "term": "je bent wat je eet",
-    "definition": "you are what you eat",
-    "example": ""
-  },
-  {
-    "id": 52,
-    "term": "je van het",
-    "definition": "the bee's knees, the very best, fantastic",
-    "example": ""
-  },
-  {
-    "id": 53,
-    "term": "jong geleerd is oud gedaan",
-    "definition": "as the twig is bent, so is the tree inclined",
-    "example": ""
-  },
-  {
-    "id": 54,
-    "term": "jonge hond",
-    "definition": "An eager and energetic young newcomer",
-    "example": "De tegendraadse jonge hond veroorzaakte furore in de partij."
-  },
-  {
-    "id": 55,
-    "term": "kaas gegeten hebben",
-    "definition": "to be adept at, have extensive knowledge of",
-    "example": "Van algebra heeft hij geen kaas gegeten."
-  },
-  {
-    "id": 56,
-    "term": "kant noch wal raken",
-    "definition": "to make no sense, be nonsensical",
-    "example": "Zijn redenering raakte kant noch wal."
-  },
-  {
-    "id": 57,
-    "term": "kijken waar het schip strandt",
-    "definition": "to let the chips fall where they may",
-    "example": ""
-  },
-  {
-    "id": 58,
-    "term": "kind aan huis zijn",
-    "definition": "to visit frequently",
-    "example": "Hij was kind aan huis bij mijn grootvader."
-  },
-  {
-    "id": 59,
-    "term": "kind van de rekening",
-    "definition": "one who pays the price",
-    "example": "Die hoge lui ontspringen de dans, maar wij zijn het kind van de rekening."
-  },
-  {
-    "id": 60,
-    "term": "koeien met gouden horens",
-    "definition": "impossible, unrealistic or fantastic things; castles in the air",
-    "example": "De manager beloofde koeien met gouden horens in plaats van realistische doelen te stellen."
-  },
-  {
-    "id": 61,
-    "term": "leven als God in Frankrijk",
-    "definition": "to live comfortably and carefree",
-    "example": ""
-  },
-  {
-    "id": 62,
-    "term": "liever blode Jan dan dode Jan",
-    "definition": "better safe than sorry",
-    "example": ""
-  },
-  {
-    "id": 63,
-    "term": "lik op stuk geven",
-    "definition": "To have an answer ready; to address something (or someone) promptly and decisively",
-    "example": ""
-  },
-  {
-    "id": 64,
-    "term": "links laten liggen",
-    "definition": "to ignore, abandon, skip",
-    "example": "De toerist ging alleen naar Amsterdam, de rest van Nederland liet hij links liggen."
-  },
-  {
-    "id": 65,
-    "term": "lood om oud ijzer",
-    "definition": "it makes no difference",
-    "example": ""
-  },
-  {
-    "id": 66,
-    "term": "luiheid is des duivels oorkussen",
-    "definition": "idle hands are the devil's workshop",
-    "example": ""
-  },
-  {
-    "id": 67,
-    "term": "met alle winden meewaaien",
-    "definition": "to turn with every wind, to be inconsistent, to succumb easily to outside influence",
-    "example": "Want hij is een politicus die met alle winden meewaait."
-  },
-  {
-    "id": 68,
-    "term": "met de hakken over de sloot",
-    "definition": "just barely, by the skin of one's teeth",
-    "example": "Hij heeft met de hakken over de sloot zijn diploma gehaald."
-  },
-  {
-    "id": 69,
-    "term": "met de nek aankijken",
-    "definition": "To scorn, look down on, disregard",
-    "example": "Ze keken de nieuwkomer met de nek aan."
-  },
-  {
-    "id": 70,
-    "term": "met een kluitje in het riet sturen",
-    "definition": "to send someone off empty-handed or none the wiser",
-    "example": ""
-  },
-  {
-    "id": 71,
-    "term": "met man en muis",
-    "definition": "with everyone without exception",
-    "example": "met man en muis vergaan."
-  },
-  {
-    "id": 72,
-    "term": "met zijn gat in de boter vallen",
-    "definition": "to be in a comfortable situation through sheer luck; typically used to denote someone born into comfort",
-    "example": ""
-  },
-  {
-    "id": 73,
-    "term": "na aan het hart liggen",
-    "definition": "to be close to someone's heart, to be important to someone on a personal level",
-    "example": "Het voortbestaan van dit natuurgebied ligt hem na aan het hart."
-  },
-  {
-    "id": 74,
-    "term": "naar de mond praten",
-    "definition": "to pander to someone, act like a sycophant to someone",
-    "example": ""
-  },
-  {
-    "id": 75,
-    "term": "naar iemands pijpen dansen",
-    "definition": "to dance to someone's tune",
-    "example": ""
-  },
-  {
-    "id": 76,
-    "term": "niet onder stoelen of banken steken",
-    "definition": "To be very frank and not withhold information about something",
-    "example": "Tijdens de bijeenkomst stak hij zijn politieke ideeën niet onder stoelen of banken."
-  },
-  {
-    "id": 77,
-    "term": "niet voor de poes zijn",
-    "definition": "to be someone or something that is not to be underestimated or trifled with",
-    "example": ""
-  },
-  {
-    "id": 78,
-    "term": "niets nieuws onder de zon",
-    "definition": "there is nothing new under the sun",
-    "example": ""
-  },
-  {
-    "id": 79,
-    "term": "ondank is 's werelds loon",
-    "definition": "one often receives ingratitude or no recognition for one's accomplishments",
-    "example": ""
-  },
-  {
-    "id": 80,
-    "term": "onder de leden hebben",
-    "definition": "to have something in one's body; to be sick with something",
-    "example": "Hij heeft het virus al meer dan een week onder de leden."
-  },
-  {
-    "id": 81,
-    "term": "Onze Lieve Heer heeft rare kostgangers",
-    "definition": "Some people are surprisingly strange and eccentric; people are weird",
-    "example": "Ik zag laatst een man naakt schaatsen. Onze Lieve Heer heeft rare kostgangers."
-  },
-  {
-    "id": 82,
-    "term": "over de schutting gooien",
-    "definition": "To burden someone else with a problem one is faced with; to have someone else take care of an issue",
-    "example": "Deze vraag gooi ik liever over de schutting naar mijn collega."
-  },
-  {
-    "id": 83,
-    "term": "over een nacht ijs gaan",
-    "definition": "to be taken lightly, to be ill-considered, to be handled in an overhasty way",
-    "example": "Het besluit om een rechtszaak aan te spannen ging niet over één nacht ijs."
-  },
-  {
-    "id": 84,
-    "term": "over het paard getild zijn",
-    "definition": "to be arrogant due to excessive praise",
-    "example": "Hij is echt over het paard getild."
-  },
-  {
-    "id": 85,
-    "term": "paal en perk stellen",
-    "definition": "to limit, restrict",
-    "example": ""
-  },
-  {
-    "id": 86,
-    "term": "pappen en nathouden",
-    "definition": "to perfunctorily finish a task without consideration for results; to go through the motions",
-    "example": ""
-  },
-  {
-    "id": 87,
-    "term": "peilingen zijn palingen",
-    "definition": "opinion polls are fickle and an unreliable indicator of election results",
-    "example": ""
-  },
-  {
-    "id": 88,
-    "term": "per slot van rekening",
-    "definition": "after all",
-    "example": ""
-  },
-  {
-    "id": 89,
-    "term": "platte broodjes bakken",
-    "definition": "to grovel, to fawn, especially after having said something bold or controversial before; to attempt to reingra",
-    "example": ""
-  },
-  {
-    "id": 90,
-    "term": "praatjes vullen geen gaatjes",
-    "definition": "fine words butter no parsnips, actions speak louder than words",
-    "example": ""
-  },
-  {
-    "id": 91,
-    "term": "recht zo die gaat",
-    "definition": "straight ahead, without changing course",
-    "example": ""
-  },
-  {
-    "id": 92,
-    "term": "rechttoe rechtaan",
-    "definition": "straightforwardly, in a straightforward way",
-    "example": ""
-  },
-  {
-    "id": 93,
-    "term": "roet in het eten gooien",
-    "definition": "to ruin a plan, event, or situation",
-    "example": ""
-  },
-  {
-    "id": 94,
-    "term": "rond de pot draaien",
-    "definition": "to beat around the bush",
-    "example": ""
-  },
-  {
-    "id": 95,
-    "term": "schapen met bokken verdelen",
-    "definition": "to apply a double standard",
-    "example": ""
-  },
-  {
-    "id": 96,
-    "term": "schering en inslag",
-    "definition": "something very common or ordinary",
-    "example": "Kabeldiefstal is tegenwoordig schering en inslag."
-  },
-  {
-    "id": 97,
-    "term": "scheve schaats rijden",
-    "definition": "to cheat on someone, be unfaithful",
-    "example": ""
-  },
-  {
-    "id": 98,
-    "term": "schouders eronder zetten",
-    "definition": "to work hard and make a strong effort; to put in the work",
-    "example": "Als we nu even de schouders eronder zetten, kunnen we straks rustig aan doen."
-  },
-  {
-    "id": 99,
-    "term": "sigaar uit eigen doos",
-    "definition": "something presented as if it were a gift, but which was paid for by (or already belonged to) the recipient",
-    "example": ""
-  },
-  {
-    "id": 100,
-    "term": "stok om de hond te slaan",
-    "definition": "a pretense to do something that one already wanted to do",
-    "example": ""
-  }
-];
-window.QM_IDIOMS_CS_DATA = [
-  {
-    "id": 1,
-    "term": "ani mě nehne",
-    "definition": "fat chance that; I'll be damned if; no way",
-    "example": "Ani mě nehne se někdy vracet na Kubu."
-  },
-  {
-    "id": 2,
-    "term": "ani ryba ani rak",
-    "definition": "neither fish nor fowl",
-    "example": ""
-  },
-  {
-    "id": 3,
-    "term": "atomový hřib",
-    "definition": "mushroom cloud",
-    "example": ""
-  },
-  {
-    "id": 4,
-    "term": "až opadá listí z dubu",
-    "definition": "never, when pigs fly",
-    "example": ""
-  },
-  {
-    "id": 5,
-    "term": "až to bude, tak to bude",
-    "definition": "the work cannot be done earlier or faster; close to an oak is not felled at one stroke",
-    "example": ""
-  },
-  {
-    "id": 6,
-    "term": "bez práce nejsou koláče",
-    "definition": "where there is no work and effort, there are no enjoyable results",
-    "example": ""
-  },
-  {
-    "id": 7,
-    "term": "blaze tomu, kdo nic nemá, nestará se, kam to schová",
-    "definition": "poor people are often happier because fortune brings worries",
-    "example": ""
-  },
-  {
-    "id": 8,
-    "term": "blesk z čistého nebe",
-    "definition": "bolt from the blue",
-    "example": ""
-  },
-  {
-    "id": 9,
-    "term": "bouře ve sklenici vody",
-    "definition": "tempest in a teapot",
-    "example": ""
-  },
-  {
-    "id": 10,
-    "term": "být na dvě věci",
-    "definition": "to be worthless, to have no use, to suck",
-    "example": ""
-  },
-  {
-    "id": 11,
-    "term": "být ruka v rukávě",
-    "definition": "something is agreed by both parties, close to signed, sealed, and delivered",
-    "example": "Chodí spolu už dlouho, já myslím, že už je ruka v rukávě."
-  },
-  {
-    "id": 12,
-    "term": "chytrému napověz, hloupého kopni",
-    "definition": "a word to the wise is sufficient",
-    "example": ""
-  },
-  {
-    "id": 13,
-    "term": "chytrému napověz, hloupého trkni",
-    "definition": "a nod is as good as a wink",
-    "example": ""
-  },
-  {
-    "id": 14,
-    "term": "co je šeptem, to je čertem",
-    "definition": "what is whispered is illicit",
-    "example": ""
-  },
-  {
-    "id": 15,
-    "term": "co můžeš udělat dnes, neodkládej na zítřek",
-    "definition": "procrastination is foolish",
-    "example": ""
-  },
-  {
-    "id": 16,
-    "term": "co oči nevidí, to srdce nebolí",
-    "definition": "problems and losses that do not reach the attention cause no worries and no grief: what the eye doesn't see",
-    "example": ""
-  },
-  {
-    "id": 17,
-    "term": "co se v mládí naučíš, ve stáří jako když najdeš",
-    "definition": "what you learn in your youth will be useful when you are old",
-    "example": ""
-  },
-  {
-    "id": 18,
-    "term": "co tě nepálí, nehas",
-    "definition": "mind one's own business; cobbler, stick to thy last",
-    "example": ""
-  },
-  {
-    "id": 19,
-    "term": "darovanému koni na zuby nekoukej",
-    "definition": "don't look a gift horse in the mouth",
-    "example": ""
-  },
-  {
-    "id": 20,
-    "term": "devatero řemesel, desátá bída",
-    "definition": "jack of all trades, master of none",
-    "example": ""
-  },
-  {
-    "id": 21,
-    "term": "do třetice všeho dobrého",
-    "definition": "third time is the charm",
-    "example": ""
-  },
-  {
-    "id": 22,
-    "term": "dvakrát měř, jednou řež",
-    "definition": "measure twice and cut once; verify your plans and the information on which they are based before you execute t",
-    "example": ""
-  },
-  {
-    "id": 23,
-    "term": "dát někomu pětikorunu",
-    "definition": "to feel sympathy to somebody",
-    "example": "Tvářil se tak nešťastně, že by mu člověk dal pětikorunu."
-  },
-  {
-    "id": 24,
-    "term": "dělat z komára velblouda",
-    "definition": "make a mountain out of a molehill",
-    "example": ""
-  },
-  {
-    "id": 25,
-    "term": "dštít oheň a síru",
-    "definition": "to rain fire and brimstone",
-    "example": ""
-  },
-  {
-    "id": 26,
-    "term": "Eridino jablko",
-    "definition": "apple of discord, something which causes argument, rivalry, or strife",
-    "example": ""
-  },
-  {
-    "id": 27,
-    "term": "hlad je nejlepší kuchař",
-    "definition": "hunger is a good sauce",
-    "example": ""
-  },
-  {
-    "id": 28,
-    "term": "hlas lidu, hlas boží",
-    "definition": "the voice of the people, the voice of God",
-    "example": ""
-  },
-  {
-    "id": 29,
-    "term": "hlavou zeď neprorazíš",
-    "definition": "stubbornness alone does not remove obstacles",
-    "example": ""
-  },
-  {
-    "id": 30,
-    "term": "hledět si svého",
-    "definition": "to mind one's own business",
-    "example": ""
-  },
-  {
-    "id": 31,
-    "term": "hodit flintu do žita",
-    "definition": "to throw in the towel",
-    "example": ""
-  },
-  {
-    "id": 32,
-    "term": "houby s octem",
-    "definition": "to know nothing",
-    "example": ""
-  },
-  {
-    "id": 33,
-    "term": "i mistr tesař se někdy utne",
-    "definition": "we all make mistakes",
-    "example": ""
-  },
-  {
-    "id": 34,
-    "term": "jablko nepadá daleko od stromu",
-    "definition": "the apple doesn't fall far from the tree",
-    "example": ""
-  },
-  {
-    "id": 35,
-    "term": "jak se do lesa volá, tak se z lesa ozývá",
-    "definition": "angry and impolite words lead to angry and impolite replies; what goes around comes around",
-    "example": ""
-  },
-  {
-    "id": 36,
-    "term": "jak si kdo ustele, tak si lehne",
-    "definition": "as you make your bed, so you must lie in it",
-    "example": ""
-  },
-  {
-    "id": 37,
-    "term": "jako házet hrách na stěnu",
-    "definition": "like talking to a wall, like talking to a brick wall",
-    "example": ""
-  },
-  {
-    "id": 38,
-    "term": "jako kdyby do někoho udeřil blesk",
-    "definition": "to be in shock, surprise or amazement",
-    "example": ""
-  },
-  {
-    "id": 39,
-    "term": "jedna vlaštovka jaro nedělá",
-    "definition": "one swallow doesn't make a summer",
-    "example": ""
-  },
-  {
-    "id": 40,
-    "term": "jít s kanónem na vrabce",
-    "definition": "to use a sledgehammer to crack a nut",
-    "example": ""
-  },
-  {
-    "id": 41,
-    "term": "kam čert nemůže, nastrčí ženskou",
-    "definition": "the explanation of why the person caused the problem is that she is a woman",
-    "example": ""
-  },
-  {
-    "id": 42,
-    "term": "každý dobrý skutek je po zásluze potrestán",
-    "definition": "no good deed goes unpunished",
-    "example": ""
-  },
-  {
-    "id": 43,
-    "term": "kde není žalobce, není soudce",
-    "definition": "where there is no plaintiff, there is no judge",
-    "example": ""
-  },
-  {
-    "id": 44,
-    "term": "kdo chce kam, pomozme mu tam",
-    "definition": "a person should be allowed to proceed in an action harmful to himself if he insists",
-    "example": ""
-  },
-  {
-    "id": 45,
-    "term": "kdo chce psa bít, hůl si vždycky najde",
-    "definition": "it is easy to find a stick to beat a dog",
-    "example": ""
-  },
-  {
-    "id": 46,
-    "term": "kdo chce s vlky býti, musí s nimi výti",
-    "definition": "when in Rome do as the Romans do",
-    "example": ""
-  },
-  {
-    "id": 47,
-    "term": "kdo chce, hledá způsoby, kdo nechce, hledá důvody",
-    "definition": "those who want to do something find a way to do it",
-    "example": ""
-  },
-  {
-    "id": 48,
-    "term": "lehce nabyl, lehce pozbyl",
-    "definition": "easy come, easy go",
-    "example": ""
-  },
-  {
-    "id": 49,
-    "term": "lepší pozdě než nikdy",
-    "definition": "better late than never",
-    "example": ""
-  },
-  {
-    "id": 50,
-    "term": "lepší vrabec v hrsti nežli holub na střeše",
-    "definition": "a bird in the hand is worth two in the bush",
-    "example": ""
-  },
-  {
-    "id": 51,
-    "term": "lež má krátké nohy",
-    "definition": "a lie has no legs",
-    "example": ""
-  },
-  {
-    "id": 52,
-    "term": "líná huba, holé neštěstí",
-    "definition": "who is lazy to ask a question or to ask for a service will bear bad consequences",
-    "example": ""
-  },
-  {
-    "id": 53,
-    "term": "líná huba, hotové neštěstí",
-    "definition": "those who are too lazy to ask a question or request something cannot profit from the answer they would have go",
-    "example": ""
-  },
-  {
-    "id": 54,
-    "term": "malé ryby taky ryby",
-    "definition": "half a loaf is better than none",
-    "example": ""
-  },
-  {
-    "id": 55,
-    "term": "mazat někomu med kolem huby",
-    "definition": "to soft-soap somebody, to butter someone up",
-    "example": ""
-  },
-  {
-    "id": 56,
-    "term": "mezi slepými je jednooký králem",
-    "definition": "in the land of the blind, the one-eyed man is king",
-    "example": ""
-  },
-  {
-    "id": 57,
-    "term": "mladí ležáci, staří žebráci",
-    "definition": "he who is lazy to work when he is young will be poor in old age",
-    "example": ""
-  },
-  {
-    "id": 58,
-    "term": "mluviti stříbro, mlčeti zlato",
-    "definition": "speech is silver, silence is golden",
-    "example": ""
-  },
-  {
-    "id": 59,
-    "term": "mnoho povolaných, málo vyvolených",
-    "definition": "many are called, but few are chosen",
-    "example": ""
-  },
-  {
-    "id": 60,
-    "term": "mít máslo na hlavě",
-    "definition": "egg on one's face",
-    "example": ""
-  },
-  {
-    "id": 61,
-    "term": "na hrubý pytel hrubá záplata",
-    "definition": "a rude action deserves a rude reaction",
-    "example": ""
-  },
-  {
-    "id": 62,
-    "term": "na každém šprochu pravdy trochu",
-    "definition": "Every statement contains a kernel of truth",
-    "example": ""
-  },
-  {
-    "id": 63,
-    "term": "natrhnout někomu sako",
-    "definition": "to give someone what for, to do somebody over",
-    "example": ""
-  },
-  {
-    "id": 64,
-    "term": "nebuď zvědavej, budeš brzo starej",
-    "definition": "curiosity killed the cat",
-    "example": ""
-  },
-  {
-    "id": 65,
-    "term": "nechval dne před večerem",
-    "definition": "don't count your chickens before they're hatched",
-    "example": ""
-  },
-  {
-    "id": 66,
-    "term": "nejít někomu něco pod fousy",
-    "definition": "not to be happy about something, not to like something",
-    "example": ""
-  },
-  {
-    "id": 67,
-    "term": "není všechno zlato, co se třpytí",
-    "definition": "all that glitters is not gold",
-    "example": ""
-  },
-  {
-    "id": 68,
-    "term": "oddělit zrno od plev",
-    "definition": "to separate the wheat from the chaff",
-    "example": ""
-  },
-  {
-    "id": 69,
-    "term": "odvážnému štěstí přeje",
-    "definition": "fortune favors the bold",
-    "example": ""
-  },
-  {
-    "id": 70,
-    "term": "oheň na střeše",
-    "definition": "conflict",
-    "example": ""
-  },
-  {
-    "id": 71,
-    "term": "oko za oko, zub za zub",
-    "definition": "eye for an eye, a tooth for a tooth",
-    "example": ""
-  },
-  {
-    "id": 72,
-    "term": "opakování matka moudrosti",
-    "definition": "practice makes perfect",
-    "example": ""
-  },
-  {
-    "id": 73,
-    "term": "orel much nelapá",
-    "definition": "don't waste time, attention, calm or money on fighting insignificant enemies",
-    "example": ""
-  },
-  {
-    "id": 74,
-    "term": "po bitvě je každý generál",
-    "definition": "twenty-twenty hindsight, hindsight is 20/20",
-    "example": ""
-  },
-  {
-    "id": 75,
-    "term": "potmě každá kráva černá",
-    "definition": "all cats are grey in the dark",
-    "example": ""
-  },
-  {
-    "id": 76,
-    "term": "potrefená husa se vždycky ozve",
-    "definition": "the person who has the qualities implied or stated in a derogatory hint made by another one will complain of b",
-    "example": ""
-  },
-  {
-    "id": 77,
-    "term": "pro jedno kvítí slunce nesvítí",
-    "definition": "when your beloved woman has broken your heart and left you, you will still fall in love again with another one",
-    "example": ""
-  },
-  {
-    "id": 78,
-    "term": "psi štěkají a karavana jde dál",
-    "definition": "the dogs bark, but the caravan goes on, haters gonna hate",
-    "example": ""
-  },
-  {
-    "id": 79,
-    "term": "před heřmánkem smekni, před bezinkou klekni",
-    "definition": ") and even higher ones of black elder",
-    "example": ""
-  },
-  {
-    "id": 80,
-    "term": "ranní ptáče dál doskáče",
-    "definition": "the early bird gets the worm",
-    "example": ""
-  },
-  {
-    "id": 81,
-    "term": "rodná hrouda",
-    "definition": "native soil",
-    "example": ""
-  },
-  {
-    "id": 82,
-    "term": "ruka ruku myje",
-    "definition": "you scratch my back and I'll scratch yours",
-    "example": ""
-  },
-  {
-    "id": 83,
-    "term": "ruku na srdce",
-    "definition": "in all honesty, in all fairness, honestly, frankly",
-    "example": ""
-  },
-  {
-    "id": 84,
-    "term": "ryba smrdí od hlavy",
-    "definition": "problems with people at lower ranks of an organization are to be traced to similar problems with people in the",
-    "example": ""
-  },
-  {
-    "id": 85,
-    "term": "Rychlé šípy",
-    "definition": "a group of absolutely honest people",
-    "example": ""
-  },
-  {
-    "id": 86,
-    "term": "ráno moudřejší večera",
-    "definition": "sleep on it",
-    "example": ""
-  },
-  {
-    "id": 87,
-    "term": "s chutí do toho, půl je hotovo",
-    "definition": "a good beginning makes a good ending",
-    "example": ""
-  },
-  {
-    "id": 88,
-    "term": "s křížkem po funuse",
-    "definition": "a day late and a dollar short",
-    "example": "Přišel s křížkem po funuse."
-  },
-  {
-    "id": 89,
-    "term": "s poctivostí nejdál dojdeš",
-    "definition": "honesty is the best policy",
-    "example": ""
-  },
-  {
-    "id": 90,
-    "term": "sejde z očí, sejde z mysli",
-    "definition": "out of sight, out of mind",
-    "example": ""
-  },
-  {
-    "id": 91,
-    "term": "spadnout do vlastní jámy",
-    "definition": "to give a taste of one's own medicine, to retaliate",
-    "example": ""
-  },
-  {
-    "id": 92,
-    "term": "starého psa novým kouskům nenaučíš",
-    "definition": "you can't teach an old dog new tricks",
-    "example": ""
-  },
-  {
-    "id": 93,
-    "term": "stokrát nic umořilo osla",
-    "definition": "many small burdens add up to a big crushing burden",
-    "example": ""
-  },
-  {
-    "id": 94,
-    "term": "tak dlouho se chodí se džbánem pro vodu, až se ucho utrhne",
-    "definition": "when you use a thing too much, it ultimately breaks down at some point every day the bucket goes to the well b",
-    "example": ""
-  },
-  {
-    "id": 95,
-    "term": "tichá voda břehy mele",
-    "definition": "still waters run deep",
-    "example": ""
-  },
-  {
-    "id": 96,
-    "term": "to je gól",
-    "definition": "that is a turn up for the book",
-    "example": ""
-  },
-  {
-    "id": 97,
-    "term": "tonoucí se stébla chytá",
-    "definition": "desperate times call for desperate measures",
-    "example": ""
-  },
-  {
-    "id": 98,
-    "term": "trpělivost růže přináší",
-    "definition": "all things come to those who wait",
-    "example": ""
-  },
-  {
-    "id": 99,
-    "term": "těžko na cvičišti, lehko na bojišti",
-    "definition": "train hard, fight easy; practice makes perfect",
-    "example": ""
-  },
-  {
-    "id": 100,
-    "term": "uhodit hřebíček na hlavičku",
-    "definition": "to hit the nail on the head",
-    "example": ""
-  }
-];
-window.QM_IDIOMS_UK_DATA = [
-  {
-    "id": 1,
-    "term": "адвокат диявола",
-    "definition": "devil's advocate",
-    "example": ""
-  },
-  {
-    "id": 2,
-    "term": "бенкет під час чуми",
-    "definition": "to fiddle while Rome burns",
-    "example": ""
-  },
-  {
-    "id": 3,
-    "term": "бувай здоров",
-    "definition": "cheers!",
-    "example": ""
-  },
-  {
-    "id": 4,
-    "term": "в руках",
-    "definition": "in one's hands, in one's power, under one's control or management",
-    "example": ""
-  },
-  {
-    "id": 5,
-    "term": "висаджувати в повітря",
-    "definition": "to blow up",
-    "example": ""
-  },
-  {
-    "id": 6,
-    "term": "вишенька на торті",
-    "definition": "cherry on the cake, cherry on top, icing on the cake",
-    "example": ""
-  },
-  {
-    "id": 7,
-    "term": "водити козу",
-    "definition": "to find somewhere to get drunk",
-    "example": "Що ви там робите вже другу годину? Та ми козу водимо."
-  },
-  {
-    "id": 8,
-    "term": "все буде Україна",
-    "definition": "Ukraine forever!",
-    "example": ""
-  },
-  {
-    "id": 9,
-    "term": "всьо на свої лотоки",
-    "definition": "always looking out for one's own advantage, turning everything to one's own benefit",
-    "example": ""
-  },
-  {
-    "id": 10,
-    "term": "всі дороги ведуть до Риму",
-    "definition": "all roads lead to Rome",
-    "example": ""
-  },
-  {
-    "id": 11,
-    "term": "відкрити Америку",
-    "definition": "to discover that Queen Anne's dead",
-    "example": "Він сказав, що спорт корисний для здоров'я. Теж мені Америку відкрив!"
-  },
-  {
-    "id": 12,
-    "term": "голова й два вуха",
-    "definition": "absent-minded",
-    "example": "Чому ти забув ключі вдома знову? Та я ж голова і два вуха."
-  },
-  {
-    "id": 13,
-    "term": "гроші не пахнуть",
-    "definition": "money does not smell",
-    "example": ""
-  },
-  {
-    "id": 14,
-    "term": "дати в руку",
-    "definition": "to hand over, to put into someone's hands, to entrust",
-    "example": ""
-  },
-  {
-    "id": 15,
-    "term": "дати гарбуза",
-    "definition": "to reject one's romantic advances; to give the cold shoulder",
-    "example": ""
-  },
-  {
-    "id": 16,
-    "term": "дати з рук",
-    "definition": "to hand over, to give out of one's hands, to relinquish",
-    "example": ""
-  },
-  {
-    "id": 17,
-    "term": "держати в руках",
-    "definition": "to keep someone under control, to hold in check, to keep a tight rein on",
-    "example": ""
-  },
-  {
-    "id": 18,
-    "term": "дивитися на руки",
-    "definition": "to watch someone closely, to keep a close eye on someone",
-    "example": ""
-  },
-  {
-    "id": 19,
-    "term": "жувати соплі",
-    "definition": "To twiddle one's thumbs, to waste time and do nothing useful",
-    "example": "Відповідь на коментар: перестаньте соплі жувати."
-  },
-  {
-    "id": 20,
-    "term": "з Великоднем",
-    "definition": "Happy Easter!",
-    "example": ""
-  },
-  {
-    "id": 21,
-    "term": "з вільної руки",
-    "definition": "of one's own free will, voluntarily",
-    "example": ""
-  },
-  {
-    "id": 22,
-    "term": "з першої руки",
-    "definition": "firsthand, from the original source",
-    "example": ""
-  },
-  {
-    "id": 23,
-    "term": "з порожніми руками",
-    "definition": "empty-handed, with empty hands, without gifts, unrewarded",
-    "example": ""
-  },
-  {
-    "id": 24,
-    "term": "за закритими дверима",
-    "definition": "behind closed doors",
-    "example": ""
-  },
-  {
-    "id": 25,
-    "term": "заложити руки",
-    "definition": "to sit idle, to fold one's arms, to do nothing",
-    "example": ""
-  },
-  {
-    "id": 26,
-    "term": "земля обітована",
-    "definition": "dream",
-    "example": ""
-  },
-  {
-    "id": 27,
-    "term": "зложити голову",
-    "definition": "To die in battle",
-    "example": ""
-  },
-  {
-    "id": 28,
-    "term": "камінь спотикання",
-    "definition": "stumbling block",
-    "example": ""
-  },
-  {
-    "id": 29,
-    "term": "квиток до Кобзона",
-    "definition": "\"Ticket to Kobzon\": a quick death for a Russian soldier in Ukraine",
-    "example": "Вбивця отримав собі квиток до Кобзона."
-  },
-  {
-    "id": 30,
-    "term": "коли йдеться про",
-    "definition": "when it comes to",
-    "example": ""
-  },
-  {
-    "id": 31,
-    "term": "коли рак на горі свисне",
-    "definition": "when pigs fly, never",
-    "example": ""
-  },
-  {
-    "id": 32,
-    "term": "концерт Кобзона",
-    "definition": "\"Kobzon's concert\": a quick death for a Russian soldier fighting against Ukraine",
-    "example": "відправили на концерт Кобзона."
-  },
-  {
-    "id": 33,
-    "term": "крокодилячі сльози",
-    "definition": "crocodile tears",
-    "example": ""
-  },
-  {
-    "id": 34,
-    "term": "кулик кулика бачить здалека",
-    "definition": "birds of a feather flock together",
-    "example": ""
-  },
-  {
-    "id": 35,
-    "term": "ламати голову над чимось",
-    "definition": "to get confused",
-    "example": ""
-  },
-  {
-    "id": 36,
-    "term": "левова частка",
-    "definition": "lion's share",
-    "example": ""
-  },
-  {
-    "id": 37,
-    "term": "мати довгі руки",
-    "definition": "to be a thief, to be light-fingered, to have sticky fingers, to be prone to stealing",
-    "example": ""
-  },
-  {
-    "id": 38,
-    "term": "мене звати",
-    "definition": "my name is",
-    "example": "Мене́ зва́ти Стефа́н."
-  },
-  {
-    "id": 39,
-    "term": "молоко на губах не обсохло",
-    "definition": "wet behind the ears, greenhorn",
-    "example": ""
-  },
-  {
-    "id": 40,
-    "term": "моя хата скраю, я нічого не знаю",
-    "definition": "it's none of my business, I don't care",
-    "example": ""
-  },
-  {
-    "id": 41,
-    "term": "на молот",
-    "definition": "very finely",
-    "example": ""
-  },
-  {
-    "id": 42,
-    "term": "на руку",
-    "definition": "convenient, handy, advantageous, playing into someone's hands",
-    "example": ""
-  },
-  {
-    "id": 43,
-    "term": "на свою руку",
-    "definition": "on one's own, independently, on one's own initiative or risk",
-    "example": ""
-  },
-  {
-    "id": 44,
-    "term": "налякати їжака голою сракою",
-    "definition": "To fail to be threatening",
-    "example": ""
-  },
-  {
-    "id": 45,
-    "term": "не на руку",
-    "definition": "inconvenient, unsuitable, disadvantageous",
-    "example": ""
-  },
-  {
-    "id": 46,
-    "term": "не рука",
-    "definition": "it won't do; it is not suitable, convenient, or acceptable",
-    "example": ""
-  },
-  {
-    "id": 47,
-    "term": "не святі горшки ліплять",
-    "definition": "anyone can learn to do anything if they wish to",
-    "example": ""
-  },
-  {
-    "id": 48,
-    "term": "не чути ніг під собою",
-    "definition": "to be very happy or excited; over the moon",
-    "example": ""
-  },
-  {
-    "id": 49,
-    "term": "нема диму без вогню",
-    "definition": "there's no smoke without fire",
-    "example": ""
-  },
-  {
-    "id": 50,
-    "term": "нема лиха без добра",
-    "definition": "a blessing in disguise, something bad that has a good result",
-    "example": ""
-  },
-  {
-    "id": 51,
-    "term": "неозброєне око",
-    "definition": "naked eye, unaided eye",
-    "example": ""
-  },
-  {
-    "id": 52,
-    "term": "один у полі не воїн",
-    "definition": "many hands make light work",
-    "example": ""
-  },
-  {
-    "id": 53,
-    "term": "опустити руки",
-    "definition": "to lose heart, to give up, to despair",
-    "example": ""
-  },
-  {
-    "id": 54,
-    "term": "переливати з пустого в порожнє",
-    "definition": "to talk empty, useless, unimportant talks",
-    "example": ""
-  },
-  {
-    "id": 55,
-    "term": "показати де раки зимують",
-    "definition": "to punish someone, to teach someone a lesson",
-    "example": "Я покажу тобі, де раки зимують!"
-  },
-  {
-    "id": 56,
-    "term": "прийти до тями",
-    "definition": "to come to one's senses, to recover one's senses, to regain one's senses, to come to, to come round",
-    "example": ""
-  },
-  {
-    "id": 57,
-    "term": "про вовка промовка",
-    "definition": "speak of the devil",
-    "example": "Про вовка промовка, а вовк у хату. - Марко Вовчок."
-  },
-  {
-    "id": 58,
-    "term": "під джмелем",
-    "definition": "drunk",
-    "example": ""
-  },
-  {
-    "id": 59,
-    "term": "під диктовку",
-    "definition": "according to someone's will, as one wishes",
-    "example": ""
-  },
-  {
-    "id": 60,
-    "term": "піти рукою",
-    "definition": "to go well, to succeed, to go smoothly",
-    "example": ""
-  },
-  {
-    "id": 61,
-    "term": "раз та гаразд",
-    "definition": "even though something is done rarely, it is done extremely well",
-    "example": ""
-  },
-  {
-    "id": 62,
-    "term": "ранні пташки росу п'ють, а пізні слізки ллють",
-    "definition": "the early bird catches the worm, the early bird gets the worm",
-    "example": ""
-  },
-  {
-    "id": 63,
-    "term": "робити з мухи слона",
-    "definition": "to make a mountain out of a molehill",
-    "example": ""
-  },
-  {
-    "id": 64,
-    "term": "рожеві окуляри",
-    "definition": "rose-colored glasses",
-    "example": ""
-  },
-  {
-    "id": 65,
-    "term": "стрибати від радості",
-    "definition": "to jump for joy",
-    "example": ""
-  },
-  {
-    "id": 66,
-    "term": "теплою рукою",
-    "definition": "during one's lifetime, before death",
-    "example": ""
-  },
-  {
-    "id": 67,
-    "term": "тягнути руку",
-    "definition": "to raise one's hand",
-    "example": ""
-  },
-  {
-    "id": 68,
-    "term": "ходити з довгою рукою",
-    "definition": "to beg, to ask for alms",
-    "example": ""
-  },
-  {
-    "id": 69,
-    "term": "цирк на дроті",
-    "definition": "three-ring circus; pandemonium",
-    "example": ""
-  },
-  {
-    "id": 70,
-    "term": "Чотири вершники Апокаліпсису",
-    "definition": "Four Horsemen of the Apocalypse",
-    "example": ""
-  },
-  {
-    "id": 71,
-    "term": "яблуку ніде впасти",
-    "definition": "it's packed to the gills, it's packed to the rafters",
-    "example": ""
-  },
-  {
-    "id": 72,
-    "term": "язик до Києва доведе",
-    "definition": "one must be communicative and ask other people if needed",
-    "example": ""
-  },
-  {
-    "id": 73,
-    "term": "як вітром здуло",
-    "definition": "vanished into thin air",
-    "example": "Коли клас здавав домашню роботу, Семена як вітром здуло."
-  },
-  {
-    "id": 74,
-    "term": "як грім серед ясного неба",
-    "definition": "out of the blue",
-    "example": "Одного дня, як грім серед ясного неба, вона сказала, що йде від мене."
-  },
-  {
-    "id": 75,
-    "term": "як дві краплі води",
-    "definition": "like two peas in a pod",
-    "example": ""
-  },
-  {
-    "id": 76,
-    "term": "як до Києва рачки",
-    "definition": "far, a long way",
-    "example": ""
-  },
-  {
-    "id": 77,
-    "term": "як Марко в пеклі",
-    "definition": "ceaselessly, quickly, unnecessarily",
-    "example": ""
-  },
-  {
-    "id": 78,
-    "term": "як не срачка, то болячка",
-    "definition": "out of the frying pan, into the fire; referring to a situation that is inevitably as bad as the previous one",
-    "example": ""
-  },
-  {
-    "id": 79,
-    "term": "якщо на те пішло",
-    "definition": "for that matter, come to that",
-    "example": ""
-  },
-  {
-    "id": 80,
-    "term": "їбала жаба гадюку",
-    "definition": "Two or more unpleasant people are fighting each other; like rats in a sack",
-    "example": "Та там справжнє шоу — їбала жаба гадюку!"
-  },
-  {
-    "id": 81,
-    "term": "ґав ловити",
-    "definition": "to get distracted, to lose focus",
-    "example": "Не лови ґав на роботі!"
-  }
-];
-window.QM_IDIOMS_PT_DATA = [
-  {
-    "id": 1,
-    "term": "a beleza está nos olhos de quem a vê",
-    "definition": "beauty is in the eye of the beholder",
-    "example": ""
-  },
-  {
-    "id": 2,
-    "term": "a casa de um homem é o seu castelo",
-    "definition": "a man's home is his castle",
-    "example": ""
-  },
-  {
-    "id": 3,
-    "term": "a montanha parir um rato",
-    "definition": "[for someone to] make a mountain out of a molehill",
-    "example": ""
-  },
-  {
-    "id": 4,
-    "term": "alugar um tríplex na cabeça de alguém",
-    "definition": "to psychologically affect someone to the point that they can't stop thinking about something or someone",
-    "example": ""
-  },
-  {
-    "id": 5,
-    "term": "até debaixo d'água",
-    "definition": "\"even underwater\", at all times, without exception",
-    "example": "Eu confio nele completamente, ele é meu amigo até debaixo d'água."
-  },
-  {
-    "id": 6,
-    "term": "basta a cada dia o seu mal",
-    "definition": "sufficient unto the day is the evil thereof",
-    "example": ""
-  },
-  {
-    "id": 7,
-    "term": "bater à porta",
-    "definition": "to come knocking",
-    "example": "a tentação bateu à minha porta."
-  },
-  {
-    "id": 8,
-    "term": "bicho de sete cabeças",
-    "definition": "rocket science, brain surgery",
-    "example": "É um pouco complicado, mas também não é um bicho de sete cabeças."
-  },
-  {
-    "id": 9,
-    "term": "botar a mão no fogo",
-    "definition": "to vouch for; to trust (someone) with one's life",
-    "example": ""
-  },
-  {
-    "id": 10,
-    "term": "botar na conta do papa",
-    "definition": "to let something be handled by someone else",
-    "example": ""
-  },
-  {
-    "id": 11,
-    "term": "burro velho não aprende línguas",
-    "definition": "you can't teach an old dog new tricks",
-    "example": ""
-  },
-  {
-    "id": 12,
-    "term": "caminhar com as próprias pernas",
-    "definition": "to stand on one's own two feet",
-    "example": ""
-  },
-  {
-    "id": 13,
-    "term": "colocar todos os ovos em uma única cesta",
-    "definition": "to have all one's eggs in one basket",
-    "example": ""
-  },
-  {
-    "id": 14,
-    "term": "com o passar do tempo",
-    "definition": "as time goes on, in the long run",
-    "example": "Não se preocupe, com o passar do tempo as coisas melhorar."
-  },
-  {
-    "id": 15,
-    "term": "com que cara",
-    "definition": "How am I supposed to (face someone after I did)...?",
-    "example": "Eu não consegui realizar as minhas tarefas. Com que cara direi isso ao meu chefe?"
-  },
-  {
-    "id": 16,
-    "term": "comer nas mãos de alguém",
-    "definition": "to eat out of someone's hand",
-    "example": ""
-  },
-  {
-    "id": 17,
-    "term": "cuidar da própria vida",
-    "definition": "to mind one's own business",
-    "example": "Cuida da tua vida ou te demitiremos."
-  },
-  {
-    "id": 18,
-    "term": "da frigideira para o fogo",
-    "definition": "out of the frying pan, into the fire",
-    "example": ""
-  },
-  {
-    "id": 19,
-    "term": "da noite para o dia",
-    "definition": "suddenly, from one day to the other",
-    "example": ""
-  },
-  {
-    "id": 20,
-    "term": "dar a cara a tapa",
-    "definition": "to face boldly some possibly unpleasant situation",
-    "example": ""
-  },
-  {
-    "id": 21,
-    "term": "dar a mão à palmatória",
-    "definition": "used to express disbelief about a proposition",
-    "example": ""
-  },
-  {
-    "id": 22,
-    "term": "dar o que falar",
-    "definition": "to generate attention and commentary, especially if suddenly and for a short time",
-    "example": "Este incidente deu o que falar."
-  },
-  {
-    "id": 23,
-    "term": "dar um tiro no pé",
-    "definition": "to shoot oneself in the foot",
-    "example": ""
-  },
-  {
-    "id": 24,
-    "term": "e olhe lá",
-    "definition": "at best; at most; and no more; and that's it",
-    "example": "Sua encomenda vai chegar em 3 dias e olhe lá!"
-  },
-  {
-    "id": 25,
-    "term": "em briga de marido e mulher, não se mete a colher",
-    "definition": "one should not interfere in a couple's quarrel",
-    "example": ""
-  },
-  {
-    "id": 26,
-    "term": "em casa de ferreiro, o espeto é de pau",
-    "definition": "the shoemaker's children go barefoot",
-    "example": ""
-  },
-  {
-    "id": 27,
-    "term": "em terra de cego, quem tem um olho é rei",
-    "definition": "in the land of the blind, the one-eyed man is king",
-    "example": ""
-  },
-  {
-    "id": 28,
-    "term": "estar com os pés na cova",
-    "definition": "on one's last legs; about to die",
-    "example": ""
-  },
-  {
-    "id": 29,
-    "term": "fazer corpo mole",
-    "definition": "to drag one's feet, to mess about, to slack off",
-    "example": "Meu filho sempre faz corpo mole para ir ao dentista."
-  },
-  {
-    "id": 30,
-    "term": "fazer de gato e sapato",
-    "definition": "to use, exploit, mistreat or humiliate someone",
-    "example": "Ela só me fez de gato e sapato!"
-  },
-  {
-    "id": 31,
-    "term": "ficar com o pé atrás",
-    "definition": "to distrust; to doubt",
-    "example": "Sempre fico com o pé atrás quando me fazem uma proposta suspeita dessa."
-  },
-  {
-    "id": 32,
-    "term": "focinho de porco não é tomada",
-    "definition": "to prove someone's misperception",
-    "example": ""
-  },
-  {
-    "id": 33,
-    "term": "fugir como o diabo foge da cruz",
-    "definition": "to flee like a bat out of hell",
-    "example": "Estou fugindo dele como o diabo foge da cruz."
-  },
-  {
-    "id": 34,
-    "term": "gato escaldado de água fria tem medo",
-    "definition": "once bitten, twice shy",
-    "example": ""
-  },
-  {
-    "id": 35,
-    "term": "gosto não se discute",
-    "definition": "there's no accounting for taste",
-    "example": ""
-  },
-  {
-    "id": 36,
-    "term": "gota d'água no oceano",
-    "definition": "drop in the bucket",
-    "example": ""
-  },
-  {
-    "id": 37,
-    "term": "grão a grão enche a galinha o papo",
-    "definition": "many a mickle makes a muckle",
-    "example": ""
-  },
-  {
-    "id": 38,
-    "term": "homem dos sete ofícios",
-    "definition": "jack of all trades",
-    "example": ""
-  },
-  {
-    "id": 39,
-    "term": "há algo de podre no reino da Dinamarca",
-    "definition": "something is rotten in the state of Denmark",
-    "example": ""
-  },
-  {
-    "id": 40,
-    "term": "há males que vêm para o bem",
-    "definition": "A negative event may have a later positive effect",
-    "example": ""
-  },
-  {
-    "id": 41,
-    "term": "há um chinelo velho para todo pé cansado",
-    "definition": "every Jack has his Jill",
-    "example": ""
-  },
-  {
-    "id": 42,
-    "term": "ideia de jerico",
-    "definition": "a stupid idea",
-    "example": "Quem teve a ideia de jerico de deixar a porta destrancada?"
-  },
-  {
-    "id": 43,
-    "term": "Inês é morta",
-    "definition": "it's too late; what's done is done",
-    "example": "Depois de acusá-la de traição e expulsá-la de casa, ele quer se desculpar. Agora, Inês é morta."
-  },
-  {
-    "id": 44,
-    "term": "ir com a cara",
-    "definition": "to have a good impression of a person (or by extension, a concept or object) at first glance",
-    "example": ""
-  },
-  {
-    "id": 45,
-    "term": "ir para a cucuia",
-    "definition": "to be forgotten, abandoned, discontinued or fail to produce results or consequences",
-    "example": "O projeto foi para a cucuia."
-  },
-  {
-    "id": 46,
-    "term": "jogar merda no ventilador",
-    "definition": "to spread bad rumours or compromising information",
-    "example": ""
-  },
-  {
-    "id": 47,
-    "term": "jogar na cara",
-    "definition": "to rub it in, to shove in someone's face",
-    "example": "— Eu ganho muito mais dinheiro que você. — Tá, mas não precisa jogar na cara assim."
-  },
-  {
-    "id": 48,
-    "term": "jogar um balde de água fria",
-    "definition": "to throw cold water on",
-    "example": ""
-  },
-  {
-    "id": 49,
-    "term": "joguete nas mãos de",
-    "definition": "putty in someone's hands",
-    "example": ""
-  },
-  {
-    "id": 50,
-    "term": "juntar a fome com a vontade de comer",
-    "definition": "to combine two different plans or goals into one",
-    "example": ""
-  },
-  {
-    "id": 51,
-    "term": "levantar a voz",
-    "definition": "To raise one's voice",
-    "example": "Não me levantes a voz!"
-  },
-  {
-    "id": 52,
-    "term": "levantar do lado errado da cama",
-    "definition": "to get up on the wrong side of the bed",
-    "example": ""
-  },
-  {
-    "id": 53,
-    "term": "levar água ao mar",
-    "definition": "to carry coals to Newcastle",
-    "example": ""
-  },
-  {
-    "id": 54,
-    "term": "ligar o foda-se",
-    "definition": "to stop caring",
-    "example": "O negócio é ligar o foda-se e não ficar com a pulga atrás da orelha."
-  },
-  {
-    "id": 55,
-    "term": "limpar a barra",
-    "definition": "to get rid of or free oneself from an undesirable or dangerous situation",
-    "example": ""
-  },
-  {
-    "id": 56,
-    "term": "mais vale só que mal acompanhado",
-    "definition": "it's better to be alone than in bad company",
-    "example": ""
-  },
-  {
-    "id": 57,
-    "term": "mais vale um pássaro na mão do que dois voando",
-    "definition": "a bird in the hand is worth two in the bush",
-    "example": ""
-  },
-  {
-    "id": 58,
-    "term": "mais velho que o cagar em cócoras",
-    "definition": "to be old as the hills, to be older than dirt",
-    "example": ""
-  },
-  {
-    "id": 59,
-    "term": "matar cachorro a grito",
-    "definition": "to be very poor, not to have money",
-    "example": "Ele está matando cachorro a grito."
-  },
-  {
-    "id": 60,
-    "term": "meter o rabo entre as pernas",
-    "definition": "to put one's tail between one's legs",
-    "example": ""
-  },
-  {
-    "id": 61,
-    "term": "na guerra e no amor vale tudo",
-    "definition": "all's fair in love and war",
-    "example": ""
-  },
-  {
-    "id": 62,
-    "term": "nascer em berço de ouro",
-    "definition": "to be born with a silver spoon in one's mouth",
-    "example": ""
-  },
-  {
-    "id": 63,
-    "term": "nascer virado para a lua",
-    "definition": "to be very lucky",
-    "example": "Ela nasceu virada para a lua."
-  },
-  {
-    "id": 64,
-    "term": "não ir com a cara de",
-    "definition": "to dislike",
-    "example": "Não vou com a cara do novo professor."
-  },
-  {
-    "id": 65,
-    "term": "não ter papas na língua",
-    "definition": "to not mince one's words, to speak one's mind",
-    "example": ""
-  },
-  {
-    "id": 66,
-    "term": "o bom filho a casa torna",
-    "definition": "to do something one has already done previously; to visit a place one has already been to",
-    "example": ""
-  },
-  {
-    "id": 67,
-    "term": "o bom é inimigo do ótimo",
-    "definition": "with limited resources, one should work with what they have rather than doing nothing and waiting for an impro",
-    "example": ""
-  },
-  {
-    "id": 68,
-    "term": "o espírito está pronto, mas a carne é fraca",
-    "definition": "the spirit is willing but the flesh is weak",
-    "example": ""
-  },
-  {
-    "id": 69,
-    "term": "o homem põe e Deus dispõe",
-    "definition": "man proposes, God disposes",
-    "example": ""
-  },
-  {
-    "id": 70,
-    "term": "o pão que o diabo amassou",
-    "definition": "great suffering or strife in one's life",
-    "example": ""
-  },
-  {
-    "id": 71,
-    "term": "passar a perna",
-    "definition": "to pull a fast one, trick, delude, deceive or fool someone",
-    "example": "Passei a perna no sujeito, tomei-lhe seu dinheiro sem perceber!"
-  },
-  {
-    "id": 72,
-    "term": "por que cargas d'água",
-    "definition": "why the hell; why the heck",
-    "example": "Por que cargas d'água você demorou tanto para chegar?"
-  },
-  {
-    "id": 73,
-    "term": "por um triz",
-    "definition": "by a whisker; by a hair's breadth; by the skin of one's teeth",
-    "example": "Eu consegui escapar do acidente por um triz."
-  },
-  {
-    "id": 74,
-    "term": "por via das dúvidas",
-    "definition": "just in case, just to be on the safe side",
-    "example": "Leva o guarda-chuva, por via das dúvidas."
-  },
-  {
-    "id": 75,
-    "term": "puxar a brasa para a sardinha de alguém",
-    "definition": "to pull for one's side, to toot one's own horn",
-    "example": "Aproveitei para puxar a brasa para minha sardinha."
-  },
-  {
-    "id": 76,
-    "term": "quando a esmola é demais, o santo desconfia",
-    "definition": "when a person acts excessively kind, they wants something in return",
-    "example": ""
-  },
-  {
-    "id": 77,
-    "term": "quando um não quer, dois não brigam",
-    "definition": "it takes two to tangle",
-    "example": "Não me importa quem começou. Quando um não quer, dois não brigam."
-  },
-  {
-    "id": 78,
-    "term": "quem ama o feio, bonito lhe parece",
-    "definition": "the judgement of someone's loved ones is biased because they are going to find qualities in him/her where ther",
-    "example": ""
-  },
-  {
-    "id": 79,
-    "term": "quem não chora, não mama",
-    "definition": "the squeaky wheel gets the grease",
-    "example": "O cachorro pede para arrumar água e ração, porque quem não chora, não mama."
-  },
-  {
-    "id": 80,
-    "term": "querer sol na eira e chuva no nabal",
-    "definition": "to want to have one's cake and eat it too",
-    "example": ""
-  },
-  {
-    "id": 81,
-    "term": "rachar o bico",
-    "definition": "to crack up",
-    "example": "rachei o bico com uma piada vi ontem."
-  },
-  {
-    "id": 82,
-    "term": "resumo da ópera",
-    "definition": "a concise description, especially of something that would be otherwise long and tiresome; the long story made",
-    "example": "Não vou ler esse documento gigantesco. Alguém me dá o resumo da ópera?"
-  },
-  {
-    "id": 83,
-    "term": "rir é o melhor remédio",
-    "definition": "laughter is the best medicine",
-    "example": ""
-  },
-  {
-    "id": 84,
-    "term": "Roma e Pavia não se fizeram num dia",
-    "definition": "Rome wasn't built in a day",
-    "example": ""
-  },
-  {
-    "id": 85,
-    "term": "roupa suja se lava em casa",
-    "definition": "don't wash your dirty linen in public",
-    "example": ""
-  },
-  {
-    "id": 86,
-    "term": "saco vazio não para em pé",
-    "definition": "one needs food in order to function well",
-    "example": "Deixa o trabalho aí e vai comer; saco vazio não para em pé, cê sabe, né?"
-  },
-  {
-    "id": 87,
-    "term": "sair de cima do muro",
-    "definition": "to solve a previous conflict between (usually two) different opinions or decisions; to decide",
-    "example": ""
-  },
-  {
-    "id": 88,
-    "term": "sangue nos olhos",
-    "definition": "determination, focus, courage",
-    "example": "Ela ficou com sangue nos olhos depois do insulto contra a sua filha."
-  },
-  {
-    "id": 89,
-    "term": "ser a praia de alguém",
-    "definition": "to be someone’s area of interest",
-    "example": "Dançar não é muito a minha praia."
-  },
-  {
-    "id": 90,
-    "term": "ser de comer rezando",
-    "definition": "to be exceptionally delicious",
-    "example": "A comida que ele faz é de comer rezando!"
-  },
-  {
-    "id": 91,
-    "term": "tanto faz como tanto fez",
-    "definition": "tomayto, tomahto; big deal; whatever",
-    "example": ""
-  },
-  {
-    "id": 92,
-    "term": "ter o olho maior do que a barriga",
-    "definition": "to have eyes bigger than one's stomach",
-    "example": ""
-  },
-  {
-    "id": 93,
-    "term": "ter sol na eira e chuva no nabal",
-    "definition": "to have one's cake and eat it too",
-    "example": ""
-  },
-  {
-    "id": 94,
-    "term": "tirar as palavras da boca",
-    "definition": "to say what someone was about to say; take the words out of someone's mouth",
-    "example": "Você tirou as palavras da minha boca! (Brazil)/Tiraste-me as palavras da boca! (Portugal)."
-  },
-  {
-    "id": 95,
-    "term": "um dia não são dias",
-    "definition": "you only live once",
-    "example": ""
-  },
-  {
-    "id": 96,
-    "term": "um mal nunca vem só",
-    "definition": "misfortunes never come singly",
-    "example": ""
-  },
-  {
-    "id": 97,
-    "term": "um pior que o outro",
-    "definition": "all members of a group are very bad",
-    "example": ""
-  },
-  {
-    "id": 98,
-    "term": "um sol para cada um",
-    "definition": "sunny and very hot; scorching hot",
-    "example": "Ainda nem é verão e já tem um sol pra cada um!"
-  },
-  {
-    "id": 99,
-    "term": "uma coisa é uma coisa, outra coisa é outra coisa",
-    "definition": "it has nothing to do with that",
-    "example": "— O carro dela quebrou e eu tive que ajudar ela. — Mas não foi ela que brigou com você esses dias? — Sim, mas uma coisa é uma coisa, outra coisa é outra coisa."
-  },
-  {
-    "id": 100,
-    "term": "varrer para debaixo do tapete",
-    "definition": "to sweep something under the rug",
-    "example": ""
-  }
-];
-window.QM_IDIOMS_ES_DATA = [
-  {
-    "id": 1,
-    "term": "a otro perro con ese hueso",
-    "definition": "you can't fool me, go tell that to somebody else; tell it to the marines",
-    "example": ""
-  },
-  {
-    "id": 2,
-    "term": "agarrar fuego el cañal",
-    "definition": "to have a situation or problem get more complicated or worse; to have a situation or problem go downhill",
-    "example": "Cuando él la insultó agarró fuego el cañal."
-  },
-  {
-    "id": 3,
-    "term": "al primer golpe de vista",
-    "definition": "as soon as one sets one's eyes on something",
-    "example": ""
-  },
-  {
-    "id": 4,
-    "term": "andar a tres menos cuartillo",
-    "definition": "to be skint; to be down on one's uppers",
-    "example": ""
-  },
-  {
-    "id": 5,
-    "term": "armar la de san Quintín",
-    "definition": "to start a fight",
-    "example": "Se armó la de San Quintín."
-  },
-  {
-    "id": 6,
-    "term": "arrimar el ascua a su sardina",
-    "definition": "to tip the balance in one's favour, look out for number one",
-    "example": ""
-  },
-  {
-    "id": 7,
-    "term": "bailar al son que le tocan",
-    "definition": "to do as one is told; to obey; to follow the rules",
-    "example": ""
-  },
-  {
-    "id": 8,
-    "term": "bien predica quien bien vive",
-    "definition": "he who preaches well is he who lives well",
-    "example": ""
-  },
-  {
-    "id": 9,
-    "term": "blanca y en botella, leche",
-    "definition": "no doubt about it, no question",
-    "example": ""
-  },
-  {
-    "id": 10,
-    "term": "brillar por su ausencia",
-    "definition": "to be conspicuous by one's absence, to be conspicuously absent",
-    "example": ""
-  },
-  {
-    "id": 11,
-    "term": "buscar pelos en la sopa",
-    "definition": "to look for excuses to complain",
-    "example": "¿Por qué buscabas pelos en la sopa?"
-  },
-  {
-    "id": 12,
-    "term": "buscarle las cosquillas a alguien",
-    "definition": "to push someone's buttons; to get someone's goat",
-    "example": ""
-  },
-  {
-    "id": 13,
-    "term": "caérsele la venda de los ojos",
-    "definition": "scales fall from someone's eyes",
-    "example": ""
-  },
-  {
-    "id": 14,
-    "term": "como alma que lleva el diablo",
-    "definition": "like a bat out of hell",
-    "example": "salir como alma que lleva el diablo."
-  },
-  {
-    "id": 15,
-    "term": "como si no hubiera un mañana",
-    "definition": "like one's life depended on it",
-    "example": ""
-  },
-  {
-    "id": 16,
-    "term": "como si tal cosa",
-    "definition": "as if it were nothing; business as usual",
-    "example": "No puedo dejar que te vayas como si tal cosa."
-  },
-  {
-    "id": 17,
-    "term": "con el corazón en la mano",
-    "definition": "with one's hand on one's heart",
-    "example": ""
-  },
-  {
-    "id": 18,
-    "term": "dar atole con el dedo",
-    "definition": "to deceive",
-    "example": "No me des atole con el dedo, dime la verdad."
-  },
-  {
-    "id": 19,
-    "term": "dar el brazo a torcer",
-    "definition": "to give in or give way, concede one's opinions, allow yourself to be persuaded",
-    "example": ""
-  },
-  {
-    "id": 20,
-    "term": "dar la espalda",
-    "definition": "to turn one's back; to refuse to help or aid somebody",
-    "example": "¡No me des la espalda!"
-  },
-  {
-    "id": 21,
-    "term": "de agárrate que hay curva",
-    "definition": "a helluva; mighty",
-    "example": "una fiesta de agárrate que hay curvas."
-  },
-  {
-    "id": 22,
-    "term": "desde el vientre de su madre",
-    "definition": "since before one was born; since one's conception",
-    "example": "Mi hijo fue elegido para salvar a nuestro pueblo desde el vientre de su madre."
-  },
-  {
-    "id": 23,
-    "term": "desde que uno tiene uso de razón",
-    "definition": "for as long as one can remember",
-    "example": "Dice que pinta desde que tiene uso de razón."
-  },
-  {
-    "id": 24,
-    "term": "echar a la calle",
-    "definition": "to dismiss or fire someone",
-    "example": "El dueño nos ha echado a todos a la calle."
-  },
-  {
-    "id": 25,
-    "term": "el que no chilla no mama",
-    "definition": "someone who does not express their needs or desires may not obtain them; a closed mouth doesn't get fed",
-    "example": ""
-  },
-  {
-    "id": 26,
-    "term": "en la flor de la juventud",
-    "definition": "in the flower of one's youth",
-    "example": ""
-  },
-  {
-    "id": 27,
-    "term": "en la punta de la lengua",
-    "definition": "on the tip of one's tongue",
-    "example": ""
-  },
-  {
-    "id": 28,
-    "term": "entrarle los siete males",
-    "definition": "to cause someone to fret; to drive (someone) nuts",
-    "example": "me entran los siete males pensando en ello."
-  },
-  {
-    "id": 29,
-    "term": "estar a partir un piñón",
-    "definition": "to get on (with someone); be bosom buddies; to get on like a house on fire",
-    "example": "está a partir un piñón con el vecino."
-  },
-  {
-    "id": 30,
-    "term": "feliz como una perdiz",
-    "definition": "happy as a clam, happy as Larry",
-    "example": ""
-  },
-  {
-    "id": 31,
-    "term": "firmar su propia sentencia de muerte",
-    "definition": "to sign one's death warrant",
-    "example": ""
-  },
-  {
-    "id": 32,
-    "term": "flor de la canela",
-    "definition": "the bee's knees; the cream of the crop",
-    "example": ""
-  },
-  {
-    "id": 33,
-    "term": "flor de la vida",
-    "definition": "youthful years; prime of life",
-    "example": ""
-  },
-  {
-    "id": 34,
-    "term": "fruncir el ceño",
-    "definition": "to frown, to scowl, to furrow one's brow",
-    "example": ""
-  },
-  {
-    "id": 35,
-    "term": "fuera de serie",
-    "definition": "off the charts, out of this world, exceptional",
-    "example": "un escritor fuera de serie."
-  },
-  {
-    "id": 36,
-    "term": "ganar la partida",
-    "definition": "to get one up (over someone); to get the better of",
-    "example": ""
-  },
-  {
-    "id": 37,
-    "term": "gastar la pólvora en salvas",
-    "definition": "to rearrange the deck chairs on the Titanic",
-    "example": ""
-  },
-  {
-    "id": 38,
-    "term": "gastar pólvora en gallinazos",
-    "definition": "to waste time",
-    "example": ""
-  },
-  {
-    "id": 39,
-    "term": "gato escaldado del agua fría huye",
-    "definition": "once bitten, twice shy",
-    "example": ""
-  },
-  {
-    "id": 40,
-    "term": "genio y figura hasta la sepultura",
-    "definition": "a leopard cannot change its spots",
-    "example": ""
-  },
-  {
-    "id": 41,
-    "term": "golpe de timón",
-    "definition": "change of tack; change of direction; change of course",
-    "example": ""
-  },
-  {
-    "id": 42,
-    "term": "haber gato encerrado",
-    "definition": "to have something fishy going on",
-    "example": "En aquella situación hubo gato encerrado."
-  },
-  {
-    "id": 43,
-    "term": "hacer la trece catorce",
-    "definition": "to trick, deceive, mislead; to perform a ruse",
-    "example": "Ya me hizo la trece catorce una vez, no puedo confiar de nuevo."
-  },
-  {
-    "id": 44,
-    "term": "hacer leña del árbol caído",
-    "definition": "to kick someone when they are down",
-    "example": ""
-  },
-  {
-    "id": 45,
-    "term": "hacer un hueco",
-    "definition": "to fit in; to make space",
-    "example": "Tengo todo el día liado, pero te puedo hacer un hueco desde las 11 hasta las y media."
-  },
-  {
-    "id": 46,
-    "term": "hacerse la picha un lío",
-    "definition": "get one's knickers in a twist",
-    "example": ""
-  },
-  {
-    "id": 47,
-    "term": "hasta el carné de identidad",
-    "definition": "absolutely everything; totally and utterly",
-    "example": "Le robaron hasta el carné de identidad."
-  },
-  {
-    "id": 48,
-    "term": "ir a misa",
-    "definition": "to go to Mass , to go to mass , to go to church",
-    "example": "Yo soy quien manda aquí, y lo que yo digo va a misa."
-  },
-  {
-    "id": 49,
-    "term": "ir al ajo del asunto",
-    "definition": "to cut to the chase, get to the point",
-    "example": ""
-  },
-  {
-    "id": 50,
-    "term": "ir cada uno por su lado",
-    "definition": "to go one's own way",
-    "example": ""
-  },
-  {
-    "id": 51,
-    "term": "ir con la verdad por delante",
-    "definition": "to tell the truth; to be totally honest",
-    "example": ""
-  },
-  {
-    "id": 52,
-    "term": "ir de mal en peor",
-    "definition": "to go from bad to worse; to worsen",
-    "example": ""
-  },
-  {
-    "id": 53,
-    "term": "irse de culo",
-    "definition": "to be taken aback or shocked",
-    "example": "Me fui de culo cuando lo vi engañándome."
-  },
-  {
-    "id": 54,
-    "term": "jugar al abejón con",
-    "definition": "to hold someone in low esteem, to not think much of someone",
-    "example": ""
-  },
-  {
-    "id": 55,
-    "term": "jugar bien sus bazas",
-    "definition": "to play one's cards right",
-    "example": ""
-  },
-  {
-    "id": 56,
-    "term": "jugar la última carta",
-    "definition": "to shoot one's load",
-    "example": ""
-  },
-  {
-    "id": 57,
-    "term": "jugar y nunca perder no puede ser",
-    "definition": "you win some, you lose some",
-    "example": ""
-  },
-  {
-    "id": 58,
-    "term": "jugárselo todo a una carta",
-    "definition": "to put all one's eggs in one basket",
-    "example": ""
-  },
-  {
-    "id": 59,
-    "term": "la avaricia rompe el saco",
-    "definition": "grasp all, lose all; greed overreaches itself",
-    "example": ""
-  },
-  {
-    "id": 60,
-    "term": "la belleza está en los ojos de quien ve",
-    "definition": "beauty is in the eye of the beholder",
-    "example": ""
-  },
-  {
-    "id": 61,
-    "term": "la cabeza blanca y el seso por venir",
-    "definition": "there's no fool like an old fool",
-    "example": ""
-  },
-  {
-    "id": 62,
-    "term": "la pelota está en el tejado de alguien",
-    "definition": "the ball is in someone's court",
-    "example": ""
-  },
-  {
-    "id": 63,
-    "term": "llegar a la suela del zapato",
-    "definition": "to not compare to, to have nothing on",
-    "example": "Juan no llega ni a la suela del zapato."
-  },
-  {
-    "id": 64,
-    "term": "mal de la azotea",
-    "definition": "off one's rocker; round the twist",
-    "example": ""
-  },
-  {
-    "id": 65,
-    "term": "manos a la obra",
-    "definition": "hands on deck, let's get to work, let's get to it, get down to work, get on with it, get down to business",
-    "example": "Ya es hora, manos a la obra."
-  },
-  {
-    "id": 66,
-    "term": "mentar la soga en casa del ahorcado",
-    "definition": "to say the wrong thing, to put one's foot in it",
-    "example": ""
-  },
-  {
-    "id": 67,
-    "term": "mirar por encima del hombro",
-    "definition": "to look down on, stick one's nose up",
-    "example": ""
-  },
-  {
-    "id": 68,
-    "term": "más chulo que un ocho",
-    "definition": "stuck-up; opinionated; up oneself",
-    "example": ""
-  },
-  {
-    "id": 69,
-    "term": "nadar y guardar la ropa",
-    "definition": "have one's cake and eat it",
-    "example": ""
-  },
-  {
-    "id": 70,
-    "term": "nadar y tener la ropa",
-    "definition": "to have one's cake and eat it too",
-    "example": ""
-  },
-  {
-    "id": 71,
-    "term": "no ser moco de pavo",
-    "definition": "to be nothing to sneeze at",
-    "example": "tampoco es moco de pavo."
-  },
-  {
-    "id": 72,
-    "term": "no tener vuelta de hoja",
-    "definition": "To be untouchable; hold up",
-    "example": "Creo que mi argumento no tiene vuelta de hoja."
-  },
-  {
-    "id": 73,
-    "term": "no ver la hora de",
-    "definition": "to look forward to; can't wait",
-    "example": "¡No veo la hora de que nos casemos!"
-  },
-  {
-    "id": 74,
-    "term": "ojos que no ven, corazón que no siente",
-    "definition": "out of sight, out of mind; what the eyes don't see, the heart doesn't grieve",
-    "example": ""
-  },
-  {
-    "id": 75,
-    "term": "oler a chamusquina",
-    "definition": "to start to get out of control; to lead to a slagging off",
-    "example": ""
-  },
-  {
-    "id": 76,
-    "term": "oler a cuerno quemado",
-    "definition": "to smell fishy",
-    "example": ""
-  },
-  {
-    "id": 77,
-    "term": "oler a pólvora",
-    "definition": "to smell fishy; to seem as though there's something fishy going on",
-    "example": ""
-  },
-  {
-    "id": 78,
-    "term": "oír hablar de",
-    "definition": "to hear of, to hear about",
-    "example": "La primera vez que oí hablar de Medjugorje fue a través de mis compañeros parroquianos."
-  },
-  {
-    "id": 79,
-    "term": "pagar con la misma moneda",
-    "definition": "to give someone a taste of their own medicine",
-    "example": ""
-  },
-  {
-    "id": 80,
-    "term": "para parar un tren",
-    "definition": "in great quantity, coming out of one's ears",
-    "example": "tiene potencia para parar un tren."
-  },
-  {
-    "id": 81,
-    "term": "parar los pies",
-    "definition": "to stop (someone) in their tracks",
-    "example": "Hay que pararle los pies."
-  },
-  {
-    "id": 82,
-    "term": "poner alguien en su sitio",
-    "definition": "to put someone in their place",
-    "example": ""
-  },
-  {
-    "id": 83,
-    "term": "poner de los nervios",
-    "definition": "to get on someone's nerves, to grate on",
-    "example": "De verdad eso me pone de los nervios."
-  },
-  {
-    "id": 84,
-    "term": "que ni pintado",
-    "definition": "down to a T; (suit) perfectly",
-    "example": "La camiseta me viene que ni pintada."
-  },
-  {
-    "id": 85,
-    "term": "quedar como Cagancho en Almagro",
-    "definition": "to make a show of oneself",
-    "example": ""
-  },
-  {
-    "id": 86,
-    "term": "quedar en agua de borrajas",
-    "definition": "to be put on hold; to not be fulfilled",
-    "example": ""
-  },
-  {
-    "id": 87,
-    "term": "querer cagar más arriba del culo",
-    "definition": "To live beyond one's means",
-    "example": ""
-  },
-  {
-    "id": 88,
-    "term": "quien a buen árbol se arrima, buena sombra le cobija",
-    "definition": "it's not what you know but who you know",
-    "example": ""
-  },
-  {
-    "id": 89,
-    "term": "refrescar la memoria",
-    "definition": "to refresh someone's memory",
-    "example": ""
-  },
-  {
-    "id": 90,
-    "term": "reina de la casa",
-    "definition": "a female family member of a household",
-    "example": ""
-  },
-  {
-    "id": 91,
-    "term": "Roma no se hizo en un día",
-    "definition": "Rome wasn't built in a day",
-    "example": ""
-  },
-  {
-    "id": 92,
-    "term": "romper una lanza",
-    "definition": "to stand up (for), to break a lance",
-    "example": "Rompió una lanza por su equipo."
-  },
-  {
-    "id": 93,
-    "term": "ruin señor cría ruin servidor",
-    "definition": "a bad master makes a bad servant; if leadership sets a bad example, their subordinates will follow suit",
-    "example": ""
-  },
-  {
-    "id": 94,
-    "term": "saber de qué pie cojea",
-    "definition": "to know one's ideology; to know one's weaknesses",
-    "example": ""
-  },
-  {
-    "id": 95,
-    "term": "sacar de quicio",
-    "definition": "to rile up, to annoy; to drive crazy; to drive someone nuts; to cause somebody to come unhinged",
-    "example": "Los llantos constantes de los bebés sacan de quicio a todos en el avión."
-  },
-  {
-    "id": 96,
-    "term": "sacar el ascua con la mano del gato",
-    "definition": "to get someone else to do one's dirty work",
-    "example": ""
-  },
-  {
-    "id": 97,
-    "term": "ser santo de la devoción de alguien",
-    "definition": "To be someone one likes or is fond of",
-    "example": "El presidente no es santo de mi devoción."
-  },
-  {
-    "id": 98,
-    "term": "si mi abuela tuviera ruedas, sería una bicicleta",
-    "definition": "if my aunt had balls, she'd be my uncle",
-    "example": "\"Habríamos ganado el partido si hubiéramos tenido un portero decente\" — \"Y si mi abuela tuviera ruedas, sería una bicicleta\"."
-  },
-  {
-    "id": 99,
-    "term": "tener agarrado por los cojones",
-    "definition": "to have someone by the balls",
-    "example": ""
-  },
-  {
-    "id": 100,
-    "term": "tener algo que ver con",
-    "definition": "to have something to do with, to concern, to have some relationship with",
-    "example": "Pensé que la broma tendría algo que ver con el boquete."
-  }
-];
-window.QM_IDIOMS_DE_DATA = [
-  {
-    "id": 1,
-    "term": "'n Appel und 'n Ei",
-    "definition": "peanuts; a low, minuscule price",
-    "example": "Er arbeitet für 'n Appel und 'n Ei."
-  },
-  {
-    "id": 2,
-    "term": "alles auf eine Karte setzen",
-    "definition": "Risking everything, putting all one's eggs in one basket",
-    "example": ""
-  },
-  {
-    "id": 3,
-    "term": "auf dem Laufenden halten",
-    "definition": "to keep (someone) in the loop, to keep (someone) informed, to keep (someone) up-to-date",
-    "example": "Halt mich auf dem Laufenden!"
-  },
-  {
-    "id": 4,
-    "term": "auf die Nerven gehen",
-    "definition": "to get on someone's nerves, to annoy",
-    "example": "Euer Unsinn geht mir echt auf die Nerven."
-  },
-  {
-    "id": 5,
-    "term": "auf einem anderen Blatt stehen",
-    "definition": "to be another matter, to be a different story",
-    "example": "Er analysiert das verfehlte Regierungsprogramm sehr klar. Dass sein eigenes Programm noch verfehlter ist, steht auf einem anderen Blatt."
-  },
-  {
-    "id": 6,
-    "term": "aus der Not eine Tugend machen",
-    "definition": "to make a virtue of necessity",
-    "example": "Viele Männer mit Haarausfall machen aus der Not eine Tugend und scheren sich den Kopf kahl."
-  },
-  {
-    "id": 7,
-    "term": "aus einer Mücke einen Elefanten machen",
-    "definition": "to make a mountain out of a mole hill",
-    "example": "Du hast eine einzige Zwei bekommen und tust so, als würdest du in der Klasse durchfallen. Du machst aus einer Mücke einen Elefanten, wenn du mich fragst."
-  },
-  {
-    "id": 8,
-    "term": "bei Adam und Eva anfangen",
-    "definition": "to start from the very beginning",
-    "example": ""
-  },
-  {
-    "id": 9,
-    "term": "bei der Stange halten",
-    "definition": "to keep (someone) in line; to make loyal",
-    "example": ""
-  },
-  {
-    "id": 10,
-    "term": "bei sich sein",
-    "definition": "to have come to; to be calm or conscious",
-    "example": "Er kam kurz vorbei, aber jetzt ist er wieder bei sich."
-  },
-  {
-    "id": 11,
-    "term": "Bescheidenheit ist eine Zier, doch weiter kommt man ohne ihr",
-    "definition": "Being modest and humble is a morally commendable approach in life",
-    "example": ""
-  },
-  {
-    "id": 12,
-    "term": "besser ein Ende mit Schrecken, als ein Schrecken ohne Ende",
-    "definition": "However painful, dealing resolutely with a problematic situation is preferable to allowing it to go on indefin",
-    "example": ""
-  },
-  {
-    "id": 13,
-    "term": "Butter bei die Fische",
-    "definition": "talking turkey, cutting to the chase",
-    "example": "Jetzt mal Butter bei die Fische: Hast du's gemacht oder nicht?"
-  },
-  {
-    "id": 14,
-    "term": "Chinesisch sprechen",
-    "definition": "to be unintelligible",
-    "example": ""
-  },
-  {
-    "id": 15,
-    "term": "das Blaue vom Himmel versprechen",
-    "definition": "to make a promise that cannot be fulfilled",
-    "example": ""
-  },
-  {
-    "id": 16,
-    "term": "das Fell über die Ohren ziehen",
-    "definition": "to pull the wool over someone's eyes",
-    "example": ""
-  },
-  {
-    "id": 17,
-    "term": "das Gelbe vom Ei",
-    "definition": "the very best, something to write home about",
-    "example": "Das ist nicht gerade das Gelbe vom Ei."
-  },
-  {
-    "id": 18,
-    "term": "das Kind fällt in den Brunnen",
-    "definition": "a disaster happens or becomes inevitable; it is too late for precautions that should have been taken earlier",
-    "example": "Wenn das Kind in den Brunnen gefallen ist, wollen es alle wieder gleich gewusst haben."
-  },
-  {
-    "id": 19,
-    "term": "dem Fass den Boden ausschlagen",
-    "definition": "to be unbelievable, outrageous, to be the most unbelievable part, to take the biscuit",
-    "example": "Dass Sie die vertragsgemäße Wartung einfach nicht durchgeführt haben, ist schlimm genug, aber dass Sie mir dann trotzdem eine Rechnung schicken, schlägt dem Fass den Boden aus."
-  },
-  {
-    "id": 20,
-    "term": "durch den Kakao ziehen",
-    "definition": "to pull someone's leg, to make fun of someone or something, to roast someone",
-    "example": "Er zieht dich nur durch den Kakao."
-  },
-  {
-    "id": 21,
-    "term": "ein Ass im Ärmel haben",
-    "definition": "to have an ace up one's sleeve",
-    "example": ""
-  },
-  {
-    "id": 22,
-    "term": "ein bisschen Schwund ist immer",
-    "definition": "You must allow for some unanticipated or unexplained losses. You should expect neither that things proceed per",
-    "example": "Leute! Ein bisschen Schwund ist immer. Aber wie schnell hier meine Büroklammern immer aufgebraucht sind, grenzt an Diebstahl!"
-  },
-  {
-    "id": 23,
-    "term": "einen Frosch im Hals haben",
-    "definition": "to have a frog in one's throat",
-    "example": ""
-  },
-  {
-    "id": 24,
-    "term": "es kann nicht sein, was nicht sein darf",
-    "definition": "people find it extremely hard to accept facts when they go against their firmly held conviction or are otherwi",
-    "example": "Obwohl man den Krieg längst verloren wusste, führte man ihn weiter nach dem Prinzip: Es kann nicht sein, was nicht sein darf!"
-  },
-  {
-    "id": 25,
-    "term": "es von den Lebenden nehmen",
-    "definition": "to charge a lot of money, to overprice",
-    "example": "Die Anwälte nehmen es von den Lebenden, das ist ja allgemein bekannt."
-  },
-  {
-    "id": 26,
-    "term": "etwas im Schilde führen",
-    "definition": "to be up to something, to scheme, to carry on one's mind, to have something up one's sleeve",
-    "example": "Böses im Schilde führen."
-  },
-  {
-    "id": 27,
-    "term": "fehl am Platz",
-    "definition": "misplaced, out of place",
-    "example": "Ich fühlte mich in dieser Gesellschaft fehl am Platz."
-  },
-  {
-    "id": 28,
-    "term": "Feuer und Flamme sein",
-    "definition": "to be full of enthusiasm; to be keen as mustard",
-    "example": ""
-  },
-  {
-    "id": 29,
-    "term": "fix und fertig",
-    "definition": "bushed, burnt out, dead on one's feet, at the end of one's rope, running on fumes, ready to drop, out of steam",
-    "example": ""
-  },
-  {
-    "id": 30,
-    "term": "Freunde in der Not gehen hundert auf ein Lot",
-    "definition": "a friend in need is a friend indeed",
-    "example": ""
-  },
-  {
-    "id": 31,
-    "term": "fünf Finger und ein Griff",
-    "definition": "the act of stealing, especially casually when the opportunity presents itself",
-    "example": "Neue Jacke? Was hat die gekostet? Fünf Finger und einen Griff?"
-  },
-  {
-    "id": 32,
-    "term": "fünf Minuten vor der Zeit ist des Deutschen Pünktlichkeit",
-    "definition": "one should plan to arrive earlier than the date in order to make sure that one will not be late",
-    "example": ""
-  },
-  {
-    "id": 33,
-    "term": "ganz dicht sein",
-    "definition": "to be in one's right mind",
-    "example": "Bist du noch ganz dicht?"
-  },
-  {
-    "id": 34,
-    "term": "geschenkt ist geschenkt, wiederholen ist gestohlen",
-    "definition": "you can’t take back what you gave as a present; no backsies",
-    "example": ""
-  },
-  {
-    "id": 35,
-    "term": "gesunder Geist in gesundem Körper",
-    "definition": "A healthy mind in a healthy body",
-    "example": ""
-  },
-  {
-    "id": 36,
-    "term": "geteiltes Leid ist halbes Leid",
-    "definition": "a sorrow shared is a sorrow halved",
-    "example": ""
-  },
-  {
-    "id": 37,
-    "term": "Gleich und Gleich gesellt sich gern",
-    "definition": "birds of a feather flock together",
-    "example": ""
-  },
-  {
-    "id": 38,
-    "term": "Gottes Mühlen mahlen langsam",
-    "definition": "the mills of the gods grind slowly",
-    "example": "Gottes Mühlen mahlen langsam, mahlen aber trefflich klein."
-  },
-  {
-    "id": 39,
-    "term": "Hans Dampf in allen Gassen",
-    "definition": "jack of all trades",
-    "example": ""
-  },
-  {
-    "id": 40,
-    "term": "Himmel und Hölle in Bewegung setzen",
-    "definition": "to move heaven and earth",
-    "example": ""
-  },
-  {
-    "id": 41,
-    "term": "hingehen, wo der Pfeffer wächst",
-    "definition": "to go jump in the lake",
-    "example": ""
-  },
-  {
-    "id": 42,
-    "term": "hinter die Kulissen schauen",
-    "definition": "to take a look behind the scenes",
-    "example": ""
-  },
-  {
-    "id": 43,
-    "term": "hinters Licht führen",
-    "definition": "pull the wool over someone's eyes",
-    "example": ""
-  },
-  {
-    "id": 44,
-    "term": "Hopfen und Malz ist verloren",
-    "definition": "it's a waste, all hope is in vain",
-    "example": "Da ist Hopfen und Malz verloren."
-  },
-  {
-    "id": 45,
-    "term": "im falschen Film",
-    "definition": "in a bizarre situation that runs contrary to one's expectations",
-    "example": "Da waren nur Bekloppte, ich dacht, ich wär im falschen Film."
-  },
-  {
-    "id": 46,
-    "term": "in den letzten Zügen liegen",
-    "definition": "to be on one's last legs; to be in one's death throes",
-    "example": ""
-  },
-  {
-    "id": 47,
-    "term": "in den Tee tun",
-    "definition": "to slip something in someone’s drink",
-    "example": "Hast du mir schon Zucker in den Tee getan?"
-  },
-  {
-    "id": 48,
-    "term": "in der Kreide stehen",
-    "definition": "to be in (someone's) debt",
-    "example": "Ich stehe noch bei meinem Nachbarn in der Kreide."
-  },
-  {
-    "id": 49,
-    "term": "in die Enge treiben",
-    "definition": "to trap, to scare, to corner",
-    "example": "Viele Menschen fühlen sich durch die neuen Beschränkungen in die Enge getrieben."
-  },
-  {
-    "id": 50,
-    "term": "in die Pfanne hauen",
-    "definition": "to criticize or deride (someone) harshly, especially in a disloyal manner; to slam, to throw under the bus",
-    "example": "Ich will meine Kollegen nicht in die Pfanne hauen, aber ich muss doch festhalten, dass ich von Anfang an dagegen war."
-  },
-  {
-    "id": 51,
-    "term": "jedes Wort auf die Goldwaage legen",
-    "definition": "to think carefully about one's wording",
-    "example": ""
-  },
-  {
-    "id": 52,
-    "term": "jemandem das Ohr abkauen",
-    "definition": "to bother someone with endless speaking, get on someone's nerves",
-    "example": "Kau mir nicht das Ohr ab."
-  },
-  {
-    "id": 53,
-    "term": "jemandem ein Kuckucksei ins Nest legen",
-    "definition": "to hurt someone such in a way that it only becomes apparent later",
-    "example": ""
-  },
-  {
-    "id": 54,
-    "term": "jemandem ein X für ein U vormachen",
-    "definition": "to deceive, to hoodwink, to trick, to lead someone up the garden path",
-    "example": ""
-  },
-  {
-    "id": 55,
-    "term": "jemandem etwas zur Last legen",
-    "definition": "to accuse, blame",
-    "example": ""
-  },
-  {
-    "id": 56,
-    "term": "jemandem stehen die Haare zu Berge",
-    "definition": "someone is worked up, upset or frightened to no end",
-    "example": "Als das Monster dann um die Ecke kam, standen mir die Haare zu Berge."
-  },
-  {
-    "id": 57,
-    "term": "Kaiser von China",
-    "definition": "someone magnificent that one is not",
-    "example": "Er hält sich für den Kaiser von China."
-  },
-  {
-    "id": 58,
-    "term": "kein Blatt vor den Mund nehmen",
-    "definition": "to be outspoken; not to mince words; to call a spade a spade",
-    "example": ""
-  },
-  {
-    "id": 59,
-    "term": "keine Antwort ist auch eine Antwort",
-    "definition": "a person’s silence can be very telling",
-    "example": "Und? Wie schmeckt dir mein neues Gericht? – [Stille.] – Naja, keine Antwort ist auch eine Antwort."
-  },
-  {
-    "id": 60,
-    "term": "keine halben Sachen machen",
-    "definition": "to not do things by halves",
-    "example": ""
-  },
-  {
-    "id": 61,
-    "term": "Kindermund tut Wahrheit kund",
-    "definition": "out of the mouths of babes comes truth",
-    "example": ""
-  },
-  {
-    "id": 62,
-    "term": "knapp daneben ist auch vorbei",
-    "definition": "close, but no cigar; a miss is as good as a mile",
-    "example": ""
-  },
-  {
-    "id": 63,
-    "term": "leck mich am Arsch",
-    "definition": "kiss my ass",
-    "example": ""
-  },
-  {
-    "id": 64,
-    "term": "Leiche im Keller",
-    "definition": "skeleton in the cupboard, skeleton in the closet",
-    "example": ""
-  },
-  {
-    "id": 65,
-    "term": "Liebe geht durch den Magen",
-    "definition": "for someone, or offering someone food",
-    "example": ""
-  },
-  {
-    "id": 66,
-    "term": "lieber eine Stumme im Bett als eine Taube auf dem Dach",
-    "definition": "a bird in the hand is worth two in the bush",
-    "example": ""
-  },
-  {
-    "id": 67,
-    "term": "Loch im Kopf",
-    "definition": "a laceration on the scalp",
-    "example": "Der Peter ist gestern von der Mauer gefallen und hatte ein Loch im Kopf."
-  },
-  {
-    "id": 68,
-    "term": "Lügen haben schöne Beine",
-    "definition": "lying can be an attractive option; lies can be deceptively attractive",
-    "example": ""
-  },
-  {
-    "id": 69,
-    "term": "mir nichts, dir nichts",
-    "definition": "suddenly; without warning, or consideration, or regard for own detriment",
-    "example": "Jetzt haben sie ihren Sohn dreißig Jahre lang verwöhnt und kaum hat er eine Freundin, zieht er mir nichts, dir nichts aus."
-  },
-  {
-    "id": 70,
-    "term": "mit gewaschenem Hals",
-    "definition": "finding oneself in an awkward situation",
-    "example": "Ich würde mich da nicht unnötig festlegen. Nachher stehst du da mit deinem gewaschenen Hals."
-  },
-  {
-    "id": 71,
-    "term": "mit jemandem ins Gericht gehen",
-    "definition": "to take a hard look at someone, to judge someone",
-    "example": ""
-  },
-  {
-    "id": 72,
-    "term": "mit Kind und Kegel",
-    "definition": "as a large group; with all of one's family, contents, and/or livestock",
-    "example": "Angelina Jolie und Brad Pitt sind mit Kind und Kegel in Nizza angekommen."
-  },
-  {
-    "id": 73,
-    "term": "mit Sack und Pack",
-    "definition": "with all one's belongings, bag and baggage",
-    "example": "Unerwartet stand mein Bruder mit Sack und Pack vor meiner Haustür und bat um Herberge."
-  },
-  {
-    "id": 74,
-    "term": "nach Adam Riese",
-    "definition": "calculating correctly, by the rules of mathematics",
-    "example": "Wenn du am Tag 70 Euro verdienst, aber über 20 Euro Fahrtkosten hast, bleiben dir nach Adam Riese nicht mal 50 Euro übrig."
-  },
-  {
-    "id": 75,
-    "term": "nach oben buckeln und nach unten treten",
-    "definition": "to be meek towards one's superiors and despotic towards one's inferiors",
-    "example": ""
-  },
-  {
-    "id": 76,
-    "term": "nachts sind alle Katzen grau",
-    "definition": "differences that are normally clearly noticeable may become blurred under certain circumstances",
-    "example": "Hannah Arendt lehnte die Idee einer Kollektivschuld ab, weil sie dazu führe, dass nach dem Prinzip „Nachts sind alle Katzen grau“ die wirklich Schuldigen entlastet würden."
-  },
-  {
-    "id": 77,
-    "term": "nicht alle Tassen im Schrank haben",
-    "definition": "to not have all one's marbles, (being) a few cards short of a deck, have a screw loose",
-    "example": "Der hat doch nicht alle Tassen im Schrank!"
-  },
-  {
-    "id": 78,
-    "term": "nicht der Rede wert sein",
-    "definition": "to be nothing worth mentioning",
-    "example": "nicht der Rede wert."
-  },
-  {
-    "id": 79,
-    "term": "ob man will oder nicht",
-    "definition": "willy-nilly; whether we like it or not",
-    "example": ""
-  },
-  {
-    "id": 80,
-    "term": "oben licht und unten dicht",
-    "definition": "mentally capable and continent",
-    "example": "Solang man oben licht und unten dicht bleibt, ist ja alles noch in Ordnung."
-  },
-  {
-    "id": 81,
-    "term": "ohne Fleiß kein Preis",
-    "definition": "no pain, no gain",
-    "example": ""
-  },
-  {
-    "id": 82,
-    "term": "ohne mit der Wimper zu zucken",
-    "definition": "without batting an eyelash",
-    "example": ""
-  },
-  {
-    "id": 83,
-    "term": "ohne Punkt und Komma",
-    "definition": "lengthy and rapid, without pause, possibly also somewhat incoherent",
-    "example": "Er redet ohne Punkt und Komma."
-  },
-  {
-    "id": 84,
-    "term": "Pack schlägt sich, Pack verträgt sich",
-    "definition": "It is normal for people (especially impulsive ones) to have big fights or enmities and then suddenly be friend",
-    "example": "„Jahrelang haben sie sich bekriegt und jetzt verbünden sie sich auf einmal.“ – „Tja, Pack schlägt sich, Pack verträgt sich.“."
-  },
-  {
-    "id": 85,
-    "term": "Papier ist geduldig",
-    "definition": "the fact that something has been put in writing does not make it true or certain to be realized",
-    "example": "Die Verordnung schreibt doch ganz genau vor, wie in solchen Fällen zu verfahren ist! — Naja, Papier ist geduldig, und hier auf dem Land wird das eben etwas anders gehandhabt."
-  },
-  {
-    "id": 86,
-    "term": "Perlen vor die Säue werfen",
-    "definition": "cast pearls before swine",
-    "example": ""
-  },
-  {
-    "id": 87,
-    "term": "Platz nehmen",
-    "definition": "to have a seat, to take a seat",
-    "example": "bitte nehmen Sie Platz."
-  },
-  {
-    "id": 88,
-    "term": "Probieren geht über Studieren",
-    "definition": "experience is the best teacher; experimentation and hands-on experience is more valuable than theoretizing",
-    "example": ""
-  },
-  {
-    "id": 89,
-    "term": "Raben zeugen keine Tauben",
-    "definition": "a wild goose never laid a tame egg",
-    "example": ""
-  },
-  {
-    "id": 90,
-    "term": "Rede und Antwort stehen",
-    "definition": "to answer to",
-    "example": ""
-  },
-  {
-    "id": 91,
-    "term": "Reden ist Silber, Schweigen ist Gold",
-    "definition": "speech is silver, silence is golden",
-    "example": ""
-  },
-  {
-    "id": 92,
-    "term": "Rom ist nicht an einem Tag erbaut worden",
-    "definition": "Rome wasn't built in a day",
-    "example": ""
-  },
-  {
-    "id": 93,
-    "term": "rum wie num",
-    "definition": "all the same; either way; it makes no difference",
-    "example": "Ob du rechts oder links anfängst, ist rum wie num."
-  },
-  {
-    "id": 94,
-    "term": "sein Glück nicht fassen können",
-    "definition": "to cannot believe one's luck, to be overjoyed",
-    "example": ""
-  },
-  {
-    "id": 95,
-    "term": "sein Licht unter den Scheffel stellen",
-    "definition": "to hide one's light under a bushel",
-    "example": ""
-  },
-  {
-    "id": 96,
-    "term": "sich aus den Fingern saugen",
-    "definition": "to think of something, to make up, to make up out of thin air, to invent (false stories, figures, etc.)",
-    "example": "Das hast du dir wieder aus den Fingern gesaugt."
-  },
-  {
-    "id": 97,
-    "term": "sich die Butter vom Brot nehmen lassen",
-    "definition": "to (allow oneself to) be outmaneuvered, blindsided, ousted, displaced, to stick up for oneself, hold one's own",
-    "example": "Auch wenn sie noch neu ist, merkt man schon, dass sie sich nicht so leicht die Butter vom Brot nehmen lässt."
-  },
-  {
-    "id": 98,
-    "term": "so klein mit Hut",
-    "definition": "meek, silenced, put in one's place, cut down to size",
-    "example": "Ich hab ihm mal gesagt, was ich von ihm halte; da war er aber so klein mit Hut."
-  },
-  {
-    "id": 99,
-    "term": "traue keiner Statistik, die du nicht selbst gefälscht hast",
-    "definition": "always take statistics with a grain of salt",
-    "example": ""
-  },
-  {
-    "id": 100,
-    "term": "Tropfen, der das Fass zum Überlaufen bringt",
-    "definition": "final straw, last straw, the straw that broke the camel's back",
-    "example": ""
-  }
-];
-window.QM_IDIOMS_FR_DATA = [
-  {
-    "id": 1,
-    "term": "attacher sa tuque",
-    "definition": "to brace oneself; to get ready; to hold onto one's hat",
-    "example": ""
-  },
-  {
-    "id": 2,
-    "term": "au fur et à mesure",
-    "definition": "in keeping with",
-    "example": "La demande diminue toujours au fur et à mesure que le prix augmente."
-  },
-  {
-    "id": 3,
-    "term": "avec des bouts de ficelle",
-    "definition": "on a shoestring",
-    "example": "Il est devenu millionnaire grâce à un prototype construit avec des bouts de ficelle."
-  },
-  {
-    "id": 4,
-    "term": "avoir du pain sur la planche",
-    "definition": "to have bread on the table",
-    "example": "Bon, là, il faut qu'on commence. On a du pain sur la planche !"
-  },
-  {
-    "id": 5,
-    "term": "avoir du sang sur les mains",
-    "definition": "to have blood on one's hands",
-    "example": "Tu es peut-être sorti indemne de ton accident de conduite en état d'ivresse, mais tu as le sang de ce pauvre garçon sur les mains."
-  },
-  {
-    "id": 6,
-    "term": "avoir le cœur sur la main",
-    "definition": "to be open-handed, to be generous",
-    "example": "Magali a le cœur sur la main."
-  },
-  {
-    "id": 7,
-    "term": "bien mal acquis ne profite jamais",
-    "definition": "ill-gotten gains never prosper",
-    "example": ""
-  },
-  {
-    "id": 8,
-    "term": "bien tard venu pour néant tenu",
-    "definition": "what comes too late doesn't count any more",
-    "example": ""
-  },
-  {
-    "id": 9,
-    "term": "bonnet blanc, blanc bonnet",
-    "definition": "tomayto, tomahto; same difference; six of one, half a dozen of the other",
-    "example": ""
-  },
-  {
-    "id": 10,
-    "term": "bouche de miel, cœur de fiel",
-    "definition": "One who speaks sweetly but harbors bitterness or malice; smooth lips hide an evil heart",
-    "example": ""
-  },
-  {
-    "id": 11,
-    "term": "boucler la boucle",
-    "definition": "to come full circle",
-    "example": "la boucle est bouclée."
-  },
-  {
-    "id": 12,
-    "term": "bâtir des châteaux en Espagne",
-    "definition": "to chase rainbows, to build castles in the air",
-    "example": ""
-  },
-  {
-    "id": 13,
-    "term": "c'est au fruit que l'on connaît l'arbre",
-    "definition": "the proof of the pudding is in the eating",
-    "example": ""
-  },
-  {
-    "id": 14,
-    "term": "c'est dans le besoin qu'on reconnaît ses vrais amis",
-    "definition": "a friend in need is a friend indeed",
-    "example": ""
-  },
-  {
-    "id": 15,
-    "term": "chien qui aboie ne mord pas",
-    "definition": "barking dogs seldom bite, one's bark is worse than one's bite, all talk no bite",
-    "example": ""
-  },
-  {
-    "id": 16,
-    "term": "comment sont les zaricos",
-    "definition": "how are you?, how are things?",
-    "example": "Comment sont les zaricos? — Oh, les zaricos sont salés!"
-  },
-  {
-    "id": 17,
-    "term": "couper les cheveux en quatre",
-    "definition": "to split hairs",
-    "example": "Ne coupe pas les cheveux en quatre. Tu sais où je veux en venir."
-  },
-  {
-    "id": 18,
-    "term": "coûter les yeux de la tête",
-    "definition": "to cost an arm and a leg, to cost the earth: to cost too much, to be very expensive",
-    "example": "J'en ai marre de payer un loyer dans cette ville. Ça me coûte les yeux de la tête !"
-  },
-  {
-    "id": 19,
-    "term": "de deux maux, il faut choisir le moindre",
-    "definition": "one must choose the lesser of two evils",
-    "example": ""
-  },
-  {
-    "id": 20,
-    "term": "des goûts et des couleurs, on ne discute pas",
-    "definition": "there's no accounting for taste",
-    "example": ""
-  },
-  {
-    "id": 21,
-    "term": "deux avis valent mieux qu'un",
-    "definition": "two heads are better than one",
-    "example": ""
-  },
-  {
-    "id": 22,
-    "term": "deux précautions valent mieux qu'une",
-    "definition": "better safe than sorry; a belt-and-braces/belt-and-suspenders approach always wins the day",
-    "example": ""
-  },
-  {
-    "id": 23,
-    "term": "du fil à retordre",
-    "definition": "a hard time, some difficulties",
-    "example": "Son adversaire lui a donné du fil à retordre."
-  },
-  {
-    "id": 24,
-    "term": "en avoir jusque-là",
-    "definition": "to have had it up to here (with); to have had enough (of), to be fed up",
-    "example": "Il en a jusque-là de ton insouciance."
-  },
-  {
-    "id": 25,
-    "term": "en avoir pour son argent",
-    "definition": "to get one's money's worth, to get good value for money",
-    "example": ""
-  },
-  {
-    "id": 26,
-    "term": "en avril ne te découvre pas d'un fil, en mai fais ce qu'il te plaît",
-    "definition": "ne'er cast a clout till May be out",
-    "example": ""
-  },
-  {
-    "id": 27,
-    "term": "entre l'arbre et l'écorce",
-    "definition": "In a bad situation; between a rock and a hard place",
-    "example": ""
-  },
-  {
-    "id": 28,
-    "term": "entre le marteau et l'enclume",
-    "definition": "between the hammer and the anvil",
-    "example": "J'étais entre le marteau et l'enclume, car si je ne contractais pas un autre prêt - et ne m'endettais pas davantage - je ne pourrais pas rembourser les dettes que j'avais déjà."
-  },
-  {
-    "id": 29,
-    "term": "faire d'une pierre deux coups",
-    "definition": "to kill two birds with one stone",
-    "example": "Autant faire d'une pierre deux coups et déposer mes feuilles d'impôts pendant que je suis au centre commercial pour la pièce d'ordinateur dont j'ai besoin."
-  },
-  {
-    "id": 30,
-    "term": "faire une belle jambe",
-    "definition": "to do a fat lot of good",
-    "example": "Ça me fait une belle jambe !"
-  },
-  {
-    "id": 31,
-    "term": "fais ce que je dis, pas ce que je fais",
-    "definition": "do as I say and not as I do",
-    "example": ""
-  },
-  {
-    "id": 32,
-    "term": "faute avouée est à moitié pardonnée",
-    "definition": "a fault confessed is half redressed",
-    "example": ""
-  },
-  {
-    "id": 33,
-    "term": "faute de grives on mange des merles",
-    "definition": "beggars can't be choosers, half a loaf is better than none, any port in a storm",
-    "example": ""
-  },
-  {
-    "id": 34,
-    "term": "gagner son bifteck",
-    "definition": "to bring home the bacon",
-    "example": ""
-  },
-  {
-    "id": 35,
-    "term": "garder son sang-froid",
-    "definition": "to keep one's cool; to keep a cool head",
-    "example": ""
-  },
-  {
-    "id": 36,
-    "term": "grasse matinée",
-    "definition": "sleep-in, lie-in",
-    "example": "Je n'aurais pas dû faire la grasse matinée."
-  },
-  {
-    "id": 37,
-    "term": "griffer la glace",
-    "definition": "To ice-skate",
-    "example": ""
-  },
-  {
-    "id": 38,
-    "term": "gros bonnet",
-    "definition": "bigwig",
-    "example": ""
-  },
-  {
-    "id": 39,
-    "term": "grosse légume",
-    "definition": "big cheese, bigwig",
-    "example": ""
-  },
-  {
-    "id": 40,
-    "term": "habit vert",
-    "definition": "the clothing worn by the members of the Institut de France",
-    "example": ""
-  },
-  {
-    "id": 41,
-    "term": "heure du mystère",
-    "definition": "dusk, twilight",
-    "example": ""
-  },
-  {
-    "id": 42,
-    "term": "huile de coude",
-    "definition": "elbow grease",
-    "example": ""
-  },
-  {
-    "id": 43,
-    "term": "huis clos",
-    "definition": "closed door",
-    "example": ""
-  },
-  {
-    "id": 44,
-    "term": "huitième art",
-    "definition": "television",
-    "example": ""
-  },
-  {
-    "id": 45,
-    "term": "humour noir",
-    "definition": "black humor",
-    "example": ""
-  },
-  {
-    "id": 46,
-    "term": "il faut battre le fer pendant qu'il est chaud",
-    "definition": "One must strike while the iron is hot",
-    "example": ""
-  },
-  {
-    "id": 47,
-    "term": "il faut de tout pour faire un monde",
-    "definition": "it takes all kinds to make a world, it takes all sorts, variety is the spice of life",
-    "example": ""
-  },
-  {
-    "id": 48,
-    "term": "il faut que jeunesse se passe",
-    "definition": "youth must have its fling; boys will be boys",
-    "example": ""
-  },
-  {
-    "id": 49,
-    "term": "il n'est pire aveugle que celui qui ne veut pas voir",
-    "definition": "there are none so blind as those who will not see",
-    "example": ""
-  },
-  {
-    "id": 50,
-    "term": "il n'est pire sourd que celui qui ne veut pas entendre",
-    "definition": "there are none so deaf as those who will not hear",
-    "example": ""
-  },
-  {
-    "id": 51,
-    "term": "il n'est si bon charretier qui ne verse",
-    "definition": "even Homer nods, it's a good horse that never stumbles",
-    "example": ""
-  },
-  {
-    "id": 52,
-    "term": "jamais deux sans trois",
-    "definition": "all things come in threes, things always come in threes",
-    "example": ""
-  },
-  {
-    "id": 53,
-    "term": "je te dis merde",
-    "definition": "break a leg! good luck!",
-    "example": ""
-  },
-  {
-    "id": 54,
-    "term": "jeter de l'huile sur le feu",
-    "definition": "add fuel to the fire",
-    "example": ""
-  },
-  {
-    "id": 55,
-    "term": "jeter le bébé avec l'eau du bain",
-    "definition": "throw the baby out with the bathwater",
-    "example": ""
-  },
-  {
-    "id": 56,
-    "term": "jeter le gant",
-    "definition": "throw down the gauntlet",
-    "example": "Le plus grand syndicat d'enseignants a jeté le gant au gouvernement hier, menaçant de faire grève si ses revendications ne sont pas satisfaites."
-  },
-  {
-    "id": 57,
-    "term": "jeu de main, jeu de vilain",
-    "definition": "it will end in tears! stop fooling around! stop roughhousing! you'll poke an eye out! it's all fun and games t",
-    "example": ""
-  },
-  {
-    "id": 58,
-    "term": "l'appétit vient en mangeant",
-    "definition": "appetite comes with eating",
-    "example": ""
-  },
-  {
-    "id": 59,
-    "term": "l'argent est le nerf de la guerre",
-    "definition": "money is crucial to wage a war, money is key when waging a war, money is the fuel of war",
-    "example": ""
-  },
-  {
-    "id": 60,
-    "term": "l'argent ne pousse pas dans les arbres",
-    "definition": "money doesn't grow on trees",
-    "example": ""
-  },
-  {
-    "id": 61,
-    "term": "l'avenir appartient à ceux qui se lèvent tôt",
-    "definition": "the early bird gets the worm",
-    "example": ""
-  },
-  {
-    "id": 62,
-    "term": "les absents ont toujours tort",
-    "definition": "it is easy to accuse someone of wrongdoing when they are not there to defend themselves",
-    "example": ""
-  },
-  {
-    "id": 63,
-    "term": "manger à tous les râteliers",
-    "definition": "to have many irons in the fire, to play the field",
-    "example": ""
-  },
-  {
-    "id": 64,
-    "term": "mariage pluvieux, mariage heureux",
-    "definition": "Rain on one's wedding day brings good luck",
-    "example": ""
-  },
-  {
-    "id": 65,
-    "term": "mettre de l'eau dans son vin",
-    "definition": "to moderate one's impetuosity; to compromise",
-    "example": ""
-  },
-  {
-    "id": 66,
-    "term": "mieux vaut prévenir que guérir",
-    "definition": "prevention is better than cure, better safe than sorry",
-    "example": ""
-  },
-  {
-    "id": 67,
-    "term": "mieux vaut tenir que courir",
-    "definition": "a bird in the hand is worth two in the bush, better an egg today than a hen tomorrow",
-    "example": ""
-  },
-  {
-    "id": 68,
-    "term": "mieux vaut être seul que mal accompagné",
-    "definition": "it is better to be alone than in bad company",
-    "example": ""
-  },
-  {
-    "id": 69,
-    "term": "n'y être pour rien",
-    "definition": "to have no responsibility (for it); to have no part (in it), to have nothing to do",
-    "example": ""
-  },
-  {
-    "id": 70,
-    "term": "ne pas desserrer les dents",
-    "definition": "to keep one's lips sealed, to remain silent",
-    "example": ""
-  },
-  {
-    "id": 71,
-    "term": "ne pas lésiner sur les moyens",
-    "definition": "To go all out; to pull out all the stops",
-    "example": ""
-  },
-  {
-    "id": 72,
-    "term": "Noël au balcon, Pâques au tison",
-    "definition": "If Christmas is warm, Easter will be cold",
-    "example": ""
-  },
-  {
-    "id": 73,
-    "term": "nul n'a bien s'il ne le compère",
-    "definition": "Nothing comes out of nothing",
-    "example": ""
-  },
-  {
-    "id": 74,
-    "term": "nul n'est censé ignorer la loi",
-    "definition": "ignorantia juris non excusat, ignorance of the law is not a valid excuse",
-    "example": ""
-  },
-  {
-    "id": 75,
-    "term": "oignez vilain, il vous poindra ; poignez vilain, il vous oindra",
-    "definition": "if you behave kindly towards a bad person, they will be mean",
-    "example": ""
-  },
-  {
-    "id": 76,
-    "term": "on en apprend tous les jours",
-    "definition": "you learn something new every day, every day is a school day",
-    "example": ""
-  },
-  {
-    "id": 77,
-    "term": "on n'a rien sans rien",
-    "definition": "you don't get something for nothing; there's no such thing as a free lunch",
-    "example": ""
-  },
-  {
-    "id": 78,
-    "term": "on n'apprend pas pour l'école mais pour la vie",
-    "definition": "we do not learn for school, but for life",
-    "example": ""
-  },
-  {
-    "id": 79,
-    "term": "on n'arrête pas le progrès",
-    "definition": "you can't stop progress, there's no stopping progress",
-    "example": ""
-  },
-  {
-    "id": 80,
-    "term": "on n'attrape pas des mouches avec du vinaigre",
-    "definition": "honey catches more flies than vinegar; you can catch more flies with honey than with vinegar",
-    "example": ""
-  },
-  {
-    "id": 81,
-    "term": "Paris ne s'est pas fait en un jour",
-    "definition": "Rome wasn't built in a day",
-    "example": ""
-  },
-  {
-    "id": 82,
-    "term": "petit à petit, l'oiseau fait son nid",
-    "definition": "slow and steady wins the race; little strokes fell great oaks",
-    "example": ""
-  },
-  {
-    "id": 83,
-    "term": "petite pluie abat grand vent",
-    "definition": "Small rain lays great dust; a little kindness goes a long way",
-    "example": ""
-  },
-  {
-    "id": 84,
-    "term": "pierre qui roule n'amasse pas mousse",
-    "definition": "a rolling stone gathers no moss",
-    "example": ""
-  },
-  {
-    "id": 85,
-    "term": "plus fait douceur que violence",
-    "definition": "gentleness works better than violence; you'll get more by being kind than by resorting to violence",
-    "example": ""
-  },
-  {
-    "id": 86,
-    "term": "qu'est-ce qu'il y a",
-    "definition": "what's happening? what's the matter?",
-    "example": ""
-  },
-  {
-    "id": 87,
-    "term": "quand le chat n'est pas là, les souris dansent",
-    "definition": "when the cat's away the mice will play",
-    "example": ""
-  },
-  {
-    "id": 88,
-    "term": "quand le vin est tiré, il faut le boire",
-    "definition": "in for a penny, in for a pound",
-    "example": ""
-  },
-  {
-    "id": 89,
-    "term": "quand les poules auront des dents",
-    "definition": "when Hell freezes over; when pigs fly",
-    "example": ""
-  },
-  {
-    "id": 90,
-    "term": "quand on aime on ne compte pas",
-    "definition": "when you love, you don't count the cost",
-    "example": ""
-  },
-  {
-    "id": 91,
-    "term": "rendre son âme au bon Dieu",
-    "definition": "to pass away; to give up the ghost",
-    "example": ""
-  },
-  {
-    "id": 92,
-    "term": "rien ne sert de courir, il faut partir à point",
-    "definition": "slow and steady wins the race; more haste, less speed",
-    "example": ""
-  },
-  {
-    "id": 93,
-    "term": "rira bien qui rira le dernier",
-    "definition": "he who laughs last laughs best",
-    "example": ""
-  },
-  {
-    "id": 94,
-    "term": "s'y casser les dents",
-    "definition": "to come up against a brick wall",
-    "example": ""
-  },
-  {
-    "id": 95,
-    "term": "se changer les idées",
-    "definition": "to start a new activity in order to change one's state of mind",
-    "example": "J'en ai marre de cette ambiance tendue ! Je sors pour me changer les idées."
-  },
-  {
-    "id": 96,
-    "term": "se jeter au cou",
-    "definition": "to embrace with affection, to shower with affection",
-    "example": "se jeter au cou de quelqu'un."
-  },
-  {
-    "id": 97,
-    "term": "se tirer une balle dans le pied",
-    "definition": "to shoot oneself in the foot",
-    "example": ""
-  },
-  {
-    "id": 98,
-    "term": "sur le bout de la langue",
-    "definition": "on the tip of one's tongue",
-    "example": ""
-  },
-  {
-    "id": 99,
-    "term": "taillable et corvéable à merci",
-    "definition": "heavily taxed; enslaved to do onerous work",
-    "example": ""
-  },
-  {
-    "id": 100,
-    "term": "tailler le bout de gras",
-    "definition": "to shoot the breeze, to chew the fat, to chat",
-    "example": ""
-  }
-];
-window.QM_IDIOMS_IT_DATA = [
-  {
-    "id": 1,
-    "term": "a proprio rischio e pericolo",
-    "definition": "at one's own risk, at one's own peril",
-    "example": ""
-  },
-  {
-    "id": 2,
-    "term": "alle spalle di",
-    "definition": "at the expense of (someone); on the back of",
-    "example": "vivere alle spalle di Larry."
-  },
-  {
-    "id": 3,
-    "term": "andare da sé",
-    "definition": "to proceed smoothly without the need for external interventions; to go on on one's own",
-    "example": "l'accordo va da sé."
-  },
-  {
-    "id": 4,
-    "term": "andare per la propria strada",
-    "definition": "to go their separate ways",
-    "example": "man mano che la serata giungeva al termine, i promessi sposi sono andati per le proprie strade."
-  },
-  {
-    "id": 5,
-    "term": "avere a ridosso",
-    "definition": "to have (someone) who follows insistingly or threateningly; to be dogged or harassed",
-    "example": "aveva gli sbirri a ridosso."
-  },
-  {
-    "id": 6,
-    "term": "avere il cuore sulle labbra",
-    "definition": "to wear one's heart on one's sleeve",
-    "example": ""
-  },
-  {
-    "id": 7,
-    "term": "averne le palle piene",
-    "definition": "to be fed up with something; to be sick and tired",
-    "example": "Ne ho le palle piene di questa situazione."
-  },
-  {
-    "id": 8,
-    "term": "battere il capo nel muro",
-    "definition": "to beat one's head against a stone wall",
-    "example": ""
-  },
-  {
-    "id": 9,
-    "term": "battere il ferro finché è caldo",
-    "definition": "to strike while the iron is hot",
-    "example": ""
-  },
-  {
-    "id": 10,
-    "term": "battere in ritirata",
-    "definition": "to retreat oneself hurriedly; to beat a retreat; to flee",
-    "example": ""
-  },
-  {
-    "id": 11,
-    "term": "battere la grancassa",
-    "definition": "to advertise loudly; to spread the news widely",
-    "example": ""
-  },
-  {
-    "id": 12,
-    "term": "bell'e buono",
-    "definition": "real, utter, outright, plain and simple",
-    "example": ""
-  },
-  {
-    "id": 13,
-    "term": "bellezza acqua e sapone",
-    "definition": "natural (rather than artificial) beauty",
-    "example": ""
-  },
-  {
-    "id": 14,
-    "term": "buttare il bambino con l'acqua sporca",
-    "definition": "to throw the baby out with the bathwater",
-    "example": ""
-  },
-  {
-    "id": 15,
-    "term": "cambiare le carte in tavola",
-    "definition": "to contradict what one has said or done in the past; to shift one's ground; to move the goalposts",
-    "example": ""
-  },
-  {
-    "id": 16,
-    "term": "cavare le castagne dal fuoco",
-    "definition": "to pull someone's bacon out of the fire, pull someone's chestnuts out of the fire",
-    "example": ""
-  },
-  {
-    "id": 17,
-    "term": "che fine ha fatto",
-    "definition": "what happened to",
-    "example": "Ho scoperto che fine ha fatto Luca, si è trasferito a Londra."
-  },
-  {
-    "id": 18,
-    "term": "chi fa da sé fa per tre",
-    "definition": "it is most efficient to work by oneself without asking for help from others",
-    "example": ""
-  },
-  {
-    "id": 19,
-    "term": "chi è causa del suo mal pianga sé stesso",
-    "definition": "only oneself is to blame for the consequences of one's actions",
-    "example": ""
-  },
-  {
-    "id": 20,
-    "term": "cogliere la palla al balzo",
-    "definition": "to take advantage of a situation, which is beneficial but was not planned; to seize and opportunity",
-    "example": "È vero che hanno iniziato loro, ma voi avete colto la palla al balzo e vi siete uniti."
-  },
-  {
-    "id": 21,
-    "term": "con il sorcio in bocca",
-    "definition": "with one's hand in the cookie jar",
-    "example": ""
-  },
-  {
-    "id": 22,
-    "term": "da capo a piedi",
-    "definition": "from head to toe; from top to bottom",
-    "example": "Sono ricoperto di neve da capo a piedi."
-  },
-  {
-    "id": 23,
-    "term": "da un giorno all'altro",
-    "definition": "suddenly, all of a sudden, unexpectedly",
-    "example": ""
-  },
-  {
-    "id": 24,
-    "term": "dal profondo del cuore",
-    "definition": "from the bottom of one's heart",
-    "example": ""
-  },
-  {
-    "id": 25,
-    "term": "dare per buono",
-    "definition": "to reluctantly accept as good enough; to take it",
-    "example": "non sono le migliori prestazioni, ma lo do per buono."
-  },
-  {
-    "id": 26,
-    "term": "dare un colpo di freno",
-    "definition": "to abruptly bring to a halt; to stop in one's tracks",
-    "example": ""
-  },
-  {
-    "id": 27,
-    "term": "di notte tutti i gatti sono bigi",
-    "definition": "all cats are grey in the dark",
-    "example": ""
-  },
-  {
-    "id": 28,
-    "term": "dietro l'angolo",
-    "definition": "around the corner",
-    "example": "la farmacia è proprio dietro l'angolo."
-  },
-  {
-    "id": 29,
-    "term": "entrare in scena",
-    "definition": "to go on stage",
-    "example": "i valori della liberaldemocrazia sono pronti a entrare in scena."
-  },
-  {
-    "id": 30,
-    "term": "entrare nel vivo",
-    "definition": "to turn to the crux or climax; to get to the heart; to cut to the chase",
-    "example": ""
-  },
-  {
-    "id": 31,
-    "term": "errare è umano perdonare divino",
-    "definition": "to err is human; to forgive is divine",
-    "example": ""
-  },
-  {
-    "id": 32,
-    "term": "essere in sé",
-    "definition": "to possess and be able to control one's mental faculties; feel like oneself",
-    "example": ""
-  },
-  {
-    "id": 33,
-    "term": "essere passata molt'acqua sotto i ponti",
-    "definition": "for a lot of time to have passed",
-    "example": ""
-  },
-  {
-    "id": 34,
-    "term": "essere pazzo",
-    "definition": "to be crazy (fervently) about/for somebody",
-    "example": "Euforia, sono pazza di te."
-  },
-  {
-    "id": 35,
-    "term": "essere su questa terra",
-    "definition": "to live",
-    "example": ""
-  },
-  {
-    "id": 36,
-    "term": "fa agli altri quel che vorresti fosse fatto a te",
-    "definition": "do unto others as you would have them do unto you",
-    "example": ""
-  },
-  {
-    "id": 37,
-    "term": "fare buon viso a cattivo gioco",
-    "definition": "to grin and bear it; to put a brave face on it",
-    "example": ""
-  },
-  {
-    "id": 38,
-    "term": "fare del proprio meglio",
-    "definition": "to do one's best ; to put one's best foot forward",
-    "example": "ha fatto del suo meglio per riuscire simpatico."
-  },
-  {
-    "id": 39,
-    "term": "fare il bello e il cattivo tempo",
-    "definition": "to boldly exert power; to lay down the law",
-    "example": ""
-  },
-  {
-    "id": 40,
-    "term": "fare il passo più lungo della gamba",
-    "definition": "to bite off more than one can chew",
-    "example": ""
-  },
-  {
-    "id": 41,
-    "term": "fare il passo secondo la gamba",
-    "definition": "to cut one's coat according to one's cloth",
-    "example": ""
-  },
-  {
-    "id": 42,
-    "term": "fare le nozze coi fichi secchi",
-    "definition": "to try to do something challenging with limited means; to work on a shoestring",
-    "example": ""
-  },
-  {
-    "id": 43,
-    "term": "gallina dalle uova d'oro",
-    "definition": "the golden goose",
-    "example": ""
-  },
-  {
-    "id": 44,
-    "term": "gallina vecchia fa buon brodo",
-    "definition": "there's many a good tune played on an old fiddle",
-    "example": ""
-  },
-  {
-    "id": 45,
-    "term": "gelare il sangue",
-    "definition": "to make (someone's) blood run cold",
-    "example": ""
-  },
-  {
-    "id": 46,
-    "term": "gettare acqua sul fuoco",
-    "definition": "to throw cold water on something",
-    "example": ""
-  },
-  {
-    "id": 47,
-    "term": "gettare fumo negli occhi",
-    "definition": "to pull the wool over someone's eyes",
-    "example": ""
-  },
-  {
-    "id": 48,
-    "term": "gli assenti hanno sempre torto",
-    "definition": "one who is not present, or who does not show up to a situation",
-    "example": ""
-  },
-  {
-    "id": 49,
-    "term": "guardare in faccia",
-    "definition": "to look in the face; to face up to",
-    "example": "guardare in faccia la morte."
-  },
-  {
-    "id": 50,
-    "term": "hai voluto la bicicletta e adesso pedala",
-    "definition": "make one's bed and lie in it",
-    "example": ""
-  },
-  {
-    "id": 51,
-    "term": "i panni sporchi si lavano in famiglia",
-    "definition": "it is best not to wash one's dirty laundry in public",
-    "example": ""
-  },
-  {
-    "id": 52,
-    "term": "i soldi non crescono sugli alberi",
-    "definition": "money doesn't grow on trees; there's no such thing as a free lunch",
-    "example": ""
-  },
-  {
-    "id": 53,
-    "term": "il bisogno aguzza l'ingegno",
-    "definition": "necessity is the mother of invention",
-    "example": ""
-  },
-  {
-    "id": 54,
-    "term": "il bue che dice cornuto all'asino",
-    "definition": "pot calling the kettle black; it takes one to know one; I know you are but what am I",
-    "example": ""
-  },
-  {
-    "id": 55,
-    "term": "il diavolo fa le pentole ma non i coperchi",
-    "definition": "The devil teaches us his tricks but not how to hide them",
-    "example": ""
-  },
-  {
-    "id": 56,
-    "term": "il gioco non vale la candela",
-    "definition": "the game is not worth the candle",
-    "example": ""
-  },
-  {
-    "id": 57,
-    "term": "il giorno di San Mai",
-    "definition": "the first of never, February 31",
-    "example": ""
-  },
-  {
-    "id": 58,
-    "term": "l'abito non fa il monaco",
-    "definition": "you can't judge a book by its cover; clothes don't make the man, the cowl does not make the monk",
-    "example": ""
-  },
-  {
-    "id": 59,
-    "term": "l'erba cattiva non muore mai",
-    "definition": "a bad penny always turns up",
-    "example": ""
-  },
-  {
-    "id": 60,
-    "term": "l'erba del vicino è sempre più verde",
-    "definition": "the grass is always greener on the other side",
-    "example": ""
-  },
-  {
-    "id": 61,
-    "term": "l'etiope non si sbianca",
-    "definition": "it is futile to try to change human nature; human nature is innate and immutable",
-    "example": ""
-  },
-  {
-    "id": 62,
-    "term": "l'occhio del padrone ingrassa il cavallo",
-    "definition": "a business thrives when the owner keeps his eye on it",
-    "example": ""
-  },
-  {
-    "id": 63,
-    "term": "l'unione fa la forza",
-    "definition": "unity is strength; many hands make light work; united we stand, divided we fall; there is strength in numbers",
-    "example": ""
-  },
-  {
-    "id": 64,
-    "term": "la bellezza di",
-    "definition": "the entire quantity, duration, sum, etc. of",
-    "example": "ho la bellezza di 76 anni."
-  },
-  {
-    "id": 65,
-    "term": "ma anche no",
-    "definition": "or not",
-    "example": "A: Potremmo comprare un'altra macchina / B: Ma anche no."
-  },
-  {
-    "id": 66,
-    "term": "meglio soli che male accompagnati",
-    "definition": "it is better to be alone than in bad company",
-    "example": ""
-  },
-  {
-    "id": 67,
-    "term": "meglio tirare a campare che tirare le cuoia",
-    "definition": "it is better to advance one's own interests (even through illicit or questionable means) than to surrender one",
-    "example": ""
-  },
-  {
-    "id": 68,
-    "term": "meglio un uovo oggi che una gallina domani",
-    "definition": "a bird in the hand is worth two in the bush; better an egg today than a hen tomorrow",
-    "example": ""
-  },
-  {
-    "id": 69,
-    "term": "mettere le carte in tavola",
-    "definition": "to put one's cards on the table",
-    "example": ""
-  },
-  {
-    "id": 70,
-    "term": "mettersi al passo con i tempi",
-    "definition": "to update oneself",
-    "example": ""
-  },
-  {
-    "id": 71,
-    "term": "montare il sangue alla testa",
-    "definition": "to make one's blood boil",
-    "example": "quella maestra mi monta il sangue alla testa."
-  },
-  {
-    "id": 72,
-    "term": "ne uccide più la penna della spada",
-    "definition": "the pen is mightier than the sword",
-    "example": ""
-  },
-  {
-    "id": 73,
-    "term": "nelle botti piccole sta il vino buono",
-    "definition": "good things come in small packages",
-    "example": ""
-  },
-  {
-    "id": 74,
-    "term": "non c'è trippa per gatti",
-    "definition": "there are few or no resources at someone's disposal",
-    "example": ""
-  },
-  {
-    "id": 75,
-    "term": "non di solo pane vive l'uomo",
-    "definition": "man shall not live by bread alone",
-    "example": ""
-  },
-  {
-    "id": 76,
-    "term": "non dire gatto se non ce l'hai nel sacco",
-    "definition": "don't count your chickens before they're hatched",
-    "example": ""
-  },
-  {
-    "id": 77,
-    "term": "non giudicare un libro dalla copertina",
-    "definition": "don't judge a book by its cover",
-    "example": ""
-  },
-  {
-    "id": 78,
-    "term": "non resta che",
-    "definition": "there is nothing left to do but; it's time to",
-    "example": "non resta che aprire la scatola."
-  },
-  {
-    "id": 79,
-    "term": "o mangi la minestra o salti la finestra",
-    "definition": "one must like it or lump it; beggars can't be choosers; one must take the bitter pill to swallow",
-    "example": ""
-  },
-  {
-    "id": 80,
-    "term": "occhio non vede, cuore non duole",
-    "definition": "ignorance is bliss, what you don't know can't hurt you",
-    "example": ""
-  },
-  {
-    "id": 81,
-    "term": "occhio per occhio, dente per dente",
-    "definition": "an eye for an eye, a tooth for a tooth",
-    "example": ""
-  },
-  {
-    "id": 82,
-    "term": "ogni lasciata è persa",
-    "definition": "opportunity seldom knocks twice",
-    "example": ""
-  },
-  {
-    "id": 83,
-    "term": "ogni promessa è debito",
-    "definition": "promise is debt",
-    "example": ""
-  },
-  {
-    "id": 84,
-    "term": "ogni riccio un capriccio",
-    "definition": "women are often fickle and capricious",
-    "example": ""
-  },
-  {
-    "id": 85,
-    "term": "ora o mai più",
-    "definition": "now or never",
-    "example": ""
-  },
-  {
-    "id": 86,
-    "term": "paese che vai, usanze che trovi",
-    "definition": "one should not be surprised by how different someone else's culture and traditions might be",
-    "example": ""
-  },
-  {
-    "id": 87,
-    "term": "parli del diavolo e spuntano le corna",
-    "definition": "speak of the devil and he appears, speak of the devil",
-    "example": ""
-  },
-  {
-    "id": 88,
-    "term": "passare sotto le forche caudine",
-    "definition": "to run the gauntlet, to pass under the yoke",
-    "example": "Appena uscito dal tribunale, tutti i giornalisti intorno lo hanno fatto passare sotto le forche caudine."
-  },
-  {
-    "id": 89,
-    "term": "per filo e per segno",
-    "definition": "in minute detail, step by step, word for word",
-    "example": "Dimmi per filo e per segno come si fa questa torta."
-  },
-  {
-    "id": 90,
-    "term": "per il rotto della cuffia",
-    "definition": "by the skin of one's teeth",
-    "example": ""
-  },
-  {
-    "id": 91,
-    "term": "perdere il lume della ragione",
-    "definition": "to lose it, to lose control, to go crazy",
-    "example": ""
-  },
-  {
-    "id": 92,
-    "term": "perdere le staffe",
-    "definition": "to lose one's temper; to lose it",
-    "example": "talvolta anche i più tranquilli perdono le staffe."
-  },
-  {
-    "id": 93,
-    "term": "quando c'era lui",
-    "definition": "Used to decry the current state of politics as decadent, claiming that in the past things were done better",
-    "example": ""
-  },
-  {
-    "id": 94,
-    "term": "quando gli asini voleranno",
-    "definition": "when pigs fly, until hell freezes over",
-    "example": ""
-  },
-  {
-    "id": 95,
-    "term": "quando il gatto non c'è, i topi ballano",
-    "definition": "when the cat's away the mice will play",
-    "example": ""
-  },
-  {
-    "id": 96,
-    "term": "quando il gioco si fa duro, i duri cominciano a giocare",
-    "definition": "when the going gets tough, the tough get going",
-    "example": ""
-  },
-  {
-    "id": 97,
-    "term": "quel che è fatto è fatto",
-    "definition": "what's done is done",
-    "example": ""
-  },
-  {
-    "id": 98,
-    "term": "questione di lana caprina",
-    "definition": "moot point, unproductive discussion, futile argument",
-    "example": ""
-  },
-  {
-    "id": 99,
-    "term": "raglio d'asino non sale al cielo",
-    "definition": "sticks and stones may break my bones, but words will never hurt me",
-    "example": ""
-  },
-  {
-    "id": 100,
-    "term": "rendere la pariglia",
-    "definition": "to get even; to strike back",
-    "example": "ti ha ferito, e ora vuoi rendere la pariglia."
-  }
-];
-window.QM_IDIOMS_RO_DATA = [
-  {
-    "id": 1,
-    "term": "da de gol",
-    "definition": "to blow someone's cover, to expose",
-    "example": ""
-  },
-  {
-    "id": 2,
-    "term": "floare la ureche",
-    "definition": "piece of cake",
-    "example": "Testul a fost floare la ureche."
-  },
-  {
-    "id": 3,
-    "term": "la sfântu-așteaptă",
-    "definition": "never, on the second Tuesday of the week",
-    "example": "O să ne primim banii înapoi la sfântu-așteaptă."
-  },
-  {
-    "id": 4,
-    "term": "lăsa loc de bună ziua",
-    "definition": "to hide one's hard feelings for someone after having an argument or breaking up with him/her/them",
-    "example": "Ei s-au despărțit acum trei luni, dar au lăsat loc de bună ziua."
-  },
-  {
-    "id": 5,
-    "term": "răspunde cu aceeași monedă",
-    "definition": "to retaliate, reciprocate, fight back, counterattack, give as good as one gets, return the favor",
-    "example": "Dacă cineva te înjură, răspunde-i cu aceeași monedă și înjură-l înapoi!"
-  },
-  {
-    "id": 6,
-    "term": "scoate cămașa",
-    "definition": "to fix or get away with one’s mistakes",
-    "example": "Am făcut o prostie, iar acum nu știu pe unde să scot cămașa. Ajută-mă, te rog!"
-  },
-  {
-    "id": 7,
-    "term": "se răsuci în mormânt",
-    "definition": "turn in one's grave",
-    "example": "Băi, băiete, se răsucește tac-tu în mormânt de dezamăgire ce ești, bă."
-  },
-  {
-    "id": 8,
-    "term": "a cincea roată la căruță",
-    "definition": "third wheel, fifth wheel",
-    "example": ""
-  },
-  {
-    "id": 9,
-    "term": "afară-i vopsit gardul, înăuntru-i leopardul",
-    "definition": "all that glitters is not gold",
-    "example": ""
-  },
-  {
-    "id": 10,
-    "term": "ajunge cuțitul la os",
-    "definition": "for the situation to become critical",
-    "example": ""
-  },
-  {
-    "id": 11,
-    "term": "ajunge la sapă de lemn",
-    "definition": "to become very poor",
-    "example": ""
-  },
-  {
-    "id": 12,
-    "term": "alerga mâncând pământul",
-    "definition": "to run fast",
-    "example": ""
-  },
-  {
-    "id": 13,
-    "term": "alinia astrele",
-    "definition": "stars align",
-    "example": ""
-  },
-  {
-    "id": 14,
-    "term": "apa trece, pietrele rămân",
-    "definition": "irrelevant things pass, important things remain, so one should focus on the important things",
-    "example": ""
-  },
-  {
-    "id": 15,
-    "term": "arde gazul de pomană",
-    "definition": "to waste time",
-    "example": ""
-  },
-  {
-    "id": 16,
-    "term": "are balta pește",
-    "definition": "there are plenty of fish in the sea",
-    "example": ""
-  },
-  {
-    "id": 17,
-    "term": "avea ac de cojocul cuiva",
-    "definition": "to be able to carry out revenge",
-    "example": ""
-  },
-  {
-    "id": 18,
-    "term": "așchia nu sare departe de trunchi",
-    "definition": "apple does not fall far from the tree, like father, like son, like mother, like daughter",
-    "example": ""
-  },
-  {
-    "id": 19,
-    "term": "aștepta să pice mură-n gură",
-    "definition": "to do nothing to achieve one's goals",
-    "example": ""
-  },
-  {
-    "id": 20,
-    "term": "banul este ochiul dracului",
-    "definition": "money is the root of all evil",
-    "example": ""
-  },
-  {
-    "id": 21,
-    "term": "bate apa-n piuă",
-    "definition": "to talk pointlessly",
-    "example": ""
-  },
-  {
-    "id": 22,
-    "term": "bate fierul cât e cald",
-    "definition": "strike the iron while it's hot",
-    "example": ""
-  },
-  {
-    "id": 23,
-    "term": "bate la ochi",
-    "definition": "to be very obvious",
-    "example": ""
-  },
-  {
-    "id": 24,
-    "term": "bate palma",
-    "definition": "to seal the deal",
-    "example": ""
-  },
-  {
-    "id": 25,
-    "term": "bilă neagră",
-    "definition": "blackball",
-    "example": ""
-  },
-  {
-    "id": 26,
-    "term": "boală lipicioasă",
-    "definition": "contagious disease",
-    "example": ""
-  },
-  {
-    "id": 27,
-    "term": "buturuga mică răstoarnă carul mare",
-    "definition": "little strokes fell great oaks",
-    "example": ""
-  },
-  {
-    "id": 28,
-    "term": "băga capul la cutie",
-    "definition": "to hide, to shelter, to avoid retaliation",
-    "example": ""
-  },
-  {
-    "id": 29,
-    "term": "băga mâna în foc",
-    "definition": "to be completely certain concerning the veracity of something",
-    "example": ""
-  },
-  {
-    "id": 30,
-    "term": "calul de dar nu se caută la dinți",
-    "definition": "don't look a gift horse in the mouth",
-    "example": ""
-  },
-  {
-    "id": 31,
-    "term": "cap de an",
-    "definition": "new year",
-    "example": ""
-  },
-  {
-    "id": 32,
-    "term": "capul plecat sabia nu-l taie",
-    "definition": "a submissive man is not persecuted; better bend than break",
-    "example": ""
-  },
-  {
-    "id": 33,
-    "term": "ce se naște din pisică, șoareci mănâncă",
-    "definition": "the apple does not fall far from the tree, like father, like son, like mother, like daughter",
-    "example": ""
-  },
-  {
-    "id": 34,
-    "term": "cei șapte ani de acasă",
-    "definition": "good upbringing, in particular good manners",
-    "example": ""
-  },
-  {
-    "id": 35,
-    "term": "cel bogat face cum vrea, cel sărac face cum poate",
-    "definition": "a rich man does as he pleases, a poor man does as he can",
-    "example": ""
-  },
-  {
-    "id": 36,
-    "term": "chelului tichie de mărgăritar îi trebuie",
-    "definition": "one should focus on important things first",
-    "example": ""
-  },
-  {
-    "id": 37,
-    "term": "chestia e că",
-    "definition": "the thing is",
-    "example": ""
-  },
-  {
-    "id": 38,
-    "term": "cine cu cine votează",
-    "definition": "what's what",
-    "example": ""
-  },
-  {
-    "id": 39,
-    "term": "cine fură azi un ou, mâine va fura un bou",
-    "definition": "once a thief, always a thief",
-    "example": ""
-  },
-  {
-    "id": 40,
-    "term": "cine râde la urmă râde mai bine",
-    "definition": "he who laughs last laughs best",
-    "example": ""
-  },
-  {
-    "id": 41,
-    "term": "cine se aseamănă se adună",
-    "definition": "birds of a feather flock together",
-    "example": ""
-  },
-  {
-    "id": 42,
-    "term": "cine se trezește de dimineață, departe ajunge",
-    "definition": "the early bird gets the worm",
-    "example": ""
-  },
-  {
-    "id": 43,
-    "term": "cine seamănă vânt culege furtună",
-    "definition": "sow the wind, reap the whirlwind",
-    "example": ""
-  },
-  {
-    "id": 44,
-    "term": "coadă de topor",
-    "definition": "axe handle",
-    "example": ""
-  },
-  {
-    "id": 45,
-    "term": "copil din flori",
-    "definition": "love child",
-    "example": ""
-  },
-  {
-    "id": 46,
-    "term": "corb la corb nu scoate ochii",
-    "definition": "dog does not eat dog",
-    "example": ""
-  },
-  {
-    "id": 47,
-    "term": "cu capul pe umeri",
-    "definition": "with one’s head screwed on, sensible",
-    "example": ""
-  },
-  {
-    "id": 48,
-    "term": "cu capul în nori",
-    "definition": "having the head in the clouds",
-    "example": ""
-  },
-  {
-    "id": 49,
-    "term": "cu o floare nu se face primăvară",
-    "definition": "one swallow does not a summer make",
-    "example": ""
-  },
-  {
-    "id": 50,
-    "term": "cu răbdarea treci și marea",
-    "definition": "good things come to those who wait",
-    "example": ""
-  },
-  {
-    "id": 51,
-    "term": "cui pe cui se scoate",
-    "definition": "one nail drives out another",
-    "example": ""
-  },
-  {
-    "id": 52,
-    "term": "cum îți așterni, așa dormi",
-    "definition": "as you make your bed, so you must lie in it",
-    "example": ""
-  },
-  {
-    "id": 53,
-    "term": "cuvânt greu",
-    "definition": "an important say",
-    "example": ""
-  },
-  {
-    "id": 54,
-    "term": "câinele care latră nu mușcă",
-    "definition": "barking dogs seldom bite",
-    "example": ""
-  },
-  {
-    "id": 55,
-    "term": "câinii latră, caravana trece",
-    "definition": "the dogs bark, but the caravan goes on; sticks and stones may break my bones, but words will never hurt me",
-    "example": ""
-  },
-  {
-    "id": 56,
-    "term": "când o zbura porcul",
-    "definition": "never, when pigs fly",
-    "example": ""
-  },
-  {
-    "id": 57,
-    "term": "când pisica nu-i acasă, joacă șoarecii pe masă",
-    "definition": "when the cat's away the mice will play",
-    "example": ""
-  },
-  {
-    "id": 58,
-    "term": "când vine vorba de",
-    "definition": "when it comes to",
-    "example": ""
-  },
-  {
-    "id": 59,
-    "term": "când și când",
-    "definition": "now and then",
-    "example": ""
-  },
-  {
-    "id": 60,
-    "term": "cânta în strună",
-    "definition": "to do whatever another person pleases",
-    "example": ""
-  },
-  {
-    "id": 61,
-    "term": "cât ai zice pește",
-    "definition": "immediately",
-    "example": ""
-  },
-  {
-    "id": 62,
-    "term": "câte bordeie, atâtea obiceie",
-    "definition": "when in Rome, do as the Romans do",
-    "example": ""
-  },
-  {
-    "id": 63,
-    "term": "câștiga teren",
-    "definition": "to gain ground",
-    "example": ""
-  },
-  {
-    "id": 64,
-    "term": "călca pe bec",
-    "definition": "to break a rule",
-    "example": ""
-  },
-  {
-    "id": 65,
-    "term": "călca pe bătătură",
-    "definition": "to annoy, to irritate",
-    "example": ""
-  },
-  {
-    "id": 66,
-    "term": "căuta cu lumânarea",
-    "definition": "to ask for trouble, to ask for it",
-    "example": ""
-  },
-  {
-    "id": 67,
-    "term": "da apă la moară",
-    "definition": "to encourage or embolden",
-    "example": ""
-  },
-  {
-    "id": 68,
-    "term": "da colțul",
-    "definition": "to turn the corner",
-    "example": ""
-  },
-  {
-    "id": 69,
-    "term": "da de veste",
-    "definition": "to announce",
-    "example": ""
-  },
-  {
-    "id": 70,
-    "term": "da din coadă",
-    "definition": "to wag the tail",
-    "example": ""
-  },
-  {
-    "id": 71,
-    "term": "da gata",
-    "definition": "to finish, especially in an impressive manner",
-    "example": ""
-  },
-  {
-    "id": 72,
-    "term": "da la rațe",
-    "definition": "to vomit",
-    "example": ""
-  },
-  {
-    "id": 73,
-    "term": "da ortul popii",
-    "definition": "to kick the bucket, to buy the farm",
-    "example": ""
-  },
-  {
-    "id": 74,
-    "term": "da papucii",
-    "definition": "to dump",
-    "example": ""
-  },
-  {
-    "id": 75,
-    "term": "da pe goarnă",
-    "definition": "to snitch (on someone), to rat out, to tell on",
-    "example": ""
-  },
-  {
-    "id": 76,
-    "term": "da peste",
-    "definition": "to hit, collide with",
-    "example": ""
-  },
-  {
-    "id": 77,
-    "term": "da peste nas",
-    "definition": "to chastise, especially by bringing up someone’s fault or mistake",
-    "example": ""
-  },
-  {
-    "id": 78,
-    "term": "da în mintea copiilor",
-    "definition": "to become senile",
-    "example": ""
-  },
-  {
-    "id": 79,
-    "term": "de la A la Z",
-    "definition": "from A to Z",
-    "example": ""
-  },
-  {
-    "id": 80,
-    "term": "despica firul în patru",
-    "definition": "to split hairs",
-    "example": ""
-  },
-  {
-    "id": 81,
-    "term": "din lac în puț",
-    "definition": "out of the frying pan, into the fire",
-    "example": ""
-  },
-  {
-    "id": 82,
-    "term": "din senin",
-    "definition": "out of the blue",
-    "example": ""
-  },
-  {
-    "id": 83,
-    "term": "duce cu preșul",
-    "definition": "to cheat, to fool",
-    "example": ""
-  },
-  {
-    "id": 84,
-    "term": "duce de nas",
-    "definition": "to lead by the nose",
-    "example": ""
-  },
-  {
-    "id": 85,
-    "term": "Dumnezeu nu bate cu parul",
-    "definition": "what goes around comes around, sow the wind, reap the whirlwind, the chickens come home to roost",
-    "example": ""
-  },
-  {
-    "id": 86,
-    "term": "după gratii",
-    "definition": "behind bars",
-    "example": ""
-  },
-  {
-    "id": 87,
-    "term": "face ca trenul",
-    "definition": "to go ballistic, blow a fuse",
-    "example": ""
-  },
-  {
-    "id": 88,
-    "term": "face cinste",
-    "definition": "to pay for someone else at a restaurant, pub, etc",
-    "example": ""
-  },
-  {
-    "id": 89,
-    "term": "face cu ou și cu oțet",
-    "definition": "to scold",
-    "example": ""
-  },
-  {
-    "id": 90,
-    "term": "face din rahat bici",
-    "definition": "to make a silk purse of a sow's ear",
-    "example": ""
-  },
-  {
-    "id": 91,
-    "term": "face din țânțar armăsar",
-    "definition": "to make a mountain out of a mole hill",
-    "example": ""
-  },
-  {
-    "id": 92,
-    "term": "face față",
-    "definition": "to cope with something, to withstand, deal with",
-    "example": ""
-  },
-  {
-    "id": 93,
-    "term": "face haz de necaz",
-    "definition": "to laugh at a difficult situation, to grin and bear it",
-    "example": ""
-  },
-  {
-    "id": 94,
-    "term": "face o românească",
-    "definition": "to take the easy way out by skirting regulations, especially in traffic",
-    "example": ""
-  },
-  {
-    "id": 95,
-    "term": "face ochi dulci",
-    "definition": "to make eyes",
-    "example": ""
-  },
-  {
-    "id": 96,
-    "term": "face pe mortul în păpușoi",
-    "definition": "to pretend to not know something",
-    "example": ""
-  },
-  {
-    "id": 97,
-    "term": "face pe prostul",
-    "definition": "to pretend not to know or understand something",
-    "example": ""
-  },
-  {
-    "id": 98,
-    "term": "face rost",
-    "definition": "to obtain",
-    "example": ""
-  },
-  {
-    "id": 99,
-    "term": "face umbră pământului degeaba",
-    "definition": "to be useless",
-    "example": ""
-  },
-  {
-    "id": 100,
-    "term": "fată bătrână",
-    "definition": "spinster, old maid",
-    "example": ""
-  }
-];
-window.QM_IDIOMS_HU_DATA = [
-  {
-    "id": 1,
-    "term": "a csapból is folyik",
-    "definition": "to be all over the news, or something that a lot of people are talking about",
-    "example": "A csapból is Michael Jackson folyik."
-  },
-  {
-    "id": 2,
-    "term": "a háta mögött",
-    "definition": "behind someone's back The 2nd sense of",
-    "example": "A munkatársam szemben hízeleg a főnöknek, de a háta mögött gúnyt űz belőle."
-  },
-  {
-    "id": 3,
-    "term": "a pohár fenekére néz",
-    "definition": "to get drunk",
-    "example": "Gyakran a pohár fenekére néz."
-  },
-  {
-    "id": 4,
-    "term": "a volán mögött",
-    "definition": "at the wheel, behind the wheel",
-    "example": "A kevés víz pont olyan, mint a sok alkohol – legalábbis a volán mögött."
-  },
-  {
-    "id": 5,
-    "term": "a vérében van",
-    "definition": "to be in someone's blood, to be a natural",
-    "example": "A családunk minden tagja gitározik, a zene a vérünkben van."
-  },
-  {
-    "id": 6,
-    "term": "ahol a madár se jár",
-    "definition": "in the middle of nowhere, at an out-of-the-way place, on a remote, unfrequented area",
-    "example": "Mit keresel itt, ahol a madár se jár?"
-  },
-  {
-    "id": 7,
-    "term": "ajtót mutat",
-    "definition": "to show someone the door",
-    "example": "Ajtót mutattak nekik."
-  },
-  {
-    "id": 8,
-    "term": "alig áll a lábán",
-    "definition": "to be exhausted, ready to collapse, too tired to stand",
-    "example": "Alig állok a lábamon."
-  },
-  {
-    "id": 9,
-    "term": "az asztal alá iszik",
-    "definition": "to drink someone under the table , the person has to be in accusative case",
-    "example": "Akárkit képes az asztal alá inni."
-  },
-  {
-    "id": 10,
-    "term": "bal lábbal kel fel",
-    "definition": "to wake up on the wrong side of the bed, to get up on the wrong side of the bed, to get out of bed on the wrong side",
-    "example": "A főnököm ma bal lábbal kelt fel. Egész nap rosszkedvű volt."
-  },
-  {
-    "id": 11,
-    "term": "beadja a derekát",
-    "definition": "to give in, to cave in, to knuckle under",
-    "example": "Nem akartunk télen szabadságra menni, de a gyerekek meggyőztek és mi beadtuk a derekunkat."
-  },
-  {
-    "id": 12,
-    "term": "beletörik a nyelve",
-    "definition": "to stumble over one's tongue",
-    "example": "Beletört a nyelve az idegen szavakba."
-  },
-  {
-    "id": 13,
-    "term": "csupa fül",
-    "definition": "all ears, be all ears",
-    "example": "Csupa fül vagyok."
-  },
-  {
-    "id": 14,
-    "term": "Dunát lehetne rekeszteni",
-    "definition": "Used to express that there is an abundance of something (). It could also be negative if people are fed up with the exce",
-    "example": "A gyerekeinknek annyi játékuk van, hogy Dunát lehetne rekeszteni velük."
-  },
-  {
-    "id": 15,
-    "term": "egy kalap alá vesz",
-    "definition": "to lump together",
-    "example": "Nem lehet a nyugdíjasokat egy kalap alá venni a dolgozókkal."
-  },
-  {
-    "id": 16,
-    "term": "elege van",
-    "definition": "to be fed up",
-    "example": "Elege van a nagyvárosból."
-  },
-  {
-    "id": 17,
-    "term": "elveszti a fejét",
-    "definition": "to lose one's head",
-    "example": "Nagyon megijedtek és elvesztették a fejüket."
-  },
-  {
-    "id": 18,
-    "term": "ember legyen a talpán",
-    "definition": "The phrase refers to a capable, resourceful",
-    "example": "Ember legyen a talpán, aki ezt a feladatot meg tudja oldani."
-  },
-  {
-    "id": 19,
-    "term": "falra hányt borsó",
-    "definition": "like talking to a wall, like water off a duck's back, wasted breath",
-    "example": "Mindegy, hogy mit mondok neki. Falra hányt borsó."
-  },
-  {
-    "id": 20,
-    "term": "farkaséhes",
-    "definition": "hungry like the wolf",
-    "example": "farkaséhes vagyok."
-  },
-  {
-    "id": 21,
-    "term": "fejébe száll a dicsőség",
-    "definition": "to become swell-headed by success, to go to one's head",
-    "example": "Fejébe szállt a dicsőség!"
-  },
-  {
-    "id": 22,
-    "term": "feketeleves",
-    "definition": "the worst or most unpleasant thing of something",
-    "example": "Hátravan még a feketeleves."
-  },
-  {
-    "id": 23,
-    "term": "furdalja az oldalát",
-    "definition": "to nag at, to be intrigued by",
-    "example": "Furdalta az oldalamat a kíváncsiság."
-  },
-  {
-    "id": 24,
-    "term": "fából vaskarika",
-    "definition": "contradiction in terms",
-    "example": "Az alkoholmentes sör fából vaskarika."
-  },
-  {
-    "id": 25,
-    "term": "fülig szerelmes",
-    "definition": "head over heels in love, over head and ears in love",
-    "example": "Rómeó fülig szerelmes volt Júliába."
-  },
-  {
-    "id": 26,
-    "term": "gyerekcipőben jár",
-    "definition": "to be in its infancy",
-    "example": "Az űrturizmus most még gyerekcipőben jár."
-  },
-  {
-    "id": 27,
-    "term": "halálra neveti magát",
-    "definition": "to laugh one's head off",
-    "example": "Vicceket meséltünk és halálra nevettük magunkat."
-  },
-  {
-    "id": 28,
-    "term": "hetedik mennyország",
-    "definition": "seventh heaven",
-    "example": "a hetedik mennyországban van."
-  },
-  {
-    "id": 29,
-    "term": "hátat fordít",
-    "definition": "to turn one's back, to turn away",
-    "example": "Gábor hátat fordított az ablaknak."
-  },
-  {
-    "id": 30,
-    "term": "illúziókba ringat",
-    "definition": "to deceive, to lead (someone) into a fool’s paradise",
-    "example": "Ha azt gondolod, hogy ezt el tudod érni, akkor csak illúziókba ringatod magad."
-  },
-  {
-    "id": 31,
-    "term": "kedvét szegi",
-    "definition": "to deflate, to let down, to disappoint someone, to spoil one’s happiness",
-    "example": "A büntetés kedvét szegte."
-  },
-  {
-    "id": 32,
-    "term": "kerek perec",
-    "definition": "point blank, straight from the shoulder, flat out, flat",
-    "example": "Kerek perec visszautasították az ajánlatunkat."
-  },
-  {
-    "id": 33,
-    "term": "kesztyűs kézzel bánik",
-    "definition": "to handle someone with kid gloves, pull punches",
-    "example": "kesztyűs kézzel bánik vetélytársaival."
-  },
-  {
-    "id": 34,
-    "term": "kezet emel",
-    "definition": "to hit someone, to lay a hand on someone, to raise one's hand against or to someone",
-    "example": "Kezet emelt rám!"
-  },
-  {
-    "id": 35,
-    "term": "készpénznek vesz",
-    "definition": "to take something for granted, to believe something word for word without any doubt",
-    "example": "Nem kell készpénznek venni minden szavát!"
-  },
-  {
-    "id": 36,
-    "term": "körmére ég",
-    "definition": "to be pressing, overdue",
-    "example": "Körmömre ég a munka."
-  },
-  {
-    "id": 37,
-    "term": "kő kövön nem marad",
-    "definition": "not a stone will be left standing",
-    "example": "Ha az ellenség ideér, itt kő kövön nem marad."
-  },
-  {
-    "id": 38,
-    "term": "leesik az álla",
-    "definition": "to be very stunned, one's jaw drops",
-    "example": "Fogadok, hogy leesik az álla, ha ezt meghallja!"
-  },
-  {
-    "id": 39,
-    "term": "lerántja a leplet",
-    "definition": "to unmask, expose, reveal, blow the lid off",
-    "example": "Lerántottuk a leplet az árulóról."
-  },
-  {
-    "id": 40,
-    "term": "látástól vakulásig",
-    "definition": "day and night, from daybreak till nightfall, from morning till night",
-    "example": "Látástól vakulásig dolgoztam."
-  },
-  {
-    "id": 41,
-    "term": "lépést tart",
-    "definition": "to keep abreast of something, keep pace, keep up with",
-    "example": "Próbált lépést tartani az osztálytársaival."
-  },
-  {
-    "id": 42,
-    "term": "madarat lehetne fogatni",
-    "definition": "to be happy as a lark, to walk on air, to be on cloud nine",
-    "example": "Madarat lehetne fogatni velem."
-  },
-  {
-    "id": 43,
-    "term": "megkéri a kezét",
-    "definition": "to propose marriage , for someone:",
-    "example": "Megszerette a lányt és megkérte a kezét az apjától."
-  },
-  {
-    "id": 44,
-    "term": "megoldja a nyelvét",
-    "definition": "to loosen someone's tongue",
-    "example": "Egy üveg bor majd megoldja a nyelvét."
-  },
-  {
-    "id": 45,
-    "term": "megoldódik a nyelve",
-    "definition": "to find one's tongue",
-    "example": "Egy üveg bor után megoldódott a nyelvük."
-  },
-  {
-    "id": 46,
-    "term": "mérget vehet",
-    "definition": "to (be able to) bet the farm, bet one's bottom dollar, bet one's boots, take to the bank",
-    "example": "Nem vennék rá mérget."
-  },
-  {
-    "id": 47,
-    "term": "nem fenékig tejfel",
-    "definition": "not all beer and skittles, not just fun and games, not a bed of roses",
-    "example": "Az élet nem fenékig tejfel."
-  },
-  {
-    "id": 48,
-    "term": "nyélbe üt",
-    "definition": "to wrap up, arrange, wind up, conclude",
-    "example": "A jövő héten nyélbe ütünk egy újabb találkozót."
-  },
-  {
-    "id": 49,
-    "term": "pálcát tör",
-    "definition": "or fölött to denounce, condemn, criticize someone harshly",
-    "example": "A munkatársaid pálcát törnek feletted, mert figyelmetlen vagy a munkádban."
-  },
-  {
-    "id": 50,
-    "term": "rossz szemmel néz",
-    "definition": "to frown upon, dislike, disapprove of someone or something",
-    "example": "Lustaságod miatt a többiek rossz szemmel néznek rád."
-  },
-  {
-    "id": 51,
-    "term": "rémeket lát",
-    "definition": "to imagine things, to overreact, to be an alarmist",
-    "example": "Nem lesz semmi bajod. Rémeket látsz."
-  },
-  {
-    "id": 52,
-    "term": "se híre, se hamva",
-    "definition": "disappeared without leaving a trace, neither hide nor hair",
-    "example": "A csónaknak se híre, se hamva nem volt."
-  },
-  {
-    "id": 53,
-    "term": "se lát, se hall",
-    "definition": "to ignore the outside world, not listening",
-    "example": "Se lát, se hall, csak szorgalmasan dolgozik."
-  },
-  {
-    "id": 54,
-    "term": "szedi a sátorfáját",
-    "definition": "to pull up stakes, to pack up bag and baggage",
-    "example": "Szedd a sátorfádat!"
-  },
-  {
-    "id": 55,
-    "term": "szöget üt a fejébe",
-    "definition": "to set one thinking, to put a suspicion in one's mind",
-    "example": "Szöget ütött a fejembe, hogy már hetek óta nem hívott."
-  },
-  {
-    "id": 56,
-    "term": "síkra száll",
-    "definition": "or to champion, to come out in favor of, to come out in support of, to take up the cudgels for",
-    "example": "Írásunkban a helyes nevelési elvek mellett szállunk síkra."
-  },
-  {
-    "id": 57,
-    "term": "tele van a hócipője",
-    "definition": "to be fed up",
-    "example": "Tele van a hócipője az egész világgal."
-  },
-  {
-    "id": 58,
-    "term": "torkig van",
-    "definition": "to be fed up",
-    "example": "Torkig vagyok a mindennapos utazással."
-  },
-  {
-    "id": 59,
-    "term": "tréfát űz",
-    "definition": "to poke fun (at someone or something: , ), ridicule, make fun of",
-    "example": "Tréfát űznek velem."
-  },
-  {
-    "id": 60,
-    "term": "tűkön ül",
-    "definition": "to be on pins and needles, be on tenterhooks, be like a cat on a hot tin roof, be like a cat on hot bricks",
-    "example": "Ti csak beszéltetek, én pedig itt közben tűkön ültem!"
-  },
-  {
-    "id": 61,
-    "term": "tűvé tesz",
-    "definition": "to search meticulously someplace (for someone or something ), to fine-tooth comb, leave no stone unturned",
-    "example": "Tűvé tették a házat a kocsikulcsokért."
-  },
-  {
-    "id": 62,
-    "term": "ujjat húz",
-    "definition": "to pick a fight",
-    "example": "Aki ujjat húz velem, az fizetni fog érte."
-  },
-  {
-    "id": 63,
-    "term": "vendégül lát",
-    "definition": "to entertain/host someone, to invite someone over",
-    "example": "Szeretnénk titeket vendégül látni vacsorára."
-  },
-  {
-    "id": 64,
-    "term": "vereséget szenved",
-    "definition": "to become defeated",
-    "example": "A válogatott komoly vereséget szenvedett a külföldi csapattól."
-  },
-  {
-    "id": 65,
-    "term": "vádat emel",
-    "definition": "to press charges (against someone: ), bring a charge or an accusation, indict, arraign, impeach someone",
-    "example": "Nem kívánok vádat emelni."
-  },
-  {
-    "id": 66,
-    "term": "vállat von",
-    "definition": "to shrug, to shrug one's shoulders",
-    "example": "Péter vállat vont."
-  },
-  {
-    "id": 67,
-    "term": "válságba kerül",
-    "definition": "to fall into crisis, get into crisis",
-    "example": "Szüleik válása után a gyerekek mély lelki válságba kerültek."
-  },
-  {
-    "id": 68,
-    "term": "vége szakad",
-    "definition": "to stop, end, cease, come to an end",
-    "example": "Egyszer minden jónak vége szakad."
-  },
-  {
-    "id": 69,
-    "term": "vége van",
-    "definition": "to be over, to be finished",
-    "example": "A botnak két vége van."
-  },
-  {
-    "id": 70,
-    "term": "véget vet",
-    "definition": "to put an end to, put a stop to, bring an end to, bring to an end, put the kibosh on",
-    "example": "Elköltöztünk a városból és ez véget vetett a barátságunknak."
-  },
-  {
-    "id": 71,
-    "term": "véka alá rejt",
-    "definition": "to hide, conceal",
-    "example": "Véka alá rejted a tehetségedet."
-  },
-  {
-    "id": 72,
-    "term": "véka alá rejti a tehetségét",
-    "definition": "to hide one's light under a bushel",
-    "example": "Véka alá rejted a tehetségedet."
-  },
-  {
-    "id": 73,
-    "term": "vérig sért",
-    "definition": "to insult/offend someone mortally, cut to the quick, draw blood",
-    "example": "A megjegyzéseddel vérig sértetted a barátaimat."
-  },
-  {
-    "id": 74,
-    "term": "zavarba hoz",
-    "definition": "to embarrass someone",
-    "example": "A kérdés zavarba hozott."
-  },
-  {
-    "id": 75,
-    "term": "álom jön a szemére",
-    "definition": "to be able to fall asleep",
-    "example": "Múlt éjjel nem jött álom a szememre."
-  },
-  {
-    "id": 76,
-    "term": "égnek áll",
-    "definition": "to stand on end",
-    "example": "Égnek állt a hajam, amikor meghallottam a gyilkosság részleteit."
-  },
-  {
-    "id": 77,
-    "term": "útban van",
-    "definition": "to be in the way, get in the way, to get under one's feet",
-    "example": "A segítség útban van."
-  },
-  {
-    "id": 78,
-    "term": "a baj nem jár egyedül",
-    "definition": "when it rains, it pours, it never rains but it pours, misfortunes never come singly",
-    "example": ""
-  },
-  {
-    "id": 79,
-    "term": "a biztonság kedvéért",
-    "definition": "to be on the safe side",
-    "example": ""
-  },
-  {
-    "id": 80,
-    "term": "a cipész maradjon a kaptafánál",
-    "definition": "cobbler, keep to your last",
-    "example": ""
-  },
-  {
-    "id": 81,
-    "term": "a cél szentesíti az eszközt",
-    "definition": "the end justifies the means",
-    "example": ""
-  },
-  {
-    "id": 82,
-    "term": "a falnak is füle van",
-    "definition": "walls have ears",
-    "example": ""
-  },
-  {
-    "id": 83,
-    "term": "a füle botját sem mozdítja",
-    "definition": "to turn a deaf ear, not respond, ignore a request, give no answer",
-    "example": ""
-  },
-  {
-    "id": 84,
-    "term": "a hallgatás beleegyezés",
-    "definition": "silence is consent",
-    "example": ""
-  },
-  {
-    "id": 85,
-    "term": "a harag rossz tanácsadó",
-    "definition": "Decisions and actions made in anger will be later regretted",
-    "example": ""
-  },
-  {
-    "id": 86,
-    "term": "a hazug embert hamarabb utolérik, mint a sánta kutyát",
-    "definition": "a lie has no legs",
-    "example": ""
-  },
-  {
-    "id": 87,
-    "term": "a jég hátán is megél",
-    "definition": "to get by/make it anywhere",
-    "example": ""
-  },
-  {
-    "id": 88,
-    "term": "a jó kezdet fél siker",
-    "definition": "well begun is half done",
-    "example": ""
-  },
-  {
-    "id": 89,
-    "term": "a kivétel erősíti a szabályt",
-    "definition": "the exception proves the rule",
-    "example": ""
-  },
-  {
-    "id": 90,
-    "term": "a kocka el van vetve",
-    "definition": "the die is cast",
-    "example": ""
-  },
-  {
-    "id": 91,
-    "term": "a kutya ugat, a karaván halad",
-    "definition": "the dogs bark, but the caravan goes on",
-    "example": ""
-  },
-  {
-    "id": 92,
-    "term": "a kákán is csomót keres",
-    "definition": "to seek a knot in a bulrush",
-    "example": ""
-  },
-  {
-    "id": 93,
-    "term": "a könyökén jön ki",
-    "definition": "to have something ad nauseam, to be fed up with, to be tired of, to be sick of, to feel overwhelmed with something",
-    "example": ""
-  },
-  {
-    "id": 94,
-    "term": "a látszat csal",
-    "definition": "appearances are deceptive",
-    "example": ""
-  },
-  {
-    "id": 95,
-    "term": "a lélek kész, de a test erőtlen",
-    "definition": "the spirit is willing but the flesh is weak",
-    "example": ""
-  },
-  {
-    "id": 96,
-    "term": "a nagy Ő",
-    "definition": "an ideal or idealized romantic partner; the one, Mister/Miss Right",
-    "example": ""
-  },
-  {
-    "id": 97,
-    "term": "a pénz nem boldogít",
-    "definition": "money can't buy happiness",
-    "example": ""
-  },
-  {
-    "id": 98,
-    "term": "a rest kétszer fárad",
-    "definition": "a stitch in time saves nine",
-    "example": ""
-  },
-  {
-    "id": 99,
-    "term": "a sarkára áll",
-    "definition": "to assert one's will, to be firm, to stick to one's guns",
-    "example": ""
-  },
-  {
-    "id": 100,
-    "term": "a sors fintora",
-    "definition": "irony, twist of fate, quirk of fate",
-    "example": ""
+    "term": "The wooden spoon",
+    "definition": "The booby prize for finishing last",
+    "example": "We won the wooden spoon three seasons running."
   }
 ];
 window.QM_BALLETPIX_DATA = [
@@ -59116,5 +47350,11772 @@ window.QM_DOGBREEDS_DATA = [
     "focalX": 68.08076746323529,
     "focalY": 50,
     "zoom": 1
+  }
+];
+window.QM_POKEMON_GEN1_DATA = [
+  {
+    "id": "pkmn_0001",
+    "name": "Bulbasaur",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0001-bulbasaur.png"
+  },
+  {
+    "id": "pkmn_0002",
+    "name": "Ivysaur",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0002-ivysaur.png"
+  },
+  {
+    "id": "pkmn_0003",
+    "name": "Venusaur",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0003-venusaur.png"
+  },
+  {
+    "id": "pkmn_0004",
+    "name": "Charmander",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0004-charmander.png"
+  },
+  {
+    "id": "pkmn_0005",
+    "name": "Charmeleon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0005-charmeleon.png"
+  },
+  {
+    "id": "pkmn_0006",
+    "name": "Charizard",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0006-charizard.png"
+  },
+  {
+    "id": "pkmn_0007",
+    "name": "Squirtle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0007-squirtle.png"
+  },
+  {
+    "id": "pkmn_0008",
+    "name": "Wartortle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0008-wartortle.png"
+  },
+  {
+    "id": "pkmn_0009",
+    "name": "Blastoise",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0009-blastoise.png"
+  },
+  {
+    "id": "pkmn_0010",
+    "name": "Caterpie",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0010-caterpie.png"
+  },
+  {
+    "id": "pkmn_0011",
+    "name": "Metapod",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0011-metapod.png"
+  },
+  {
+    "id": "pkmn_0012",
+    "name": "Butterfree",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0012-butterfree.png"
+  },
+  {
+    "id": "pkmn_0013",
+    "name": "Weedle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0013-weedle.png"
+  },
+  {
+    "id": "pkmn_0014",
+    "name": "Kakuna",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0014-kakuna.png"
+  },
+  {
+    "id": "pkmn_0015",
+    "name": "Beedrill",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0015-beedrill.png"
+  },
+  {
+    "id": "pkmn_0016",
+    "name": "Pidgey",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0016-pidgey.png"
+  },
+  {
+    "id": "pkmn_0017",
+    "name": "Pidgeotto",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0017-pidgeotto.png"
+  },
+  {
+    "id": "pkmn_0018",
+    "name": "Pidgeot",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0018-pidgeot.png"
+  },
+  {
+    "id": "pkmn_0019",
+    "name": "Rattata",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0019-rattata.png"
+  },
+  {
+    "id": "pkmn_0020",
+    "name": "Raticate",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0020-raticate.png"
+  },
+  {
+    "id": "pkmn_0021",
+    "name": "Spearow",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0021-spearow.png"
+  },
+  {
+    "id": "pkmn_0022",
+    "name": "Fearow",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0022-fearow.png"
+  },
+  {
+    "id": "pkmn_0023",
+    "name": "Ekans",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0023-ekans.png"
+  },
+  {
+    "id": "pkmn_0024",
+    "name": "Arbok",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0024-arbok.png"
+  },
+  {
+    "id": "pkmn_0025",
+    "name": "Pikachu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0025-pikachu.png"
+  },
+  {
+    "id": "pkmn_0026",
+    "name": "Raichu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0026-raichu.png"
+  },
+  {
+    "id": "pkmn_0027",
+    "name": "Sandshrew",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0027-sandshrew.png"
+  },
+  {
+    "id": "pkmn_0028",
+    "name": "Sandslash",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0028-sandslash.png"
+  },
+  {
+    "id": "pkmn_0029",
+    "name": "Nidoran♀",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0029-nidoran-f.png"
+  },
+  {
+    "id": "pkmn_0030",
+    "name": "Nidorina",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0030-nidorina.png"
+  },
+  {
+    "id": "pkmn_0031",
+    "name": "Nidoqueen",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0031-nidoqueen.png"
+  },
+  {
+    "id": "pkmn_0032",
+    "name": "Nidoran♂",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0032-nidoran-m.png"
+  },
+  {
+    "id": "pkmn_0033",
+    "name": "Nidorino",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0033-nidorino.png"
+  },
+  {
+    "id": "pkmn_0034",
+    "name": "Nidoking",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0034-nidoking.png"
+  },
+  {
+    "id": "pkmn_0035",
+    "name": "Clefairy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0035-clefairy.png"
+  },
+  {
+    "id": "pkmn_0036",
+    "name": "Clefable",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0036-clefable.png"
+  },
+  {
+    "id": "pkmn_0037",
+    "name": "Vulpix",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0037-vulpix.png"
+  },
+  {
+    "id": "pkmn_0038",
+    "name": "Ninetales",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0038-ninetales.png"
+  },
+  {
+    "id": "pkmn_0039",
+    "name": "Jigglypuff",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0039-jigglypuff.png"
+  },
+  {
+    "id": "pkmn_0040",
+    "name": "Wigglytuff",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0040-wigglytuff.png"
+  },
+  {
+    "id": "pkmn_0041",
+    "name": "Zubat",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0041-zubat.png"
+  },
+  {
+    "id": "pkmn_0042",
+    "name": "Golbat",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0042-golbat.png"
+  },
+  {
+    "id": "pkmn_0043",
+    "name": "Oddish",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0043-oddish.png"
+  },
+  {
+    "id": "pkmn_0044",
+    "name": "Gloom",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0044-gloom.png"
+  },
+  {
+    "id": "pkmn_0045",
+    "name": "Vileplume",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0045-vileplume.png"
+  },
+  {
+    "id": "pkmn_0046",
+    "name": "Paras",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0046-paras.png"
+  },
+  {
+    "id": "pkmn_0047",
+    "name": "Parasect",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0047-parasect.png"
+  },
+  {
+    "id": "pkmn_0048",
+    "name": "Venonat",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0048-venonat.png"
+  },
+  {
+    "id": "pkmn_0049",
+    "name": "Venomoth",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0049-venomoth.png"
+  },
+  {
+    "id": "pkmn_0050",
+    "name": "Diglett",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0050-diglett.png"
+  },
+  {
+    "id": "pkmn_0051",
+    "name": "Dugtrio",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0051-dugtrio.png"
+  },
+  {
+    "id": "pkmn_0052",
+    "name": "Meowth",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0052-meowth.png"
+  },
+  {
+    "id": "pkmn_0053",
+    "name": "Persian",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0053-persian.png"
+  },
+  {
+    "id": "pkmn_0054",
+    "name": "Psyduck",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0054-psyduck.png"
+  },
+  {
+    "id": "pkmn_0055",
+    "name": "Golduck",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0055-golduck.png"
+  },
+  {
+    "id": "pkmn_0056",
+    "name": "Mankey",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0056-mankey.png"
+  },
+  {
+    "id": "pkmn_0057",
+    "name": "Primeape",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0057-primeape.png"
+  },
+  {
+    "id": "pkmn_0058",
+    "name": "Growlithe",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0058-growlithe.png"
+  },
+  {
+    "id": "pkmn_0059",
+    "name": "Arcanine",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0059-arcanine.png"
+  },
+  {
+    "id": "pkmn_0060",
+    "name": "Poliwag",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0060-poliwag.png"
+  },
+  {
+    "id": "pkmn_0061",
+    "name": "Poliwhirl",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0061-poliwhirl.png"
+  },
+  {
+    "id": "pkmn_0062",
+    "name": "Poliwrath",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0062-poliwrath.png"
+  },
+  {
+    "id": "pkmn_0063",
+    "name": "Abra",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0063-abra.png"
+  },
+  {
+    "id": "pkmn_0064",
+    "name": "Kadabra",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0064-kadabra.png"
+  },
+  {
+    "id": "pkmn_0065",
+    "name": "Alakazam",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0065-alakazam.png"
+  },
+  {
+    "id": "pkmn_0066",
+    "name": "Machop",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0066-machop.png"
+  },
+  {
+    "id": "pkmn_0067",
+    "name": "Machoke",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0067-machoke.png"
+  },
+  {
+    "id": "pkmn_0068",
+    "name": "Machamp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0068-machamp.png"
+  },
+  {
+    "id": "pkmn_0069",
+    "name": "Bellsprout",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0069-bellsprout.png"
+  },
+  {
+    "id": "pkmn_0070",
+    "name": "Weepinbell",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0070-weepinbell.png"
+  },
+  {
+    "id": "pkmn_0071",
+    "name": "Victreebel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0071-victreebel.png"
+  },
+  {
+    "id": "pkmn_0072",
+    "name": "Tentacool",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0072-tentacool.png"
+  },
+  {
+    "id": "pkmn_0073",
+    "name": "Tentacruel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0073-tentacruel.png"
+  },
+  {
+    "id": "pkmn_0074",
+    "name": "Geodude",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0074-geodude.png"
+  },
+  {
+    "id": "pkmn_0075",
+    "name": "Graveler",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0075-graveler.png"
+  },
+  {
+    "id": "pkmn_0076",
+    "name": "Golem",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0076-golem.png"
+  },
+  {
+    "id": "pkmn_0077",
+    "name": "Ponyta",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0077-ponyta.png"
+  },
+  {
+    "id": "pkmn_0078",
+    "name": "Rapidash",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0078-rapidash.png"
+  },
+  {
+    "id": "pkmn_0079",
+    "name": "Slowpoke",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0079-slowpoke.png"
+  },
+  {
+    "id": "pkmn_0080",
+    "name": "Slowbro",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0080-slowbro.png"
+  },
+  {
+    "id": "pkmn_0081",
+    "name": "Magnemite",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0081-magnemite.png"
+  },
+  {
+    "id": "pkmn_0082",
+    "name": "Magneton",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0082-magneton.png"
+  },
+  {
+    "id": "pkmn_0083",
+    "name": "Farfetch'd",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0083-farfetchd.png"
+  },
+  {
+    "id": "pkmn_0084",
+    "name": "Doduo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0084-doduo.png"
+  },
+  {
+    "id": "pkmn_0085",
+    "name": "Dodrio",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0085-dodrio.png"
+  },
+  {
+    "id": "pkmn_0086",
+    "name": "Seel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0086-seel.png"
+  },
+  {
+    "id": "pkmn_0087",
+    "name": "Dewgong",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0087-dewgong.png"
+  },
+  {
+    "id": "pkmn_0088",
+    "name": "Grimer",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0088-grimer.png"
+  },
+  {
+    "id": "pkmn_0089",
+    "name": "Muk",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0089-muk.png"
+  },
+  {
+    "id": "pkmn_0090",
+    "name": "Shellder",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0090-shellder.png"
+  },
+  {
+    "id": "pkmn_0091",
+    "name": "Cloyster",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0091-cloyster.png"
+  },
+  {
+    "id": "pkmn_0092",
+    "name": "Gastly",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0092-gastly.png"
+  },
+  {
+    "id": "pkmn_0093",
+    "name": "Haunter",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0093-haunter.png"
+  },
+  {
+    "id": "pkmn_0094",
+    "name": "Gengar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0094-gengar.png"
+  },
+  {
+    "id": "pkmn_0095",
+    "name": "Onix",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0095-onix.png"
+  },
+  {
+    "id": "pkmn_0096",
+    "name": "Drowzee",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0096-drowzee.png"
+  },
+  {
+    "id": "pkmn_0097",
+    "name": "Hypno",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0097-hypno.png"
+  },
+  {
+    "id": "pkmn_0098",
+    "name": "Krabby",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0098-krabby.png"
+  },
+  {
+    "id": "pkmn_0099",
+    "name": "Kingler",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0099-kingler.png"
+  },
+  {
+    "id": "pkmn_0100",
+    "name": "Voltorb",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0100-voltorb.png"
+  },
+  {
+    "id": "pkmn_0101",
+    "name": "Electrode",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0101-electrode.png"
+  },
+  {
+    "id": "pkmn_0102",
+    "name": "Exeggcute",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0102-exeggcute.png"
+  },
+  {
+    "id": "pkmn_0103",
+    "name": "Exeggutor",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0103-exeggutor.png"
+  },
+  {
+    "id": "pkmn_0104",
+    "name": "Cubone",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0104-cubone.png"
+  },
+  {
+    "id": "pkmn_0105",
+    "name": "Marowak",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0105-marowak.png"
+  },
+  {
+    "id": "pkmn_0106",
+    "name": "Hitmonlee",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0106-hitmonlee.png"
+  },
+  {
+    "id": "pkmn_0107",
+    "name": "Hitmonchan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0107-hitmonchan.png"
+  },
+  {
+    "id": "pkmn_0108",
+    "name": "Lickitung",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0108-lickitung.png"
+  },
+  {
+    "id": "pkmn_0109",
+    "name": "Koffing",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0109-koffing.png"
+  },
+  {
+    "id": "pkmn_0110",
+    "name": "Weezing",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0110-weezing.png"
+  },
+  {
+    "id": "pkmn_0111",
+    "name": "Rhyhorn",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0111-rhyhorn.png"
+  },
+  {
+    "id": "pkmn_0112",
+    "name": "Rhydon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0112-rhydon.png"
+  },
+  {
+    "id": "pkmn_0113",
+    "name": "Chansey",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0113-chansey.png"
+  },
+  {
+    "id": "pkmn_0114",
+    "name": "Tangela",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0114-tangela.png"
+  },
+  {
+    "id": "pkmn_0115",
+    "name": "Kangaskhan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0115-kangaskhan.png"
+  },
+  {
+    "id": "pkmn_0116",
+    "name": "Horsea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0116-horsea.png"
+  },
+  {
+    "id": "pkmn_0117",
+    "name": "Seadra",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0117-seadra.png"
+  },
+  {
+    "id": "pkmn_0118",
+    "name": "Goldeen",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0118-goldeen.png"
+  },
+  {
+    "id": "pkmn_0119",
+    "name": "Seaking",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0119-seaking.png"
+  },
+  {
+    "id": "pkmn_0120",
+    "name": "Staryu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0120-staryu.png"
+  },
+  {
+    "id": "pkmn_0121",
+    "name": "Starmie",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0121-starmie.png"
+  },
+  {
+    "id": "pkmn_0122",
+    "name": "Mr. Mime",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0122-mr-mime.png"
+  },
+  {
+    "id": "pkmn_0123",
+    "name": "Scyther",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0123-scyther.png"
+  },
+  {
+    "id": "pkmn_0124",
+    "name": "Jynx",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0124-jynx.png"
+  },
+  {
+    "id": "pkmn_0125",
+    "name": "Electabuzz",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0125-electabuzz.png"
+  },
+  {
+    "id": "pkmn_0126",
+    "name": "Magmar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0126-magmar.png"
+  },
+  {
+    "id": "pkmn_0127",
+    "name": "Pinsir",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0127-pinsir.png"
+  },
+  {
+    "id": "pkmn_0128",
+    "name": "Tauros",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0128-tauros.png"
+  },
+  {
+    "id": "pkmn_0129",
+    "name": "Magikarp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0129-magikarp.png"
+  },
+  {
+    "id": "pkmn_0130",
+    "name": "Gyarados",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0130-gyarados.png"
+  },
+  {
+    "id": "pkmn_0131",
+    "name": "Lapras",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0131-lapras.png"
+  },
+  {
+    "id": "pkmn_0132",
+    "name": "Ditto",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0132-ditto.png"
+  },
+  {
+    "id": "pkmn_0133",
+    "name": "Eevee",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0133-eevee.png"
+  },
+  {
+    "id": "pkmn_0134",
+    "name": "Vaporeon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0134-vaporeon.png"
+  },
+  {
+    "id": "pkmn_0135",
+    "name": "Jolteon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0135-jolteon.png"
+  },
+  {
+    "id": "pkmn_0136",
+    "name": "Flareon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0136-flareon.png"
+  },
+  {
+    "id": "pkmn_0137",
+    "name": "Porygon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0137-porygon.png"
+  },
+  {
+    "id": "pkmn_0138",
+    "name": "Omanyte",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0138-omanyte.png"
+  },
+  {
+    "id": "pkmn_0139",
+    "name": "Omastar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0139-omastar.png"
+  },
+  {
+    "id": "pkmn_0140",
+    "name": "Kabuto",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0140-kabuto.png"
+  },
+  {
+    "id": "pkmn_0141",
+    "name": "Kabutops",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0141-kabutops.png"
+  },
+  {
+    "id": "pkmn_0142",
+    "name": "Aerodactyl",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0142-aerodactyl.png"
+  },
+  {
+    "id": "pkmn_0143",
+    "name": "Snorlax",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0143-snorlax.png"
+  },
+  {
+    "id": "pkmn_0144",
+    "name": "Articuno",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0144-articuno.png"
+  },
+  {
+    "id": "pkmn_0145",
+    "name": "Zapdos",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0145-zapdos.png"
+  },
+  {
+    "id": "pkmn_0146",
+    "name": "Moltres",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0146-moltres.png"
+  },
+  {
+    "id": "pkmn_0147",
+    "name": "Dratini",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0147-dratini.png"
+  },
+  {
+    "id": "pkmn_0148",
+    "name": "Dragonair",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0148-dragonair.png"
+  },
+  {
+    "id": "pkmn_0149",
+    "name": "Dragonite",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0149-dragonite.png"
+  },
+  {
+    "id": "pkmn_0150",
+    "name": "Mewtwo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0150-mewtwo.png"
+  },
+  {
+    "id": "pkmn_0151",
+    "name": "Mew",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0151-mew.png"
+  }
+];
+window.QM_POKEMON_GEN2_DATA = [
+  {
+    "id": "pkmn_0152",
+    "name": "Chikorita",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0152-chikorita.png"
+  },
+  {
+    "id": "pkmn_0153",
+    "name": "Bayleef",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0153-bayleef.png"
+  },
+  {
+    "id": "pkmn_0154",
+    "name": "Meganium",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0154-meganium.png"
+  },
+  {
+    "id": "pkmn_0155",
+    "name": "Cyndaquil",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0155-cyndaquil.png"
+  },
+  {
+    "id": "pkmn_0156",
+    "name": "Quilava",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0156-quilava.png"
+  },
+  {
+    "id": "pkmn_0157",
+    "name": "Typhlosion",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0157-typhlosion.png"
+  },
+  {
+    "id": "pkmn_0158",
+    "name": "Totodile",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0158-totodile.png"
+  },
+  {
+    "id": "pkmn_0159",
+    "name": "Croconaw",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0159-croconaw.png"
+  },
+  {
+    "id": "pkmn_0160",
+    "name": "Feraligatr",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0160-feraligatr.png"
+  },
+  {
+    "id": "pkmn_0161",
+    "name": "Sentret",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0161-sentret.png"
+  },
+  {
+    "id": "pkmn_0162",
+    "name": "Furret",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0162-furret.png"
+  },
+  {
+    "id": "pkmn_0163",
+    "name": "Hoothoot",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0163-hoothoot.png"
+  },
+  {
+    "id": "pkmn_0164",
+    "name": "Noctowl",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0164-noctowl.png"
+  },
+  {
+    "id": "pkmn_0165",
+    "name": "Ledyba",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0165-ledyba.png"
+  },
+  {
+    "id": "pkmn_0166",
+    "name": "Ledian",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0166-ledian.png"
+  },
+  {
+    "id": "pkmn_0167",
+    "name": "Spinarak",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0167-spinarak.png"
+  },
+  {
+    "id": "pkmn_0168",
+    "name": "Ariados",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0168-ariados.png"
+  },
+  {
+    "id": "pkmn_0169",
+    "name": "Crobat",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0169-crobat.png"
+  },
+  {
+    "id": "pkmn_0170",
+    "name": "Chinchou",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0170-chinchou.png"
+  },
+  {
+    "id": "pkmn_0171",
+    "name": "Lanturn",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0171-lanturn.png"
+  },
+  {
+    "id": "pkmn_0172",
+    "name": "Pichu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0172-pichu.png"
+  },
+  {
+    "id": "pkmn_0173",
+    "name": "Cleffa",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0173-cleffa.png"
+  },
+  {
+    "id": "pkmn_0174",
+    "name": "Igglybuff",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0174-igglybuff.png"
+  },
+  {
+    "id": "pkmn_0175",
+    "name": "Togepi",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0175-togepi.png"
+  },
+  {
+    "id": "pkmn_0176",
+    "name": "Togetic",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0176-togetic.png"
+  },
+  {
+    "id": "pkmn_0177",
+    "name": "Natu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0177-natu.png"
+  },
+  {
+    "id": "pkmn_0178",
+    "name": "Xatu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0178-xatu.png"
+  },
+  {
+    "id": "pkmn_0179",
+    "name": "Mareep",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0179-mareep.png"
+  },
+  {
+    "id": "pkmn_0180",
+    "name": "Flaaffy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0180-flaaffy.png"
+  },
+  {
+    "id": "pkmn_0181",
+    "name": "Ampharos",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0181-ampharos.png"
+  },
+  {
+    "id": "pkmn_0182",
+    "name": "Bellossom",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0182-bellossom.png"
+  },
+  {
+    "id": "pkmn_0183",
+    "name": "Marill",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0183-marill.png"
+  },
+  {
+    "id": "pkmn_0184",
+    "name": "Azumarill",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0184-azumarill.png"
+  },
+  {
+    "id": "pkmn_0185",
+    "name": "Sudowoodo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0185-sudowoodo.png"
+  },
+  {
+    "id": "pkmn_0186",
+    "name": "Politoed",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0186-politoed.png"
+  },
+  {
+    "id": "pkmn_0187",
+    "name": "Hoppip",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0187-hoppip.png"
+  },
+  {
+    "id": "pkmn_0188",
+    "name": "Skiploom",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0188-skiploom.png"
+  },
+  {
+    "id": "pkmn_0189",
+    "name": "Jumpluff",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0189-jumpluff.png"
+  },
+  {
+    "id": "pkmn_0190",
+    "name": "Aipom",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0190-aipom.png"
+  },
+  {
+    "id": "pkmn_0191",
+    "name": "Sunkern",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0191-sunkern.png"
+  },
+  {
+    "id": "pkmn_0192",
+    "name": "Sunflora",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0192-sunflora.png"
+  },
+  {
+    "id": "pkmn_0193",
+    "name": "Yanma",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0193-yanma.png"
+  },
+  {
+    "id": "pkmn_0194",
+    "name": "Wooper",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0194-wooper.png"
+  },
+  {
+    "id": "pkmn_0195",
+    "name": "Quagsire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0195-quagsire.png"
+  },
+  {
+    "id": "pkmn_0196",
+    "name": "Espeon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0196-espeon.png"
+  },
+  {
+    "id": "pkmn_0197",
+    "name": "Umbreon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0197-umbreon.png"
+  },
+  {
+    "id": "pkmn_0198",
+    "name": "Murkrow",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0198-murkrow.png"
+  },
+  {
+    "id": "pkmn_0199",
+    "name": "Slowking",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0199-slowking.png"
+  },
+  {
+    "id": "pkmn_0200",
+    "name": "Misdreavus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0200-misdreavus.png"
+  },
+  {
+    "id": "pkmn_0201",
+    "name": "Unown",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0201-unown.png"
+  },
+  {
+    "id": "pkmn_0202",
+    "name": "Wobbuffet",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0202-wobbuffet.png"
+  },
+  {
+    "id": "pkmn_0203",
+    "name": "Girafarig",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0203-girafarig.png"
+  },
+  {
+    "id": "pkmn_0204",
+    "name": "Pineco",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0204-pineco.png"
+  },
+  {
+    "id": "pkmn_0205",
+    "name": "Forretress",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0205-forretress.png"
+  },
+  {
+    "id": "pkmn_0206",
+    "name": "Dunsparce",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0206-dunsparce.png"
+  },
+  {
+    "id": "pkmn_0207",
+    "name": "Gligar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0207-gligar.png"
+  },
+  {
+    "id": "pkmn_0208",
+    "name": "Steelix",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0208-steelix.png"
+  },
+  {
+    "id": "pkmn_0209",
+    "name": "Snubbull",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0209-snubbull.png"
+  },
+  {
+    "id": "pkmn_0210",
+    "name": "Granbull",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0210-granbull.png"
+  },
+  {
+    "id": "pkmn_0211",
+    "name": "Qwilfish",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0211-qwilfish.png"
+  },
+  {
+    "id": "pkmn_0212",
+    "name": "Scizor",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0212-scizor.png"
+  },
+  {
+    "id": "pkmn_0213",
+    "name": "Shuckle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0213-shuckle.png"
+  },
+  {
+    "id": "pkmn_0214",
+    "name": "Heracross",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0214-heracross.png"
+  },
+  {
+    "id": "pkmn_0215",
+    "name": "Sneasel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0215-sneasel.png"
+  },
+  {
+    "id": "pkmn_0216",
+    "name": "Teddiursa",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0216-teddiursa.png"
+  },
+  {
+    "id": "pkmn_0217",
+    "name": "Ursaring",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0217-ursaring.png"
+  },
+  {
+    "id": "pkmn_0218",
+    "name": "Slugma",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0218-slugma.png"
+  },
+  {
+    "id": "pkmn_0219",
+    "name": "Magcargo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0219-magcargo.png"
+  },
+  {
+    "id": "pkmn_0220",
+    "name": "Swinub",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0220-swinub.png"
+  },
+  {
+    "id": "pkmn_0221",
+    "name": "Piloswine",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0221-piloswine.png"
+  },
+  {
+    "id": "pkmn_0222",
+    "name": "Corsola",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0222-corsola.png"
+  },
+  {
+    "id": "pkmn_0223",
+    "name": "Remoraid",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0223-remoraid.png"
+  },
+  {
+    "id": "pkmn_0224",
+    "name": "Octillery",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0224-octillery.png"
+  },
+  {
+    "id": "pkmn_0225",
+    "name": "Delibird",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0225-delibird.png"
+  },
+  {
+    "id": "pkmn_0226",
+    "name": "Mantine",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0226-mantine.png"
+  },
+  {
+    "id": "pkmn_0227",
+    "name": "Skarmory",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0227-skarmory.png"
+  },
+  {
+    "id": "pkmn_0228",
+    "name": "Houndour",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0228-houndour.png"
+  },
+  {
+    "id": "pkmn_0229",
+    "name": "Houndoom",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0229-houndoom.png"
+  },
+  {
+    "id": "pkmn_0230",
+    "name": "Kingdra",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0230-kingdra.png"
+  },
+  {
+    "id": "pkmn_0231",
+    "name": "Phanpy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0231-phanpy.png"
+  },
+  {
+    "id": "pkmn_0232",
+    "name": "Donphan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0232-donphan.png"
+  },
+  {
+    "id": "pkmn_0233",
+    "name": "Porygon2",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0233-porygon2.png"
+  },
+  {
+    "id": "pkmn_0234",
+    "name": "Stantler",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0234-stantler.png"
+  },
+  {
+    "id": "pkmn_0235",
+    "name": "Smeargle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0235-smeargle.png"
+  },
+  {
+    "id": "pkmn_0236",
+    "name": "Tyrogue",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0236-tyrogue.png"
+  },
+  {
+    "id": "pkmn_0237",
+    "name": "Hitmontop",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0237-hitmontop.png"
+  },
+  {
+    "id": "pkmn_0238",
+    "name": "Smoochum",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0238-smoochum.png"
+  },
+  {
+    "id": "pkmn_0239",
+    "name": "Elekid",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0239-elekid.png"
+  },
+  {
+    "id": "pkmn_0240",
+    "name": "Magby",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0240-magby.png"
+  },
+  {
+    "id": "pkmn_0241",
+    "name": "Miltank",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0241-miltank.png"
+  },
+  {
+    "id": "pkmn_0242",
+    "name": "Blissey",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0242-blissey.png"
+  },
+  {
+    "id": "pkmn_0243",
+    "name": "Raikou",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0243-raikou.png"
+  },
+  {
+    "id": "pkmn_0244",
+    "name": "Entei",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0244-entei.png"
+  },
+  {
+    "id": "pkmn_0245",
+    "name": "Suicune",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0245-suicune.png"
+  },
+  {
+    "id": "pkmn_0246",
+    "name": "Larvitar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0246-larvitar.png"
+  },
+  {
+    "id": "pkmn_0247",
+    "name": "Pupitar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0247-pupitar.png"
+  },
+  {
+    "id": "pkmn_0248",
+    "name": "Tyranitar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0248-tyranitar.png"
+  },
+  {
+    "id": "pkmn_0249",
+    "name": "Lugia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0249-lugia.png"
+  },
+  {
+    "id": "pkmn_0250",
+    "name": "Ho-Oh",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0250-ho-oh.png"
+  },
+  {
+    "id": "pkmn_0251",
+    "name": "Celebi",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0251-celebi.png"
+  }
+];
+window.QM_POKEMON_GEN3_DATA = [
+  {
+    "id": "pkmn_0252",
+    "name": "Treecko",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0252-treecko.png"
+  },
+  {
+    "id": "pkmn_0253",
+    "name": "Grovyle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0253-grovyle.png"
+  },
+  {
+    "id": "pkmn_0254",
+    "name": "Sceptile",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0254-sceptile.png"
+  },
+  {
+    "id": "pkmn_0255",
+    "name": "Torchic",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0255-torchic.png"
+  },
+  {
+    "id": "pkmn_0256",
+    "name": "Combusken",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0256-combusken.png"
+  },
+  {
+    "id": "pkmn_0257",
+    "name": "Blaziken",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0257-blaziken.png"
+  },
+  {
+    "id": "pkmn_0258",
+    "name": "Mudkip",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0258-mudkip.png"
+  },
+  {
+    "id": "pkmn_0259",
+    "name": "Marshtomp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0259-marshtomp.png"
+  },
+  {
+    "id": "pkmn_0260",
+    "name": "Swampert",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0260-swampert.png"
+  },
+  {
+    "id": "pkmn_0261",
+    "name": "Poochyena",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0261-poochyena.png"
+  },
+  {
+    "id": "pkmn_0262",
+    "name": "Mightyena",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0262-mightyena.png"
+  },
+  {
+    "id": "pkmn_0263",
+    "name": "Zigzagoon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0263-zigzagoon.png"
+  },
+  {
+    "id": "pkmn_0264",
+    "name": "Linoone",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0264-linoone.png"
+  },
+  {
+    "id": "pkmn_0265",
+    "name": "Wurmple",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0265-wurmple.png"
+  },
+  {
+    "id": "pkmn_0266",
+    "name": "Silcoon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0266-silcoon.png"
+  },
+  {
+    "id": "pkmn_0267",
+    "name": "Beautifly",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0267-beautifly.png"
+  },
+  {
+    "id": "pkmn_0268",
+    "name": "Cascoon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0268-cascoon.png"
+  },
+  {
+    "id": "pkmn_0269",
+    "name": "Dustox",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0269-dustox.png"
+  },
+  {
+    "id": "pkmn_0270",
+    "name": "Lotad",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0270-lotad.png"
+  },
+  {
+    "id": "pkmn_0271",
+    "name": "Lombre",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0271-lombre.png"
+  },
+  {
+    "id": "pkmn_0272",
+    "name": "Ludicolo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0272-ludicolo.png"
+  },
+  {
+    "id": "pkmn_0273",
+    "name": "Seedot",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0273-seedot.png"
+  },
+  {
+    "id": "pkmn_0274",
+    "name": "Nuzleaf",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0274-nuzleaf.png"
+  },
+  {
+    "id": "pkmn_0275",
+    "name": "Shiftry",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0275-shiftry.png"
+  },
+  {
+    "id": "pkmn_0276",
+    "name": "Taillow",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0276-taillow.png"
+  },
+  {
+    "id": "pkmn_0277",
+    "name": "Swellow",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0277-swellow.png"
+  },
+  {
+    "id": "pkmn_0278",
+    "name": "Wingull",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0278-wingull.png"
+  },
+  {
+    "id": "pkmn_0279",
+    "name": "Pelipper",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0279-pelipper.png"
+  },
+  {
+    "id": "pkmn_0280",
+    "name": "Ralts",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0280-ralts.png"
+  },
+  {
+    "id": "pkmn_0281",
+    "name": "Kirlia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0281-kirlia.png"
+  },
+  {
+    "id": "pkmn_0282",
+    "name": "Gardevoir",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0282-gardevoir.png"
+  },
+  {
+    "id": "pkmn_0283",
+    "name": "Surskit",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0283-surskit.png"
+  },
+  {
+    "id": "pkmn_0284",
+    "name": "Masquerain",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0284-masquerain.png"
+  },
+  {
+    "id": "pkmn_0285",
+    "name": "Shroomish",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0285-shroomish.png"
+  },
+  {
+    "id": "pkmn_0286",
+    "name": "Breloom",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0286-breloom.png"
+  },
+  {
+    "id": "pkmn_0287",
+    "name": "Slakoth",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0287-slakoth.png"
+  },
+  {
+    "id": "pkmn_0288",
+    "name": "Vigoroth",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0288-vigoroth.png"
+  },
+  {
+    "id": "pkmn_0289",
+    "name": "Slaking",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0289-slaking.png"
+  },
+  {
+    "id": "pkmn_0290",
+    "name": "Nincada",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0290-nincada.png"
+  },
+  {
+    "id": "pkmn_0291",
+    "name": "Ninjask",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0291-ninjask.png"
+  },
+  {
+    "id": "pkmn_0292",
+    "name": "Shedinja",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0292-shedinja.png"
+  },
+  {
+    "id": "pkmn_0293",
+    "name": "Whismur",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0293-whismur.png"
+  },
+  {
+    "id": "pkmn_0294",
+    "name": "Loudred",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0294-loudred.png"
+  },
+  {
+    "id": "pkmn_0295",
+    "name": "Exploud",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0295-exploud.png"
+  },
+  {
+    "id": "pkmn_0296",
+    "name": "Makuhita",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0296-makuhita.png"
+  },
+  {
+    "id": "pkmn_0297",
+    "name": "Hariyama",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0297-hariyama.png"
+  },
+  {
+    "id": "pkmn_0298",
+    "name": "Azurill",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0298-azurill.png"
+  },
+  {
+    "id": "pkmn_0299",
+    "name": "Nosepass",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0299-nosepass.png"
+  },
+  {
+    "id": "pkmn_0300",
+    "name": "Skitty",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0300-skitty.png"
+  },
+  {
+    "id": "pkmn_0301",
+    "name": "Delcatty",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0301-delcatty.png"
+  },
+  {
+    "id": "pkmn_0302",
+    "name": "Sableye",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0302-sableye.png"
+  },
+  {
+    "id": "pkmn_0303",
+    "name": "Mawile",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0303-mawile.png"
+  },
+  {
+    "id": "pkmn_0304",
+    "name": "Aron",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0304-aron.png"
+  },
+  {
+    "id": "pkmn_0305",
+    "name": "Lairon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0305-lairon.png"
+  },
+  {
+    "id": "pkmn_0306",
+    "name": "Aggron",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0306-aggron.png"
+  },
+  {
+    "id": "pkmn_0307",
+    "name": "Meditite",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0307-meditite.png"
+  },
+  {
+    "id": "pkmn_0308",
+    "name": "Medicham",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0308-medicham.png"
+  },
+  {
+    "id": "pkmn_0309",
+    "name": "Electrike",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0309-electrike.png"
+  },
+  {
+    "id": "pkmn_0310",
+    "name": "Manectric",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0310-manectric.png"
+  },
+  {
+    "id": "pkmn_0311",
+    "name": "Plusle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0311-plusle.png"
+  },
+  {
+    "id": "pkmn_0312",
+    "name": "Minun",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0312-minun.png"
+  },
+  {
+    "id": "pkmn_0313",
+    "name": "Volbeat",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0313-volbeat.png"
+  },
+  {
+    "id": "pkmn_0314",
+    "name": "Illumise",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0314-illumise.png"
+  },
+  {
+    "id": "pkmn_0315",
+    "name": "Roselia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0315-roselia.png"
+  },
+  {
+    "id": "pkmn_0316",
+    "name": "Gulpin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0316-gulpin.png"
+  },
+  {
+    "id": "pkmn_0317",
+    "name": "Swalot",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0317-swalot.png"
+  },
+  {
+    "id": "pkmn_0318",
+    "name": "Carvanha",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0318-carvanha.png"
+  },
+  {
+    "id": "pkmn_0319",
+    "name": "Sharpedo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0319-sharpedo.png"
+  },
+  {
+    "id": "pkmn_0320",
+    "name": "Wailmer",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0320-wailmer.png"
+  },
+  {
+    "id": "pkmn_0321",
+    "name": "Wailord",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0321-wailord.png"
+  },
+  {
+    "id": "pkmn_0322",
+    "name": "Numel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0322-numel.png"
+  },
+  {
+    "id": "pkmn_0323",
+    "name": "Camerupt",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0323-camerupt.png"
+  },
+  {
+    "id": "pkmn_0324",
+    "name": "Torkoal",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0324-torkoal.png"
+  },
+  {
+    "id": "pkmn_0325",
+    "name": "Spoink",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0325-spoink.png"
+  },
+  {
+    "id": "pkmn_0326",
+    "name": "Grumpig",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0326-grumpig.png"
+  },
+  {
+    "id": "pkmn_0327",
+    "name": "Spinda",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0327-spinda.png"
+  },
+  {
+    "id": "pkmn_0328",
+    "name": "Trapinch",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0328-trapinch.png"
+  },
+  {
+    "id": "pkmn_0329",
+    "name": "Vibrava",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0329-vibrava.png"
+  },
+  {
+    "id": "pkmn_0330",
+    "name": "Flygon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0330-flygon.png"
+  },
+  {
+    "id": "pkmn_0331",
+    "name": "Cacnea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0331-cacnea.png"
+  },
+  {
+    "id": "pkmn_0332",
+    "name": "Cacturne",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0332-cacturne.png"
+  },
+  {
+    "id": "pkmn_0333",
+    "name": "Swablu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0333-swablu.png"
+  },
+  {
+    "id": "pkmn_0334",
+    "name": "Altaria",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0334-altaria.png"
+  },
+  {
+    "id": "pkmn_0335",
+    "name": "Zangoose",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0335-zangoose.png"
+  },
+  {
+    "id": "pkmn_0336",
+    "name": "Seviper",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0336-seviper.png"
+  },
+  {
+    "id": "pkmn_0337",
+    "name": "Lunatone",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0337-lunatone.png"
+  },
+  {
+    "id": "pkmn_0338",
+    "name": "Solrock",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0338-solrock.png"
+  },
+  {
+    "id": "pkmn_0339",
+    "name": "Barboach",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0339-barboach.png"
+  },
+  {
+    "id": "pkmn_0340",
+    "name": "Whiscash",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0340-whiscash.png"
+  },
+  {
+    "id": "pkmn_0341",
+    "name": "Corphish",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0341-corphish.png"
+  },
+  {
+    "id": "pkmn_0342",
+    "name": "Crawdaunt",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0342-crawdaunt.png"
+  },
+  {
+    "id": "pkmn_0343",
+    "name": "Baltoy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0343-baltoy.png"
+  },
+  {
+    "id": "pkmn_0344",
+    "name": "Claydol",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0344-claydol.png"
+  },
+  {
+    "id": "pkmn_0345",
+    "name": "Lileep",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0345-lileep.png"
+  },
+  {
+    "id": "pkmn_0346",
+    "name": "Cradily",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0346-cradily.png"
+  },
+  {
+    "id": "pkmn_0347",
+    "name": "Anorith",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0347-anorith.png"
+  },
+  {
+    "id": "pkmn_0348",
+    "name": "Armaldo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0348-armaldo.png"
+  },
+  {
+    "id": "pkmn_0349",
+    "name": "Feebas",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0349-feebas.png"
+  },
+  {
+    "id": "pkmn_0350",
+    "name": "Milotic",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0350-milotic.png"
+  },
+  {
+    "id": "pkmn_0351",
+    "name": "Castform",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0351-castform.png"
+  },
+  {
+    "id": "pkmn_0352",
+    "name": "Kecleon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0352-kecleon.png"
+  },
+  {
+    "id": "pkmn_0353",
+    "name": "Shuppet",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0353-shuppet.png"
+  },
+  {
+    "id": "pkmn_0354",
+    "name": "Banette",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0354-banette.png"
+  },
+  {
+    "id": "pkmn_0355",
+    "name": "Duskull",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0355-duskull.png"
+  },
+  {
+    "id": "pkmn_0356",
+    "name": "Dusclops",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0356-dusclops.png"
+  },
+  {
+    "id": "pkmn_0357",
+    "name": "Tropius",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0357-tropius.png"
+  },
+  {
+    "id": "pkmn_0358",
+    "name": "Chimecho",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0358-chimecho.png"
+  },
+  {
+    "id": "pkmn_0359",
+    "name": "Absol",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0359-absol.png"
+  },
+  {
+    "id": "pkmn_0360",
+    "name": "Wynaut",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0360-wynaut.png"
+  },
+  {
+    "id": "pkmn_0361",
+    "name": "Snorunt",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0361-snorunt.png"
+  },
+  {
+    "id": "pkmn_0362",
+    "name": "Glalie",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0362-glalie.png"
+  },
+  {
+    "id": "pkmn_0363",
+    "name": "Spheal",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0363-spheal.png"
+  },
+  {
+    "id": "pkmn_0364",
+    "name": "Sealeo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0364-sealeo.png"
+  },
+  {
+    "id": "pkmn_0365",
+    "name": "Walrein",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0365-walrein.png"
+  },
+  {
+    "id": "pkmn_0366",
+    "name": "Clamperl",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0366-clamperl.png"
+  },
+  {
+    "id": "pkmn_0367",
+    "name": "Huntail",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0367-huntail.png"
+  },
+  {
+    "id": "pkmn_0368",
+    "name": "Gorebyss",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0368-gorebyss.png"
+  },
+  {
+    "id": "pkmn_0369",
+    "name": "Relicanth",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0369-relicanth.png"
+  },
+  {
+    "id": "pkmn_0370",
+    "name": "Luvdisc",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0370-luvdisc.png"
+  },
+  {
+    "id": "pkmn_0371",
+    "name": "Bagon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0371-bagon.png"
+  },
+  {
+    "id": "pkmn_0372",
+    "name": "Shelgon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0372-shelgon.png"
+  },
+  {
+    "id": "pkmn_0373",
+    "name": "Salamence",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0373-salamence.png"
+  },
+  {
+    "id": "pkmn_0374",
+    "name": "Beldum",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0374-beldum.png"
+  },
+  {
+    "id": "pkmn_0375",
+    "name": "Metang",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0375-metang.png"
+  },
+  {
+    "id": "pkmn_0376",
+    "name": "Metagross",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0376-metagross.png"
+  },
+  {
+    "id": "pkmn_0377",
+    "name": "Regirock",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0377-regirock.png"
+  },
+  {
+    "id": "pkmn_0378",
+    "name": "Regice",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0378-regice.png"
+  },
+  {
+    "id": "pkmn_0379",
+    "name": "Registeel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0379-registeel.png"
+  },
+  {
+    "id": "pkmn_0380",
+    "name": "Latias",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0380-latias.png"
+  },
+  {
+    "id": "pkmn_0381",
+    "name": "Latios",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0381-latios.png"
+  },
+  {
+    "id": "pkmn_0382",
+    "name": "Kyogre",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0382-kyogre.png"
+  },
+  {
+    "id": "pkmn_0383",
+    "name": "Groudon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0383-groudon.png"
+  },
+  {
+    "id": "pkmn_0384",
+    "name": "Rayquaza",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0384-rayquaza.png"
+  },
+  {
+    "id": "pkmn_0385",
+    "name": "Jirachi",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0385-jirachi.png"
+  },
+  {
+    "id": "pkmn_0386",
+    "name": "Deoxys Normal",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen3/0386-deoxys-normal.png"
+  }
+];
+window.QM_POKEMON_GEN4_DATA = [
+  {
+    "id": "pkmn_0387",
+    "name": "Turtwig",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0387-turtwig.png"
+  },
+  {
+    "id": "pkmn_0388",
+    "name": "Grotle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0388-grotle.png"
+  },
+  {
+    "id": "pkmn_0389",
+    "name": "Torterra",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0389-torterra.png"
+  },
+  {
+    "id": "pkmn_0390",
+    "name": "Chimchar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0390-chimchar.png"
+  },
+  {
+    "id": "pkmn_0391",
+    "name": "Monferno",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0391-monferno.png"
+  },
+  {
+    "id": "pkmn_0392",
+    "name": "Infernape",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0392-infernape.png"
+  },
+  {
+    "id": "pkmn_0393",
+    "name": "Piplup",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0393-piplup.png"
+  },
+  {
+    "id": "pkmn_0394",
+    "name": "Prinplup",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0394-prinplup.png"
+  },
+  {
+    "id": "pkmn_0395",
+    "name": "Empoleon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0395-empoleon.png"
+  },
+  {
+    "id": "pkmn_0396",
+    "name": "Starly",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0396-starly.png"
+  },
+  {
+    "id": "pkmn_0397",
+    "name": "Staravia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0397-staravia.png"
+  },
+  {
+    "id": "pkmn_0398",
+    "name": "Staraptor",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0398-staraptor.png"
+  },
+  {
+    "id": "pkmn_0399",
+    "name": "Bidoof",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0399-bidoof.png"
+  },
+  {
+    "id": "pkmn_0400",
+    "name": "Bibarel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0400-bibarel.png"
+  },
+  {
+    "id": "pkmn_0401",
+    "name": "Kricketot",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0401-kricketot.png"
+  },
+  {
+    "id": "pkmn_0402",
+    "name": "Kricketune",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0402-kricketune.png"
+  },
+  {
+    "id": "pkmn_0403",
+    "name": "Shinx",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0403-shinx.png"
+  },
+  {
+    "id": "pkmn_0404",
+    "name": "Luxio",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0404-luxio.png"
+  },
+  {
+    "id": "pkmn_0405",
+    "name": "Luxray",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0405-luxray.png"
+  },
+  {
+    "id": "pkmn_0406",
+    "name": "Budew",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0406-budew.png"
+  },
+  {
+    "id": "pkmn_0407",
+    "name": "Roserade",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0407-roserade.png"
+  },
+  {
+    "id": "pkmn_0408",
+    "name": "Cranidos",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0408-cranidos.png"
+  },
+  {
+    "id": "pkmn_0409",
+    "name": "Rampardos",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0409-rampardos.png"
+  },
+  {
+    "id": "pkmn_0410",
+    "name": "Shieldon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0410-shieldon.png"
+  },
+  {
+    "id": "pkmn_0411",
+    "name": "Bastiodon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0411-bastiodon.png"
+  },
+  {
+    "id": "pkmn_0412",
+    "name": "Burmy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0412-burmy.png"
+  },
+  {
+    "id": "pkmn_0413",
+    "name": "Wormadam Plant",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0413-wormadam-plant.png"
+  },
+  {
+    "id": "pkmn_0414",
+    "name": "Mothim",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0414-mothim.png"
+  },
+  {
+    "id": "pkmn_0415",
+    "name": "Combee",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0415-combee.png"
+  },
+  {
+    "id": "pkmn_0416",
+    "name": "Vespiquen",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0416-vespiquen.png"
+  },
+  {
+    "id": "pkmn_0417",
+    "name": "Pachirisu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0417-pachirisu.png"
+  },
+  {
+    "id": "pkmn_0418",
+    "name": "Buizel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0418-buizel.png"
+  },
+  {
+    "id": "pkmn_0419",
+    "name": "Floatzel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0419-floatzel.png"
+  },
+  {
+    "id": "pkmn_0420",
+    "name": "Cherubi",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0420-cherubi.png"
+  },
+  {
+    "id": "pkmn_0421",
+    "name": "Cherrim",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0421-cherrim.png"
+  },
+  {
+    "id": "pkmn_0422",
+    "name": "Shellos",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0422-shellos.png"
+  },
+  {
+    "id": "pkmn_0423",
+    "name": "Gastrodon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0423-gastrodon.png"
+  },
+  {
+    "id": "pkmn_0424",
+    "name": "Ambipom",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0424-ambipom.png"
+  },
+  {
+    "id": "pkmn_0425",
+    "name": "Drifloon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0425-drifloon.png"
+  },
+  {
+    "id": "pkmn_0426",
+    "name": "Drifblim",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0426-drifblim.png"
+  },
+  {
+    "id": "pkmn_0427",
+    "name": "Buneary",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0427-buneary.png"
+  },
+  {
+    "id": "pkmn_0428",
+    "name": "Lopunny",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0428-lopunny.png"
+  },
+  {
+    "id": "pkmn_0429",
+    "name": "Mismagius",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0429-mismagius.png"
+  },
+  {
+    "id": "pkmn_0430",
+    "name": "Honchkrow",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0430-honchkrow.png"
+  },
+  {
+    "id": "pkmn_0431",
+    "name": "Glameow",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0431-glameow.png"
+  },
+  {
+    "id": "pkmn_0432",
+    "name": "Purugly",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0432-purugly.png"
+  },
+  {
+    "id": "pkmn_0433",
+    "name": "Chingling",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0433-chingling.png"
+  },
+  {
+    "id": "pkmn_0434",
+    "name": "Stunky",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0434-stunky.png"
+  },
+  {
+    "id": "pkmn_0435",
+    "name": "Skuntank",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0435-skuntank.png"
+  },
+  {
+    "id": "pkmn_0436",
+    "name": "Bronzor",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0436-bronzor.png"
+  },
+  {
+    "id": "pkmn_0437",
+    "name": "Bronzong",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0437-bronzong.png"
+  },
+  {
+    "id": "pkmn_0438",
+    "name": "Bonsly",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0438-bonsly.png"
+  },
+  {
+    "id": "pkmn_0439",
+    "name": "Mime Jr.",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0439-mime-jr.png"
+  },
+  {
+    "id": "pkmn_0440",
+    "name": "Happiny",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0440-happiny.png"
+  },
+  {
+    "id": "pkmn_0441",
+    "name": "Chatot",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0441-chatot.png"
+  },
+  {
+    "id": "pkmn_0442",
+    "name": "Spiritomb",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0442-spiritomb.png"
+  },
+  {
+    "id": "pkmn_0443",
+    "name": "Gible",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0443-gible.png"
+  },
+  {
+    "id": "pkmn_0444",
+    "name": "Gabite",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0444-gabite.png"
+  },
+  {
+    "id": "pkmn_0445",
+    "name": "Garchomp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0445-garchomp.png"
+  },
+  {
+    "id": "pkmn_0446",
+    "name": "Munchlax",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0446-munchlax.png"
+  },
+  {
+    "id": "pkmn_0447",
+    "name": "Riolu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0447-riolu.png"
+  },
+  {
+    "id": "pkmn_0448",
+    "name": "Lucario",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0448-lucario.png"
+  },
+  {
+    "id": "pkmn_0449",
+    "name": "Hippopotas",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0449-hippopotas.png"
+  },
+  {
+    "id": "pkmn_0450",
+    "name": "Hippowdon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0450-hippowdon.png"
+  },
+  {
+    "id": "pkmn_0451",
+    "name": "Skorupi",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0451-skorupi.png"
+  },
+  {
+    "id": "pkmn_0452",
+    "name": "Drapion",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0452-drapion.png"
+  },
+  {
+    "id": "pkmn_0453",
+    "name": "Croagunk",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0453-croagunk.png"
+  },
+  {
+    "id": "pkmn_0454",
+    "name": "Toxicroak",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0454-toxicroak.png"
+  },
+  {
+    "id": "pkmn_0455",
+    "name": "Carnivine",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0455-carnivine.png"
+  },
+  {
+    "id": "pkmn_0456",
+    "name": "Finneon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0456-finneon.png"
+  },
+  {
+    "id": "pkmn_0457",
+    "name": "Lumineon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0457-lumineon.png"
+  },
+  {
+    "id": "pkmn_0458",
+    "name": "Mantyke",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0458-mantyke.png"
+  },
+  {
+    "id": "pkmn_0459",
+    "name": "Snover",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0459-snover.png"
+  },
+  {
+    "id": "pkmn_0460",
+    "name": "Abomasnow",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0460-abomasnow.png"
+  },
+  {
+    "id": "pkmn_0461",
+    "name": "Weavile",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0461-weavile.png"
+  },
+  {
+    "id": "pkmn_0462",
+    "name": "Magnezone",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0462-magnezone.png"
+  },
+  {
+    "id": "pkmn_0463",
+    "name": "Lickilicky",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0463-lickilicky.png"
+  },
+  {
+    "id": "pkmn_0464",
+    "name": "Rhyperior",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0464-rhyperior.png"
+  },
+  {
+    "id": "pkmn_0465",
+    "name": "Tangrowth",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0465-tangrowth.png"
+  },
+  {
+    "id": "pkmn_0466",
+    "name": "Electivire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0466-electivire.png"
+  },
+  {
+    "id": "pkmn_0467",
+    "name": "Magmortar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0467-magmortar.png"
+  },
+  {
+    "id": "pkmn_0468",
+    "name": "Togekiss",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0468-togekiss.png"
+  },
+  {
+    "id": "pkmn_0469",
+    "name": "Yanmega",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0469-yanmega.png"
+  },
+  {
+    "id": "pkmn_0470",
+    "name": "Leafeon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0470-leafeon.png"
+  },
+  {
+    "id": "pkmn_0471",
+    "name": "Glaceon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0471-glaceon.png"
+  },
+  {
+    "id": "pkmn_0472",
+    "name": "Gliscor",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0472-gliscor.png"
+  },
+  {
+    "id": "pkmn_0473",
+    "name": "Mamoswine",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0473-mamoswine.png"
+  },
+  {
+    "id": "pkmn_0474",
+    "name": "Porygon-Z",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0474-porygon-z.png"
+  },
+  {
+    "id": "pkmn_0475",
+    "name": "Gallade",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0475-gallade.png"
+  },
+  {
+    "id": "pkmn_0476",
+    "name": "Probopass",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0476-probopass.png"
+  },
+  {
+    "id": "pkmn_0477",
+    "name": "Dusknoir",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0477-dusknoir.png"
+  },
+  {
+    "id": "pkmn_0478",
+    "name": "Froslass",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0478-froslass.png"
+  },
+  {
+    "id": "pkmn_0479",
+    "name": "Rotom",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0479-rotom.png"
+  },
+  {
+    "id": "pkmn_0480",
+    "name": "Uxie",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0480-uxie.png"
+  },
+  {
+    "id": "pkmn_0481",
+    "name": "Mesprit",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0481-mesprit.png"
+  },
+  {
+    "id": "pkmn_0482",
+    "name": "Azelf",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0482-azelf.png"
+  },
+  {
+    "id": "pkmn_0483",
+    "name": "Dialga",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0483-dialga.png"
+  },
+  {
+    "id": "pkmn_0484",
+    "name": "Palkia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0484-palkia.png"
+  },
+  {
+    "id": "pkmn_0485",
+    "name": "Heatran",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0485-heatran.png"
+  },
+  {
+    "id": "pkmn_0486",
+    "name": "Regigigas",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0486-regigigas.png"
+  },
+  {
+    "id": "pkmn_0487",
+    "name": "Giratina Altered",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0487-giratina-altered.png"
+  },
+  {
+    "id": "pkmn_0488",
+    "name": "Cresselia",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0488-cresselia.png"
+  },
+  {
+    "id": "pkmn_0489",
+    "name": "Phione",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0489-phione.png"
+  },
+  {
+    "id": "pkmn_0490",
+    "name": "Manaphy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0490-manaphy.png"
+  },
+  {
+    "id": "pkmn_0491",
+    "name": "Darkrai",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0491-darkrai.png"
+  },
+  {
+    "id": "pkmn_0492",
+    "name": "Shaymin Land",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0492-shaymin-land.png"
+  },
+  {
+    "id": "pkmn_0493",
+    "name": "Arceus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen4/0493-arceus.png"
+  }
+];
+window.QM_POKEMON_GEN5_DATA = [
+  {
+    "id": "pkmn_0494",
+    "name": "Victini",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0494-victini.png"
+  },
+  {
+    "id": "pkmn_0495",
+    "name": "Snivy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0495-snivy.png"
+  },
+  {
+    "id": "pkmn_0496",
+    "name": "Servine",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0496-servine.png"
+  },
+  {
+    "id": "pkmn_0497",
+    "name": "Serperior",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0497-serperior.png"
+  },
+  {
+    "id": "pkmn_0498",
+    "name": "Tepig",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0498-tepig.png"
+  },
+  {
+    "id": "pkmn_0499",
+    "name": "Pignite",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0499-pignite.png"
+  },
+  {
+    "id": "pkmn_0500",
+    "name": "Emboar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0500-emboar.png"
+  },
+  {
+    "id": "pkmn_0501",
+    "name": "Oshawott",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0501-oshawott.png"
+  },
+  {
+    "id": "pkmn_0502",
+    "name": "Dewott",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0502-dewott.png"
+  },
+  {
+    "id": "pkmn_0503",
+    "name": "Samurott",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0503-samurott.png"
+  },
+  {
+    "id": "pkmn_0504",
+    "name": "Patrat",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0504-patrat.png"
+  },
+  {
+    "id": "pkmn_0505",
+    "name": "Watchog",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0505-watchog.png"
+  },
+  {
+    "id": "pkmn_0506",
+    "name": "Lillipup",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0506-lillipup.png"
+  },
+  {
+    "id": "pkmn_0507",
+    "name": "Herdier",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0507-herdier.png"
+  },
+  {
+    "id": "pkmn_0508",
+    "name": "Stoutland",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0508-stoutland.png"
+  },
+  {
+    "id": "pkmn_0509",
+    "name": "Purrloin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0509-purrloin.png"
+  },
+  {
+    "id": "pkmn_0510",
+    "name": "Liepard",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0510-liepard.png"
+  },
+  {
+    "id": "pkmn_0511",
+    "name": "Pansage",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0511-pansage.png"
+  },
+  {
+    "id": "pkmn_0512",
+    "name": "Simisage",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0512-simisage.png"
+  },
+  {
+    "id": "pkmn_0513",
+    "name": "Pansear",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0513-pansear.png"
+  },
+  {
+    "id": "pkmn_0514",
+    "name": "Simisear",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0514-simisear.png"
+  },
+  {
+    "id": "pkmn_0515",
+    "name": "Panpour",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0515-panpour.png"
+  },
+  {
+    "id": "pkmn_0516",
+    "name": "Simipour",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0516-simipour.png"
+  },
+  {
+    "id": "pkmn_0517",
+    "name": "Munna",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0517-munna.png"
+  },
+  {
+    "id": "pkmn_0518",
+    "name": "Musharna",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0518-musharna.png"
+  },
+  {
+    "id": "pkmn_0519",
+    "name": "Pidove",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0519-pidove.png"
+  },
+  {
+    "id": "pkmn_0520",
+    "name": "Tranquill",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0520-tranquill.png"
+  },
+  {
+    "id": "pkmn_0521",
+    "name": "Unfezant",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0521-unfezant.png"
+  },
+  {
+    "id": "pkmn_0522",
+    "name": "Blitzle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0522-blitzle.png"
+  },
+  {
+    "id": "pkmn_0523",
+    "name": "Zebstrika",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0523-zebstrika.png"
+  },
+  {
+    "id": "pkmn_0524",
+    "name": "Roggenrola",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0524-roggenrola.png"
+  },
+  {
+    "id": "pkmn_0525",
+    "name": "Boldore",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0525-boldore.png"
+  },
+  {
+    "id": "pkmn_0526",
+    "name": "Gigalith",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0526-gigalith.png"
+  },
+  {
+    "id": "pkmn_0527",
+    "name": "Woobat",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0527-woobat.png"
+  },
+  {
+    "id": "pkmn_0528",
+    "name": "Swoobat",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0528-swoobat.png"
+  },
+  {
+    "id": "pkmn_0529",
+    "name": "Drilbur",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0529-drilbur.png"
+  },
+  {
+    "id": "pkmn_0530",
+    "name": "Excadrill",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0530-excadrill.png"
+  },
+  {
+    "id": "pkmn_0531",
+    "name": "Audino",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0531-audino.png"
+  },
+  {
+    "id": "pkmn_0532",
+    "name": "Timburr",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0532-timburr.png"
+  },
+  {
+    "id": "pkmn_0533",
+    "name": "Gurdurr",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0533-gurdurr.png"
+  },
+  {
+    "id": "pkmn_0534",
+    "name": "Conkeldurr",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0534-conkeldurr.png"
+  },
+  {
+    "id": "pkmn_0535",
+    "name": "Tympole",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0535-tympole.png"
+  },
+  {
+    "id": "pkmn_0536",
+    "name": "Palpitoad",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0536-palpitoad.png"
+  },
+  {
+    "id": "pkmn_0537",
+    "name": "Seismitoad",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0537-seismitoad.png"
+  },
+  {
+    "id": "pkmn_0538",
+    "name": "Throh",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0538-throh.png"
+  },
+  {
+    "id": "pkmn_0539",
+    "name": "Sawk",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0539-sawk.png"
+  },
+  {
+    "id": "pkmn_0540",
+    "name": "Sewaddle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0540-sewaddle.png"
+  },
+  {
+    "id": "pkmn_0541",
+    "name": "Swadloon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0541-swadloon.png"
+  },
+  {
+    "id": "pkmn_0542",
+    "name": "Leavanny",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0542-leavanny.png"
+  },
+  {
+    "id": "pkmn_0543",
+    "name": "Venipede",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0543-venipede.png"
+  },
+  {
+    "id": "pkmn_0544",
+    "name": "Whirlipede",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0544-whirlipede.png"
+  },
+  {
+    "id": "pkmn_0545",
+    "name": "Scolipede",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0545-scolipede.png"
+  },
+  {
+    "id": "pkmn_0546",
+    "name": "Cottonee",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0546-cottonee.png"
+  },
+  {
+    "id": "pkmn_0547",
+    "name": "Whimsicott",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0547-whimsicott.png"
+  },
+  {
+    "id": "pkmn_0548",
+    "name": "Petilil",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0548-petilil.png"
+  },
+  {
+    "id": "pkmn_0549",
+    "name": "Lilligant",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0549-lilligant.png"
+  },
+  {
+    "id": "pkmn_0550",
+    "name": "Basculin Red Striped",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0550-basculin-red-striped.png"
+  },
+  {
+    "id": "pkmn_0551",
+    "name": "Sandile",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0551-sandile.png"
+  },
+  {
+    "id": "pkmn_0552",
+    "name": "Krokorok",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0552-krokorok.png"
+  },
+  {
+    "id": "pkmn_0553",
+    "name": "Krookodile",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0553-krookodile.png"
+  },
+  {
+    "id": "pkmn_0554",
+    "name": "Darumaka",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0554-darumaka.png"
+  },
+  {
+    "id": "pkmn_0555",
+    "name": "Darmanitan Standard",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0555-darmanitan-standard.png"
+  },
+  {
+    "id": "pkmn_0556",
+    "name": "Maractus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0556-maractus.png"
+  },
+  {
+    "id": "pkmn_0557",
+    "name": "Dwebble",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0557-dwebble.png"
+  },
+  {
+    "id": "pkmn_0558",
+    "name": "Crustle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0558-crustle.png"
+  },
+  {
+    "id": "pkmn_0559",
+    "name": "Scraggy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0559-scraggy.png"
+  },
+  {
+    "id": "pkmn_0560",
+    "name": "Scrafty",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0560-scrafty.png"
+  },
+  {
+    "id": "pkmn_0561",
+    "name": "Sigilyph",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0561-sigilyph.png"
+  },
+  {
+    "id": "pkmn_0562",
+    "name": "Yamask",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0562-yamask.png"
+  },
+  {
+    "id": "pkmn_0563",
+    "name": "Cofagrigus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0563-cofagrigus.png"
+  },
+  {
+    "id": "pkmn_0564",
+    "name": "Tirtouga",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0564-tirtouga.png"
+  },
+  {
+    "id": "pkmn_0565",
+    "name": "Carracosta",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0565-carracosta.png"
+  },
+  {
+    "id": "pkmn_0566",
+    "name": "Archen",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0566-archen.png"
+  },
+  {
+    "id": "pkmn_0567",
+    "name": "Archeops",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0567-archeops.png"
+  },
+  {
+    "id": "pkmn_0568",
+    "name": "Trubbish",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0568-trubbish.png"
+  },
+  {
+    "id": "pkmn_0569",
+    "name": "Garbodor",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0569-garbodor.png"
+  },
+  {
+    "id": "pkmn_0570",
+    "name": "Zorua",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0570-zorua.png"
+  },
+  {
+    "id": "pkmn_0571",
+    "name": "Zoroark",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0571-zoroark.png"
+  },
+  {
+    "id": "pkmn_0572",
+    "name": "Minccino",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0572-minccino.png"
+  },
+  {
+    "id": "pkmn_0573",
+    "name": "Cinccino",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0573-cinccino.png"
+  },
+  {
+    "id": "pkmn_0574",
+    "name": "Gothita",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0574-gothita.png"
+  },
+  {
+    "id": "pkmn_0575",
+    "name": "Gothorita",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0575-gothorita.png"
+  },
+  {
+    "id": "pkmn_0576",
+    "name": "Gothitelle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0576-gothitelle.png"
+  },
+  {
+    "id": "pkmn_0577",
+    "name": "Solosis",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0577-solosis.png"
+  },
+  {
+    "id": "pkmn_0578",
+    "name": "Duosion",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0578-duosion.png"
+  },
+  {
+    "id": "pkmn_0579",
+    "name": "Reuniclus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0579-reuniclus.png"
+  },
+  {
+    "id": "pkmn_0580",
+    "name": "Ducklett",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0580-ducklett.png"
+  },
+  {
+    "id": "pkmn_0581",
+    "name": "Swanna",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0581-swanna.png"
+  },
+  {
+    "id": "pkmn_0582",
+    "name": "Vanillite",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0582-vanillite.png"
+  },
+  {
+    "id": "pkmn_0583",
+    "name": "Vanillish",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0583-vanillish.png"
+  },
+  {
+    "id": "pkmn_0584",
+    "name": "Vanilluxe",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0584-vanilluxe.png"
+  },
+  {
+    "id": "pkmn_0585",
+    "name": "Deerling",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0585-deerling.png"
+  },
+  {
+    "id": "pkmn_0586",
+    "name": "Sawsbuck",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0586-sawsbuck.png"
+  },
+  {
+    "id": "pkmn_0587",
+    "name": "Emolga",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0587-emolga.png"
+  },
+  {
+    "id": "pkmn_0588",
+    "name": "Karrablast",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0588-karrablast.png"
+  },
+  {
+    "id": "pkmn_0589",
+    "name": "Escavalier",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0589-escavalier.png"
+  },
+  {
+    "id": "pkmn_0590",
+    "name": "Foongus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0590-foongus.png"
+  },
+  {
+    "id": "pkmn_0591",
+    "name": "Amoonguss",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0591-amoonguss.png"
+  },
+  {
+    "id": "pkmn_0592",
+    "name": "Frillish Male",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0592-frillish-male.png"
+  },
+  {
+    "id": "pkmn_0593",
+    "name": "Jellicent Male",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0593-jellicent-male.png"
+  },
+  {
+    "id": "pkmn_0594",
+    "name": "Alomomola",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0594-alomomola.png"
+  },
+  {
+    "id": "pkmn_0595",
+    "name": "Joltik",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0595-joltik.png"
+  },
+  {
+    "id": "pkmn_0596",
+    "name": "Galvantula",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0596-galvantula.png"
+  },
+  {
+    "id": "pkmn_0597",
+    "name": "Ferroseed",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0597-ferroseed.png"
+  },
+  {
+    "id": "pkmn_0598",
+    "name": "Ferrothorn",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0598-ferrothorn.png"
+  },
+  {
+    "id": "pkmn_0599",
+    "name": "Klink",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0599-klink.png"
+  },
+  {
+    "id": "pkmn_0600",
+    "name": "Klang",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0600-klang.png"
+  },
+  {
+    "id": "pkmn_0601",
+    "name": "Klinklang",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0601-klinklang.png"
+  },
+  {
+    "id": "pkmn_0602",
+    "name": "Tynamo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0602-tynamo.png"
+  },
+  {
+    "id": "pkmn_0603",
+    "name": "Eelektrik",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0603-eelektrik.png"
+  },
+  {
+    "id": "pkmn_0604",
+    "name": "Eelektross",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0604-eelektross.png"
+  },
+  {
+    "id": "pkmn_0605",
+    "name": "Elgyem",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0605-elgyem.png"
+  },
+  {
+    "id": "pkmn_0606",
+    "name": "Beheeyem",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0606-beheeyem.png"
+  },
+  {
+    "id": "pkmn_0607",
+    "name": "Litwick",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0607-litwick.png"
+  },
+  {
+    "id": "pkmn_0608",
+    "name": "Lampent",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0608-lampent.png"
+  },
+  {
+    "id": "pkmn_0609",
+    "name": "Chandelure",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0609-chandelure.png"
+  },
+  {
+    "id": "pkmn_0610",
+    "name": "Axew",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0610-axew.png"
+  },
+  {
+    "id": "pkmn_0611",
+    "name": "Fraxure",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0611-fraxure.png"
+  },
+  {
+    "id": "pkmn_0612",
+    "name": "Haxorus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0612-haxorus.png"
+  },
+  {
+    "id": "pkmn_0613",
+    "name": "Cubchoo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0613-cubchoo.png"
+  },
+  {
+    "id": "pkmn_0614",
+    "name": "Beartic",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0614-beartic.png"
+  },
+  {
+    "id": "pkmn_0615",
+    "name": "Cryogonal",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0615-cryogonal.png"
+  },
+  {
+    "id": "pkmn_0616",
+    "name": "Shelmet",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0616-shelmet.png"
+  },
+  {
+    "id": "pkmn_0617",
+    "name": "Accelgor",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0617-accelgor.png"
+  },
+  {
+    "id": "pkmn_0618",
+    "name": "Stunfisk",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0618-stunfisk.png"
+  },
+  {
+    "id": "pkmn_0619",
+    "name": "Mienfoo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0619-mienfoo.png"
+  },
+  {
+    "id": "pkmn_0620",
+    "name": "Mienshao",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0620-mienshao.png"
+  },
+  {
+    "id": "pkmn_0621",
+    "name": "Druddigon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0621-druddigon.png"
+  },
+  {
+    "id": "pkmn_0622",
+    "name": "Golett",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0622-golett.png"
+  },
+  {
+    "id": "pkmn_0623",
+    "name": "Golurk",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0623-golurk.png"
+  },
+  {
+    "id": "pkmn_0624",
+    "name": "Pawniard",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0624-pawniard.png"
+  },
+  {
+    "id": "pkmn_0625",
+    "name": "Bisharp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0625-bisharp.png"
+  },
+  {
+    "id": "pkmn_0626",
+    "name": "Bouffalant",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0626-bouffalant.png"
+  },
+  {
+    "id": "pkmn_0627",
+    "name": "Rufflet",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0627-rufflet.png"
+  },
+  {
+    "id": "pkmn_0628",
+    "name": "Braviary",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0628-braviary.png"
+  },
+  {
+    "id": "pkmn_0629",
+    "name": "Vullaby",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0629-vullaby.png"
+  },
+  {
+    "id": "pkmn_0630",
+    "name": "Mandibuzz",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0630-mandibuzz.png"
+  },
+  {
+    "id": "pkmn_0631",
+    "name": "Heatmor",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0631-heatmor.png"
+  },
+  {
+    "id": "pkmn_0632",
+    "name": "Durant",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0632-durant.png"
+  },
+  {
+    "id": "pkmn_0633",
+    "name": "Deino",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0633-deino.png"
+  },
+  {
+    "id": "pkmn_0634",
+    "name": "Zweilous",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0634-zweilous.png"
+  },
+  {
+    "id": "pkmn_0635",
+    "name": "Hydreigon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0635-hydreigon.png"
+  },
+  {
+    "id": "pkmn_0636",
+    "name": "Larvesta",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0636-larvesta.png"
+  },
+  {
+    "id": "pkmn_0637",
+    "name": "Volcarona",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0637-volcarona.png"
+  },
+  {
+    "id": "pkmn_0638",
+    "name": "Cobalion",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0638-cobalion.png"
+  },
+  {
+    "id": "pkmn_0639",
+    "name": "Terrakion",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0639-terrakion.png"
+  },
+  {
+    "id": "pkmn_0640",
+    "name": "Virizion",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0640-virizion.png"
+  },
+  {
+    "id": "pkmn_0641",
+    "name": "Tornadus Incarnate",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0641-tornadus-incarnate.png"
+  },
+  {
+    "id": "pkmn_0642",
+    "name": "Thundurus Incarnate",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0642-thundurus-incarnate.png"
+  },
+  {
+    "id": "pkmn_0643",
+    "name": "Reshiram",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0643-reshiram.png"
+  },
+  {
+    "id": "pkmn_0644",
+    "name": "Zekrom",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0644-zekrom.png"
+  },
+  {
+    "id": "pkmn_0645",
+    "name": "Landorus Incarnate",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0645-landorus-incarnate.png"
+  },
+  {
+    "id": "pkmn_0646",
+    "name": "Kyurem",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0646-kyurem.png"
+  },
+  {
+    "id": "pkmn_0647",
+    "name": "Keldeo Ordinary",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0647-keldeo-ordinary.png"
+  },
+  {
+    "id": "pkmn_0648",
+    "name": "Meloetta Aria",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0648-meloetta-aria.png"
+  },
+  {
+    "id": "pkmn_0649",
+    "name": "Genesect",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen5/0649-genesect.png"
+  }
+];
+window.QM_POKEMON_GEN6_DATA = [
+  {
+    "id": "pkmn_0650",
+    "name": "Chespin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0650-chespin.png"
+  },
+  {
+    "id": "pkmn_0651",
+    "name": "Quilladin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0651-quilladin.png"
+  },
+  {
+    "id": "pkmn_0652",
+    "name": "Chesnaught",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0652-chesnaught.png"
+  },
+  {
+    "id": "pkmn_0653",
+    "name": "Fennekin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0653-fennekin.png"
+  },
+  {
+    "id": "pkmn_0654",
+    "name": "Braixen",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0654-braixen.png"
+  },
+  {
+    "id": "pkmn_0655",
+    "name": "Delphox",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0655-delphox.png"
+  },
+  {
+    "id": "pkmn_0656",
+    "name": "Froakie",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0656-froakie.png"
+  },
+  {
+    "id": "pkmn_0657",
+    "name": "Frogadier",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0657-frogadier.png"
+  },
+  {
+    "id": "pkmn_0658",
+    "name": "Greninja",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0658-greninja.png"
+  },
+  {
+    "id": "pkmn_0659",
+    "name": "Bunnelby",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0659-bunnelby.png"
+  },
+  {
+    "id": "pkmn_0660",
+    "name": "Diggersby",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0660-diggersby.png"
+  },
+  {
+    "id": "pkmn_0661",
+    "name": "Fletchling",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0661-fletchling.png"
+  },
+  {
+    "id": "pkmn_0662",
+    "name": "Fletchinder",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0662-fletchinder.png"
+  },
+  {
+    "id": "pkmn_0663",
+    "name": "Talonflame",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0663-talonflame.png"
+  },
+  {
+    "id": "pkmn_0664",
+    "name": "Scatterbug",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0664-scatterbug.png"
+  },
+  {
+    "id": "pkmn_0665",
+    "name": "Spewpa",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0665-spewpa.png"
+  },
+  {
+    "id": "pkmn_0666",
+    "name": "Vivillon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0666-vivillon.png"
+  },
+  {
+    "id": "pkmn_0667",
+    "name": "Litleo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0667-litleo.png"
+  },
+  {
+    "id": "pkmn_0668",
+    "name": "Pyroar Male",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0668-pyroar-male.png"
+  },
+  {
+    "id": "pkmn_0669",
+    "name": "Flabébé",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0669-flabebe.png"
+  },
+  {
+    "id": "pkmn_0670",
+    "name": "Floette",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0670-floette.png"
+  },
+  {
+    "id": "pkmn_0671",
+    "name": "Florges",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0671-florges.png"
+  },
+  {
+    "id": "pkmn_0672",
+    "name": "Skiddo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0672-skiddo.png"
+  },
+  {
+    "id": "pkmn_0673",
+    "name": "Gogoat",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0673-gogoat.png"
+  },
+  {
+    "id": "pkmn_0674",
+    "name": "Pancham",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0674-pancham.png"
+  },
+  {
+    "id": "pkmn_0675",
+    "name": "Pangoro",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0675-pangoro.png"
+  },
+  {
+    "id": "pkmn_0676",
+    "name": "Furfrou",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0676-furfrou.png"
+  },
+  {
+    "id": "pkmn_0677",
+    "name": "Espurr",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0677-espurr.png"
+  },
+  {
+    "id": "pkmn_0678",
+    "name": "Meowstic Male",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0678-meowstic-male.png"
+  },
+  {
+    "id": "pkmn_0679",
+    "name": "Honedge",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0679-honedge.png"
+  },
+  {
+    "id": "pkmn_0680",
+    "name": "Doublade",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0680-doublade.png"
+  },
+  {
+    "id": "pkmn_0681",
+    "name": "Aegislash Shield",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0681-aegislash-shield.png"
+  },
+  {
+    "id": "pkmn_0682",
+    "name": "Spritzee",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0682-spritzee.png"
+  },
+  {
+    "id": "pkmn_0683",
+    "name": "Aromatisse",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0683-aromatisse.png"
+  },
+  {
+    "id": "pkmn_0684",
+    "name": "Swirlix",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0684-swirlix.png"
+  },
+  {
+    "id": "pkmn_0685",
+    "name": "Slurpuff",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0685-slurpuff.png"
+  },
+  {
+    "id": "pkmn_0686",
+    "name": "Inkay",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0686-inkay.png"
+  },
+  {
+    "id": "pkmn_0687",
+    "name": "Malamar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0687-malamar.png"
+  },
+  {
+    "id": "pkmn_0688",
+    "name": "Binacle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0688-binacle.png"
+  },
+  {
+    "id": "pkmn_0689",
+    "name": "Barbaracle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0689-barbaracle.png"
+  },
+  {
+    "id": "pkmn_0690",
+    "name": "Skrelp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0690-skrelp.png"
+  },
+  {
+    "id": "pkmn_0691",
+    "name": "Dragalge",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0691-dragalge.png"
+  },
+  {
+    "id": "pkmn_0692",
+    "name": "Clauncher",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0692-clauncher.png"
+  },
+  {
+    "id": "pkmn_0693",
+    "name": "Clawitzer",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0693-clawitzer.png"
+  },
+  {
+    "id": "pkmn_0694",
+    "name": "Helioptile",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0694-helioptile.png"
+  },
+  {
+    "id": "pkmn_0695",
+    "name": "Heliolisk",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0695-heliolisk.png"
+  },
+  {
+    "id": "pkmn_0696",
+    "name": "Tyrunt",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0696-tyrunt.png"
+  },
+  {
+    "id": "pkmn_0697",
+    "name": "Tyrantrum",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0697-tyrantrum.png"
+  },
+  {
+    "id": "pkmn_0698",
+    "name": "Amaura",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0698-amaura.png"
+  },
+  {
+    "id": "pkmn_0699",
+    "name": "Aurorus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0699-aurorus.png"
+  },
+  {
+    "id": "pkmn_0700",
+    "name": "Sylveon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0700-sylveon.png"
+  },
+  {
+    "id": "pkmn_0701",
+    "name": "Hawlucha",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0701-hawlucha.png"
+  },
+  {
+    "id": "pkmn_0702",
+    "name": "Dedenne",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0702-dedenne.png"
+  },
+  {
+    "id": "pkmn_0703",
+    "name": "Carbink",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0703-carbink.png"
+  },
+  {
+    "id": "pkmn_0704",
+    "name": "Goomy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0704-goomy.png"
+  },
+  {
+    "id": "pkmn_0705",
+    "name": "Sliggoo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0705-sliggoo.png"
+  },
+  {
+    "id": "pkmn_0706",
+    "name": "Goodra",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0706-goodra.png"
+  },
+  {
+    "id": "pkmn_0707",
+    "name": "Klefki",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0707-klefki.png"
+  },
+  {
+    "id": "pkmn_0708",
+    "name": "Phantump",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0708-phantump.png"
+  },
+  {
+    "id": "pkmn_0709",
+    "name": "Trevenant",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0709-trevenant.png"
+  },
+  {
+    "id": "pkmn_0710",
+    "name": "Pumpkaboo Average",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0710-pumpkaboo-average.png"
+  },
+  {
+    "id": "pkmn_0711",
+    "name": "Gourgeist Average",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0711-gourgeist-average.png"
+  },
+  {
+    "id": "pkmn_0712",
+    "name": "Bergmite",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0712-bergmite.png"
+  },
+  {
+    "id": "pkmn_0713",
+    "name": "Avalugg",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0713-avalugg.png"
+  },
+  {
+    "id": "pkmn_0714",
+    "name": "Noibat",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0714-noibat.png"
+  },
+  {
+    "id": "pkmn_0715",
+    "name": "Noivern",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0715-noivern.png"
+  },
+  {
+    "id": "pkmn_0716",
+    "name": "Xerneas",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0716-xerneas.png"
+  },
+  {
+    "id": "pkmn_0717",
+    "name": "Yveltal",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0717-yveltal.png"
+  },
+  {
+    "id": "pkmn_0718",
+    "name": "Zygarde 50",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0718-zygarde-50.png"
+  },
+  {
+    "id": "pkmn_0719",
+    "name": "Diancie",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0719-diancie.png"
+  },
+  {
+    "id": "pkmn_0720",
+    "name": "Hoopa",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0720-hoopa.png"
+  },
+  {
+    "id": "pkmn_0721",
+    "name": "Volcanion",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen6/0721-volcanion.png"
+  }
+];
+window.QM_POKEMON_GEN7_DATA = [
+  {
+    "id": "pkmn_0722",
+    "name": "Rowlet",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0722-rowlet.png"
+  },
+  {
+    "id": "pkmn_0723",
+    "name": "Dartrix",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0723-dartrix.png"
+  },
+  {
+    "id": "pkmn_0724",
+    "name": "Decidueye",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0724-decidueye.png"
+  },
+  {
+    "id": "pkmn_0725",
+    "name": "Litten",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0725-litten.png"
+  },
+  {
+    "id": "pkmn_0726",
+    "name": "Torracat",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0726-torracat.png"
+  },
+  {
+    "id": "pkmn_0727",
+    "name": "Incineroar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0727-incineroar.png"
+  },
+  {
+    "id": "pkmn_0728",
+    "name": "Popplio",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0728-popplio.png"
+  },
+  {
+    "id": "pkmn_0729",
+    "name": "Brionne",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0729-brionne.png"
+  },
+  {
+    "id": "pkmn_0730",
+    "name": "Primarina",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0730-primarina.png"
+  },
+  {
+    "id": "pkmn_0731",
+    "name": "Pikipek",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0731-pikipek.png"
+  },
+  {
+    "id": "pkmn_0732",
+    "name": "Trumbeak",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0732-trumbeak.png"
+  },
+  {
+    "id": "pkmn_0733",
+    "name": "Toucannon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0733-toucannon.png"
+  },
+  {
+    "id": "pkmn_0734",
+    "name": "Yungoos",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0734-yungoos.png"
+  },
+  {
+    "id": "pkmn_0735",
+    "name": "Gumshoos",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0735-gumshoos.png"
+  },
+  {
+    "id": "pkmn_0736",
+    "name": "Grubbin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0736-grubbin.png"
+  },
+  {
+    "id": "pkmn_0737",
+    "name": "Charjabug",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0737-charjabug.png"
+  },
+  {
+    "id": "pkmn_0738",
+    "name": "Vikavolt",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0738-vikavolt.png"
+  },
+  {
+    "id": "pkmn_0739",
+    "name": "Crabrawler",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0739-crabrawler.png"
+  },
+  {
+    "id": "pkmn_0740",
+    "name": "Crabominable",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0740-crabominable.png"
+  },
+  {
+    "id": "pkmn_0741",
+    "name": "Oricorio Baile",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0741-oricorio-baile.png"
+  },
+  {
+    "id": "pkmn_0742",
+    "name": "Cutiefly",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0742-cutiefly.png"
+  },
+  {
+    "id": "pkmn_0743",
+    "name": "Ribombee",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0743-ribombee.png"
+  },
+  {
+    "id": "pkmn_0744",
+    "name": "Rockruff",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0744-rockruff.png"
+  },
+  {
+    "id": "pkmn_0745",
+    "name": "Lycanroc Midday",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0745-lycanroc-midday.png"
+  },
+  {
+    "id": "pkmn_0746",
+    "name": "Wishiwashi Solo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0746-wishiwashi-solo.png"
+  },
+  {
+    "id": "pkmn_0747",
+    "name": "Mareanie",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0747-mareanie.png"
+  },
+  {
+    "id": "pkmn_0748",
+    "name": "Toxapex",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0748-toxapex.png"
+  },
+  {
+    "id": "pkmn_0749",
+    "name": "Mudbray",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0749-mudbray.png"
+  },
+  {
+    "id": "pkmn_0750",
+    "name": "Mudsdale",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0750-mudsdale.png"
+  },
+  {
+    "id": "pkmn_0751",
+    "name": "Dewpider",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0751-dewpider.png"
+  },
+  {
+    "id": "pkmn_0752",
+    "name": "Araquanid",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0752-araquanid.png"
+  },
+  {
+    "id": "pkmn_0753",
+    "name": "Fomantis",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0753-fomantis.png"
+  },
+  {
+    "id": "pkmn_0754",
+    "name": "Lurantis",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0754-lurantis.png"
+  },
+  {
+    "id": "pkmn_0755",
+    "name": "Morelull",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0755-morelull.png"
+  },
+  {
+    "id": "pkmn_0756",
+    "name": "Shiinotic",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0756-shiinotic.png"
+  },
+  {
+    "id": "pkmn_0757",
+    "name": "Salandit",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0757-salandit.png"
+  },
+  {
+    "id": "pkmn_0758",
+    "name": "Salazzle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0758-salazzle.png"
+  },
+  {
+    "id": "pkmn_0759",
+    "name": "Stufful",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0759-stufful.png"
+  },
+  {
+    "id": "pkmn_0760",
+    "name": "Bewear",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0760-bewear.png"
+  },
+  {
+    "id": "pkmn_0761",
+    "name": "Bounsweet",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0761-bounsweet.png"
+  },
+  {
+    "id": "pkmn_0762",
+    "name": "Steenee",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0762-steenee.png"
+  },
+  {
+    "id": "pkmn_0763",
+    "name": "Tsareena",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0763-tsareena.png"
+  },
+  {
+    "id": "pkmn_0764",
+    "name": "Comfey",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0764-comfey.png"
+  },
+  {
+    "id": "pkmn_0765",
+    "name": "Oranguru",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0765-oranguru.png"
+  },
+  {
+    "id": "pkmn_0766",
+    "name": "Passimian",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0766-passimian.png"
+  },
+  {
+    "id": "pkmn_0767",
+    "name": "Wimpod",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0767-wimpod.png"
+  },
+  {
+    "id": "pkmn_0768",
+    "name": "Golisopod",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0768-golisopod.png"
+  },
+  {
+    "id": "pkmn_0769",
+    "name": "Sandygast",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0769-sandygast.png"
+  },
+  {
+    "id": "pkmn_0770",
+    "name": "Palossand",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0770-palossand.png"
+  },
+  {
+    "id": "pkmn_0771",
+    "name": "Pyukumuku",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0771-pyukumuku.png"
+  },
+  {
+    "id": "pkmn_0772",
+    "name": "Type: Null",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0772-type-null.png"
+  },
+  {
+    "id": "pkmn_0773",
+    "name": "Silvally",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0773-silvally.png"
+  },
+  {
+    "id": "pkmn_0774",
+    "name": "Minior Red Meteor",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0774-minior-red-meteor.png"
+  },
+  {
+    "id": "pkmn_0775",
+    "name": "Komala",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0775-komala.png"
+  },
+  {
+    "id": "pkmn_0776",
+    "name": "Turtonator",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0776-turtonator.png"
+  },
+  {
+    "id": "pkmn_0777",
+    "name": "Togedemaru",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0777-togedemaru.png"
+  },
+  {
+    "id": "pkmn_0778",
+    "name": "Mimikyu Disguised",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0778-mimikyu-disguised.png"
+  },
+  {
+    "id": "pkmn_0779",
+    "name": "Bruxish",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0779-bruxish.png"
+  },
+  {
+    "id": "pkmn_0780",
+    "name": "Drampa",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0780-drampa.png"
+  },
+  {
+    "id": "pkmn_0781",
+    "name": "Dhelmise",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0781-dhelmise.png"
+  },
+  {
+    "id": "pkmn_0782",
+    "name": "Jangmo-o",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0782-jangmo-o.png"
+  },
+  {
+    "id": "pkmn_0783",
+    "name": "Hakamo-o",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0783-hakamo-o.png"
+  },
+  {
+    "id": "pkmn_0784",
+    "name": "Kommo-o",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0784-kommo-o.png"
+  },
+  {
+    "id": "pkmn_0785",
+    "name": "Tapu Koko",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0785-tapu-koko.png"
+  },
+  {
+    "id": "pkmn_0786",
+    "name": "Tapu Lele",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0786-tapu-lele.png"
+  },
+  {
+    "id": "pkmn_0787",
+    "name": "Tapu Bulu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0787-tapu-bulu.png"
+  },
+  {
+    "id": "pkmn_0788",
+    "name": "Tapu Fini",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0788-tapu-fini.png"
+  },
+  {
+    "id": "pkmn_0789",
+    "name": "Cosmog",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0789-cosmog.png"
+  },
+  {
+    "id": "pkmn_0790",
+    "name": "Cosmoem",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0790-cosmoem.png"
+  },
+  {
+    "id": "pkmn_0791",
+    "name": "Solgaleo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0791-solgaleo.png"
+  },
+  {
+    "id": "pkmn_0792",
+    "name": "Lunala",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0792-lunala.png"
+  },
+  {
+    "id": "pkmn_0793",
+    "name": "Nihilego",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0793-nihilego.png"
+  },
+  {
+    "id": "pkmn_0794",
+    "name": "Buzzwole",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0794-buzzwole.png"
+  },
+  {
+    "id": "pkmn_0795",
+    "name": "Pheromosa",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0795-pheromosa.png"
+  },
+  {
+    "id": "pkmn_0796",
+    "name": "Xurkitree",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0796-xurkitree.png"
+  },
+  {
+    "id": "pkmn_0797",
+    "name": "Celesteela",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0797-celesteela.png"
+  },
+  {
+    "id": "pkmn_0798",
+    "name": "Kartana",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0798-kartana.png"
+  },
+  {
+    "id": "pkmn_0799",
+    "name": "Guzzlord",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0799-guzzlord.png"
+  },
+  {
+    "id": "pkmn_0800",
+    "name": "Necrozma",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0800-necrozma.png"
+  },
+  {
+    "id": "pkmn_0801",
+    "name": "Magearna",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0801-magearna.png"
+  },
+  {
+    "id": "pkmn_0802",
+    "name": "Marshadow",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0802-marshadow.png"
+  },
+  {
+    "id": "pkmn_0803",
+    "name": "Poipole",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0803-poipole.png"
+  },
+  {
+    "id": "pkmn_0804",
+    "name": "Naganadel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0804-naganadel.png"
+  },
+  {
+    "id": "pkmn_0805",
+    "name": "Stakataka",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0805-stakataka.png"
+  },
+  {
+    "id": "pkmn_0806",
+    "name": "Blacephalon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0806-blacephalon.png"
+  },
+  {
+    "id": "pkmn_0807",
+    "name": "Zeraora",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0807-zeraora.png"
+  },
+  {
+    "id": "pkmn_0808",
+    "name": "Meltan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0808-meltan.png"
+  },
+  {
+    "id": "pkmn_0809",
+    "name": "Melmetal",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen7/0809-melmetal.png"
+  }
+];
+window.QM_POKEMON_GEN8_DATA = [
+  {
+    "id": "pkmn_0810",
+    "name": "Grookey",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0810-grookey.png"
+  },
+  {
+    "id": "pkmn_0811",
+    "name": "Thwackey",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0811-thwackey.png"
+  },
+  {
+    "id": "pkmn_0812",
+    "name": "Rillaboom",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0812-rillaboom.png"
+  },
+  {
+    "id": "pkmn_0813",
+    "name": "Scorbunny",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0813-scorbunny.png"
+  },
+  {
+    "id": "pkmn_0814",
+    "name": "Raboot",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0814-raboot.png"
+  },
+  {
+    "id": "pkmn_0815",
+    "name": "Cinderace",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0815-cinderace.png"
+  },
+  {
+    "id": "pkmn_0816",
+    "name": "Sobble",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0816-sobble.png"
+  },
+  {
+    "id": "pkmn_0817",
+    "name": "Drizzile",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0817-drizzile.png"
+  },
+  {
+    "id": "pkmn_0818",
+    "name": "Inteleon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0818-inteleon.png"
+  },
+  {
+    "id": "pkmn_0819",
+    "name": "Skwovet",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0819-skwovet.png"
+  },
+  {
+    "id": "pkmn_0820",
+    "name": "Greedent",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0820-greedent.png"
+  },
+  {
+    "id": "pkmn_0821",
+    "name": "Rookidee",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0821-rookidee.png"
+  },
+  {
+    "id": "pkmn_0822",
+    "name": "Corvisquire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0822-corvisquire.png"
+  },
+  {
+    "id": "pkmn_0823",
+    "name": "Corviknight",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0823-corviknight.png"
+  },
+  {
+    "id": "pkmn_0824",
+    "name": "Blipbug",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0824-blipbug.png"
+  },
+  {
+    "id": "pkmn_0825",
+    "name": "Dottler",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0825-dottler.png"
+  },
+  {
+    "id": "pkmn_0826",
+    "name": "Orbeetle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0826-orbeetle.png"
+  },
+  {
+    "id": "pkmn_0827",
+    "name": "Nickit",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0827-nickit.png"
+  },
+  {
+    "id": "pkmn_0828",
+    "name": "Thievul",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0828-thievul.png"
+  },
+  {
+    "id": "pkmn_0829",
+    "name": "Gossifleur",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0829-gossifleur.png"
+  },
+  {
+    "id": "pkmn_0830",
+    "name": "Eldegoss",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0830-eldegoss.png"
+  },
+  {
+    "id": "pkmn_0831",
+    "name": "Wooloo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0831-wooloo.png"
+  },
+  {
+    "id": "pkmn_0832",
+    "name": "Dubwool",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0832-dubwool.png"
+  },
+  {
+    "id": "pkmn_0833",
+    "name": "Chewtle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0833-chewtle.png"
+  },
+  {
+    "id": "pkmn_0834",
+    "name": "Drednaw",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0834-drednaw.png"
+  },
+  {
+    "id": "pkmn_0835",
+    "name": "Yamper",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0835-yamper.png"
+  },
+  {
+    "id": "pkmn_0836",
+    "name": "Boltund",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0836-boltund.png"
+  },
+  {
+    "id": "pkmn_0837",
+    "name": "Rolycoly",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0837-rolycoly.png"
+  },
+  {
+    "id": "pkmn_0838",
+    "name": "Carkol",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0838-carkol.png"
+  },
+  {
+    "id": "pkmn_0839",
+    "name": "Coalossal",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0839-coalossal.png"
+  },
+  {
+    "id": "pkmn_0840",
+    "name": "Applin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0840-applin.png"
+  },
+  {
+    "id": "pkmn_0841",
+    "name": "Flapple",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0841-flapple.png"
+  },
+  {
+    "id": "pkmn_0842",
+    "name": "Appletun",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0842-appletun.png"
+  },
+  {
+    "id": "pkmn_0843",
+    "name": "Silicobra",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0843-silicobra.png"
+  },
+  {
+    "id": "pkmn_0844",
+    "name": "Sandaconda",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0844-sandaconda.png"
+  },
+  {
+    "id": "pkmn_0845",
+    "name": "Cramorant",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0845-cramorant.png"
+  },
+  {
+    "id": "pkmn_0846",
+    "name": "Arrokuda",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0846-arrokuda.png"
+  },
+  {
+    "id": "pkmn_0847",
+    "name": "Barraskewda",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0847-barraskewda.png"
+  },
+  {
+    "id": "pkmn_0848",
+    "name": "Toxel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0848-toxel.png"
+  },
+  {
+    "id": "pkmn_0849",
+    "name": "Toxtricity Amped",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0849-toxtricity-amped.png"
+  },
+  {
+    "id": "pkmn_0850",
+    "name": "Sizzlipede",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0850-sizzlipede.png"
+  },
+  {
+    "id": "pkmn_0851",
+    "name": "Centiskorch",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0851-centiskorch.png"
+  },
+  {
+    "id": "pkmn_0852",
+    "name": "Clobbopus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0852-clobbopus.png"
+  },
+  {
+    "id": "pkmn_0853",
+    "name": "Grapploct",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0853-grapploct.png"
+  },
+  {
+    "id": "pkmn_0854",
+    "name": "Sinistea",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0854-sinistea.png"
+  },
+  {
+    "id": "pkmn_0855",
+    "name": "Polteageist",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0855-polteageist.png"
+  },
+  {
+    "id": "pkmn_0856",
+    "name": "Hatenna",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0856-hatenna.png"
+  },
+  {
+    "id": "pkmn_0857",
+    "name": "Hattrem",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0857-hattrem.png"
+  },
+  {
+    "id": "pkmn_0858",
+    "name": "Hatterene",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0858-hatterene.png"
+  },
+  {
+    "id": "pkmn_0859",
+    "name": "Impidimp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0859-impidimp.png"
+  },
+  {
+    "id": "pkmn_0860",
+    "name": "Morgrem",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0860-morgrem.png"
+  },
+  {
+    "id": "pkmn_0861",
+    "name": "Grimmsnarl",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0861-grimmsnarl.png"
+  },
+  {
+    "id": "pkmn_0862",
+    "name": "Obstagoon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0862-obstagoon.png"
+  },
+  {
+    "id": "pkmn_0863",
+    "name": "Perrserker",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0863-perrserker.png"
+  },
+  {
+    "id": "pkmn_0864",
+    "name": "Cursola",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0864-cursola.png"
+  },
+  {
+    "id": "pkmn_0865",
+    "name": "Sirfetch'd",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0865-sirfetchd.png"
+  },
+  {
+    "id": "pkmn_0866",
+    "name": "Mr. Rime",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0866-mr-rime.png"
+  },
+  {
+    "id": "pkmn_0867",
+    "name": "Runerigus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0867-runerigus.png"
+  },
+  {
+    "id": "pkmn_0868",
+    "name": "Milcery",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0868-milcery.png"
+  },
+  {
+    "id": "pkmn_0869",
+    "name": "Alcremie",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0869-alcremie.png"
+  },
+  {
+    "id": "pkmn_0870",
+    "name": "Falinks",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0870-falinks.png"
+  },
+  {
+    "id": "pkmn_0871",
+    "name": "Pincurchin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0871-pincurchin.png"
+  },
+  {
+    "id": "pkmn_0872",
+    "name": "Snom",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0872-snom.png"
+  },
+  {
+    "id": "pkmn_0873",
+    "name": "Frosmoth",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0873-frosmoth.png"
+  },
+  {
+    "id": "pkmn_0874",
+    "name": "Stonjourner",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0874-stonjourner.png"
+  },
+  {
+    "id": "pkmn_0875",
+    "name": "Eiscue Ice",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0875-eiscue-ice.png"
+  },
+  {
+    "id": "pkmn_0876",
+    "name": "Indeedee Male",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0876-indeedee-male.png"
+  },
+  {
+    "id": "pkmn_0877",
+    "name": "Morpeko Full Belly",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0877-morpeko-full-belly.png"
+  },
+  {
+    "id": "pkmn_0878",
+    "name": "Cufant",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0878-cufant.png"
+  },
+  {
+    "id": "pkmn_0879",
+    "name": "Copperajah",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0879-copperajah.png"
+  },
+  {
+    "id": "pkmn_0880",
+    "name": "Dracozolt",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0880-dracozolt.png"
+  },
+  {
+    "id": "pkmn_0881",
+    "name": "Arctozolt",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0881-arctozolt.png"
+  },
+  {
+    "id": "pkmn_0882",
+    "name": "Dracovish",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0882-dracovish.png"
+  },
+  {
+    "id": "pkmn_0883",
+    "name": "Arctovish",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0883-arctovish.png"
+  },
+  {
+    "id": "pkmn_0884",
+    "name": "Duraludon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0884-duraludon.png"
+  },
+  {
+    "id": "pkmn_0885",
+    "name": "Dreepy",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0885-dreepy.png"
+  },
+  {
+    "id": "pkmn_0886",
+    "name": "Drakloak",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0886-drakloak.png"
+  },
+  {
+    "id": "pkmn_0887",
+    "name": "Dragapult",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0887-dragapult.png"
+  },
+  {
+    "id": "pkmn_0888",
+    "name": "Zacian",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0888-zacian.png"
+  },
+  {
+    "id": "pkmn_0889",
+    "name": "Zamazenta",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0889-zamazenta.png"
+  },
+  {
+    "id": "pkmn_0890",
+    "name": "Eternatus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0890-eternatus.png"
+  },
+  {
+    "id": "pkmn_0891",
+    "name": "Kubfu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0891-kubfu.png"
+  },
+  {
+    "id": "pkmn_0892",
+    "name": "Urshifu Single Strike",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0892-urshifu-single-strike.png"
+  },
+  {
+    "id": "pkmn_0893",
+    "name": "Zarude",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0893-zarude.png"
+  },
+  {
+    "id": "pkmn_0894",
+    "name": "Regieleki",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0894-regieleki.png"
+  },
+  {
+    "id": "pkmn_0895",
+    "name": "Regidrago",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0895-regidrago.png"
+  },
+  {
+    "id": "pkmn_0896",
+    "name": "Glastrier",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0896-glastrier.png"
+  },
+  {
+    "id": "pkmn_0897",
+    "name": "Spectrier",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0897-spectrier.png"
+  },
+  {
+    "id": "pkmn_0898",
+    "name": "Calyrex",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0898-calyrex.png"
+  },
+  {
+    "id": "pkmn_0899",
+    "name": "Wyrdeer",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0899-wyrdeer.png"
+  },
+  {
+    "id": "pkmn_0900",
+    "name": "Kleavor",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0900-kleavor.png"
+  },
+  {
+    "id": "pkmn_0901",
+    "name": "Ursaluna",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0901-ursaluna.png"
+  },
+  {
+    "id": "pkmn_0902",
+    "name": "Basculegion Male",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0902-basculegion-male.png"
+  },
+  {
+    "id": "pkmn_0903",
+    "name": "Sneasler",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0903-sneasler.png"
+  },
+  {
+    "id": "pkmn_0904",
+    "name": "Overqwil",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0904-overqwil.png"
+  },
+  {
+    "id": "pkmn_0905",
+    "name": "Enamorus Incarnate",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen8/0905-enamorus-incarnate.png"
+  }
+];
+window.QM_POKEMON_GEN9_DATA = [
+  {
+    "id": "pkmn_0906",
+    "name": "Sprigatito",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0906-sprigatito.png"
+  },
+  {
+    "id": "pkmn_0907",
+    "name": "Floragato",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0907-floragato.png"
+  },
+  {
+    "id": "pkmn_0908",
+    "name": "Meowscarada",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0908-meowscarada.png"
+  },
+  {
+    "id": "pkmn_0909",
+    "name": "Fuecoco",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0909-fuecoco.png"
+  },
+  {
+    "id": "pkmn_0910",
+    "name": "Crocalor",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0910-crocalor.png"
+  },
+  {
+    "id": "pkmn_0911",
+    "name": "Skeledirge",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0911-skeledirge.png"
+  },
+  {
+    "id": "pkmn_0912",
+    "name": "Quaxly",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0912-quaxly.png"
+  },
+  {
+    "id": "pkmn_0913",
+    "name": "Quaxwell",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0913-quaxwell.png"
+  },
+  {
+    "id": "pkmn_0914",
+    "name": "Quaquaval",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0914-quaquaval.png"
+  },
+  {
+    "id": "pkmn_0915",
+    "name": "Lechonk",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0915-lechonk.png"
+  },
+  {
+    "id": "pkmn_0916",
+    "name": "Oinkologne Male",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0916-oinkologne-male.png"
+  },
+  {
+    "id": "pkmn_0917",
+    "name": "Tarountula",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0917-tarountula.png"
+  },
+  {
+    "id": "pkmn_0918",
+    "name": "Spidops",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0918-spidops.png"
+  },
+  {
+    "id": "pkmn_0919",
+    "name": "Nymble",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0919-nymble.png"
+  },
+  {
+    "id": "pkmn_0920",
+    "name": "Lokix",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0920-lokix.png"
+  },
+  {
+    "id": "pkmn_0921",
+    "name": "Pawmi",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0921-pawmi.png"
+  },
+  {
+    "id": "pkmn_0922",
+    "name": "Pawmo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0922-pawmo.png"
+  },
+  {
+    "id": "pkmn_0923",
+    "name": "Pawmot",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0923-pawmot.png"
+  },
+  {
+    "id": "pkmn_0924",
+    "name": "Tandemaus",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0924-tandemaus.png"
+  },
+  {
+    "id": "pkmn_0925",
+    "name": "Maushold Family Of Four",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0925-maushold-family-of-four.png"
+  },
+  {
+    "id": "pkmn_0926",
+    "name": "Fidough",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0926-fidough.png"
+  },
+  {
+    "id": "pkmn_0927",
+    "name": "Dachsbun",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0927-dachsbun.png"
+  },
+  {
+    "id": "pkmn_0928",
+    "name": "Smoliv",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0928-smoliv.png"
+  },
+  {
+    "id": "pkmn_0929",
+    "name": "Dolliv",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0929-dolliv.png"
+  },
+  {
+    "id": "pkmn_0930",
+    "name": "Arboliva",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0930-arboliva.png"
+  },
+  {
+    "id": "pkmn_0931",
+    "name": "Squawkabilly Green Plumage",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0931-squawkabilly-green-plumage.png"
+  },
+  {
+    "id": "pkmn_0932",
+    "name": "Nacli",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0932-nacli.png"
+  },
+  {
+    "id": "pkmn_0933",
+    "name": "Naclstack",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0933-naclstack.png"
+  },
+  {
+    "id": "pkmn_0934",
+    "name": "Garganacl",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0934-garganacl.png"
+  },
+  {
+    "id": "pkmn_0935",
+    "name": "Charcadet",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0935-charcadet.png"
+  },
+  {
+    "id": "pkmn_0936",
+    "name": "Armarouge",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0936-armarouge.png"
+  },
+  {
+    "id": "pkmn_0937",
+    "name": "Ceruledge",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0937-ceruledge.png"
+  },
+  {
+    "id": "pkmn_0938",
+    "name": "Tadbulb",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0938-tadbulb.png"
+  },
+  {
+    "id": "pkmn_0939",
+    "name": "Bellibolt",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0939-bellibolt.png"
+  },
+  {
+    "id": "pkmn_0940",
+    "name": "Wattrel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0940-wattrel.png"
+  },
+  {
+    "id": "pkmn_0941",
+    "name": "Kilowattrel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0941-kilowattrel.png"
+  },
+  {
+    "id": "pkmn_0942",
+    "name": "Maschiff",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0942-maschiff.png"
+  },
+  {
+    "id": "pkmn_0943",
+    "name": "Mabosstiff",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0943-mabosstiff.png"
+  },
+  {
+    "id": "pkmn_0944",
+    "name": "Shroodle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0944-shroodle.png"
+  },
+  {
+    "id": "pkmn_0945",
+    "name": "Grafaiai",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0945-grafaiai.png"
+  },
+  {
+    "id": "pkmn_0946",
+    "name": "Bramblin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0946-bramblin.png"
+  },
+  {
+    "id": "pkmn_0947",
+    "name": "Brambleghast",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0947-brambleghast.png"
+  },
+  {
+    "id": "pkmn_0948",
+    "name": "Toedscool",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0948-toedscool.png"
+  },
+  {
+    "id": "pkmn_0949",
+    "name": "Toedscruel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0949-toedscruel.png"
+  },
+  {
+    "id": "pkmn_0950",
+    "name": "Klawf",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0950-klawf.png"
+  },
+  {
+    "id": "pkmn_0951",
+    "name": "Capsakid",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0951-capsakid.png"
+  },
+  {
+    "id": "pkmn_0952",
+    "name": "Scovillain",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0952-scovillain.png"
+  },
+  {
+    "id": "pkmn_0953",
+    "name": "Rellor",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0953-rellor.png"
+  },
+  {
+    "id": "pkmn_0954",
+    "name": "Rabsca",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0954-rabsca.png"
+  },
+  {
+    "id": "pkmn_0955",
+    "name": "Flittle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0955-flittle.png"
+  },
+  {
+    "id": "pkmn_0956",
+    "name": "Espathra",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0956-espathra.png"
+  },
+  {
+    "id": "pkmn_0957",
+    "name": "Tinkatink",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0957-tinkatink.png"
+  },
+  {
+    "id": "pkmn_0958",
+    "name": "Tinkatuff",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0958-tinkatuff.png"
+  },
+  {
+    "id": "pkmn_0959",
+    "name": "Tinkaton",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0959-tinkaton.png"
+  },
+  {
+    "id": "pkmn_0960",
+    "name": "Wiglett",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0960-wiglett.png"
+  },
+  {
+    "id": "pkmn_0961",
+    "name": "Wugtrio",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0961-wugtrio.png"
+  },
+  {
+    "id": "pkmn_0962",
+    "name": "Bombirdier",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0962-bombirdier.png"
+  },
+  {
+    "id": "pkmn_0963",
+    "name": "Finizen",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0963-finizen.png"
+  },
+  {
+    "id": "pkmn_0964",
+    "name": "Palafin Zero",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0964-palafin-zero.png"
+  },
+  {
+    "id": "pkmn_0965",
+    "name": "Varoom",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0965-varoom.png"
+  },
+  {
+    "id": "pkmn_0966",
+    "name": "Revavroom",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0966-revavroom.png"
+  },
+  {
+    "id": "pkmn_0967",
+    "name": "Cyclizar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0967-cyclizar.png"
+  },
+  {
+    "id": "pkmn_0968",
+    "name": "Orthworm",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0968-orthworm.png"
+  },
+  {
+    "id": "pkmn_0969",
+    "name": "Glimmet",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0969-glimmet.png"
+  },
+  {
+    "id": "pkmn_0970",
+    "name": "Glimmora",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0970-glimmora.png"
+  },
+  {
+    "id": "pkmn_0971",
+    "name": "Greavard",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0971-greavard.png"
+  },
+  {
+    "id": "pkmn_0972",
+    "name": "Houndstone",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0972-houndstone.png"
+  },
+  {
+    "id": "pkmn_0973",
+    "name": "Flamigo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0973-flamigo.png"
+  },
+  {
+    "id": "pkmn_0974",
+    "name": "Cetoddle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0974-cetoddle.png"
+  },
+  {
+    "id": "pkmn_0975",
+    "name": "Cetitan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0975-cetitan.png"
+  },
+  {
+    "id": "pkmn_0976",
+    "name": "Veluza",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0976-veluza.png"
+  },
+  {
+    "id": "pkmn_0977",
+    "name": "Dondozo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0977-dondozo.png"
+  },
+  {
+    "id": "pkmn_0978",
+    "name": "Tatsugiri Curly",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0978-tatsugiri-curly.png"
+  },
+  {
+    "id": "pkmn_0979",
+    "name": "Annihilape",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0979-annihilape.png"
+  },
+  {
+    "id": "pkmn_0980",
+    "name": "Clodsire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0980-clodsire.png"
+  },
+  {
+    "id": "pkmn_0981",
+    "name": "Farigiraf",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0981-farigiraf.png"
+  },
+  {
+    "id": "pkmn_0982",
+    "name": "Dudunsparce Two Segment",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0982-dudunsparce-two-segment.png"
+  },
+  {
+    "id": "pkmn_0983",
+    "name": "Kingambit",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0983-kingambit.png"
+  },
+  {
+    "id": "pkmn_0984",
+    "name": "Great Tusk",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0984-great-tusk.png"
+  },
+  {
+    "id": "pkmn_0985",
+    "name": "Scream Tail",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0985-scream-tail.png"
+  },
+  {
+    "id": "pkmn_0986",
+    "name": "Brute Bonnet",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0986-brute-bonnet.png"
+  },
+  {
+    "id": "pkmn_0987",
+    "name": "Flutter Mane",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0987-flutter-mane.png"
+  },
+  {
+    "id": "pkmn_0988",
+    "name": "Slither Wing",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0988-slither-wing.png"
+  },
+  {
+    "id": "pkmn_0989",
+    "name": "Sandy Shocks",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0989-sandy-shocks.png"
+  },
+  {
+    "id": "pkmn_0990",
+    "name": "Iron Treads",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0990-iron-treads.png"
+  },
+  {
+    "id": "pkmn_0991",
+    "name": "Iron Bundle",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0991-iron-bundle.png"
+  },
+  {
+    "id": "pkmn_0992",
+    "name": "Iron Hands",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0992-iron-hands.png"
+  },
+  {
+    "id": "pkmn_0993",
+    "name": "Iron Jugulis",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0993-iron-jugulis.png"
+  },
+  {
+    "id": "pkmn_0994",
+    "name": "Iron Moth",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0994-iron-moth.png"
+  },
+  {
+    "id": "pkmn_0995",
+    "name": "Iron Thorns",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0995-iron-thorns.png"
+  },
+  {
+    "id": "pkmn_0996",
+    "name": "Frigibax",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0996-frigibax.png"
+  },
+  {
+    "id": "pkmn_0997",
+    "name": "Arctibax",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0997-arctibax.png"
+  },
+  {
+    "id": "pkmn_0998",
+    "name": "Baxcalibur",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0998-baxcalibur.png"
+  },
+  {
+    "id": "pkmn_0999",
+    "name": "Gimmighoul",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/0999-gimmighoul.png"
+  },
+  {
+    "id": "pkmn_1000",
+    "name": "Gholdengo",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1000-gholdengo.png"
+  },
+  {
+    "id": "pkmn_1001",
+    "name": "Wo Chien",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1001-wo-chien.png"
+  },
+  {
+    "id": "pkmn_1002",
+    "name": "Chien Pao",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1002-chien-pao.png"
+  },
+  {
+    "id": "pkmn_1003",
+    "name": "Ting Lu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1003-ting-lu.png"
+  },
+  {
+    "id": "pkmn_1004",
+    "name": "Chi Yu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1004-chi-yu.png"
+  },
+  {
+    "id": "pkmn_1005",
+    "name": "Roaring Moon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1005-roaring-moon.png"
+  },
+  {
+    "id": "pkmn_1006",
+    "name": "Iron Valiant",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1006-iron-valiant.png"
+  },
+  {
+    "id": "pkmn_1007",
+    "name": "Koraidon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1007-koraidon.png"
+  },
+  {
+    "id": "pkmn_1008",
+    "name": "Miraidon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1008-miraidon.png"
+  },
+  {
+    "id": "pkmn_1009",
+    "name": "Walking Wake",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1009-walking-wake.png"
+  },
+  {
+    "id": "pkmn_1010",
+    "name": "Iron Leaves",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1010-iron-leaves.png"
+  },
+  {
+    "id": "pkmn_1011",
+    "name": "Dipplin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1011-dipplin.png"
+  },
+  {
+    "id": "pkmn_1012",
+    "name": "Poltchageist",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1012-poltchageist.png"
+  },
+  {
+    "id": "pkmn_1013",
+    "name": "Sinistcha",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1013-sinistcha.png"
+  },
+  {
+    "id": "pkmn_1014",
+    "name": "Okidogi",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1014-okidogi.png"
+  },
+  {
+    "id": "pkmn_1015",
+    "name": "Munkidori",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1015-munkidori.png"
+  },
+  {
+    "id": "pkmn_1016",
+    "name": "Fezandipiti",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1016-fezandipiti.png"
+  },
+  {
+    "id": "pkmn_1017",
+    "name": "Ogerpon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1017-ogerpon.png"
+  },
+  {
+    "id": "pkmn_1018",
+    "name": "Archaludon",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1018-archaludon.png"
+  },
+  {
+    "id": "pkmn_1019",
+    "name": "Hydrapple",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1019-hydrapple.png"
+  },
+  {
+    "id": "pkmn_1020",
+    "name": "Gouging Fire",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1020-gouging-fire.png"
+  },
+  {
+    "id": "pkmn_1021",
+    "name": "Raging Bolt",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1021-raging-bolt.png"
+  },
+  {
+    "id": "pkmn_1022",
+    "name": "Iron Boulder",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1022-iron-boulder.png"
+  },
+  {
+    "id": "pkmn_1023",
+    "name": "Iron Crown",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1023-iron-crown.png"
+  },
+  {
+    "id": "pkmn_1024",
+    "name": "Terapagos",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1024-terapagos.png"
+  },
+  {
+    "id": "pkmn_1025",
+    "name": "Pecharunt",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen9/1025-pecharunt.png"
+  }
+];
+window.QM_IDIOMS_IT_DATA = [
+  {
+    "id": 1,
+    "term": "a proprio rischio e pericolo",
+    "definition": "at one's own risk, at one's own peril",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "alle spalle di",
+    "definition": "at the expense of (someone); on the back of",
+    "example": "vivere alle spalle di Larry."
+  },
+  {
+    "id": 3,
+    "term": "andare da sé",
+    "definition": "to proceed smoothly without the need for external interventions; to go on on one's own",
+    "example": "l'accordo va da sé."
+  },
+  {
+    "id": 4,
+    "term": "andare per la propria strada",
+    "definition": "to go their separate ways",
+    "example": "man mano che la serata giungeva al termine, i promessi sposi sono andati per le proprie strade."
+  },
+  {
+    "id": 5,
+    "term": "avere a ridosso",
+    "definition": "to have (someone) who follows insistingly or threateningly; to be dogged or harassed",
+    "example": "aveva gli sbirri a ridosso."
+  },
+  {
+    "id": 6,
+    "term": "avere il cuore sulle labbra",
+    "definition": "to wear one's heart on one's sleeve",
+    "example": ""
+  },
+  {
+    "id": 7,
+    "term": "averne le palle piene",
+    "definition": "to be fed up with something; to be sick and tired",
+    "example": "Ne ho le palle piene di questa situazione."
+  },
+  {
+    "id": 8,
+    "term": "battere il capo nel muro",
+    "definition": "to beat one's head against a stone wall",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "battere il ferro finché è caldo",
+    "definition": "to strike while the iron is hot",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "battere in ritirata",
+    "definition": "to retreat oneself hurriedly; to beat a retreat; to flee",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "battere la grancassa",
+    "definition": "to advertise loudly; to spread the news widely",
+    "example": ""
+  },
+  {
+    "id": 12,
+    "term": "bell'e buono",
+    "definition": "real, utter, outright, plain and simple",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "bellezza acqua e sapone",
+    "definition": "natural (rather than artificial) beauty",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "buttare il bambino con l'acqua sporca",
+    "definition": "to throw the baby out with the bathwater",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "cambiare le carte in tavola",
+    "definition": "to contradict what one has said or done in the past; to shift one's ground; to move the goalposts",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "cavare le castagne dal fuoco",
+    "definition": "to pull someone's bacon out of the fire, pull someone's chestnuts out of the fire",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "che fine ha fatto",
+    "definition": "what happened to",
+    "example": "Ho scoperto che fine ha fatto Luca, si è trasferito a Londra."
+  },
+  {
+    "id": 18,
+    "term": "chi fa da sé fa per tre",
+    "definition": "it is most efficient to work by oneself without asking for help from others",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "chi è causa del suo mal pianga sé stesso",
+    "definition": "only oneself is to blame for the consequences of one's actions",
+    "example": ""
+  },
+  {
+    "id": 20,
+    "term": "cogliere la palla al balzo",
+    "definition": "to take advantage of a situation, which is beneficial but was not planned; to seize and opportunity",
+    "example": "È vero che hanno iniziato loro, ma voi avete colto la palla al balzo e vi siete uniti."
+  },
+  {
+    "id": 21,
+    "term": "con il sorcio in bocca",
+    "definition": "with one's hand in the cookie jar",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "da capo a piedi",
+    "definition": "from head to toe; from top to bottom",
+    "example": "Sono ricoperto di neve da capo a piedi."
+  },
+  {
+    "id": 23,
+    "term": "da un giorno all'altro",
+    "definition": "suddenly, all of a sudden, unexpectedly",
+    "example": ""
+  },
+  {
+    "id": 24,
+    "term": "dal profondo del cuore",
+    "definition": "from the bottom of one's heart",
+    "example": ""
+  },
+  {
+    "id": 25,
+    "term": "dare per buono",
+    "definition": "to reluctantly accept as good enough; to take it",
+    "example": "non sono le migliori prestazioni, ma lo do per buono."
+  },
+  {
+    "id": 26,
+    "term": "dare un colpo di freno",
+    "definition": "to abruptly bring to a halt; to stop in one's tracks",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "di notte tutti i gatti sono bigi",
+    "definition": "all cats are grey in the dark",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "dietro l'angolo",
+    "definition": "around the corner",
+    "example": "la farmacia è proprio dietro l'angolo."
+  },
+  {
+    "id": 29,
+    "term": "entrare in scena",
+    "definition": "to go on stage",
+    "example": "i valori della liberaldemocrazia sono pronti a entrare in scena."
+  },
+  {
+    "id": 30,
+    "term": "entrare nel vivo",
+    "definition": "to turn to the crux or climax; to get to the heart; to cut to the chase",
+    "example": ""
+  },
+  {
+    "id": 31,
+    "term": "errare è umano perdonare divino",
+    "definition": "to err is human; to forgive is divine",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "essere in sé",
+    "definition": "to possess and be able to control one's mental faculties; feel like oneself",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "essere passata molt'acqua sotto i ponti",
+    "definition": "for a lot of time to have passed",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "essere pazzo",
+    "definition": "to be crazy (fervently) about/for somebody",
+    "example": "Euforia, sono pazza di te."
+  },
+  {
+    "id": 35,
+    "term": "essere su questa terra",
+    "definition": "to live",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "fa agli altri quel che vorresti fosse fatto a te",
+    "definition": "do unto others as you would have them do unto you",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "fare buon viso a cattivo gioco",
+    "definition": "to grin and bear it; to put a brave face on it",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "fare del proprio meglio",
+    "definition": "to do one's best ; to put one's best foot forward",
+    "example": "ha fatto del suo meglio per riuscire simpatico."
+  },
+  {
+    "id": 39,
+    "term": "fare il bello e il cattivo tempo",
+    "definition": "to boldly exert power; to lay down the law",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "fare il passo più lungo della gamba",
+    "definition": "to bite off more than one can chew",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "fare il passo secondo la gamba",
+    "definition": "to cut one's coat according to one's cloth",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "fare le nozze coi fichi secchi",
+    "definition": "to try to do something challenging with limited means; to work on a shoestring",
+    "example": ""
+  },
+  {
+    "id": 43,
+    "term": "gallina dalle uova d'oro",
+    "definition": "the golden goose",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "gallina vecchia fa buon brodo",
+    "definition": "there's many a good tune played on an old fiddle",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "gelare il sangue",
+    "definition": "to make (someone's) blood run cold",
+    "example": ""
+  },
+  {
+    "id": 46,
+    "term": "gettare acqua sul fuoco",
+    "definition": "to throw cold water on something",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "gettare fumo negli occhi",
+    "definition": "to pull the wool over someone's eyes",
+    "example": ""
+  },
+  {
+    "id": 48,
+    "term": "gli assenti hanno sempre torto",
+    "definition": "one who is not present, or who does not show up to a situation",
+    "example": ""
+  },
+  {
+    "id": 49,
+    "term": "guardare in faccia",
+    "definition": "to look in the face; to face up to",
+    "example": "guardare in faccia la morte."
+  },
+  {
+    "id": 50,
+    "term": "hai voluto la bicicletta e adesso pedala",
+    "definition": "make one's bed and lie in it",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "i panni sporchi si lavano in famiglia",
+    "definition": "it is best not to wash one's dirty laundry in public",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "i soldi non crescono sugli alberi",
+    "definition": "money doesn't grow on trees; there's no such thing as a free lunch",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "il bisogno aguzza l'ingegno",
+    "definition": "necessity is the mother of invention",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "il bue che dice cornuto all'asino",
+    "definition": "pot calling the kettle black; it takes one to know one; I know you are but what am I",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "il diavolo fa le pentole ma non i coperchi",
+    "definition": "The devil teaches us his tricks but not how to hide them",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "il gioco non vale la candela",
+    "definition": "the game is not worth the candle",
+    "example": ""
+  },
+  {
+    "id": 57,
+    "term": "il giorno di San Mai",
+    "definition": "the first of never, February 31",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "l'abito non fa il monaco",
+    "definition": "you can't judge a book by its cover; clothes don't make the man, the cowl does not make the monk",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "l'erba cattiva non muore mai",
+    "definition": "a bad penny always turns up",
+    "example": ""
+  },
+  {
+    "id": 60,
+    "term": "l'erba del vicino è sempre più verde",
+    "definition": "the grass is always greener on the other side",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "l'etiope non si sbianca",
+    "definition": "it is futile to try to change human nature; human nature is innate and immutable",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "l'occhio del padrone ingrassa il cavallo",
+    "definition": "a business thrives when the owner keeps his eye on it",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "l'unione fa la forza",
+    "definition": "unity is strength; many hands make light work; united we stand, divided we fall; there is strength in numbers",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "la bellezza di",
+    "definition": "the entire quantity, duration, sum, etc. of",
+    "example": "ho la bellezza di 76 anni."
+  },
+  {
+    "id": 65,
+    "term": "ma anche no",
+    "definition": "or not",
+    "example": "A: Potremmo comprare un'altra macchina / B: Ma anche no."
+  },
+  {
+    "id": 66,
+    "term": "meglio soli che male accompagnati",
+    "definition": "it is better to be alone than in bad company",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "meglio tirare a campare che tirare le cuoia",
+    "definition": "it is better to advance one's own interests (even through illicit or questionable means) than to surrender one",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "meglio un uovo oggi che una gallina domani",
+    "definition": "a bird in the hand is worth two in the bush; better an egg today than a hen tomorrow",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "mettere le carte in tavola",
+    "definition": "to put one's cards on the table",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "mettersi al passo con i tempi",
+    "definition": "to update oneself",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "montare il sangue alla testa",
+    "definition": "to make one's blood boil",
+    "example": "quella maestra mi monta il sangue alla testa."
+  },
+  {
+    "id": 72,
+    "term": "ne uccide più la penna della spada",
+    "definition": "the pen is mightier than the sword",
+    "example": ""
+  },
+  {
+    "id": 73,
+    "term": "nelle botti piccole sta il vino buono",
+    "definition": "good things come in small packages",
+    "example": ""
+  },
+  {
+    "id": 74,
+    "term": "non c'è trippa per gatti",
+    "definition": "there are few or no resources at someone's disposal",
+    "example": ""
+  },
+  {
+    "id": 75,
+    "term": "non di solo pane vive l'uomo",
+    "definition": "man shall not live by bread alone",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "non dire gatto se non ce l'hai nel sacco",
+    "definition": "don't count your chickens before they're hatched",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "non giudicare un libro dalla copertina",
+    "definition": "don't judge a book by its cover",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "non resta che",
+    "definition": "there is nothing left to do but; it's time to",
+    "example": "non resta che aprire la scatola."
+  },
+  {
+    "id": 79,
+    "term": "o mangi la minestra o salti la finestra",
+    "definition": "one must like it or lump it; beggars can't be choosers; one must take the bitter pill to swallow",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "occhio non vede, cuore non duole",
+    "definition": "ignorance is bliss, what you don't know can't hurt you",
+    "example": ""
+  },
+  {
+    "id": 81,
+    "term": "occhio per occhio, dente per dente",
+    "definition": "an eye for an eye, a tooth for a tooth",
+    "example": ""
+  },
+  {
+    "id": 82,
+    "term": "ogni lasciata è persa",
+    "definition": "opportunity seldom knocks twice",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "ogni promessa è debito",
+    "definition": "promise is debt",
+    "example": ""
+  },
+  {
+    "id": 84,
+    "term": "ogni riccio un capriccio",
+    "definition": "women are often fickle and capricious",
+    "example": ""
+  },
+  {
+    "id": 85,
+    "term": "ora o mai più",
+    "definition": "now or never",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "paese che vai, usanze che trovi",
+    "definition": "one should not be surprised by how different someone else's culture and traditions might be",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "parli del diavolo e spuntano le corna",
+    "definition": "speak of the devil and he appears, speak of the devil",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "passare sotto le forche caudine",
+    "definition": "to run the gauntlet, to pass under the yoke",
+    "example": "Appena uscito dal tribunale, tutti i giornalisti intorno lo hanno fatto passare sotto le forche caudine."
+  },
+  {
+    "id": 89,
+    "term": "per filo e per segno",
+    "definition": "in minute detail, step by step, word for word",
+    "example": "Dimmi per filo e per segno come si fa questa torta."
+  },
+  {
+    "id": 90,
+    "term": "per il rotto della cuffia",
+    "definition": "by the skin of one's teeth",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "perdere il lume della ragione",
+    "definition": "to lose it, to lose control, to go crazy",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "perdere le staffe",
+    "definition": "to lose one's temper; to lose it",
+    "example": "talvolta anche i più tranquilli perdono le staffe."
+  },
+  {
+    "id": 93,
+    "term": "quando c'era lui",
+    "definition": "Used to decry the current state of politics as decadent, claiming that in the past things were done better",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "quando gli asini voleranno",
+    "definition": "when pigs fly, until hell freezes over",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "quando il gatto non c'è, i topi ballano",
+    "definition": "when the cat's away the mice will play",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "term": "quando il gioco si fa duro, i duri cominciano a giocare",
+    "definition": "when the going gets tough, the tough get going",
+    "example": ""
+  },
+  {
+    "id": 97,
+    "term": "quel che è fatto è fatto",
+    "definition": "what's done is done",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "term": "questione di lana caprina",
+    "definition": "moot point, unproductive discussion, futile argument",
+    "example": ""
+  },
+  {
+    "id": 99,
+    "term": "raglio d'asino non sale al cielo",
+    "definition": "sticks and stones may break my bones, but words will never hurt me",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "rendere la pariglia",
+    "definition": "to get even; to strike back",
+    "example": "ti ha ferito, e ora vuoi rendere la pariglia."
+  }
+];
+window.QM_IDIOMS_PL_DATA = [
+  {
+    "id": 1,
+    "term": "Bułka z masłem",
+    "definition": "\"A bread roll with butter\" — a piece of cake; dead easy",
+    "example": "Ten egzamin to była bułka z masłem."
+  },
+  {
+    "id": 2,
+    "term": "Rzucać grochem o ścianę",
+    "definition": "\"To throw peas at a wall\" — to waste your breath on someone",
+    "example": "Tłumaczę mu to od lat, ale to jak rzucanie grochem o ścianę."
+  },
+  {
+    "id": 3,
+    "term": "Nie mój cyrk, nie moje małpy",
+    "definition": "\"Not my circus, not my monkeys\" — not my problem",
+    "example": "Niech sami to sobie rozwiążą — nie mój cyrk, nie moje małpy."
+  },
+  {
+    "id": 4,
+    "term": "Wiercić komuś dziurę w brzuchu",
+    "definition": "\"To drill a hole in someone's belly\" — to pester someone relentlessly",
+    "example": "Dzieci wierciły mi dziurę w brzuchu, żeby kupić psa."
+  },
+  {
+    "id": 5,
+    "term": "Robić z igły widły",
+    "definition": "\"To make a pitchfork out of a needle\" — to make a mountain out of a molehill",
+    "example": "Spóźnił się pięć minut, nie rób z igły wideł."
+  },
+  {
+    "id": 6,
+    "term": "Być nie w sosie",
+    "definition": "\"To be not in the sauce\" — to be in a bad mood",
+    "example": "Nie zaczepiaj go dzisiaj, jest nie w sosie."
+  },
+  {
+    "id": 7,
+    "term": "Mieć muchy w nosie",
+    "definition": "\"To have flies in your nose\" — to be sulky and touchy",
+    "example": "Od rana ma muchy w nosie i się nie odzywa."
+  },
+  {
+    "id": 8,
+    "term": "Czuć do kogoś miętę",
+    "definition": "\"To feel mint for someone\" — to fancy someone",
+    "example": "Chyba czuje do niej miętę od pierwszego dnia."
+  },
+  {
+    "id": 9,
+    "term": "Rzucać komuś kłody pod nogi",
+    "definition": "\"To throw logs under someone's feet\" — to put obstacles in their way",
+    "example": "Zamiast pomóc, rzucał nam kłody pod nogi."
+  },
+  {
+    "id": 10,
+    "term": "Wpaść jak śliwka w kompot",
+    "definition": "\"To fall in like a plum into compote\" — to land yourself in a mess",
+    "example": "Wpadłem jak śliwka w kompot i musiałem tłumaczyć się z wszystkiego."
+  },
+  {
+    "id": 11,
+    "term": "Gdzie diabeł mówi dobranoc",
+    "definition": "\"Where the devil says goodnight\" — the middle of nowhere",
+    "example": "Mieszkają gdzieś, gdzie diabeł mówi dobranoc."
+  },
+  {
+    "id": 12,
+    "term": "Mieć węża w kieszeni",
+    "definition": "\"To have a snake in your pocket\" — to be tight-fisted",
+    "example": "Nigdy nie stawia kawy — ma węża w kieszeni."
+  },
+  {
+    "id": 13,
+    "term": "Chodzić spać z kurami",
+    "definition": "\"To go to bed with the hens\" — to turn in very early",
+    "example": "W wakacje chodzimy spać z kurami."
+  },
+  {
+    "id": 14,
+    "term": "Musztarda po obiedzie",
+    "definition": "\"Mustard after dinner\" — too little, too late",
+    "example": "Przeprosiny po tygodniu to musztarda po obiedzie."
+  },
+  {
+    "id": 15,
+    "term": "Nie ucz ojca dzieci robić",
+    "definition": "\"Don't teach your father how to make children\" — don't teach your grandmother to suck eggs",
+    "example": "Robię to od dwudziestu lat — nie ucz ojca dzieci robić."
+  },
+  {
+    "id": 16,
+    "term": "Co ma piernik do wiatraka?",
+    "definition": "\"What has gingerbread to do with a windmill?\" — what's that got to do with anything?",
+    "example": "Mówimy o rachunkach, a co ma piernik do wiatraka?"
+  },
+  {
+    "id": 17,
+    "term": "Bić pianę",
+    "definition": "\"To beat foam\" — to waffle without saying anything",
+    "example": "Przestań bić pianę i powiedz, ile to kosztuje."
+  },
+  {
+    "id": 18,
+    "term": "Głowa do góry",
+    "definition": "\"Head up\" — chin up, keep your spirits up",
+    "example": "Głowa do góry, jutro będzie lepiej."
+  },
+  {
+    "id": 19,
+    "term": "Trzymać kciuki",
+    "definition": "\"To hold your thumbs\" — to keep your fingers crossed",
+    "example": "Trzymam kciuki za twój egzamin."
+  },
+  {
+    "id": 20,
+    "term": "Raz na ruski rok",
+    "definition": "\"Once in a Russian year\" — once in a blue moon",
+    "example": "Dzwoni do nas raz na ruski rok."
+  },
+  {
+    "id": 21,
+    "term": "Wyjść z twarzą",
+    "definition": "\"To come out with your face\" — to save face",
+    "example": "Przegrali, ale wyszli z twarzy."
+  },
+  {
+    "id": 22,
+    "term": "Mieć głowę na karku",
+    "definition": "\"To have a head on your neck\" — to have your wits about you",
+    "example": "Spokojnie, ona ma głowę na karku."
+  },
+  {
+    "id": 23,
+    "term": "Wziąć byka za rogi",
+    "definition": "\"To take the bull by the horns\" — to tackle it head on",
+    "example": "Wziął byka za rogi i zadzwonił do szefa."
+  },
+  {
+    "id": 24,
+    "term": "Rzucić okiem",
+    "definition": "\"To throw an eye\" — to have a quick look",
+    "example": "Rzuć okiem na tę umowę, dobrze?"
+  },
+  {
+    "id": 25,
+    "term": "Rzucać słowa na wiatr",
+    "definition": "\"To throw words to the wind\" — to make promises you won't keep",
+    "example": "On nie rzuca słów na wiatr — jak obiecał, to zrobi."
+  },
+  {
+    "id": 26,
+    "term": "Obiecywać gruszki na wierzbie",
+    "definition": "\"To promise pears on a willow\" — to promise the impossible",
+    "example": "Politycy znowu obiecują gruszki na wierzbie."
+  },
+  {
+    "id": 27,
+    "term": "Robić dobrą minę do złej gry",
+    "definition": "\"To put a good face on a bad game\" — to grin and bear it",
+    "example": "Nie było mu wesoło, ale robił dobrą minę do złej gry."
+  },
+  {
+    "id": 28,
+    "term": "Pluć sobie w brodę",
+    "definition": "\"To spit into your own beard\" — to kick yourself with regret",
+    "example": "Pluję sobie w brodę, że nie kupiłem tych biletów."
+  },
+  {
+    "id": 29,
+    "term": "Wpuścić kogoś w maliny",
+    "definition": "\"To let someone into the raspberries\" — to lead them up the garden path",
+    "example": "Wpuścili nas w maliny z tym mieszkaniem."
+  },
+  {
+    "id": 30,
+    "term": "Bez ogródek",
+    "definition": "\"Without little gardens\" — bluntly, without mincing words",
+    "example": "Powiedziała mu bez ogródek, co o tym myśli."
+  },
+  {
+    "id": 31,
+    "term": "Kręcić nosem",
+    "definition": "\"To twist your nose\" — to turn your nose up at something",
+    "example": "Kręci nosem na każdą propozycję."
+  },
+  {
+    "id": 32,
+    "term": "Mieć coś w małym palcu",
+    "definition": "\"To have something in your little finger\" — to know it inside out",
+    "example": "Ma tę ustawę w małym palcu."
+  },
+  {
+    "id": 33,
+    "term": "Iść jak po maśle",
+    "definition": "\"To go like on butter\" — to go perfectly smoothly",
+    "example": "Rozmowa poszła jak po maśle."
+  },
+  {
+    "id": 34,
+    "term": "Być w gorącej wodzie kąpanym",
+    "definition": "\"To have been bathed in hot water\" — to be impatient and hot-headed",
+    "example": "Poczekaj chwilę, jesteś w gorącej wodzie kąpany."
+  },
+  {
+    "id": 35,
+    "term": "Palić się do czegoś",
+    "definition": "\"To be on fire for something\" — to be raring to do it",
+    "example": "Pali się do tej pracy."
+  },
+  {
+    "id": 36,
+    "term": "Dolewać oliwy do ognia",
+    "definition": "\"To pour oil on the fire\" — to make matters worse",
+    "example": "Twoje żarty tylko dolewają oliwy do ognia."
+  },
+  {
+    "id": 37,
+    "term": "Owijać w bawełnę",
+    "definition": "\"To wrap in cotton wool\" — to beat about the bush",
+    "example": "Nie owijaj w bawełnę, powiedz wprost."
+  },
+  {
+    "id": 38,
+    "term": "Wywołać wilka z lasu",
+    "definition": "\"To call the wolf out of the forest\" — to speak of the devil",
+    "example": "O wilku mowa — właśnie wszedł."
+  },
+  {
+    "id": 39,
+    "term": "Nie zasypiać gruszek w popiele",
+    "definition": "\"Not to let pears sleep in the ashes\" — not to let a chance slip",
+    "example": "Nie zasypiaj gruszek w popiele i złóż podanie dziś."
+  },
+  {
+    "id": 40,
+    "term": "Kopać się z koniem",
+    "definition": "\"To kick with a horse\" — to fight a battle you cannot win",
+    "example": "Nie ma sensu kopać się z koniem, oni mają prawników."
+  },
+  {
+    "id": 41,
+    "term": "Siedzieć jak na szpilkach",
+    "definition": "\"To sit as if on pins\" — to be on tenterhooks",
+    "example": "Siedziałam jak na szpilkach, czekając na wyniki."
+  },
+  {
+    "id": 42,
+    "term": "Mieć duszę na ramieniu",
+    "definition": "\"To have your soul on your shoulder\" — to have your heart in your mouth",
+    "example": "Wchodziłem tam z duszą na ramieniu."
+  },
+  {
+    "id": 43,
+    "term": "Strach ma wielkie oczy",
+    "definition": "\"Fear has big eyes\" — fear makes things look worse than they are",
+    "example": "Wszystko poszło gładko — strach ma wielkie oczy."
+  },
+  {
+    "id": 44,
+    "term": "Nie taki diabeł straszny, jak go malują",
+    "definition": "\"The devil isn't as terrible as he's painted\" — it's not as bad as it sounds",
+    "example": "Ten egzamin? Nie taki diabeł straszny, jak go malują."
+  },
+  {
+    "id": 45,
+    "term": "Coś jest do bani",
+    "definition": "\"Something is fit for the shed\" — something is rubbish",
+    "example": "Ten film jest do bani."
+  },
+  {
+    "id": 46,
+    "term": "Leje jak z cebra",
+    "definition": "\"It's pouring as if from a tub\" — it's raining cats and dogs",
+    "example": "Weź parasol, leje jak z cebra."
+  },
+  {
+    "id": 47,
+    "term": "Robić komuś wodę z mózgu",
+    "definition": "\"To make water out of someone's brain\" — to mess with their head",
+    "example": "Nie rób mi wody z mózgu, wiem, co widziałem."
+  },
+  {
+    "id": 48,
+    "term": "Pójść po rozum do głowy",
+    "definition": "\"To go to your head for reason\" — to finally come to your senses",
+    "example": "W końcu poszedł po rozum do głowy i sprzedał ten samochód."
+  },
+  {
+    "id": 49,
+    "term": "Mieć olej w głowie",
+    "definition": "\"To have oil in your head\" — to be sensible and quick-witted",
+    "example": "To zdolny chłopak, ma olej w głowie."
+  },
+  {
+    "id": 50,
+    "term": "Tonący brzytwy się chwyta",
+    "definition": "\"A drowning man grabs at a razor\" — clutching at straws",
+    "example": "Poszedł nawet do wróżki — tonący brzytwy się chwyta."
+  },
+  {
+    "id": 51,
+    "term": "Kupować kota w worku",
+    "definition": "\"To buy a cat in a sack\" — to buy a pig in a poke",
+    "example": "Nie oglądałeś mieszkania? Kupujesz kota w worku."
+  },
+  {
+    "id": 52,
+    "term": "Rzucać perły przed wieprze",
+    "definition": "\"To cast pearls before swine\" — to waste something good on someone who can't value it",
+    "example": "Grać im Chopina to rzucać perły przed wieprze."
+  },
+  {
+    "id": 53,
+    "term": "Kto rano wstaje, temu Pan Bóg daje",
+    "definition": "\"God provides for the one who rises early\" — the early bird catches the worm",
+    "example": "Wstałem o piątej — kto rano wstaje, temu Pan Bóg daje."
+  },
+  {
+    "id": 54,
+    "term": "Gdzie kucharek sześć, tam nie ma co jeść",
+    "definition": "\"Where there are six cooks, there's nothing to eat\" — too many cooks spoil the broth",
+    "example": "Każdy chce rządzić projektem, a gdzie kucharek sześć, tam nie ma co jeść."
+  },
+  {
+    "id": 55,
+    "term": "Co dwie głowy, to nie jedna",
+    "definition": "\"Two heads are not one\" — two heads are better than one",
+    "example": "Usiądźmy nad tym razem, co dwie głowy, to nie jedna."
+  },
+  {
+    "id": 56,
+    "term": "Apetyt rośnie w miarę jedzenia",
+    "definition": "\"Appetite grows as you eat\" — the more you get, the more you want",
+    "example": "Najpierw chciał rower, teraz motor — apetyt rośnie w miarę jedzenia."
+  },
+  {
+    "id": 57,
+    "term": "Cicha woda brzegi rwie",
+    "definition": "\"Still water tears the banks\" — still waters run deep",
+    "example": "Taka cicha, a wszystko zorganizowała — cicha woda brzegi rwie."
+  },
+  {
+    "id": 58,
+    "term": "Nie ma tego złego, co by na dobre nie wyszło",
+    "definition": "\"There's no bad that won't turn out for the good\" — every cloud has a silver lining",
+    "example": "Straciłem tę pracę, ale nie ma tego złego, co by na dobre nie wyszło."
+  },
+  {
+    "id": 59,
+    "term": "Fortuna kołem się toczy",
+    "definition": "\"Fortune rolls like a wheel\" — what goes around comes around",
+    "example": "Dziś on na górze, jutro ty — fortuna kołem się toczy."
+  },
+  {
+    "id": 60,
+    "term": "Czas leczy rany",
+    "definition": "\"Time heals wounds\" — time is a great healer",
+    "example": "Daj sobie czas, czas leczy rany."
+  },
+  {
+    "id": 61,
+    "term": "Nie chwal dnia przed zachodem słońca",
+    "definition": "\"Don't praise the day before sunset\" — don't count your chickens",
+    "example": "Prowadzimy, ale nie chwal dnia przed zachodem słońca."
+  },
+  {
+    "id": 62,
+    "term": "Mądry Polak po szkodzie",
+    "definition": "\"A Pole is wise after the damage\" — wise after the event; hindsight is easy",
+    "example": "Teraz wszyscy wiedzą, jak trzeba było — mądry Polak po szkodzie."
+  },
+  {
+    "id": 63,
+    "term": "Ryba psuje się od głowy",
+    "definition": "\"A fish rots from the head\" — problems start at the top",
+    "example": "W tej firmie ryba psuje się od głowy."
+  },
+  {
+    "id": 64,
+    "term": "Wszędzie dobrze, ale w domu najlepiej",
+    "definition": "\"Everywhere is good, but home is best\" — there's no place like home",
+    "example": "Fajny był urlop, ale wszędzie dobrze, a w domu najlepiej."
+  },
+  {
+    "id": 65,
+    "term": "Nie od razu Kraków zbudowano",
+    "definition": "\"Kraków wasn't built at once\" — Rome wasn't built in a day",
+    "example": "Spokojnie, nie od razu Kraków zbudowano."
+  },
+  {
+    "id": 66,
+    "term": "Bez pracy nie ma kołaczy",
+    "definition": "\"Without work there are no cakes\" — no pain, no gain",
+    "example": "Ucz się, bez pracy nie ma kołaczy."
+  },
+  {
+    "id": 67,
+    "term": "Kuć żelazo, póki gorące",
+    "definition": "\"Strike the iron while it's hot\" — act while the chance is there",
+    "example": "Zadzwoń do nich dziś — kuj żelazo, póki gorące."
+  },
+  {
+    "id": 68,
+    "term": "I wilk syty, i owca cała",
+    "definition": "\"The wolf is full and the sheep is whole\" — a solution that suits everyone",
+    "example": "Podzieliliśmy dyżury tak, że i wilk syty, i owca cała."
+  },
+  {
+    "id": 69,
+    "term": "Zamienić się w słuch",
+    "definition": "\"To turn into hearing\" — to be all ears",
+    "example": "Mów, zamieniam się w słuch."
+  },
+  {
+    "id": 70,
+    "term": "Urwanie głowy",
+    "definition": "\"A tearing-off of the head\" — an absolute madhouse of a day",
+    "example": "W sklepie przed świętami było urwanie głowy."
+  },
+  {
+    "id": 71,
+    "term": "Wziąć nogi za pas",
+    "definition": "\"To take your legs behind your belt\" — to leg it",
+    "example": "Zobaczył psa i wziął nogi za pas."
+  },
+  {
+    "id": 72,
+    "term": "Zbijać bąki",
+    "definition": "\"To swat horseflies\" — to laze about doing nothing",
+    "example": "Całe wakacje zbijał bąki."
+  },
+  {
+    "id": 73,
+    "term": "Chodzić na rzęsach",
+    "definition": "\"To walk on your eyelashes\" — to be completely worn out",
+    "example": "Po nocnej zmianie chodzę na rzęsach."
+  },
+  {
+    "id": 74,
+    "term": "Spać jak suseł",
+    "definition": "\"To sleep like a gopher\" — to sleep like a log",
+    "example": "Spał jak suseł do południa."
+  },
+  {
+    "id": 75,
+    "term": "Być w siódmym niebie",
+    "definition": "\"To be in the seventh heaven\" — to be over the moon",
+    "example": "Jest w siódmym niebie po tych wiadomościach."
+  },
+  {
+    "id": 76,
+    "term": "Czuć się jak ryba w wodzie",
+    "definition": "\"To feel like a fish in water\" — to be in your element",
+    "example": "Na scenie czuje się jak ryba w wodzie."
+  },
+  {
+    "id": 77,
+    "term": "Mieć kogoś na oku",
+    "definition": "\"To have someone on your eye\" — to keep an eye on them",
+    "example": "Miej go na oku, jest nowy."
+  },
+  {
+    "id": 78,
+    "term": "Trzymać rękę na pulsie",
+    "definition": "\"To keep your hand on the pulse\" — to stay on top of things",
+    "example": "Trzymaj rękę na pulsie, sytuacja się zmienia."
+  },
+  {
+    "id": 79,
+    "term": "Coś tu nie gra",
+    "definition": "\"Something doesn't play here\" — something doesn't add up",
+    "example": "Te rachunki... coś tu nie gra."
+  },
+  {
+    "id": 80,
+    "term": "Ni z gruszki, ni z pietruszki",
+    "definition": "\"Neither from a pear nor from parsley\" — completely out of the blue",
+    "example": "Ni z gruszki, ni z pietruszki oświadczył, że wyjeżdża."
+  },
+  {
+    "id": 81,
+    "term": "Raz kozie śmierć",
+    "definition": "\"A goat dies but once\" — here goes nothing; you only live once",
+    "example": "Raz kozie śmierć — składam podanie."
+  },
+  {
+    "id": 82,
+    "term": "Nie ma róży bez kolców",
+    "definition": "\"There's no rose without thorns\" — nothing good comes without a drawback",
+    "example": "Praca świetna, ale dojazdy... nie ma róży bez kolców."
+  },
+  {
+    "id": 83,
+    "term": "Prawda w oczy kole",
+    "definition": "\"The truth pricks the eyes\" — the truth hurts",
+    "example": "Obraził się, bo prawda w oczy kole."
+  },
+  {
+    "id": 84,
+    "term": "Ściany mają uszy",
+    "definition": "\"The walls have ears\" — you may be overheard",
+    "example": "Ciszej, ściany mają uszy."
+  },
+  {
+    "id": 85,
+    "term": "Kropla drąży skałę",
+    "definition": "\"A drop hollows out the rock\" — persistence pays off",
+    "example": "Ćwicz codziennie po chwili — kropla drąży skałę."
+  },
+  {
+    "id": 86,
+    "term": "Jak sobie pościelesz, tak się wyśpisz",
+    "definition": "\"As you make your bed, so you will sleep\" — you've made your bed, now lie in it",
+    "example": "Nie uczyłeś się — jak sobie pościelesz, tak się wyśpisz."
+  },
+  {
+    "id": 87,
+    "term": "Baba z wozu, koniom lżej",
+    "definition": "\"The woman off the cart, the horses have it easier\" — good riddance",
+    "example": "Odszedł z zespołu? Baba z wozu, koniom lżej."
+  },
+  {
+    "id": 88,
+    "term": "Darowanemu koniowi w zęby się nie zagląda",
+    "definition": "\"You don't look a given horse in the teeth\" — don't look a gift horse in the mouth",
+    "example": "Stary rower, ale darowanemu koniowi w zęby się nie zagląda."
+  },
+  {
+    "id": 89,
+    "term": "Kto pod kim dołki kopie, ten sam w nie wpada",
+    "definition": "\"He who digs pits under others falls into them himself\" — what goes around comes around",
+    "example": "Donosił na kolegów i sam stracił pracę — kto pod kim dołki kopie…"
+  },
+  {
+    "id": 90,
+    "term": "Lepszy wróbel w garści niż gołąb na dachu",
+    "definition": "\"A sparrow in the hand beats a pigeon on the roof\" — a bird in the hand is worth two in the bush",
+    "example": "Weź tę ofertę: lepszy wróbel w garści niż gołąb na dachu."
+  },
+  {
+    "id": 91,
+    "term": "Uderz w stół, a nożyce się odezwą",
+    "definition": "\"Hit the table and the scissors will answer\" — the guilty one gives themselves away",
+    "example": "Nikogo nie oskarżałem, a on od razu się tłumaczy — uderz w stół…"
+  },
+  {
+    "id": 92,
+    "term": "Z deszczu pod rynnę",
+    "definition": "\"Out of the rain and under the drainpipe\" — out of the frying pan into the fire",
+    "example": "Zmienił pracę i trafił z deszczu pod rynnę."
+  },
+  {
+    "id": 93,
+    "term": "Trafić w dziesiątkę",
+    "definition": "\"To hit the ten\" — to hit the bullseye; to get it exactly right",
+    "example": "Z tym prezentem trafiłeś w dziesiątkę."
+  },
+  {
+    "id": 94,
+    "term": "Wisieć na włosku",
+    "definition": "\"To hang by a hair\" — to hang by a thread",
+    "example": "Jego posada wisi na włosku."
+  },
+  {
+    "id": 95,
+    "term": "Mieć dwie lewe ręce",
+    "definition": "\"To have two left hands\" — to be hopelessly clumsy with practical work",
+    "example": "Nie proś mnie o półkę, mam dwie lewe ręce."
+  },
+  {
+    "id": 96,
+    "term": "Złota rączka",
+    "definition": "\"A golden little hand\" — someone handy who can fix anything",
+    "example": "Sąsiad to złota rączka, naprawi wszystko."
+  },
+  {
+    "id": 97,
+    "term": "Puścić coś mimo uszu",
+    "definition": "\"To let something pass by your ears\" — to ignore a remark",
+    "example": "Puściłem tę uwagę mimo uszu."
+  },
+  {
+    "id": 98,
+    "term": "Nabić kogoś w butelkę",
+    "definition": "\"To stuff someone into a bottle\" — to take someone for a ride",
+    "example": "Nabili nas w butelkę z tą gwarancją."
+  },
+  {
+    "id": 99,
+    "term": "Siedzieć cicho jak mysz pod miotłą",
+    "definition": "\"To sit as quiet as a mouse under a broom\" — to keep very quiet and out of trouble",
+    "example": "Po tej awanturze siedział cicho jak mysz pod miotłą."
+  },
+  {
+    "id": 100,
+    "term": "Wpaść komuś w oko",
+    "definition": "\"To fall into someone's eye\" — to catch someone's fancy",
+    "example": "Ta sukienka od razu wpadła jej w oko."
+  }
+];
+window.QM_IDIOMS_FR_DATA = [
+  {
+    "id": 1,
+    "term": "attacher sa tuque",
+    "definition": "to brace oneself; to get ready; to hold onto one's hat",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "au fur et à mesure",
+    "definition": "in keeping with",
+    "example": "La demande diminue toujours au fur et à mesure que le prix augmente."
+  },
+  {
+    "id": 3,
+    "term": "avec des bouts de ficelle",
+    "definition": "on a shoestring",
+    "example": "Il est devenu millionnaire grâce à un prototype construit avec des bouts de ficelle."
+  },
+  {
+    "id": 4,
+    "term": "avoir du pain sur la planche",
+    "definition": "to have bread on the table",
+    "example": "Bon, là, il faut qu'on commence. On a du pain sur la planche !"
+  },
+  {
+    "id": 5,
+    "term": "avoir du sang sur les mains",
+    "definition": "to have blood on one's hands",
+    "example": "Tu es peut-être sorti indemne de ton accident de conduite en état d'ivresse, mais tu as le sang de ce pauvre garçon sur les mains."
+  },
+  {
+    "id": 6,
+    "term": "avoir le cœur sur la main",
+    "definition": "to be open-handed, to be generous",
+    "example": "Magali a le cœur sur la main."
+  },
+  {
+    "id": 7,
+    "term": "bien mal acquis ne profite jamais",
+    "definition": "ill-gotten gains never prosper",
+    "example": ""
+  },
+  {
+    "id": 8,
+    "term": "bien tard venu pour néant tenu",
+    "definition": "what comes too late doesn't count any more",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "bonnet blanc, blanc bonnet",
+    "definition": "tomayto, tomahto; same difference; six of one, half a dozen of the other",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "bouche de miel, cœur de fiel",
+    "definition": "One who speaks sweetly but harbors bitterness or malice; smooth lips hide an evil heart",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "boucler la boucle",
+    "definition": "to come full circle",
+    "example": "la boucle est bouclée."
+  },
+  {
+    "id": 12,
+    "term": "bâtir des châteaux en Espagne",
+    "definition": "to chase rainbows, to build castles in the air",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "c'est au fruit que l'on connaît l'arbre",
+    "definition": "the proof of the pudding is in the eating",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "c'est dans le besoin qu'on reconnaît ses vrais amis",
+    "definition": "a friend in need is a friend indeed",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "chien qui aboie ne mord pas",
+    "definition": "barking dogs seldom bite, one's bark is worse than one's bite, all talk no bite",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "comment sont les zaricos",
+    "definition": "how are you?, how are things?",
+    "example": "Comment sont les zaricos? — Oh, les zaricos sont salés!"
+  },
+  {
+    "id": 17,
+    "term": "couper les cheveux en quatre",
+    "definition": "to split hairs",
+    "example": "Ne coupe pas les cheveux en quatre. Tu sais où je veux en venir."
+  },
+  {
+    "id": 18,
+    "term": "coûter les yeux de la tête",
+    "definition": "to cost an arm and a leg, to cost the earth: to cost too much, to be very expensive",
+    "example": "J'en ai marre de payer un loyer dans cette ville. Ça me coûte les yeux de la tête !"
+  },
+  {
+    "id": 19,
+    "term": "de deux maux, il faut choisir le moindre",
+    "definition": "one must choose the lesser of two evils",
+    "example": ""
+  },
+  {
+    "id": 20,
+    "term": "des goûts et des couleurs, on ne discute pas",
+    "definition": "there's no accounting for taste",
+    "example": ""
+  },
+  {
+    "id": 21,
+    "term": "deux avis valent mieux qu'un",
+    "definition": "two heads are better than one",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "deux précautions valent mieux qu'une",
+    "definition": "better safe than sorry; a belt-and-braces/belt-and-suspenders approach always wins the day",
+    "example": ""
+  },
+  {
+    "id": 23,
+    "term": "du fil à retordre",
+    "definition": "a hard time, some difficulties",
+    "example": "Son adversaire lui a donné du fil à retordre."
+  },
+  {
+    "id": 24,
+    "term": "en avoir jusque-là",
+    "definition": "to have had it up to here (with); to have had enough (of), to be fed up",
+    "example": "Il en a jusque-là de ton insouciance."
+  },
+  {
+    "id": 25,
+    "term": "en avoir pour son argent",
+    "definition": "to get one's money's worth, to get good value for money",
+    "example": ""
+  },
+  {
+    "id": 26,
+    "term": "en avril ne te découvre pas d'un fil, en mai fais ce qu'il te plaît",
+    "definition": "ne'er cast a clout till May be out",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "entre l'arbre et l'écorce",
+    "definition": "In a bad situation; between a rock and a hard place",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "entre le marteau et l'enclume",
+    "definition": "between the hammer and the anvil",
+    "example": "J'étais entre le marteau et l'enclume, car si je ne contractais pas un autre prêt - et ne m'endettais pas davantage - je ne pourrais pas rembourser les dettes que j'avais déjà."
+  },
+  {
+    "id": 29,
+    "term": "faire d'une pierre deux coups",
+    "definition": "to kill two birds with one stone",
+    "example": "Autant faire d'une pierre deux coups et déposer mes feuilles d'impôts pendant que je suis au centre commercial pour la pièce d'ordinateur dont j'ai besoin."
+  },
+  {
+    "id": 30,
+    "term": "faire une belle jambe",
+    "definition": "to do a fat lot of good",
+    "example": "Ça me fait une belle jambe !"
+  },
+  {
+    "id": 31,
+    "term": "fais ce que je dis, pas ce que je fais",
+    "definition": "do as I say and not as I do",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "faute avouée est à moitié pardonnée",
+    "definition": "a fault confessed is half redressed",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "faute de grives on mange des merles",
+    "definition": "beggars can't be choosers, half a loaf is better than none, any port in a storm",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "gagner son bifteck",
+    "definition": "to bring home the bacon",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "garder son sang-froid",
+    "definition": "to keep one's cool; to keep a cool head",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "grasse matinée",
+    "definition": "sleep-in, lie-in",
+    "example": "Je n'aurais pas dû faire la grasse matinée."
+  },
+  {
+    "id": 37,
+    "term": "griffer la glace",
+    "definition": "To ice-skate",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "gros bonnet",
+    "definition": "bigwig",
+    "example": ""
+  },
+  {
+    "id": 39,
+    "term": "grosse légume",
+    "definition": "big cheese, bigwig",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "habit vert",
+    "definition": "the clothing worn by the members of the Institut de France",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "heure du mystère",
+    "definition": "dusk, twilight",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "huile de coude",
+    "definition": "elbow grease",
+    "example": ""
+  },
+  {
+    "id": 43,
+    "term": "huis clos",
+    "definition": "closed door",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "huitième art",
+    "definition": "television",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "humour noir",
+    "definition": "black humor",
+    "example": ""
+  },
+  {
+    "id": 46,
+    "term": "il faut battre le fer pendant qu'il est chaud",
+    "definition": "One must strike while the iron is hot",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "il faut de tout pour faire un monde",
+    "definition": "it takes all kinds to make a world, it takes all sorts, variety is the spice of life",
+    "example": ""
+  },
+  {
+    "id": 48,
+    "term": "il faut que jeunesse se passe",
+    "definition": "youth must have its fling; boys will be boys",
+    "example": ""
+  },
+  {
+    "id": 49,
+    "term": "il n'est pire aveugle que celui qui ne veut pas voir",
+    "definition": "there are none so blind as those who will not see",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "il n'est pire sourd que celui qui ne veut pas entendre",
+    "definition": "there are none so deaf as those who will not hear",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "il n'est si bon charretier qui ne verse",
+    "definition": "even Homer nods, it's a good horse that never stumbles",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "jamais deux sans trois",
+    "definition": "all things come in threes, things always come in threes",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "je te dis merde",
+    "definition": "break a leg! good luck!",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "jeter de l'huile sur le feu",
+    "definition": "add fuel to the fire",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "jeter le bébé avec l'eau du bain",
+    "definition": "throw the baby out with the bathwater",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "jeter le gant",
+    "definition": "throw down the gauntlet",
+    "example": "Le plus grand syndicat d'enseignants a jeté le gant au gouvernement hier, menaçant de faire grève si ses revendications ne sont pas satisfaites."
+  },
+  {
+    "id": 57,
+    "term": "jeu de main, jeu de vilain",
+    "definition": "it will end in tears! stop fooling around! stop roughhousing! you'll poke an eye out! it's all fun and games t",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "l'appétit vient en mangeant",
+    "definition": "appetite comes with eating",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "l'argent est le nerf de la guerre",
+    "definition": "money is crucial to wage a war, money is key when waging a war, money is the fuel of war",
+    "example": ""
+  },
+  {
+    "id": 60,
+    "term": "l'argent ne pousse pas dans les arbres",
+    "definition": "money doesn't grow on trees",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "l'avenir appartient à ceux qui se lèvent tôt",
+    "definition": "the early bird gets the worm",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "les absents ont toujours tort",
+    "definition": "it is easy to accuse someone of wrongdoing when they are not there to defend themselves",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "manger à tous les râteliers",
+    "definition": "to have many irons in the fire, to play the field",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "mariage pluvieux, mariage heureux",
+    "definition": "Rain on one's wedding day brings good luck",
+    "example": ""
+  },
+  {
+    "id": 65,
+    "term": "mettre de l'eau dans son vin",
+    "definition": "to moderate one's impetuosity; to compromise",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "mieux vaut prévenir que guérir",
+    "definition": "prevention is better than cure, better safe than sorry",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "mieux vaut tenir que courir",
+    "definition": "a bird in the hand is worth two in the bush, better an egg today than a hen tomorrow",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "mieux vaut être seul que mal accompagné",
+    "definition": "it is better to be alone than in bad company",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "n'y être pour rien",
+    "definition": "to have no responsibility (for it); to have no part (in it), to have nothing to do",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "ne pas desserrer les dents",
+    "definition": "to keep one's lips sealed, to remain silent",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "ne pas lésiner sur les moyens",
+    "definition": "To go all out; to pull out all the stops",
+    "example": ""
+  },
+  {
+    "id": 72,
+    "term": "Noël au balcon, Pâques au tison",
+    "definition": "If Christmas is warm, Easter will be cold",
+    "example": ""
+  },
+  {
+    "id": 73,
+    "term": "nul n'a bien s'il ne le compère",
+    "definition": "Nothing comes out of nothing",
+    "example": ""
+  },
+  {
+    "id": 74,
+    "term": "nul n'est censé ignorer la loi",
+    "definition": "ignorantia juris non excusat, ignorance of the law is not a valid excuse",
+    "example": ""
+  },
+  {
+    "id": 75,
+    "term": "oignez vilain, il vous poindra ; poignez vilain, il vous oindra",
+    "definition": "if you behave kindly towards a bad person, they will be mean",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "on en apprend tous les jours",
+    "definition": "you learn something new every day, every day is a school day",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "on n'a rien sans rien",
+    "definition": "you don't get something for nothing; there's no such thing as a free lunch",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "on n'apprend pas pour l'école mais pour la vie",
+    "definition": "we do not learn for school, but for life",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "on n'arrête pas le progrès",
+    "definition": "you can't stop progress, there's no stopping progress",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "on n'attrape pas des mouches avec du vinaigre",
+    "definition": "honey catches more flies than vinegar; you can catch more flies with honey than with vinegar",
+    "example": ""
+  },
+  {
+    "id": 81,
+    "term": "Paris ne s'est pas fait en un jour",
+    "definition": "Rome wasn't built in a day",
+    "example": ""
+  },
+  {
+    "id": 82,
+    "term": "petit à petit, l'oiseau fait son nid",
+    "definition": "slow and steady wins the race; little strokes fell great oaks",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "petite pluie abat grand vent",
+    "definition": "Small rain lays great dust; a little kindness goes a long way",
+    "example": ""
+  },
+  {
+    "id": 84,
+    "term": "pierre qui roule n'amasse pas mousse",
+    "definition": "a rolling stone gathers no moss",
+    "example": ""
+  },
+  {
+    "id": 85,
+    "term": "plus fait douceur que violence",
+    "definition": "gentleness works better than violence; you'll get more by being kind than by resorting to violence",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "qu'est-ce qu'il y a",
+    "definition": "what's happening? what's the matter?",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "quand le chat n'est pas là, les souris dansent",
+    "definition": "when the cat's away the mice will play",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "quand le vin est tiré, il faut le boire",
+    "definition": "in for a penny, in for a pound",
+    "example": ""
+  },
+  {
+    "id": 89,
+    "term": "quand les poules auront des dents",
+    "definition": "when Hell freezes over; when pigs fly",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "quand on aime on ne compte pas",
+    "definition": "when you love, you don't count the cost",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "rendre son âme au bon Dieu",
+    "definition": "to pass away; to give up the ghost",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "rien ne sert de courir, il faut partir à point",
+    "definition": "slow and steady wins the race; more haste, less speed",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "rira bien qui rira le dernier",
+    "definition": "he who laughs last laughs best",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "s'y casser les dents",
+    "definition": "to come up against a brick wall",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "se changer les idées",
+    "definition": "to start a new activity in order to change one's state of mind",
+    "example": "J'en ai marre de cette ambiance tendue ! Je sors pour me changer les idées."
+  },
+  {
+    "id": 96,
+    "term": "se jeter au cou",
+    "definition": "to embrace with affection, to shower with affection",
+    "example": "se jeter au cou de quelqu'un."
+  },
+  {
+    "id": 97,
+    "term": "se tirer une balle dans le pied",
+    "definition": "to shoot oneself in the foot",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "term": "sur le bout de la langue",
+    "definition": "on the tip of one's tongue",
+    "example": ""
+  },
+  {
+    "id": 99,
+    "term": "taillable et corvéable à merci",
+    "definition": "heavily taxed; enslaved to do onerous work",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "tailler le bout de gras",
+    "definition": "to shoot the breeze, to chew the fat, to chat",
+    "example": ""
+  }
+];
+window.QM_IDIOMS_DE_DATA = [
+  {
+    "id": 1,
+    "term": "'n Appel und 'n Ei",
+    "definition": "peanuts; a low, minuscule price",
+    "example": "Er arbeitet für 'n Appel und 'n Ei."
+  },
+  {
+    "id": 2,
+    "term": "alles auf eine Karte setzen",
+    "definition": "Risking everything, putting all one's eggs in one basket",
+    "example": ""
+  },
+  {
+    "id": 3,
+    "term": "auf dem Laufenden halten",
+    "definition": "to keep (someone) in the loop, to keep (someone) informed, to keep (someone) up-to-date",
+    "example": "Halt mich auf dem Laufenden!"
+  },
+  {
+    "id": 4,
+    "term": "auf die Nerven gehen",
+    "definition": "to get on someone's nerves, to annoy",
+    "example": "Euer Unsinn geht mir echt auf die Nerven."
+  },
+  {
+    "id": 5,
+    "term": "auf einem anderen Blatt stehen",
+    "definition": "to be another matter, to be a different story",
+    "example": "Er analysiert das verfehlte Regierungsprogramm sehr klar. Dass sein eigenes Programm noch verfehlter ist, steht auf einem anderen Blatt."
+  },
+  {
+    "id": 6,
+    "term": "aus der Not eine Tugend machen",
+    "definition": "to make a virtue of necessity",
+    "example": "Viele Männer mit Haarausfall machen aus der Not eine Tugend und scheren sich den Kopf kahl."
+  },
+  {
+    "id": 7,
+    "term": "aus einer Mücke einen Elefanten machen",
+    "definition": "to make a mountain out of a mole hill",
+    "example": "Du hast eine einzige Zwei bekommen und tust so, als würdest du in der Klasse durchfallen. Du machst aus einer Mücke einen Elefanten, wenn du mich fragst."
+  },
+  {
+    "id": 8,
+    "term": "bei Adam und Eva anfangen",
+    "definition": "to start from the very beginning",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "bei der Stange halten",
+    "definition": "to keep (someone) in line; to make loyal",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "bei sich sein",
+    "definition": "to have come to; to be calm or conscious",
+    "example": "Er kam kurz vorbei, aber jetzt ist er wieder bei sich."
+  },
+  {
+    "id": 11,
+    "term": "Bescheidenheit ist eine Zier, doch weiter kommt man ohne ihr",
+    "definition": "Being modest and humble is a morally commendable approach in life",
+    "example": ""
+  },
+  {
+    "id": 12,
+    "term": "besser ein Ende mit Schrecken, als ein Schrecken ohne Ende",
+    "definition": "However painful, dealing resolutely with a problematic situation is preferable to allowing it to go on indefin",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "Butter bei die Fische",
+    "definition": "talking turkey, cutting to the chase",
+    "example": "Jetzt mal Butter bei die Fische: Hast du's gemacht oder nicht?"
+  },
+  {
+    "id": 14,
+    "term": "Chinesisch sprechen",
+    "definition": "to be unintelligible",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "das Blaue vom Himmel versprechen",
+    "definition": "to make a promise that cannot be fulfilled",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "das Fell über die Ohren ziehen",
+    "definition": "to pull the wool over someone's eyes",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "das Gelbe vom Ei",
+    "definition": "the very best, something to write home about",
+    "example": "Das ist nicht gerade das Gelbe vom Ei."
+  },
+  {
+    "id": 18,
+    "term": "das Kind fällt in den Brunnen",
+    "definition": "a disaster happens or becomes inevitable; it is too late for precautions that should have been taken earlier",
+    "example": "Wenn das Kind in den Brunnen gefallen ist, wollen es alle wieder gleich gewusst haben."
+  },
+  {
+    "id": 19,
+    "term": "dem Fass den Boden ausschlagen",
+    "definition": "to be unbelievable, outrageous, to be the most unbelievable part, to take the biscuit",
+    "example": "Dass Sie die vertragsgemäße Wartung einfach nicht durchgeführt haben, ist schlimm genug, aber dass Sie mir dann trotzdem eine Rechnung schicken, schlägt dem Fass den Boden aus."
+  },
+  {
+    "id": 20,
+    "term": "durch den Kakao ziehen",
+    "definition": "to pull someone's leg, to make fun of someone or something, to roast someone",
+    "example": "Er zieht dich nur durch den Kakao."
+  },
+  {
+    "id": 21,
+    "term": "ein Ass im Ärmel haben",
+    "definition": "to have an ace up one's sleeve",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "ein bisschen Schwund ist immer",
+    "definition": "You must allow for some unanticipated or unexplained losses. You should expect neither that things proceed per",
+    "example": "Leute! Ein bisschen Schwund ist immer. Aber wie schnell hier meine Büroklammern immer aufgebraucht sind, grenzt an Diebstahl!"
+  },
+  {
+    "id": 23,
+    "term": "einen Frosch im Hals haben",
+    "definition": "to have a frog in one's throat",
+    "example": ""
+  },
+  {
+    "id": 24,
+    "term": "es kann nicht sein, was nicht sein darf",
+    "definition": "people find it extremely hard to accept facts when they go against their firmly held conviction or are otherwi",
+    "example": "Obwohl man den Krieg längst verloren wusste, führte man ihn weiter nach dem Prinzip: Es kann nicht sein, was nicht sein darf!"
+  },
+  {
+    "id": 25,
+    "term": "es von den Lebenden nehmen",
+    "definition": "to charge a lot of money, to overprice",
+    "example": "Die Anwälte nehmen es von den Lebenden, das ist ja allgemein bekannt."
+  },
+  {
+    "id": 26,
+    "term": "etwas im Schilde führen",
+    "definition": "to be up to something, to scheme, to carry on one's mind, to have something up one's sleeve",
+    "example": "Böses im Schilde führen."
+  },
+  {
+    "id": 27,
+    "term": "fehl am Platz",
+    "definition": "misplaced, out of place",
+    "example": "Ich fühlte mich in dieser Gesellschaft fehl am Platz."
+  },
+  {
+    "id": 28,
+    "term": "Feuer und Flamme sein",
+    "definition": "to be full of enthusiasm; to be keen as mustard",
+    "example": ""
+  },
+  {
+    "id": 29,
+    "term": "fix und fertig",
+    "definition": "bushed, burnt out, dead on one's feet, at the end of one's rope, running on fumes, ready to drop, out of steam",
+    "example": ""
+  },
+  {
+    "id": 30,
+    "term": "Freunde in der Not gehen hundert auf ein Lot",
+    "definition": "a friend in need is a friend indeed",
+    "example": ""
+  },
+  {
+    "id": 31,
+    "term": "fünf Finger und ein Griff",
+    "definition": "the act of stealing, especially casually when the opportunity presents itself",
+    "example": "Neue Jacke? Was hat die gekostet? Fünf Finger und einen Griff?"
+  },
+  {
+    "id": 32,
+    "term": "fünf Minuten vor der Zeit ist des Deutschen Pünktlichkeit",
+    "definition": "one should plan to arrive earlier than the date in order to make sure that one will not be late",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "ganz dicht sein",
+    "definition": "to be in one's right mind",
+    "example": "Bist du noch ganz dicht?"
+  },
+  {
+    "id": 34,
+    "term": "geschenkt ist geschenkt, wiederholen ist gestohlen",
+    "definition": "you can’t take back what you gave as a present; no backsies",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "gesunder Geist in gesundem Körper",
+    "definition": "A healthy mind in a healthy body",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "geteiltes Leid ist halbes Leid",
+    "definition": "a sorrow shared is a sorrow halved",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "Gleich und Gleich gesellt sich gern",
+    "definition": "birds of a feather flock together",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "Gottes Mühlen mahlen langsam",
+    "definition": "the mills of the gods grind slowly",
+    "example": "Gottes Mühlen mahlen langsam, mahlen aber trefflich klein."
+  },
+  {
+    "id": 39,
+    "term": "Hans Dampf in allen Gassen",
+    "definition": "jack of all trades",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "Himmel und Hölle in Bewegung setzen",
+    "definition": "to move heaven and earth",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "hingehen, wo der Pfeffer wächst",
+    "definition": "to go jump in the lake",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "hinter die Kulissen schauen",
+    "definition": "to take a look behind the scenes",
+    "example": ""
+  },
+  {
+    "id": 43,
+    "term": "hinters Licht führen",
+    "definition": "pull the wool over someone's eyes",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "Hopfen und Malz ist verloren",
+    "definition": "it's a waste, all hope is in vain",
+    "example": "Da ist Hopfen und Malz verloren."
+  },
+  {
+    "id": 45,
+    "term": "im falschen Film",
+    "definition": "in a bizarre situation that runs contrary to one's expectations",
+    "example": "Da waren nur Bekloppte, ich dacht, ich wär im falschen Film."
+  },
+  {
+    "id": 46,
+    "term": "in den letzten Zügen liegen",
+    "definition": "to be on one's last legs; to be in one's death throes",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "in den Tee tun",
+    "definition": "to slip something in someone’s drink",
+    "example": "Hast du mir schon Zucker in den Tee getan?"
+  },
+  {
+    "id": 48,
+    "term": "in der Kreide stehen",
+    "definition": "to be in (someone's) debt",
+    "example": "Ich stehe noch bei meinem Nachbarn in der Kreide."
+  },
+  {
+    "id": 49,
+    "term": "in die Enge treiben",
+    "definition": "to trap, to scare, to corner",
+    "example": "Viele Menschen fühlen sich durch die neuen Beschränkungen in die Enge getrieben."
+  },
+  {
+    "id": 50,
+    "term": "in die Pfanne hauen",
+    "definition": "to criticize or deride (someone) harshly, especially in a disloyal manner; to slam, to throw under the bus",
+    "example": "Ich will meine Kollegen nicht in die Pfanne hauen, aber ich muss doch festhalten, dass ich von Anfang an dagegen war."
+  },
+  {
+    "id": 51,
+    "term": "jedes Wort auf die Goldwaage legen",
+    "definition": "to think carefully about one's wording",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "jemandem das Ohr abkauen",
+    "definition": "to bother someone with endless speaking, get on someone's nerves",
+    "example": "Kau mir nicht das Ohr ab."
+  },
+  {
+    "id": 53,
+    "term": "jemandem ein Kuckucksei ins Nest legen",
+    "definition": "to hurt someone such in a way that it only becomes apparent later",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "jemandem ein X für ein U vormachen",
+    "definition": "to deceive, to hoodwink, to trick, to lead someone up the garden path",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "jemandem etwas zur Last legen",
+    "definition": "to accuse, blame",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "jemandem stehen die Haare zu Berge",
+    "definition": "someone is worked up, upset or frightened to no end",
+    "example": "Als das Monster dann um die Ecke kam, standen mir die Haare zu Berge."
+  },
+  {
+    "id": 57,
+    "term": "Kaiser von China",
+    "definition": "someone magnificent that one is not",
+    "example": "Er hält sich für den Kaiser von China."
+  },
+  {
+    "id": 58,
+    "term": "kein Blatt vor den Mund nehmen",
+    "definition": "to be outspoken; not to mince words; to call a spade a spade",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "keine Antwort ist auch eine Antwort",
+    "definition": "a person’s silence can be very telling",
+    "example": "Und? Wie schmeckt dir mein neues Gericht? – [Stille.] – Naja, keine Antwort ist auch eine Antwort."
+  },
+  {
+    "id": 60,
+    "term": "keine halben Sachen machen",
+    "definition": "to not do things by halves",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "Kindermund tut Wahrheit kund",
+    "definition": "out of the mouths of babes comes truth",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "knapp daneben ist auch vorbei",
+    "definition": "close, but no cigar; a miss is as good as a mile",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "leck mich am Arsch",
+    "definition": "kiss my ass",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "Leiche im Keller",
+    "definition": "skeleton in the cupboard, skeleton in the closet",
+    "example": ""
+  },
+  {
+    "id": 65,
+    "term": "Liebe geht durch den Magen",
+    "definition": "for someone, or offering someone food",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "lieber eine Stumme im Bett als eine Taube auf dem Dach",
+    "definition": "a bird in the hand is worth two in the bush",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "Loch im Kopf",
+    "definition": "a laceration on the scalp",
+    "example": "Der Peter ist gestern von der Mauer gefallen und hatte ein Loch im Kopf."
+  },
+  {
+    "id": 68,
+    "term": "Lügen haben schöne Beine",
+    "definition": "lying can be an attractive option; lies can be deceptively attractive",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "mir nichts, dir nichts",
+    "definition": "suddenly; without warning, or consideration, or regard for own detriment",
+    "example": "Jetzt haben sie ihren Sohn dreißig Jahre lang verwöhnt und kaum hat er eine Freundin, zieht er mir nichts, dir nichts aus."
+  },
+  {
+    "id": 70,
+    "term": "mit gewaschenem Hals",
+    "definition": "finding oneself in an awkward situation",
+    "example": "Ich würde mich da nicht unnötig festlegen. Nachher stehst du da mit deinem gewaschenen Hals."
+  },
+  {
+    "id": 71,
+    "term": "mit jemandem ins Gericht gehen",
+    "definition": "to take a hard look at someone, to judge someone",
+    "example": ""
+  },
+  {
+    "id": 72,
+    "term": "mit Kind und Kegel",
+    "definition": "as a large group; with all of one's family, contents, and/or livestock",
+    "example": "Angelina Jolie und Brad Pitt sind mit Kind und Kegel in Nizza angekommen."
+  },
+  {
+    "id": 73,
+    "term": "mit Sack und Pack",
+    "definition": "with all one's belongings, bag and baggage",
+    "example": "Unerwartet stand mein Bruder mit Sack und Pack vor meiner Haustür und bat um Herberge."
+  },
+  {
+    "id": 74,
+    "term": "nach Adam Riese",
+    "definition": "calculating correctly, by the rules of mathematics",
+    "example": "Wenn du am Tag 70 Euro verdienst, aber über 20 Euro Fahrtkosten hast, bleiben dir nach Adam Riese nicht mal 50 Euro übrig."
+  },
+  {
+    "id": 75,
+    "term": "nach oben buckeln und nach unten treten",
+    "definition": "to be meek towards one's superiors and despotic towards one's inferiors",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "nachts sind alle Katzen grau",
+    "definition": "differences that are normally clearly noticeable may become blurred under certain circumstances",
+    "example": "Hannah Arendt lehnte die Idee einer Kollektivschuld ab, weil sie dazu führe, dass nach dem Prinzip „Nachts sind alle Katzen grau“ die wirklich Schuldigen entlastet würden."
+  },
+  {
+    "id": 77,
+    "term": "nicht alle Tassen im Schrank haben",
+    "definition": "to not have all one's marbles, (being) a few cards short of a deck, have a screw loose",
+    "example": "Der hat doch nicht alle Tassen im Schrank!"
+  },
+  {
+    "id": 78,
+    "term": "nicht der Rede wert sein",
+    "definition": "to be nothing worth mentioning",
+    "example": "nicht der Rede wert."
+  },
+  {
+    "id": 79,
+    "term": "ob man will oder nicht",
+    "definition": "willy-nilly; whether we like it or not",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "oben licht und unten dicht",
+    "definition": "mentally capable and continent",
+    "example": "Solang man oben licht und unten dicht bleibt, ist ja alles noch in Ordnung."
+  },
+  {
+    "id": 81,
+    "term": "ohne Fleiß kein Preis",
+    "definition": "no pain, no gain",
+    "example": ""
+  },
+  {
+    "id": 82,
+    "term": "ohne mit der Wimper zu zucken",
+    "definition": "without batting an eyelash",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "ohne Punkt und Komma",
+    "definition": "lengthy and rapid, without pause, possibly also somewhat incoherent",
+    "example": "Er redet ohne Punkt und Komma."
+  },
+  {
+    "id": 84,
+    "term": "Pack schlägt sich, Pack verträgt sich",
+    "definition": "It is normal for people (especially impulsive ones) to have big fights or enmities and then suddenly be friend",
+    "example": "„Jahrelang haben sie sich bekriegt und jetzt verbünden sie sich auf einmal.“ – „Tja, Pack schlägt sich, Pack verträgt sich.“."
+  },
+  {
+    "id": 85,
+    "term": "Papier ist geduldig",
+    "definition": "the fact that something has been put in writing does not make it true or certain to be realized",
+    "example": "Die Verordnung schreibt doch ganz genau vor, wie in solchen Fällen zu verfahren ist! — Naja, Papier ist geduldig, und hier auf dem Land wird das eben etwas anders gehandhabt."
+  },
+  {
+    "id": 86,
+    "term": "Perlen vor die Säue werfen",
+    "definition": "cast pearls before swine",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "Platz nehmen",
+    "definition": "to have a seat, to take a seat",
+    "example": "bitte nehmen Sie Platz."
+  },
+  {
+    "id": 88,
+    "term": "Probieren geht über Studieren",
+    "definition": "experience is the best teacher; experimentation and hands-on experience is more valuable than theoretizing",
+    "example": ""
+  },
+  {
+    "id": 89,
+    "term": "Raben zeugen keine Tauben",
+    "definition": "a wild goose never laid a tame egg",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "Rede und Antwort stehen",
+    "definition": "to answer to",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "Reden ist Silber, Schweigen ist Gold",
+    "definition": "speech is silver, silence is golden",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "Rom ist nicht an einem Tag erbaut worden",
+    "definition": "Rome wasn't built in a day",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "rum wie num",
+    "definition": "all the same; either way; it makes no difference",
+    "example": "Ob du rechts oder links anfängst, ist rum wie num."
+  },
+  {
+    "id": 94,
+    "term": "sein Glück nicht fassen können",
+    "definition": "to cannot believe one's luck, to be overjoyed",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "sein Licht unter den Scheffel stellen",
+    "definition": "to hide one's light under a bushel",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "term": "sich aus den Fingern saugen",
+    "definition": "to think of something, to make up, to make up out of thin air, to invent (false stories, figures, etc.)",
+    "example": "Das hast du dir wieder aus den Fingern gesaugt."
+  },
+  {
+    "id": 97,
+    "term": "sich die Butter vom Brot nehmen lassen",
+    "definition": "to (allow oneself to) be outmaneuvered, blindsided, ousted, displaced, to stick up for oneself, hold one's own",
+    "example": "Auch wenn sie noch neu ist, merkt man schon, dass sie sich nicht so leicht die Butter vom Brot nehmen lässt."
+  },
+  {
+    "id": 98,
+    "term": "so klein mit Hut",
+    "definition": "meek, silenced, put in one's place, cut down to size",
+    "example": "Ich hab ihm mal gesagt, was ich von ihm halte; da war er aber so klein mit Hut."
+  },
+  {
+    "id": 99,
+    "term": "traue keiner Statistik, die du nicht selbst gefälscht hast",
+    "definition": "always take statistics with a grain of salt",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "Tropfen, der das Fass zum Überlaufen bringt",
+    "definition": "final straw, last straw, the straw that broke the camel's back",
+    "example": ""
+  }
+];
+window.QM_IDIOMS_ES_DATA = [
+  {
+    "id": 1,
+    "term": "a otro perro con ese hueso",
+    "definition": "you can't fool me, go tell that to somebody else; tell it to the marines",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "agarrar fuego el cañal",
+    "definition": "to have a situation or problem get more complicated or worse; to have a situation or problem go downhill",
+    "example": "Cuando él la insultó agarró fuego el cañal."
+  },
+  {
+    "id": 3,
+    "term": "al primer golpe de vista",
+    "definition": "as soon as one sets one's eyes on something",
+    "example": ""
+  },
+  {
+    "id": 4,
+    "term": "andar a tres menos cuartillo",
+    "definition": "to be skint; to be down on one's uppers",
+    "example": ""
+  },
+  {
+    "id": 5,
+    "term": "armar la de san Quintín",
+    "definition": "to start a fight",
+    "example": "Se armó la de San Quintín."
+  },
+  {
+    "id": 6,
+    "term": "arrimar el ascua a su sardina",
+    "definition": "to tip the balance in one's favour, look out for number one",
+    "example": ""
+  },
+  {
+    "id": 7,
+    "term": "bailar al son que le tocan",
+    "definition": "to do as one is told; to obey; to follow the rules",
+    "example": ""
+  },
+  {
+    "id": 8,
+    "term": "bien predica quien bien vive",
+    "definition": "he who preaches well is he who lives well",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "blanca y en botella, leche",
+    "definition": "no doubt about it, no question",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "brillar por su ausencia",
+    "definition": "to be conspicuous by one's absence, to be conspicuously absent",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "buscar pelos en la sopa",
+    "definition": "to look for excuses to complain",
+    "example": "¿Por qué buscabas pelos en la sopa?"
+  },
+  {
+    "id": 12,
+    "term": "buscarle las cosquillas a alguien",
+    "definition": "to push someone's buttons; to get someone's goat",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "caérsele la venda de los ojos",
+    "definition": "scales fall from someone's eyes",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "como alma que lleva el diablo",
+    "definition": "like a bat out of hell",
+    "example": "salir como alma que lleva el diablo."
+  },
+  {
+    "id": 15,
+    "term": "como si no hubiera un mañana",
+    "definition": "like one's life depended on it",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "como si tal cosa",
+    "definition": "as if it were nothing; business as usual",
+    "example": "No puedo dejar que te vayas como si tal cosa."
+  },
+  {
+    "id": 17,
+    "term": "con el corazón en la mano",
+    "definition": "with one's hand on one's heart",
+    "example": ""
+  },
+  {
+    "id": 18,
+    "term": "dar atole con el dedo",
+    "definition": "to deceive",
+    "example": "No me des atole con el dedo, dime la verdad."
+  },
+  {
+    "id": 19,
+    "term": "dar el brazo a torcer",
+    "definition": "to give in or give way, concede one's opinions, allow yourself to be persuaded",
+    "example": ""
+  },
+  {
+    "id": 20,
+    "term": "dar la espalda",
+    "definition": "to turn one's back; to refuse to help or aid somebody",
+    "example": "¡No me des la espalda!"
+  },
+  {
+    "id": 21,
+    "term": "de agárrate que hay curva",
+    "definition": "a helluva; mighty",
+    "example": "una fiesta de agárrate que hay curvas."
+  },
+  {
+    "id": 22,
+    "term": "desde el vientre de su madre",
+    "definition": "since before one was born; since one's conception",
+    "example": "Mi hijo fue elegido para salvar a nuestro pueblo desde el vientre de su madre."
+  },
+  {
+    "id": 23,
+    "term": "desde que uno tiene uso de razón",
+    "definition": "for as long as one can remember",
+    "example": "Dice que pinta desde que tiene uso de razón."
+  },
+  {
+    "id": 24,
+    "term": "echar a la calle",
+    "definition": "to dismiss or fire someone",
+    "example": "El dueño nos ha echado a todos a la calle."
+  },
+  {
+    "id": 25,
+    "term": "el que no chilla no mama",
+    "definition": "someone who does not express their needs or desires may not obtain them; a closed mouth doesn't get fed",
+    "example": ""
+  },
+  {
+    "id": 26,
+    "term": "en la flor de la juventud",
+    "definition": "in the flower of one's youth",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "en la punta de la lengua",
+    "definition": "on the tip of one's tongue",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "entrarle los siete males",
+    "definition": "to cause someone to fret; to drive (someone) nuts",
+    "example": "me entran los siete males pensando en ello."
+  },
+  {
+    "id": 29,
+    "term": "estar a partir un piñón",
+    "definition": "to get on (with someone); be bosom buddies; to get on like a house on fire",
+    "example": "está a partir un piñón con el vecino."
+  },
+  {
+    "id": 30,
+    "term": "feliz como una perdiz",
+    "definition": "happy as a clam, happy as Larry",
+    "example": ""
+  },
+  {
+    "id": 31,
+    "term": "firmar su propia sentencia de muerte",
+    "definition": "to sign one's death warrant",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "flor de la canela",
+    "definition": "the bee's knees; the cream of the crop",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "flor de la vida",
+    "definition": "youthful years; prime of life",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "fruncir el ceño",
+    "definition": "to frown, to scowl, to furrow one's brow",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "fuera de serie",
+    "definition": "off the charts, out of this world, exceptional",
+    "example": "un escritor fuera de serie."
+  },
+  {
+    "id": 36,
+    "term": "ganar la partida",
+    "definition": "to get one up (over someone); to get the better of",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "gastar la pólvora en salvas",
+    "definition": "to rearrange the deck chairs on the Titanic",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "gastar pólvora en gallinazos",
+    "definition": "to waste time",
+    "example": ""
+  },
+  {
+    "id": 39,
+    "term": "gato escaldado del agua fría huye",
+    "definition": "once bitten, twice shy",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "genio y figura hasta la sepultura",
+    "definition": "a leopard cannot change its spots",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "golpe de timón",
+    "definition": "change of tack; change of direction; change of course",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "haber gato encerrado",
+    "definition": "to have something fishy going on",
+    "example": "En aquella situación hubo gato encerrado."
+  },
+  {
+    "id": 43,
+    "term": "hacer la trece catorce",
+    "definition": "to trick, deceive, mislead; to perform a ruse",
+    "example": "Ya me hizo la trece catorce una vez, no puedo confiar de nuevo."
+  },
+  {
+    "id": 44,
+    "term": "hacer leña del árbol caído",
+    "definition": "to kick someone when they are down",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "hacer un hueco",
+    "definition": "to fit in; to make space",
+    "example": "Tengo todo el día liado, pero te puedo hacer un hueco desde las 11 hasta las y media."
+  },
+  {
+    "id": 46,
+    "term": "hacerse la picha un lío",
+    "definition": "get one's knickers in a twist",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "hasta el carné de identidad",
+    "definition": "absolutely everything; totally and utterly",
+    "example": "Le robaron hasta el carné de identidad."
+  },
+  {
+    "id": 48,
+    "term": "ir a misa",
+    "definition": "to go to Mass , to go to mass , to go to church",
+    "example": "Yo soy quien manda aquí, y lo que yo digo va a misa."
+  },
+  {
+    "id": 49,
+    "term": "ir al ajo del asunto",
+    "definition": "to cut to the chase, get to the point",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "ir cada uno por su lado",
+    "definition": "to go one's own way",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "ir con la verdad por delante",
+    "definition": "to tell the truth; to be totally honest",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "ir de mal en peor",
+    "definition": "to go from bad to worse; to worsen",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "irse de culo",
+    "definition": "to be taken aback or shocked",
+    "example": "Me fui de culo cuando lo vi engañándome."
+  },
+  {
+    "id": 54,
+    "term": "jugar al abejón con",
+    "definition": "to hold someone in low esteem, to not think much of someone",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "jugar bien sus bazas",
+    "definition": "to play one's cards right",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "jugar la última carta",
+    "definition": "to shoot one's load",
+    "example": ""
+  },
+  {
+    "id": 57,
+    "term": "jugar y nunca perder no puede ser",
+    "definition": "you win some, you lose some",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "jugárselo todo a una carta",
+    "definition": "to put all one's eggs in one basket",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "la avaricia rompe el saco",
+    "definition": "grasp all, lose all; greed overreaches itself",
+    "example": ""
+  },
+  {
+    "id": 60,
+    "term": "la belleza está en los ojos de quien ve",
+    "definition": "beauty is in the eye of the beholder",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "la cabeza blanca y el seso por venir",
+    "definition": "there's no fool like an old fool",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "la pelota está en el tejado de alguien",
+    "definition": "the ball is in someone's court",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "llegar a la suela del zapato",
+    "definition": "to not compare to, to have nothing on",
+    "example": "Juan no llega ni a la suela del zapato."
+  },
+  {
+    "id": 64,
+    "term": "mal de la azotea",
+    "definition": "off one's rocker; round the twist",
+    "example": ""
+  },
+  {
+    "id": 65,
+    "term": "manos a la obra",
+    "definition": "hands on deck, let's get to work, let's get to it, get down to work, get on with it, get down to business",
+    "example": "Ya es hora, manos a la obra."
+  },
+  {
+    "id": 66,
+    "term": "mentar la soga en casa del ahorcado",
+    "definition": "to say the wrong thing, to put one's foot in it",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "mirar por encima del hombro",
+    "definition": "to look down on, stick one's nose up",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "más chulo que un ocho",
+    "definition": "stuck-up; opinionated; up oneself",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "nadar y guardar la ropa",
+    "definition": "have one's cake and eat it",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "nadar y tener la ropa",
+    "definition": "to have one's cake and eat it too",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "no ser moco de pavo",
+    "definition": "to be nothing to sneeze at",
+    "example": "tampoco es moco de pavo."
+  },
+  {
+    "id": 72,
+    "term": "no tener vuelta de hoja",
+    "definition": "To be untouchable; hold up",
+    "example": "Creo que mi argumento no tiene vuelta de hoja."
+  },
+  {
+    "id": 73,
+    "term": "no ver la hora de",
+    "definition": "to look forward to; can't wait",
+    "example": "¡No veo la hora de que nos casemos!"
+  },
+  {
+    "id": 74,
+    "term": "ojos que no ven, corazón que no siente",
+    "definition": "out of sight, out of mind; what the eyes don't see, the heart doesn't grieve",
+    "example": ""
+  },
+  {
+    "id": 75,
+    "term": "oler a chamusquina",
+    "definition": "to start to get out of control; to lead to a slagging off",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "oler a cuerno quemado",
+    "definition": "to smell fishy",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "oler a pólvora",
+    "definition": "to smell fishy; to seem as though there's something fishy going on",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "oír hablar de",
+    "definition": "to hear of, to hear about",
+    "example": "La primera vez que oí hablar de Medjugorje fue a través de mis compañeros parroquianos."
+  },
+  {
+    "id": 79,
+    "term": "pagar con la misma moneda",
+    "definition": "to give someone a taste of their own medicine",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "para parar un tren",
+    "definition": "in great quantity, coming out of one's ears",
+    "example": "tiene potencia para parar un tren."
+  },
+  {
+    "id": 81,
+    "term": "parar los pies",
+    "definition": "to stop (someone) in their tracks",
+    "example": "Hay que pararle los pies."
+  },
+  {
+    "id": 82,
+    "term": "poner alguien en su sitio",
+    "definition": "to put someone in their place",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "poner de los nervios",
+    "definition": "to get on someone's nerves, to grate on",
+    "example": "De verdad eso me pone de los nervios."
+  },
+  {
+    "id": 84,
+    "term": "que ni pintado",
+    "definition": "down to a T; (suit) perfectly",
+    "example": "La camiseta me viene que ni pintada."
+  },
+  {
+    "id": 85,
+    "term": "quedar como Cagancho en Almagro",
+    "definition": "to make a show of oneself",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "quedar en agua de borrajas",
+    "definition": "to be put on hold; to not be fulfilled",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "querer cagar más arriba del culo",
+    "definition": "To live beyond one's means",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "quien a buen árbol se arrima, buena sombra le cobija",
+    "definition": "it's not what you know but who you know",
+    "example": ""
+  },
+  {
+    "id": 89,
+    "term": "refrescar la memoria",
+    "definition": "to refresh someone's memory",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "reina de la casa",
+    "definition": "a female family member of a household",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "Roma no se hizo en un día",
+    "definition": "Rome wasn't built in a day",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "romper una lanza",
+    "definition": "to stand up (for), to break a lance",
+    "example": "Rompió una lanza por su equipo."
+  },
+  {
+    "id": 93,
+    "term": "ruin señor cría ruin servidor",
+    "definition": "a bad master makes a bad servant; if leadership sets a bad example, their subordinates will follow suit",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "saber de qué pie cojea",
+    "definition": "to know one's ideology; to know one's weaknesses",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "sacar de quicio",
+    "definition": "to rile up, to annoy; to drive crazy; to drive someone nuts; to cause somebody to come unhinged",
+    "example": "Los llantos constantes de los bebés sacan de quicio a todos en el avión."
+  },
+  {
+    "id": 96,
+    "term": "sacar el ascua con la mano del gato",
+    "definition": "to get someone else to do one's dirty work",
+    "example": ""
+  },
+  {
+    "id": 97,
+    "term": "ser santo de la devoción de alguien",
+    "definition": "To be someone one likes or is fond of",
+    "example": "El presidente no es santo de mi devoción."
+  },
+  {
+    "id": 98,
+    "term": "si mi abuela tuviera ruedas, sería una bicicleta",
+    "definition": "if my aunt had balls, she'd be my uncle",
+    "example": "\"Habríamos ganado el partido si hubiéramos tenido un portero decente\" — \"Y si mi abuela tuviera ruedas, sería una bicicleta\"."
+  },
+  {
+    "id": 99,
+    "term": "tener agarrado por los cojones",
+    "definition": "to have someone by the balls",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "tener algo que ver con",
+    "definition": "to have something to do with, to concern, to have some relationship with",
+    "example": "Pensé que la broma tendría algo que ver con el boquete."
+  }
+];
+window.QM_IDIOMS_PT_DATA = [
+  {
+    "id": 1,
+    "term": "a beleza está nos olhos de quem a vê",
+    "definition": "beauty is in the eye of the beholder",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "a casa de um homem é o seu castelo",
+    "definition": "a man's home is his castle",
+    "example": ""
+  },
+  {
+    "id": 3,
+    "term": "a montanha parir um rato",
+    "definition": "[for someone to] make a mountain out of a molehill",
+    "example": ""
+  },
+  {
+    "id": 4,
+    "term": "alugar um tríplex na cabeça de alguém",
+    "definition": "to psychologically affect someone to the point that they can't stop thinking about something or someone",
+    "example": ""
+  },
+  {
+    "id": 5,
+    "term": "até debaixo d'água",
+    "definition": "\"even underwater\", at all times, without exception",
+    "example": "Eu confio nele completamente, ele é meu amigo até debaixo d'água."
+  },
+  {
+    "id": 6,
+    "term": "basta a cada dia o seu mal",
+    "definition": "sufficient unto the day is the evil thereof",
+    "example": ""
+  },
+  {
+    "id": 7,
+    "term": "bater à porta",
+    "definition": "to come knocking",
+    "example": "a tentação bateu à minha porta."
+  },
+  {
+    "id": 8,
+    "term": "bicho de sete cabeças",
+    "definition": "rocket science, brain surgery",
+    "example": "É um pouco complicado, mas também não é um bicho de sete cabeças."
+  },
+  {
+    "id": 9,
+    "term": "botar a mão no fogo",
+    "definition": "to vouch for; to trust (someone) with one's life",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "botar na conta do papa",
+    "definition": "to let something be handled by someone else",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "burro velho não aprende línguas",
+    "definition": "you can't teach an old dog new tricks",
+    "example": ""
+  },
+  {
+    "id": 12,
+    "term": "caminhar com as próprias pernas",
+    "definition": "to stand on one's own two feet",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "colocar todos os ovos em uma única cesta",
+    "definition": "to have all one's eggs in one basket",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "com o passar do tempo",
+    "definition": "as time goes on, in the long run",
+    "example": "Não se preocupe, com o passar do tempo as coisas melhorar."
+  },
+  {
+    "id": 15,
+    "term": "com que cara",
+    "definition": "How am I supposed to (face someone after I did)...?",
+    "example": "Eu não consegui realizar as minhas tarefas. Com que cara direi isso ao meu chefe?"
+  },
+  {
+    "id": 16,
+    "term": "comer nas mãos de alguém",
+    "definition": "to eat out of someone's hand",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "cuidar da própria vida",
+    "definition": "to mind one's own business",
+    "example": "Cuida da tua vida ou te demitiremos."
+  },
+  {
+    "id": 18,
+    "term": "da frigideira para o fogo",
+    "definition": "out of the frying pan, into the fire",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "da noite para o dia",
+    "definition": "suddenly, from one day to the other",
+    "example": ""
+  },
+  {
+    "id": 20,
+    "term": "dar a cara a tapa",
+    "definition": "to face boldly some possibly unpleasant situation",
+    "example": ""
+  },
+  {
+    "id": 21,
+    "term": "dar a mão à palmatória",
+    "definition": "used to express disbelief about a proposition",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "dar o que falar",
+    "definition": "to generate attention and commentary, especially if suddenly and for a short time",
+    "example": "Este incidente deu o que falar."
+  },
+  {
+    "id": 23,
+    "term": "dar um tiro no pé",
+    "definition": "to shoot oneself in the foot",
+    "example": ""
+  },
+  {
+    "id": 24,
+    "term": "e olhe lá",
+    "definition": "at best; at most; and no more; and that's it",
+    "example": "Sua encomenda vai chegar em 3 dias e olhe lá!"
+  },
+  {
+    "id": 25,
+    "term": "em briga de marido e mulher, não se mete a colher",
+    "definition": "one should not interfere in a couple's quarrel",
+    "example": ""
+  },
+  {
+    "id": 26,
+    "term": "em casa de ferreiro, o espeto é de pau",
+    "definition": "the shoemaker's children go barefoot",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "em terra de cego, quem tem um olho é rei",
+    "definition": "in the land of the blind, the one-eyed man is king",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "estar com os pés na cova",
+    "definition": "on one's last legs; about to die",
+    "example": ""
+  },
+  {
+    "id": 29,
+    "term": "fazer corpo mole",
+    "definition": "to drag one's feet, to mess about, to slack off",
+    "example": "Meu filho sempre faz corpo mole para ir ao dentista."
+  },
+  {
+    "id": 30,
+    "term": "fazer de gato e sapato",
+    "definition": "to use, exploit, mistreat or humiliate someone",
+    "example": "Ela só me fez de gato e sapato!"
+  },
+  {
+    "id": 31,
+    "term": "ficar com o pé atrás",
+    "definition": "to distrust; to doubt",
+    "example": "Sempre fico com o pé atrás quando me fazem uma proposta suspeita dessa."
+  },
+  {
+    "id": 32,
+    "term": "focinho de porco não é tomada",
+    "definition": "to prove someone's misperception",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "fugir como o diabo foge da cruz",
+    "definition": "to flee like a bat out of hell",
+    "example": "Estou fugindo dele como o diabo foge da cruz."
+  },
+  {
+    "id": 34,
+    "term": "gato escaldado de água fria tem medo",
+    "definition": "once bitten, twice shy",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "gosto não se discute",
+    "definition": "there's no accounting for taste",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "gota d'água no oceano",
+    "definition": "drop in the bucket",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "grão a grão enche a galinha o papo",
+    "definition": "many a mickle makes a muckle",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "homem dos sete ofícios",
+    "definition": "jack of all trades",
+    "example": ""
+  },
+  {
+    "id": 39,
+    "term": "há algo de podre no reino da Dinamarca",
+    "definition": "something is rotten in the state of Denmark",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "há males que vêm para o bem",
+    "definition": "A negative event may have a later positive effect",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "há um chinelo velho para todo pé cansado",
+    "definition": "every Jack has his Jill",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "ideia de jerico",
+    "definition": "a stupid idea",
+    "example": "Quem teve a ideia de jerico de deixar a porta destrancada?"
+  },
+  {
+    "id": 43,
+    "term": "Inês é morta",
+    "definition": "it's too late; what's done is done",
+    "example": "Depois de acusá-la de traição e expulsá-la de casa, ele quer se desculpar. Agora, Inês é morta."
+  },
+  {
+    "id": 44,
+    "term": "ir com a cara",
+    "definition": "to have a good impression of a person (or by extension, a concept or object) at first glance",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "ir para a cucuia",
+    "definition": "to be forgotten, abandoned, discontinued or fail to produce results or consequences",
+    "example": "O projeto foi para a cucuia."
+  },
+  {
+    "id": 46,
+    "term": "jogar merda no ventilador",
+    "definition": "to spread bad rumours or compromising information",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "jogar na cara",
+    "definition": "to rub it in, to shove in someone's face",
+    "example": "— Eu ganho muito mais dinheiro que você. — Tá, mas não precisa jogar na cara assim."
+  },
+  {
+    "id": 48,
+    "term": "jogar um balde de água fria",
+    "definition": "to throw cold water on",
+    "example": ""
+  },
+  {
+    "id": 49,
+    "term": "joguete nas mãos de",
+    "definition": "putty in someone's hands",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "juntar a fome com a vontade de comer",
+    "definition": "to combine two different plans or goals into one",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "levantar a voz",
+    "definition": "To raise one's voice",
+    "example": "Não me levantes a voz!"
+  },
+  {
+    "id": 52,
+    "term": "levantar do lado errado da cama",
+    "definition": "to get up on the wrong side of the bed",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "levar água ao mar",
+    "definition": "to carry coals to Newcastle",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "ligar o foda-se",
+    "definition": "to stop caring",
+    "example": "O negócio é ligar o foda-se e não ficar com a pulga atrás da orelha."
+  },
+  {
+    "id": 55,
+    "term": "limpar a barra",
+    "definition": "to get rid of or free oneself from an undesirable or dangerous situation",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "mais vale só que mal acompanhado",
+    "definition": "it's better to be alone than in bad company",
+    "example": ""
+  },
+  {
+    "id": 57,
+    "term": "mais vale um pássaro na mão do que dois voando",
+    "definition": "a bird in the hand is worth two in the bush",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "mais velho que o cagar em cócoras",
+    "definition": "to be old as the hills, to be older than dirt",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "matar cachorro a grito",
+    "definition": "to be very poor, not to have money",
+    "example": "Ele está matando cachorro a grito."
+  },
+  {
+    "id": 60,
+    "term": "meter o rabo entre as pernas",
+    "definition": "to put one's tail between one's legs",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "na guerra e no amor vale tudo",
+    "definition": "all's fair in love and war",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "nascer em berço de ouro",
+    "definition": "to be born with a silver spoon in one's mouth",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "nascer virado para a lua",
+    "definition": "to be very lucky",
+    "example": "Ela nasceu virada para a lua."
+  },
+  {
+    "id": 64,
+    "term": "não ir com a cara de",
+    "definition": "to dislike",
+    "example": "Não vou com a cara do novo professor."
+  },
+  {
+    "id": 65,
+    "term": "não ter papas na língua",
+    "definition": "to not mince one's words, to speak one's mind",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "o bom filho a casa torna",
+    "definition": "to do something one has already done previously; to visit a place one has already been to",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "o bom é inimigo do ótimo",
+    "definition": "with limited resources, one should work with what they have rather than doing nothing and waiting for an impro",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "o espírito está pronto, mas a carne é fraca",
+    "definition": "the spirit is willing but the flesh is weak",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "o homem põe e Deus dispõe",
+    "definition": "man proposes, God disposes",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "o pão que o diabo amassou",
+    "definition": "great suffering or strife in one's life",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "passar a perna",
+    "definition": "to pull a fast one, trick, delude, deceive or fool someone",
+    "example": "Passei a perna no sujeito, tomei-lhe seu dinheiro sem perceber!"
+  },
+  {
+    "id": 72,
+    "term": "por que cargas d'água",
+    "definition": "why the hell; why the heck",
+    "example": "Por que cargas d'água você demorou tanto para chegar?"
+  },
+  {
+    "id": 73,
+    "term": "por um triz",
+    "definition": "by a whisker; by a hair's breadth; by the skin of one's teeth",
+    "example": "Eu consegui escapar do acidente por um triz."
+  },
+  {
+    "id": 74,
+    "term": "por via das dúvidas",
+    "definition": "just in case, just to be on the safe side",
+    "example": "Leva o guarda-chuva, por via das dúvidas."
+  },
+  {
+    "id": 75,
+    "term": "puxar a brasa para a sardinha de alguém",
+    "definition": "to pull for one's side, to toot one's own horn",
+    "example": "Aproveitei para puxar a brasa para minha sardinha."
+  },
+  {
+    "id": 76,
+    "term": "quando a esmola é demais, o santo desconfia",
+    "definition": "when a person acts excessively kind, they wants something in return",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "quando um não quer, dois não brigam",
+    "definition": "it takes two to tangle",
+    "example": "Não me importa quem começou. Quando um não quer, dois não brigam."
+  },
+  {
+    "id": 78,
+    "term": "quem ama o feio, bonito lhe parece",
+    "definition": "the judgement of someone's loved ones is biased because they are going to find qualities in him/her where ther",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "quem não chora, não mama",
+    "definition": "the squeaky wheel gets the grease",
+    "example": "O cachorro pede para arrumar água e ração, porque quem não chora, não mama."
+  },
+  {
+    "id": 80,
+    "term": "querer sol na eira e chuva no nabal",
+    "definition": "to want to have one's cake and eat it too",
+    "example": ""
+  },
+  {
+    "id": 81,
+    "term": "rachar o bico",
+    "definition": "to crack up",
+    "example": "rachei o bico com uma piada vi ontem."
+  },
+  {
+    "id": 82,
+    "term": "resumo da ópera",
+    "definition": "a concise description, especially of something that would be otherwise long and tiresome; the long story made",
+    "example": "Não vou ler esse documento gigantesco. Alguém me dá o resumo da ópera?"
+  },
+  {
+    "id": 83,
+    "term": "rir é o melhor remédio",
+    "definition": "laughter is the best medicine",
+    "example": ""
+  },
+  {
+    "id": 84,
+    "term": "Roma e Pavia não se fizeram num dia",
+    "definition": "Rome wasn't built in a day",
+    "example": ""
+  },
+  {
+    "id": 85,
+    "term": "roupa suja se lava em casa",
+    "definition": "don't wash your dirty linen in public",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "saco vazio não para em pé",
+    "definition": "one needs food in order to function well",
+    "example": "Deixa o trabalho aí e vai comer; saco vazio não para em pé, cê sabe, né?"
+  },
+  {
+    "id": 87,
+    "term": "sair de cima do muro",
+    "definition": "to solve a previous conflict between (usually two) different opinions or decisions; to decide",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "sangue nos olhos",
+    "definition": "determination, focus, courage",
+    "example": "Ela ficou com sangue nos olhos depois do insulto contra a sua filha."
+  },
+  {
+    "id": 89,
+    "term": "ser a praia de alguém",
+    "definition": "to be someone’s area of interest",
+    "example": "Dançar não é muito a minha praia."
+  },
+  {
+    "id": 90,
+    "term": "ser de comer rezando",
+    "definition": "to be exceptionally delicious",
+    "example": "A comida que ele faz é de comer rezando!"
+  },
+  {
+    "id": 91,
+    "term": "tanto faz como tanto fez",
+    "definition": "tomayto, tomahto; big deal; whatever",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "ter o olho maior do que a barriga",
+    "definition": "to have eyes bigger than one's stomach",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "ter sol na eira e chuva no nabal",
+    "definition": "to have one's cake and eat it too",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "tirar as palavras da boca",
+    "definition": "to say what someone was about to say; take the words out of someone's mouth",
+    "example": "Você tirou as palavras da minha boca! (Brazil)/Tiraste-me as palavras da boca! (Portugal)."
+  },
+  {
+    "id": 95,
+    "term": "um dia não são dias",
+    "definition": "you only live once",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "term": "um mal nunca vem só",
+    "definition": "misfortunes never come singly",
+    "example": ""
+  },
+  {
+    "id": 97,
+    "term": "um pior que o outro",
+    "definition": "all members of a group are very bad",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "term": "um sol para cada um",
+    "definition": "sunny and very hot; scorching hot",
+    "example": "Ainda nem é verão e já tem um sol pra cada um!"
+  },
+  {
+    "id": 99,
+    "term": "uma coisa é uma coisa, outra coisa é outra coisa",
+    "definition": "it has nothing to do with that",
+    "example": "— O carro dela quebrou e eu tive que ajudar ela. — Mas não foi ela que brigou com você esses dias? — Sim, mas uma coisa é uma coisa, outra coisa é outra coisa."
+  },
+  {
+    "id": 100,
+    "term": "varrer para debaixo do tapete",
+    "definition": "to sweep something under the rug",
+    "example": ""
+  }
+];
+window.QM_IDIOMS_NL_DATA = [
+  {
+    "id": 1,
+    "term": "aan de hand zijn",
+    "definition": "to occur, happen, go on, be at hand",
+    "example": "wat is er aan de hand."
+  },
+  {
+    "id": 2,
+    "term": "aan de tand voelen",
+    "definition": "to grill; to question thoroughly",
+    "example": "Ik zal hem nog eens aan de tand voelen om te achterhalen wat hij heeft uitgespookt."
+  },
+  {
+    "id": 3,
+    "term": "aan het eind van zijn Latijn zijn",
+    "definition": "to be at one's wits' end; to be exhausted",
+    "example": "Door het spervuur aan kritische vragen was de kandidaat aan het eind van haar Latijn."
+  },
+  {
+    "id": 4,
+    "term": "achter het behang kunnen plakken",
+    "definition": "to be fed up with, to be annoyed with",
+    "example": "Mijn zusje doet vandaag zo irritant, ik zou haar wel achter het behang kunnen plakken."
+  },
+  {
+    "id": 5,
+    "term": "alles op één kaart zetten",
+    "definition": "to put all one's eggs in one basket",
+    "example": ""
+  },
+  {
+    "id": 6,
+    "term": "als muziek in de oren klinken",
+    "definition": "to sound like music to someone's ears",
+    "example": "Een dag vrij? Dat klinkt me als muziek in de oren!"
+  },
+  {
+    "id": 7,
+    "term": "anderhalve man en een paardenkop",
+    "definition": "one man and his dog",
+    "example": "Er kwamen nauwelijks mensen naar het evenement, slechts anderhalve man en een paardenkop."
+  },
+  {
+    "id": 8,
+    "term": "beren op de weg zien",
+    "definition": "to imagine (future) problems",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "beter een vogel in de hand dan tien in de lucht",
+    "definition": "a bird in the hand is worth two in the bush",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "beter ten halve gekeerd dan ten hele gedwaald",
+    "definition": "a fault confessed is half redressed",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "bier na wijn geeft venijn",
+    "definition": "drinking beer following the consumption of wine causes greater discomfort (through excessive inebriation and h",
+    "example": ""
+  },
+  {
+    "id": 12,
+    "term": "bij de duivel te biecht gaan",
+    "definition": "to seek help or confide in someone untrustworthy, dangerous, or morally wrong",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "bij de pakken neerzitten",
+    "definition": "to throw in the towel; to give up; to resign oneself to a situation",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "bij nacht zijn alle katten grauw",
+    "definition": "all cats are grey in the dark",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "dat brengt moesje niet naar Parijs",
+    "definition": "it doesn't have a significant effect; it's not a useful contribution; it doesn't advance the matter",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "de kaas niet van het brood laten eten",
+    "definition": "to hold one's own, be assertive",
+    "example": "Maak je geen zorgen over haar, zij laat zich de kaas echt niet van het brood eten."
+  },
+  {
+    "id": 17,
+    "term": "de oren wassen",
+    "definition": "to rebuke, scold, reprimand severely, put someone in their place",
+    "example": "Ze waste de spijbelaar de oren."
+  },
+  {
+    "id": 18,
+    "term": "de vuile was buiten hangen",
+    "definition": "to air one's dirty laundry in public",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "de week doormidden zagen",
+    "definition": "to celebrate the halfway point of the working week on Wednesday",
+    "example": "Het is alweer woensdag, kom je mee uit lunchen om de week doormidden te zagen?"
+  },
+  {
+    "id": 20,
+    "term": "de wijsheid in pacht hebben",
+    "definition": "To know everything",
+    "example": "Pubers denken altijd dat ze de wijsheid in pacht hebben."
+  },
+  {
+    "id": 21,
+    "term": "een appel en een ei",
+    "definition": "peanuts; a low price",
+    "example": "Deze tweedehands platenspeler kostte een appel en een ei."
+  },
+  {
+    "id": 22,
+    "term": "een bord voor zijn kop hebben",
+    "definition": "to do as one pleases without shame or regard for signals from others",
+    "example": "Wat ik ook zeg, jij doet alsof de hele wereld om jou draait. Je hebt een bord voor je kop, en niet zo'n kleintje ook."
+  },
+  {
+    "id": 23,
+    "term": "een kind kan de was doen",
+    "definition": "anyone can do it",
+    "example": "De handleiding legt het allemaal erg goed uit, een kind kan de was doen."
+  },
+  {
+    "id": 24,
+    "term": "een rad voor de ogen draaien",
+    "definition": "to deceive, to pull the wool over someone's eyes",
+    "example": ""
+  },
+  {
+    "id": 25,
+    "term": "een speld tussen krijgen",
+    "definition": "to be unclear, refutable or debatable",
+    "example": "Dat zijn de feiten. Daar krijg je geen speld tussen."
+  },
+  {
+    "id": 26,
+    "term": "een worst voorhouden",
+    "definition": "to put something desirable in prospect in order to try to get someone to do something; to try to motivate",
+    "example": "De baas hield de werknemer een worst voor door toespelingen op een mogelijke promotie."
+  },
+  {
+    "id": 27,
+    "term": "familie van het zevende knoopsgat",
+    "definition": "a very distant relative",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "feest der herkenning",
+    "definition": "an experience that is enjoyable because it evokes a feeling of recognition",
+    "example": ""
+  },
+  {
+    "id": 29,
+    "term": "feest van de democratie",
+    "definition": "an election",
+    "example": ""
+  },
+  {
+    "id": 30,
+    "term": "fluitje van een cent",
+    "definition": "cakewalk, piece of cake",
+    "example": "Het bed in elkaar zetten is een fluitje van een cent, daar hoef je niet langer dan een uur mee bezig te zijn."
+  },
+  {
+    "id": 31,
+    "term": "gedane zaken nemen geen keer",
+    "definition": "what's done is done, what's done cannot be undone",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "geen blad voor de mond nemen",
+    "definition": "to be outspoken; not to mince words; to call a spade a spade",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "geen haan die ernaar kraait",
+    "definition": "nobody pays any minds to it; nobody cares about it",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "geen pap meer kunnen zeggen",
+    "definition": "to be exhausted",
+    "example": "Gelukkig zijn we eindelijk thuis, ik kan echt geen pap meer zeggen."
+  },
+  {
+    "id": 35,
+    "term": "geen windeieren leggen",
+    "definition": "to be beneficial to, particularly financially",
+    "example": "Zijn carrièreswitch heeft hem geen windeieren gelegd."
+  },
+  {
+    "id": 36,
+    "term": "Gods water over Gods akker laten lopen",
+    "definition": "To let matters run their course; to not be bothered about consequences",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "haar op zijn tanden hebben",
+    "definition": "to be assertive, hold one's own",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "het achterste van zijn tong laten zien",
+    "definition": "to put one's cards on the table, speak frankly",
+    "example": "Hij laat veel te snel het achterste van zijn tong zien."
+  },
+  {
+    "id": 39,
+    "term": "het bij het verkeerde eind hebben",
+    "definition": "to be mistaken",
+    "example": "Als u denkt dat u met mij kunt sollen, dan heeft u het bij het verkeerde eind."
+  },
+  {
+    "id": 40,
+    "term": "het bloed kruipt waar het niet gaan kan",
+    "definition": "blood will tell; one's true nature will eventually assert itself",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "het geluk is met de dommen",
+    "definition": "one seems to achieve something easier by luck, than through skill; it is better to be lucky than good",
+    "example": "Heb je het gehoord? Je collega heeft dat reuze-contract erdoor gekregen! — Het geluk is met de dommen."
+  },
+  {
+    "id": 42,
+    "term": "het rijk alleen hebben",
+    "definition": "To be home alone, to have one's residence all for oneself",
+    "example": "Haar vriend is er een paar dagen niet, dus heeft ze het rijk alleen."
+  },
+  {
+    "id": 43,
+    "term": "in de bres springen voor",
+    "definition": "to protect (someone) or to help (someone) in dire straits",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "in de lijn der verwachting liggen",
+    "definition": "to be expected",
+    "example": "Het lag in de lijn der verwachting dat de voetballer het met de scheidsrechter oneens zou zijn."
+  },
+  {
+    "id": 45,
+    "term": "in de melk te brokkelen hebben",
+    "definition": "to have a say, to have authority",
+    "example": "Hij heeft op zijn werk niets in de melk te brokkelen."
+  },
+  {
+    "id": 46,
+    "term": "in de rug steken",
+    "definition": "to stab (someone) in the back, to betray",
+    "example": "Hij is altijd bereid om iemand in de rug te steken."
+  },
+  {
+    "id": 47,
+    "term": "in de wieg gelegd zijn",
+    "definition": "to be cut out for, have the talent for",
+    "example": "Zij is voor het dansen in de wieg gelegd."
+  },
+  {
+    "id": 48,
+    "term": "in zijn oren knopen",
+    "definition": "to mark someone's words, take very conscious and careful mental note",
+    "example": "Knoop zijn advies maar goed in je oren!"
+  },
+  {
+    "id": 49,
+    "term": "jaar in jaar uit",
+    "definition": "year in, year out",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "Jan met de pet",
+    "definition": "John Q. Public, Joe Average, a hypothetical individual personification of the common man",
+    "example": "Gebruiksaanwijzingen moeten zo geformuleerd zijn dat Jan met de pet ze snapt."
+  },
+  {
+    "id": 51,
+    "term": "je bent wat je eet",
+    "definition": "you are what you eat",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "je van het",
+    "definition": "the bee's knees, the very best, fantastic",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "jong geleerd is oud gedaan",
+    "definition": "as the twig is bent, so is the tree inclined",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "jonge hond",
+    "definition": "An eager and energetic young newcomer",
+    "example": "De tegendraadse jonge hond veroorzaakte furore in de partij."
+  },
+  {
+    "id": 55,
+    "term": "kaas gegeten hebben",
+    "definition": "to be adept at, have extensive knowledge of",
+    "example": "Van algebra heeft hij geen kaas gegeten."
+  },
+  {
+    "id": 56,
+    "term": "kant noch wal raken",
+    "definition": "to make no sense, be nonsensical",
+    "example": "Zijn redenering raakte kant noch wal."
+  },
+  {
+    "id": 57,
+    "term": "kijken waar het schip strandt",
+    "definition": "to let the chips fall where they may",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "kind aan huis zijn",
+    "definition": "to visit frequently",
+    "example": "Hij was kind aan huis bij mijn grootvader."
+  },
+  {
+    "id": 59,
+    "term": "kind van de rekening",
+    "definition": "one who pays the price",
+    "example": "Die hoge lui ontspringen de dans, maar wij zijn het kind van de rekening."
+  },
+  {
+    "id": 60,
+    "term": "koeien met gouden horens",
+    "definition": "impossible, unrealistic or fantastic things; castles in the air",
+    "example": "De manager beloofde koeien met gouden horens in plaats van realistische doelen te stellen."
+  },
+  {
+    "id": 61,
+    "term": "leven als God in Frankrijk",
+    "definition": "to live comfortably and carefree",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "liever blode Jan dan dode Jan",
+    "definition": "better safe than sorry",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "lik op stuk geven",
+    "definition": "To have an answer ready; to address something (or someone) promptly and decisively",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "links laten liggen",
+    "definition": "to ignore, abandon, skip",
+    "example": "De toerist ging alleen naar Amsterdam, de rest van Nederland liet hij links liggen."
+  },
+  {
+    "id": 65,
+    "term": "lood om oud ijzer",
+    "definition": "it makes no difference",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "luiheid is des duivels oorkussen",
+    "definition": "idle hands are the devil's workshop",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "met alle winden meewaaien",
+    "definition": "to turn with every wind, to be inconsistent, to succumb easily to outside influence",
+    "example": "Want hij is een politicus die met alle winden meewaait."
+  },
+  {
+    "id": 68,
+    "term": "met de hakken over de sloot",
+    "definition": "just barely, by the skin of one's teeth",
+    "example": "Hij heeft met de hakken over de sloot zijn diploma gehaald."
+  },
+  {
+    "id": 69,
+    "term": "met de nek aankijken",
+    "definition": "To scorn, look down on, disregard",
+    "example": "Ze keken de nieuwkomer met de nek aan."
+  },
+  {
+    "id": 70,
+    "term": "met een kluitje in het riet sturen",
+    "definition": "to send someone off empty-handed or none the wiser",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "met man en muis",
+    "definition": "with everyone without exception",
+    "example": "met man en muis vergaan."
+  },
+  {
+    "id": 72,
+    "term": "met zijn gat in de boter vallen",
+    "definition": "to be in a comfortable situation through sheer luck; typically used to denote someone born into comfort",
+    "example": ""
+  },
+  {
+    "id": 73,
+    "term": "na aan het hart liggen",
+    "definition": "to be close to someone's heart, to be important to someone on a personal level",
+    "example": "Het voortbestaan van dit natuurgebied ligt hem na aan het hart."
+  },
+  {
+    "id": 74,
+    "term": "naar de mond praten",
+    "definition": "to pander to someone, act like a sycophant to someone",
+    "example": ""
+  },
+  {
+    "id": 75,
+    "term": "naar iemands pijpen dansen",
+    "definition": "to dance to someone's tune",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "niet onder stoelen of banken steken",
+    "definition": "To be very frank and not withhold information about something",
+    "example": "Tijdens de bijeenkomst stak hij zijn politieke ideeën niet onder stoelen of banken."
+  },
+  {
+    "id": 77,
+    "term": "niet voor de poes zijn",
+    "definition": "to be someone or something that is not to be underestimated or trifled with",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "niets nieuws onder de zon",
+    "definition": "there is nothing new under the sun",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "ondank is 's werelds loon",
+    "definition": "one often receives ingratitude or no recognition for one's accomplishments",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "onder de leden hebben",
+    "definition": "to have something in one's body; to be sick with something",
+    "example": "Hij heeft het virus al meer dan een week onder de leden."
+  },
+  {
+    "id": 81,
+    "term": "Onze Lieve Heer heeft rare kostgangers",
+    "definition": "Some people are surprisingly strange and eccentric; people are weird",
+    "example": "Ik zag laatst een man naakt schaatsen. Onze Lieve Heer heeft rare kostgangers."
+  },
+  {
+    "id": 82,
+    "term": "over de schutting gooien",
+    "definition": "To burden someone else with a problem one is faced with; to have someone else take care of an issue",
+    "example": "Deze vraag gooi ik liever over de schutting naar mijn collega."
+  },
+  {
+    "id": 83,
+    "term": "over een nacht ijs gaan",
+    "definition": "to be taken lightly, to be ill-considered, to be handled in an overhasty way",
+    "example": "Het besluit om een rechtszaak aan te spannen ging niet over één nacht ijs."
+  },
+  {
+    "id": 84,
+    "term": "over het paard getild zijn",
+    "definition": "to be arrogant due to excessive praise",
+    "example": "Hij is echt over het paard getild."
+  },
+  {
+    "id": 85,
+    "term": "paal en perk stellen",
+    "definition": "to limit, restrict",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "pappen en nathouden",
+    "definition": "to perfunctorily finish a task without consideration for results; to go through the motions",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "peilingen zijn palingen",
+    "definition": "opinion polls are fickle and an unreliable indicator of election results",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "per slot van rekening",
+    "definition": "after all",
+    "example": ""
+  },
+  {
+    "id": 89,
+    "term": "platte broodjes bakken",
+    "definition": "to grovel, to fawn, especially after having said something bold or controversial before; to attempt to reingra",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "praatjes vullen geen gaatjes",
+    "definition": "fine words butter no parsnips, actions speak louder than words",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "recht zo die gaat",
+    "definition": "straight ahead, without changing course",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "rechttoe rechtaan",
+    "definition": "straightforwardly, in a straightforward way",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "roet in het eten gooien",
+    "definition": "to ruin a plan, event, or situation",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "rond de pot draaien",
+    "definition": "to beat around the bush",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "schapen met bokken verdelen",
+    "definition": "to apply a double standard",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "term": "schering en inslag",
+    "definition": "something very common or ordinary",
+    "example": "Kabeldiefstal is tegenwoordig schering en inslag."
+  },
+  {
+    "id": 97,
+    "term": "scheve schaats rijden",
+    "definition": "to cheat on someone, be unfaithful",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "term": "schouders eronder zetten",
+    "definition": "to work hard and make a strong effort; to put in the work",
+    "example": "Als we nu even de schouders eronder zetten, kunnen we straks rustig aan doen."
+  },
+  {
+    "id": 99,
+    "term": "sigaar uit eigen doos",
+    "definition": "something presented as if it were a gift, but which was paid for by (or already belonged to) the recipient",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "stok om de hond te slaan",
+    "definition": "a pretense to do something that one already wanted to do",
+    "example": ""
+  }
+];
+window.QM_IDIOMS_HU_DATA = [
+  {
+    "id": 1,
+    "term": "a csapból is folyik",
+    "definition": "to be all over the news, or something that a lot of people are talking about",
+    "example": "A csapból is Michael Jackson folyik."
+  },
+  {
+    "id": 2,
+    "term": "a háta mögött",
+    "definition": "behind someone's back The 2nd sense of",
+    "example": "A munkatársam szemben hízeleg a főnöknek, de a háta mögött gúnyt űz belőle."
+  },
+  {
+    "id": 3,
+    "term": "a pohár fenekére néz",
+    "definition": "to get drunk",
+    "example": "Gyakran a pohár fenekére néz."
+  },
+  {
+    "id": 4,
+    "term": "a volán mögött",
+    "definition": "at the wheel, behind the wheel",
+    "example": "A kevés víz pont olyan, mint a sok alkohol – legalábbis a volán mögött."
+  },
+  {
+    "id": 5,
+    "term": "a vérében van",
+    "definition": "to be in someone's blood, to be a natural",
+    "example": "A családunk minden tagja gitározik, a zene a vérünkben van."
+  },
+  {
+    "id": 6,
+    "term": "ahol a madár se jár",
+    "definition": "in the middle of nowhere, at an out-of-the-way place, on a remote, unfrequented area",
+    "example": "Mit keresel itt, ahol a madár se jár?"
+  },
+  {
+    "id": 7,
+    "term": "ajtót mutat",
+    "definition": "to show someone the door",
+    "example": "Ajtót mutattak nekik."
+  },
+  {
+    "id": 8,
+    "term": "alig áll a lábán",
+    "definition": "to be exhausted, ready to collapse, too tired to stand",
+    "example": "Alig állok a lábamon."
+  },
+  {
+    "id": 9,
+    "term": "az asztal alá iszik",
+    "definition": "to drink someone under the table , the person has to be in accusative case",
+    "example": "Akárkit képes az asztal alá inni."
+  },
+  {
+    "id": 10,
+    "term": "bal lábbal kel fel",
+    "definition": "to wake up on the wrong side of the bed, to get up on the wrong side of the bed, to get out of bed on the wrong side",
+    "example": "A főnököm ma bal lábbal kelt fel. Egész nap rosszkedvű volt."
+  },
+  {
+    "id": 11,
+    "term": "beadja a derekát",
+    "definition": "to give in, to cave in, to knuckle under",
+    "example": "Nem akartunk télen szabadságra menni, de a gyerekek meggyőztek és mi beadtuk a derekunkat."
+  },
+  {
+    "id": 12,
+    "term": "beletörik a nyelve",
+    "definition": "to stumble over one's tongue",
+    "example": "Beletört a nyelve az idegen szavakba."
+  },
+  {
+    "id": 13,
+    "term": "csupa fül",
+    "definition": "all ears, be all ears",
+    "example": "Csupa fül vagyok."
+  },
+  {
+    "id": 14,
+    "term": "Dunát lehetne rekeszteni",
+    "definition": "Used to express that there is an abundance of something (). It could also be negative if people are fed up with the exce",
+    "example": "A gyerekeinknek annyi játékuk van, hogy Dunát lehetne rekeszteni velük."
+  },
+  {
+    "id": 15,
+    "term": "egy kalap alá vesz",
+    "definition": "to lump together",
+    "example": "Nem lehet a nyugdíjasokat egy kalap alá venni a dolgozókkal."
+  },
+  {
+    "id": 16,
+    "term": "elege van",
+    "definition": "to be fed up",
+    "example": "Elege van a nagyvárosból."
+  },
+  {
+    "id": 17,
+    "term": "elveszti a fejét",
+    "definition": "to lose one's head",
+    "example": "Nagyon megijedtek és elvesztették a fejüket."
+  },
+  {
+    "id": 18,
+    "term": "ember legyen a talpán",
+    "definition": "The phrase refers to a capable, resourceful",
+    "example": "Ember legyen a talpán, aki ezt a feladatot meg tudja oldani."
+  },
+  {
+    "id": 19,
+    "term": "falra hányt borsó",
+    "definition": "like talking to a wall, like water off a duck's back, wasted breath",
+    "example": "Mindegy, hogy mit mondok neki. Falra hányt borsó."
+  },
+  {
+    "id": 20,
+    "term": "farkaséhes",
+    "definition": "hungry like the wolf",
+    "example": "farkaséhes vagyok."
+  },
+  {
+    "id": 21,
+    "term": "fejébe száll a dicsőség",
+    "definition": "to become swell-headed by success, to go to one's head",
+    "example": "Fejébe szállt a dicsőség!"
+  },
+  {
+    "id": 22,
+    "term": "feketeleves",
+    "definition": "the worst or most unpleasant thing of something",
+    "example": "Hátravan még a feketeleves."
+  },
+  {
+    "id": 23,
+    "term": "furdalja az oldalát",
+    "definition": "to nag at, to be intrigued by",
+    "example": "Furdalta az oldalamat a kíváncsiság."
+  },
+  {
+    "id": 24,
+    "term": "fából vaskarika",
+    "definition": "contradiction in terms",
+    "example": "Az alkoholmentes sör fából vaskarika."
+  },
+  {
+    "id": 25,
+    "term": "fülig szerelmes",
+    "definition": "head over heels in love, over head and ears in love",
+    "example": "Rómeó fülig szerelmes volt Júliába."
+  },
+  {
+    "id": 26,
+    "term": "gyerekcipőben jár",
+    "definition": "to be in its infancy",
+    "example": "Az űrturizmus most még gyerekcipőben jár."
+  },
+  {
+    "id": 27,
+    "term": "halálra neveti magát",
+    "definition": "to laugh one's head off",
+    "example": "Vicceket meséltünk és halálra nevettük magunkat."
+  },
+  {
+    "id": 28,
+    "term": "hetedik mennyország",
+    "definition": "seventh heaven",
+    "example": "a hetedik mennyországban van."
+  },
+  {
+    "id": 29,
+    "term": "hátat fordít",
+    "definition": "to turn one's back, to turn away",
+    "example": "Gábor hátat fordított az ablaknak."
+  },
+  {
+    "id": 30,
+    "term": "illúziókba ringat",
+    "definition": "to deceive, to lead (someone) into a fool’s paradise",
+    "example": "Ha azt gondolod, hogy ezt el tudod érni, akkor csak illúziókba ringatod magad."
+  },
+  {
+    "id": 31,
+    "term": "kedvét szegi",
+    "definition": "to deflate, to let down, to disappoint someone, to spoil one’s happiness",
+    "example": "A büntetés kedvét szegte."
+  },
+  {
+    "id": 32,
+    "term": "kerek perec",
+    "definition": "point blank, straight from the shoulder, flat out, flat",
+    "example": "Kerek perec visszautasították az ajánlatunkat."
+  },
+  {
+    "id": 33,
+    "term": "kesztyűs kézzel bánik",
+    "definition": "to handle someone with kid gloves, pull punches",
+    "example": "kesztyűs kézzel bánik vetélytársaival."
+  },
+  {
+    "id": 34,
+    "term": "kezet emel",
+    "definition": "to hit someone, to lay a hand on someone, to raise one's hand against or to someone",
+    "example": "Kezet emelt rám!"
+  },
+  {
+    "id": 35,
+    "term": "készpénznek vesz",
+    "definition": "to take something for granted, to believe something word for word without any doubt",
+    "example": "Nem kell készpénznek venni minden szavát!"
+  },
+  {
+    "id": 36,
+    "term": "körmére ég",
+    "definition": "to be pressing, overdue",
+    "example": "Körmömre ég a munka."
+  },
+  {
+    "id": 37,
+    "term": "kő kövön nem marad",
+    "definition": "not a stone will be left standing",
+    "example": "Ha az ellenség ideér, itt kő kövön nem marad."
+  },
+  {
+    "id": 38,
+    "term": "leesik az álla",
+    "definition": "to be very stunned, one's jaw drops",
+    "example": "Fogadok, hogy leesik az álla, ha ezt meghallja!"
+  },
+  {
+    "id": 39,
+    "term": "lerántja a leplet",
+    "definition": "to unmask, expose, reveal, blow the lid off",
+    "example": "Lerántottuk a leplet az árulóról."
+  },
+  {
+    "id": 40,
+    "term": "látástól vakulásig",
+    "definition": "day and night, from daybreak till nightfall, from morning till night",
+    "example": "Látástól vakulásig dolgoztam."
+  },
+  {
+    "id": 41,
+    "term": "lépést tart",
+    "definition": "to keep abreast of something, keep pace, keep up with",
+    "example": "Próbált lépést tartani az osztálytársaival."
+  },
+  {
+    "id": 42,
+    "term": "madarat lehetne fogatni",
+    "definition": "to be happy as a lark, to walk on air, to be on cloud nine",
+    "example": "Madarat lehetne fogatni velem."
+  },
+  {
+    "id": 43,
+    "term": "megkéri a kezét",
+    "definition": "to propose marriage , for someone:",
+    "example": "Megszerette a lányt és megkérte a kezét az apjától."
+  },
+  {
+    "id": 44,
+    "term": "megoldja a nyelvét",
+    "definition": "to loosen someone's tongue",
+    "example": "Egy üveg bor majd megoldja a nyelvét."
+  },
+  {
+    "id": 45,
+    "term": "megoldódik a nyelve",
+    "definition": "to find one's tongue",
+    "example": "Egy üveg bor után megoldódott a nyelvük."
+  },
+  {
+    "id": 46,
+    "term": "mérget vehet",
+    "definition": "to (be able to) bet the farm, bet one's bottom dollar, bet one's boots, take to the bank",
+    "example": "Nem vennék rá mérget."
+  },
+  {
+    "id": 47,
+    "term": "nem fenékig tejfel",
+    "definition": "not all beer and skittles, not just fun and games, not a bed of roses",
+    "example": "Az élet nem fenékig tejfel."
+  },
+  {
+    "id": 48,
+    "term": "nyélbe üt",
+    "definition": "to wrap up, arrange, wind up, conclude",
+    "example": "A jövő héten nyélbe ütünk egy újabb találkozót."
+  },
+  {
+    "id": 49,
+    "term": "pálcát tör",
+    "definition": "or fölött to denounce, condemn, criticize someone harshly",
+    "example": "A munkatársaid pálcát törnek feletted, mert figyelmetlen vagy a munkádban."
+  },
+  {
+    "id": 50,
+    "term": "rossz szemmel néz",
+    "definition": "to frown upon, dislike, disapprove of someone or something",
+    "example": "Lustaságod miatt a többiek rossz szemmel néznek rád."
+  },
+  {
+    "id": 51,
+    "term": "rémeket lát",
+    "definition": "to imagine things, to overreact, to be an alarmist",
+    "example": "Nem lesz semmi bajod. Rémeket látsz."
+  },
+  {
+    "id": 52,
+    "term": "se híre, se hamva",
+    "definition": "disappeared without leaving a trace, neither hide nor hair",
+    "example": "A csónaknak se híre, se hamva nem volt."
+  },
+  {
+    "id": 53,
+    "term": "se lát, se hall",
+    "definition": "to ignore the outside world, not listening",
+    "example": "Se lát, se hall, csak szorgalmasan dolgozik."
+  },
+  {
+    "id": 54,
+    "term": "szedi a sátorfáját",
+    "definition": "to pull up stakes, to pack up bag and baggage",
+    "example": "Szedd a sátorfádat!"
+  },
+  {
+    "id": 55,
+    "term": "szöget üt a fejébe",
+    "definition": "to set one thinking, to put a suspicion in one's mind",
+    "example": "Szöget ütött a fejembe, hogy már hetek óta nem hívott."
+  },
+  {
+    "id": 56,
+    "term": "síkra száll",
+    "definition": "or to champion, to come out in favor of, to come out in support of, to take up the cudgels for",
+    "example": "Írásunkban a helyes nevelési elvek mellett szállunk síkra."
+  },
+  {
+    "id": 57,
+    "term": "tele van a hócipője",
+    "definition": "to be fed up",
+    "example": "Tele van a hócipője az egész világgal."
+  },
+  {
+    "id": 58,
+    "term": "torkig van",
+    "definition": "to be fed up",
+    "example": "Torkig vagyok a mindennapos utazással."
+  },
+  {
+    "id": 59,
+    "term": "tréfát űz",
+    "definition": "to poke fun (at someone or something: , ), ridicule, make fun of",
+    "example": "Tréfát űznek velem."
+  },
+  {
+    "id": 60,
+    "term": "tűkön ül",
+    "definition": "to be on pins and needles, be on tenterhooks, be like a cat on a hot tin roof, be like a cat on hot bricks",
+    "example": "Ti csak beszéltetek, én pedig itt közben tűkön ültem!"
+  },
+  {
+    "id": 61,
+    "term": "tűvé tesz",
+    "definition": "to search meticulously someplace (for someone or something ), to fine-tooth comb, leave no stone unturned",
+    "example": "Tűvé tették a házat a kocsikulcsokért."
+  },
+  {
+    "id": 62,
+    "term": "ujjat húz",
+    "definition": "to pick a fight",
+    "example": "Aki ujjat húz velem, az fizetni fog érte."
+  },
+  {
+    "id": 63,
+    "term": "vendégül lát",
+    "definition": "to entertain/host someone, to invite someone over",
+    "example": "Szeretnénk titeket vendégül látni vacsorára."
+  },
+  {
+    "id": 64,
+    "term": "vereséget szenved",
+    "definition": "to become defeated",
+    "example": "A válogatott komoly vereséget szenvedett a külföldi csapattól."
+  },
+  {
+    "id": 65,
+    "term": "vádat emel",
+    "definition": "to press charges (against someone: ), bring a charge or an accusation, indict, arraign, impeach someone",
+    "example": "Nem kívánok vádat emelni."
+  },
+  {
+    "id": 66,
+    "term": "vállat von",
+    "definition": "to shrug, to shrug one's shoulders",
+    "example": "Péter vállat vont."
+  },
+  {
+    "id": 67,
+    "term": "válságba kerül",
+    "definition": "to fall into crisis, get into crisis",
+    "example": "Szüleik válása után a gyerekek mély lelki válságba kerültek."
+  },
+  {
+    "id": 68,
+    "term": "vége szakad",
+    "definition": "to stop, end, cease, come to an end",
+    "example": "Egyszer minden jónak vége szakad."
+  },
+  {
+    "id": 69,
+    "term": "vége van",
+    "definition": "to be over, to be finished",
+    "example": "A botnak két vége van."
+  },
+  {
+    "id": 70,
+    "term": "véget vet",
+    "definition": "to put an end to, put a stop to, bring an end to, bring to an end, put the kibosh on",
+    "example": "Elköltöztünk a városból és ez véget vetett a barátságunknak."
+  },
+  {
+    "id": 71,
+    "term": "véka alá rejt",
+    "definition": "to hide, conceal",
+    "example": "Véka alá rejted a tehetségedet."
+  },
+  {
+    "id": 72,
+    "term": "véka alá rejti a tehetségét",
+    "definition": "to hide one's light under a bushel",
+    "example": "Véka alá rejted a tehetségedet."
+  },
+  {
+    "id": 73,
+    "term": "vérig sért",
+    "definition": "to insult/offend someone mortally, cut to the quick, draw blood",
+    "example": "A megjegyzéseddel vérig sértetted a barátaimat."
+  },
+  {
+    "id": 74,
+    "term": "zavarba hoz",
+    "definition": "to embarrass someone",
+    "example": "A kérdés zavarba hozott."
+  },
+  {
+    "id": 75,
+    "term": "álom jön a szemére",
+    "definition": "to be able to fall asleep",
+    "example": "Múlt éjjel nem jött álom a szememre."
+  },
+  {
+    "id": 76,
+    "term": "égnek áll",
+    "definition": "to stand on end",
+    "example": "Égnek állt a hajam, amikor meghallottam a gyilkosság részleteit."
+  },
+  {
+    "id": 77,
+    "term": "útban van",
+    "definition": "to be in the way, get in the way, to get under one's feet",
+    "example": "A segítség útban van."
+  },
+  {
+    "id": 78,
+    "term": "a baj nem jár egyedül",
+    "definition": "when it rains, it pours, it never rains but it pours, misfortunes never come singly",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "a biztonság kedvéért",
+    "definition": "to be on the safe side",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "a cipész maradjon a kaptafánál",
+    "definition": "cobbler, keep to your last",
+    "example": ""
+  },
+  {
+    "id": 81,
+    "term": "a cél szentesíti az eszközt",
+    "definition": "the end justifies the means",
+    "example": ""
+  },
+  {
+    "id": 82,
+    "term": "a falnak is füle van",
+    "definition": "walls have ears",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "a füle botját sem mozdítja",
+    "definition": "to turn a deaf ear, not respond, ignore a request, give no answer",
+    "example": ""
+  },
+  {
+    "id": 84,
+    "term": "a hallgatás beleegyezés",
+    "definition": "silence is consent",
+    "example": ""
+  },
+  {
+    "id": 85,
+    "term": "a harag rossz tanácsadó",
+    "definition": "Decisions and actions made in anger will be later regretted",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "a hazug embert hamarabb utolérik, mint a sánta kutyát",
+    "definition": "a lie has no legs",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "a jég hátán is megél",
+    "definition": "to get by/make it anywhere",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "a jó kezdet fél siker",
+    "definition": "well begun is half done",
+    "example": ""
+  },
+  {
+    "id": 89,
+    "term": "a kivétel erősíti a szabályt",
+    "definition": "the exception proves the rule",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "a kocka el van vetve",
+    "definition": "the die is cast",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "a kutya ugat, a karaván halad",
+    "definition": "the dogs bark, but the caravan goes on",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "a kákán is csomót keres",
+    "definition": "to seek a knot in a bulrush",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "a könyökén jön ki",
+    "definition": "to have something ad nauseam, to be fed up with, to be tired of, to be sick of, to feel overwhelmed with something",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "a látszat csal",
+    "definition": "appearances are deceptive",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "a lélek kész, de a test erőtlen",
+    "definition": "the spirit is willing but the flesh is weak",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "term": "a nagy Ő",
+    "definition": "an ideal or idealized romantic partner; the one, Mister/Miss Right",
+    "example": ""
+  },
+  {
+    "id": 97,
+    "term": "a pénz nem boldogít",
+    "definition": "money can't buy happiness",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "term": "a rest kétszer fárad",
+    "definition": "a stitch in time saves nine",
+    "example": ""
+  },
+  {
+    "id": 99,
+    "term": "a sarkára áll",
+    "definition": "to assert one's will, to be firm, to stick to one's guns",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "a sors fintora",
+    "definition": "irony, twist of fate, quirk of fate",
+    "example": ""
+  }
+];
+window.QM_IDIOMS_RO_DATA = [
+  {
+    "id": 1,
+    "term": "da de gol",
+    "definition": "to blow someone's cover, to expose",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "floare la ureche",
+    "definition": "piece of cake",
+    "example": "Testul a fost floare la ureche."
+  },
+  {
+    "id": 3,
+    "term": "la sfântu-așteaptă",
+    "definition": "never, on the second Tuesday of the week",
+    "example": "O să ne primim banii înapoi la sfântu-așteaptă."
+  },
+  {
+    "id": 4,
+    "term": "lăsa loc de bună ziua",
+    "definition": "to hide one's hard feelings for someone after having an argument or breaking up with him/her/them",
+    "example": "Ei s-au despărțit acum trei luni, dar au lăsat loc de bună ziua."
+  },
+  {
+    "id": 5,
+    "term": "răspunde cu aceeași monedă",
+    "definition": "to retaliate, reciprocate, fight back, counterattack, give as good as one gets, return the favor",
+    "example": "Dacă cineva te înjură, răspunde-i cu aceeași monedă și înjură-l înapoi!"
+  },
+  {
+    "id": 6,
+    "term": "scoate cămașa",
+    "definition": "to fix or get away with one’s mistakes",
+    "example": "Am făcut o prostie, iar acum nu știu pe unde să scot cămașa. Ajută-mă, te rog!"
+  },
+  {
+    "id": 7,
+    "term": "se răsuci în mormânt",
+    "definition": "turn in one's grave",
+    "example": "Băi, băiete, se răsucește tac-tu în mormânt de dezamăgire ce ești, bă."
+  },
+  {
+    "id": 8,
+    "term": "a cincea roată la căruță",
+    "definition": "third wheel, fifth wheel",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "afară-i vopsit gardul, înăuntru-i leopardul",
+    "definition": "all that glitters is not gold",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "ajunge cuțitul la os",
+    "definition": "for the situation to become critical",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "ajunge la sapă de lemn",
+    "definition": "to become very poor",
+    "example": ""
+  },
+  {
+    "id": 12,
+    "term": "alerga mâncând pământul",
+    "definition": "to run fast",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "alinia astrele",
+    "definition": "stars align",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "apa trece, pietrele rămân",
+    "definition": "irrelevant things pass, important things remain, so one should focus on the important things",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "arde gazul de pomană",
+    "definition": "to waste time",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "are balta pește",
+    "definition": "there are plenty of fish in the sea",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "avea ac de cojocul cuiva",
+    "definition": "to be able to carry out revenge",
+    "example": ""
+  },
+  {
+    "id": 18,
+    "term": "așchia nu sare departe de trunchi",
+    "definition": "apple does not fall far from the tree, like father, like son, like mother, like daughter",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "aștepta să pice mură-n gură",
+    "definition": "to do nothing to achieve one's goals",
+    "example": ""
+  },
+  {
+    "id": 20,
+    "term": "banul este ochiul dracului",
+    "definition": "money is the root of all evil",
+    "example": ""
+  },
+  {
+    "id": 21,
+    "term": "bate apa-n piuă",
+    "definition": "to talk pointlessly",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "bate fierul cât e cald",
+    "definition": "strike the iron while it's hot",
+    "example": ""
+  },
+  {
+    "id": 23,
+    "term": "bate la ochi",
+    "definition": "to be very obvious",
+    "example": ""
+  },
+  {
+    "id": 24,
+    "term": "bate palma",
+    "definition": "to seal the deal",
+    "example": ""
+  },
+  {
+    "id": 25,
+    "term": "bilă neagră",
+    "definition": "blackball",
+    "example": ""
+  },
+  {
+    "id": 26,
+    "term": "boală lipicioasă",
+    "definition": "contagious disease",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "buturuga mică răstoarnă carul mare",
+    "definition": "little strokes fell great oaks",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "băga capul la cutie",
+    "definition": "to hide, to shelter, to avoid retaliation",
+    "example": ""
+  },
+  {
+    "id": 29,
+    "term": "băga mâna în foc",
+    "definition": "to be completely certain concerning the veracity of something",
+    "example": ""
+  },
+  {
+    "id": 30,
+    "term": "calul de dar nu se caută la dinți",
+    "definition": "don't look a gift horse in the mouth",
+    "example": ""
+  },
+  {
+    "id": 31,
+    "term": "cap de an",
+    "definition": "new year",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "capul plecat sabia nu-l taie",
+    "definition": "a submissive man is not persecuted; better bend than break",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "ce se naște din pisică, șoareci mănâncă",
+    "definition": "the apple does not fall far from the tree, like father, like son, like mother, like daughter",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "cei șapte ani de acasă",
+    "definition": "good upbringing, in particular good manners",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "cel bogat face cum vrea, cel sărac face cum poate",
+    "definition": "a rich man does as he pleases, a poor man does as he can",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "chelului tichie de mărgăritar îi trebuie",
+    "definition": "one should focus on important things first",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "chestia e că",
+    "definition": "the thing is",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "cine cu cine votează",
+    "definition": "what's what",
+    "example": ""
+  },
+  {
+    "id": 39,
+    "term": "cine fură azi un ou, mâine va fura un bou",
+    "definition": "once a thief, always a thief",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "cine râde la urmă râde mai bine",
+    "definition": "he who laughs last laughs best",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "cine se aseamănă se adună",
+    "definition": "birds of a feather flock together",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "cine se trezește de dimineață, departe ajunge",
+    "definition": "the early bird gets the worm",
+    "example": ""
+  },
+  {
+    "id": 43,
+    "term": "cine seamănă vânt culege furtună",
+    "definition": "sow the wind, reap the whirlwind",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "coadă de topor",
+    "definition": "axe handle",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "copil din flori",
+    "definition": "love child",
+    "example": ""
+  },
+  {
+    "id": 46,
+    "term": "corb la corb nu scoate ochii",
+    "definition": "dog does not eat dog",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "cu capul pe umeri",
+    "definition": "with one’s head screwed on, sensible",
+    "example": ""
+  },
+  {
+    "id": 48,
+    "term": "cu capul în nori",
+    "definition": "having the head in the clouds",
+    "example": ""
+  },
+  {
+    "id": 49,
+    "term": "cu o floare nu se face primăvară",
+    "definition": "one swallow does not a summer make",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "cu răbdarea treci și marea",
+    "definition": "good things come to those who wait",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "cui pe cui se scoate",
+    "definition": "one nail drives out another",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "cum îți așterni, așa dormi",
+    "definition": "as you make your bed, so you must lie in it",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "cuvânt greu",
+    "definition": "an important say",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "câinele care latră nu mușcă",
+    "definition": "barking dogs seldom bite",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "câinii latră, caravana trece",
+    "definition": "the dogs bark, but the caravan goes on; sticks and stones may break my bones, but words will never hurt me",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "când o zbura porcul",
+    "definition": "never, when pigs fly",
+    "example": ""
+  },
+  {
+    "id": 57,
+    "term": "când pisica nu-i acasă, joacă șoarecii pe masă",
+    "definition": "when the cat's away the mice will play",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "când vine vorba de",
+    "definition": "when it comes to",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "când și când",
+    "definition": "now and then",
+    "example": ""
+  },
+  {
+    "id": 60,
+    "term": "cânta în strună",
+    "definition": "to do whatever another person pleases",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "cât ai zice pește",
+    "definition": "immediately",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "câte bordeie, atâtea obiceie",
+    "definition": "when in Rome, do as the Romans do",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "câștiga teren",
+    "definition": "to gain ground",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "călca pe bec",
+    "definition": "to break a rule",
+    "example": ""
+  },
+  {
+    "id": 65,
+    "term": "călca pe bătătură",
+    "definition": "to annoy, to irritate",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "căuta cu lumânarea",
+    "definition": "to ask for trouble, to ask for it",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "da apă la moară",
+    "definition": "to encourage or embolden",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "da colțul",
+    "definition": "to turn the corner",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "da de veste",
+    "definition": "to announce",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "da din coadă",
+    "definition": "to wag the tail",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "da gata",
+    "definition": "to finish, especially in an impressive manner",
+    "example": ""
+  },
+  {
+    "id": 72,
+    "term": "da la rațe",
+    "definition": "to vomit",
+    "example": ""
+  },
+  {
+    "id": 73,
+    "term": "da ortul popii",
+    "definition": "to kick the bucket, to buy the farm",
+    "example": ""
+  },
+  {
+    "id": 74,
+    "term": "da papucii",
+    "definition": "to dump",
+    "example": ""
+  },
+  {
+    "id": 75,
+    "term": "da pe goarnă",
+    "definition": "to snitch (on someone), to rat out, to tell on",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "da peste",
+    "definition": "to hit, collide with",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "da peste nas",
+    "definition": "to chastise, especially by bringing up someone’s fault or mistake",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "da în mintea copiilor",
+    "definition": "to become senile",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "de la A la Z",
+    "definition": "from A to Z",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "despica firul în patru",
+    "definition": "to split hairs",
+    "example": ""
+  },
+  {
+    "id": 81,
+    "term": "din lac în puț",
+    "definition": "out of the frying pan, into the fire",
+    "example": ""
+  },
+  {
+    "id": 82,
+    "term": "din senin",
+    "definition": "out of the blue",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "duce cu preșul",
+    "definition": "to cheat, to fool",
+    "example": ""
+  },
+  {
+    "id": 84,
+    "term": "duce de nas",
+    "definition": "to lead by the nose",
+    "example": ""
+  },
+  {
+    "id": 85,
+    "term": "Dumnezeu nu bate cu parul",
+    "definition": "what goes around comes around, sow the wind, reap the whirlwind, the chickens come home to roost",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "după gratii",
+    "definition": "behind bars",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "face ca trenul",
+    "definition": "to go ballistic, blow a fuse",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "face cinste",
+    "definition": "to pay for someone else at a restaurant, pub, etc",
+    "example": ""
+  },
+  {
+    "id": 89,
+    "term": "face cu ou și cu oțet",
+    "definition": "to scold",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "face din rahat bici",
+    "definition": "to make a silk purse of a sow's ear",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "face din țânțar armăsar",
+    "definition": "to make a mountain out of a mole hill",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "face față",
+    "definition": "to cope with something, to withstand, deal with",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "face haz de necaz",
+    "definition": "to laugh at a difficult situation, to grin and bear it",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "face o românească",
+    "definition": "to take the easy way out by skirting regulations, especially in traffic",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "face ochi dulci",
+    "definition": "to make eyes",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "term": "face pe mortul în păpușoi",
+    "definition": "to pretend to not know something",
+    "example": ""
+  },
+  {
+    "id": 97,
+    "term": "face pe prostul",
+    "definition": "to pretend not to know or understand something",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "term": "face rost",
+    "definition": "to obtain",
+    "example": ""
+  },
+  {
+    "id": 99,
+    "term": "face umbră pământului degeaba",
+    "definition": "to be useless",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "fată bătrână",
+    "definition": "spinster, old maid",
+    "example": ""
+  }
+];
+window.QM_IDIOMS_LT_DATA = [
+  {
+    "id": 1,
+    "term": "akis dumti",
+    "definition": "to pull the wool over someone's eyes; to deceive",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "badyti akis",
+    "definition": "to be glaringly obvious; to stick out",
+    "example": ""
+  },
+  {
+    "id": 3,
+    "term": "bala nematė",
+    "definition": "to hell with it; never mind",
+    "example": ""
+  },
+  {
+    "id": 4,
+    "term": "ir sienos turi ausis",
+    "definition": "walls have ears",
+    "example": ""
+  },
+  {
+    "id": 5,
+    "term": "išdėti į šuns dienas",
+    "definition": "to give someone a dressing-down; to berate",
+    "example": ""
+  },
+  {
+    "id": 6,
+    "term": "kad prisivirei košės, tai ir srėbk",
+    "definition": "you've made your bed, now lie in it",
+    "example": ""
+  },
+  {
+    "id": 7,
+    "term": "kristi į akis",
+    "definition": "to catch the eye; to stand out",
+    "example": ""
+  },
+  {
+    "id": 8,
+    "term": "lieti ašaras",
+    "definition": "to shed tears",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "lyja kirviais",
+    "definition": "\"it's raining axes\" — it's pouring down",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "man šakės",
+    "definition": "I'm done for; I'm in real trouble",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "nespręsk apie knygą iš viršelio",
+    "definition": "don't judge a book by its cover",
+    "example": ""
+  },
+  {
+    "id": 12,
+    "term": "nėra to blogo, kas neišeitų į gerą",
+    "definition": "every cloud has a silver lining",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "panosė šlapia",
+    "definition": "still wet behind the ears; inexperienced",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "privirti košės",
+    "definition": "to stir up trouble; to make a mess of things",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "vienas kaip pirštas",
+    "definition": "\"alone as a finger\" — all on one's own",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "vienas velnias",
+    "definition": "it makes no odds; all the same",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "viena koja",
+    "definition": "in a flash; very quickly",
+    "example": ""
+  },
+  {
+    "id": 18,
+    "term": "turėti omenyje",
+    "definition": "to bear in mind",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "žvirbliu netapsi",
+    "definition": "you won't become a sparrow — you can't change what you are",
+    "example": ""
+  }
+];
+window.QM_IDIOMS_UK_DATA = [
+  {
+    "id": 1,
+    "term": "адвокат диявола",
+    "definition": "devil's advocate",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "бенкет під час чуми",
+    "definition": "to fiddle while Rome burns",
+    "example": ""
+  },
+  {
+    "id": 3,
+    "term": "бувай здоров",
+    "definition": "cheers!",
+    "example": ""
+  },
+  {
+    "id": 4,
+    "term": "в руках",
+    "definition": "in one's hands, in one's power, under one's control or management",
+    "example": ""
+  },
+  {
+    "id": 5,
+    "term": "висаджувати в повітря",
+    "definition": "to blow up",
+    "example": ""
+  },
+  {
+    "id": 6,
+    "term": "вишенька на торті",
+    "definition": "cherry on the cake, cherry on top, icing on the cake",
+    "example": ""
+  },
+  {
+    "id": 7,
+    "term": "водити козу",
+    "definition": "to find somewhere to get drunk",
+    "example": "Що ви там робите вже другу годину? Та ми козу водимо."
+  },
+  {
+    "id": 8,
+    "term": "все буде Україна",
+    "definition": "Ukraine forever!",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "всьо на свої лотоки",
+    "definition": "always looking out for one's own advantage, turning everything to one's own benefit",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "всі дороги ведуть до Риму",
+    "definition": "all roads lead to Rome",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "відкрити Америку",
+    "definition": "to discover that Queen Anne's dead",
+    "example": "Він сказав, що спорт корисний для здоров'я. Теж мені Америку відкрив!"
+  },
+  {
+    "id": 12,
+    "term": "голова й два вуха",
+    "definition": "absent-minded",
+    "example": "Чому ти забув ключі вдома знову? Та я ж голова і два вуха."
+  },
+  {
+    "id": 13,
+    "term": "гроші не пахнуть",
+    "definition": "money does not smell",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "дати в руку",
+    "definition": "to hand over, to put into someone's hands, to entrust",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "дати гарбуза",
+    "definition": "to reject one's romantic advances; to give the cold shoulder",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "дати з рук",
+    "definition": "to hand over, to give out of one's hands, to relinquish",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "держати в руках",
+    "definition": "to keep someone under control, to hold in check, to keep a tight rein on",
+    "example": ""
+  },
+  {
+    "id": 18,
+    "term": "дивитися на руки",
+    "definition": "to watch someone closely, to keep a close eye on someone",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "жувати соплі",
+    "definition": "To twiddle one's thumbs, to waste time and do nothing useful",
+    "example": "Відповідь на коментар: перестаньте соплі жувати."
+  },
+  {
+    "id": 20,
+    "term": "з Великоднем",
+    "definition": "Happy Easter!",
+    "example": ""
+  },
+  {
+    "id": 21,
+    "term": "з вільної руки",
+    "definition": "of one's own free will, voluntarily",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "з першої руки",
+    "definition": "firsthand, from the original source",
+    "example": ""
+  },
+  {
+    "id": 23,
+    "term": "з порожніми руками",
+    "definition": "empty-handed, with empty hands, without gifts, unrewarded",
+    "example": ""
+  },
+  {
+    "id": 24,
+    "term": "за закритими дверима",
+    "definition": "behind closed doors",
+    "example": ""
+  },
+  {
+    "id": 25,
+    "term": "заложити руки",
+    "definition": "to sit idle, to fold one's arms, to do nothing",
+    "example": ""
+  },
+  {
+    "id": 26,
+    "term": "земля обітована",
+    "definition": "dream",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "зложити голову",
+    "definition": "To die in battle",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "камінь спотикання",
+    "definition": "stumbling block",
+    "example": ""
+  },
+  {
+    "id": 29,
+    "term": "квиток до Кобзона",
+    "definition": "\"Ticket to Kobzon\": a quick death for a Russian soldier in Ukraine",
+    "example": "Вбивця отримав собі квиток до Кобзона."
+  },
+  {
+    "id": 30,
+    "term": "коли йдеться про",
+    "definition": "when it comes to",
+    "example": ""
+  },
+  {
+    "id": 31,
+    "term": "коли рак на горі свисне",
+    "definition": "when pigs fly, never",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "концерт Кобзона",
+    "definition": "\"Kobzon's concert\": a quick death for a Russian soldier fighting against Ukraine",
+    "example": "відправили на концерт Кобзона."
+  },
+  {
+    "id": 33,
+    "term": "крокодилячі сльози",
+    "definition": "crocodile tears",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "кулик кулика бачить здалека",
+    "definition": "birds of a feather flock together",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "ламати голову над чимось",
+    "definition": "to get confused",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "левова частка",
+    "definition": "lion's share",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "мати довгі руки",
+    "definition": "to be a thief, to be light-fingered, to have sticky fingers, to be prone to stealing",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "мене звати",
+    "definition": "my name is",
+    "example": "Мене́ зва́ти Стефа́н."
+  },
+  {
+    "id": 39,
+    "term": "молоко на губах не обсохло",
+    "definition": "wet behind the ears, greenhorn",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "моя хата скраю, я нічого не знаю",
+    "definition": "it's none of my business, I don't care",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "на молот",
+    "definition": "very finely",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "на руку",
+    "definition": "convenient, handy, advantageous, playing into someone's hands",
+    "example": ""
+  },
+  {
+    "id": 43,
+    "term": "на свою руку",
+    "definition": "on one's own, independently, on one's own initiative or risk",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "налякати їжака голою сракою",
+    "definition": "To fail to be threatening",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "не на руку",
+    "definition": "inconvenient, unsuitable, disadvantageous",
+    "example": ""
+  },
+  {
+    "id": 46,
+    "term": "не рука",
+    "definition": "it won't do; it is not suitable, convenient, or acceptable",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "не святі горшки ліплять",
+    "definition": "anyone can learn to do anything if they wish to",
+    "example": ""
+  },
+  {
+    "id": 48,
+    "term": "не чути ніг під собою",
+    "definition": "to be very happy or excited; over the moon",
+    "example": ""
+  },
+  {
+    "id": 49,
+    "term": "нема диму без вогню",
+    "definition": "there's no smoke without fire",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "нема лиха без добра",
+    "definition": "a blessing in disguise, something bad that has a good result",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "неозброєне око",
+    "definition": "naked eye, unaided eye",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "один у полі не воїн",
+    "definition": "many hands make light work",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "опустити руки",
+    "definition": "to lose heart, to give up, to despair",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "переливати з пустого в порожнє",
+    "definition": "to talk empty, useless, unimportant talks",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "показати де раки зимують",
+    "definition": "to punish someone, to teach someone a lesson",
+    "example": "Я покажу тобі, де раки зимують!"
+  },
+  {
+    "id": 56,
+    "term": "прийти до тями",
+    "definition": "to come to one's senses, to recover one's senses, to regain one's senses, to come to, to come round",
+    "example": ""
+  },
+  {
+    "id": 57,
+    "term": "про вовка промовка",
+    "definition": "speak of the devil",
+    "example": "Про вовка промовка, а вовк у хату. - Марко Вовчок."
+  },
+  {
+    "id": 58,
+    "term": "під джмелем",
+    "definition": "drunk",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "під диктовку",
+    "definition": "according to someone's will, as one wishes",
+    "example": ""
+  },
+  {
+    "id": 60,
+    "term": "піти рукою",
+    "definition": "to go well, to succeed, to go smoothly",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "раз та гаразд",
+    "definition": "even though something is done rarely, it is done extremely well",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "ранні пташки росу п'ють, а пізні слізки ллють",
+    "definition": "the early bird catches the worm, the early bird gets the worm",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "робити з мухи слона",
+    "definition": "to make a mountain out of a molehill",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "рожеві окуляри",
+    "definition": "rose-colored glasses",
+    "example": ""
+  },
+  {
+    "id": 65,
+    "term": "стрибати від радості",
+    "definition": "to jump for joy",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "теплою рукою",
+    "definition": "during one's lifetime, before death",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "тягнути руку",
+    "definition": "to raise one's hand",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "ходити з довгою рукою",
+    "definition": "to beg, to ask for alms",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "цирк на дроті",
+    "definition": "three-ring circus; pandemonium",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "Чотири вершники Апокаліпсису",
+    "definition": "Four Horsemen of the Apocalypse",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "яблуку ніде впасти",
+    "definition": "it's packed to the gills, it's packed to the rafters",
+    "example": ""
+  },
+  {
+    "id": 72,
+    "term": "язик до Києва доведе",
+    "definition": "one must be communicative and ask other people if needed",
+    "example": ""
+  },
+  {
+    "id": 73,
+    "term": "як вітром здуло",
+    "definition": "vanished into thin air",
+    "example": "Коли клас здавав домашню роботу, Семена як вітром здуло."
+  },
+  {
+    "id": 74,
+    "term": "як грім серед ясного неба",
+    "definition": "out of the blue",
+    "example": "Одного дня, як грім серед ясного неба, вона сказала, що йде від мене."
+  },
+  {
+    "id": 75,
+    "term": "як дві краплі води",
+    "definition": "like two peas in a pod",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "як до Києва рачки",
+    "definition": "far, a long way",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "як Марко в пеклі",
+    "definition": "ceaselessly, quickly, unnecessarily",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "як не срачка, то болячка",
+    "definition": "out of the frying pan, into the fire; referring to a situation that is inevitably as bad as the previous one",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "якщо на те пішло",
+    "definition": "for that matter, come to that",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "їбала жаба гадюку",
+    "definition": "Two or more unpleasant people are fighting each other; like rats in a sack",
+    "example": "Та там справжнє шоу — їбала жаба гадюку!"
+  },
+  {
+    "id": 81,
+    "term": "ґав ловити",
+    "definition": "to get distracted, to lose focus",
+    "example": "Не лови ґав на роботі!"
+  }
+];
+window.QM_IDIOMS_CS_DATA = [
+  {
+    "id": 1,
+    "term": "ani mě nehne",
+    "definition": "fat chance that; I'll be damned if; no way",
+    "example": "Ani mě nehne se někdy vracet na Kubu."
+  },
+  {
+    "id": 2,
+    "term": "ani ryba ani rak",
+    "definition": "neither fish nor fowl",
+    "example": ""
+  },
+  {
+    "id": 3,
+    "term": "atomový hřib",
+    "definition": "mushroom cloud",
+    "example": ""
+  },
+  {
+    "id": 4,
+    "term": "až opadá listí z dubu",
+    "definition": "never, when pigs fly",
+    "example": ""
+  },
+  {
+    "id": 5,
+    "term": "až to bude, tak to bude",
+    "definition": "the work cannot be done earlier or faster; close to an oak is not felled at one stroke",
+    "example": ""
+  },
+  {
+    "id": 6,
+    "term": "bez práce nejsou koláče",
+    "definition": "where there is no work and effort, there are no enjoyable results",
+    "example": ""
+  },
+  {
+    "id": 7,
+    "term": "blaze tomu, kdo nic nemá, nestará se, kam to schová",
+    "definition": "poor people are often happier because fortune brings worries",
+    "example": ""
+  },
+  {
+    "id": 8,
+    "term": "blesk z čistého nebe",
+    "definition": "bolt from the blue",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "bouře ve sklenici vody",
+    "definition": "tempest in a teapot",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "být na dvě věci",
+    "definition": "to be worthless, to have no use, to suck",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "být ruka v rukávě",
+    "definition": "something is agreed by both parties, close to signed, sealed, and delivered",
+    "example": "Chodí spolu už dlouho, já myslím, že už je ruka v rukávě."
+  },
+  {
+    "id": 12,
+    "term": "chytrému napověz, hloupého kopni",
+    "definition": "a word to the wise is sufficient",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "chytrému napověz, hloupého trkni",
+    "definition": "a nod is as good as a wink",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "co je šeptem, to je čertem",
+    "definition": "what is whispered is illicit",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "co můžeš udělat dnes, neodkládej na zítřek",
+    "definition": "procrastination is foolish",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "co oči nevidí, to srdce nebolí",
+    "definition": "problems and losses that do not reach the attention cause no worries and no grief: what the eye doesn't see",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "co se v mládí naučíš, ve stáří jako když najdeš",
+    "definition": "what you learn in your youth will be useful when you are old",
+    "example": ""
+  },
+  {
+    "id": 18,
+    "term": "co tě nepálí, nehas",
+    "definition": "mind one's own business; cobbler, stick to thy last",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "darovanému koni na zuby nekoukej",
+    "definition": "don't look a gift horse in the mouth",
+    "example": ""
+  },
+  {
+    "id": 20,
+    "term": "devatero řemesel, desátá bída",
+    "definition": "jack of all trades, master of none",
+    "example": ""
+  },
+  {
+    "id": 21,
+    "term": "do třetice všeho dobrého",
+    "definition": "third time is the charm",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "dvakrát měř, jednou řež",
+    "definition": "measure twice and cut once; verify your plans and the information on which they are based before you execute t",
+    "example": ""
+  },
+  {
+    "id": 23,
+    "term": "dát někomu pětikorunu",
+    "definition": "to feel sympathy to somebody",
+    "example": "Tvářil se tak nešťastně, že by mu člověk dal pětikorunu."
+  },
+  {
+    "id": 24,
+    "term": "dělat z komára velblouda",
+    "definition": "make a mountain out of a molehill",
+    "example": ""
+  },
+  {
+    "id": 25,
+    "term": "dštít oheň a síru",
+    "definition": "to rain fire and brimstone",
+    "example": ""
+  },
+  {
+    "id": 26,
+    "term": "Eridino jablko",
+    "definition": "apple of discord, something which causes argument, rivalry, or strife",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "hlad je nejlepší kuchař",
+    "definition": "hunger is a good sauce",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "hlas lidu, hlas boží",
+    "definition": "the voice of the people, the voice of God",
+    "example": ""
+  },
+  {
+    "id": 29,
+    "term": "hlavou zeď neprorazíš",
+    "definition": "stubbornness alone does not remove obstacles",
+    "example": ""
+  },
+  {
+    "id": 30,
+    "term": "hledět si svého",
+    "definition": "to mind one's own business",
+    "example": ""
+  },
+  {
+    "id": 31,
+    "term": "hodit flintu do žita",
+    "definition": "to throw in the towel",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "houby s octem",
+    "definition": "to know nothing",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "i mistr tesař se někdy utne",
+    "definition": "we all make mistakes",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "jablko nepadá daleko od stromu",
+    "definition": "the apple doesn't fall far from the tree",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "jak se do lesa volá, tak se z lesa ozývá",
+    "definition": "angry and impolite words lead to angry and impolite replies; what goes around comes around",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "jak si kdo ustele, tak si lehne",
+    "definition": "as you make your bed, so you must lie in it",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "jako házet hrách na stěnu",
+    "definition": "like talking to a wall, like talking to a brick wall",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "jako kdyby do někoho udeřil blesk",
+    "definition": "to be in shock, surprise or amazement",
+    "example": ""
+  },
+  {
+    "id": 39,
+    "term": "jedna vlaštovka jaro nedělá",
+    "definition": "one swallow doesn't make a summer",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "jít s kanónem na vrabce",
+    "definition": "to use a sledgehammer to crack a nut",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "kam čert nemůže, nastrčí ženskou",
+    "definition": "the explanation of why the person caused the problem is that she is a woman",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "každý dobrý skutek je po zásluze potrestán",
+    "definition": "no good deed goes unpunished",
+    "example": ""
+  },
+  {
+    "id": 43,
+    "term": "kde není žalobce, není soudce",
+    "definition": "where there is no plaintiff, there is no judge",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "kdo chce kam, pomozme mu tam",
+    "definition": "a person should be allowed to proceed in an action harmful to himself if he insists",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "kdo chce psa bít, hůl si vždycky najde",
+    "definition": "it is easy to find a stick to beat a dog",
+    "example": ""
+  },
+  {
+    "id": 46,
+    "term": "kdo chce s vlky býti, musí s nimi výti",
+    "definition": "when in Rome do as the Romans do",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "kdo chce, hledá způsoby, kdo nechce, hledá důvody",
+    "definition": "those who want to do something find a way to do it",
+    "example": ""
+  },
+  {
+    "id": 48,
+    "term": "lehce nabyl, lehce pozbyl",
+    "definition": "easy come, easy go",
+    "example": ""
+  },
+  {
+    "id": 49,
+    "term": "lepší pozdě než nikdy",
+    "definition": "better late than never",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "lepší vrabec v hrsti nežli holub na střeše",
+    "definition": "a bird in the hand is worth two in the bush",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "lež má krátké nohy",
+    "definition": "a lie has no legs",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "líná huba, holé neštěstí",
+    "definition": "who is lazy to ask a question or to ask for a service will bear bad consequences",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "líná huba, hotové neštěstí",
+    "definition": "those who are too lazy to ask a question or request something cannot profit from the answer they would have go",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "malé ryby taky ryby",
+    "definition": "half a loaf is better than none",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "mazat někomu med kolem huby",
+    "definition": "to soft-soap somebody, to butter someone up",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "mezi slepými je jednooký králem",
+    "definition": "in the land of the blind, the one-eyed man is king",
+    "example": ""
+  },
+  {
+    "id": 57,
+    "term": "mladí ležáci, staří žebráci",
+    "definition": "he who is lazy to work when he is young will be poor in old age",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "mluviti stříbro, mlčeti zlato",
+    "definition": "speech is silver, silence is golden",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "mnoho povolaných, málo vyvolených",
+    "definition": "many are called, but few are chosen",
+    "example": ""
+  },
+  {
+    "id": 60,
+    "term": "mít máslo na hlavě",
+    "definition": "egg on one's face",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "na hrubý pytel hrubá záplata",
+    "definition": "a rude action deserves a rude reaction",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "na každém šprochu pravdy trochu",
+    "definition": "Every statement contains a kernel of truth",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "natrhnout někomu sako",
+    "definition": "to give someone what for, to do somebody over",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "nebuď zvědavej, budeš brzo starej",
+    "definition": "curiosity killed the cat",
+    "example": ""
+  },
+  {
+    "id": 65,
+    "term": "nechval dne před večerem",
+    "definition": "don't count your chickens before they're hatched",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "nejít někomu něco pod fousy",
+    "definition": "not to be happy about something, not to like something",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "není všechno zlato, co se třpytí",
+    "definition": "all that glitters is not gold",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "oddělit zrno od plev",
+    "definition": "to separate the wheat from the chaff",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "odvážnému štěstí přeje",
+    "definition": "fortune favors the bold",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "oheň na střeše",
+    "definition": "conflict",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "oko za oko, zub za zub",
+    "definition": "eye for an eye, a tooth for a tooth",
+    "example": ""
+  },
+  {
+    "id": 72,
+    "term": "opakování matka moudrosti",
+    "definition": "practice makes perfect",
+    "example": ""
+  },
+  {
+    "id": 73,
+    "term": "orel much nelapá",
+    "definition": "don't waste time, attention, calm or money on fighting insignificant enemies",
+    "example": ""
+  },
+  {
+    "id": 74,
+    "term": "po bitvě je každý generál",
+    "definition": "twenty-twenty hindsight, hindsight is 20/20",
+    "example": ""
+  },
+  {
+    "id": 75,
+    "term": "potmě každá kráva černá",
+    "definition": "all cats are grey in the dark",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "potrefená husa se vždycky ozve",
+    "definition": "the person who has the qualities implied or stated in a derogatory hint made by another one will complain of b",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "pro jedno kvítí slunce nesvítí",
+    "definition": "when your beloved woman has broken your heart and left you, you will still fall in love again with another one",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "psi štěkají a karavana jde dál",
+    "definition": "the dogs bark, but the caravan goes on, haters gonna hate",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "před heřmánkem smekni, před bezinkou klekni",
+    "definition": ") and even higher ones of black elder",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "ranní ptáče dál doskáče",
+    "definition": "the early bird gets the worm",
+    "example": ""
+  },
+  {
+    "id": 81,
+    "term": "rodná hrouda",
+    "definition": "native soil",
+    "example": ""
+  },
+  {
+    "id": 82,
+    "term": "ruka ruku myje",
+    "definition": "you scratch my back and I'll scratch yours",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "ruku na srdce",
+    "definition": "in all honesty, in all fairness, honestly, frankly",
+    "example": ""
+  },
+  {
+    "id": 84,
+    "term": "ryba smrdí od hlavy",
+    "definition": "problems with people at lower ranks of an organization are to be traced to similar problems with people in the",
+    "example": ""
+  },
+  {
+    "id": 85,
+    "term": "Rychlé šípy",
+    "definition": "a group of absolutely honest people",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "ráno moudřejší večera",
+    "definition": "sleep on it",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "s chutí do toho, půl je hotovo",
+    "definition": "a good beginning makes a good ending",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "s křížkem po funuse",
+    "definition": "a day late and a dollar short",
+    "example": "Přišel s křížkem po funuse."
+  },
+  {
+    "id": 89,
+    "term": "s poctivostí nejdál dojdeš",
+    "definition": "honesty is the best policy",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "sejde z očí, sejde z mysli",
+    "definition": "out of sight, out of mind",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "spadnout do vlastní jámy",
+    "definition": "to give a taste of one's own medicine, to retaliate",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "starého psa novým kouskům nenaučíš",
+    "definition": "you can't teach an old dog new tricks",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "stokrát nic umořilo osla",
+    "definition": "many small burdens add up to a big crushing burden",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "tak dlouho se chodí se džbánem pro vodu, až se ucho utrhne",
+    "definition": "when you use a thing too much, it ultimately breaks down at some point every day the bucket goes to the well b",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "tichá voda břehy mele",
+    "definition": "still waters run deep",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "term": "to je gól",
+    "definition": "that is a turn up for the book",
+    "example": ""
+  },
+  {
+    "id": 97,
+    "term": "tonoucí se stébla chytá",
+    "definition": "desperate times call for desperate measures",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "term": "trpělivost růže přináší",
+    "definition": "all things come to those who wait",
+    "example": ""
+  },
+  {
+    "id": 99,
+    "term": "těžko na cvičišti, lehko na bojišti",
+    "definition": "train hard, fight easy; practice makes perfect",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "uhodit hřebíček na hlavičku",
+    "definition": "to hit the nail on the head",
+    "example": ""
   }
 ];
