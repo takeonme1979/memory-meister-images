@@ -37126,6 +37126,2414 @@ window.QM_IDIOMS_DATA = [
     "example": "The old address sent us on a wild goose chase across town."
   }
 ];
+window.QM_IDIOMS2_DATA = [
+  {
+    "id": 1,
+    "term": "A penny for your thoughts",
+    "definition": "A way of asking what someone is quietly thinking",
+    "example": "You've been staring out of the window for ages — a penny for your thoughts?"
+  },
+  {
+    "id": 2,
+    "term": "Actions speak louder than words",
+    "definition": "What you do matters more than what you promise",
+    "example": "He keeps saying he'll help, but actions speak louder than words."
+  },
+  {
+    "id": 3,
+    "term": "Add insult to injury",
+    "definition": "Make a bad situation worse by being hurtful too",
+    "example": "They cancelled the order and, to add insult to injury, kept the deposit."
+  },
+  {
+    "id": 4,
+    "term": "Against the clock",
+    "definition": "Rushing to finish before a deadline",
+    "example": "The team worked against the clock to get the hall ready for Saturday."
+  },
+  {
+    "id": 5,
+    "term": "All ears",
+    "definition": "Listening eagerly and giving full attention",
+    "example": "Tell me what the doctor said — I'm all ears."
+  },
+  {
+    "id": 6,
+    "term": "Back to the drawing board",
+    "definition": "Start again from the design stage after a failure",
+    "example": "The prototype snapped in half, so it's back to the drawing board."
+  },
+  {
+    "id": 7,
+    "term": "A ballpark figure",
+    "definition": "A rough estimate rather than an exact number",
+    "example": "Give me a ballpark figure for the repairs and I'll decide."
+  },
+  {
+    "id": 8,
+    "term": "Behind closed doors",
+    "definition": "In private, away from public view",
+    "example": "The real negotiation happened behind closed doors."
+  },
+  {
+    "id": 9,
+    "term": "Bend the rules",
+    "definition": "Allow something that isn't normally permitted",
+    "example": "They bent the rules to let her sit the exam a day late."
+  },
+  {
+    "id": 10,
+    "term": "Better late than never",
+    "definition": "Arriving or acting late still beats not at all",
+    "example": "He sent the card in February — better late than never."
+  },
+  {
+    "id": 11,
+    "term": "Blow off steam",
+    "definition": "Release pent-up energy or frustration harmlessly",
+    "example": "She goes for a run after work to blow off steam."
+  },
+  {
+    "id": 12,
+    "term": "Bury the hatchet",
+    "definition": "Make peace after a long quarrel",
+    "example": "The brothers finally buried the hatchet at their mother's birthday."
+  },
+  {
+    "id": 13,
+    "term": "Call the shots",
+    "definition": "Be the one making the decisions",
+    "example": "Since the takeover, head office calls the shots."
+  },
+  {
+    "id": 14,
+    "term": "Caught red-handed",
+    "definition": "Caught in the very act of doing wrong",
+    "example": "He was caught red-handed with the missing petty cash."
+  },
+  {
+    "id": 15,
+    "term": "A change of heart",
+    "definition": "A reversal of your feelings or intentions",
+    "example": "She had a change of heart and kept the puppy after all."
+  },
+  {
+    "id": 16,
+    "term": "Clear the air",
+    "definition": "Resolve a misunderstanding by talking openly",
+    "example": "One honest conversation cleared the air completely."
+  },
+  {
+    "id": 17,
+    "term": "Come rain or shine",
+    "definition": "Whatever happens; without fail",
+    "example": "He walks the dog at six, come rain or shine."
+  },
+  {
+    "id": 18,
+    "term": "Cut your losses",
+    "definition": "Stop something failing before it costs you more",
+    "example": "They cut their losses and sold the flat below asking price."
+  },
+  {
+    "id": 19,
+    "term": "Down in the dumps",
+    "definition": "Feeling low and dispirited",
+    "example": "He's been down in the dumps since the season ended."
+  },
+  {
+    "id": 20,
+    "term": "Draw a blank",
+    "definition": "Fail completely to remember or find anything",
+    "example": "I searched the archive all morning and drew a blank."
+  },
+  {
+    "id": 21,
+    "term": "Drive someone up the wall",
+    "definition": "Irritate someone intensely",
+    "example": "That dripping tap drives me up the wall."
+  },
+  {
+    "id": 22,
+    "term": "Thrown in at the deep end",
+    "definition": "Given a difficult task with no preparation",
+    "example": "She was thrown in at the deep end and ran the meeting on day two."
+  },
+  {
+    "id": 23,
+    "term": "Easier said than done",
+    "definition": "Simple to suggest but hard to actually do",
+    "example": "Save more, spend less — easier said than done."
+  },
+  {
+    "id": 24,
+    "term": "Eat like a horse",
+    "definition": "Eat a very large amount",
+    "example": "He's rake-thin but eats like a horse."
+  },
+  {
+    "id": 25,
+    "term": "Fall on deaf ears",
+    "definition": "Be ignored completely",
+    "example": "Our complaints about the noise fell on deaf ears."
+  },
+  {
+    "id": 26,
+    "term": "Fight fire with fire",
+    "definition": "Respond using the same tactics as your opponent",
+    "example": "They advertised aggressively, so we fought fire with fire."
+  },
+  {
+    "id": 27,
+    "term": "Find your feet",
+    "definition": "Settle in and grow confident somewhere new",
+    "example": "Give him a term to find his feet at the new school."
+  },
+  {
+    "id": 28,
+    "term": "Fit as a fiddle",
+    "definition": "In excellent health",
+    "example": "At eighty-two, my gran is still fit as a fiddle."
+  },
+  {
+    "id": 29,
+    "term": "Follow in someone's footsteps",
+    "definition": "Take the same path in life as they did",
+    "example": "She followed in her father's footsteps and joined the fire service."
+  },
+  {
+    "id": 30,
+    "term": "From scratch",
+    "definition": "From the very beginning, with nothing prepared",
+    "example": "He built the whole website from scratch in a fortnight."
+  },
+  {
+    "id": 31,
+    "term": "Get a grip",
+    "definition": "Regain control of yourself",
+    "example": "It's one bad review — get a grip."
+  },
+  {
+    "id": 32,
+    "term": "Get the ball rolling",
+    "definition": "Start a process off",
+    "example": "I'll email the supplier to get the ball rolling."
+  },
+  {
+    "id": 33,
+    "term": "Get wind of something",
+    "definition": "Hear a rumour of something meant to be quiet",
+    "example": "The press got wind of the merger before it was announced."
+  },
+  {
+    "id": 34,
+    "term": "Give someone the benefit of the doubt",
+    "definition": "Choose to believe someone despite uncertainty",
+    "example": "He's never let us down before, so give him the benefit of the doubt."
+  },
+  {
+    "id": 35,
+    "term": "Go down a treat",
+    "definition": "Be very well received indeed",
+    "example": "The lemon cake went down a treat at the fete."
+  },
+  {
+    "id": 36,
+    "term": "Have your hands full",
+    "definition": "Be fully occupied with all you can manage",
+    "example": "With three under five, she has her hands full."
+  },
+  {
+    "id": 37,
+    "term": "Have your head in the clouds",
+    "definition": "Be dreamy and out of touch with practicalities",
+    "example": "He's clever, but his head is always in the clouds."
+  },
+  {
+    "id": 38,
+    "term": "Hear it on the grapevine",
+    "definition": "Hear news informally, through gossip",
+    "example": "I heard on the grapevine that they're closing the branch."
+  },
+  {
+    "id": 39,
+    "term": "Hit it off",
+    "definition": "Get along well from the very first meeting",
+    "example": "The two of them hit it off immediately."
+  },
+  {
+    "id": 40,
+    "term": "Hit the books",
+    "definition": "Study hard",
+    "example": "Exams start Monday, so I'm hitting the books this weekend."
+  },
+  {
+    "id": 41,
+    "term": "In a nutshell",
+    "definition": "Put very briefly",
+    "example": "In a nutshell, we can't afford it this year."
+  },
+  {
+    "id": 42,
+    "term": "In the driving seat",
+    "definition": "In control of a situation",
+    "example": "After that result, United are in the driving seat."
+  },
+  {
+    "id": 43,
+    "term": "It takes two to tango",
+    "definition": "Both people share the blame for a situation",
+    "example": "Don't put it all on her — it takes two to tango."
+  },
+  {
+    "id": 44,
+    "term": "Keep an eye on",
+    "definition": "Watch something carefully",
+    "example": "Keep an eye on the pan while I answer the door."
+  },
+  {
+    "id": 45,
+    "term": "Keep your fingers crossed",
+    "definition": "Hope hard for a good outcome",
+    "example": "Keep your fingers crossed for the results on Thursday."
+  },
+  {
+    "id": 46,
+    "term": "Kick the bucket",
+    "definition": "Die",
+    "example": "The old van finally kicked the bucket on the M6."
+  },
+  {
+    "id": 47,
+    "term": "Knuckle down",
+    "definition": "Start working seriously",
+    "example": "He knuckled down in the last month and passed comfortably."
+  },
+  {
+    "id": 48,
+    "term": "Learn it the hard way",
+    "definition": "Learn through unpleasant experience",
+    "example": "I learnt the hard way never to lend him money."
+  },
+  {
+    "id": 49,
+    "term": "Leave no stone unturned",
+    "definition": "Search or try absolutely everything",
+    "example": "The team left no stone unturned looking for the fault."
+  },
+  {
+    "id": 50,
+    "term": "A level playing field",
+    "definition": "Fair and equal conditions for everyone",
+    "example": "The new rules give smaller firms a level playing field."
+  },
+  {
+    "id": 51,
+    "term": "Like pulling teeth",
+    "definition": "Extremely difficult to get out of someone",
+    "example": "Getting a straight answer from him is like pulling teeth."
+  },
+  {
+    "id": 52,
+    "term": "Live and learn",
+    "definition": "Experience teaches you, often uncomfortably",
+    "example": "I'll never book a night flight again — live and learn."
+  },
+  {
+    "id": 53,
+    "term": "Lose your touch",
+    "definition": "No longer be as good at something as you were",
+    "example": "Three burnt dinners in a row — I'm losing my touch."
+  },
+  {
+    "id": 54,
+    "term": "Make ends meet",
+    "definition": "Earn just enough to cover what you must spend",
+    "example": "Two jobs, and they still struggle to make ends meet."
+  },
+  {
+    "id": 55,
+    "term": "To cut a long story short",
+    "definition": "Skipping the details, here's the outcome",
+    "example": "To cut a long story short, we missed the ferry."
+  },
+  {
+    "id": 56,
+    "term": "There's method in the madness",
+    "definition": "There's a sensible reason behind odd behaviour",
+    "example": "It looks chaotic, but there's method in the madness."
+  },
+  {
+    "id": 57,
+    "term": "Miss the point",
+    "definition": "Fail to grasp what actually matters",
+    "example": "You're missing the point — it isn't about the money."
+  },
+  {
+    "id": 58,
+    "term": "Music to my ears",
+    "definition": "Exactly the news you wanted to hear",
+    "example": "\"The tests came back clear\" was music to my ears."
+  },
+  {
+    "id": 59,
+    "term": "A needle in a haystack",
+    "definition": "Something practically impossible to find",
+    "example": "Finding that receipt now is a needle in a haystack."
+  },
+  {
+    "id": 60,
+    "term": "No pain, no gain",
+    "definition": "Nothing worthwhile comes without effort",
+    "example": "Week one of training hurts, but no pain, no gain."
+  },
+  {
+    "id": 61,
+    "term": "Not the sharpest tool in the box",
+    "definition": "Not very bright",
+    "example": "He's kind enough, if not the sharpest tool in the box."
+  },
+  {
+    "id": 62,
+    "term": "On cloud nine",
+    "definition": "Blissfully happy",
+    "example": "She's been on cloud nine since the offer came through."
+  },
+  {
+    "id": 63,
+    "term": "On the back burner",
+    "definition": "Postponed to deal with later",
+    "example": "The kitchen extension is on the back burner until spring."
+  },
+  {
+    "id": 64,
+    "term": "On the same page",
+    "definition": "In agreement about what's happening",
+    "example": "Let's meet first so everyone's on the same page."
+  },
+  {
+    "id": 65,
+    "term": "On the tip of my tongue",
+    "definition": "Almost remembered but not quite",
+    "example": "Her name is on the tip of my tongue."
+  },
+  {
+    "id": 66,
+    "term": "Once bitten, twice shy",
+    "definition": "One bad experience makes you wary next time",
+    "example": "He won't buy secondhand again — once bitten, twice shy."
+  },
+  {
+    "id": 67,
+    "term": "Out of your depth",
+    "definition": "In a situation beyond your ability to handle",
+    "example": "I was out of my depth in that meeting."
+  },
+  {
+    "id": 68,
+    "term": "Paint the town red",
+    "definition": "Go out and celebrate wildly",
+    "example": "They painted the town red after the final whistle."
+  },
+  {
+    "id": 69,
+    "term": "Pick up the pieces",
+    "definition": "Restore order after something has gone wrong",
+    "example": "It's always the staff who pick up the pieces."
+  },
+  {
+    "id": 70,
+    "term": "Play it by ear",
+    "definition": "Improvise as the situation unfolds",
+    "example": "We've no plan for Sunday — we'll play it by ear."
+  },
+  {
+    "id": 71,
+    "term": "Practice makes perfect",
+    "definition": "Repetition is what builds skill",
+    "example": "Don't give up on the scales — practice makes perfect."
+  },
+  {
+    "id": 72,
+    "term": "Pull yourself together",
+    "definition": "Regain your composure",
+    "example": "Pull yourself together, we're on in five minutes."
+  },
+  {
+    "id": 73,
+    "term": "Push your luck",
+    "definition": "Risk more after already getting away with something",
+    "example": "He got one extension; asking for a second is pushing his luck."
+  },
+  {
+    "id": 74,
+    "term": "Put your feet up",
+    "definition": "Rest and relax",
+    "example": "Sit down and put your feet up — I'll do the washing-up."
+  },
+  {
+    "id": 75,
+    "term": "Rack your brains",
+    "definition": "Think as hard as you possibly can",
+    "example": "I racked my brains but couldn't recall the address."
+  },
+  {
+    "id": 76,
+    "term": "Raining cats and dogs",
+    "definition": "Raining extremely heavily",
+    "example": "Take the car — it's raining cats and dogs."
+  },
+  {
+    "id": 77,
+    "term": "Rome wasn't built in a day",
+    "definition": "Big things take time to achieve",
+    "example": "The garden's only half done, but Rome wasn't built in a day."
+  },
+  {
+    "id": 78,
+    "term": "Run out of steam",
+    "definition": "Lose energy or momentum before the end",
+    "example": "The campaign ran out of steam in the final week."
+  },
+  {
+    "id": 79,
+    "term": "Second nature",
+    "definition": "So familiar you do it without thinking",
+    "example": "After twenty years, teaching is second nature to her."
+  },
+  {
+    "id": 80,
+    "term": "Sleep on it",
+    "definition": "Delay a decision until the morning",
+    "example": "Don't answer tonight — sleep on it."
+  },
+  {
+    "id": 81,
+    "term": "Snowed under",
+    "definition": "Overwhelmed with far too much work",
+    "example": "I'm snowed under until the end of the month."
+  },
+  {
+    "id": 82,
+    "term": "A stab in the dark",
+    "definition": "A complete guess",
+    "example": "It was a stab in the dark, but the answer was right."
+  },
+  {
+    "id": 83,
+    "term": "Stick to your guns",
+    "definition": "Refuse to change your position under pressure",
+    "example": "She stuck to her guns and got the refund."
+  },
+  {
+    "id": 84,
+    "term": "Take it easy",
+    "definition": "Relax; don't overexert yourself",
+    "example": "Take it easy for a few days after the operation."
+  },
+  {
+    "id": 85,
+    "term": "The bigger picture",
+    "definition": "The wider context beyond the immediate detail",
+    "example": "Try to look at the bigger picture before you resign."
+  },
+  {
+    "id": 86,
+    "term": "Have the last laugh",
+    "definition": "End up triumphant after being doubted",
+    "example": "They mocked her plan, but she had the last laugh."
+  },
+  {
+    "id": 87,
+    "term": "Think outside the box",
+    "definition": "Think unconventionally about a problem",
+    "example": "We'll need to think outside the box to fix this on budget."
+  },
+  {
+    "id": 88,
+    "term": "Throw caution to the wind",
+    "definition": "Act boldly and stop worrying about the risk",
+    "example": "They threw caution to the wind and moved abroad."
+  },
+  {
+    "id": 89,
+    "term": "Tie the knot",
+    "definition": "Get married",
+    "example": "They're tying the knot in September."
+  },
+  {
+    "id": 90,
+    "term": "Time flies",
+    "definition": "Time passes surprisingly quickly",
+    "example": "Time flies — she starts secondary school next year."
+  },
+  {
+    "id": 91,
+    "term": "Right under your nose",
+    "definition": "Directly in front of you, yet unnoticed",
+    "example": "The keys were right under my nose the whole time."
+  },
+  {
+    "id": 92,
+    "term": "Up to scratch",
+    "definition": "Of an acceptable standard",
+    "example": "The flat wasn't up to scratch, so we didn't take it."
+  },
+  {
+    "id": 93,
+    "term": "Wear many hats",
+    "definition": "Do several different jobs or roles",
+    "example": "In a small charity you wear many hats."
+  },
+  {
+    "id": 94,
+    "term": "When it rains, it pours",
+    "definition": "Troubles tend to arrive all at once",
+    "example": "Car, boiler and laptop in one week — when it rains, it pours."
+  },
+  {
+    "id": 95,
+    "term": "By word of mouth",
+    "definition": "Spread person to person rather than advertised",
+    "example": "The bakery got busy purely by word of mouth."
+  },
+  {
+    "id": 96,
+    "term": "You can't judge a book by its cover",
+    "definition": "Appearances tell you little about what's inside",
+    "example": "The pub looks rough, but the food is superb — you can't judge a book by its cover."
+  },
+  {
+    "id": 97,
+    "term": "Your guess is as good as mine",
+    "definition": "I have no more idea than you do",
+    "example": "When will the trains be back? Your guess is as good as mine."
+  },
+  {
+    "id": 98,
+    "term": "Get the hang of it",
+    "definition": "Learn how to do something with practice",
+    "example": "The software is fiddly, but you soon get the hang of it."
+  },
+  {
+    "id": 99,
+    "term": "Cross your mind",
+    "definition": "Occur to you as a passing thought",
+    "example": "It never crossed my mind that he might say no."
+  },
+  {
+    "id": 100,
+    "term": "Break the mould",
+    "definition": "Do something in a wholly new way",
+    "example": "Her first novel broke the mould for the genre."
+  }
+];
+window.QM_IDIOMSOBSCURE_DATA = [
+  {
+    "id": 1,
+    "term": "All mouth and no trousers",
+    "definition": "Full of boastful talk but never actually acts",
+    "example": "He's been promising to fix that fence for a year — all mouth and no trousers."
+  },
+  {
+    "id": 2,
+    "term": "At sixes and sevens",
+    "definition": "In complete disorder or confusion",
+    "example": "The office was at sixes and sevens the week before the move."
+  },
+  {
+    "id": 3,
+    "term": "The back of beyond",
+    "definition": "An extremely remote place",
+    "example": "Their cottage is out in the back of beyond, miles from a shop."
+  },
+  {
+    "id": 4,
+    "term": "A baker's dozen",
+    "definition": "Thirteen rather than twelve",
+    "example": "She asked for a dozen buns and got a baker's dozen."
+  },
+  {
+    "id": 5,
+    "term": "Beyond the pale",
+    "definition": "Outside the bounds of acceptable behaviour",
+    "example": "Shouting at the referee is one thing, but that was beyond the pale."
+  },
+  {
+    "id": 6,
+    "term": "Blot your copybook",
+    "definition": "Spoil an otherwise good record with one mistake",
+    "example": "He blotted his copybook by turning up late to the interview."
+  },
+  {
+    "id": 7,
+    "term": "Bob's your uncle",
+    "definition": "And there you have it — it's as simple as that",
+    "example": "Twist it clockwise, tighten the screw, and Bob's your uncle."
+  },
+  {
+    "id": 8,
+    "term": "Born with a silver spoon in your mouth",
+    "definition": "Born into wealth and privilege",
+    "example": "He talks about hardship, but he was born with a silver spoon in his mouth."
+  },
+  {
+    "id": 9,
+    "term": "A busman's holiday",
+    "definition": "Time off spent doing what you do at work anyway",
+    "example": "A chef eating out every night is a bit of a busman's holiday."
+  },
+  {
+    "id": 10,
+    "term": "By hook or by crook",
+    "definition": "By whatever means it takes",
+    "example": "We'll get there by Friday, by hook or by crook."
+  },
+  {
+    "id": 11,
+    "term": "Cap in hand",
+    "definition": "Humbly, as a supplicant asking for something",
+    "example": "They went cap in hand to the bank for another loan."
+  },
+  {
+    "id": 12,
+    "term": "Carry coals to Newcastle",
+    "definition": "Do something completely superfluous",
+    "example": "Taking wine to a vineyard is carrying coals to Newcastle."
+  },
+  {
+    "id": 13,
+    "term": "Chalk and cheese",
+    "definition": "Two things utterly unlike each other",
+    "example": "The twins are chalk and cheese."
+  },
+  {
+    "id": 14,
+    "term": "Cock a snook",
+    "definition": "Show open contempt or defiance",
+    "example": "The film cocks a snook at the whole industry."
+  },
+  {
+    "id": 15,
+    "term": "Come a cropper",
+    "definition": "Suffer a heavy fall or a sudden failure",
+    "example": "He came a cropper on the last bend."
+  },
+  {
+    "id": 16,
+    "term": "Cupboard love",
+    "definition": "Affection shown only to get something",
+    "example": "The cat's all purrs at six o'clock — pure cupboard love."
+  },
+  {
+    "id": 17,
+    "term": "A curate's egg",
+    "definition": "Partly good and partly bad",
+    "example": "The reviews called the album a curate's egg."
+  },
+  {
+    "id": 18,
+    "term": "A damp squib",
+    "definition": "Something that fails to live up to expectations",
+    "example": "After all the hype the parade was a damp squib."
+  },
+  {
+    "id": 19,
+    "term": "A dead ringer",
+    "definition": "An exact double of someone",
+    "example": "Your brother is a dead ringer for our old geography teacher."
+  },
+  {
+    "id": 20,
+    "term": "The devil to pay",
+    "definition": "Serious trouble still to come",
+    "example": "If the inspectors find that, there'll be the devil to pay."
+  },
+  {
+    "id": 21,
+    "term": "Dine out on something",
+    "definition": "Retell a story for years for social credit",
+    "example": "He's dined out on meeting the Queen ever since."
+  },
+  {
+    "id": 22,
+    "term": "Donkey's years",
+    "definition": "A very long time indeed",
+    "example": "I haven't seen Pat in donkey's years."
+  },
+  {
+    "id": 23,
+    "term": "Fall on your sword",
+    "definition": "Take the blame and resign over it",
+    "example": "The minister fell on his sword after the leak."
+  },
+  {
+    "id": 24,
+    "term": "A fine kettle of fish",
+    "definition": "An awkward mess of a situation",
+    "example": "Both drivers off sick — that's a fine kettle of fish."
+  },
+  {
+    "id": 25,
+    "term": "A flash in the pan",
+    "definition": "A brief success that is never repeated",
+    "example": "One good season, then nothing — a flash in the pan."
+  },
+  {
+    "id": 26,
+    "term": "A fly in the ointment",
+    "definition": "One small thing that spoils the whole",
+    "example": "The venue is perfect; the parking is the fly in the ointment."
+  },
+  {
+    "id": 27,
+    "term": "Get down to brass tacks",
+    "definition": "Deal with the practical details at last",
+    "example": "Let's get down to brass tacks — what will it cost?"
+  },
+  {
+    "id": 28,
+    "term": "The gift of the gab",
+    "definition": "A natural talent for fluent, persuasive talk",
+    "example": "With his gift of the gab he could sell anything."
+  },
+  {
+    "id": 29,
+    "term": "Gild the lily",
+    "definition": "Spoil something fine by over-embellishing it",
+    "example": "The dress is lovely as it is — don't gild the lily."
+  },
+  {
+    "id": 30,
+    "term": "Go the whole hog",
+    "definition": "Do the thing completely, holding nothing back",
+    "example": "They went the whole hog and hired a marquee."
+  },
+  {
+    "id": 31,
+    "term": "Grasp the nettle",
+    "definition": "Tackle an unpleasant difficulty boldly",
+    "example": "Someone has to grasp the nettle and tell him."
+  },
+  {
+    "id": 32,
+    "term": "The hair of the dog",
+    "definition": "A morning drink taken to cure a hangover",
+    "example": "He swore by the hair of the dog on New Year's Day."
+  },
+  {
+    "id": 33,
+    "term": "Hang fire",
+    "definition": "Hold back and delay taking action",
+    "example": "Hang fire on the order until the survey is in."
+  },
+  {
+    "id": 34,
+    "term": "Hoist by your own petard",
+    "definition": "Harmed by the very scheme you devised",
+    "example": "He was hoist by his own petard when the rule caught him too."
+  },
+  {
+    "id": 35,
+    "term": "In a brown study",
+    "definition": "Lost in gloomy, absorbed thought",
+    "example": "She sat in a brown study all the way home."
+  },
+  {
+    "id": 36,
+    "term": "In the doldrums",
+    "definition": "Flat, stagnant and low-spirited",
+    "example": "Sales have been in the doldrums since Christmas."
+  },
+  {
+    "id": 37,
+    "term": "In the offing",
+    "definition": "Likely to happen before long",
+    "example": "There's a reshuffle in the offing, by all accounts."
+  },
+  {
+    "id": 38,
+    "term": "Jam tomorrow",
+    "definition": "A promised benefit that never actually arrives",
+    "example": "Another pay review, another helping of jam tomorrow."
+  },
+  {
+    "id": 39,
+    "term": "Keep your powder dry",
+    "definition": "Stay ready and hold your resources in reserve",
+    "example": "Say nothing yet and keep your powder dry."
+  },
+  {
+    "id": 40,
+    "term": "Kick over the traces",
+    "definition": "Throw off restraint and start misbehaving",
+    "example": "He kicked over the traces the moment he left home."
+  },
+  {
+    "id": 41,
+    "term": "Knock into a cocked hat",
+    "definition": "Beat something comprehensively",
+    "example": "This year's team knocks last year's into a cocked hat."
+  },
+  {
+    "id": 42,
+    "term": "A lame duck",
+    "definition": "Someone or something left ineffective and powerless",
+    "example": "The chairman is a lame duck until the vote."
+  },
+  {
+    "id": 43,
+    "term": "Laugh like a drain",
+    "definition": "Laugh loudly and coarsely",
+    "example": "She laughed like a drain at his impression of the vicar."
+  },
+  {
+    "id": 44,
+    "term": "Lead someone a merry dance",
+    "definition": "Cause someone a great deal of trouble",
+    "example": "The insurers led us a merry dance for six months."
+  },
+  {
+    "id": 45,
+    "term": "Leave someone in the lurch",
+    "definition": "Abandon them in the middle of difficulty",
+    "example": "He resigned mid-project and left us in the lurch."
+  },
+  {
+    "id": 46,
+    "term": "Let the side down",
+    "definition": "Fail the people who were counting on you",
+    "example": "Turn up sober and don't let the side down."
+  },
+  {
+    "id": 47,
+    "term": "The life of Riley",
+    "definition": "An easy, comfortable, carefree life",
+    "example": "Retired at fifty-five, living the life of Riley."
+  },
+  {
+    "id": 48,
+    "term": "Long in the tooth",
+    "definition": "Getting rather old for something",
+    "example": "I'm a bit long in the tooth for five-a-side."
+  },
+  {
+    "id": 49,
+    "term": "Mind your Ps and Qs",
+    "definition": "Be careful of your manners and language",
+    "example": "Mind your Ps and Qs at your grandmother's."
+  },
+  {
+    "id": 50,
+    "term": "Mutton dressed as lamb",
+    "definition": "Dressed far too young for one's age",
+    "example": "The hat was pure mutton dressed as lamb."
+  },
+  {
+    "id": 51,
+    "term": "Nail your colours to the mast",
+    "definition": "Declare your position openly and for good",
+    "example": "He nailed his colours to the mast and backed the strike."
+  },
+  {
+    "id": 52,
+    "term": "Nineteen to the dozen",
+    "definition": "Talking rapidly and without pause",
+    "example": "She was chatting nineteen to the dozen all the way there."
+  },
+  {
+    "id": 53,
+    "term": "No room to swing a cat",
+    "definition": "Extremely cramped for space",
+    "example": "The kitchen's lovely but there's no room to swing a cat."
+  },
+  {
+    "id": 54,
+    "term": "Not cricket",
+    "definition": "Unfair; against the spirit of fair play",
+    "example": "Reading someone's post simply isn't cricket."
+  },
+  {
+    "id": 55,
+    "term": "Off your own bat",
+    "definition": "On your own initiative, unprompted",
+    "example": "He organised the whole collection off his own bat."
+  },
+  {
+    "id": 56,
+    "term": "On tenterhooks",
+    "definition": "In a state of anxious suspense",
+    "example": "We were on tenterhooks until the phone rang."
+  },
+  {
+    "id": 57,
+    "term": "On the fiddle",
+    "definition": "Engaged in petty dishonesty for gain",
+    "example": "The stocktake showed someone had been on the fiddle."
+  },
+  {
+    "id": 58,
+    "term": "Out of kilter",
+    "definition": "Out of balance or proper working order",
+    "example": "My sleep has been out of kilter since the flight."
+  },
+  {
+    "id": 59,
+    "term": "Over-egg the pudding",
+    "definition": "Overdo something and spoil the effect",
+    "example": "One apology is enough — don't over-egg the pudding."
+  },
+  {
+    "id": 60,
+    "term": "A pig in a poke",
+    "definition": "Something bought without being inspected first",
+    "example": "Buying at auction unseen is asking for a pig in a poke."
+  },
+  {
+    "id": 61,
+    "term": "Pip someone at the post",
+    "definition": "Beat them at the very last moment",
+    "example": "We were pipped at the post by two votes."
+  },
+  {
+    "id": 62,
+    "term": "Pour oil on troubled waters",
+    "definition": "Say something calming to settle a dispute",
+    "example": "The chair poured oil on troubled waters and the meeting went on."
+  },
+  {
+    "id": 63,
+    "term": "Pull the wool over someone's eyes",
+    "definition": "Deceive them thoroughly",
+    "example": "Don't let that salesman pull the wool over your eyes."
+  },
+  {
+    "id": 64,
+    "term": "Push the boat out",
+    "definition": "Spend generously on a celebration",
+    "example": "They pushed the boat out for their fortieth anniversary."
+  },
+  {
+    "id": 65,
+    "term": "Put the cat among the pigeons",
+    "definition": "Say or do something that causes uproar",
+    "example": "Mentioning the merger really put the cat among the pigeons."
+  },
+  {
+    "id": 66,
+    "term": "Put the kibosh on",
+    "definition": "Put a decisive stop to something",
+    "example": "The weather put the kibosh on the barbecue."
+  },
+  {
+    "id": 67,
+    "term": "Queer someone's pitch",
+    "definition": "Spoil their plans in advance",
+    "example": "Announcing early queered our pitch completely."
+  },
+  {
+    "id": 68,
+    "term": "Rest on your laurels",
+    "definition": "Coast along on past achievements",
+    "example": "One good year is no reason to rest on your laurels."
+  },
+  {
+    "id": 69,
+    "term": "Rob Peter to pay Paul",
+    "definition": "Settle one debt by creating another",
+    "example": "Paying the card off with a loan is robbing Peter to pay Paul."
+  },
+  {
+    "id": 70,
+    "term": "A sacred cow",
+    "definition": "Something held immune from criticism",
+    "example": "In this office the Friday meeting is a sacred cow."
+  },
+  {
+    "id": 71,
+    "term": "Sail close to the wind",
+    "definition": "Act right at the edge of what's allowed",
+    "example": "That expenses claim sails very close to the wind."
+  },
+  {
+    "id": 72,
+    "term": "Salad days",
+    "definition": "The carefree, inexperienced time of your youth",
+    "example": "In my salad days I'd think nothing of a night bus home."
+  },
+  {
+    "id": 73,
+    "term": "Scot-free",
+    "definition": "Without any punishment at all",
+    "example": "The driver who caused it got off scot-free."
+  },
+  {
+    "id": 74,
+    "term": "Send someone to Coventry",
+    "definition": "Ostracise them by refusing to speak to them",
+    "example": "The crew sent him to Coventry after he informed on them."
+  },
+  {
+    "id": 75,
+    "term": "Shank's pony",
+    "definition": "On foot; walking",
+    "example": "The last bus had gone, so it was shank's pony home."
+  },
+  {
+    "id": 76,
+    "term": "Ship-shape and Bristol fashion",
+    "definition": "Neat, orderly and properly prepared",
+    "example": "He left the workshop ship-shape and Bristol fashion."
+  },
+  {
+    "id": 77,
+    "term": "Short shrift",
+    "definition": "Brief and unsympathetic treatment",
+    "example": "The complaint got short shrift from the council."
+  },
+  {
+    "id": 78,
+    "term": "A skeleton in the cupboard",
+    "definition": "A shameful secret from the past",
+    "example": "Every old family has a skeleton or two in the cupboard."
+  },
+  {
+    "id": 79,
+    "term": "Sling your hook",
+    "definition": "Go away; clear off",
+    "example": "He was told in no uncertain terms to sling his hook."
+  },
+  {
+    "id": 80,
+    "term": "Spend a penny",
+    "definition": "Go to the lavatory",
+    "example": "I'll just spend a penny before we set off."
+  },
+  {
+    "id": 81,
+    "term": "Spick and span",
+    "definition": "Spotlessly clean and tidy",
+    "example": "The whole house was spick and span before the viewing."
+  },
+  {
+    "id": 82,
+    "term": "A stalking horse",
+    "definition": "A false front used to disguise the real aim",
+    "example": "His candidacy was only ever a stalking horse."
+  },
+  {
+    "id": 83,
+    "term": "Steal a march on someone",
+    "definition": "Gain an advantage by acting first",
+    "example": "They stole a march on us by launching in April."
+  },
+  {
+    "id": 84,
+    "term": "A swan song",
+    "definition": "A final performance before retiring or ending",
+    "example": "The concert was the conductor's swan song."
+  },
+  {
+    "id": 85,
+    "term": "Swing the lead",
+    "definition": "Shirk work by inventing excuses",
+    "example": "He's not ill, he's swinging the lead again."
+  },
+  {
+    "id": 86,
+    "term": "Take the biscuit",
+    "definition": "Be the most extreme or annoying instance yet",
+    "example": "Charging for tap water really takes the biscuit."
+  },
+  {
+    "id": 87,
+    "term": "Talk the hind legs off a donkey",
+    "definition": "Talk endlessly and unstoppably",
+    "example": "Don't get her started — she'd talk the hind legs off a donkey."
+  },
+  {
+    "id": 88,
+    "term": "Tarred with the same brush",
+    "definition": "Assumed to share the same faults as others",
+    "example": "One bad landlord and they're all tarred with the same brush."
+  },
+  {
+    "id": 89,
+    "term": "The bee's knees",
+    "definition": "Outstandingly good",
+    "example": "He thinks that car is the bee's knees."
+  },
+  {
+    "id": 90,
+    "term": "The full monty",
+    "definition": "The whole lot; everything included",
+    "example": "Breakfast came with the full monty, black pudding and all."
+  },
+  {
+    "id": 91,
+    "term": "The penny dropped",
+    "definition": "You finally understood",
+    "example": "Halfway home the penny dropped and I realised who she was."
+  },
+  {
+    "id": 92,
+    "term": "The real McCoy",
+    "definition": "The genuine article, not an imitation",
+    "example": "That's no copy — it's the real McCoy."
+  },
+  {
+    "id": 93,
+    "term": "Tilt at windmills",
+    "definition": "Fight enemies that exist only in your head",
+    "example": "Campaigning against that is tilting at windmills."
+  },
+  {
+    "id": 94,
+    "term": "A turn-up for the books",
+    "definition": "A surprising and unexpected development",
+    "example": "Him volunteering was a turn-up for the books."
+  },
+  {
+    "id": 95,
+    "term": "Turn up trumps",
+    "definition": "Come good unexpectedly when it matters",
+    "example": "The neighbours turned up trumps while she was in hospital."
+  },
+  {
+    "id": 96,
+    "term": "Up sticks",
+    "definition": "Pack up and move away",
+    "example": "They upped sticks and moved to the coast."
+  },
+  {
+    "id": 97,
+    "term": "Warts and all",
+    "definition": "Including every flaw, nothing hidden",
+    "example": "It's an honest portrait of the man, warts and all."
+  },
+  {
+    "id": 98,
+    "term": "Wet behind the ears",
+    "definition": "Young, raw and inexperienced",
+    "example": "The new sergeant was still wet behind the ears."
+  },
+  {
+    "id": 99,
+    "term": "A whipping boy",
+    "definition": "Someone made to take the blame for others",
+    "example": "The department became the whipping boy for every delay."
+  },
+  {
+    "id": 100,
+    "term": "The wooden spoon",
+    "definition": "The booby prize for finishing last",
+    "example": "We won the wooden spoon three seasons running."
+  }
+];
+window.QM_GENZ_DATA = [
+  {
+    "id": 1,
+    "term": "Rizz",
+    "definition": "Charm or skill at chatting someone up",
+    "example": "He walked over and got her number in ten seconds — unmatched rizz."
+  },
+  {
+    "id": 2,
+    "term": "No cap",
+    "definition": "No lie; I'm being completely serious",
+    "example": "That was the best meal I've had all year, no cap."
+  },
+  {
+    "id": 3,
+    "term": "Cap",
+    "definition": "A lie; nonsense",
+    "example": "He said he ran it in four minutes — that's cap."
+  },
+  {
+    "id": 4,
+    "term": "Bet",
+    "definition": "Agreed; you're on",
+    "example": "\"Meet at seven?\" \"Bet.\""
+  },
+  {
+    "id": 5,
+    "term": "Bussin'",
+    "definition": "Really good, especially of food",
+    "example": "Her mum's curry is absolutely bussin'."
+  },
+  {
+    "id": 6,
+    "term": "Sus",
+    "definition": "Suspicious; not to be trusted",
+    "example": "He's been very quiet about where he was — a bit sus."
+  },
+  {
+    "id": 7,
+    "term": "Slay",
+    "definition": "Do something outstandingly well",
+    "example": "You slayed that presentation."
+  },
+  {
+    "id": 8,
+    "term": "Mid",
+    "definition": "Distinctly average, despite the hype",
+    "example": "The sequel was mid at best."
+  },
+  {
+    "id": 9,
+    "term": "The ick",
+    "definition": "A sudden feeling of being put off someone",
+    "example": "He called the waiter \"chief\" and I got the ick."
+  },
+  {
+    "id": 10,
+    "term": "Delulu",
+    "definition": "Deluded, usually about your own chances",
+    "example": "Thinking he'll text back after a year is delulu."
+  },
+  {
+    "id": 11,
+    "term": "Sigma",
+    "definition": "An admired loner who does his own thing",
+    "example": "He eats lunch alone by choice — total sigma."
+  },
+  {
+    "id": 12,
+    "term": "Skibidi",
+    "definition": "A nonsense intensifier from a viral cartoon; roughly \"weird\" or \"bad\"",
+    "example": "What is this skibidi nonsense you're watching?"
+  },
+  {
+    "id": 13,
+    "term": "Fanum tax",
+    "definition": "Taking a share of a friend's food without asking",
+    "example": "He reached over and fanum taxed half my chips."
+  },
+  {
+    "id": 14,
+    "term": "Mewing",
+    "definition": "Pressing your tongue to the roof of your mouth to sharpen your jawline",
+    "example": "He's been mewing in every photo since March."
+  },
+  {
+    "id": 15,
+    "term": "NPC",
+    "definition": "Someone acting on autopilot, with no original thoughts",
+    "example": "Repeating the same three opinions is peak NPC behaviour."
+  },
+  {
+    "id": 16,
+    "term": "Ratio",
+    "definition": "Getting far more replies than likes — a sign the internet disagrees",
+    "example": "That post got absolutely ratioed."
+  },
+  {
+    "id": 17,
+    "term": "Living rent free",
+    "definition": "Occupying your thoughts constantly and unbidden",
+    "example": "That advert jingle lives rent free in my head."
+  },
+  {
+    "id": 18,
+    "term": "Main character",
+    "definition": "Behaving as though you're the star of the story",
+    "example": "She put her headphones on and had a full main character moment."
+  },
+  {
+    "id": 19,
+    "term": "Understood the assignment",
+    "definition": "Delivered exactly what the occasion called for",
+    "example": "Everyone else wore jeans; he understood the assignment."
+  },
+  {
+    "id": 20,
+    "term": "Ate",
+    "definition": "Performed brilliantly",
+    "example": "She ate that solo."
+  },
+  {
+    "id": 21,
+    "term": "Left no crumbs",
+    "definition": "Did it flawlessly, holding nothing back",
+    "example": "That performance ate and left no crumbs."
+  },
+  {
+    "id": 22,
+    "term": "Snatched",
+    "definition": "Looking sharp and well put together",
+    "example": "Your outfit is snatched today."
+  },
+  {
+    "id": 23,
+    "term": "Drip",
+    "definition": "Impressive, stylish clothing",
+    "example": "The trainers complete the drip."
+  },
+  {
+    "id": 24,
+    "term": "Fit",
+    "definition": "An outfit",
+    "example": "Send me a picture of the fit before you leave."
+  },
+  {
+    "id": 25,
+    "term": "Flex",
+    "definition": "Show off, usually about money or success",
+    "example": "Posting the receipt was a bit of a flex."
+  },
+  {
+    "id": 26,
+    "term": "Glow-up",
+    "definition": "A dramatic improvement in appearance or life",
+    "example": "Six months of the gym and it's a full glow-up."
+  },
+  {
+    "id": 27,
+    "term": "Ghosting",
+    "definition": "Vanishing from someone's life with no explanation",
+    "example": "Three great dates and then he ghosted me."
+  },
+  {
+    "id": 28,
+    "term": "Salty",
+    "definition": "Bitter and resentful over something small",
+    "example": "He's still salty about losing at cards."
+  },
+  {
+    "id": 29,
+    "term": "Shook",
+    "definition": "Badly shaken or stunned",
+    "example": "That ending left me shook."
+  },
+  {
+    "id": 30,
+    "term": "Simp",
+    "definition": "Someone excessively devoted to a person who isn't interested",
+    "example": "Buying her lunch every day and getting nothing back — total simp."
+  },
+  {
+    "id": 31,
+    "term": "Stan",
+    "definition": "Be an obsessive supporter of someone",
+    "example": "I've stanned that band since I was fourteen."
+  },
+  {
+    "id": 32,
+    "term": "Tea",
+    "definition": "Gossip",
+    "example": "Sit down, I've got tea about the wedding."
+  },
+  {
+    "id": 33,
+    "term": "Spill the tea",
+    "definition": "Share the gossip",
+    "example": "Go on then, spill the tea."
+  },
+  {
+    "id": 34,
+    "term": "Receipts",
+    "definition": "Screenshots or proof to back up a claim",
+    "example": "She posted the receipts and the argument ended."
+  },
+  {
+    "id": 35,
+    "term": "Vibe check",
+    "definition": "A quick read of someone's mood or energy",
+    "example": "He failed the vibe check the moment he walked in."
+  },
+  {
+    "id": 36,
+    "term": "Touch grass",
+    "definition": "Go outside; get off the internet",
+    "example": "You've been arguing online for six hours — touch grass."
+  },
+  {
+    "id": 37,
+    "term": "Chronically online",
+    "definition": "So immersed in the internet you've lost perspective",
+    "example": "Only someone chronically online would care about that."
+  },
+  {
+    "id": 38,
+    "term": "Based",
+    "definition": "Admirably true to yourself, regardless of opinion",
+    "example": "Saying that out loud at the meeting was based."
+  },
+  {
+    "id": 39,
+    "term": "Cringe",
+    "definition": "Embarrassing to witness",
+    "example": "The whole speech was pure cringe."
+  },
+  {
+    "id": 40,
+    "term": "Lowkey",
+    "definition": "Slightly; secretly",
+    "example": "I'm lowkey hoping it gets cancelled."
+  },
+  {
+    "id": 41,
+    "term": "Highkey",
+    "definition": "Very openly; obviously",
+    "example": "I'm highkey excited about Friday."
+  },
+  {
+    "id": 42,
+    "term": "Deadass",
+    "definition": "Seriously; I really mean it",
+    "example": "I'm deadass, he said it to my face."
+  },
+  {
+    "id": 43,
+    "term": "Finna",
+    "definition": "About to; going to",
+    "example": "I'm finna leave in five minutes."
+  },
+  {
+    "id": 44,
+    "term": "Fr",
+    "definition": "For real — genuinely, honestly",
+    "example": "That exam was brutal, fr."
+  },
+  {
+    "id": 45,
+    "term": "IYKYK",
+    "definition": "\"If you know, you know\" — an in-joke you won't explain",
+    "example": "Third table from the window. IYKYK."
+  },
+  {
+    "id": 46,
+    "term": "W",
+    "definition": "A win; something good",
+    "example": "Half-price tickets? Massive W."
+  },
+  {
+    "id": 47,
+    "term": "L",
+    "definition": "A loss; a failure",
+    "example": "Forgot my wallet — took an L at the till."
+  },
+  {
+    "id": 48,
+    "term": "Take the L",
+    "definition": "Accept the defeat gracefully",
+    "example": "You were wrong, just take the L."
+  },
+  {
+    "id": 49,
+    "term": "Goated",
+    "definition": "The greatest of all time",
+    "example": "That album is goated."
+  },
+  {
+    "id": 50,
+    "term": "Let him cook",
+    "definition": "Leave them to it — they know what they're doing",
+    "example": "It looks chaotic, but let him cook."
+  },
+  {
+    "id": 51,
+    "term": "Cooked",
+    "definition": "Finished; done for",
+    "example": "Two hours before the deadline and nothing written — I'm cooked."
+  },
+  {
+    "id": 52,
+    "term": "Era",
+    "definition": "A distinct phase you're currently in",
+    "example": "She's in her marathon-running era."
+  },
+  {
+    "id": 53,
+    "term": "Core",
+    "definition": "A whole aesthetic or vibe, added to any word",
+    "example": "The whole flat is very cottagecore."
+  },
+  {
+    "id": 54,
+    "term": "Banger",
+    "definition": "An excellent song",
+    "example": "Track four is an absolute banger."
+  },
+  {
+    "id": 55,
+    "term": "Slaps",
+    "definition": "Sounds brilliant",
+    "example": "This chorus slaps."
+  },
+  {
+    "id": 56,
+    "term": "Hits different",
+    "definition": "Affects you unusually strongly",
+    "example": "That song hits different at 2am."
+  },
+  {
+    "id": 57,
+    "term": "Periodt",
+    "definition": "Full stop — end of discussion",
+    "example": "She's the best on the team, periodt."
+  },
+  {
+    "id": 58,
+    "term": "Sheesh",
+    "definition": "An exclamation of admiration",
+    "example": "Sheesh, look at that goal."
+  },
+  {
+    "id": 59,
+    "term": "On god",
+    "definition": "I swear it's true",
+    "example": "On god, I posted it yesterday."
+  },
+  {
+    "id": 60,
+    "term": "Say less",
+    "definition": "I understand, no need to explain further",
+    "example": "\"Can you cover Saturday?\" \"Say less.\""
+  },
+  {
+    "id": 61,
+    "term": "It's giving",
+    "definition": "It has the distinct air of",
+    "example": "That coat? It's giving detective."
+  },
+  {
+    "id": 62,
+    "term": "Situationship",
+    "definition": "A relationship with no agreed definition",
+    "example": "Six months of a situationship and no label."
+  },
+  {
+    "id": 63,
+    "term": "Red flag",
+    "definition": "A warning sign about someone",
+    "example": "He was rude to the waiter — red flag."
+  },
+  {
+    "id": 64,
+    "term": "Green flag",
+    "definition": "A sign that someone is a good person",
+    "example": "He texted his sister happy birthday — green flag."
+  },
+  {
+    "id": 65,
+    "term": "Beige flag",
+    "definition": "A quirk that's neither good nor bad, just odd",
+    "example": "He alphabetises the spice rack — total beige flag."
+  },
+  {
+    "id": 66,
+    "term": "Love bombing",
+    "definition": "Overwhelming someone with affection to gain control",
+    "example": "Flowers every day in week one was love bombing."
+  },
+  {
+    "id": 67,
+    "term": "Breadcrumbing",
+    "definition": "Giving just enough attention to keep someone hooked",
+    "example": "One text a fortnight is textbook breadcrumbing."
+  },
+  {
+    "id": 68,
+    "term": "Soft launch",
+    "definition": "Hinting at a new relationship online without showing the face",
+    "example": "An elbow in the photo — that's a soft launch."
+  },
+  {
+    "id": 69,
+    "term": "Hard launch",
+    "definition": "Announcing the relationship openly",
+    "example": "They hard launched at the wedding."
+  },
+  {
+    "id": 70,
+    "term": "Bestie",
+    "definition": "A friend, or a friendly way to address anyone",
+    "example": "Bestie, that is not what the email said."
+  },
+  {
+    "id": 71,
+    "term": "Boujee",
+    "definition": "Expensively fancy",
+    "example": "Marble worktops is very boujee."
+  },
+  {
+    "id": 72,
+    "term": "Extra",
+    "definition": "Over the top; doing far too much",
+    "example": "Fireworks for a birthday tea is a bit extra."
+  },
+  {
+    "id": 73,
+    "term": "Basic",
+    "definition": "Unoriginal; following every mainstream trend",
+    "example": "The pumpkin latte is basic and I don't care."
+  },
+  {
+    "id": 74,
+    "term": "Canon event",
+    "definition": "An unavoidable experience that shapes who you are",
+    "example": "A terrible first job is a canon event."
+  },
+  {
+    "id": 75,
+    "term": "Character development",
+    "definition": "Visible personal growth",
+    "example": "He does the washing-up now — real character development."
+  },
+  {
+    "id": 76,
+    "term": "Side quest",
+    "definition": "A distraction from what you meant to do",
+    "example": "Went for milk, came back with a plant — side quest."
+  },
+  {
+    "id": 77,
+    "term": "Crash out",
+    "definition": "Lose your temper or fall apart over something",
+    "example": "One more delay and I'm going to crash out."
+  },
+  {
+    "id": 78,
+    "term": "Lock in",
+    "definition": "Focus intensely and get it done",
+    "example": "Two weeks to the exam — time to lock in."
+  },
+  {
+    "id": 79,
+    "term": "Demure",
+    "definition": "Modest and understated, said semi-ironically",
+    "example": "Very demure, very mindful."
+  },
+  {
+    "id": 80,
+    "term": "Brat",
+    "definition": "Boldly messy and unapologetically fun",
+    "example": "It was a very brat summer."
+  },
+  {
+    "id": 81,
+    "term": "Glazing",
+    "definition": "Praising someone far beyond what they deserve",
+    "example": "Stop glazing, he only scored once."
+  },
+  {
+    "id": 82,
+    "term": "Yapping",
+    "definition": "Talking far too much about nothing",
+    "example": "He's been yapping about that car all afternoon."
+  },
+  {
+    "id": 83,
+    "term": "Aura",
+    "definition": "The intangible cool you gain or lose by your actions",
+    "example": "Tripping on stage cost him serious aura."
+  },
+  {
+    "id": 84,
+    "term": "Aura farming",
+    "definition": "Doing things purely to look effortlessly cool",
+    "example": "Slow-motion sunglasses in the rain is pure aura farming."
+  },
+  {
+    "id": 85,
+    "term": "Looksmaxxing",
+    "definition": "Systematically trying to improve your appearance",
+    "example": "Skincare, gym, haircut — he's looksmaxxing."
+  },
+  {
+    "id": 86,
+    "term": "Brainrot",
+    "definition": "Low-quality content that leaves you mentally mushy",
+    "example": "Two hours of shorts is proper brainrot."
+  },
+  {
+    "id": 87,
+    "term": "Rage bait",
+    "definition": "Content designed purely to make you angry enough to reply",
+    "example": "Don't answer, it's rage bait."
+  },
+  {
+    "id": 88,
+    "term": "Goblin mode",
+    "definition": "Unashamedly slobbish, unkempt behaviour",
+    "example": "Full goblin mode all weekend — crisps and no curtains."
+  },
+  {
+    "id": 89,
+    "term": "Bed rotting",
+    "definition": "Staying in bed all day on purpose to recover",
+    "example": "Sunday was pure bed rotting."
+  },
+  {
+    "id": 90,
+    "term": "Girl dinner",
+    "definition": "A meal assembled from odds and ends rather than cooked",
+    "example": "Cheese, olives and half a pepper — girl dinner."
+  },
+  {
+    "id": 91,
+    "term": "Quiet quitting",
+    "definition": "Doing your job to the letter and not a minute more",
+    "example": "After the pay freeze, half the team started quiet quitting."
+  },
+  {
+    "id": 92,
+    "term": "Gagged",
+    "definition": "Utterly stunned",
+    "example": "I was gagged when they announced the winner."
+  },
+  {
+    "id": 93,
+    "term": "Opp",
+    "definition": "An opponent or enemy",
+    "example": "Don't tell him anything, he's an opp."
+  },
+  {
+    "id": 94,
+    "term": "Chopped",
+    "definition": "Unattractive or badly done",
+    "example": "That haircut is chopped, mate."
+  },
+  {
+    "id": 95,
+    "term": "Zesty",
+    "definition": "Flamboyant or exaggerated in manner",
+    "example": "His celebration was a bit zesty."
+  },
+  {
+    "id": 96,
+    "term": "Gyaru",
+    "definition": "A bold, heavily styled fashion look from Japan",
+    "example": "Her make-up is full gyaru."
+  },
+  {
+    "id": 97,
+    "term": "Unalive",
+    "definition": "Died or killed — a euphemism used to dodge filters",
+    "example": "The video said \"unalived\" to get past moderation."
+  },
+  {
+    "id": 98,
+    "term": "Pookie",
+    "definition": "An affectionate nickname for someone dear",
+    "example": "Morning, pookie."
+  },
+  {
+    "id": 99,
+    "term": "Devious lick",
+    "definition": "A prank theft done for online clout",
+    "example": "The devious lick trend got half a school suspended."
+  },
+  {
+    "id": 100,
+    "term": "Ok boomer",
+    "definition": "A dismissal of an out-of-touch older opinion",
+    "example": "He complained about phones again — ok boomer."
+  }
+];
+window.QM_IDIOMS_PL_DATA = [
+  {
+    "id": 1,
+    "term": "Bułka z masłem",
+    "definition": "\"A bread roll with butter\" — a piece of cake; dead easy",
+    "example": "Ten egzamin to była bułka z masłem."
+  },
+  {
+    "id": 2,
+    "term": "Rzucać grochem o ścianę",
+    "definition": "\"To throw peas at a wall\" — to waste your breath on someone",
+    "example": "Tłumaczę mu to od lat, ale to jak rzucanie grochem o ścianę."
+  },
+  {
+    "id": 3,
+    "term": "Nie mój cyrk, nie moje małpy",
+    "definition": "\"Not my circus, not my monkeys\" — not my problem",
+    "example": "Niech sami to sobie rozwiążą — nie mój cyrk, nie moje małpy."
+  },
+  {
+    "id": 4,
+    "term": "Wiercić komuś dziurę w brzuchu",
+    "definition": "\"To drill a hole in someone's belly\" — to pester someone relentlessly",
+    "example": "Dzieci wierciły mi dziurę w brzuchu, żeby kupić psa."
+  },
+  {
+    "id": 5,
+    "term": "Robić z igły widły",
+    "definition": "\"To make a pitchfork out of a needle\" — to make a mountain out of a molehill",
+    "example": "Spóźnił się pięć minut, nie rób z igły wideł."
+  },
+  {
+    "id": 6,
+    "term": "Być nie w sosie",
+    "definition": "\"To be not in the sauce\" — to be in a bad mood",
+    "example": "Nie zaczepiaj go dzisiaj, jest nie w sosie."
+  },
+  {
+    "id": 7,
+    "term": "Mieć muchy w nosie",
+    "definition": "\"To have flies in your nose\" — to be sulky and touchy",
+    "example": "Od rana ma muchy w nosie i się nie odzywa."
+  },
+  {
+    "id": 8,
+    "term": "Czuć do kogoś miętę",
+    "definition": "\"To feel mint for someone\" — to fancy someone",
+    "example": "Chyba czuje do niej miętę od pierwszego dnia."
+  },
+  {
+    "id": 9,
+    "term": "Rzucać komuś kłody pod nogi",
+    "definition": "\"To throw logs under someone's feet\" — to put obstacles in their way",
+    "example": "Zamiast pomóc, rzucał nam kłody pod nogi."
+  },
+  {
+    "id": 10,
+    "term": "Wpaść jak śliwka w kompot",
+    "definition": "\"To fall in like a plum into compote\" — to land yourself in a mess",
+    "example": "Wpadłem jak śliwka w kompot i musiałem tłumaczyć się z wszystkiego."
+  },
+  {
+    "id": 11,
+    "term": "Gdzie diabeł mówi dobranoc",
+    "definition": "\"Where the devil says goodnight\" — the middle of nowhere",
+    "example": "Mieszkają gdzieś, gdzie diabeł mówi dobranoc."
+  },
+  {
+    "id": 12,
+    "term": "Mieć węża w kieszeni",
+    "definition": "\"To have a snake in your pocket\" — to be tight-fisted",
+    "example": "Nigdy nie stawia kawy — ma węża w kieszeni."
+  },
+  {
+    "id": 13,
+    "term": "Chodzić spać z kurami",
+    "definition": "\"To go to bed with the hens\" — to turn in very early",
+    "example": "W wakacje chodzimy spać z kurami."
+  },
+  {
+    "id": 14,
+    "term": "Musztarda po obiedzie",
+    "definition": "\"Mustard after dinner\" — too little, too late",
+    "example": "Przeprosiny po tygodniu to musztarda po obiedzie."
+  },
+  {
+    "id": 15,
+    "term": "Nie ucz ojca dzieci robić",
+    "definition": "\"Don't teach your father how to make children\" — don't teach your grandmother to suck eggs",
+    "example": "Robię to od dwudziestu lat — nie ucz ojca dzieci robić."
+  },
+  {
+    "id": 16,
+    "term": "Co ma piernik do wiatraka?",
+    "definition": "\"What has gingerbread to do with a windmill?\" — what's that got to do with anything?",
+    "example": "Mówimy o rachunkach, a co ma piernik do wiatraka?"
+  },
+  {
+    "id": 17,
+    "term": "Bić pianę",
+    "definition": "\"To beat foam\" — to waffle without saying anything",
+    "example": "Przestań bić pianę i powiedz, ile to kosztuje."
+  },
+  {
+    "id": 18,
+    "term": "Głowa do góry",
+    "definition": "\"Head up\" — chin up, keep your spirits up",
+    "example": "Głowa do góry, jutro będzie lepiej."
+  },
+  {
+    "id": 19,
+    "term": "Trzymać kciuki",
+    "definition": "\"To hold your thumbs\" — to keep your fingers crossed",
+    "example": "Trzymam kciuki za twój egzamin."
+  },
+  {
+    "id": 20,
+    "term": "Raz na ruski rok",
+    "definition": "\"Once in a Russian year\" — once in a blue moon",
+    "example": "Dzwoni do nas raz na ruski rok."
+  },
+  {
+    "id": 21,
+    "term": "Wyjść z twarzą",
+    "definition": "\"To come out with your face\" — to save face",
+    "example": "Przegrali, ale wyszli z twarzy."
+  },
+  {
+    "id": 22,
+    "term": "Mieć głowę na karku",
+    "definition": "\"To have a head on your neck\" — to have your wits about you",
+    "example": "Spokojnie, ona ma głowę na karku."
+  },
+  {
+    "id": 23,
+    "term": "Wziąć byka za rogi",
+    "definition": "\"To take the bull by the horns\" — to tackle it head on",
+    "example": "Wziął byka za rogi i zadzwonił do szefa."
+  },
+  {
+    "id": 24,
+    "term": "Rzucić okiem",
+    "definition": "\"To throw an eye\" — to have a quick look",
+    "example": "Rzuć okiem na tę umowę, dobrze?"
+  },
+  {
+    "id": 25,
+    "term": "Rzucać słowa na wiatr",
+    "definition": "\"To throw words to the wind\" — to make promises you won't keep",
+    "example": "On nie rzuca słów na wiatr — jak obiecał, to zrobi."
+  },
+  {
+    "id": 26,
+    "term": "Obiecywać gruszki na wierzbie",
+    "definition": "\"To promise pears on a willow\" — to promise the impossible",
+    "example": "Politycy znowu obiecują gruszki na wierzbie."
+  },
+  {
+    "id": 27,
+    "term": "Robić dobrą minę do złej gry",
+    "definition": "\"To put a good face on a bad game\" — to grin and bear it",
+    "example": "Nie było mu wesoło, ale robił dobrą minę do złej gry."
+  },
+  {
+    "id": 28,
+    "term": "Pluć sobie w brodę",
+    "definition": "\"To spit into your own beard\" — to kick yourself with regret",
+    "example": "Pluję sobie w brodę, że nie kupiłem tych biletów."
+  },
+  {
+    "id": 29,
+    "term": "Wpuścić kogoś w maliny",
+    "definition": "\"To let someone into the raspberries\" — to lead them up the garden path",
+    "example": "Wpuścili nas w maliny z tym mieszkaniem."
+  },
+  {
+    "id": 30,
+    "term": "Bez ogródek",
+    "definition": "\"Without little gardens\" — bluntly, without mincing words",
+    "example": "Powiedziała mu bez ogródek, co o tym myśli."
+  },
+  {
+    "id": 31,
+    "term": "Kręcić nosem",
+    "definition": "\"To twist your nose\" — to turn your nose up at something",
+    "example": "Kręci nosem na każdą propozycję."
+  },
+  {
+    "id": 32,
+    "term": "Mieć coś w małym palcu",
+    "definition": "\"To have something in your little finger\" — to know it inside out",
+    "example": "Ma tę ustawę w małym palcu."
+  },
+  {
+    "id": 33,
+    "term": "Iść jak po maśle",
+    "definition": "\"To go like on butter\" — to go perfectly smoothly",
+    "example": "Rozmowa poszła jak po maśle."
+  },
+  {
+    "id": 34,
+    "term": "Być w gorącej wodzie kąpanym",
+    "definition": "\"To have been bathed in hot water\" — to be impatient and hot-headed",
+    "example": "Poczekaj chwilę, jesteś w gorącej wodzie kąpany."
+  },
+  {
+    "id": 35,
+    "term": "Palić się do czegoś",
+    "definition": "\"To be on fire for something\" — to be raring to do it",
+    "example": "Pali się do tej pracy."
+  },
+  {
+    "id": 36,
+    "term": "Dolewać oliwy do ognia",
+    "definition": "\"To pour oil on the fire\" — to make matters worse",
+    "example": "Twoje żarty tylko dolewają oliwy do ognia."
+  },
+  {
+    "id": 37,
+    "term": "Owijać w bawełnę",
+    "definition": "\"To wrap in cotton wool\" — to beat about the bush",
+    "example": "Nie owijaj w bawełnę, powiedz wprost."
+  },
+  {
+    "id": 38,
+    "term": "Wywołać wilka z lasu",
+    "definition": "\"To call the wolf out of the forest\" — to speak of the devil",
+    "example": "O wilku mowa — właśnie wszedł."
+  },
+  {
+    "id": 39,
+    "term": "Nie zasypiać gruszek w popiele",
+    "definition": "\"Not to let pears sleep in the ashes\" — not to let a chance slip",
+    "example": "Nie zasypiaj gruszek w popiele i złóż podanie dziś."
+  },
+  {
+    "id": 40,
+    "term": "Kopać się z koniem",
+    "definition": "\"To kick with a horse\" — to fight a battle you cannot win",
+    "example": "Nie ma sensu kopać się z koniem, oni mają prawników."
+  },
+  {
+    "id": 41,
+    "term": "Siedzieć jak na szpilkach",
+    "definition": "\"To sit as if on pins\" — to be on tenterhooks",
+    "example": "Siedziałam jak na szpilkach, czekając na wyniki."
+  },
+  {
+    "id": 42,
+    "term": "Mieć duszę na ramieniu",
+    "definition": "\"To have your soul on your shoulder\" — to have your heart in your mouth",
+    "example": "Wchodziłem tam z duszą na ramieniu."
+  },
+  {
+    "id": 43,
+    "term": "Strach ma wielkie oczy",
+    "definition": "\"Fear has big eyes\" — fear makes things look worse than they are",
+    "example": "Wszystko poszło gładko — strach ma wielkie oczy."
+  },
+  {
+    "id": 44,
+    "term": "Nie taki diabeł straszny, jak go malują",
+    "definition": "\"The devil isn't as terrible as he's painted\" — it's not as bad as it sounds",
+    "example": "Ten egzamin? Nie taki diabeł straszny, jak go malują."
+  },
+  {
+    "id": 45,
+    "term": "Coś jest do bani",
+    "definition": "\"Something is fit for the shed\" — something is rubbish",
+    "example": "Ten film jest do bani."
+  },
+  {
+    "id": 46,
+    "term": "Leje jak z cebra",
+    "definition": "\"It's pouring as if from a tub\" — it's raining cats and dogs",
+    "example": "Weź parasol, leje jak z cebra."
+  },
+  {
+    "id": 47,
+    "term": "Robić komuś wodę z mózgu",
+    "definition": "\"To make water out of someone's brain\" — to mess with their head",
+    "example": "Nie rób mi wody z mózgu, wiem, co widziałem."
+  },
+  {
+    "id": 48,
+    "term": "Pójść po rozum do głowy",
+    "definition": "\"To go to your head for reason\" — to finally come to your senses",
+    "example": "W końcu poszedł po rozum do głowy i sprzedał ten samochód."
+  },
+  {
+    "id": 49,
+    "term": "Mieć olej w głowie",
+    "definition": "\"To have oil in your head\" — to be sensible and quick-witted",
+    "example": "To zdolny chłopak, ma olej w głowie."
+  },
+  {
+    "id": 50,
+    "term": "Tonący brzytwy się chwyta",
+    "definition": "\"A drowning man grabs at a razor\" — clutching at straws",
+    "example": "Poszedł nawet do wróżki — tonący brzytwy się chwyta."
+  },
+  {
+    "id": 51,
+    "term": "Kupować kota w worku",
+    "definition": "\"To buy a cat in a sack\" — to buy a pig in a poke",
+    "example": "Nie oglądałeś mieszkania? Kupujesz kota w worku."
+  },
+  {
+    "id": 52,
+    "term": "Rzucać perły przed wieprze",
+    "definition": "\"To cast pearls before swine\" — to waste something good on someone who can't value it",
+    "example": "Grać im Chopina to rzucać perły przed wieprze."
+  },
+  {
+    "id": 53,
+    "term": "Kto rano wstaje, temu Pan Bóg daje",
+    "definition": "\"God provides for the one who rises early\" — the early bird catches the worm",
+    "example": "Wstałem o piątej — kto rano wstaje, temu Pan Bóg daje."
+  },
+  {
+    "id": 54,
+    "term": "Gdzie kucharek sześć, tam nie ma co jeść",
+    "definition": "\"Where there are six cooks, there's nothing to eat\" — too many cooks spoil the broth",
+    "example": "Każdy chce rządzić projektem, a gdzie kucharek sześć, tam nie ma co jeść."
+  },
+  {
+    "id": 55,
+    "term": "Co dwie głowy, to nie jedna",
+    "definition": "\"Two heads are not one\" — two heads are better than one",
+    "example": "Usiądźmy nad tym razem, co dwie głowy, to nie jedna."
+  },
+  {
+    "id": 56,
+    "term": "Apetyt rośnie w miarę jedzenia",
+    "definition": "\"Appetite grows as you eat\" — the more you get, the more you want",
+    "example": "Najpierw chciał rower, teraz motor — apetyt rośnie w miarę jedzenia."
+  },
+  {
+    "id": 57,
+    "term": "Cicha woda brzegi rwie",
+    "definition": "\"Still water tears the banks\" — still waters run deep",
+    "example": "Taka cicha, a wszystko zorganizowała — cicha woda brzegi rwie."
+  },
+  {
+    "id": 58,
+    "term": "Nie ma tego złego, co by na dobre nie wyszło",
+    "definition": "\"There's no bad that won't turn out for the good\" — every cloud has a silver lining",
+    "example": "Straciłem tę pracę, ale nie ma tego złego, co by na dobre nie wyszło."
+  },
+  {
+    "id": 59,
+    "term": "Fortuna kołem się toczy",
+    "definition": "\"Fortune rolls like a wheel\" — what goes around comes around",
+    "example": "Dziś on na górze, jutro ty — fortuna kołem się toczy."
+  },
+  {
+    "id": 60,
+    "term": "Czas leczy rany",
+    "definition": "\"Time heals wounds\" — time is a great healer",
+    "example": "Daj sobie czas, czas leczy rany."
+  },
+  {
+    "id": 61,
+    "term": "Nie chwal dnia przed zachodem słońca",
+    "definition": "\"Don't praise the day before sunset\" — don't count your chickens",
+    "example": "Prowadzimy, ale nie chwal dnia przed zachodem słońca."
+  },
+  {
+    "id": 62,
+    "term": "Mądry Polak po szkodzie",
+    "definition": "\"A Pole is wise after the damage\" — wise after the event; hindsight is easy",
+    "example": "Teraz wszyscy wiedzą, jak trzeba było — mądry Polak po szkodzie."
+  },
+  {
+    "id": 63,
+    "term": "Ryba psuje się od głowy",
+    "definition": "\"A fish rots from the head\" — problems start at the top",
+    "example": "W tej firmie ryba psuje się od głowy."
+  },
+  {
+    "id": 64,
+    "term": "Wszędzie dobrze, ale w domu najlepiej",
+    "definition": "\"Everywhere is good, but home is best\" — there's no place like home",
+    "example": "Fajny był urlop, ale wszędzie dobrze, a w domu najlepiej."
+  },
+  {
+    "id": 65,
+    "term": "Nie od razu Kraków zbudowano",
+    "definition": "\"Kraków wasn't built at once\" — Rome wasn't built in a day",
+    "example": "Spokojnie, nie od razu Kraków zbudowano."
+  },
+  {
+    "id": 66,
+    "term": "Bez pracy nie ma kołaczy",
+    "definition": "\"Without work there are no cakes\" — no pain, no gain",
+    "example": "Ucz się, bez pracy nie ma kołaczy."
+  },
+  {
+    "id": 67,
+    "term": "Kuć żelazo, póki gorące",
+    "definition": "\"Strike the iron while it's hot\" — act while the chance is there",
+    "example": "Zadzwoń do nich dziś — kuj żelazo, póki gorące."
+  },
+  {
+    "id": 68,
+    "term": "I wilk syty, i owca cała",
+    "definition": "\"The wolf is full and the sheep is whole\" — a solution that suits everyone",
+    "example": "Podzieliliśmy dyżury tak, że i wilk syty, i owca cała."
+  },
+  {
+    "id": 69,
+    "term": "Zamienić się w słuch",
+    "definition": "\"To turn into hearing\" — to be all ears",
+    "example": "Mów, zamieniam się w słuch."
+  },
+  {
+    "id": 70,
+    "term": "Urwanie głowy",
+    "definition": "\"A tearing-off of the head\" — an absolute madhouse of a day",
+    "example": "W sklepie przed świętami było urwanie głowy."
+  },
+  {
+    "id": 71,
+    "term": "Wziąć nogi za pas",
+    "definition": "\"To take your legs behind your belt\" — to leg it",
+    "example": "Zobaczył psa i wziął nogi za pas."
+  },
+  {
+    "id": 72,
+    "term": "Zbijać bąki",
+    "definition": "\"To swat horseflies\" — to laze about doing nothing",
+    "example": "Całe wakacje zbijał bąki."
+  },
+  {
+    "id": 73,
+    "term": "Chodzić na rzęsach",
+    "definition": "\"To walk on your eyelashes\" — to be completely worn out",
+    "example": "Po nocnej zmianie chodzę na rzęsach."
+  },
+  {
+    "id": 74,
+    "term": "Spać jak suseł",
+    "definition": "\"To sleep like a gopher\" — to sleep like a log",
+    "example": "Spał jak suseł do południa."
+  },
+  {
+    "id": 75,
+    "term": "Być w siódmym niebie",
+    "definition": "\"To be in the seventh heaven\" — to be over the moon",
+    "example": "Jest w siódmym niebie po tych wiadomościach."
+  },
+  {
+    "id": 76,
+    "term": "Czuć się jak ryba w wodzie",
+    "definition": "\"To feel like a fish in water\" — to be in your element",
+    "example": "Na scenie czuje się jak ryba w wodzie."
+  },
+  {
+    "id": 77,
+    "term": "Mieć kogoś na oku",
+    "definition": "\"To have someone on your eye\" — to keep an eye on them",
+    "example": "Miej go na oku, jest nowy."
+  },
+  {
+    "id": 78,
+    "term": "Trzymać rękę na pulsie",
+    "definition": "\"To keep your hand on the pulse\" — to stay on top of things",
+    "example": "Trzymaj rękę na pulsie, sytuacja się zmienia."
+  },
+  {
+    "id": 79,
+    "term": "Coś tu nie gra",
+    "definition": "\"Something doesn't play here\" — something doesn't add up",
+    "example": "Te rachunki... coś tu nie gra."
+  },
+  {
+    "id": 80,
+    "term": "Ni z gruszki, ni z pietruszki",
+    "definition": "\"Neither from a pear nor from parsley\" — completely out of the blue",
+    "example": "Ni z gruszki, ni z pietruszki oświadczył, że wyjeżdża."
+  },
+  {
+    "id": 81,
+    "term": "Raz kozie śmierć",
+    "definition": "\"A goat dies but once\" — here goes nothing; you only live once",
+    "example": "Raz kozie śmierć — składam podanie."
+  },
+  {
+    "id": 82,
+    "term": "Nie ma róży bez kolców",
+    "definition": "\"There's no rose without thorns\" — nothing good comes without a drawback",
+    "example": "Praca świetna, ale dojazdy... nie ma róży bez kolców."
+  },
+  {
+    "id": 83,
+    "term": "Prawda w oczy kole",
+    "definition": "\"The truth pricks the eyes\" — the truth hurts",
+    "example": "Obraził się, bo prawda w oczy kole."
+  },
+  {
+    "id": 84,
+    "term": "Ściany mają uszy",
+    "definition": "\"The walls have ears\" — you may be overheard",
+    "example": "Ciszej, ściany mają uszy."
+  },
+  {
+    "id": 85,
+    "term": "Kropla drąży skałę",
+    "definition": "\"A drop hollows out the rock\" — persistence pays off",
+    "example": "Ćwicz codziennie po chwili — kropla drąży skałę."
+  },
+  {
+    "id": 86,
+    "term": "Jak sobie pościelesz, tak się wyśpisz",
+    "definition": "\"As you make your bed, so you will sleep\" — you've made your bed, now lie in it",
+    "example": "Nie uczyłeś się — jak sobie pościelesz, tak się wyśpisz."
+  },
+  {
+    "id": 87,
+    "term": "Baba z wozu, koniom lżej",
+    "definition": "\"The woman off the cart, the horses have it easier\" — good riddance",
+    "example": "Odszedł z zespołu? Baba z wozu, koniom lżej."
+  },
+  {
+    "id": 88,
+    "term": "Darowanemu koniowi w zęby się nie zagląda",
+    "definition": "\"You don't look a given horse in the teeth\" — don't look a gift horse in the mouth",
+    "example": "Stary rower, ale darowanemu koniowi w zęby się nie zagląda."
+  },
+  {
+    "id": 89,
+    "term": "Kto pod kim dołki kopie, ten sam w nie wpada",
+    "definition": "\"He who digs pits under others falls into them himself\" — what goes around comes around",
+    "example": "Donosił na kolegów i sam stracił pracę — kto pod kim dołki kopie…"
+  },
+  {
+    "id": 90,
+    "term": "Lepszy wróbel w garści niż gołąb na dachu",
+    "definition": "\"A sparrow in the hand beats a pigeon on the roof\" — a bird in the hand is worth two in the bush",
+    "example": "Weź tę ofertę: lepszy wróbel w garści niż gołąb na dachu."
+  },
+  {
+    "id": 91,
+    "term": "Uderz w stół, a nożyce się odezwą",
+    "definition": "\"Hit the table and the scissors will answer\" — the guilty one gives themselves away",
+    "example": "Nikogo nie oskarżałem, a on od razu się tłumaczy — uderz w stół…"
+  },
+  {
+    "id": 92,
+    "term": "Z deszczu pod rynnę",
+    "definition": "\"Out of the rain and under the drainpipe\" — out of the frying pan into the fire",
+    "example": "Zmienił pracę i trafił z deszczu pod rynnę."
+  },
+  {
+    "id": 93,
+    "term": "Trafić w dziesiątkę",
+    "definition": "\"To hit the ten\" — to hit the bullseye; to get it exactly right",
+    "example": "Z tym prezentem trafiłeś w dziesiątkę."
+  },
+  {
+    "id": 94,
+    "term": "Wisieć na włosku",
+    "definition": "\"To hang by a hair\" — to hang by a thread",
+    "example": "Jego posada wisi na włosku."
+  },
+  {
+    "id": 95,
+    "term": "Mieć dwie lewe ręce",
+    "definition": "\"To have two left hands\" — to be hopelessly clumsy with practical work",
+    "example": "Nie proś mnie o półkę, mam dwie lewe ręce."
+  },
+  {
+    "id": 96,
+    "term": "Złota rączka",
+    "definition": "\"A golden little hand\" — someone handy who can fix anything",
+    "example": "Sąsiad to złota rączka, naprawi wszystko."
+  },
+  {
+    "id": 97,
+    "term": "Puścić coś mimo uszu",
+    "definition": "\"To let something pass by your ears\" — to ignore a remark",
+    "example": "Puściłem tę uwagę mimo uszu."
+  },
+  {
+    "id": 98,
+    "term": "Nabić kogoś w butelkę",
+    "definition": "\"To stuff someone into a bottle\" — to take someone for a ride",
+    "example": "Nabili nas w butelkę z tą gwarancją."
+  },
+  {
+    "id": 99,
+    "term": "Siedzieć cicho jak mysz pod miotłą",
+    "definition": "\"To sit as quiet as a mouse under a broom\" — to keep very quiet and out of trouble",
+    "example": "Po tej awanturze siedział cicho jak mysz pod miotłą."
+  },
+  {
+    "id": 100,
+    "term": "Wpaść komuś w oko",
+    "definition": "\"To fall into someone's eye\" — to catch someone's fancy",
+    "example": "Ta sukienka od razu wpadła jej w oko."
+  }
+];
 window.QM_BALLETPIX_DATA = [
   {
     "id": 1,
