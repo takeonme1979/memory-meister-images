@@ -2572,9 +2572,6 @@ window.QM_HIDDEN_QUIZZES = [
   "pokemonGen4",
   "pokemonGen5",
   "pokemonGen6",
-  "pokemonGen7",
-  "pokemonGen8",
-  "pokemonGen9",
   "ukAnimals",
   "ukFoods",
   "ukNouns",
@@ -47474,7 +47471,8 @@ window.QM_POKEMON_GEN1_DATA = [
   {
     "id": "pkmn_0001",
     "name": "Bulbasaur",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0001-bulbasaur.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0001-bulbasaur.png",
+    "zoom": 1
   },
   {
     "id": "pkmn_0002",
@@ -47499,7 +47497,8 @@ window.QM_POKEMON_GEN1_DATA = [
   {
     "id": "pkmn_0006",
     "name": "Charizard",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0006-charizard.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen1/0006-charizard.png",
+    "zoom": 1
   },
   {
     "id": "pkmn_0007",
@@ -48231,7 +48230,10 @@ window.QM_POKEMON_GEN2_DATA = [
   {
     "id": "pkmn_0152",
     "name": "Chikorita",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0152-chikorita.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/games/pokemon-gen2/0152-chikorita.png",
+    "focalX": 0,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "pkmn_0153",
