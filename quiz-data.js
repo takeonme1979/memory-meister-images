@@ -39534,6 +39534,1326 @@ window.QM_IDIOMS_PL_DATA = [
     "example": "Ta sukienka od razu wpadła jej w oko."
   }
 ];
+window.QM_IDIOMS_LT_DATA = [
+  {
+    "id": 1,
+    "term": "akis dumti",
+    "definition": "to pull the wool over someone's eyes; to deceive",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "badyti akis",
+    "definition": "to be glaringly obvious; to stick out",
+    "example": ""
+  },
+  {
+    "id": 3,
+    "term": "bala nematė",
+    "definition": "to hell with it; never mind",
+    "example": ""
+  },
+  {
+    "id": 4,
+    "term": "ir sienos turi ausis",
+    "definition": "walls have ears",
+    "example": ""
+  },
+  {
+    "id": 5,
+    "term": "išdėti į šuns dienas",
+    "definition": "to give someone a dressing-down; to berate",
+    "example": ""
+  },
+  {
+    "id": 6,
+    "term": "kad prisivirei košės, tai ir srėbk",
+    "definition": "you've made your bed, now lie in it",
+    "example": ""
+  },
+  {
+    "id": 7,
+    "term": "kristi į akis",
+    "definition": "to catch the eye; to stand out",
+    "example": ""
+  },
+  {
+    "id": 8,
+    "term": "lieti ašaras",
+    "definition": "to shed tears",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "lyja kirviais",
+    "definition": "\"it's raining axes\" — it's pouring down",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "man šakės",
+    "definition": "I'm done for; I'm in real trouble",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "nespręsk apie knygą iš viršelio",
+    "definition": "don't judge a book by its cover",
+    "example": ""
+  },
+  {
+    "id": 12,
+    "term": "nėra to blogo, kas neišeitų į gerą",
+    "definition": "every cloud has a silver lining",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "panosė šlapia",
+    "definition": "still wet behind the ears; inexperienced",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "privirti košės",
+    "definition": "to stir up trouble; to make a mess of things",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "vienas kaip pirštas",
+    "definition": "\"alone as a finger\" — all on one's own",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "vienas velnias",
+    "definition": "it makes no odds; all the same",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "viena koja",
+    "definition": "in a flash; very quickly",
+    "example": ""
+  },
+  {
+    "id": 18,
+    "term": "turėti omenyje",
+    "definition": "to bear in mind",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "žvirbliu netapsi",
+    "definition": "you won't become a sparrow — you can't change what you are",
+    "example": ""
+  }
+];
+window.QM_IDIOMS_RO_DATA = [
+  {
+    "id": 1,
+    "term": "da de gol",
+    "definition": "to blow someone's cover, to expose",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "floare la ureche",
+    "definition": "piece of cake",
+    "example": "Testul a fost floare la ureche."
+  },
+  {
+    "id": 3,
+    "term": "la sfântu-așteaptă",
+    "definition": "never, on the second Tuesday of the week",
+    "example": "O să ne primim banii înapoi la sfântu-așteaptă."
+  },
+  {
+    "id": 4,
+    "term": "lăsa loc de bună ziua",
+    "definition": "to hide one's hard feelings for someone after having an argument or breaking up with him/her/them",
+    "example": "Ei s-au despărțit acum trei luni, dar au lăsat loc de bună ziua."
+  },
+  {
+    "id": 5,
+    "term": "răspunde cu aceeași monedă",
+    "definition": "to retaliate, reciprocate, fight back, counterattack, give as good as one gets, return the favor",
+    "example": "Dacă cineva te înjură, răspunde-i cu aceeași monedă și înjură-l înapoi!"
+  },
+  {
+    "id": 6,
+    "term": "scoate cămașa",
+    "definition": "to fix or get away with one’s mistakes",
+    "example": "Am făcut o prostie, iar acum nu știu pe unde să scot cămașa. Ajută-mă, te rog!"
+  },
+  {
+    "id": 7,
+    "term": "se răsuci în mormânt",
+    "definition": "turn in one's grave",
+    "example": "Băi, băiete, se răsucește tac-tu în mormânt de dezamăgire ce ești, bă."
+  },
+  {
+    "id": 8,
+    "term": "a cincea roată la căruță",
+    "definition": "third wheel, fifth wheel",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "afară-i vopsit gardul, înăuntru-i leopardul",
+    "definition": "all that glitters is not gold",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "ajunge cuțitul la os",
+    "definition": "for the situation to become critical",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "ajunge la sapă de lemn",
+    "definition": "to become very poor",
+    "example": ""
+  },
+  {
+    "id": 12,
+    "term": "alerga mâncând pământul",
+    "definition": "to run fast",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "alinia astrele",
+    "definition": "stars align",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "apa trece, pietrele rămân",
+    "definition": "irrelevant things pass, important things remain, so one should focus on the important things",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "arde gazul de pomană",
+    "definition": "to waste time",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "are balta pește",
+    "definition": "there are plenty of fish in the sea",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "avea ac de cojocul cuiva",
+    "definition": "to be able to carry out revenge",
+    "example": ""
+  },
+  {
+    "id": 18,
+    "term": "așchia nu sare departe de trunchi",
+    "definition": "apple does not fall far from the tree, like father, like son, like mother, like daughter",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "aștepta să pice mură-n gură",
+    "definition": "to do nothing to achieve one's goals",
+    "example": ""
+  },
+  {
+    "id": 20,
+    "term": "banul este ochiul dracului",
+    "definition": "money is the root of all evil",
+    "example": ""
+  },
+  {
+    "id": 21,
+    "term": "bate apa-n piuă",
+    "definition": "to talk pointlessly",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "bate fierul cât e cald",
+    "definition": "strike the iron while it's hot",
+    "example": ""
+  },
+  {
+    "id": 23,
+    "term": "bate la ochi",
+    "definition": "to be very obvious",
+    "example": ""
+  },
+  {
+    "id": 24,
+    "term": "bate palma",
+    "definition": "to seal the deal",
+    "example": ""
+  },
+  {
+    "id": 25,
+    "term": "bilă neagră",
+    "definition": "blackball",
+    "example": ""
+  },
+  {
+    "id": 26,
+    "term": "boală lipicioasă",
+    "definition": "contagious disease",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "buturuga mică răstoarnă carul mare",
+    "definition": "little strokes fell great oaks",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "băga capul la cutie",
+    "definition": "to hide, to shelter, to avoid retaliation",
+    "example": ""
+  },
+  {
+    "id": 29,
+    "term": "băga mâna în foc",
+    "definition": "to be completely certain concerning the veracity of something",
+    "example": ""
+  },
+  {
+    "id": 30,
+    "term": "calul de dar nu se caută la dinți",
+    "definition": "don't look a gift horse in the mouth",
+    "example": ""
+  },
+  {
+    "id": 31,
+    "term": "cap de an",
+    "definition": "new year",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "capul plecat sabia nu-l taie",
+    "definition": "a submissive man is not persecuted; better bend than break",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "ce se naște din pisică, șoareci mănâncă",
+    "definition": "the apple does not fall far from the tree, like father, like son, like mother, like daughter",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "cei șapte ani de acasă",
+    "definition": "good upbringing, in particular good manners",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "cel bogat face cum vrea, cel sărac face cum poate",
+    "definition": "a rich man does as he pleases, a poor man does as he can",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "chelului tichie de mărgăritar îi trebuie",
+    "definition": "one should focus on important things first",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "chestia e că",
+    "definition": "the thing is",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "cine cu cine votează",
+    "definition": "what's what",
+    "example": ""
+  },
+  {
+    "id": 39,
+    "term": "cine fură azi un ou, mâine va fura un bou",
+    "definition": "once a thief, always a thief",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "cine râde la urmă râde mai bine",
+    "definition": "he who laughs last laughs best",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "cine se aseamănă se adună",
+    "definition": "birds of a feather flock together",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "cine se trezește de dimineață, departe ajunge",
+    "definition": "the early bird gets the worm",
+    "example": ""
+  },
+  {
+    "id": 43,
+    "term": "cine seamănă vânt culege furtună",
+    "definition": "sow the wind, reap the whirlwind",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "coadă de topor",
+    "definition": "axe handle",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "copil din flori",
+    "definition": "love child",
+    "example": ""
+  },
+  {
+    "id": 46,
+    "term": "corb la corb nu scoate ochii",
+    "definition": "dog does not eat dog",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "cu capul pe umeri",
+    "definition": "with one’s head screwed on, sensible",
+    "example": ""
+  },
+  {
+    "id": 48,
+    "term": "cu capul în nori",
+    "definition": "having the head in the clouds",
+    "example": ""
+  },
+  {
+    "id": 49,
+    "term": "cu o floare nu se face primăvară",
+    "definition": "one swallow does not a summer make",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "cu răbdarea treci și marea",
+    "definition": "good things come to those who wait",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "cui pe cui se scoate",
+    "definition": "one nail drives out another",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "cum îți așterni, așa dormi",
+    "definition": "as you make your bed, so you must lie in it",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "cuvânt greu",
+    "definition": "an important say",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "câinele care latră nu mușcă",
+    "definition": "barking dogs seldom bite",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "câinii latră, caravana trece",
+    "definition": "the dogs bark, but the caravan goes on; sticks and stones may break my bones, but words will never hurt me",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "când o zbura porcul",
+    "definition": "never, when pigs fly",
+    "example": ""
+  },
+  {
+    "id": 57,
+    "term": "când pisica nu-i acasă, joacă șoarecii pe masă",
+    "definition": "when the cat's away the mice will play",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "când vine vorba de",
+    "definition": "when it comes to",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "când și când",
+    "definition": "now and then",
+    "example": ""
+  },
+  {
+    "id": 60,
+    "term": "cânta în strună",
+    "definition": "to do whatever another person pleases",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "cât ai zice pește",
+    "definition": "immediately",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "câte bordeie, atâtea obiceie",
+    "definition": "when in Rome, do as the Romans do",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "câștiga teren",
+    "definition": "to gain ground",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "călca pe bec",
+    "definition": "to break a rule",
+    "example": ""
+  },
+  {
+    "id": 65,
+    "term": "călca pe bătătură",
+    "definition": "to annoy, to irritate",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "căuta cu lumânarea",
+    "definition": "to ask for trouble, to ask for it",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "da apă la moară",
+    "definition": "to encourage or embolden",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "da colțul",
+    "definition": "to turn the corner",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "da de veste",
+    "definition": "to announce",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "da din coadă",
+    "definition": "to wag the tail",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "da gata",
+    "definition": "to finish, especially in an impressive manner",
+    "example": ""
+  },
+  {
+    "id": 72,
+    "term": "da la rațe",
+    "definition": "to vomit",
+    "example": ""
+  },
+  {
+    "id": 73,
+    "term": "da ortul popii",
+    "definition": "to kick the bucket, to buy the farm",
+    "example": ""
+  },
+  {
+    "id": 74,
+    "term": "da papucii",
+    "definition": "to dump",
+    "example": ""
+  },
+  {
+    "id": 75,
+    "term": "da pe goarnă",
+    "definition": "to snitch (on someone), to rat out, to tell on",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "da peste",
+    "definition": "to hit, collide with",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "da peste nas",
+    "definition": "to chastise, especially by bringing up someone’s fault or mistake",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "da în mintea copiilor",
+    "definition": "to become senile",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "de la A la Z",
+    "definition": "from A to Z",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "despica firul în patru",
+    "definition": "to split hairs",
+    "example": ""
+  },
+  {
+    "id": 81,
+    "term": "din lac în puț",
+    "definition": "out of the frying pan, into the fire",
+    "example": ""
+  },
+  {
+    "id": 82,
+    "term": "din senin",
+    "definition": "out of the blue",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "duce cu preșul",
+    "definition": "to cheat, to fool",
+    "example": ""
+  },
+  {
+    "id": 84,
+    "term": "duce de nas",
+    "definition": "to lead by the nose",
+    "example": ""
+  },
+  {
+    "id": 85,
+    "term": "Dumnezeu nu bate cu parul",
+    "definition": "what goes around comes around, sow the wind, reap the whirlwind, the chickens come home to roost",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "după gratii",
+    "definition": "behind bars",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "face ca trenul",
+    "definition": "to go ballistic, blow a fuse",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "face cinste",
+    "definition": "to pay for someone else at a restaurant, pub, etc",
+    "example": ""
+  },
+  {
+    "id": 89,
+    "term": "face cu ou și cu oțet",
+    "definition": "to scold",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "face din rahat bici",
+    "definition": "to make a silk purse of a sow's ear",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "face din țânțar armăsar",
+    "definition": "to make a mountain out of a mole hill",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "face față",
+    "definition": "to cope with something, to withstand, deal with",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "face haz de necaz",
+    "definition": "to laugh at a difficult situation, to grin and bear it",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "face o românească",
+    "definition": "to take the easy way out by skirting regulations, especially in traffic",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "face ochi dulci",
+    "definition": "to make eyes",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "term": "face pe mortul în păpușoi",
+    "definition": "to pretend to not know something",
+    "example": ""
+  },
+  {
+    "id": 97,
+    "term": "face pe prostul",
+    "definition": "to pretend not to know or understand something",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "term": "face rost",
+    "definition": "to obtain",
+    "example": ""
+  },
+  {
+    "id": 99,
+    "term": "face umbră pământului degeaba",
+    "definition": "to be useless",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "fată bătrână",
+    "definition": "spinster, old maid",
+    "example": ""
+  }
+];
+window.QM_IDIOMS_HU_DATA = [
+  {
+    "id": 1,
+    "term": "a csapból is folyik",
+    "definition": "to be all over the news, or something that a lot of people are talking about",
+    "example": "A csapból is Michael Jackson folyik."
+  },
+  {
+    "id": 2,
+    "term": "a háta mögött",
+    "definition": "behind someone's back The 2nd sense of",
+    "example": "A munkatársam szemben hízeleg a főnöknek, de a háta mögött gúnyt űz belőle."
+  },
+  {
+    "id": 3,
+    "term": "a pohár fenekére néz",
+    "definition": "to get drunk",
+    "example": "Gyakran a pohár fenekére néz."
+  },
+  {
+    "id": 4,
+    "term": "a volán mögött",
+    "definition": "at the wheel, behind the wheel",
+    "example": "A kevés víz pont olyan, mint a sok alkohol – legalábbis a volán mögött."
+  },
+  {
+    "id": 5,
+    "term": "a vérében van",
+    "definition": "to be in someone's blood, to be a natural",
+    "example": "A családunk minden tagja gitározik, a zene a vérünkben van."
+  },
+  {
+    "id": 6,
+    "term": "ahol a madár se jár",
+    "definition": "in the middle of nowhere, at an out-of-the-way place, on a remote, unfrequented area",
+    "example": "Mit keresel itt, ahol a madár se jár?"
+  },
+  {
+    "id": 7,
+    "term": "ajtót mutat",
+    "definition": "to show someone the door",
+    "example": "Ajtót mutattak nekik."
+  },
+  {
+    "id": 8,
+    "term": "alig áll a lábán",
+    "definition": "to be exhausted, ready to collapse, too tired to stand",
+    "example": "Alig állok a lábamon."
+  },
+  {
+    "id": 9,
+    "term": "az asztal alá iszik",
+    "definition": "to drink someone under the table , the person has to be in accusative case",
+    "example": "Akárkit képes az asztal alá inni."
+  },
+  {
+    "id": 10,
+    "term": "bal lábbal kel fel",
+    "definition": "to wake up on the wrong side of the bed, to get up on the wrong side of the bed, to get out of bed on the wrong side",
+    "example": "A főnököm ma bal lábbal kelt fel. Egész nap rosszkedvű volt."
+  },
+  {
+    "id": 11,
+    "term": "beadja a derekát",
+    "definition": "to give in, to cave in, to knuckle under",
+    "example": "Nem akartunk télen szabadságra menni, de a gyerekek meggyőztek és mi beadtuk a derekunkat."
+  },
+  {
+    "id": 12,
+    "term": "beletörik a nyelve",
+    "definition": "to stumble over one's tongue",
+    "example": "Beletört a nyelve az idegen szavakba."
+  },
+  {
+    "id": 13,
+    "term": "csupa fül",
+    "definition": "all ears, be all ears",
+    "example": "Csupa fül vagyok."
+  },
+  {
+    "id": 14,
+    "term": "Dunát lehetne rekeszteni",
+    "definition": "Used to express that there is an abundance of something (). It could also be negative if people are fed up with the exce",
+    "example": "A gyerekeinknek annyi játékuk van, hogy Dunát lehetne rekeszteni velük."
+  },
+  {
+    "id": 15,
+    "term": "egy kalap alá vesz",
+    "definition": "to lump together",
+    "example": "Nem lehet a nyugdíjasokat egy kalap alá venni a dolgozókkal."
+  },
+  {
+    "id": 16,
+    "term": "elege van",
+    "definition": "to be fed up",
+    "example": "Elege van a nagyvárosból."
+  },
+  {
+    "id": 17,
+    "term": "elveszti a fejét",
+    "definition": "to lose one's head",
+    "example": "Nagyon megijedtek és elvesztették a fejüket."
+  },
+  {
+    "id": 18,
+    "term": "ember legyen a talpán",
+    "definition": "The phrase refers to a capable, resourceful",
+    "example": "Ember legyen a talpán, aki ezt a feladatot meg tudja oldani."
+  },
+  {
+    "id": 19,
+    "term": "falra hányt borsó",
+    "definition": "like talking to a wall, like water off a duck's back, wasted breath",
+    "example": "Mindegy, hogy mit mondok neki. Falra hányt borsó."
+  },
+  {
+    "id": 20,
+    "term": "farkaséhes",
+    "definition": "hungry like the wolf",
+    "example": "farkaséhes vagyok."
+  },
+  {
+    "id": 21,
+    "term": "fejébe száll a dicsőség",
+    "definition": "to become swell-headed by success, to go to one's head",
+    "example": "Fejébe szállt a dicsőség!"
+  },
+  {
+    "id": 22,
+    "term": "feketeleves",
+    "definition": "the worst or most unpleasant thing of something",
+    "example": "Hátravan még a feketeleves."
+  },
+  {
+    "id": 23,
+    "term": "furdalja az oldalát",
+    "definition": "to nag at, to be intrigued by",
+    "example": "Furdalta az oldalamat a kíváncsiság."
+  },
+  {
+    "id": 24,
+    "term": "fából vaskarika",
+    "definition": "contradiction in terms",
+    "example": "Az alkoholmentes sör fából vaskarika."
+  },
+  {
+    "id": 25,
+    "term": "fülig szerelmes",
+    "definition": "head over heels in love, over head and ears in love",
+    "example": "Rómeó fülig szerelmes volt Júliába."
+  },
+  {
+    "id": 26,
+    "term": "gyerekcipőben jár",
+    "definition": "to be in its infancy",
+    "example": "Az űrturizmus most még gyerekcipőben jár."
+  },
+  {
+    "id": 27,
+    "term": "halálra neveti magát",
+    "definition": "to laugh one's head off",
+    "example": "Vicceket meséltünk és halálra nevettük magunkat."
+  },
+  {
+    "id": 28,
+    "term": "hetedik mennyország",
+    "definition": "seventh heaven",
+    "example": "a hetedik mennyországban van."
+  },
+  {
+    "id": 29,
+    "term": "hátat fordít",
+    "definition": "to turn one's back, to turn away",
+    "example": "Gábor hátat fordított az ablaknak."
+  },
+  {
+    "id": 30,
+    "term": "illúziókba ringat",
+    "definition": "to deceive, to lead (someone) into a fool’s paradise",
+    "example": "Ha azt gondolod, hogy ezt el tudod érni, akkor csak illúziókba ringatod magad."
+  },
+  {
+    "id": 31,
+    "term": "kedvét szegi",
+    "definition": "to deflate, to let down, to disappoint someone, to spoil one’s happiness",
+    "example": "A büntetés kedvét szegte."
+  },
+  {
+    "id": 32,
+    "term": "kerek perec",
+    "definition": "point blank, straight from the shoulder, flat out, flat",
+    "example": "Kerek perec visszautasították az ajánlatunkat."
+  },
+  {
+    "id": 33,
+    "term": "kesztyűs kézzel bánik",
+    "definition": "to handle someone with kid gloves, pull punches",
+    "example": "kesztyűs kézzel bánik vetélytársaival."
+  },
+  {
+    "id": 34,
+    "term": "kezet emel",
+    "definition": "to hit someone, to lay a hand on someone, to raise one's hand against or to someone",
+    "example": "Kezet emelt rám!"
+  },
+  {
+    "id": 35,
+    "term": "készpénznek vesz",
+    "definition": "to take something for granted, to believe something word for word without any doubt",
+    "example": "Nem kell készpénznek venni minden szavát!"
+  },
+  {
+    "id": 36,
+    "term": "körmére ég",
+    "definition": "to be pressing, overdue",
+    "example": "Körmömre ég a munka."
+  },
+  {
+    "id": 37,
+    "term": "kő kövön nem marad",
+    "definition": "not a stone will be left standing",
+    "example": "Ha az ellenség ideér, itt kő kövön nem marad."
+  },
+  {
+    "id": 38,
+    "term": "leesik az álla",
+    "definition": "to be very stunned, one's jaw drops",
+    "example": "Fogadok, hogy leesik az álla, ha ezt meghallja!"
+  },
+  {
+    "id": 39,
+    "term": "lerántja a leplet",
+    "definition": "to unmask, expose, reveal, blow the lid off",
+    "example": "Lerántottuk a leplet az árulóról."
+  },
+  {
+    "id": 40,
+    "term": "látástól vakulásig",
+    "definition": "day and night, from daybreak till nightfall, from morning till night",
+    "example": "Látástól vakulásig dolgoztam."
+  },
+  {
+    "id": 41,
+    "term": "lépést tart",
+    "definition": "to keep abreast of something, keep pace, keep up with",
+    "example": "Próbált lépést tartani az osztálytársaival."
+  },
+  {
+    "id": 42,
+    "term": "madarat lehetne fogatni",
+    "definition": "to be happy as a lark, to walk on air, to be on cloud nine",
+    "example": "Madarat lehetne fogatni velem."
+  },
+  {
+    "id": 43,
+    "term": "megkéri a kezét",
+    "definition": "to propose marriage , for someone:",
+    "example": "Megszerette a lányt és megkérte a kezét az apjától."
+  },
+  {
+    "id": 44,
+    "term": "megoldja a nyelvét",
+    "definition": "to loosen someone's tongue",
+    "example": "Egy üveg bor majd megoldja a nyelvét."
+  },
+  {
+    "id": 45,
+    "term": "megoldódik a nyelve",
+    "definition": "to find one's tongue",
+    "example": "Egy üveg bor után megoldódott a nyelvük."
+  },
+  {
+    "id": 46,
+    "term": "mérget vehet",
+    "definition": "to (be able to) bet the farm, bet one's bottom dollar, bet one's boots, take to the bank",
+    "example": "Nem vennék rá mérget."
+  },
+  {
+    "id": 47,
+    "term": "nem fenékig tejfel",
+    "definition": "not all beer and skittles, not just fun and games, not a bed of roses",
+    "example": "Az élet nem fenékig tejfel."
+  },
+  {
+    "id": 48,
+    "term": "nyélbe üt",
+    "definition": "to wrap up, arrange, wind up, conclude",
+    "example": "A jövő héten nyélbe ütünk egy újabb találkozót."
+  },
+  {
+    "id": 49,
+    "term": "pálcát tör",
+    "definition": "or fölött to denounce, condemn, criticize someone harshly",
+    "example": "A munkatársaid pálcát törnek feletted, mert figyelmetlen vagy a munkádban."
+  },
+  {
+    "id": 50,
+    "term": "rossz szemmel néz",
+    "definition": "to frown upon, dislike, disapprove of someone or something",
+    "example": "Lustaságod miatt a többiek rossz szemmel néznek rád."
+  },
+  {
+    "id": 51,
+    "term": "rémeket lát",
+    "definition": "to imagine things, to overreact, to be an alarmist",
+    "example": "Nem lesz semmi bajod. Rémeket látsz."
+  },
+  {
+    "id": 52,
+    "term": "se híre, se hamva",
+    "definition": "disappeared without leaving a trace, neither hide nor hair",
+    "example": "A csónaknak se híre, se hamva nem volt."
+  },
+  {
+    "id": 53,
+    "term": "se lát, se hall",
+    "definition": "to ignore the outside world, not listening",
+    "example": "Se lát, se hall, csak szorgalmasan dolgozik."
+  },
+  {
+    "id": 54,
+    "term": "szedi a sátorfáját",
+    "definition": "to pull up stakes, to pack up bag and baggage",
+    "example": "Szedd a sátorfádat!"
+  },
+  {
+    "id": 55,
+    "term": "szöget üt a fejébe",
+    "definition": "to set one thinking, to put a suspicion in one's mind",
+    "example": "Szöget ütött a fejembe, hogy már hetek óta nem hívott."
+  },
+  {
+    "id": 56,
+    "term": "síkra száll",
+    "definition": "or to champion, to come out in favor of, to come out in support of, to take up the cudgels for",
+    "example": "Írásunkban a helyes nevelési elvek mellett szállunk síkra."
+  },
+  {
+    "id": 57,
+    "term": "tele van a hócipője",
+    "definition": "to be fed up",
+    "example": "Tele van a hócipője az egész világgal."
+  },
+  {
+    "id": 58,
+    "term": "torkig van",
+    "definition": "to be fed up",
+    "example": "Torkig vagyok a mindennapos utazással."
+  },
+  {
+    "id": 59,
+    "term": "tréfát űz",
+    "definition": "to poke fun (at someone or something: , ), ridicule, make fun of",
+    "example": "Tréfát űznek velem."
+  },
+  {
+    "id": 60,
+    "term": "tűkön ül",
+    "definition": "to be on pins and needles, be on tenterhooks, be like a cat on a hot tin roof, be like a cat on hot bricks",
+    "example": "Ti csak beszéltetek, én pedig itt közben tűkön ültem!"
+  },
+  {
+    "id": 61,
+    "term": "tűvé tesz",
+    "definition": "to search meticulously someplace (for someone or something ), to fine-tooth comb, leave no stone unturned",
+    "example": "Tűvé tették a házat a kocsikulcsokért."
+  },
+  {
+    "id": 62,
+    "term": "ujjat húz",
+    "definition": "to pick a fight",
+    "example": "Aki ujjat húz velem, az fizetni fog érte."
+  },
+  {
+    "id": 63,
+    "term": "vendégül lát",
+    "definition": "to entertain/host someone, to invite someone over",
+    "example": "Szeretnénk titeket vendégül látni vacsorára."
+  },
+  {
+    "id": 64,
+    "term": "vereséget szenved",
+    "definition": "to become defeated",
+    "example": "A válogatott komoly vereséget szenvedett a külföldi csapattól."
+  },
+  {
+    "id": 65,
+    "term": "vádat emel",
+    "definition": "to press charges (against someone: ), bring a charge or an accusation, indict, arraign, impeach someone",
+    "example": "Nem kívánok vádat emelni."
+  },
+  {
+    "id": 66,
+    "term": "vállat von",
+    "definition": "to shrug, to shrug one's shoulders",
+    "example": "Péter vállat vont."
+  },
+  {
+    "id": 67,
+    "term": "válságba kerül",
+    "definition": "to fall into crisis, get into crisis",
+    "example": "Szüleik válása után a gyerekek mély lelki válságba kerültek."
+  },
+  {
+    "id": 68,
+    "term": "vége szakad",
+    "definition": "to stop, end, cease, come to an end",
+    "example": "Egyszer minden jónak vége szakad."
+  },
+  {
+    "id": 69,
+    "term": "vége van",
+    "definition": "to be over, to be finished",
+    "example": "A botnak két vége van."
+  },
+  {
+    "id": 70,
+    "term": "véget vet",
+    "definition": "to put an end to, put a stop to, bring an end to, bring to an end, put the kibosh on",
+    "example": "Elköltöztünk a városból és ez véget vetett a barátságunknak."
+  },
+  {
+    "id": 71,
+    "term": "véka alá rejt",
+    "definition": "to hide, conceal",
+    "example": "Véka alá rejted a tehetségedet."
+  },
+  {
+    "id": 72,
+    "term": "véka alá rejti a tehetségét",
+    "definition": "to hide one's light under a bushel",
+    "example": "Véka alá rejted a tehetségedet."
+  },
+  {
+    "id": 73,
+    "term": "vérig sért",
+    "definition": "to insult/offend someone mortally, cut to the quick, draw blood",
+    "example": "A megjegyzéseddel vérig sértetted a barátaimat."
+  },
+  {
+    "id": 74,
+    "term": "zavarba hoz",
+    "definition": "to embarrass someone",
+    "example": "A kérdés zavarba hozott."
+  },
+  {
+    "id": 75,
+    "term": "álom jön a szemére",
+    "definition": "to be able to fall asleep",
+    "example": "Múlt éjjel nem jött álom a szememre."
+  },
+  {
+    "id": 76,
+    "term": "égnek áll",
+    "definition": "to stand on end",
+    "example": "Égnek állt a hajam, amikor meghallottam a gyilkosság részleteit."
+  },
+  {
+    "id": 77,
+    "term": "útban van",
+    "definition": "to be in the way, get in the way, to get under one's feet",
+    "example": "A segítség útban van."
+  },
+  {
+    "id": 78,
+    "term": "a baj nem jár egyedül",
+    "definition": "when it rains, it pours, it never rains but it pours, misfortunes never come singly",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "a biztonság kedvéért",
+    "definition": "to be on the safe side",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "a cipész maradjon a kaptafánál",
+    "definition": "cobbler, keep to your last",
+    "example": ""
+  },
+  {
+    "id": 81,
+    "term": "a cél szentesíti az eszközt",
+    "definition": "the end justifies the means",
+    "example": ""
+  },
+  {
+    "id": 82,
+    "term": "a falnak is füle van",
+    "definition": "walls have ears",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "a füle botját sem mozdítja",
+    "definition": "to turn a deaf ear, not respond, ignore a request, give no answer",
+    "example": ""
+  },
+  {
+    "id": 84,
+    "term": "a hallgatás beleegyezés",
+    "definition": "silence is consent",
+    "example": ""
+  },
+  {
+    "id": 85,
+    "term": "a harag rossz tanácsadó",
+    "definition": "Decisions and actions made in anger will be later regretted",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "a hazug embert hamarabb utolérik, mint a sánta kutyát",
+    "definition": "a lie has no legs",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "a jég hátán is megél",
+    "definition": "to get by/make it anywhere",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "a jó kezdet fél siker",
+    "definition": "well begun is half done",
+    "example": ""
+  },
+  {
+    "id": 89,
+    "term": "a kivétel erősíti a szabályt",
+    "definition": "the exception proves the rule",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "a kocka el van vetve",
+    "definition": "the die is cast",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "a kutya ugat, a karaván halad",
+    "definition": "the dogs bark, but the caravan goes on",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "a kákán is csomót keres",
+    "definition": "to seek a knot in a bulrush",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "a könyökén jön ki",
+    "definition": "to have something ad nauseam, to be fed up with, to be tired of, to be sick of, to feel overwhelmed with something",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "a látszat csal",
+    "definition": "appearances are deceptive",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "a lélek kész, de a test erőtlen",
+    "definition": "the spirit is willing but the flesh is weak",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "term": "a nagy Ő",
+    "definition": "an ideal or idealized romantic partner; the one, Mister/Miss Right",
+    "example": ""
+  },
+  {
+    "id": 97,
+    "term": "a pénz nem boldogít",
+    "definition": "money can't buy happiness",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "term": "a rest kétszer fárad",
+    "definition": "a stitch in time saves nine",
+    "example": ""
+  },
+  {
+    "id": 99,
+    "term": "a sarkára áll",
+    "definition": "to assert one's will, to be firm, to stick to one's guns",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "a sors fintora",
+    "definition": "irony, twist of fate, quirk of fate",
+    "example": ""
+  }
+];
 window.QM_BALLETPIX_DATA = [
   {
     "id": 1,
