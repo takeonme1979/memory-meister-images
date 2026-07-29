@@ -40252,6 +40252,1096 @@ window.QM_IDIOMS_NL_DATA = [
     "example": ""
   }
 ];
+window.QM_IDIOMS_CS_DATA = [
+  {
+    "id": 1,
+    "term": "ani mě nehne",
+    "definition": "fat chance that; I'll be damned if; no way",
+    "example": "Ani mě nehne se někdy vracet na Kubu."
+  },
+  {
+    "id": 2,
+    "term": "ani ryba ani rak",
+    "definition": "neither fish nor fowl",
+    "example": ""
+  },
+  {
+    "id": 3,
+    "term": "atomový hřib",
+    "definition": "mushroom cloud",
+    "example": ""
+  },
+  {
+    "id": 4,
+    "term": "až opadá listí z dubu",
+    "definition": "never, when pigs fly",
+    "example": ""
+  },
+  {
+    "id": 5,
+    "term": "až to bude, tak to bude",
+    "definition": "the work cannot be done earlier or faster; close to an oak is not felled at one stroke",
+    "example": ""
+  },
+  {
+    "id": 6,
+    "term": "bez práce nejsou koláče",
+    "definition": "where there is no work and effort, there are no enjoyable results",
+    "example": ""
+  },
+  {
+    "id": 7,
+    "term": "blaze tomu, kdo nic nemá, nestará se, kam to schová",
+    "definition": "poor people are often happier because fortune brings worries",
+    "example": ""
+  },
+  {
+    "id": 8,
+    "term": "blesk z čistého nebe",
+    "definition": "bolt from the blue",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "bouře ve sklenici vody",
+    "definition": "tempest in a teapot",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "být na dvě věci",
+    "definition": "to be worthless, to have no use, to suck",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "být ruka v rukávě",
+    "definition": "something is agreed by both parties, close to signed, sealed, and delivered",
+    "example": "Chodí spolu už dlouho, já myslím, že už je ruka v rukávě."
+  },
+  {
+    "id": 12,
+    "term": "chytrému napověz, hloupého kopni",
+    "definition": "a word to the wise is sufficient",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "chytrému napověz, hloupého trkni",
+    "definition": "a nod is as good as a wink",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "co je šeptem, to je čertem",
+    "definition": "what is whispered is illicit",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "co můžeš udělat dnes, neodkládej na zítřek",
+    "definition": "procrastination is foolish",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "co oči nevidí, to srdce nebolí",
+    "definition": "problems and losses that do not reach the attention cause no worries and no grief: what the eye doesn't see",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "co se v mládí naučíš, ve stáří jako když najdeš",
+    "definition": "what you learn in your youth will be useful when you are old",
+    "example": ""
+  },
+  {
+    "id": 18,
+    "term": "co tě nepálí, nehas",
+    "definition": "mind one's own business; cobbler, stick to thy last",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "darovanému koni na zuby nekoukej",
+    "definition": "don't look a gift horse in the mouth",
+    "example": ""
+  },
+  {
+    "id": 20,
+    "term": "devatero řemesel, desátá bída",
+    "definition": "jack of all trades, master of none",
+    "example": ""
+  },
+  {
+    "id": 21,
+    "term": "do třetice všeho dobrého",
+    "definition": "third time is the charm",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "dvakrát měř, jednou řež",
+    "definition": "measure twice and cut once; verify your plans and the information on which they are based before you execute t",
+    "example": ""
+  },
+  {
+    "id": 23,
+    "term": "dát někomu pětikorunu",
+    "definition": "to feel sympathy to somebody",
+    "example": "Tvářil se tak nešťastně, že by mu člověk dal pětikorunu."
+  },
+  {
+    "id": 24,
+    "term": "dělat z komára velblouda",
+    "definition": "make a mountain out of a molehill",
+    "example": ""
+  },
+  {
+    "id": 25,
+    "term": "dštít oheň a síru",
+    "definition": "to rain fire and brimstone",
+    "example": ""
+  },
+  {
+    "id": 26,
+    "term": "Eridino jablko",
+    "definition": "apple of discord, something which causes argument, rivalry, or strife",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "hlad je nejlepší kuchař",
+    "definition": "hunger is a good sauce",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "hlas lidu, hlas boží",
+    "definition": "the voice of the people, the voice of God",
+    "example": ""
+  },
+  {
+    "id": 29,
+    "term": "hlavou zeď neprorazíš",
+    "definition": "stubbornness alone does not remove obstacles",
+    "example": ""
+  },
+  {
+    "id": 30,
+    "term": "hledět si svého",
+    "definition": "to mind one's own business",
+    "example": ""
+  },
+  {
+    "id": 31,
+    "term": "hodit flintu do žita",
+    "definition": "to throw in the towel",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "houby s octem",
+    "definition": "to know nothing",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "i mistr tesař se někdy utne",
+    "definition": "we all make mistakes",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "jablko nepadá daleko od stromu",
+    "definition": "the apple doesn't fall far from the tree",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "jak se do lesa volá, tak se z lesa ozývá",
+    "definition": "angry and impolite words lead to angry and impolite replies; what goes around comes around",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "jak si kdo ustele, tak si lehne",
+    "definition": "as you make your bed, so you must lie in it",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "jako házet hrách na stěnu",
+    "definition": "like talking to a wall, like talking to a brick wall",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "jako kdyby do někoho udeřil blesk",
+    "definition": "to be in shock, surprise or amazement",
+    "example": ""
+  },
+  {
+    "id": 39,
+    "term": "jedna vlaštovka jaro nedělá",
+    "definition": "one swallow doesn't make a summer",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "jít s kanónem na vrabce",
+    "definition": "to use a sledgehammer to crack a nut",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "kam čert nemůže, nastrčí ženskou",
+    "definition": "the explanation of why the person caused the problem is that she is a woman",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "každý dobrý skutek je po zásluze potrestán",
+    "definition": "no good deed goes unpunished",
+    "example": ""
+  },
+  {
+    "id": 43,
+    "term": "kde není žalobce, není soudce",
+    "definition": "where there is no plaintiff, there is no judge",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "kdo chce kam, pomozme mu tam",
+    "definition": "a person should be allowed to proceed in an action harmful to himself if he insists",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "kdo chce psa bít, hůl si vždycky najde",
+    "definition": "it is easy to find a stick to beat a dog",
+    "example": ""
+  },
+  {
+    "id": 46,
+    "term": "kdo chce s vlky býti, musí s nimi výti",
+    "definition": "when in Rome do as the Romans do",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "kdo chce, hledá způsoby, kdo nechce, hledá důvody",
+    "definition": "those who want to do something find a way to do it",
+    "example": ""
+  },
+  {
+    "id": 48,
+    "term": "lehce nabyl, lehce pozbyl",
+    "definition": "easy come, easy go",
+    "example": ""
+  },
+  {
+    "id": 49,
+    "term": "lepší pozdě než nikdy",
+    "definition": "better late than never",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "lepší vrabec v hrsti nežli holub na střeše",
+    "definition": "a bird in the hand is worth two in the bush",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "lež má krátké nohy",
+    "definition": "a lie has no legs",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "líná huba, holé neštěstí",
+    "definition": "who is lazy to ask a question or to ask for a service will bear bad consequences",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "líná huba, hotové neštěstí",
+    "definition": "those who are too lazy to ask a question or request something cannot profit from the answer they would have go",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "malé ryby taky ryby",
+    "definition": "half a loaf is better than none",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "mazat někomu med kolem huby",
+    "definition": "to soft-soap somebody, to butter someone up",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "mezi slepými je jednooký králem",
+    "definition": "in the land of the blind, the one-eyed man is king",
+    "example": ""
+  },
+  {
+    "id": 57,
+    "term": "mladí ležáci, staří žebráci",
+    "definition": "he who is lazy to work when he is young will be poor in old age",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "mluviti stříbro, mlčeti zlato",
+    "definition": "speech is silver, silence is golden",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "mnoho povolaných, málo vyvolených",
+    "definition": "many are called, but few are chosen",
+    "example": ""
+  },
+  {
+    "id": 60,
+    "term": "mít máslo na hlavě",
+    "definition": "egg on one's face",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "na hrubý pytel hrubá záplata",
+    "definition": "a rude action deserves a rude reaction",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "na každém šprochu pravdy trochu",
+    "definition": "Every statement contains a kernel of truth",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "natrhnout někomu sako",
+    "definition": "to give someone what for, to do somebody over",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "nebuď zvědavej, budeš brzo starej",
+    "definition": "curiosity killed the cat",
+    "example": ""
+  },
+  {
+    "id": 65,
+    "term": "nechval dne před večerem",
+    "definition": "don't count your chickens before they're hatched",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "nejít někomu něco pod fousy",
+    "definition": "not to be happy about something, not to like something",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "není všechno zlato, co se třpytí",
+    "definition": "all that glitters is not gold",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "oddělit zrno od plev",
+    "definition": "to separate the wheat from the chaff",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "odvážnému štěstí přeje",
+    "definition": "fortune favors the bold",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "oheň na střeše",
+    "definition": "conflict",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "oko za oko, zub za zub",
+    "definition": "eye for an eye, a tooth for a tooth",
+    "example": ""
+  },
+  {
+    "id": 72,
+    "term": "opakování matka moudrosti",
+    "definition": "practice makes perfect",
+    "example": ""
+  },
+  {
+    "id": 73,
+    "term": "orel much nelapá",
+    "definition": "don't waste time, attention, calm or money on fighting insignificant enemies",
+    "example": ""
+  },
+  {
+    "id": 74,
+    "term": "po bitvě je každý generál",
+    "definition": "twenty-twenty hindsight, hindsight is 20/20",
+    "example": ""
+  },
+  {
+    "id": 75,
+    "term": "potmě každá kráva černá",
+    "definition": "all cats are grey in the dark",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "potrefená husa se vždycky ozve",
+    "definition": "the person who has the qualities implied or stated in a derogatory hint made by another one will complain of b",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "pro jedno kvítí slunce nesvítí",
+    "definition": "when your beloved woman has broken your heart and left you, you will still fall in love again with another one",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "psi štěkají a karavana jde dál",
+    "definition": "the dogs bark, but the caravan goes on, haters gonna hate",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "před heřmánkem smekni, před bezinkou klekni",
+    "definition": ") and even higher ones of black elder",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "ranní ptáče dál doskáče",
+    "definition": "the early bird gets the worm",
+    "example": ""
+  },
+  {
+    "id": 81,
+    "term": "rodná hrouda",
+    "definition": "native soil",
+    "example": ""
+  },
+  {
+    "id": 82,
+    "term": "ruka ruku myje",
+    "definition": "you scratch my back and I'll scratch yours",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "ruku na srdce",
+    "definition": "in all honesty, in all fairness, honestly, frankly",
+    "example": ""
+  },
+  {
+    "id": 84,
+    "term": "ryba smrdí od hlavy",
+    "definition": "problems with people at lower ranks of an organization are to be traced to similar problems with people in the",
+    "example": ""
+  },
+  {
+    "id": 85,
+    "term": "Rychlé šípy",
+    "definition": "a group of absolutely honest people",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "ráno moudřejší večera",
+    "definition": "sleep on it",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "s chutí do toho, půl je hotovo",
+    "definition": "a good beginning makes a good ending",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "s křížkem po funuse",
+    "definition": "a day late and a dollar short",
+    "example": "Přišel s křížkem po funuse."
+  },
+  {
+    "id": 89,
+    "term": "s poctivostí nejdál dojdeš",
+    "definition": "honesty is the best policy",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "sejde z očí, sejde z mysli",
+    "definition": "out of sight, out of mind",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "spadnout do vlastní jámy",
+    "definition": "to give a taste of one's own medicine, to retaliate",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "starého psa novým kouskům nenaučíš",
+    "definition": "you can't teach an old dog new tricks",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "stokrát nic umořilo osla",
+    "definition": "many small burdens add up to a big crushing burden",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "term": "tak dlouho se chodí se džbánem pro vodu, až se ucho utrhne",
+    "definition": "when you use a thing too much, it ultimately breaks down at some point every day the bucket goes to the well b",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "term": "tichá voda břehy mele",
+    "definition": "still waters run deep",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "term": "to je gól",
+    "definition": "that is a turn up for the book",
+    "example": ""
+  },
+  {
+    "id": 97,
+    "term": "tonoucí se stébla chytá",
+    "definition": "desperate times call for desperate measures",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "term": "trpělivost růže přináší",
+    "definition": "all things come to those who wait",
+    "example": ""
+  },
+  {
+    "id": 99,
+    "term": "těžko na cvičišti, lehko na bojišti",
+    "definition": "train hard, fight easy; practice makes perfect",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "term": "uhodit hřebíček na hlavičku",
+    "definition": "to hit the nail on the head",
+    "example": ""
+  }
+];
+window.QM_IDIOMS_UK_DATA = [
+  {
+    "id": 1,
+    "term": "адвокат диявола",
+    "definition": "devil's advocate",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "бенкет під час чуми",
+    "definition": "to fiddle while Rome burns",
+    "example": ""
+  },
+  {
+    "id": 3,
+    "term": "бувай здоров",
+    "definition": "cheers!",
+    "example": ""
+  },
+  {
+    "id": 4,
+    "term": "в руках",
+    "definition": "in one's hands, in one's power, under one's control or management",
+    "example": ""
+  },
+  {
+    "id": 5,
+    "term": "висаджувати в повітря",
+    "definition": "to blow up",
+    "example": ""
+  },
+  {
+    "id": 6,
+    "term": "вишенька на торті",
+    "definition": "cherry on the cake, cherry on top, icing on the cake",
+    "example": ""
+  },
+  {
+    "id": 7,
+    "term": "водити козу",
+    "definition": "to find somewhere to get drunk",
+    "example": "Що ви там робите вже другу годину? Та ми козу водимо."
+  },
+  {
+    "id": 8,
+    "term": "все буде Україна",
+    "definition": "Ukraine forever!",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "всьо на свої лотоки",
+    "definition": "always looking out for one's own advantage, turning everything to one's own benefit",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "всі дороги ведуть до Риму",
+    "definition": "all roads lead to Rome",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "відкрити Америку",
+    "definition": "to discover that Queen Anne's dead",
+    "example": "Він сказав, що спорт корисний для здоров'я. Теж мені Америку відкрив!"
+  },
+  {
+    "id": 12,
+    "term": "голова й два вуха",
+    "definition": "absent-minded",
+    "example": "Чому ти забув ключі вдома знову? Та я ж голова і два вуха."
+  },
+  {
+    "id": 13,
+    "term": "гроші не пахнуть",
+    "definition": "money does not smell",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "дати в руку",
+    "definition": "to hand over, to put into someone's hands, to entrust",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "дати гарбуза",
+    "definition": "to reject one's romantic advances; to give the cold shoulder",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "дати з рук",
+    "definition": "to hand over, to give out of one's hands, to relinquish",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "держати в руках",
+    "definition": "to keep someone under control, to hold in check, to keep a tight rein on",
+    "example": ""
+  },
+  {
+    "id": 18,
+    "term": "дивитися на руки",
+    "definition": "to watch someone closely, to keep a close eye on someone",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "жувати соплі",
+    "definition": "To twiddle one's thumbs, to waste time and do nothing useful",
+    "example": "Відповідь на коментар: перестаньте соплі жувати."
+  },
+  {
+    "id": 20,
+    "term": "з Великоднем",
+    "definition": "Happy Easter!",
+    "example": ""
+  },
+  {
+    "id": 21,
+    "term": "з вільної руки",
+    "definition": "of one's own free will, voluntarily",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "з першої руки",
+    "definition": "firsthand, from the original source",
+    "example": ""
+  },
+  {
+    "id": 23,
+    "term": "з порожніми руками",
+    "definition": "empty-handed, with empty hands, without gifts, unrewarded",
+    "example": ""
+  },
+  {
+    "id": 24,
+    "term": "за закритими дверима",
+    "definition": "behind closed doors",
+    "example": ""
+  },
+  {
+    "id": 25,
+    "term": "заложити руки",
+    "definition": "to sit idle, to fold one's arms, to do nothing",
+    "example": ""
+  },
+  {
+    "id": 26,
+    "term": "земля обітована",
+    "definition": "dream",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "зложити голову",
+    "definition": "To die in battle",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "камінь спотикання",
+    "definition": "stumbling block",
+    "example": ""
+  },
+  {
+    "id": 29,
+    "term": "квиток до Кобзона",
+    "definition": "\"Ticket to Kobzon\": a quick death for a Russian soldier in Ukraine",
+    "example": "Вбивця отримав собі квиток до Кобзона."
+  },
+  {
+    "id": 30,
+    "term": "коли йдеться про",
+    "definition": "when it comes to",
+    "example": ""
+  },
+  {
+    "id": 31,
+    "term": "коли рак на горі свисне",
+    "definition": "when pigs fly, never",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "концерт Кобзона",
+    "definition": "\"Kobzon's concert\": a quick death for a Russian soldier fighting against Ukraine",
+    "example": "відправили на концерт Кобзона."
+  },
+  {
+    "id": 33,
+    "term": "крокодилячі сльози",
+    "definition": "crocodile tears",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "кулик кулика бачить здалека",
+    "definition": "birds of a feather flock together",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "ламати голову над чимось",
+    "definition": "to get confused",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "левова частка",
+    "definition": "lion's share",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "мати довгі руки",
+    "definition": "to be a thief, to be light-fingered, to have sticky fingers, to be prone to stealing",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "мене звати",
+    "definition": "my name is",
+    "example": "Мене́ зва́ти Стефа́н."
+  },
+  {
+    "id": 39,
+    "term": "молоко на губах не обсохло",
+    "definition": "wet behind the ears, greenhorn",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "моя хата скраю, я нічого не знаю",
+    "definition": "it's none of my business, I don't care",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "на молот",
+    "definition": "very finely",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "на руку",
+    "definition": "convenient, handy, advantageous, playing into someone's hands",
+    "example": ""
+  },
+  {
+    "id": 43,
+    "term": "на свою руку",
+    "definition": "on one's own, independently, on one's own initiative or risk",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "налякати їжака голою сракою",
+    "definition": "To fail to be threatening",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "не на руку",
+    "definition": "inconvenient, unsuitable, disadvantageous",
+    "example": ""
+  },
+  {
+    "id": 46,
+    "term": "не рука",
+    "definition": "it won't do; it is not suitable, convenient, or acceptable",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "не святі горшки ліплять",
+    "definition": "anyone can learn to do anything if they wish to",
+    "example": ""
+  },
+  {
+    "id": 48,
+    "term": "не чути ніг під собою",
+    "definition": "to be very happy or excited; over the moon",
+    "example": ""
+  },
+  {
+    "id": 49,
+    "term": "нема диму без вогню",
+    "definition": "there's no smoke without fire",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "нема лиха без добра",
+    "definition": "a blessing in disguise, something bad that has a good result",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "неозброєне око",
+    "definition": "naked eye, unaided eye",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "один у полі не воїн",
+    "definition": "many hands make light work",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "опустити руки",
+    "definition": "to lose heart, to give up, to despair",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "переливати з пустого в порожнє",
+    "definition": "to talk empty, useless, unimportant talks",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "показати де раки зимують",
+    "definition": "to punish someone, to teach someone a lesson",
+    "example": "Я покажу тобі, де раки зимують!"
+  },
+  {
+    "id": 56,
+    "term": "прийти до тями",
+    "definition": "to come to one's senses, to recover one's senses, to regain one's senses, to come to, to come round",
+    "example": ""
+  },
+  {
+    "id": 57,
+    "term": "про вовка промовка",
+    "definition": "speak of the devil",
+    "example": "Про вовка промовка, а вовк у хату. - Марко Вовчок."
+  },
+  {
+    "id": 58,
+    "term": "під джмелем",
+    "definition": "drunk",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "під диктовку",
+    "definition": "according to someone's will, as one wishes",
+    "example": ""
+  },
+  {
+    "id": 60,
+    "term": "піти рукою",
+    "definition": "to go well, to succeed, to go smoothly",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "раз та гаразд",
+    "definition": "even though something is done rarely, it is done extremely well",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "ранні пташки росу п'ють, а пізні слізки ллють",
+    "definition": "the early bird catches the worm, the early bird gets the worm",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "робити з мухи слона",
+    "definition": "to make a mountain out of a molehill",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "рожеві окуляри",
+    "definition": "rose-colored glasses",
+    "example": ""
+  },
+  {
+    "id": 65,
+    "term": "стрибати від радості",
+    "definition": "to jump for joy",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "теплою рукою",
+    "definition": "during one's lifetime, before death",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "тягнути руку",
+    "definition": "to raise one's hand",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "ходити з довгою рукою",
+    "definition": "to beg, to ask for alms",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "цирк на дроті",
+    "definition": "three-ring circus; pandemonium",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "Чотири вершники Апокаліпсису",
+    "definition": "Four Horsemen of the Apocalypse",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "яблуку ніде впасти",
+    "definition": "it's packed to the gills, it's packed to the rafters",
+    "example": ""
+  },
+  {
+    "id": 72,
+    "term": "язик до Києва доведе",
+    "definition": "one must be communicative and ask other people if needed",
+    "example": ""
+  },
+  {
+    "id": 73,
+    "term": "як вітром здуло",
+    "definition": "vanished into thin air",
+    "example": "Коли клас здавав домашню роботу, Семена як вітром здуло."
+  },
+  {
+    "id": 74,
+    "term": "як грім серед ясного неба",
+    "definition": "out of the blue",
+    "example": "Одного дня, як грім серед ясного неба, вона сказала, що йде від мене."
+  },
+  {
+    "id": 75,
+    "term": "як дві краплі води",
+    "definition": "like two peas in a pod",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "як до Києва рачки",
+    "definition": "far, a long way",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "як Марко в пеклі",
+    "definition": "ceaselessly, quickly, unnecessarily",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "як не срачка, то болячка",
+    "definition": "out of the frying pan, into the fire; referring to a situation that is inevitably as bad as the previous one",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "якщо на те пішло",
+    "definition": "for that matter, come to that",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "їбала жаба гадюку",
+    "definition": "Two or more unpleasant people are fighting each other; like rats in a sack",
+    "example": "Та там справжнє шоу — їбала жаба гадюку!"
+  },
+  {
+    "id": 81,
+    "term": "ґав ловити",
+    "definition": "to get distracted, to lose focus",
+    "example": "Не лови ґав на роботі!"
+  }
+];
 window.QM_IDIOMS_PT_DATA = [
   {
     "id": 1,
