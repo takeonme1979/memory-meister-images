@@ -16296,7 +16296,7 @@ window.QM_UKBOYBANDS_DATA = [
   {
     "id": "id_1784133075985_8pkrbwoe",
     "name": "D-Side",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/d-side.jpg"
+    "imageUrl": ""
   },
   {
     "id": "id_1784133075985_8qk4twjr",
@@ -16338,7 +16338,7 @@ window.QM_UKBOYBANDS_DATA = [
   {
     "id": "id_1784133075985_8wm01wn0",
     "name": "Boom!",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/boom.jpg"
+    "imageUrl": ""
   },
   {
     "id": "id_1784133075985_8xeuk7xm",
@@ -16352,6 +16352,11 @@ window.QM_UKBOYBANDS_DATA = [
     "focalX": 50.41229023652918,
     "focalY": 50,
     "zoom": 1
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "imageUrl": ""
   }
 ];
 window.QM_UKGIRLBANDS_DATA = [
