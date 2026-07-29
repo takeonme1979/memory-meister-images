@@ -2554,8 +2554,6 @@ window.QM_HIDDEN_QUIZZES = [
   "idioms",
   "idioms2",
   "idiomsObscure",
-  "mrMen",
-  "littleMiss",
   "itIdioms",
   "plIdioms",
   "frIdioms",
@@ -18290,7 +18288,10 @@ window.QM_MRMEN_DATA = [
   {
     "id": "mrmen_greedy",
     "name": "Mr Greedy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_greedy.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_greedy.webp",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1
   },
   {
     "id": "mrmen_happy",
@@ -18330,7 +18331,10 @@ window.QM_MRMEN_DATA = [
   {
     "id": "mrmen_silly",
     "name": "Mr Silly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_silly.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_silly.webp",
+    "focalX": 50,
+    "focalY": 15.992640758368465,
+    "zoom": 1
   },
   {
     "id": "mrmen_uppity",
@@ -18340,7 +18344,10 @@ window.QM_MRMEN_DATA = [
   {
     "id": "mrmen_small",
     "name": "Mr Small",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_small.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_small.webp",
+    "focalX": 50,
+    "focalY": 33.125932437731635,
+    "zoom": 1
   },
   {
     "id": "mrmen_daydream",
