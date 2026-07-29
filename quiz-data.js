@@ -18301,7 +18301,10 @@ window.QM_MRMEN_DATA = [
   {
     "id": "mrmen_nosey",
     "name": "Mr Nosey",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_nosey.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_nosey.png",
+    "focalX": 53.52068672899249,
+    "focalY": 100,
+    "zoom": 1.1500000000000001
   },
   {
     "id": "mrmen_sneeze",
