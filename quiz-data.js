@@ -18283,12 +18283,12 @@ window.QM_MRMEN_DATA = [
   {
     "id": "mrmen_tickle",
     "name": "Mr Tickle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_tickle.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_tickle.png"
   },
   {
     "id": "mrmen_greedy",
     "name": "Mr Greedy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_greedy.webp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_greedy.png",
     "focalX": 50,
     "focalY": 18,
     "zoom": 1
@@ -18296,42 +18296,42 @@ window.QM_MRMEN_DATA = [
   {
     "id": "mrmen_happy",
     "name": "Mr Happy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_happy.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_happy.png"
   },
   {
     "id": "mrmen_nosey",
     "name": "Mr Nosey",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_nosey.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_nosey.png"
   },
   {
     "id": "mrmen_sneeze",
     "name": "Mr Sneeze",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_sneeze.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_sneeze.png"
   },
   {
     "id": "mrmen_bump",
     "name": "Mr Bump",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_bump.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_bump.png"
   },
   {
     "id": "mrmen_snow",
     "name": "Mr Snow",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_snow.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_snow.png"
   },
   {
     "id": "mrmen_messy",
     "name": "Mr Messy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_messy.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_messy.png"
   },
   {
     "id": "mrmen_topsy-turvy",
     "name": "Mr Topsy-Turvy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_topsy-turvy.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_topsy-turvy.png"
   },
   {
     "id": "mrmen_silly",
     "name": "Mr Silly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_silly.webp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_silly.png",
     "focalX": 50,
     "focalY": 15.992640758368465,
     "zoom": 1
@@ -18339,12 +18339,12 @@ window.QM_MRMEN_DATA = [
   {
     "id": "mrmen_uppity",
     "name": "Mr Uppity",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_uppity.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_uppity.png"
   },
   {
     "id": "mrmen_small",
     "name": "Mr Small",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_small.webp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_small.png",
     "focalX": 50,
     "focalY": 33.125932437731635,
     "zoom": 1
@@ -18352,254 +18352,254 @@ window.QM_MRMEN_DATA = [
   {
     "id": "mrmen_daydream",
     "name": "Mr Daydream",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_daydream.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_daydream.png"
   },
   {
     "id": "mrmen_forgetful",
     "name": "Mr Forgetful",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_forgetful.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_forgetful.png"
   },
   {
     "id": "mrmen_jelly",
     "name": "Mr Jelly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_jelly.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_jelly.png"
   },
   {
     "id": "mrmen_noisy",
     "name": "Mr Noisy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_noisy.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_noisy.png"
   },
   {
     "id": "mrmen_lazy",
     "name": "Mr Lazy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_lazy.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_lazy.png"
   },
   {
     "id": "mrmen_funny",
     "name": "Mr Funny",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_funny.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_funny.png"
   },
   {
     "id": "mrmen_mean",
     "name": "Mr Mean",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_mean.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_mean.png"
   },
   {
     "id": "mrmen_chatterbox",
     "name": "Mr Chatterbox",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_chatterbox.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_chatterbox.png"
   },
   {
     "id": "mrmen_fussy",
     "name": "Mr Fussy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_fussy.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_fussy.png"
   },
   {
     "id": "mrmen_bounce",
     "name": "Mr Bounce",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_bounce.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_bounce.png"
   },
   {
     "id": "mrmen_muddle",
     "name": "Mr Muddle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_muddle.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_muddle.png"
   },
   {
     "id": "mrmen_dizzy",
     "name": "Mr Dizzy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_dizzy.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_dizzy.png"
   },
   {
     "id": "mrmen_impossible",
     "name": "Mr Impossible",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_impossible.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_impossible.png"
   },
   {
     "id": "mrmen_strong",
     "name": "Mr Strong",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_strong.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_strong.png"
   },
   {
     "id": "mrmen_grumpy",
     "name": "Mr Grumpy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_grumpy.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_grumpy.png"
   },
   {
     "id": "mrmen_clumsy",
     "name": "Mr Clumsy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_clumsy.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_clumsy.png"
   },
   {
     "id": "mrmen_quiet",
     "name": "Mr Quiet",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_quiet.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_quiet.png"
   },
   {
     "id": "mrmen_rush",
     "name": "Mr Rush",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_rush.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_rush.png"
   },
   {
     "id": "mrmen_tall",
     "name": "Mr Tall",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_tall.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_tall.png"
   },
   {
     "id": "mrmen_worry",
     "name": "Mr Worry",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_worry.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_worry.png"
   },
   {
     "id": "mrmen_nonsense",
     "name": "Mr Nonsense",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_nonsense.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_nonsense.png"
   },
   {
     "id": "mrmen_wrong",
     "name": "Mr Wrong",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_wrong.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_wrong.png"
   },
   {
     "id": "mrmen_skinny",
     "name": "Mr Skinny",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_skinny.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_skinny.png"
   },
   {
     "id": "mrmen_mischief",
     "name": "Mr Mischief",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_mischief.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_mischief.png"
   },
   {
     "id": "mrmen_clever",
     "name": "Mr Clever",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_clever.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_clever.png"
   },
   {
     "id": "mrmen_busy",
     "name": "Mr Busy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_busy.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_busy.png"
   },
   {
     "id": "mrmen_slow",
     "name": "Mr Slow",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_slow.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_slow.png"
   },
   {
     "id": "mrmen_nobody",
     "name": "Mr Nobody",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_nobody.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_nobody.png"
   },
   {
     "id": "mrmen_christmas",
     "name": "Mr Christmas",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_christmas.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/mr-men/mrmen_christmas.png"
   }
 ];
 window.QM_LITTLEMISS_DATA = [
   {
     "id": "littlemiss_bossy",
     "name": "Little Miss Bossy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_bossy.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_bossy.png"
   },
   {
     "id": "littlemiss_naughty",
     "name": "Little Miss Naughty",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_naughty.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_naughty.png"
   },
   {
     "id": "littlemiss_neat",
     "name": "Little Miss Neat",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_neat.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_neat.png"
   },
   {
     "id": "littlemiss_sunshine",
     "name": "Little Miss Sunshine",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_sunshine.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_sunshine.png"
   },
   {
     "id": "littlemiss_tiny",
     "name": "Little Miss Tiny",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_tiny.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_tiny.png"
   },
   {
     "id": "littlemiss_trouble",
     "name": "Little Miss Trouble",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_trouble.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_trouble.png"
   },
   {
     "id": "littlemiss_helpful",
     "name": "Little Miss Helpful",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_helpful.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_helpful.png"
   },
   {
     "id": "littlemiss_shy",
     "name": "Little Miss Shy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_shy.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_shy.png"
   },
   {
     "id": "littlemiss_splendid",
     "name": "Little Miss Splendid",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_splendid.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_splendid.png"
   },
   {
     "id": "littlemiss_late",
     "name": "Little Miss Late",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_late.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_late.png"
   },
   {
     "id": "littlemiss_scatterbrain",
     "name": "Little Miss Scatterbrain",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_scatterbrain.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_scatterbrain.png"
   },
   {
     "id": "littlemiss_greedy",
     "name": "Little Miss Greedy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_greedy.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_greedy.png"
   },
   {
     "id": "littlemiss_magic",
     "name": "Little Miss Magic",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_magic.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_magic.png"
   },
   {
     "id": "littlemiss_giggles",
     "name": "Little Miss Giggles",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_giggles.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_giggles.png"
   },
   {
     "id": "littlemiss_twins",
     "name": "Little Miss Twins",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_twins.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_twins.png"
   },
   {
     "id": "littlemiss_chatterbox",
     "name": "Little Miss Chatterbox",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_chatterbox.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_chatterbox.png"
   },
   {
     "id": "littlemiss_dotty",
     "name": "Little Miss Dotty",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_dotty.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_dotty.png"
   },
   {
     "id": "littlemiss_lucky",
     "name": "Little Miss Lucky",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_lucky.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_lucky.png"
   },
   {
     "id": "littlemiss_star",
     "name": "Little Miss Star",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_star.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_star.png"
   },
   {
     "id": "littlemiss_fickle",
     "name": "Little Miss Fickle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_fickle.webp"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_fickle.png"
   },
   {
     "id": "littlemiss_contrary",
     "name": "Little Miss Contrary",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_contrary.svg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/books/little-miss/littlemiss_contrary.png"
   }
 ];
 window.QM_CARLOGOS_DATA = [
