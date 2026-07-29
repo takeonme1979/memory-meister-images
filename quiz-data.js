@@ -2652,7 +2652,13 @@ window.QM_HIDDEN_QUIZZES = [
   "rcsEurope",
   "rcsNamerica",
   "rcsSamerica",
-  "rcsOceania"
+  "rcsOceania",
+  "huAdjectives",
+  "roAdjectives",
+  "ltAdjectives",
+  "rhuAdjectives",
+  "rroAdjectives",
+  "rltAdjectives"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -39600,537 +39606,537 @@ window.QM_GENZ_DATA = [
   },
   {
     "id": 12,
-    "term": "Skibidi",
-    "definition": "Deliberate nonsense from the Skibidi Toilet memes — can mean cool, bad, or nothing at all",
-    "example": "Ohio skibidi rizz — the words mean nothing, that’s the joke."
-  },
-  {
-    "id": 13,
     "term": "Fanum tax",
     "definition": "Taking a share of a friend's food without asking",
     "example": "He reached over and fanum taxed half my chips."
   },
   {
-    "id": 14,
+    "id": 13,
     "term": "Mewing",
     "definition": "Pressing your tongue to the roof of your mouth to sharpen your jawline",
     "example": "He's been mewing in every photo since March."
   },
   {
-    "id": 15,
+    "id": 14,
     "term": "NPC",
     "definition": "Someone acting on autopilot, with no original thoughts",
     "example": "Repeating the same three opinions is peak NPC behaviour."
   },
   {
-    "id": 16,
+    "id": 15,
     "term": "Ratio",
     "definition": "Getting far more replies than likes — a sign the internet disagrees",
     "example": "That post got absolutely ratioed."
   },
   {
-    "id": 17,
+    "id": 16,
     "term": "Living rent free",
     "definition": "Occupying your thoughts constantly and unbidden",
     "example": "That advert jingle lives rent free in my head."
   },
   {
-    "id": 18,
+    "id": 17,
     "term": "Main character",
     "definition": "Behaving as though you're the star of the story",
     "example": "She put her headphones on and had a full main character moment."
   },
   {
-    "id": 19,
+    "id": 18,
     "term": "Understood the assignment",
     "definition": "Delivered exactly what the occasion called for",
     "example": "Everyone else wore jeans; he understood the assignment."
   },
   {
-    "id": 20,
+    "id": 19,
     "term": "Ate",
     "definition": "Performed brilliantly",
     "example": "She ate that solo."
   },
   {
-    "id": 21,
+    "id": 20,
     "term": "Left no crumbs",
     "definition": "Did it flawlessly, holding nothing back",
     "example": "That performance ate and left no crumbs."
   },
   {
-    "id": 22,
+    "id": 21,
     "term": "Snatched",
     "definition": "Looking sharp and well put together",
     "example": "Your outfit is snatched today."
   },
   {
-    "id": 23,
+    "id": 22,
     "term": "Drip",
     "definition": "Impressive, stylish clothing",
     "example": "The trainers complete the drip."
   },
   {
-    "id": 24,
+    "id": 23,
     "term": "Fit",
     "definition": "An outfit",
     "example": "Send me a picture of the fit before you leave."
   },
   {
-    "id": 25,
+    "id": 24,
     "term": "Flex",
     "definition": "Show off, usually about money or success",
     "example": "Posting the receipt was a bit of a flex."
   },
   {
-    "id": 26,
+    "id": 25,
     "term": "Glow-up",
     "definition": "A dramatic improvement in appearance or life",
     "example": "Six months of the gym and it's a full glow-up."
   },
   {
-    "id": 27,
+    "id": 26,
     "term": "Ghosting",
     "definition": "Vanishing from someone's life with no explanation",
     "example": "Three great dates and then he ghosted me."
   },
   {
-    "id": 28,
+    "id": 27,
     "term": "Salty",
     "definition": "Bitter and resentful over something small",
     "example": "He's still salty about losing at cards."
   },
   {
-    "id": 29,
+    "id": 28,
     "term": "Shook",
     "definition": "Badly shaken or stunned",
     "example": "That ending left me shook."
   },
   {
-    "id": 30,
+    "id": 29,
     "term": "Simp",
     "definition": "Someone excessively devoted to a person who isn't interested",
     "example": "Buying her lunch every day and getting nothing back — total simp."
   },
   {
-    "id": 31,
+    "id": 30,
     "term": "Stan",
     "definition": "Be an obsessive supporter of someone",
     "example": "I've stanned that band since I was fourteen."
   },
   {
-    "id": 32,
+    "id": 31,
     "term": "Tea",
     "definition": "Gossip",
     "example": "Sit down, I've got tea about the wedding."
   },
   {
-    "id": 33,
+    "id": 32,
     "term": "Spill the tea",
     "definition": "Share the gossip",
     "example": "Go on then, spill the tea."
   },
   {
-    "id": 34,
+    "id": 33,
     "term": "Receipts",
     "definition": "Screenshots or proof to back up a claim",
     "example": "She posted the receipts and the argument ended."
   },
   {
-    "id": 35,
+    "id": 34,
     "term": "Vibe check",
     "definition": "A quick read of someone's mood or energy",
     "example": "He failed the vibe check the moment he walked in."
   },
   {
-    "id": 36,
+    "id": 35,
     "term": "Touch grass",
     "definition": "Go outside; get off the internet",
     "example": "You've been arguing online for six hours — touch grass."
   },
   {
-    "id": 37,
+    "id": 36,
     "term": "Chronically online",
     "definition": "So immersed in the internet you've lost perspective",
     "example": "Only someone chronically online would care about that."
   },
   {
-    "id": 38,
-    "term": "Based",
-    "definition": "Admirably true to yourself, regardless of opinion",
-    "example": "Saying that out loud at the meeting was based."
-  },
-  {
-    "id": 39,
+    "id": 37,
     "term": "Cringe",
     "definition": "Embarrassing to witness",
     "example": "The whole speech was pure cringe."
   },
   {
-    "id": 40,
+    "id": 38,
     "term": "Lowkey",
     "definition": "Slightly; secretly",
     "example": "I'm lowkey hoping it gets cancelled."
   },
   {
-    "id": 41,
+    "id": 39,
     "term": "Highkey",
     "definition": "Very openly; obviously",
     "example": "I'm highkey excited about Friday."
   },
   {
-    "id": 42,
+    "id": 40,
     "term": "Deadass",
     "definition": "Seriously; I really mean it",
     "example": "I'm deadass, he said it to my face."
   },
   {
-    "id": 43,
+    "id": 41,
     "term": "Finna",
     "definition": "About to; going to",
     "example": "I'm finna leave in five minutes."
   },
   {
-    "id": 44,
+    "id": 42,
     "term": "Fr",
     "definition": "For real — genuinely, honestly",
     "example": "That exam was brutal, fr."
   },
   {
-    "id": 45,
+    "id": 43,
     "term": "IYKYK",
     "definition": "\"If you know, you know\" — an in-joke you won't explain",
     "example": "Third table from the window. IYKYK."
   },
   {
-    "id": 46,
+    "id": 44,
     "term": "W",
     "definition": "A win; something good",
     "example": "Half-price tickets? Massive W."
   },
   {
-    "id": 47,
+    "id": 45,
     "term": "L",
     "definition": "A loss; a failure",
     "example": "Forgot my wallet — took an L at the till."
   },
   {
-    "id": 48,
+    "id": 46,
     "term": "Take the L",
     "definition": "Accept the defeat gracefully",
     "example": "You were wrong, just take the L."
   },
   {
-    "id": 49,
+    "id": 47,
     "term": "Goated",
     "definition": "The greatest of all time",
     "example": "That album is goated."
   },
   {
-    "id": 50,
+    "id": 48,
     "term": "Let him cook",
     "definition": "Leave them to it — they know what they're doing",
     "example": "It looks chaotic, but let him cook."
   },
   {
-    "id": 51,
+    "id": 49,
     "term": "Cooked",
     "definition": "Finished; done for",
     "example": "Two hours before the deadline and nothing written — I'm cooked."
   },
   {
-    "id": 52,
+    "id": 50,
     "term": "Era",
     "definition": "A distinct phase you're currently in",
     "example": "She's in her marathon-running era."
   },
   {
-    "id": 53,
+    "id": 51,
     "term": "Core",
     "definition": "A whole aesthetic or vibe, added to any word",
     "example": "The whole flat is very cottagecore."
   },
   {
-    "id": 54,
+    "id": 52,
     "term": "Banger",
     "definition": "An excellent song",
     "example": "Track four is an absolute banger."
   },
   {
-    "id": 55,
+    "id": 53,
     "term": "Slaps",
     "definition": "Sounds brilliant",
     "example": "This chorus slaps."
   },
   {
-    "id": 56,
+    "id": 54,
     "term": "Hits different",
     "definition": "Affects you unusually strongly",
     "example": "That song hits different at 2am."
   },
   {
-    "id": 57,
+    "id": 55,
     "term": "Periodt",
     "definition": "Full stop — end of discussion",
     "example": "She's the best on the team, periodt."
   },
   {
-    "id": 58,
-    "term": "Sheesh",
-    "definition": "An exclamation of admiration",
-    "example": "Sheesh, look at that goal."
-  },
-  {
-    "id": 59,
+    "id": 56,
     "term": "On god",
     "definition": "I swear it's true",
     "example": "On god, I posted it yesterday."
   },
   {
-    "id": 60,
+    "id": 57,
     "term": "Say less",
     "definition": "I understand, no need to explain further",
     "example": "\"Can you cover Saturday?\" \"Say less.\""
   },
   {
-    "id": 61,
+    "id": 58,
     "term": "It's giving",
     "definition": "It has the distinct air of",
     "example": "That coat? It's giving detective."
   },
   {
-    "id": 62,
+    "id": 59,
     "term": "Situationship",
     "definition": "A relationship with no agreed definition",
     "example": "Six months of a situationship and no label."
   },
   {
-    "id": 63,
+    "id": 60,
     "term": "Red flag",
     "definition": "A warning sign about someone",
     "example": "He was rude to the waiter — red flag."
   },
   {
-    "id": 64,
+    "id": 61,
     "term": "Green flag",
     "definition": "A sign that someone is a good person",
     "example": "He texted his sister happy birthday — green flag."
   },
   {
-    "id": 65,
-    "term": "Beige flag",
-    "definition": "A quirk that's neither good nor bad, just odd",
-    "example": "He alphabetises the spice rack — total beige flag."
-  },
-  {
-    "id": 66,
+    "id": 62,
     "term": "Love bombing",
     "definition": "Overwhelming someone with affection to gain control",
     "example": "Flowers every day in week one was love bombing."
   },
   {
-    "id": 67,
+    "id": 63,
     "term": "Breadcrumbing",
     "definition": "Giving just enough attention to keep someone hooked",
     "example": "One text a fortnight is textbook breadcrumbing."
   },
   {
-    "id": 68,
+    "id": 64,
     "term": "Soft launch",
     "definition": "Hinting at a new relationship online without showing the face",
     "example": "An elbow in the photo — that's a soft launch."
   },
   {
-    "id": 69,
+    "id": 65,
     "term": "Hard launch",
     "definition": "Announcing the relationship openly",
     "example": "They hard launched at the wedding."
   },
   {
-    "id": 70,
+    "id": 66,
     "term": "Bestie",
     "definition": "A friend, or a friendly way to address anyone",
     "example": "Bestie, that is not what the email said."
   },
   {
-    "id": 71,
+    "id": 67,
     "term": "Boujee",
     "definition": "Expensively fancy",
     "example": "Marble worktops is very boujee."
   },
   {
-    "id": 72,
+    "id": 68,
     "term": "Extra",
     "definition": "Over the top; doing far too much",
     "example": "Fireworks for a birthday tea is a bit extra."
   },
   {
-    "id": 73,
+    "id": 69,
     "term": "Basic",
     "definition": "Unoriginal; following every mainstream trend",
     "example": "The pumpkin latte is basic and I don't care."
   },
   {
-    "id": 74,
+    "id": 70,
     "term": "Canon event",
     "definition": "An unavoidable experience that shapes who you are",
     "example": "A terrible first job is a canon event."
   },
   {
-    "id": 75,
+    "id": 71,
     "term": "Character development",
     "definition": "Visible personal growth",
     "example": "He does the washing-up now — real character development."
   },
   {
-    "id": 76,
+    "id": 72,
     "term": "Side quest",
     "definition": "A distraction from what you meant to do",
     "example": "Went for milk, came back with a plant — side quest."
   },
   {
-    "id": 77,
+    "id": 73,
     "term": "Crash out",
     "definition": "Lose your temper or fall apart over something",
     "example": "One more delay and I'm going to crash out."
   },
   {
-    "id": 78,
+    "id": 74,
     "term": "Lock in",
     "definition": "Focus intensely and get it done",
     "example": "Two weeks to the exam — time to lock in."
   },
   {
-    "id": 79,
+    "id": 75,
     "term": "Demure",
     "definition": "Modest and understated, said semi-ironically",
     "example": "Very demure, very mindful."
   },
   {
-    "id": 80,
-    "term": "Brat",
-    "definition": "Boldly messy and unapologetically fun",
-    "example": "It was a very brat summer."
-  },
-  {
-    "id": 81,
+    "id": 76,
     "term": "Glazing",
     "definition": "Praising someone far beyond what they deserve",
     "example": "Stop glazing, he only scored once."
   },
   {
-    "id": 82,
+    "id": 77,
     "term": "Yapping",
     "definition": "Talking far too much about nothing",
     "example": "He's been yapping about that car all afternoon."
   },
   {
-    "id": 83,
+    "id": 78,
     "term": "Aura",
     "definition": "The intangible cool you gain or lose by your actions",
     "example": "Tripping on stage cost him serious aura."
   },
   {
-    "id": 84,
+    "id": 79,
     "term": "Aura farming",
     "definition": "Doing things purely to look effortlessly cool",
     "example": "Slow-motion sunglasses in the rain is pure aura farming."
   },
   {
-    "id": 85,
+    "id": 80,
     "term": "Looksmaxxing",
     "definition": "Systematically trying to improve your appearance",
     "example": "Skincare, gym, haircut — he's looksmaxxing."
   },
   {
-    "id": 86,
+    "id": 81,
     "term": "Brainrot",
     "definition": "Low-quality content that leaves you mentally mushy",
     "example": "Two hours of shorts is proper brainrot."
   },
   {
-    "id": 87,
+    "id": 82,
     "term": "Rage bait",
     "definition": "Content designed purely to make you angry enough to reply",
     "example": "Don't answer, it's rage bait."
   },
   {
-    "id": 88,
+    "id": 83,
     "term": "Goblin mode",
     "definition": "Unashamedly slobbish, unkempt behaviour",
     "example": "Full goblin mode all weekend — crisps and no curtains."
   },
   {
-    "id": 89,
+    "id": 84,
     "term": "Bed rotting",
     "definition": "Staying in bed all day on purpose to recover",
     "example": "Sunday was pure bed rotting."
   },
   {
-    "id": 90,
+    "id": 85,
     "term": "Girl dinner",
     "definition": "A meal assembled from odds and ends rather than cooked",
     "example": "Cheese, olives and half a pepper — girl dinner."
   },
   {
-    "id": 91,
+    "id": 86,
     "term": "Quiet quitting",
     "definition": "Doing your job to the letter and not a minute more",
     "example": "After the pay freeze, half the team started quiet quitting."
   },
   {
-    "id": 92,
-    "term": "Gagged",
-    "definition": "Utterly stunned",
-    "example": "I was gagged when they announced the winner."
-  },
-  {
-    "id": 93,
+    "id": 87,
     "term": "Opp",
     "definition": "An opponent or enemy",
     "example": "Don't tell him anything, he's an opp."
   },
   {
-    "id": 94,
-    "term": "Chopped",
-    "definition": "Unattractive or badly done",
-    "example": "That haircut is chopped, mate."
-  },
-  {
-    "id": 95,
-    "term": "Zesty",
-    "definition": "Flamboyant or exaggerated in manner",
-    "example": "His celebration was a bit zesty."
-  },
-  {
-    "id": 96,
-    "term": "Gyaru",
-    "definition": "A bold, heavily styled fashion look from Japan",
-    "example": "Her make-up is full gyaru."
-  },
-  {
-    "id": 97,
+    "id": 88,
     "term": "Unalive",
     "definition": "Died or killed — a euphemism used to dodge filters",
     "example": "The video said \"unalived\" to get past moderation."
   },
   {
-    "id": 98,
+    "id": 89,
     "term": "Pookie",
     "definition": "An affectionate nickname for someone dear",
     "example": "Morning, pookie."
   },
   {
-    "id": 99,
+    "id": 90,
     "term": "Devious lick",
     "definition": "A prank theft done for online clout",
     "example": "The devious lick trend got half a school suspended."
   },
   {
-    "id": 100,
+    "id": 91,
     "term": "Ok boomer",
     "definition": "A dismissal of an out-of-touch older opinion",
     "example": "He complained about phones again — ok boomer."
+  },
+  {
+    "id": 92,
+    "term": "Slept on",
+    "definition": "Underrated; unfairly overlooked",
+    "example": "That second album was completely slept on."
+  },
+  {
+    "id": 93,
+    "term": "Cheugy",
+    "definition": "Out of date, or trying too hard to be trendy",
+    "example": "Skinny jeans and a side parting? A bit cheugy now."
+  },
+  {
+    "id": 94,
+    "term": "Doomscrolling",
+    "definition": "Scrolling endlessly through bad news you can't do anything about",
+    "example": "I was doomscrolling until two in the morning."
+  },
+  {
+    "id": 95,
+    "term": "Catfish",
+    "definition": "Someone using a fake identity online to fool people",
+    "example": "The photos were fifteen years old — total catfish."
+  },
+  {
+    "id": 96,
+    "term": "Clapback",
+    "definition": "A sharp, well-aimed reply to criticism",
+    "example": "Her clapback got more likes than the insult."
+  },
+  {
+    "id": 97,
+    "term": "Throw shade",
+    "definition": "Insult someone subtly rather than openly",
+    "example": "She threw shade at the whole department without naming anyone."
+  },
+  {
+    "id": 98,
+    "term": "Gatekeep",
+    "definition": "Withhold information to keep something exclusive",
+    "example": "Just tell us which shop it's from and stop gatekeeping."
+  },
+  {
+    "id": 99,
+    "term": "Talking stage",
+    "definition": "The early phase of messaging someone before you're actually dating",
+    "example": "They've been in the talking stage since April."
+  },
+  {
+    "id": 100,
+    "term": "Clout chasing",
+    "definition": "Doing things purely to gain online fame",
+    "example": "Filming the argument was pure clout chasing."
   }
 ];
 window.QM_IDIOMSOBSCURE_DATA = [
