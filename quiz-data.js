@@ -18372,6 +18372,11 @@ window.QM_MRMEN_DATA = [
     "id": "mrmen_nobody",
     "name": "Mr Nobody",
     "imageUrl": ""
+  },
+  {
+    "id": "mrmen_christmas",
+    "name": "Mr Christmas",
+    "imageUrl": ""
   }
 ];
 window.QM_LITTLEMISS_DATA = [
