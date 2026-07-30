@@ -2513,22 +2513,6 @@ window.QM_FLAGS_DATA = [
   }
 ];
 window.QM_HIDDEN_QUIZZES = [
-  "no1s5259",
-  "no1s6064",
-  "no1s6569",
-  "no1s7074",
-  "no1s7579",
-  "no1s8084",
-  "no1s8589",
-  "no1s9095",
-  "no1s9699",
-  "no1s0002",
-  "no1s0306",
-  "no1s0710",
-  "no1s1113",
-  "no1s1416",
-  "no1s1719",
-  "no1s2026",
   "male60s",
   "startrek",
   "female70s",
