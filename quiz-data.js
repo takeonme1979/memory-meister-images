@@ -7376,15 +7376,6 @@ window.QM_MALE80S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/tom-bailey.jpg"
   },
   {
-    "id": "id_1783813717017_kt9au88pw7",
-    "name": "Jackie Wilson",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/jackie-wilson.jpg",
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
-  },
-  {
     "id": "id_1783813717017_9y6vkf9ajk",
     "name": "Eddy Grant",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/eddy-grant.jpg"
@@ -7450,11 +7441,6 @@ window.QM_MALE80S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/martin-fry.jpg"
   },
   {
-    "id": "id_1783813717017_lz4zoho6ui",
-    "name": "Bob Marley (Bob Marley and the Wailers)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/bob-marley.jpg"
-  },
-  {
     "id": "id_1783813717017_x7bnrpjwpd",
     "name": "Noddy Holder (Slade)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/noddy-holder.jpg"
@@ -7501,6 +7487,30 @@ window.QM_MALE80S_DATA = [
     "id": "id_1783876338044_robertsmith",
     "name": "Robert Smith",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/robert-smith.jpg"
+  },
+  {
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "id": "id_1783716276549_billyidol",
+    "name": "Billy Idol",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/billy-idol.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "id": "id_1783716276549_robertpalm",
+    "name": "Robert Palmer",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/robert-palmer.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   }
 ];
 window.QM_FEMALE80S_DATA = [
