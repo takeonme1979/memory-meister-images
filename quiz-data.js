@@ -2513,6 +2513,23 @@ window.QM_FLAGS_DATA = [
   }
 ];
 window.QM_HIDDEN_QUIZZES = [
+  "no1s5259",
+  "no1s6064",
+  "no1s6569",
+  "no1s7074",
+  "no1s7579",
+  "no1s8084",
+  "no1s8589",
+  "no1s9095",
+  "no1s9699",
+  "no1s0002",
+  "no1s0306",
+  "no1s0710",
+  "no1s1113",
+  "no1s1416",
+  "no1s1719",
+  "no1s2026",
+  "idiomsObscure2",
   "male60s",
   "startrek",
   "female70s",
@@ -2562,7 +2579,6 @@ window.QM_HIDDEN_QUIZZES = [
   "huIdioms",
   "roIdioms",
   "ltIdioms",
-  "ukIdioms",
   "csIdioms",
   "ukAnimals",
   "ukFoods",
@@ -41348,6 +41364,9418 @@ window.QM_IDIOMSOBSCURE_DATA = [
     "id": 100
   }
 ];
+window.QM_IDIOMSOBSCURE2_DATA = [
+  {
+    "id": 1,
+    "term": "All my eye and Betty Martin",
+    "definition": "Utter nonsense",
+    "example": "He swam the Channel? All my eye and Betty Martin."
+  },
+  {
+    "id": 2,
+    "term": "Below the salt",
+    "definition": "Among the lower ranks, away from the seats of honour",
+    "example": "The junior staff were seated firmly below the salt."
+  },
+  {
+    "id": 3,
+    "term": "Bell the cat",
+    "definition": "Take on the dangerous job nobody else will",
+    "example": "Everyone agreed the boss had to be told, but nobody would bell the cat."
+  },
+  {
+    "id": 4,
+    "term": "Box clever",
+    "definition": "Get your way by cunning rather than by force",
+    "example": "Outnumbered on the committee, she had to box clever."
+  },
+  {
+    "id": 5,
+    "term": "Clap eyes on someone",
+    "definition": "Catch sight of them",
+    "example": "I haven't clapped eyes on him since school."
+  },
+  {
+    "id": 6,
+    "term": "Cook someone's goose",
+    "definition": "Ruin their chances for good",
+    "example": "That leaked email cooked his goose."
+  },
+  {
+    "id": 7,
+    "term": "Cool your heels",
+    "definition": "Be left waiting",
+    "example": "They left us cooling our heels in reception for an hour."
+  },
+  {
+    "id": 8,
+    "term": "Dead as a dodo",
+    "definition": "Completely obsolete",
+    "example": "Fax machines are as dead as a dodo."
+  },
+  {
+    "id": 9,
+    "term": "Do a moonlight flit",
+    "definition": "Move out secretly by night to escape debts",
+    "example": "The tenants did a moonlight flit owing three months' rent."
+  },
+  {
+    "id": 10,
+    "term": "Draw the long bow",
+    "definition": "Exaggerate wildly",
+    "example": "Forty pounds of salmon? He's drawing the long bow again."
+  },
+  {
+    "id": 11,
+    "term": "Drop a clanger",
+    "definition": "Make a glaring, embarrassing blunder",
+    "example": "I dropped a clanger and asked after his wife — they divorced last year."
+  },
+  {
+    "id": 12,
+    "term": "A face like a wet weekend",
+    "definition": "A thoroughly miserable expression",
+    "example": "Cheer up — you've got a face like a wet weekend."
+  },
+  {
+    "id": 13,
+    "term": "Fair to middling",
+    "definition": "Only moderately good",
+    "example": "How's business? Fair to middling."
+  },
+  {
+    "id": 14,
+    "term": "Fall off the back of a lorry",
+    "definition": "Be come by dishonestly",
+    "example": "That television fell off the back of a lorry, if you ask me."
+  },
+  {
+    "id": 15,
+    "term": "Feet of clay",
+    "definition": "A hidden weakness in someone you looked up to",
+    "example": "Every hero turns out to have feet of clay."
+  },
+  {
+    "id": 16,
+    "term": "Get someone's dander up",
+    "definition": "Make someone angry",
+    "example": "Mention parking charges and you'll get his dander up."
+  },
+  {
+    "id": 17,
+    "term": "Give someone the elbow",
+    "definition": "Get rid of someone",
+    "example": "The club gave their manager the elbow after five defeats."
+  },
+  {
+    "id": 18,
+    "term": "Go off at half cock",
+    "definition": "Start too soon and fail as a result",
+    "example": "The campaign went off at half cock before the funding was agreed."
+  },
+  {
+    "id": 19,
+    "term": "Gone west",
+    "definition": "Lost, broken or finished for good",
+    "example": "My phone went in the river, so that's fifty quid gone west."
+  },
+  {
+    "id": 20,
+    "term": "Hard cheese",
+    "definition": "Hard luck — said with very little sympathy",
+    "example": "Missed the last train? Hard cheese."
+  },
+  {
+    "id": 21,
+    "term": "Have a rod in pickle for someone",
+    "definition": "Have a punishment stored up ready for them",
+    "example": "The head has a rod in pickle for whoever set off the alarm."
+  },
+  {
+    "id": 22,
+    "term": "Have kittens",
+    "definition": "Be beside yourself with anxiety",
+    "example": "My mother had kittens when I said I was hitchhiking."
+  },
+  {
+    "id": 23,
+    "term": "Have someone's guts for garters",
+    "definition": "Punish someone severely",
+    "example": "If he scratches that car I'll have his guts for garters."
+  },
+  {
+    "id": 24,
+    "term": "Have the whip hand",
+    "definition": "Hold the controlling advantage",
+    "example": "With the debt in her name, the bank has the whip hand."
+  },
+  {
+    "id": 25,
+    "term": "Horses for courses",
+    "definition": "Different people suit different tasks",
+    "example": "He's wasted on paperwork — horses for courses."
+  },
+  {
+    "id": 26,
+    "term": "In a cleft stick",
+    "definition": "Caught between two equally bad choices",
+    "example": "Resign or be sacked — he was in a cleft stick."
+  },
+  {
+    "id": 27,
+    "term": "In clover",
+    "definition": "Living in comfort and ease",
+    "example": "One good harvest and they were in clover."
+  },
+  {
+    "id": 28,
+    "term": "In Queer Street",
+    "definition": "In serious financial difficulty",
+    "example": "Another bad quarter and the firm is in Queer Street."
+  },
+  {
+    "id": 29,
+    "term": "In the pink",
+    "definition": "In the very best of health",
+    "example": "Eighty next month and still in the pink."
+  },
+  {
+    "id": 30,
+    "term": "In the soup",
+    "definition": "In serious trouble",
+    "example": "Lose these figures and we're all in the soup."
+  },
+  {
+    "id": 31,
+    "term": "Keep your hair on",
+    "definition": "Calm down",
+    "example": "Keep your hair on — I only borrowed the pen."
+  },
+  {
+    "id": 32,
+    "term": "Knee-high to a grasshopper",
+    "definition": "Very small, or very young",
+    "example": "I've known him since he was knee-high to a grasshopper."
+  },
+  {
+    "id": 33,
+    "term": "Laugh up your sleeve",
+    "definition": "Be secretly amused",
+    "example": "He kept a straight face, but he was laughing up his sleeve."
+  },
+  {
+    "id": 34,
+    "term": "Lie doggo",
+    "definition": "Keep still and out of sight",
+    "example": "Best to lie doggo until the fuss dies down."
+  },
+  {
+    "id": 35,
+    "term": "Like a dog with two tails",
+    "definition": "Absolutely delighted",
+    "example": "He was like a dog with two tails when the baby arrived."
+  },
+  {
+    "id": 36,
+    "term": "Like billy-o",
+    "definition": "With great force or speed",
+    "example": "It was raining like billy-o all the way home."
+  },
+  {
+    "id": 37,
+    "term": "Live in cloud-cuckoo-land",
+    "definition": "Hold hopelessly unrealistic beliefs",
+    "example": "Anyone expecting a refund is living in cloud-cuckoo-land."
+  },
+  {
+    "id": 38,
+    "term": "Lose your bottle",
+    "definition": "Lose your nerve",
+    "example": "He lost his bottle at the top of the diving board."
+  },
+  {
+    "id": 39,
+    "term": "Make a pig's ear of something",
+    "definition": "Botch it thoroughly",
+    "example": "I made a pig's ear of the wallpapering."
+  },
+  {
+    "id": 40,
+    "term": "A man of straw",
+    "definition": "A sham opponent or argument, set up to be knocked down",
+    "example": "His objection was a man of straw and he knew it."
+  },
+  {
+    "id": 41,
+    "term": "A nine days' wonder",
+    "definition": "A sensation that is quickly forgotten",
+    "example": "The scandal turned out to be a nine days' wonder."
+  },
+  {
+    "id": 42,
+    "term": "No flies on him",
+    "definition": "He is nobody's fool",
+    "example": "There are no flies on her — she read the small print."
+  },
+  {
+    "id": 43,
+    "term": "Not a sausage",
+    "definition": "Nothing at all",
+    "example": "I looked in the tin and there was not a sausage."
+  },
+  {
+    "id": 44,
+    "term": "Not much cop",
+    "definition": "Not very good; disappointing",
+    "example": "The sequel wasn't much cop."
+  },
+  {
+    "id": 45,
+    "term": "Not on your nelly",
+    "definition": "Certainly not",
+    "example": "Lend him the car? Not on your nelly."
+  },
+  {
+    "id": 46,
+    "term": "Off colour",
+    "definition": "Slightly unwell",
+    "example": "She's a bit off colour today, so she's staying at home."
+  },
+  {
+    "id": 47,
+    "term": "On the tiles",
+    "definition": "Out for a long night of drinking",
+    "example": "He looks rough after a night on the tiles."
+  },
+  {
+    "id": 48,
+    "term": "Play gooseberry",
+    "definition": "Be the unwanted third person on a couple's outing",
+    "example": "I'm not coming to dinner just to play gooseberry."
+  },
+  {
+    "id": 49,
+    "term": "Plough your own furrow",
+    "definition": "Go your own way regardless of everyone else",
+    "example": "She left the firm to plough her own furrow."
+  },
+  {
+    "id": 50,
+    "term": "Pop your clogs",
+    "definition": "Die",
+    "example": "He wants the money spent before he pops his clogs."
+  },
+  {
+    "id": 51,
+    "term": "Pour cold water on something",
+    "definition": "Dampen enthusiasm for it",
+    "example": "The finance director poured cold water on the plan."
+  },
+  {
+    "id": 52,
+    "term": "Put someone's nose out of joint",
+    "definition": "Offend them by pushing them aside",
+    "example": "The new deputy put a few noses out of joint."
+  },
+  {
+    "id": 53,
+    "term": "Put the mockers on something",
+    "definition": "Jinx it",
+    "example": "Don't say we'll win — you'll put the mockers on it."
+  },
+  {
+    "id": 54,
+    "term": "Ride roughshod over someone",
+    "definition": "Override them with brutal disregard",
+    "example": "The council rode roughshod over local objections."
+  },
+  {
+    "id": 55,
+    "term": "Ring the changes",
+    "definition": "Vary the routine for the sake of variety",
+    "example": "They ring the changes on the menu every spring."
+  },
+  {
+    "id": 56,
+    "term": "A rough diamond",
+    "definition": "Good-hearted under unpolished manners",
+    "example": "He swears like a docker, but he's a rough diamond."
+  },
+  {
+    "id": 57,
+    "term": "Run with the hare and hunt with the hounds",
+    "definition": "Support both sides of a dispute at once",
+    "example": "You can't run with the hare and hunt with the hounds forever."
+  },
+  {
+    "id": 58,
+    "term": "Sell someone down the river",
+    "definition": "Betray them for your own advantage",
+    "example": "He sold his colleagues down the river to keep his job."
+  },
+  {
+    "id": 59,
+    "term": "Set your cap at someone",
+    "definition": "Set out deliberately to win their affection",
+    "example": "She's set her cap at the new curate."
+  },
+  {
+    "id": 60,
+    "term": "A shot across the bows",
+    "definition": "A warning that worse will follow",
+    "example": "The fine was only a shot across the bows."
+  },
+  {
+    "id": 61,
+    "term": "Sing for your supper",
+    "definition": "Have to earn what you are given",
+    "example": "Guests on that show have to sing for their supper."
+  },
+  {
+    "id": 62,
+    "term": "Sit on your hands",
+    "definition": "Do nothing when action is needed",
+    "example": "The board sat on its hands while sales collapsed."
+  },
+  {
+    "id": 63,
+    "term": "Sound as a bell",
+    "definition": "In perfect condition",
+    "example": "Ten years old and the engine's sound as a bell."
+  },
+  {
+    "id": 64,
+    "term": "Sow your wild oats",
+    "definition": "Get youthful excesses out of the way",
+    "example": "He sowed his wild oats and then settled down."
+  },
+  {
+    "id": 65,
+    "term": "Spin a yarn",
+    "definition": "Tell a long, embroidered story",
+    "example": "Grandad could spin a yarn for hours."
+  },
+  {
+    "id": 66,
+    "term": "Stick your oar in",
+    "definition": "Interfere when nobody asked you to",
+    "example": "Nobody asked you to stick your oar in."
+  },
+  {
+    "id": 67,
+    "term": "Straining at the leash",
+    "definition": "Impatient to be let loose",
+    "example": "The young players are straining at the leash."
+  },
+  {
+    "id": 68,
+    "term": "Swear blind",
+    "definition": "Insist absolutely that something is true",
+    "example": "He swore blind he'd posted the letter."
+  },
+  {
+    "id": 69,
+    "term": "Take the King's shilling",
+    "definition": "Enlist — or take money that ties you to someone",
+    "example": "He took the King's shilling at seventeen."
+  },
+  {
+    "id": 70,
+    "term": "Take umbrage",
+    "definition": "Take offence",
+    "example": "She took umbrage at being left off the list."
+  },
+  {
+    "id": 71,
+    "term": "That's the ticket",
+    "definition": "That's exactly what's wanted",
+    "example": "Tea and a sit down — that's the ticket."
+  },
+  {
+    "id": 72,
+    "term": "The boot is on the other foot",
+    "definition": "The positions are now reversed",
+    "example": "Now that she's the boss, the boot is on the other foot."
+  },
+  {
+    "id": 73,
+    "term": "There's the rub",
+    "definition": "That is precisely the difficulty",
+    "example": "We need the money to make the money — there's the rub."
+  },
+  {
+    "id": 74,
+    "term": "To the bitter end",
+    "definition": "Right to the finish, however grim it gets",
+    "example": "They fought the case to the bitter end."
+  },
+  {
+    "id": 75,
+    "term": "Tickled pink",
+    "definition": "Hugely pleased",
+    "example": "She was tickled pink to be asked."
+  },
+  {
+    "id": 76,
+    "term": "Trip the light fantastic",
+    "definition": "Dance",
+    "example": "They were tripping the light fantastic until two in the morning."
+  },
+  {
+    "id": 77,
+    "term": "Under a cloud",
+    "definition": "In disgrace, or under suspicion",
+    "example": "He left the company under a cloud."
+  },
+  {
+    "id": 78,
+    "term": "Up to snuff",
+    "definition": "Of the required standard",
+    "example": "The paperwork wasn't up to snuff."
+  },
+  {
+    "id": 79,
+    "term": "A word in your shell-like",
+    "definition": "A quiet, private word in your ear",
+    "example": "A word in your shell-like before you sign that."
+  },
+  {
+    "id": 80,
+    "term": "Worth your salt",
+    "definition": "Competent — worth what you are paid",
+    "example": "Any electrician worth his salt would check the earth."
+  },
+  {
+    "id": 81,
+    "term": "You can't make a silk purse out of a sow's ear",
+    "definition": "Poor material cannot be made into something fine",
+    "example": "No amount of editing helped — you can't make a silk purse out of a sow's ear."
+  },
+  {
+    "id": 82,
+    "term": "Any port in a storm",
+    "definition": "In real trouble, any refuge will do",
+    "example": "The sofa isn't ideal, but it's any port in a storm."
+  },
+  {
+    "id": 83,
+    "term": "Beard the lion in his den",
+    "definition": "Confront someone on their own ground",
+    "example": "She bearded the lion in his den and asked for a raise."
+  },
+  {
+    "id": 84,
+    "term": "Cast pearls before swine",
+    "definition": "Offer something fine to those who cannot value it",
+    "example": "Serving that wine to them is casting pearls before swine."
+  },
+  {
+    "id": 85,
+    "term": "Cross the Rubicon",
+    "definition": "Pass the point of no return",
+    "example": "Signing the contract crossed the Rubicon."
+  },
+  {
+    "id": 86,
+    "term": "Fiddle while Rome burns",
+    "definition": "Busy yourself with trifles while disaster unfolds",
+    "example": "Redesigning the logo now is fiddling while Rome burns."
+  },
+  {
+    "id": 87,
+    "term": "Gird your loins",
+    "definition": "Brace yourself for something demanding",
+    "example": "Gird your loins — the auditors arrive tomorrow."
+  },
+  {
+    "id": 88,
+    "term": "A Pyrrhic victory",
+    "definition": "A win that costs more than it was worth",
+    "example": "They won the appeal, but at that price it was a Pyrrhic victory."
+  },
+  {
+    "id": 89,
+    "term": "A sword of Damocles",
+    "definition": "A disaster hanging over you at every moment",
+    "example": "The loan hung over them like a sword of Damocles."
+  },
+  {
+    "id": 90,
+    "term": "The die is cast",
+    "definition": "The decision is made and cannot be undone",
+    "example": "The papers are filed — the die is cast."
+  },
+  {
+    "id": 91,
+    "term": "He who pays the piper calls the tune",
+    "definition": "Whoever provides the money makes the rules",
+    "example": "The sponsors chose the venue: he who pays the piper calls the tune."
+  },
+  {
+    "id": 92,
+    "term": "A Heath Robinson contraption",
+    "definition": "An absurdly makeshift machine",
+    "example": "He rigged up a Heath Robinson contraption of string and coat hangers."
+  },
+  {
+    "id": 93,
+    "term": "As keen as mustard",
+    "definition": "Extremely enthusiastic",
+    "example": "The new apprentice is as keen as mustard."
+  },
+  {
+    "id": 94,
+    "term": "Bold as brass",
+    "definition": "Brazenly unabashed",
+    "example": "He walked in bold as brass and helped himself to the coffee."
+  },
+  {
+    "id": 95,
+    "term": "Chance would be a fine thing",
+    "definition": "I'd love to, but there's no prospect of it",
+    "example": "A lie-in? Chance would be a fine thing."
+  },
+  {
+    "id": 96,
+    "term": "Happy as Larry",
+    "definition": "Perfectly content",
+    "example": "Give him a jigsaw and he's happy as Larry."
+  },
+  {
+    "id": 97,
+    "term": "Pigs might fly",
+    "definition": "That is never going to happen",
+    "example": "He'll be on time? Pigs might fly."
+  },
+  {
+    "id": 98,
+    "term": "Six of one and half a dozen of the other",
+    "definition": "There is no real difference between the two",
+    "example": "Train or coach, it's six of one and half a dozen of the other."
+  },
+  {
+    "id": 99,
+    "term": "The whole shooting match",
+    "definition": "The entire thing, all of it",
+    "example": "The fire took the workshop, the stock, the whole shooting match."
+  },
+  {
+    "id": 100,
+    "term": "A lick and a promise",
+    "definition": "A hasty, superficial effort",
+    "example": "The kitchen got a lick and a promise before the guests arrived."
+  }
+];
+window.QM_NO1S5259_DATA = [
+  {
+    "id": 1,
+    "term": "Here in My Heart",
+    "definition": "Al Martino",
+    "example": "1952 · 9 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "You Belong to Me",
+    "definition": "Jo Stafford",
+    "example": "1953 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Comes A-Long A-Love",
+    "definition": "Kay Starr",
+    "example": "1953 · 1 week at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Outside of Heaven",
+    "definition": "Eddie Fisher",
+    "example": "1953 · 1 week at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Don't Let the Stars Get in Your Eyes",
+    "definition": "Perry Como and the Ramblers",
+    "example": "1953 · 5 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "She Wears Red Feathers",
+    "definition": "Guy Mitchell",
+    "example": "1953 · 4 weeks at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Broken Wings",
+    "definition": "Stargazers",
+    "example": "1953 · 1 week at No.1"
+  },
+  {
+    "id": 8,
+    "term": "(How Much Is) That Doggie in the Window",
+    "definition": "Lita Roza",
+    "example": "1953 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "I Believe",
+    "definition": "Frankie Laine",
+    "example": "1953 · 18 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "I'm Walking Behind You",
+    "definition": "Eddie Fisher With Sally Sweetland",
+    "example": "1953 · 1 week at No.1"
+  },
+  {
+    "id": 11,
+    "term": "The Song From the Moulin Rouge",
+    "definition": "Mantovani",
+    "example": "1953 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Look at That Girl",
+    "definition": "Guy Mitchell",
+    "example": "1953 · 6 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Hey Joe",
+    "definition": "Frankie Laine",
+    "example": "1953 · 2 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Answer Me",
+    "definition": "David Whitfield",
+    "example": "1953 · 1 week at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Answer Me",
+    "definition": "Frankie Laine",
+    "example": "1953 · 8 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Oh Mein Papa",
+    "definition": "Eddie Calvert",
+    "example": "1954 · 9 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "I See the Moon",
+    "definition": "Stargazers",
+    "example": "1954 · 6 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Secret Love",
+    "definition": "Doris Day",
+    "example": "1954 · 9 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Such a Night",
+    "definition": "Johnnie Ray",
+    "example": "1954 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Cara Mia",
+    "definition": "David Whitfield With Mantovani and His Orchestra",
+    "example": "1954 · 10 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Little Things Mean a Lot",
+    "definition": "Kitty Kallen",
+    "example": "1954 · 1 week at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Three Coins in the Fountain",
+    "definition": "Frank Sinatra",
+    "example": "1954 · 3 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Hold My Hand",
+    "definition": "Don Cornell",
+    "example": "1954 · 5 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "My Son My Son",
+    "definition": "Vera Lynn",
+    "example": "1954 · 2 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "This Ole House",
+    "definition": "Rosemary Clooney",
+    "example": "1954 · 1 week at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Let's Have Another Party",
+    "definition": "Winifred Atwell",
+    "example": "1954 · 5 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "The Finger of Suspicion",
+    "definition": "Dickie Valentine With the Stargazers",
+    "example": "1955 · 3 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Mambo Italiano",
+    "definition": "Rosemary Clooney and the Mellomen",
+    "example": "1955 · 3 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Softly Softly",
+    "definition": "Ruby Murray",
+    "example": "1955 · 3 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Give Me Your Word",
+    "definition": "Tennessee Ernie Ford",
+    "example": "1955 · 7 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Cherry Pink and Apple Blossom White",
+    "definition": "Perez Prado And His Orchestra",
+    "example": "1955 · 2 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Stranger in Paradise",
+    "definition": "Tony Bennett",
+    "example": "1955 · 2 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Cherry Pink and Apple Blossom White",
+    "definition": "Eddie Calvert",
+    "example": "1955 · 4 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Unchained Melody",
+    "definition": "Jimmy Young",
+    "example": "1955 · 3 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Dreamboat",
+    "definition": "Alma Cogan",
+    "example": "1955 · 2 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Rose Marie",
+    "definition": "Slim Whitman",
+    "example": "1955 · 11 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "The Man From Laramie",
+    "definition": "Jimmy Young",
+    "example": "1955 · 4 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Hernando's Hideaway",
+    "definition": "Johnston Brothers",
+    "example": "1955 · 2 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Rock Around the Clock",
+    "definition": "Bill Haley and His Comets",
+    "example": "1955 · 5 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Christmas Alphabet",
+    "definition": "Dickie Valentine",
+    "example": "1955 · 3 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Sixteen Tons",
+    "definition": "Tennessee Ernie Ford",
+    "example": "1956 · 4 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Memories Are Made of This",
+    "definition": "Dean Martin",
+    "example": "1956 · 4 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "It's Almost Tomorrow",
+    "definition": "Dreamweavers",
+    "example": "1956 · 3 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Rock and Roll Waltz",
+    "definition": "Kay Starr",
+    "example": "1956 · 1 week at No.1"
+  },
+  {
+    "id": 45,
+    "term": "The Poor People of Paris",
+    "definition": "Winifred Atwell",
+    "example": "1956 · 3 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "No Other Love",
+    "definition": "Ronnie Hilton",
+    "example": "1956 · 6 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "I'll Be Home",
+    "definition": "Pat Boone",
+    "example": "1956 · 5 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Why Do Fools Fall in Love",
+    "definition": "Teenagers Featuring Frankie Lymon",
+    "example": "1956 · 3 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Whatever Will Be Will Be (Que Sera Sera)",
+    "definition": "Doris Day",
+    "example": "1956 · 6 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Lay Down Your Arms",
+    "definition": "Anne Shelton",
+    "example": "1956 · 4 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "A Woman in Love",
+    "definition": "Frankie Laine",
+    "example": "1956 · 4 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Just Walkin' in the Rain",
+    "definition": "Johnnie Ray",
+    "example": "1956 · 7 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Singing the Blues",
+    "definition": "Guy Mitchell",
+    "example": "1957 · 2 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Singing the Blues",
+    "definition": "Tommy Steele and the Steelmen",
+    "example": "1957 · 1 week at No.1"
+  },
+  {
+    "id": 55,
+    "term": "The Garden Of Eden",
+    "definition": "Frankie Vaughan",
+    "example": "1957 · 4 weeks at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Young Love",
+    "definition": "Tab Hunter",
+    "example": "1957 · 7 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Cumberland Gap",
+    "definition": "Lonnie Donegan",
+    "example": "1957 · 5 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Rock-A-Billy",
+    "definition": "Guy Mitchell",
+    "example": "1957 · 1 week at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Butterfly",
+    "definition": "Andy Williams",
+    "example": "1957 · 2 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Yes Tonight Josephine",
+    "definition": "Johnnie Ray",
+    "example": "1957 · 3 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Gamblin' Man/Putting On The Style",
+    "definition": "Lonnie Donegan",
+    "example": "1957 · 2 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "All Shook Up",
+    "definition": "Elvis Presley",
+    "example": "1957 · 7 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Diana",
+    "definition": "Paul Anka",
+    "example": "1957 · 9 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "That'll Be The Day",
+    "definition": "The Crickets",
+    "example": "1957 · 3 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Mary's Boy Child",
+    "definition": "Harry Belafonte",
+    "example": "1957 · 7 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Great Balls Of Fire",
+    "definition": "Jerry Lee Lewis",
+    "example": "1958 · 2 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Jailhouse Rock",
+    "definition": "Elvis Presley",
+    "example": "1958 · 3 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "The Story Of My Life",
+    "definition": "Michael Holliday",
+    "example": "1958 · 2 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Magic Moments",
+    "definition": "Perry Como",
+    "example": "1958 · 8 weeks at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Whole Lotta Woman",
+    "definition": "Marvin Rainwater",
+    "example": "1958 · 3 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Who's Sorry Now",
+    "definition": "Connie Francis",
+    "example": "1958 · 6 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "On The Street Where You Live",
+    "definition": "Vic Damone",
+    "example": "1958 · 1 week at No.1"
+  },
+  {
+    "id": 73,
+    "term": "All I Have To Do Is Dream/Claudette",
+    "definition": "The Everly Brothers",
+    "example": "1958 · 7 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "When",
+    "definition": "Kalin Twins",
+    "example": "1958 · 5 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Stupid Cupid/Carolina Moon",
+    "definition": "Connie Francis",
+    "example": "1958 · 6 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "It's All In The Game",
+    "definition": "Tommy Edwards",
+    "example": "1958 · 3 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Hoots Mon",
+    "definition": "Lord Rockingham's XI",
+    "example": "1958 · 3 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "It's Only Make Believe",
+    "definition": "Conway Twitty",
+    "example": "1958 · 5 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "The Day The Rains Came",
+    "definition": "Jane Morgan",
+    "example": "1959 · 1 week at No.1"
+  },
+  {
+    "id": 80,
+    "term": "One Night/I Got Stung",
+    "definition": "Elvis Presley",
+    "example": "1959 · 3 weeks at No.1"
+  },
+  {
+    "id": 81,
+    "term": "As I Love You",
+    "definition": "Shirley Bassey",
+    "example": "1959 · 4 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Smoke Gets In Your Eyes",
+    "definition": "The Platters",
+    "example": "1959 · 1 week at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Side Saddle",
+    "definition": "Russ Conway",
+    "example": "1959 · 4 weeks at No.1"
+  },
+  {
+    "id": 84,
+    "term": "It Doesn't Matter Anymore",
+    "definition": "Buddy Holly",
+    "example": "1959 · 3 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "A Fool Such As I/I Need Your Love Tonight",
+    "definition": "Elvis Presley",
+    "example": "1959 · 5 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "Roulette",
+    "definition": "Russ Conway",
+    "example": "1959 · 2 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Dream Lover",
+    "definition": "Bobby Darin",
+    "example": "1959 · 4 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Living Doll",
+    "definition": "Cliff Richard and the Drifters",
+    "example": "1959 · 6 weeks at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Only Sixteen",
+    "definition": "Craig Douglas",
+    "example": "1959 · 4 weeks at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Here Comes Summer",
+    "definition": "Jerry Keller",
+    "example": "1959 · 1 week at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Mack The Knife",
+    "definition": "Bobby Darin",
+    "example": "1959 · 2 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "Travellin' Light",
+    "definition": "Cliff Richard and The Shadows",
+    "example": "1959 · 5 weeks at No.1"
+  },
+  {
+    "id": 93,
+    "term": "What Do You Want?",
+    "definition": "Adam Faith",
+    "example": "1959 · 3 weeks at No.1"
+  },
+  {
+    "id": 94,
+    "term": "What Do You Want to Make Those Eyes at Me For?",
+    "definition": "Emile Ford and the Checkmates",
+    "example": "1959 · 6 weeks at No.1"
+  }
+];
+window.QM_NO1S6064_DATA = [
+  {
+    "id": 1,
+    "term": "Starry Eyed",
+    "definition": "Michael Holliday",
+    "example": "1960 · 1 week at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Why",
+    "definition": "Anthony Newley",
+    "example": "1960 · 4 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Poor Me",
+    "definition": "Adam Faith",
+    "example": "1960 · 2 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Running Bear",
+    "definition": "Johnny Preston",
+    "example": "1960 · 2 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "My Old Man's A Dustman",
+    "definition": "Lonnie Donegan",
+    "example": "1960 · 4 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Do You Mind?",
+    "definition": "Anthony Newley",
+    "example": "1960 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Cathy's Clown",
+    "definition": "The Everly Brothers",
+    "example": "1960 · 7 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Three Steps To Heaven",
+    "definition": "Eddie Cochran",
+    "example": "1960 · 2 weeks at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Good Timin'",
+    "definition": "Jimmy Jones",
+    "example": "1960 · 3 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Please Don't Tease",
+    "definition": "Cliff Richard",
+    "example": "1960 · 3 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Shakin' All Over",
+    "definition": "Johnny Kidd & the Pirates",
+    "example": "1960 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Apache",
+    "definition": "The Shadows",
+    "example": "1960 · 5 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Tell Laura I Love Her",
+    "definition": "Ricky Valance",
+    "example": "1960 · 3 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Only The Lonely",
+    "definition": "Roy Orbison",
+    "example": "1960 · 2 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "It's Now or Never",
+    "definition": "Elvis Presley",
+    "example": "1960 · 8 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "I Love You",
+    "definition": "Cliff Richard",
+    "example": "1960 · 2 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Poetry In Motion",
+    "definition": "Johnny Tillotson",
+    "example": "1961 · 2 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Are You Lonesome Tonight?",
+    "definition": "Elvis Presley",
+    "example": "1961 · 4 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Sailor",
+    "definition": "Petula Clark",
+    "example": "1961 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Walk Right Back/Ebony Eyes",
+    "definition": "The Everly Brothers",
+    "example": "1961 · 3 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Wooden Heart",
+    "definition": "Elvis Presley",
+    "example": "1961 · 6 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Blue Moon",
+    "definition": "Marcels",
+    "example": "1961 · 2 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "On The Rebound",
+    "definition": "Floyd Cramer",
+    "example": "1961 · 1 week at No.1"
+  },
+  {
+    "id": 24,
+    "term": "You're Driving Me Crazy",
+    "definition": "Temperance Seven",
+    "example": "1961 · 1 week at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Surrender",
+    "definition": "Elvis Presley",
+    "example": "1961 · 4 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Runaway",
+    "definition": "Del Shannon",
+    "example": "1961 · 3 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Temptation",
+    "definition": "The Everly Brothers",
+    "example": "1961 · 2 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Well I Ask You",
+    "definition": "Eden Kane",
+    "example": "1961 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "You Don't Know",
+    "definition": "Helen Shapiro",
+    "example": "1961 · 3 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Johnny Remember Me",
+    "definition": "John Leyton",
+    "example": "1961 · 4 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Reach For The Stars/Climb Ev'ry Mountain",
+    "definition": "Shirley Bassey",
+    "example": "1961 · 1 week at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Kon-Tiki",
+    "definition": "The Shadows",
+    "example": "1961 · 1 week at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Michael",
+    "definition": "Highwaymen",
+    "example": "1961 · 1 week at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Walking Back To Happiness",
+    "definition": "Helen Shapiro",
+    "example": "1961 · 3 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "His Latest Flame/Little Sisters",
+    "definition": "Elvis Presley",
+    "example": "1961 · 4 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Tower Of Strength",
+    "definition": "Frankie Vaughan",
+    "example": "1961 · 3 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Moon River",
+    "definition": "Danny Williams",
+    "example": "1961 · 2 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "The Young Ones",
+    "definition": "Cliff Richard",
+    "example": "1962 · 6 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Can't Help Falling In Love/Rock-A-Hula Baby",
+    "definition": "Elvis Presley",
+    "example": "1962 · 4 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Wonderful Land",
+    "definition": "The Shadows",
+    "example": "1962 · 8 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Nut Rocker",
+    "definition": "B Bumble and the Stingers",
+    "example": "1962 · 1 week at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Good Luck Charm",
+    "definition": "Elvis Presley",
+    "example": "1962 · 5 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Come Outside",
+    "definition": "Mike Sarne With Wendy Richard",
+    "example": "1962 · 2 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "I Can't Stop Loving You",
+    "definition": "Ray Charles",
+    "example": "1962 · 2 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "I Remember You",
+    "definition": "Frank Ifield",
+    "example": "1962 · 7 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "She's Not You",
+    "definition": "Elvis Presley",
+    "example": "1962 · 3 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Telstar",
+    "definition": "The Tornados",
+    "example": "1962 · 5 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Lovesick Blues",
+    "definition": "Frank Ifield",
+    "example": "1962 · 5 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Return To Sender",
+    "definition": "Elvis Presley",
+    "example": "1962 · 3 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "The Next Time/Bachelor Boy",
+    "definition": "Cliff Richard",
+    "example": "1963 · 3 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Dance On!",
+    "definition": "The Shadows",
+    "example": "1963 · 1 week at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Diamonds",
+    "definition": "Jet Harris and Tony Meehan",
+    "example": "1963 · 3 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Wayward Wind",
+    "definition": "Frank Ifield",
+    "example": "1963 · 3 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Summer Holiday",
+    "definition": "Cliff Richard",
+    "example": "1963 · 3 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Foot Tapper",
+    "definition": "The Shadows",
+    "example": "1963 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "How Do You Do It?",
+    "definition": "Gerry and the Pacemakers",
+    "example": "1963 · 3 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "From Me To You",
+    "definition": "The Beatles",
+    "example": "1963 · 7 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "I Like It",
+    "definition": "Gerry and the Pacemakers",
+    "example": "1963 · 4 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Confessin'",
+    "definition": "Frank Ifield",
+    "example": "1963 · 2 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Devil In Disguise",
+    "definition": "Elvis Presley",
+    "example": "1963 · 1 week at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Sweets For My Sweet",
+    "definition": "The Searchers",
+    "example": "1963 · 2 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Bad To Me",
+    "definition": "Billy J Kramer And The Dakotas",
+    "example": "1963 · 3 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "She Loves You",
+    "definition": "The Beatles",
+    "example": "1963 · 6 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Do You Love Me?",
+    "definition": "Brian Poole And The Tremeloes",
+    "example": "1963 · 3 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "You'll Never Walk Alone",
+    "definition": "Gerry and the Pacemakers",
+    "example": "1963 · 4 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "I Want To Hold Your Hand",
+    "definition": "The Beatles",
+    "example": "1963 · 5 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Glad All Over",
+    "definition": "The Dave Clark Five",
+    "example": "1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Needles And Pins",
+    "definition": "The Searchers",
+    "example": "1964 · 3 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Diane",
+    "definition": "The Bachelors",
+    "example": "1964 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Anyone Who Had A Heart",
+    "definition": "Cilla Black",
+    "example": "1964 · 3 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Little Children",
+    "definition": "Billy J Kramer And The Dakotas",
+    "example": "1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Can't Buy Me Love",
+    "definition": "The Beatles",
+    "example": "1964 · 3 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "World Without Love",
+    "definition": "Peter And Gordon",
+    "example": "1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Don't Throw Your Love Away",
+    "definition": "The Searchers",
+    "example": "1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Juliet",
+    "definition": "The Four Pennies",
+    "example": "1964 · 1 week at No.1"
+  },
+  {
+    "id": 76,
+    "term": "You're My World",
+    "definition": "Cilla Black",
+    "example": "1964 · 4 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "It's Over",
+    "definition": "Roy Orbison",
+    "example": "1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "The House of the Rising Sun",
+    "definition": "The Animals",
+    "example": "1964 · 1 week at No.1"
+  },
+  {
+    "id": 79,
+    "term": "It's All Over Now",
+    "definition": "The Rolling Stones",
+    "example": "1964 · 1 week at No.1"
+  },
+  {
+    "id": 80,
+    "term": "A Hard Day's Night",
+    "definition": "The Beatles",
+    "example": "1964 · 3 weeks at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Do Wah Diddy Diddy",
+    "definition": "Manfred Mann",
+    "example": "1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Have I The Right?",
+    "definition": "Honeycombs",
+    "example": "1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 83,
+    "term": "You Really Got Me",
+    "definition": "The Kinks",
+    "example": "1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 84,
+    "term": "I'm Into Something Good",
+    "definition": "Herman's Hermits",
+    "example": "1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Oh, Pretty Woman",
+    "definition": "Roy Orbison",
+    "example": "1964 · 3 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "(There's) Always Something There To Remind Me",
+    "definition": "Sandie Shaw",
+    "example": "1964 · 3 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Baby Love",
+    "definition": "The Supremes",
+    "example": "1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Little Red Rooster",
+    "definition": "The Rolling Stones",
+    "example": "1964 · 1 week at No.1"
+  },
+  {
+    "id": 89,
+    "term": "I Feel Fine",
+    "definition": "The Beatles",
+    "example": "1964 · 5 weeks at No.1"
+  }
+];
+window.QM_NO1S6569_DATA = [
+  {
+    "id": 1,
+    "term": "Yeh Yeh",
+    "definition": "Georgie Fame",
+    "example": "1965 · 2 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Go Now",
+    "definition": "The Moody Blues",
+    "example": "1965 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "You've Lost That Lovin' Feelin'",
+    "definition": "The Righteous Brothers",
+    "example": "1965 · 2 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Tired Of Waiting For You",
+    "definition": "The Kinks",
+    "example": "1965 · 1 week at No.1"
+  },
+  {
+    "id": 5,
+    "term": "I'll Never Find Another You",
+    "definition": "The Seekers",
+    "example": "1965 · 2 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "It's Not Unusual",
+    "definition": "Tom Jones",
+    "example": "1965 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "The Last Time",
+    "definition": "The Rolling Stones",
+    "example": "1965 · 3 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Concrete And Clay",
+    "definition": "Unit Four Plus Two",
+    "example": "1965 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "The Minute You're Gone",
+    "definition": "Cliff Richard",
+    "example": "1965 · 1 week at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Ticket To Ride",
+    "definition": "The Beatles",
+    "example": "1965 · 3 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "King Of The Road",
+    "definition": "Roger Miller",
+    "example": "1965 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Where Are You Now (My Love)",
+    "definition": "Jackie Trent",
+    "example": "1965 · 1 week at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Long Live Love",
+    "definition": "Sandie Shaw",
+    "example": "1965 · 3 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Crying In The Chapel",
+    "definition": "Elvis Presley",
+    "example": "1965 · 2 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "I'm Alive",
+    "definition": "The Hollies",
+    "example": "1965 · 3 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Mr Tambourine Man",
+    "definition": "The Byrds",
+    "example": "1965 · 2 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Help!",
+    "definition": "The Beatles",
+    "example": "1965 · 3 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "I Got You Babe",
+    "definition": "Sonny And Cher",
+    "example": "1965 · 2 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "(I Can't Get No) Satisfaction",
+    "definition": "The Rolling Stones",
+    "example": "1965 · 2 weeks at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Make It Easy On Yourself",
+    "definition": "The Walker Brothers",
+    "example": "1965 · 1 week at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Tears",
+    "definition": "Ken Dodd",
+    "example": "1965 · 5 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Get Off Of My Cloud",
+    "definition": "The Rolling Stones",
+    "example": "1965 · 3 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "The Carnival Is Over",
+    "definition": "The Seekers",
+    "example": "1965 · 3 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Day Tripper/We Can Work It Out",
+    "definition": "The Beatles",
+    "example": "1965 · 5 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Keep On Running",
+    "definition": "The Spencer Davis Group",
+    "example": "1966 · 1 week at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Michelle",
+    "definition": "Overlanders",
+    "example": "1966 · 3 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "These Boots Are Made For Walkin'",
+    "definition": "Nancy Sinatra",
+    "example": "1966 · 4 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "The Sun Ain't Gonna Shine Anymore",
+    "definition": "The Walker Brothers",
+    "example": "1966 · 4 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Somebody Help Me",
+    "definition": "The Spencer Davis Group",
+    "example": "1966 · 2 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "You Don't Have To Say You Love Me",
+    "definition": "Dusty Springfield",
+    "example": "1966 · 1 week at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Pretty Flamingo",
+    "definition": "Manfred Mann",
+    "example": "1966 · 3 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Paint It Black",
+    "definition": "The Rolling Stones",
+    "example": "1966 · 1 week at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Strangers In The Night",
+    "definition": "Frank Sinatra",
+    "example": "1966 · 3 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Paperback Writer",
+    "definition": "The Beatles",
+    "example": "1966 · 2 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Sunny Afternoon",
+    "definition": "The Kinks",
+    "example": "1966 · 2 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Getaway",
+    "definition": "Georgie Fame And The Blue Flames",
+    "example": "1966 · 1 week at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Out Of Time",
+    "definition": "Chris Farlowe",
+    "example": "1966 · 1 week at No.1"
+  },
+  {
+    "id": 38,
+    "term": "With A Girl Like You",
+    "definition": "The Troggs",
+    "example": "1966 · 2 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Yellow Submarine/Eleanor Rigby",
+    "definition": "The Beatles",
+    "example": "1966 · 4 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "All Or Nothing",
+    "definition": "The Small Faces",
+    "example": "1966 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Distant Drums",
+    "definition": "Jim Reeves",
+    "example": "1966 · 5 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Reach Out I'll Be There",
+    "definition": "The Four Tops",
+    "example": "1966 · 3 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Good Vibrations",
+    "definition": "The Beach Boys",
+    "example": "1966 · 2 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Green Green Grass Of Home",
+    "definition": "Tom Jones",
+    "example": "1966 · 7 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "I'm a Believer",
+    "definition": "The Monkees",
+    "example": "1967 · 4 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "This Is My Song",
+    "definition": "Petula Clark",
+    "example": "1967 · 2 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Release Me",
+    "definition": "Engelbert Humperdinck",
+    "example": "1967 · 6 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Somethin' Stupid",
+    "definition": "Nancy Sinatra And Frank Sinatra",
+    "example": "1967 · 2 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Puppet On A String",
+    "definition": "Sandie Shaw",
+    "example": "1967 · 3 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Silence Is Golden",
+    "definition": "The Tremeloes",
+    "example": "1967 · 3 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "A Whiter Shade Of Pale",
+    "definition": "Procol Harum",
+    "example": "1967 · 6 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "All You Need Is Love",
+    "definition": "The Beatles",
+    "example": "1967 · 3 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "San Francisco (Be Sure To Wear Some Flowers In Your Hair)",
+    "definition": "Scott McKenzie",
+    "example": "1967 · 4 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "The Last Waltz",
+    "definition": "Engelbert Humperdinck",
+    "example": "1967 · 5 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Massachusetts",
+    "definition": "The Bee Gees",
+    "example": "1967 · 4 weeks at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Baby Now That I've Found You",
+    "definition": "The Foundations",
+    "example": "1967 · 2 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Let The Heartaches Begin",
+    "definition": "Long John Baldry",
+    "example": "1967 · 2 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Hello Goodbye",
+    "definition": "The Beatles",
+    "example": "1967 · 7 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Ballad Of Bonnie And Clyde",
+    "definition": "Georgie Fame",
+    "example": "1968 · 1 week at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Everlasting Love",
+    "definition": "Love Affair",
+    "example": "1968 · 2 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "The Mighty Quinn",
+    "definition": "Manfred Mann",
+    "example": "1968 · 2 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Cinderella Rockefella",
+    "definition": "Esther and Abi Ofarim",
+    "example": "1968 · 3 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Legend Of Xanadu",
+    "definition": "Dave Dee, Dozy, Beaky, Mick and Tich",
+    "example": "1968 · 1 week at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Lady Madonna",
+    "definition": "The Beatles",
+    "example": "1968 · 2 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Congratulations",
+    "definition": "Cliff Richard",
+    "example": "1968 · 2 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "What A Wonderful World/Cabaret",
+    "definition": "Louis Armstrong",
+    "example": "1968 · 4 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Young Girl",
+    "definition": "Gary Puckett And The Union Gap",
+    "example": "1968 · 4 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Jumpin' Jack Flash",
+    "definition": "The Rolling Stones",
+    "example": "1968 · 2 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Baby Come Back",
+    "definition": "The Equals",
+    "example": "1968 · 3 weeks at No.1"
+  },
+  {
+    "id": 70,
+    "term": "I Pretend",
+    "definition": "Des O'Connor",
+    "example": "1968 · 1 week at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Mony Mony",
+    "definition": "Tommy James And The Shondells",
+    "example": "1968 · 3 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Fire!",
+    "definition": "Crazy World Of Arthur Brown",
+    "example": "1968 · 1 week at No.1"
+  },
+  {
+    "id": 73,
+    "term": "Do It Again",
+    "definition": "The Beach Boys",
+    "example": "1968 · 1 week at No.1"
+  },
+  {
+    "id": 74,
+    "term": "I've Gotta Get A Message To You",
+    "definition": "The Bee Gees",
+    "example": "1968 · 1 week at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Hey Jude",
+    "definition": "The Beatles",
+    "example": "1968 · 2 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Those Were The Days",
+    "definition": "Mary Hopkin",
+    "example": "1968 · 6 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "With A Little Help From My Friends",
+    "definition": "Joe Cocker",
+    "example": "1968 · 1 week at No.1"
+  },
+  {
+    "id": 78,
+    "term": "The Good the Bad and the Ugly",
+    "definition": "Hugo Montenegro",
+    "example": "1968 · 4 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Lily The Pink",
+    "definition": "The Scaffold",
+    "example": "1968 · 4 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Ob-La-Di Ob-La-Da",
+    "definition": "Marmalade",
+    "example": "1969 · 3 weeks at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Albatross",
+    "definition": "Fleetwood Mac",
+    "example": "1969 · 1 week at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Blackberry Way",
+    "definition": "The Move",
+    "example": "1969 · 1 week at No.1"
+  },
+  {
+    "id": 83,
+    "term": "(If Paradise Is) Half As Nice",
+    "definition": "Amen Corner",
+    "example": "1969 · 2 weeks at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Where Do You Go To (My Lovely)",
+    "definition": "Peter Sarstedt",
+    "example": "1969 · 4 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "I Heard It Through The Grapevine",
+    "definition": "Marvin Gaye",
+    "example": "1969 · 3 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "The Israelites",
+    "definition": "Desmond Dekker And The Aces",
+    "example": "1969 · 1 week at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Get Back",
+    "definition": "Beatles With Billy Preston",
+    "example": "1969 · 6 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Dizzy",
+    "definition": "Tommy Roe",
+    "example": "1969 · 1 week at No.1"
+  },
+  {
+    "id": 89,
+    "term": "The Ballad Of John And Yoko",
+    "definition": "The Beatles",
+    "example": "1969 · 3 weeks at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Something In The Air",
+    "definition": "Thunderclap Newman",
+    "example": "1969 · 3 weeks at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Honky Tonk Women",
+    "definition": "The Rolling Stones",
+    "example": "1969 · 5 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "In The Year 2525",
+    "definition": "Zager And Evans",
+    "example": "1969 · 3 weeks at No.1"
+  },
+  {
+    "id": 93,
+    "term": "Bad Moon Rising",
+    "definition": "Creedence Clearwater Revival",
+    "example": "1969 · 3 weeks at No.1"
+  },
+  {
+    "id": 94,
+    "term": "Je T'aime... Moi Non Plus {Official Release}",
+    "definition": "Jane Birkin and Serge Gainsbourg",
+    "example": "1969 · 1 week at No.1"
+  },
+  {
+    "id": 95,
+    "term": "I'll Never Fall In Love Again",
+    "definition": "Bobbie Gentry",
+    "example": "1969 · 1 week at No.1"
+  },
+  {
+    "id": 96,
+    "term": "Sugar, Sugar",
+    "definition": "The Archies",
+    "example": "1969 · 8 weeks at No.1"
+  },
+  {
+    "id": 97,
+    "term": "Two Little Boys",
+    "definition": "Rolf Harris",
+    "example": "1969 · 6 weeks at No.1"
+  }
+];
+window.QM_NO1S7074_DATA = [
+  {
+    "id": 1,
+    "term": "Love Grows (Where My Rosemary Goes)",
+    "definition": "Edison Lighthouse",
+    "example": "1970 · 5 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Wand'rin' Star",
+    "definition": "Lee Marvin",
+    "example": "1970 · 3 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Bridge Over Troubled Water",
+    "definition": "Simon And Garfunkel",
+    "example": "1970 · 3 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "All Kinds Of Everything",
+    "definition": "Dana",
+    "example": "1970 · 2 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Spirit In The Sky",
+    "definition": "Norman Greenbaum",
+    "example": "1970 · 2 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Back Home",
+    "definition": "England World Cup Squad",
+    "example": "1970 · 3 weeks at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Yellow River",
+    "definition": "Christie",
+    "example": "1970 · 1 week at No.1"
+  },
+  {
+    "id": 8,
+    "term": "In The Summertime",
+    "definition": "Mungo Jerry",
+    "example": "1970 · 7 weeks at No.1"
+  },
+  {
+    "id": 9,
+    "term": "The Wonder Of You",
+    "definition": "Elvis Presley",
+    "example": "1970 · 6 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Tears Of A Clown",
+    "definition": "Smokey Robinson And The Miracles",
+    "example": "1970 · 1 week at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Band Of Gold",
+    "definition": "Freda Payne",
+    "example": "1970 · 6 weeks at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Woodstock",
+    "definition": "Matthews Southern Comfort",
+    "example": "1970 · 3 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Voodoo Chile",
+    "definition": "The Jimi Hendrix Experience",
+    "example": "1970 · 1 week at No.1"
+  },
+  {
+    "id": 14,
+    "term": "I Hear You Knocking",
+    "definition": "Dave Edmunds",
+    "example": "1970 · 6 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Grandad",
+    "definition": "Clive Dunn",
+    "example": "1971 · 3 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "My Sweet Lord",
+    "definition": "George Harrison",
+    "example": "1971 · 5 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Baby Jump",
+    "definition": "Mungo Jerry",
+    "example": "1971 · 2 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Hot Love",
+    "definition": "T. Rex",
+    "example": "1971 · 6 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Double Barrel",
+    "definition": "Dave And Ansel Collins",
+    "example": "1971 · 2 weeks at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Knock Three Times",
+    "definition": "Dawn",
+    "example": "1971 · 5 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Chirpy Chirpy Cheep Cheep",
+    "definition": "Middle of the road",
+    "example": "1971 · 5 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Get It On",
+    "definition": "T. Rex",
+    "example": "1971 · 4 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "I'm Still Waiting",
+    "definition": "Diana Ross",
+    "example": "1971 · 4 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Hey Girl Don't Bother Me",
+    "definition": "The Tams",
+    "example": "1971 · 3 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Maggie May/Reason To Believe",
+    "definition": "Rod Stewart",
+    "example": "1971 · 5 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Coz I Luv You",
+    "definition": "Slade",
+    "example": "1971 · 4 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Ernie (The Fastest Milkman In The West)",
+    "definition": "Benny Hill",
+    "example": "1971 · 4 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "I'd Like To Teach The World To Sing (In Perfect Harmony)",
+    "definition": "The New Seekers",
+    "example": "1972 · 4 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Telegram Sam",
+    "definition": "T. Rex",
+    "example": "1972 · 2 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Son Of My Father",
+    "definition": "Chicory Tip",
+    "example": "1972 · 3 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Without You",
+    "definition": "Nilsson",
+    "example": "1972 · 5 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Amazing Grace",
+    "definition": "Pipes And Drums And The Military Band Of The Royal Scots Dragoon Guard",
+    "example": "1972 · 5 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Metal Guru",
+    "definition": "T. Rex",
+    "example": "1972 · 4 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Vincent",
+    "definition": "Don McLean",
+    "example": "1972 · 2 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Take Me Bak 'Ome",
+    "definition": "Slade",
+    "example": "1972 · 1 week at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Puppy Love",
+    "definition": "Donny Osmond",
+    "example": "1972 · 5 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "School's Out",
+    "definition": "Alice Cooper",
+    "example": "1972 · 3 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "You Wear It Well",
+    "definition": "Rod Stewart",
+    "example": "1972 · 1 week at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Mama Weer All Crazee Now",
+    "definition": "Slade",
+    "example": "1972 · 3 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "How Can I Be Sure",
+    "definition": "David Cassidy",
+    "example": "1972 · 2 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Mouldy Old Dough",
+    "definition": "Lieutenant Pigeon",
+    "example": "1972 · 4 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Clair",
+    "definition": "Gilbert O'Sullivan",
+    "example": "1972 · 2 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "My Ding-A-Ling",
+    "definition": "Chuck Berry",
+    "example": "1972 · 4 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Long Haired Lover From Liverpool",
+    "definition": "Little Jimmy Osmond",
+    "example": "1972 · 5 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Blockbuster",
+    "definition": "The Sweet",
+    "example": "1973 · 5 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Cum On Feel The Noize",
+    "definition": "Slade",
+    "example": "1973 · 4 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "The Twelfth Of Never",
+    "definition": "Donny Osmond",
+    "example": "1973 · 1 week at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Get Down",
+    "definition": "Gilbert O'Sullivan",
+    "example": "1973 · 2 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Tie a Yellow Ribbon Round the Old Oak Tree",
+    "definition": "Dawn featuring Tony Orlando",
+    "example": "1973 · 4 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "See My Baby Jive",
+    "definition": "Wizzard",
+    "example": "1973 · 4 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Can The Can",
+    "definition": "Suzi Quatro",
+    "example": "1973 · 1 week at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Rubber Bullets",
+    "definition": "10cc",
+    "example": "1973 · 1 week at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Skweeze Me Pleeze Me",
+    "definition": "Slade",
+    "example": "1973 · 3 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Welcome Home",
+    "definition": "Peters and Lee",
+    "example": "1973 · 1 week at No.1"
+  },
+  {
+    "id": 55,
+    "term": "I'm the Leader of the Gang (I Am!)",
+    "definition": "Gary Glitter",
+    "example": "1973 · 4 weeks at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Young Love",
+    "definition": "Donny Osmond",
+    "example": "1973 · 4 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Angel Fingers",
+    "definition": "Wizzard",
+    "example": "1973 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Eye Level",
+    "definition": "Simon Park Orchestra",
+    "example": "1973 · 4 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Daydreamer/Puppy Song",
+    "definition": "David Cassidy",
+    "example": "1973 · 3 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "I Love You Love Me Love",
+    "definition": "Gary Glitter",
+    "example": "1973 · 4 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Merry Xmas Everybody",
+    "definition": "Slade",
+    "example": "1973 · 5 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "You Won't Find Another Fool Like Me",
+    "definition": "The New Seekers ft. Lyn Paul",
+    "example": "1974 · 1 week at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Tiger Feet",
+    "definition": "Mud",
+    "example": "1974 · 4 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Devil Gate Drive",
+    "definition": "Suzi Quatro",
+    "example": "1974 · 2 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Jealous Mind",
+    "definition": "Alvin Stardust",
+    "example": "1974 · 1 week at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Billy - Don't Be a Hero",
+    "definition": "Paper Lace",
+    "example": "1974 · 3 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Seasons In The Sun",
+    "definition": "Terry Jacks",
+    "example": "1974 · 4 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Waterloo",
+    "definition": "ABBA",
+    "example": "1974 · 2 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Sugar Baby Love",
+    "definition": "The Rubettes",
+    "example": "1974 · 4 weeks at No.1"
+  },
+  {
+    "id": 70,
+    "term": "The Streak",
+    "definition": "Ray Stevens",
+    "example": "1974 · 1 week at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Always Yours",
+    "definition": "Gary Glitter",
+    "example": "1974 · 1 week at No.1"
+  },
+  {
+    "id": 72,
+    "term": "She",
+    "definition": "Charles Aznavour",
+    "example": "1974 · 4 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "Rock Your Baby",
+    "definition": "George McCrae",
+    "example": "1974 · 3 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "When Will I See You Again",
+    "definition": "The Three Degrees",
+    "example": "1974 · 2 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Love Me For A Reason",
+    "definition": "The Osmonds",
+    "example": "1974 · 3 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Kung Fu Fighting",
+    "definition": "Carl Douglas",
+    "example": "1974 · 3 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Annie's Song",
+    "definition": "John Denver",
+    "example": "1974 · 1 week at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Sad Sweet Dreamer",
+    "definition": "Sweet Sensation",
+    "example": "1974 · 1 week at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Everything I Own",
+    "definition": "Ken Boothe",
+    "example": "1974 · 3 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Gonna Make You A Star",
+    "definition": "David Essex",
+    "example": "1974 · 3 weeks at No.1"
+  },
+  {
+    "id": 81,
+    "term": "You're The First, The Last, My Everything",
+    "definition": "Barry White",
+    "example": "1974 · 2 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Lonely This Christmas",
+    "definition": "Mud",
+    "example": "1974 · 4 weeks at No.1"
+  }
+];
+window.QM_NO1S7579_DATA = [
+  {
+    "id": 1,
+    "term": "Down Down",
+    "definition": "Status Quo",
+    "example": "1975 · 1 week at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Ms. Grace",
+    "definition": "The Tymes",
+    "example": "1975 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "January",
+    "definition": "Pilot",
+    "example": "1975 · 3 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Make Me Smile (Come Up and See Me)",
+    "definition": "Steve Harley & Cockney Rebel",
+    "example": "1975 · 2 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "If",
+    "definition": "Telly Savalas",
+    "example": "1975 · 2 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Bye Bye Baby",
+    "definition": "Bay City Rollers",
+    "example": "1975 · 6 weeks at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Oh Boy",
+    "definition": "Mud",
+    "example": "1975 · 2 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Stand By Your Man",
+    "definition": "Tammy Wynette",
+    "example": "1975 · 3 weeks at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Whispering Grass",
+    "definition": "Windsor Davies And Don Estelle",
+    "example": "1975 · 3 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "I'm Not In Love",
+    "definition": "10cc",
+    "example": "1975 · 2 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Tears On My Pillow",
+    "definition": "Johnny Nash",
+    "example": "1975 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Give A Little Love",
+    "definition": "Bay City Rollers",
+    "example": "1975 · 3 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Barbados",
+    "definition": "Typically Tropical",
+    "example": "1975 · 1 week at No.1"
+  },
+  {
+    "id": 14,
+    "term": "I Can't Give You Anything (But My Love)",
+    "definition": "The Stylistics",
+    "example": "1975 · 3 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Sailing",
+    "definition": "Rod Stewart",
+    "example": "1975 · 4 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Hold Me Close",
+    "definition": "David Essex",
+    "example": "1975 · 3 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "I Only Have Eyes For You",
+    "definition": "Art Garfunkel",
+    "example": "1975 · 2 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Space Oddity",
+    "definition": "David Bowie",
+    "example": "1975 · 2 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "D.I.V.O.R.C.E.",
+    "definition": "Billy Connolly",
+    "example": "1975 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Bohemian Rhapsody",
+    "definition": "Queen",
+    "example": "1975 · 9 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Mamma Mia",
+    "definition": "ABBA",
+    "example": "1976 · 2 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Forever And Ever",
+    "definition": "Slik",
+    "example": "1976 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "December '63",
+    "definition": "The Four Seasons",
+    "example": "1976 · 2 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "I Love To Love",
+    "definition": "Tina Charles",
+    "example": "1976 · 3 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Save Your Kisses For Me",
+    "definition": "Brotherhood Of Man",
+    "example": "1976 · 6 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Fernando",
+    "definition": "ABBA",
+    "example": "1976 · 4 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "No Charge",
+    "definition": "J.J. Barrie",
+    "example": "1976 · 1 week at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Combine Harvester",
+    "definition": "The Wurzels",
+    "example": "1976 · 2 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "You To Me Are Everything",
+    "definition": "Real Thing",
+    "example": "1976 · 3 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "The Roussos Phenomenon",
+    "definition": "Demis Roussos",
+    "example": "1976 · 1 week at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Don't Go Breaking My Heart",
+    "definition": "Elton John and Kiki Dee",
+    "example": "1976 · 6 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Dancing Queen",
+    "definition": "ABBA",
+    "example": "1976 · 6 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Mississippi",
+    "definition": "Pussycat",
+    "example": "1976 · 4 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "If You Leave Me Now",
+    "definition": "Chicago",
+    "example": "1976 · 3 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Under The Moon Of Love",
+    "definition": "Showaddywaddy",
+    "example": "1976 · 3 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "When A Child Is Born",
+    "definition": "Johnny Mathis",
+    "example": "1976 · 3 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Don't Give Up On Us",
+    "definition": "David Soul",
+    "example": "1977 · 4 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Don't Cry For Me Argentina",
+    "definition": "Julie Covington",
+    "example": "1977 · 1 week at No.1"
+  },
+  {
+    "id": 39,
+    "term": "When I Need You",
+    "definition": "Leo Sayer",
+    "example": "1977 · 3 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Chanson D'Amour",
+    "definition": "The Manhattan Transfer",
+    "example": "1977 · 3 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Knowing Me, Knowing You",
+    "definition": "ABBA",
+    "example": "1977 · 5 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Free",
+    "definition": "Deniece Williams",
+    "example": "1977 · 2 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "I Don't Want To Talk About It/First Cut Is The Deepest",
+    "definition": "Rod Stewart",
+    "example": "1977 · 4 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Lucille",
+    "definition": "Kenny Rogers",
+    "example": "1977 · 1 week at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Show You The Way To Go",
+    "definition": "The Jacksons",
+    "example": "1977 · 1 week at No.1"
+  },
+  {
+    "id": 46,
+    "term": "So You Win Again",
+    "definition": "Hot Chocolate",
+    "example": "1977 · 3 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "I Feel Love",
+    "definition": "Donna Summer",
+    "example": "1977 · 4 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Angelo",
+    "definition": "Brotherhood Of Man",
+    "example": "1977 · 1 week at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Float On",
+    "definition": "The Floaters",
+    "example": "1977 · 1 week at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Way Down",
+    "definition": "Elvis Presley",
+    "example": "1977 · 5 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Silver Lady",
+    "definition": "David Soul",
+    "example": "1977 · 3 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Yes Sir I Can Boogie",
+    "definition": "Baccara",
+    "example": "1977 · 1 week at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Name Of The Game",
+    "definition": "ABBA",
+    "example": "1977 · 4 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Mull of Kintyre/Girls' School",
+    "definition": "Wings",
+    "example": "1977 · 9 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Uptown Top Ranking",
+    "definition": "Althia And Donna",
+    "example": "1978 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Figaro",
+    "definition": "Brotherhood Of Man",
+    "example": "1978 · 1 week at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Take A Chance On Me",
+    "definition": "ABBA",
+    "example": "1978 · 3 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Wuthering Heights",
+    "definition": "Kate Bush",
+    "example": "1978 · 4 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Matchstalk Men And Matchstalk Cats And Dogs",
+    "definition": "Brian And Michael",
+    "example": "1978 · 3 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Night Fever",
+    "definition": "The Bee Gees",
+    "example": "1978 · 2 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Rivers Of Babylon/Brown Girl In The Ring",
+    "definition": "Boney M",
+    "example": "1978 · 5 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "You're The One That I Want",
+    "definition": "John Travolta And Olivia Newton-John",
+    "example": "1978 · 9 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Three Times A Lady",
+    "definition": "The Commodores",
+    "example": "1978 · 5 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Dreadlock Holiday",
+    "definition": "10cc",
+    "example": "1978 · 1 week at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Summer Nights",
+    "definition": "John Travolta And Olivia Newton-John",
+    "example": "1978 · 7 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Rat Trap",
+    "definition": "The Boomtown Rats",
+    "example": "1978 · 2 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Da 'Ya' Think I'm Sexy?",
+    "definition": "Rod Stewart",
+    "example": "1978 · 1 week at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Mary's Boy Child",
+    "definition": "Boney M",
+    "example": "1978 · 4 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Y.M.C.A.",
+    "definition": "The Village People",
+    "example": "1979 · 3 weeks at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Hit Me With Your Rhythm Stick",
+    "definition": "Ian And The Blockheads",
+    "example": "1979 · 1 week at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Heart Of Glass",
+    "definition": "Blondie",
+    "example": "1979 · 4 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Tragedy",
+    "definition": "The Bee Gees",
+    "example": "1979 · 2 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "I Will Survive",
+    "definition": "Gloria Gaynor",
+    "example": "1979 · 4 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Bright Eyes",
+    "definition": "Art Garfunkel",
+    "example": "1979 · 6 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Sunday Girl",
+    "definition": "Blondie",
+    "example": "1979 · 3 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Ring My Bell",
+    "definition": "Anita Ward",
+    "example": "1979 · 2 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Are 'Friends' Electric?",
+    "definition": "Tubeway Army",
+    "example": "1979 · 4 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "I Don't Like Mondays",
+    "definition": "The Boomtown Rats",
+    "example": "1979 · 4 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "We Don't Talk Anymore",
+    "definition": "Cliff Richard",
+    "example": "1979 · 4 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Cars",
+    "definition": "Gary Numan",
+    "example": "1979 · 1 week at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Message In A Bottle",
+    "definition": "The Police",
+    "example": "1979 · 3 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Video Killed The Radio Star",
+    "definition": "The Buggles",
+    "example": "1979 · 1 week at No.1"
+  },
+  {
+    "id": 83,
+    "term": "One Day At A Time",
+    "definition": "Lena Martell",
+    "example": "1979 · 3 weeks at No.1"
+  },
+  {
+    "id": 84,
+    "term": "When You're In Love With A Beautiful Woman",
+    "definition": "Dr. Hook",
+    "example": "1979 · 3 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Walking On The Moon",
+    "definition": "The Police",
+    "example": "1979 · 1 week at No.1"
+  },
+  {
+    "id": 86,
+    "term": "Another Brick In The Wall",
+    "definition": "Pink Floyd",
+    "example": "1979 · 5 weeks at No.1"
+  }
+];
+window.QM_NO1S8084_DATA = [
+  {
+    "id": 1,
+    "term": "Brass In Pocket",
+    "definition": "The Pretenders",
+    "example": "1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Too Much Too Young (The Special AKA Live! EP)",
+    "definition": "The Specials",
+    "example": "1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Coward Of The County",
+    "definition": "Kenny Rogers",
+    "example": "1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Atomic",
+    "definition": "Blondie",
+    "example": "1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Together We Are Beautiful",
+    "definition": "Fern Kinney",
+    "example": "1980 · 1 week at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Going Underground/Dreams Of Children",
+    "definition": "The Jam",
+    "example": "1980 · 3 weeks at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Working My Way Back To You/Forgive Me Girl",
+    "definition": "Detroit Spinners",
+    "example": "1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Call Me",
+    "definition": "Blondie",
+    "example": "1980 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Geno",
+    "definition": "Dexy's Midnight Runners",
+    "example": "1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "What's Another Year",
+    "definition": "Johnny Logan",
+    "example": "1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Theme From M*a*s*h (Suicide Is Painless)",
+    "definition": "MASH",
+    "example": "1980 · 3 weeks at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Crying",
+    "definition": "Don McLean",
+    "example": "1980 · 3 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Xanadu",
+    "definition": "Olivia Newton-John And Electric Light Orchestra",
+    "example": "1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Use It Up And Wear It Out",
+    "definition": "Odyssey",
+    "example": "1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "The Winner Takes It All",
+    "definition": "ABBA",
+    "example": "1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Ashes To Ashes",
+    "definition": "David Bowie",
+    "example": "1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Start",
+    "definition": "The Jam",
+    "example": "1980 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Feels Like I'm In Love",
+    "definition": "Kelly Marie",
+    "example": "1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Don't Stand So Close To Me",
+    "definition": "The Police",
+    "example": "1980 · 4 weeks at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Woman In Love",
+    "definition": "Barbra Streisand",
+    "example": "1980 · 3 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "The Tide Is High",
+    "definition": "Blondie",
+    "example": "1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Super Trouper",
+    "definition": "ABBA",
+    "example": "1980 · 3 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "(Just Like) Starting Over",
+    "definition": "John Lennon",
+    "example": "1980 · 1 week at No.1"
+  },
+  {
+    "id": 24,
+    "term": "There's No One Quite Like Grandma",
+    "definition": "St. Winifred's School Choir",
+    "example": "1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Imagine",
+    "definition": "John Lennon",
+    "example": "1981 · 4 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Woman",
+    "definition": "John Lennon",
+    "example": "1981 · 2 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Shaddup You Face",
+    "definition": "Joe Dolce Music Theatre",
+    "example": "1981 · 3 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Jealous Guy",
+    "definition": "Roxy Music",
+    "example": "1981 · 2 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "This Ole House",
+    "definition": "Shakin' Stevens",
+    "example": "1981 · 3 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Making Your Mind Up",
+    "definition": "Bucks Fizz",
+    "example": "1981 · 3 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Stand And Deliver",
+    "definition": "Adam and the Ants",
+    "example": "1981 · 5 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Being With You",
+    "definition": "Smokey Robinson",
+    "example": "1981 · 2 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "One Day In Your Life",
+    "definition": "Michael Jackson",
+    "example": "1981 · 2 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Ghost Town",
+    "definition": "The Specials",
+    "example": "1981 · 3 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Green Door",
+    "definition": "Shakin' Stevens",
+    "example": "1981 · 4 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Japanese Boy",
+    "definition": "Aneka",
+    "example": "1981 · 1 week at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Tainted Love",
+    "definition": "Soft Cell",
+    "example": "1981 · 2 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Prince Charming",
+    "definition": "Adam and the Ants",
+    "example": "1981 · 4 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "It's My Party",
+    "definition": "Dave Stewart With Barbara Gaskin",
+    "example": "1981 · 4 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Every Little Thing She Does Is Magic",
+    "definition": "The Police",
+    "example": "1981 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Under Pressure",
+    "definition": "Queen & David Bowie",
+    "example": "1981 · 2 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Begin The Beguine (Volver A Empezar)",
+    "definition": "Julio Iglesias",
+    "example": "1981 · 1 week at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Don't You Want Me",
+    "definition": "The Human League",
+    "example": "1981 · 5 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "The Land Of Make Believe",
+    "definition": "Bucks Fizz",
+    "example": "1982 · 2 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Oh Julie",
+    "definition": "Shakin' Stevens",
+    "example": "1982 · 1 week at No.1"
+  },
+  {
+    "id": 46,
+    "term": "The Model/Computer Love",
+    "definition": "Kraftwerk",
+    "example": "1982 · 1 week at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Town Called Malice/Precious",
+    "definition": "The Jam",
+    "example": "1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "The Lion Sleeps Tonight",
+    "definition": "Tight Fit",
+    "example": "1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Seven Tears",
+    "definition": "Goombay Dance Band",
+    "example": "1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "My Camera Never Lies",
+    "definition": "Bucks Fizz",
+    "example": "1982 · 1 week at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Ebony And Ivory",
+    "definition": "Paul McCartney And Stevie Wonder",
+    "example": "1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "A Little Peace",
+    "definition": "Nicole",
+    "example": "1982 · 2 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "House Of Fun",
+    "definition": "Madness",
+    "example": "1982 · 2 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Goody Two Shoes",
+    "definition": "Adam Ant",
+    "example": "1982 · 2 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "I've Never Been To Me",
+    "definition": "Charlene",
+    "example": "1982 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Happy Talk",
+    "definition": "Captain Sensible",
+    "example": "1982 · 2 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Fame",
+    "definition": "Irene Cara",
+    "example": "1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Come On Eileen",
+    "definition": "Dexy's Midnight Runners With The Emerald Express",
+    "example": "1982 · 4 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Eye Of The Tiger",
+    "definition": "Survivor",
+    "example": "1982 · 4 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Pass The Dutchie",
+    "definition": "Musical Youth",
+    "example": "1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Do You Really Want to Hurt Me",
+    "definition": "Culture Club",
+    "example": "1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "I Don't Wanna Dance",
+    "definition": "Eddy Grant",
+    "example": "1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Beat Surrender",
+    "definition": "The Jam",
+    "example": "1982 · 2 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Save Your Love",
+    "definition": "Renée and Renato",
+    "example": "1982 · 4 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "You Can't Hurry Love",
+    "definition": "Phil Collins",
+    "example": "1983 · 2 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Down Under",
+    "definition": "Men At Work",
+    "example": "1983 · 3 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Too Shy",
+    "definition": "Kajagoogoo",
+    "example": "1983 · 2 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Billie Jean",
+    "definition": "Michael Jackson",
+    "example": "1983 · 1 week at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Total Eclipse Of The Heart",
+    "definition": "Bonnie Tyler",
+    "example": "1983 · 2 weeks at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Is There Something I Should Know?",
+    "definition": "Duran Duran",
+    "example": "1983 · 2 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Let's Dance",
+    "definition": "David Bowie",
+    "example": "1983 · 3 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "True",
+    "definition": "Spandau Ballet",
+    "example": "1983 · 4 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "Candy Girl",
+    "definition": "New Edition",
+    "example": "1983 · 1 week at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Every Breath You Take",
+    "definition": "The Police",
+    "example": "1983 · 4 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Baby Jane",
+    "definition": "Rod Stewart",
+    "example": "1983 · 3 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Wherever I Lay My Hat (That's My Home)",
+    "definition": "Paul Young",
+    "example": "1983 · 3 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Give It Up",
+    "definition": "KC And The Sunshine Band",
+    "example": "1983 · 3 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Red Red Wine",
+    "definition": "UB40",
+    "example": "1983 · 3 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Karma Chameleon",
+    "definition": "Culture Club",
+    "example": "1983 · 6 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Uptown Girl",
+    "definition": "Billy Joel",
+    "example": "1983 · 5 weeks at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Only You",
+    "definition": "The Flying Pickets",
+    "example": "1983 · 5 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Pipes Of Peace",
+    "definition": "Paul McCartney",
+    "example": "1984 · 2 weeks at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Relax",
+    "definition": "Frankie Goes to Hollywood",
+    "example": "1984 · 5 weeks at No.1"
+  },
+  {
+    "id": 84,
+    "term": "99 Red Balloons",
+    "definition": "Nena",
+    "example": "1984 · 3 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Hello",
+    "definition": "Lionel Richie",
+    "example": "1984 · 6 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "The Reflex",
+    "definition": "Duran Duran",
+    "example": "1984 · 4 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Wake Me Up Before You Go Go",
+    "definition": "Wham!",
+    "example": "1984 · 2 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Two Tribes",
+    "definition": "Frankie Goes to Hollywood",
+    "example": "1984 · 9 weeks at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Careless Whisper",
+    "definition": "George Michael",
+    "example": "1984 · 3 weeks at No.1"
+  },
+  {
+    "id": 90,
+    "term": "I Just Called To Say I Love You",
+    "definition": "Stevie Wonder",
+    "example": "1984 · 6 weeks at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Freedom",
+    "definition": "Wham!",
+    "example": "1984 · 3 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "I Feel For You",
+    "definition": "Chaka Khan",
+    "example": "1984 · 3 weeks at No.1"
+  },
+  {
+    "id": 93,
+    "term": "I Should Have Known Better",
+    "definition": "Jim Diamond",
+    "example": "1984 · 1 week at No.1"
+  },
+  {
+    "id": 94,
+    "term": "The Power of Love",
+    "definition": "Frankie Goes to Hollywood",
+    "example": "1984 · 1 week at No.1"
+  },
+  {
+    "id": 95,
+    "term": "Do They Know It's Christmas",
+    "definition": "Band Aid",
+    "example": "1984 · 5 weeks at No.1"
+  }
+];
+window.QM_NO1S8589_DATA = [
+  {
+    "id": 1,
+    "term": "I Want To Know What Love Is",
+    "definition": "Foreigner",
+    "example": "1985 · 3 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "I Know Him So Well",
+    "definition": "Elaine Paige And Barbara Dickson",
+    "example": "1985 · 4 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "You Spin Me Round (Like A Record)",
+    "definition": "Dead or Alive",
+    "example": "1985 · 2 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Easy Lover",
+    "definition": "Philip Bailey With Phil Collins",
+    "example": "1985 · 4 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "We Are the World",
+    "definition": "USA for Africa",
+    "example": "1985 · 2 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Move Closer",
+    "definition": "Phyllis Nelson",
+    "example": "1985 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "19",
+    "definition": "Paul Hardcastle",
+    "example": "1985 · 5 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "You'll Never Walk Alone",
+    "definition": "The Crowd",
+    "example": "1985 · 2 weeks at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Frankie",
+    "definition": "Sister Sledge",
+    "example": "1985 · 4 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "There Must Be An Angel (Playing With My Heart)",
+    "definition": "Eurythmics",
+    "example": "1985 · 1 week at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Into The Groove",
+    "definition": "Madonna",
+    "example": "1985 · 4 weeks at No.1"
+  },
+  {
+    "id": 12,
+    "term": "I Got You Babe",
+    "definition": "UB40 featuring Chrissie Hynde",
+    "example": "1985 · 1 week at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Dancing in the Street",
+    "definition": "David Bowie And Mick Jagger",
+    "example": "1985 · 4 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "If I Was",
+    "definition": "Midge Ure",
+    "example": "1985 · 1 week at No.1"
+  },
+  {
+    "id": 15,
+    "term": "The Power of Love",
+    "definition": "Jennifer Rush",
+    "example": "1985 · 5 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "A Good Heart",
+    "definition": "Feargal Sharkey",
+    "example": "1985 · 2 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "I'm Your Man",
+    "definition": "Wham!",
+    "example": "1985 · 2 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Saving All My Love For You",
+    "definition": "Whitney Houston",
+    "example": "1985 · 2 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Merry Christmas Everyone",
+    "definition": "Shakin' Stevens",
+    "example": "1985 · 2 weeks at No.1"
+  },
+  {
+    "id": 20,
+    "term": "West End Girls",
+    "definition": "Pet Shop Boys",
+    "example": "1986 · 2 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "The Sun Always Shines On TV",
+    "definition": "A-ha",
+    "example": "1986 · 2 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "When the Going Gets Tough, the Tough Get Going",
+    "definition": "Billy Ocean",
+    "example": "1986 · 4 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Chain Reaction",
+    "definition": "Diana Ross",
+    "example": "1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Living Doll",
+    "definition": "Cliff Richard And The Young Ones",
+    "example": "1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "A Different Corner",
+    "definition": "George Michael",
+    "example": "1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Rock Me Amadeus",
+    "definition": "Falco",
+    "example": "1986 · 1 week at No.1"
+  },
+  {
+    "id": 27,
+    "term": "The Chicken Song",
+    "definition": "Spitting Image",
+    "example": "1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Spirit In The Sky",
+    "definition": "Doctor And The Medics",
+    "example": "1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "The Edge Of Heaven",
+    "definition": "Wham!",
+    "example": "1986 · 2 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Papa Don't Preach",
+    "definition": "Madonna",
+    "example": "1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "The Lady In Red",
+    "definition": "Chris De Burgh",
+    "example": "1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "I Want To Wake Up With You",
+    "definition": "Boris Gardiner",
+    "example": "1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Don't Leave Me This Way",
+    "definition": "The Communards",
+    "example": "1986 · 4 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "True Blue",
+    "definition": "Madonna",
+    "example": "1986 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Every Loser Wins",
+    "definition": "Nick Berry",
+    "example": "1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Take My Breath Away (Love Theme From 'Top Gun')",
+    "definition": "Berlin",
+    "example": "1986 · 4 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "The Final Countdown",
+    "definition": "Europe",
+    "example": "1986 · 2 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Caravan Of Love",
+    "definition": "The Housemartins",
+    "example": "1986 · 1 week at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Reet Petite",
+    "definition": "Jackie Wilson",
+    "example": "1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Reet Petite (The Sweetest Girl In Town)",
+    "definition": "Jackie Wilson",
+    "example": "1987 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Jack Your Body",
+    "definition": "Steve 'Silk' Hurley",
+    "example": "1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "I Knew You Were Waiting (For Me)",
+    "definition": "George Michael And Aretha Franklin",
+    "example": "1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Stand By Me",
+    "definition": "Ben E King",
+    "example": "1987 · 3 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Everything I Own",
+    "definition": "Boy George",
+    "example": "1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Respectable",
+    "definition": "Mel And Kim",
+    "example": "1987 · 1 week at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Let It Be",
+    "definition": "Ferry Aid",
+    "example": "1987 · 3 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "La Isla Bonita",
+    "definition": "Madonna",
+    "example": "1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Nothing's Gonna Stop Us Now",
+    "definition": "Starship",
+    "example": "1987 · 4 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "I Wanna Dance With Somebody (Who Loves Me)",
+    "definition": "Whitney Houston",
+    "example": "1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Star Trekkin'",
+    "definition": "The Firm",
+    "example": "1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "It's A Sin",
+    "definition": "Pet Shop Boys",
+    "example": "1987 · 3 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Who's That Girl",
+    "definition": "Madonna",
+    "example": "1987 · 1 week at No.1"
+  },
+  {
+    "id": 53,
+    "term": "La Bamba",
+    "definition": "Los Lobos",
+    "example": "1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "I Just Can't Stop Loving You",
+    "definition": "Michael Jackson With Siedah Garrett",
+    "example": "1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Never Gonna Give You Up",
+    "definition": "Rick Astley",
+    "example": "1987 · 5 weeks at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Pump Up The Volume/Anitina (The First Time I See She Dance)",
+    "definition": "M/A/R/R/S",
+    "example": "1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "You Win Again",
+    "definition": "The Bee Gees",
+    "example": "1987 · 4 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "China in Your Hand",
+    "definition": "T'Pau",
+    "example": "1987 · 5 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Always On My Mind",
+    "definition": "Pet Shop Boys",
+    "example": "1987 · 4 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Heaven Is A Place On Earth",
+    "definition": "Belinda Carlisle",
+    "example": "1988 · 2 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "I Think We're Alone Now",
+    "definition": "Tiffany",
+    "example": "1988 · 3 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "I Should Be So Lucky",
+    "definition": "Kylie Minogue",
+    "example": "1988 · 5 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Don't Turn Around",
+    "definition": "Aswad",
+    "example": "1988 · 2 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Heart",
+    "definition": "Pet Shop Boys",
+    "example": "1988 · 3 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Theme From S-Express",
+    "definition": "S-Express",
+    "example": "1988 · 2 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Perfect",
+    "definition": "Fairground Attraction",
+    "example": "1988 · 1 week at No.1"
+  },
+  {
+    "id": 67,
+    "term": "With A Little Help From My Friends/She's Leaving Home",
+    "definition": "Wet Wet Wet/Billy Bragg With Cara Tivey",
+    "example": "1988 · 4 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Doctorin' The Tardis",
+    "definition": "Timelords",
+    "example": "1988 · 1 week at No.1"
+  },
+  {
+    "id": 69,
+    "term": "I Owe You Nothing",
+    "definition": "Bros",
+    "example": "1988 · 2 weeks at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Nothing's Gonna Change My Love For You",
+    "definition": "Glenn Medeiros",
+    "example": "1988 · 4 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "The Only Way Is Up",
+    "definition": "Yazz And The Plastic Population",
+    "example": "1988 · 5 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Groovy Kind Of Love",
+    "definition": "Phil Collins",
+    "example": "1988 · 2 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "He Ain't Heavy, He's My Brother",
+    "definition": "The Hollies",
+    "example": "1988 · 2 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Desire",
+    "definition": "U2",
+    "example": "1988 · 1 week at No.1"
+  },
+  {
+    "id": 75,
+    "term": "One Moment In Time",
+    "definition": "Whitney Houston",
+    "example": "1988 · 2 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Orinoco Flow",
+    "definition": "Enya",
+    "example": "1988 · 3 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "First Time",
+    "definition": "Robin Beck",
+    "example": "1988 · 3 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Mistletoe and Wine",
+    "definition": "Cliff Richard",
+    "example": "1988 · 4 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Especially for You",
+    "definition": "Kylie and Jason",
+    "example": "1989 · 3 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Something's Gotten Hold Of My Heart",
+    "definition": "Marc Almond featuring Gene Pitney",
+    "example": "1989 · 4 weeks at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Belfast Child",
+    "definition": "Simple Minds",
+    "example": "1989 · 2 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Too Many Broken Hearts",
+    "definition": "Jason Donovan",
+    "example": "1989 · 2 weeks at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Like A Prayer",
+    "definition": "Madonna",
+    "example": "1989 · 3 weeks at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Eternal Flame",
+    "definition": "The Bangles",
+    "example": "1989 · 4 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Hand On Your Heart",
+    "definition": "Kylie Minogue",
+    "example": "1989 · 1 week at No.1"
+  },
+  {
+    "id": 86,
+    "term": "Ferry Cross the Mersey",
+    "definition": "Gerry Marsden, Paul McCartney, Holly Johnson and the Christians",
+    "example": "1989 · 3 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Sealed With A Kiss",
+    "definition": "Jason Donovan",
+    "example": "1989 · 2 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Back To Life (However Do You Want Me)",
+    "definition": "Soul II Soul",
+    "example": "1989 · 4 weeks at No.1"
+  },
+  {
+    "id": 89,
+    "term": "You'll Never Stop Me From Loving You",
+    "definition": "Sonia",
+    "example": "1989 · 2 weeks at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Swing The Mood",
+    "definition": "Jive Bunny And The Mastermixers",
+    "example": "1989 · 5 weeks at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Ride On Time",
+    "definition": "Black Box",
+    "example": "1989 · 6 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "That's What I Like",
+    "definition": "Jive Bunny And The Mastermixers",
+    "example": "1989 · 3 weeks at No.1"
+  },
+  {
+    "id": 93,
+    "term": "All Around The World",
+    "definition": "Lisa Stansfield",
+    "example": "1989 · 2 weeks at No.1"
+  },
+  {
+    "id": 94,
+    "term": "You Got It (The Right Stuff)",
+    "definition": "New Kids on the Block",
+    "example": "1989 · 3 weeks at No.1"
+  },
+  {
+    "id": 95,
+    "term": "Let's Party",
+    "definition": "Jive Bunny And The Mastermixers",
+    "example": "1989 · 1 week at No.1"
+  },
+  {
+    "id": 96,
+    "term": "Do They Know It's Christmas?",
+    "definition": "Band Aid II",
+    "example": "1989 · 3 weeks at No.1"
+  }
+];
+window.QM_NO1S9095_DATA = [
+  {
+    "id": 1,
+    "term": "Hangin' Tough",
+    "definition": "New Kids on the Block",
+    "example": "1990 · 2 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Tears On My Pillow",
+    "definition": "Kylie Minogue",
+    "example": "1990 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Nothing Compares 2 U",
+    "definition": "Sinead O'Connor",
+    "example": "1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Dub Be Good To Me",
+    "definition": "Beats International featuring Lindy Layton",
+    "example": "1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "The Power",
+    "definition": "Snap!",
+    "example": "1990 · 2 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Vogue",
+    "definition": "Madonna",
+    "example": "1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Killer",
+    "definition": "Adamski",
+    "example": "1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "World in Motion...",
+    "definition": "Englandneworder",
+    "example": "1990 · 2 weeks at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Sacrifice/Healing Hands",
+    "definition": "Elton John",
+    "example": "1990 · 5 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Turtle Power",
+    "definition": "Partners In Kryme",
+    "example": "1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Itsy Bitsy Teeny Weeny Yellow Polka Dot Bikini",
+    "definition": "Bombalurina",
+    "example": "1990 · 3 weeks at No.1"
+  },
+  {
+    "id": 12,
+    "term": "The Joker",
+    "definition": "The Steve Miller Band",
+    "example": "1990 · 2 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Show Me Heaven",
+    "definition": "Maria McKee",
+    "example": "1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "A Little Time",
+    "definition": "The Beautiful South",
+    "example": "1990 · 1 week at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Unchained Melody",
+    "definition": "The Righteous Brothers",
+    "example": "1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Ice Ice Baby",
+    "definition": "Vanilla Ice",
+    "example": "1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Saviour's Day",
+    "definition": "Cliff Richard",
+    "example": "1990 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Bring Your Daughter... To The Slaughter",
+    "definition": "Iron Maiden",
+    "example": "1991 · 2 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Sadeness Part 1",
+    "definition": "Enigma",
+    "example": "1991 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Innuendo",
+    "definition": "Queen",
+    "example": "1991 · 1 week at No.1"
+  },
+  {
+    "id": 21,
+    "term": "3AM Eternal",
+    "definition": "KLF featuring The Children Of The Revolution",
+    "example": "1991 · 2 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Do The Bartman",
+    "definition": "Simpsons",
+    "example": "1991 · 3 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Should I Stay Or Should I Go",
+    "definition": "The Clash",
+    "example": "1991 · 2 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "The Stonk",
+    "definition": "Hale And Pace And The Stonkers",
+    "example": "1991 · 1 week at No.1"
+  },
+  {
+    "id": 25,
+    "term": "The One And Only",
+    "definition": "Chesney Hawkes",
+    "example": "1991 · 5 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "The Shoop Shoop Song (It's In His Kiss)",
+    "definition": "Cher",
+    "example": "1991 · 5 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "I Wanna Sex You Up",
+    "definition": "Color Me Badd",
+    "example": "1991 · 3 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Any Dream Will Do",
+    "definition": "Jason Donovan",
+    "example": "1991 · 2 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "(Everything I Do) I Do It For You",
+    "definition": "Bryan Adams",
+    "example": "1991 · 16 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "The Fly",
+    "definition": "U2",
+    "example": "1991 · 1 week at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Dizzy",
+    "definition": "Vic Reeves And The Wonder Stuff",
+    "example": "1991 · 2 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Black Or White",
+    "definition": "Michael Jackson",
+    "example": "1991 · 2 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Don't Let The Sun Go Down On Me",
+    "definition": "George Michael And Elton John",
+    "example": "1991 · 2 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Bohemian Rhapsody/These Are The Days Of Our Lives",
+    "definition": "Queen",
+    "example": "1991 · 5 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Goodnight Girl",
+    "definition": "Wet Wet Wet",
+    "example": "1992 · 4 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Stay",
+    "definition": "Shakespears Sister",
+    "example": "1992 · 8 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Deeply Dippy",
+    "definition": "Right Said Fred",
+    "example": "1992 · 3 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Please Don't Go/Game Boy",
+    "definition": "KWS",
+    "example": "1992 · 5 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Abba-esque (EP)",
+    "definition": "Erasure",
+    "example": "1992 · 5 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Ain't No Doubt",
+    "definition": "Jimmy Nail",
+    "example": "1992 · 3 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Rhythm Is A Dancer",
+    "definition": "Snap!",
+    "example": "1992 · 6 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Ebeneezer Goode",
+    "definition": "The Shamen",
+    "example": "1992 · 4 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Sleeping Satellite",
+    "definition": "Tasmin Archer",
+    "example": "1992 · 2 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "End Of The Road",
+    "definition": "Boyz II Men",
+    "example": "1992 · 3 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Would I Lie to You",
+    "definition": "Charles & Eddie",
+    "example": "1992 · 2 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "I Will Always Love You",
+    "definition": "Whitney Houston",
+    "example": "1992 · 10 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "No Limit",
+    "definition": "2 Unlimited",
+    "example": "1993 · 5 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Oh Carolina",
+    "definition": "Shaggy",
+    "example": "1993 · 2 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Young At Heart",
+    "definition": "The Bluebells",
+    "example": "1993 · 4 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Five Live (EP)",
+    "definition": "George Michael And Queen With Lisa Stansfield",
+    "example": "1993 · 3 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "All That She Wants",
+    "definition": "Ace of Base",
+    "example": "1993 · 3 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "(I Can't Help) Falling In Love With You",
+    "definition": "UB40",
+    "example": "1993 · 2 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Dreams",
+    "definition": "Gabrielle",
+    "example": "1993 · 3 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Pray",
+    "definition": "Take That",
+    "example": "1993 · 4 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Living On My Own",
+    "definition": "Freddie Mercury",
+    "example": "1993 · 2 weeks at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Mr. Vain",
+    "definition": "Culture Beat",
+    "example": "1993 · 4 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Boom! Shake The Room",
+    "definition": "DJ Jazzy Jeff & the Fresh Prince",
+    "example": "1993 · 2 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Relight My Fire",
+    "definition": "Take That featuring Lulu",
+    "example": "1993 · 2 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "I'd Do Anything for Love (But I Won't Do That)",
+    "definition": "Meat Loaf",
+    "example": "1993 · 7 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Mr. Blobby",
+    "definition": "Mr Blobby",
+    "example": "1993 · 3 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Babe",
+    "definition": "Take That",
+    "example": "1993 · 1 week at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Twist and Shout",
+    "definition": "Chaka Demus & Pliers featuring Jack Radics and Taxi Gang",
+    "example": "1994 · 2 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Things Can Only Get Better",
+    "definition": "D:Ream",
+    "example": "1994 · 4 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Without You",
+    "definition": "Mariah Carey",
+    "example": "1994 · 4 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Doop",
+    "definition": "Doop",
+    "example": "1994 · 3 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Everything Changes",
+    "definition": "Take That",
+    "example": "1994 · 2 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "The Most Beautiful Girl In The World",
+    "definition": "Prince",
+    "example": "1994 · 2 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "The Real Thing",
+    "definition": "Tony Di Bart",
+    "example": "1994 · 1 week at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Inside",
+    "definition": "Stiltskin",
+    "example": "1994 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Come On You Reds",
+    "definition": "Manchester Utd Football Squad",
+    "example": "1994 · 2 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Love Is All Around",
+    "definition": "Wet Wet Wet",
+    "example": "1994 · 15 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Saturday Night",
+    "definition": "Whigfield",
+    "example": "1994 · 4 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "Sure",
+    "definition": "Take That",
+    "example": "1994 · 2 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Baby Come Back",
+    "definition": "Pato Banton",
+    "example": "1994 · 4 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Let Me Be Your Fantasy",
+    "definition": "Baby D",
+    "example": "1994 · 2 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Stay Another Day",
+    "definition": "East 17",
+    "example": "1994 · 5 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Cotton Eye Joe",
+    "definition": "Rednex",
+    "example": "1995 · 3 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Think Twice",
+    "definition": "Celine Dion",
+    "example": "1995 · 7 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Love Can Build A Bridge",
+    "definition": "Cher, Chrissie Hynde & Neneh Cherry With Eric Clapton",
+    "example": "1995 · 1 week at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Don't Stop (Wiggle Wiggle)",
+    "definition": "The Outhere Brothers",
+    "example": "1995 · 1 week at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Back For Good",
+    "definition": "Take That",
+    "example": "1995 · 4 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Some Might Say",
+    "definition": "Oasis",
+    "example": "1995 · 1 week at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Dreamer",
+    "definition": "Livin' Joy",
+    "example": "1995 · 1 week at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Unchained Melody/White Cliffs Of Dover",
+    "definition": "Robson & Jerome",
+    "example": "1995 · 7 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Boom Boom Boom",
+    "definition": "The Outhere Brothers",
+    "example": "1995 · 4 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "Never Forget",
+    "definition": "Take That",
+    "example": "1995 · 3 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Country House",
+    "definition": "Blur",
+    "example": "1995 · 2 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "You Are Not Alone",
+    "definition": "Michael Jackson",
+    "example": "1995 · 2 weeks at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Boombastic",
+    "definition": "Shaggy",
+    "example": "1995 · 1 week at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Fairground",
+    "definition": "Simply Red",
+    "example": "1995 · 4 weeks at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Gangsta's Paradise",
+    "definition": "Coolio feat. L.V.",
+    "example": "1995 · 2 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "I Believe/Up On The Roof",
+    "definition": "Robson & Jerome",
+    "example": "1995 · 4 weeks at No.1"
+  },
+  {
+    "id": 93,
+    "term": "Earth Song",
+    "definition": "Michael Jackson",
+    "example": "1995 · 6 weeks at No.1"
+  }
+];
+window.QM_NO1S9699_DATA = [
+  {
+    "id": 1,
+    "term": "Jesus To A Child",
+    "definition": "George Michael",
+    "example": "1996 · 1 week at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Spaceman",
+    "definition": "Babylon Zoo",
+    "example": "1996 · 5 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Don't Look Back in Anger",
+    "definition": "Oasis",
+    "example": "1996 · 1 week at No.1"
+  },
+  {
+    "id": 4,
+    "term": "How Deep Is Your Love",
+    "definition": "Take That",
+    "example": "1996 · 3 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Firestarter",
+    "definition": "The Prodigy",
+    "example": "1996 · 3 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Return Of The Mack",
+    "definition": "Mark Morrison",
+    "example": "1996 · 2 weeks at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Fastlove",
+    "definition": "George Michael",
+    "example": "1996 · 3 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Ooh Aah...just a Little Bit",
+    "definition": "Gina G",
+    "example": "1996 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Three Lions",
+    "definition": "Baddiel & Skinner & Lightning Seeds",
+    "example": "1996 · 2 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Killing Me Softly",
+    "definition": "Fugees",
+    "example": "1996 · 5 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Forever Love",
+    "definition": "Gary Barlow",
+    "example": "1996 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Wannabe",
+    "definition": "Spice Girls",
+    "example": "1996 · 7 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Flava",
+    "definition": "Peter Andre",
+    "example": "1996 · 1 week at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Ready Or Not",
+    "definition": "Fugees",
+    "example": "1996 · 2 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Breakfast At Tiffany's",
+    "definition": "Deep Blue Something",
+    "example": "1996 · 1 week at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Setting Sun",
+    "definition": "The Chemical Brothers",
+    "example": "1996 · 1 week at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Words",
+    "definition": "Boyzone",
+    "example": "1996 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Say You'll Be There",
+    "definition": "Spice Girls",
+    "example": "1996 · 2 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "What Becomes of the Broken Hearted",
+    "definition": "Robson & Jerome",
+    "example": "1996 · 2 weeks at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Breathe",
+    "definition": "The Prodigy",
+    "example": "1996 · 2 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "I Feel You",
+    "definition": "Peter Andre",
+    "example": "1996 · 1 week at No.1"
+  },
+  {
+    "id": 22,
+    "term": "A Different Beat",
+    "definition": "Boyzone",
+    "example": "1996 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Knockin' on Heaven's Door/Throw These..",
+    "definition": "Dunblane",
+    "example": "1996 · 1 week at No.1"
+  },
+  {
+    "id": 24,
+    "term": "2 Become 1",
+    "definition": "Spice Girls",
+    "example": "1996 · 3 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Professional Widow (It's Got To Be Big)",
+    "definition": "Tori Amos",
+    "example": "1997 · 1 week at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Your Woman",
+    "definition": "White Town",
+    "example": "1997 · 1 week at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Beetlebum",
+    "definition": "Blur",
+    "example": "1997 · 1 week at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Ain't Nobody",
+    "definition": "LL Cool J",
+    "example": "1997 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Discotheque",
+    "definition": "U2",
+    "example": "1997 · 1 week at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Don't Speak",
+    "definition": "No Doubt",
+    "example": "1997 · 3 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Mama/Who Do You Think You Are",
+    "definition": "Spice Girls",
+    "example": "1997 · 3 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Block Rockin' Beats",
+    "definition": "The Chemical Brothers",
+    "example": "1997 · 1 week at No.1"
+  },
+  {
+    "id": 33,
+    "term": "I Believe I Can Fly",
+    "definition": "R. Kelly",
+    "example": "1997 · 3 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Blood on the Dance Floor",
+    "definition": "Michael Jackson",
+    "example": "1997 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Love Wont Wait",
+    "definition": "Gary Barlow",
+    "example": "1997 · 1 week at No.1"
+  },
+  {
+    "id": 36,
+    "term": "You're Not Alone",
+    "definition": "Olive",
+    "example": "1997 · 2 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "I Wanna Be The Only One",
+    "definition": "Eternal featuring BeBe Winans",
+    "example": "1997 · 1 week at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Mmm Bop",
+    "definition": "Hanson",
+    "example": "1997 · 3 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "I'll Be Missing You",
+    "definition": "Puff Daddy And Faith Evans ft 112",
+    "example": "1997 · 6 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "D'You Know What I Mean?",
+    "definition": "Oasis",
+    "example": "1997 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Men In Black",
+    "definition": "Will Smith",
+    "example": "1997 · 4 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "The Drugs Don't Work",
+    "definition": "The Verve",
+    "example": "1997 · 1 week at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Something About The Way You Look Tonight",
+    "definition": "Elton John",
+    "example": "1997 · 5 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Spice Up Your Life",
+    "definition": "Spice Girls",
+    "example": "1997 · 1 week at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Barbie Girl",
+    "definition": "Aqua",
+    "example": "1997 · 4 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Perfect Day",
+    "definition": "Various Artists",
+    "example": "1997 · 3 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Teletubbies Say Eh-Oh!",
+    "definition": "The Teletubbies",
+    "example": "1997 · 2 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Too Much",
+    "definition": "Spice Girls",
+    "example": "1997 · 2 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Never Ever",
+    "definition": "All Saints",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 50,
+    "term": "All Around The World",
+    "definition": "Oasis",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 51,
+    "term": "You Make Me Wanna...",
+    "definition": "Usher",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Doctor Jones",
+    "definition": "Aqua",
+    "example": "1998 · 2 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "My Heart Will Go On",
+    "definition": "Celine Dion",
+    "example": "1998 · 2 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Brimful of Asha",
+    "definition": "Cornershop",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Frozen",
+    "definition": "Madonna",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "It's Like That",
+    "definition": "Run-DMC vs Jason Nevins",
+    "example": "1998 · 6 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "All That I Need",
+    "definition": "Boyzone",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Under The Bridge/Lady Marmalade",
+    "definition": "All Saints",
+    "example": "1998 · 2 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Turn Back Time",
+    "definition": "Aqua",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Feel It",
+    "definition": "The Tamperer feat. Maya",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 61,
+    "term": "C'est La Vie",
+    "definition": "B*Witched",
+    "example": "1998 · 2 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "3 Lions '98",
+    "definition": "Baddiel & Skinner & Lightning Seeds",
+    "example": "1998 · 3 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Because We Want To",
+    "definition": "Billie",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Freak Me",
+    "definition": "Another Level",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Deeper Underground",
+    "definition": "Jamiroquai",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Viva Forever",
+    "definition": "Spice Girls",
+    "example": "1998 · 2 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "No Matter What",
+    "definition": "Boyzone",
+    "example": "1998 · 3 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "If You Tolerate This Your Children Will Be Next",
+    "definition": "Manic Street Preachers",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Bootie Call",
+    "definition": "All Saints",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Millennium",
+    "definition": "Robbie Williams",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 71,
+    "term": "I Want You Back",
+    "definition": "Melanie B ft Missy Elliott",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Rollercoaster",
+    "definition": "B*Witched",
+    "example": "1998 · 2 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "Girlfriend",
+    "definition": "Billie",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Gym And Tonic",
+    "definition": "Spacedust",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Believe",
+    "definition": "Cher",
+    "example": "1998 · 6 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "To You I Belong",
+    "definition": "B*Witched",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Goodbye",
+    "definition": "Spice Girls",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Chocolate Salty Balls",
+    "definition": "Chef",
+    "example": "1998 · 1 week at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Heartbeat/Tragedy",
+    "definition": "Steps",
+    "example": "1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Praise You",
+    "definition": "Fatboy Slim",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 81,
+    "term": "A Little Bit More",
+    "definition": "911",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Pretty Fly (For A White Guy)",
+    "definition": "The Offspring",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 83,
+    "term": "You Don't Know Me",
+    "definition": "Armand Van Helden Featuring Duane Harden",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Maria",
+    "definition": "Blondie",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Fly Away",
+    "definition": "Lenny Kravitz",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 86,
+    "term": "...Baby One More Time",
+    "definition": "Britney Spears",
+    "example": "1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "When The Going Gets Tough",
+    "definition": "Boyzone",
+    "example": "1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Blame It On The Weatherman",
+    "definition": "B*Witched",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Flat Beat",
+    "definition": "Mr. Oizo",
+    "example": "1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Perfect Moment",
+    "definition": "Martine McCutcheon",
+    "example": "1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Swear It Again",
+    "definition": "Westlife",
+    "example": "1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "I Want It That Way",
+    "definition": "Backstreet Boys",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 93,
+    "term": "You Needed Me",
+    "definition": "Boyzone",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 94,
+    "term": "Sweet Like Chocolate",
+    "definition": "Shanks & Bigfoot",
+    "example": "1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 95,
+    "term": "Everybody's Free (To Wear Sunscreen)",
+    "definition": "Baz Luhrmann",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 96,
+    "term": "Bring It All Back",
+    "definition": "S Club 7",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 97,
+    "term": "Boom,boom,boom,boom!!",
+    "definition": "Vengaboys",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 98,
+    "term": "9PM (Till I Come)",
+    "definition": "ATB",
+    "example": "1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 99,
+    "term": "Livin' La Vida Loca",
+    "definition": "Ricky Martin",
+    "example": "1999 · 3 weeks at No.1"
+  },
+  {
+    "id": 100,
+    "term": "When You Say Nothing At All",
+    "definition": "Ronan Keating",
+    "example": "1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 101,
+    "term": "If I Let You Go",
+    "definition": "Westlife",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 102,
+    "term": "Mi Chico Latino",
+    "definition": "Geri Halliwell",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 103,
+    "term": "Mambo No.5 (A Little Bit Of...)",
+    "definition": "Lou Bega",
+    "example": "1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 104,
+    "term": "We're Going To Ibiza!",
+    "definition": "Vengaboys",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 105,
+    "term": "Blue (Da Ba Dee)",
+    "definition": "Eiffel 65",
+    "example": "1999 · 3 weeks at No.1"
+  },
+  {
+    "id": 106,
+    "term": "Genie In A Bottle",
+    "definition": "Christina Aguilera",
+    "example": "1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 107,
+    "term": "Flying Without Wings",
+    "definition": "Westlife",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 108,
+    "term": "Keep On Movin'",
+    "definition": "Five",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 109,
+    "term": "Lift Me Up",
+    "definition": "Geri Halliwell",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 110,
+    "term": "She's The One/It's Only Us",
+    "definition": "Robbie Williams",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 111,
+    "term": "King Of My Castle",
+    "definition": "Wamdue Project",
+    "example": "1999 · 1 week at No.1"
+  },
+  {
+    "id": 112,
+    "term": "The Millennium Prayer",
+    "definition": "Cliff Richard",
+    "example": "1999 · 3 weeks at No.1"
+  },
+  {
+    "id": 113,
+    "term": "I Have A Dream/Seasons In The Sun",
+    "definition": "Westlife",
+    "example": "1999 · 4 weeks at No.1"
+  }
+];
+window.QM_NO1S0002_DATA = [
+  {
+    "id": 1,
+    "term": "The Masses Against The Classes",
+    "definition": "Manic Street Preachers",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Born To Make You Happy",
+    "definition": "Britney Spears",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Rise",
+    "definition": "Gabrielle",
+    "example": "2000 · 2 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Go Let It Out",
+    "definition": "Oasis",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Pure Shores",
+    "definition": "All Saints",
+    "example": "2000 · 2 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "American Pie",
+    "definition": "Madonna",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Don't Give Up",
+    "definition": "Chicane ft Bryan Adams",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Bag It Up",
+    "definition": "Geri Halliwell",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Never Be The Same Again",
+    "definition": "Melanie C Featuring Lisa 'Left Eye' Lopes",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Fool Again",
+    "definition": "Westlife",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Fill Me In",
+    "definition": "Craig David",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Toca's Miracle",
+    "definition": "Coco vs Fragma",
+    "example": "2000 · 2 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Bound 4 Da Reload (Casualty)",
+    "definition": "Oxide & Neutrino",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Oops! I Did It Again",
+    "definition": "Britney Spears",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Don't Call Me Baby",
+    "definition": "Madison Avenue",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Day & Night",
+    "definition": "Billie Piper",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 17,
+    "term": "It Feels So Good",
+    "definition": "Sonique",
+    "example": "2000 · 3 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "You See The Trouble With Me",
+    "definition": "Black Legend",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Spinning Around",
+    "definition": "Kylie Minogue",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "The Real Slim Shady",
+    "definition": "Eminem",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Breathless",
+    "definition": "The Corrs",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Life Is A Rollercoaster",
+    "definition": "Ronan Keating",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "We Will Rock You",
+    "definition": "Five & Queen",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 24,
+    "term": "7 Days",
+    "definition": "Craig David",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Rock DJ",
+    "definition": "Robbie Williams",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 26,
+    "term": "I Turn To You",
+    "definition": "Melanie C",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Groovejet (If This Ain't Love)",
+    "definition": "Spiller",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Music",
+    "definition": "Madonna",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Take on Me",
+    "definition": "A1",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Lady (Hear Me Tonight)",
+    "definition": "Modjo",
+    "example": "2000 · 2 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Against All Odds",
+    "definition": "Mariah Carey ft Westlife",
+    "example": "2000 · 2 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Black Coffee",
+    "definition": "All Saints",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Beautiful Day",
+    "definition": "U2",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Stomp",
+    "definition": "Steps",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Holler/Let Love Lead The Way",
+    "definition": "Spice Girls",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 36,
+    "term": "My Love",
+    "definition": "Westlife",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Same Old Brand New You",
+    "definition": "A1",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Can't Fight The Moonlight",
+    "definition": "Leann Rimes",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Independent Women",
+    "definition": "Destiny's Child",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Never Had A Dream Come True",
+    "definition": "S Club 7",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Stan",
+    "definition": "Eminem",
+    "example": "2000 · 1 week at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Can We Fix It",
+    "definition": "Bob the Builder",
+    "example": "2000 · 3 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Touch Me",
+    "definition": "Rui Da Silva ft Cassandra",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Love Don't Cost A Thing",
+    "definition": "Jennifer Lopez",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Rollin'",
+    "definition": "Limp Bizkit",
+    "example": "2001 · 2 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Whole Again",
+    "definition": "Atomic Kitten",
+    "example": "2001 · 4 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "It Wasn't Me",
+    "definition": "Shaggy ft Rikrok",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Uptown Girl",
+    "definition": "Westlife",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Pure And Simple",
+    "definition": "Hearsay",
+    "example": "2001 · 3 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "What Took You So Long",
+    "definition": "Emma Bunton",
+    "example": "2001 · 2 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Survivor",
+    "definition": "Destiny's Child",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Don't Stop Movin'",
+    "definition": "S Club 7",
+    "example": "2001 · 2 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "It's Raining Men",
+    "definition": "Geri Halliwell",
+    "example": "2001 · 2 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Do You Really Like It",
+    "definition": "DJ Pied Piper & The Masters Of Ceremonies",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Angel",
+    "definition": "Shaggy feat. Rayvon",
+    "example": "2001 · 3 weeks at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Lady Marmalade",
+    "definition": "Christina Aguilera, Lil' Kim, Mya & Pink",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 57,
+    "term": "The Way To Your Love",
+    "definition": "Hearsay",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Another Chance",
+    "definition": "Roger Sanchez",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Eternity/The Road To Mandalay",
+    "definition": "Robbie Williams",
+    "example": "2001 · 2 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Eternal Flame",
+    "definition": "Atomic Kitten",
+    "example": "2001 · 2 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "21 Seconds",
+    "definition": "So Solid Crew",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Let's Dance",
+    "definition": "Five",
+    "example": "2001 · 2 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Too Close",
+    "definition": "Blue",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Mambo No 5",
+    "definition": "Bob the Builder",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Hey Baby",
+    "definition": "DJ Otzi",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Can't Get You Out Of My Head",
+    "definition": "Kylie Minogue",
+    "example": "2001 · 4 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Because I Got High",
+    "definition": "Afroman",
+    "example": "2001 · 3 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Queen Of My Heart",
+    "definition": "Westlife",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 69,
+    "term": "If You Come Back",
+    "definition": "Blue",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Have You Ever",
+    "definition": "S Club 7",
+    "example": "2001 · 1 week at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Gotta Get Thru This",
+    "definition": "Daniel Bedingfield",
+    "example": "2001 · 3 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Somethin' Stupid",
+    "definition": "Robbie Williams And Nicole Kidman",
+    "example": "2001 · 3 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "More Than A Woman",
+    "definition": "Aaliyah",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 74,
+    "term": "My Sweet Lord",
+    "definition": "George Harrison",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Hero",
+    "definition": "Enrique Iglesias",
+    "example": "2002 · 4 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "World Of Our Own",
+    "definition": "Westlife",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Anything Is Possible/Evergreen",
+    "definition": "Will Young",
+    "example": "2002 · 3 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Unchained Melody",
+    "definition": "Gareth Gates",
+    "example": "2002 · 4 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "The Hindu Times",
+    "definition": "Oasis",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Freak Like Me",
+    "definition": "Sugababes",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Kiss Kiss",
+    "definition": "Holly Valance",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 82,
+    "term": "If Tomorrow Never Comes",
+    "definition": "Ronan Keating",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Just A Little",
+    "definition": "Liberty X",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Without Me",
+    "definition": "Eminem",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Light My Fire",
+    "definition": "Will Young",
+    "example": "2002 · 2 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "A Little Less Conversation",
+    "definition": "Elvis Presley",
+    "example": "2002 · 4 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Anyone Of Us (Stupid Mistake)",
+    "definition": "Gareth Gates",
+    "example": "2002 · 3 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Colourblind",
+    "definition": "Darius",
+    "example": "2002 · 2 weeks at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Round Round",
+    "definition": "Sugababes",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Crossroads",
+    "definition": "Blazin' Squad",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 91,
+    "term": "The Tide Is High (Get The Feeling)",
+    "definition": "Atomic Kitten",
+    "example": "2002 · 3 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "Just Like A Pill",
+    "definition": "Pink",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 93,
+    "term": "The Long and Winding Road/Suspicious",
+    "definition": "Will Young & Gareth Gates",
+    "example": "2002 · 2 weeks at No.1"
+  },
+  {
+    "id": 94,
+    "term": "The Ketchup Song (Asereje)",
+    "definition": "Las Ketchup",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 95,
+    "term": "Dilemma",
+    "definition": "Nelly ft Kelly Rowland",
+    "example": "2002 · 2 weeks at No.1"
+  },
+  {
+    "id": 96,
+    "term": "Heaven",
+    "definition": "DJ Sammy & Yanou ft Do",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 97,
+    "term": "Unbreakable",
+    "definition": "Westlife",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 98,
+    "term": "Dirrty",
+    "definition": "Christina Aguilera ft Redman",
+    "example": "2002 · 2 weeks at No.1"
+  },
+  {
+    "id": 99,
+    "term": "If You're Not The One",
+    "definition": "Daniel Bedingfield",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 100,
+    "term": "Lose Yourself",
+    "definition": "Eminem",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 101,
+    "term": "Sorry Seems To Be The Hardest Word",
+    "definition": "Blue ft Elton John",
+    "example": "2002 · 1 week at No.1"
+  },
+  {
+    "id": 102,
+    "term": "Sound Of The Underground",
+    "definition": "Girls Aloud",
+    "example": "2002 · 4 weeks at No.1"
+  }
+];
+window.QM_NO1S0306_DATA = [
+  {
+    "id": 1,
+    "term": "Stop Living The Lie",
+    "definition": "David Sneddon",
+    "example": "2003 · 2 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "All The Things She Said",
+    "definition": "Tatu",
+    "example": "2003 · 4 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Beautiful",
+    "definition": "Christina Aguilera",
+    "example": "2003 · 2 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Spirit In The Sky",
+    "definition": "Gareth Gates ft the Kumars",
+    "example": "2003 · 2 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Make Luv",
+    "definition": "Room 5 ft Oliver Cheatham",
+    "example": "2003 · 4 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "You Said No",
+    "definition": "Busted",
+    "example": "2003 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Loneliness",
+    "definition": "Tomcraft",
+    "example": "2003 · 1 week at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Ignition Remix",
+    "definition": "R. Kelly",
+    "example": "2003 · 4 weeks at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Bring Me To Life",
+    "definition": "Evanescence",
+    "example": "2003 · 4 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Crazy In Love",
+    "definition": "Beyonce",
+    "example": "2003 · 3 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Never Gonna Leave Your Side",
+    "definition": "Daniel Bedingfield",
+    "example": "2003 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Breathe",
+    "definition": "Blu Cantrell ft Sean Paul",
+    "example": "2003 · 4 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Are You Ready for Love",
+    "definition": "Elton John",
+    "example": "2003 · 1 week at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Where Is the Love",
+    "definition": "Black Eyed Peas",
+    "example": "2003 · 6 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Hole In The Head",
+    "definition": "Sugababes",
+    "example": "2003 · 1 week at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Be Faithful",
+    "definition": "Fatman Scoop & Crooklyn Clan",
+    "example": "2003 · 2 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Slow",
+    "definition": "Kylie Minogue",
+    "example": "2003 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Crashed The Wedding",
+    "definition": "Busted",
+    "example": "2003 · 1 week at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Mandy",
+    "definition": "Westlife",
+    "example": "2003 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Leave Right Now",
+    "definition": "Will Young",
+    "example": "2003 · 2 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Changes",
+    "definition": "Ozzy & Kelly Osbourne",
+    "example": "2003 · 1 week at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Mad World",
+    "definition": "Michael Andrews ft Gary Jules",
+    "example": "2003 · 3 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "All This Time",
+    "definition": "Michelle",
+    "example": "2004 · 3 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Take Me to the Clouds Above",
+    "definition": "LMC vs U2",
+    "example": "2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "With a Little Help From My Friends",
+    "definition": "Sam & Mark",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Who's David",
+    "definition": "Busted",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Mysterious Girl",
+    "definition": "Peter Andre",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Toxic",
+    "definition": "Britney Spears",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Cha Cha Slide",
+    "definition": "DJ Casper",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Yeah",
+    "definition": "Usher ft Lil' Jon & Ludacris",
+    "example": "2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "5 Colours In Her Hair",
+    "definition": "McFly",
+    "example": "2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Fuck It (I Don't Want You Back)",
+    "definition": "Eamon",
+    "example": "2004 · 4 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "F.U.R.B. (F U Right Back)",
+    "definition": "Frankee",
+    "example": "2004 · 3 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "I Don't Wanna Know",
+    "definition": "Mario Winans ft Enya & P.diddy",
+    "example": "2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Everytime",
+    "definition": "Britney Spears",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Obviously",
+    "definition": "McFly",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Burn",
+    "definition": "Usher",
+    "example": "2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Lola's Theme",
+    "definition": "Shapeshifters",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Dry Your Eyes",
+    "definition": "The Streets",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Thunderbirds/3AM",
+    "definition": "Busted",
+    "example": "2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Baby Cakes",
+    "definition": "3 of a Kind",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 42,
+    "term": "These Words",
+    "definition": "Natasha Bedingfield",
+    "example": "2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "My Place/Flap Your Wings",
+    "definition": "Nelly",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Real To Me",
+    "definition": "Brian McFadden",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Call On Me",
+    "definition": "Eric Prydz",
+    "example": "2004 · 5 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Radio",
+    "definition": "Robbie Williams",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Wonderful",
+    "definition": "Ja Rule ft R. Kelly & Ashanti",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Just Lose It",
+    "definition": "Eminem",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Vertigo",
+    "definition": "U2",
+    "example": "2004 · 1 week at No.1"
+  },
+  {
+    "id": 50,
+    "term": "I'll Stand By You",
+    "definition": "Girls Aloud",
+    "example": "2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Do They Know It's Christmas",
+    "definition": "Band Aid 20",
+    "example": "2004 · 4 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Against All Odds",
+    "definition": "Steve Brookstein",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Jailhouse Rock",
+    "definition": "Elvis Presley",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 54,
+    "term": "One Night/I Got Stung",
+    "definition": "Elvis Presley",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Goodies",
+    "definition": "Ciara ft Petey Pablo",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "It's Now or Never",
+    "definition": "Elvis Presley",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Like Toy Soldiers",
+    "definition": "Eminem",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Sometimes You Can't Make It On Your Own",
+    "definition": "U2",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Get Right",
+    "definition": "Jennifer Lopez",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Over and Over",
+    "definition": "Nelly ft Tim McGraw",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Dakota",
+    "definition": "Stereophonics",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 62,
+    "term": "All About You/You've Got A Friend",
+    "definition": "McFly",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 63,
+    "term": "(Is This The Way To) Amarillo",
+    "definition": "Tony Christie ft Peter Kay",
+    "example": "2005 · 7 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Lonely",
+    "definition": "Akon",
+    "example": "2005 · 2 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Lyla",
+    "definition": "Oasis",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Axel F",
+    "definition": "Crazy Frog",
+    "example": "2005 · 4 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Ghetto Gospel",
+    "definition": "2PAC ft Elton John",
+    "example": "2005 · 3 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "You're Beautiful",
+    "definition": "James Blunt",
+    "example": "2005 · 5 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "I'll Be OK",
+    "definition": "McFly",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "The Importance Of Being Idle",
+    "definition": "Oasis",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Dare",
+    "definition": "Gorillaz",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Don't Cha",
+    "definition": "The Pussycat Dolls ft Busta Rhymes",
+    "example": "2005 · 3 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "Push The Button",
+    "definition": "Sugababes",
+    "example": "2005 · 3 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "I Bet You Look Good On The Dancefloor",
+    "definition": "Arctic Monkeys",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 75,
+    "term": "You Raise Me Up",
+    "definition": "Westlife",
+    "example": "2005 · 2 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Hung Up",
+    "definition": "Madonna",
+    "example": "2005 · 3 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Stickwitu",
+    "definition": "The Pussycat Dolls",
+    "example": "2005 · 2 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "JCB Song",
+    "definition": "Nizlopi",
+    "example": "2005 · 1 week at No.1"
+  },
+  {
+    "id": 79,
+    "term": "That's My Goal",
+    "definition": "Shayne Ward",
+    "example": "2005 · 4 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "When The Sun Goes Down",
+    "definition": "Arctic Monkeys",
+    "example": "2006 · 1 week at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Nasty Girl",
+    "definition": "The Notorious B.I.G. Feat. Diddy, Nelly, Jagged Edge & Avery Storm",
+    "example": "2006 · 2 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Thunder In My Heart Again",
+    "definition": "Meck ft Leo Sayer",
+    "example": "2006 · 2 weeks at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Sorry",
+    "definition": "Madonna",
+    "example": "2006 · 1 week at No.1"
+  },
+  {
+    "id": 84,
+    "term": "It's Chico Time",
+    "definition": "Chico",
+    "example": "2006 · 2 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "No Tomorrow",
+    "definition": "Orson",
+    "example": "2006 · 1 week at No.1"
+  },
+  {
+    "id": 86,
+    "term": "So Sick",
+    "definition": "Ne-Yo",
+    "example": "2006 · 1 week at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Crazy",
+    "definition": "Gnarls Barkley",
+    "example": "2006 · 9 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "I Wish I Was a Punk Rocker",
+    "definition": "Sandi Thom",
+    "example": "2006 · 1 week at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Maneater",
+    "definition": "Nelly Furtado",
+    "example": "2006 · 3 weeks at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Hips Don't Lie",
+    "definition": "Shakira ft Wyclef Jean",
+    "example": "2006 · 5 weeks at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Smile",
+    "definition": "Lily Allen",
+    "example": "2006 · 2 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "Don't Stop Me Now/Please Please",
+    "definition": "McFly",
+    "example": "2006 · 1 week at No.1"
+  },
+  {
+    "id": 93,
+    "term": "Deja Vu",
+    "definition": "Beyonce ft Jay-Z",
+    "example": "2006 · 1 week at No.1"
+  },
+  {
+    "id": 94,
+    "term": "SexyBack",
+    "definition": "Justin Timberlake",
+    "example": "2006 · 1 week at No.1"
+  },
+  {
+    "id": 95,
+    "term": "I Don't Feel Like Dancin'",
+    "definition": "Scissor Sisters",
+    "example": "2006 · 4 weeks at No.1"
+  },
+  {
+    "id": 96,
+    "term": "America",
+    "definition": "Razorlight",
+    "example": "2006 · 1 week at No.1"
+  },
+  {
+    "id": 97,
+    "term": "Welcome To The Black Parade",
+    "definition": "My Chemical Romance",
+    "example": "2006 · 2 weeks at No.1"
+  },
+  {
+    "id": 98,
+    "term": "Star Girl",
+    "definition": "McFly",
+    "example": "2006 · 1 week at No.1"
+  },
+  {
+    "id": 99,
+    "term": "Put Your Hands Up for Detroit",
+    "definition": "Fedde Le Grand",
+    "example": "2006 · 1 week at No.1"
+  },
+  {
+    "id": 100,
+    "term": "The Rose",
+    "definition": "Westlife",
+    "example": "2006 · 1 week at No.1"
+  },
+  {
+    "id": 101,
+    "term": "Smack That",
+    "definition": "Akon ft Eminem",
+    "example": "2006 · 1 week at No.1"
+  },
+  {
+    "id": 102,
+    "term": "Patience",
+    "definition": "Take That",
+    "example": "2006 · 4 weeks at No.1"
+  },
+  {
+    "id": 103,
+    "term": "A Moment Like This",
+    "definition": "Leona Lewis",
+    "example": "2006 · 4 weeks at No.1"
+  }
+];
+window.QM_NO1S0710_DATA = [
+  {
+    "id": 1,
+    "term": "Grace Kelly",
+    "definition": "Mika",
+    "example": "2007 · 5 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Ruby",
+    "definition": "Kaiser Chiefs",
+    "example": "2007 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Shine",
+    "definition": "Take That",
+    "example": "2007 · 2 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Walk This Way",
+    "definition": "Sugababes vs Girls Aloud",
+    "example": "2007 · 1 week at No.1"
+  },
+  {
+    "id": 5,
+    "term": "(I'm Gonna Be) 500 Miles",
+    "definition": "Proclaimers, Brian Potter & Andy Pipkin",
+    "example": "2007 · 3 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Give It To Me",
+    "definition": "Timbaland Featuring Nelly Furtado & Justin Timberlake",
+    "example": "2007 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Beautiful Liar",
+    "definition": "Beyonce & Shakira",
+    "example": "2007 · 3 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Baby's Coming Back/Transylvania",
+    "definition": "McFly",
+    "example": "2007 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Umbrella",
+    "definition": "Rihanna ft Jay-Z",
+    "example": "2007 · 10 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "The Way I Are",
+    "definition": "Timbaland ft Keri Hilson",
+    "example": "2007 · 2 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "With Every Heartbeat",
+    "definition": "Robyn With Kleerup",
+    "example": "2007 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Stronger",
+    "definition": "Kanye West",
+    "example": "2007 · 2 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Beautiful Girls",
+    "definition": "Sean Kingston",
+    "example": "2007 · 4 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "About You Now",
+    "definition": "Sugababes",
+    "example": "2007 · 4 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Bleeding Love",
+    "definition": "Leona Lewis",
+    "example": "2007 · 7 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "What A Wonderful World",
+    "definition": "Eva Cassidy & Katie Melua",
+    "example": "2007 · 1 week at No.1"
+  },
+  {
+    "id": 17,
+    "term": "When You Believe",
+    "definition": "Leon Jackson",
+    "example": "2007 · 3 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Now You're Gone",
+    "definition": "Basshunter ft DJ Mental Theo's Bazzheadz",
+    "example": "2008 · 5 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Mercy",
+    "definition": "Duffy",
+    "example": "2008 · 5 weeks at No.1"
+  },
+  {
+    "id": 20,
+    "term": "American Boy",
+    "definition": "Estelle ft Kanye West",
+    "example": "2008 · 4 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "4 Minutes",
+    "definition": "Madonna ft Justin Timberlake",
+    "example": "2008 · 4 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "That's Not My Name",
+    "definition": "Ting Tings",
+    "example": "2008 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Take A Bow",
+    "definition": "Rihanna",
+    "example": "2008 · 2 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Singin' In The Rain",
+    "definition": "Mint Royale",
+    "example": "2008 · 2 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Viva La Vida",
+    "definition": "Coldplay",
+    "example": "2008 · 1 week at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Closer",
+    "definition": "Ne-Yo",
+    "example": "2008 · 1 week at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Dance Wiv Me",
+    "definition": "Dizzee Rascal Featuring Calvin Harris And Chrome",
+    "example": "2008 · 4 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "All Summer Long",
+    "definition": "Kid Rock",
+    "example": "2008 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "I Kissed A Girl",
+    "definition": "Katy Perry",
+    "example": "2008 · 5 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Sex on Fire",
+    "definition": "Kings of Leon",
+    "example": "2008 · 3 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "So What",
+    "definition": "Pink",
+    "example": "2008 · 3 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "The Promise",
+    "definition": "Girls Aloud",
+    "example": "2008 · 1 week at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Hero",
+    "definition": "X Factor Finalists",
+    "example": "2008 · 3 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "If I Were A Boy",
+    "definition": "Beyonce",
+    "example": "2008 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Greatest Day",
+    "definition": "Take That",
+    "example": "2008 · 1 week at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Run",
+    "definition": "Leona Lewis",
+    "example": "2008 · 2 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Hallelujah",
+    "definition": "Alexandra Burke",
+    "example": "2008 · 3 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Just Dance",
+    "definition": "Lady Gaga ft Colby O'Donis",
+    "example": "2009 · 3 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "The Fear",
+    "definition": "Lily Allen",
+    "example": "2009 · 4 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "My Life Would Suck Without You",
+    "definition": "Kelly Clarkson",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Right Round",
+    "definition": "Flo Rida ft Kesha",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Islands In The Stream",
+    "definition": "Vanessa Jenkins And Bryn West Featuring Sir Tom Jones And Robin Gibb",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Poker Face",
+    "definition": "Lady Gaga",
+    "example": "2009 · 3 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "I'm Not Alone",
+    "definition": "Calvin Harris",
+    "example": "2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Number 1",
+    "definition": "Tinchy Stryder ft N-Dubz",
+    "example": "2009 · 3 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Boom Boom Pow",
+    "definition": "Black Eyed Peas",
+    "example": "2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Bonkers",
+    "definition": "Dizzee Rascal & Armand Van Helden",
+    "example": "2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Mama Do",
+    "definition": "Pixie Lott",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 49,
+    "term": "When Love Takes Over",
+    "definition": "David Guetta ft Kelly Rowland",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Bulletproof",
+    "definition": "La Roux",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Evacuate The Dancefloor",
+    "definition": "Cascada",
+    "example": "2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Beat Again",
+    "definition": "JLS",
+    "example": "2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "I Gotta Feeling",
+    "definition": "Black Eyed Peas",
+    "example": "2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Never Leave You",
+    "definition": "Tinchy Stryder ft Amelle",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Sexy Chick",
+    "definition": "David Guetta ft Akon",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Holiday",
+    "definition": "Dizzee Rascal",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Run This Town",
+    "definition": "Jay-Z ft Rihanna & Kanye West",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Boys & Girls",
+    "definition": "Pixie Lott",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Break Your Heart",
+    "definition": "Taio Cruz",
+    "example": "2009 · 3 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Oopsy Daisy",
+    "definition": "Chipmunk",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Bad Boys",
+    "definition": "Alexandra Burke ft Flo Rida",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Fight For This Love",
+    "definition": "Cheryl Cole",
+    "example": "2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Everybody In Love",
+    "definition": "JLS",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Meet Me Halfway",
+    "definition": "Black Eyed Peas",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 65,
+    "term": "You Are Not Alone",
+    "definition": "X Factor Finalists 2009",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 66,
+    "term": "The Official BBC Children In Need Medley",
+    "definition": "Peter Kay's Animated All Star Band",
+    "example": "2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Bad Romance",
+    "definition": "Lady Gaga",
+    "example": "2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Killing in the Name",
+    "definition": "Rage Against the Machine",
+    "example": "2009 · 1 week at No.1"
+  },
+  {
+    "id": 69,
+    "term": "The Climb",
+    "definition": "Joe McElderry",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Replay",
+    "definition": "Iyaz",
+    "example": "2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Fireflies",
+    "definition": "Owl City",
+    "example": "2010 · 3 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Everybody Hurts",
+    "definition": "Helping Haiti",
+    "example": "2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "In My Head",
+    "definition": "Jason Derulo",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Pass Out",
+    "definition": "Tinie Tempah",
+    "example": "2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Telephone",
+    "definition": "Lady Gaga ft Beyonce",
+    "example": "2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "This Ain't A Love Song",
+    "definition": "Scouting for Girls",
+    "example": "2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "OMG",
+    "definition": "Usher ft Will.i.am",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Once",
+    "definition": "Diana Vickers",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Good Times",
+    "definition": "Roll Deep",
+    "example": "2010 · 3 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Nothin' On You",
+    "definition": "B.o.B ft Bruno Mars",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Dirtee Disco",
+    "definition": "Dizzee Rascal",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Gettin' Over",
+    "definition": "David Guetta ft Chris Willis",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Shout",
+    "definition": "Shout ft Dizzee & James Corden",
+    "example": "2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 84,
+    "term": "California Gurls",
+    "definition": "Katy Perry ft Snoop Dogg",
+    "example": "2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "The Club Is Alive",
+    "definition": "JLS",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 86,
+    "term": "Airplanes",
+    "definition": "B.o.B ft Hayley Williams",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 87,
+    "term": "We No Speak Americano",
+    "definition": "Yolanda Be Cool vs D Cup",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 88,
+    "term": "All Time Low",
+    "definition": "The Wanted",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Beautiful Monster",
+    "definition": "Ne-Yo",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Club Can't Handle Me",
+    "definition": "Flo Rida ft David Guetta",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Green Light",
+    "definition": "Roll Deep",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 92,
+    "term": "Dynamite",
+    "definition": "Taio Cruz",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 93,
+    "term": "Please Don't Let Me Go",
+    "definition": "Olly Murs",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 94,
+    "term": "Start Without You",
+    "definition": "Alexandra Burke ft Laza Morgan",
+    "example": "2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 95,
+    "term": "Just The Way You Are (Amazing)",
+    "definition": "Bruno Mars",
+    "example": "2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 96,
+    "term": "Written In The Stars",
+    "definition": "Tinie Tempah ft Eric Turner",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 97,
+    "term": "Forget You",
+    "definition": "Cee Lo Green",
+    "example": "2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 98,
+    "term": "Promise This",
+    "definition": "Cheryl Cole",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 99,
+    "term": "Only Girl (In The World)",
+    "definition": "Rihanna",
+    "example": "2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 100,
+    "term": "Love You More",
+    "definition": "JLS",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 101,
+    "term": "Heroes",
+    "definition": "X Factor Finalists 2010",
+    "example": "2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 102,
+    "term": "The Time (Dirty Bit)",
+    "definition": "Black Eyed Peas",
+    "example": "2010 · 1 week at No.1"
+  },
+  {
+    "id": 103,
+    "term": "When We Collide",
+    "definition": "Matt Cardle",
+    "example": "2010 · 3 weeks at No.1"
+  }
+];
+window.QM_NO1S1113_DATA = [
+  {
+    "id": 1,
+    "term": "What's My Name",
+    "definition": "Rihanna ft Drake",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Grenade",
+    "definition": "Bruno Mars",
+    "example": "2011 · 2 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "We R Who We R",
+    "definition": "Kesha",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Price Tag",
+    "definition": "Jessie J ft Bob",
+    "example": "2011 · 2 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Someone Like You",
+    "definition": "Adele",
+    "example": "2011 · 5 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Don't Hold Your Breath",
+    "definition": "Nicole Scherzinger",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "On The Floor",
+    "definition": "Jennifer Lopez ft Pitbull",
+    "example": "2011 · 2 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Party Rock Anthem",
+    "definition": "LMFAO Featuring Lauren Bennett And GoonRock",
+    "example": "2011 · 4 weeks at No.1"
+  },
+  {
+    "id": 9,
+    "term": "The Lazy Song",
+    "definition": "Bruno Mars",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Give Me Everything",
+    "definition": "Pitbull Feat. Ne-Yo, Afrojack & Nayer",
+    "example": "2011 · 3 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Changed The Way You Kiss Me",
+    "definition": "Example",
+    "example": "2011 · 2 weeks at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Don't Wanna Go Home",
+    "definition": "Jason Derulo",
+    "example": "2011 · 2 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Louder",
+    "definition": "DJ Fresh ft Sian Evans",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Glad You Came",
+    "definition": "The Wanted",
+    "example": "2011 · 2 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "She Makes Me Wanna",
+    "definition": "JLS ft Dev",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Swagger Jagger",
+    "definition": "Cher Lloyd",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Promises",
+    "definition": "Nero",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Don't Go",
+    "definition": "Wretch 32 ft Josh Kumra",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Heart Skips A Beat",
+    "definition": "Olly Murs ft Rizzle Kicks",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Stay Awake",
+    "definition": "Example",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 21,
+    "term": "All About Tonight",
+    "definition": "Pixie Lott",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 22,
+    "term": "What Makes You Beautiful",
+    "definition": "One Direction",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "No Regrets",
+    "definition": "Dappy",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Loca People",
+    "definition": "Sak Noel",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 25,
+    "term": "We Found Love",
+    "definition": "Rihanna ft Calvin Harris",
+    "example": "2011 · 6 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Read All About It",
+    "definition": "Professor Green ft Emeli Sande",
+    "example": "2011 · 2 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Wishing On A Star",
+    "definition": "X Factor Finalists 2011",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Dance With Me Tonight",
+    "definition": "Olly Murs",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Cannonball",
+    "definition": "Little Mix",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Wherever You Are",
+    "definition": "Military Wives With Gareth Malone",
+    "example": "2011 · 1 week at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Paradise",
+    "definition": "Coldplay",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Good Feeling",
+    "definition": "Flo Rida",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Domino",
+    "definition": "Jessie J",
+    "example": "2012 · 2 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Twilight",
+    "definition": "Cover Drive",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Titanium",
+    "definition": "David Guetta ft Sia",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Somebody That I Used To Know",
+    "definition": "Gotye ft Kimbra",
+    "example": "2012 · 5 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Hot Right Now",
+    "definition": "DJ Fresh ft Rita Ora",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Part Of Me",
+    "definition": "Katy Perry",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Turn Up The Music",
+    "definition": "Chris Brown",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Call Me Maybe",
+    "definition": "Carly Rae Jepsen",
+    "example": "2012 · 4 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Young",
+    "definition": "Tulisa",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 42,
+    "term": "R.I.P.",
+    "definition": "Rita Ora ft Tinie Tempah",
+    "example": "2012 · 2 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "We Are Young",
+    "definition": "Fun ft Janelle Monae",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Feel the Love",
+    "definition": "Rudimental ft John Newman",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Sing",
+    "definition": "Gary Barlow & The Commonwealth Band",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Call My Name",
+    "definition": "Cheryl",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Payphone",
+    "definition": "Maroon 5 ft Wiz Khalifa",
+    "example": "2012 · 2 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "This Is Love",
+    "definition": "Will.i.am ft Eva Simons",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Spectrum",
+    "definition": "Florence & the Machine",
+    "example": "2012 · 3 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Heatwave",
+    "definition": "Wiley ft Ms D",
+    "example": "2012 · 2 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "How We Do (Party)",
+    "definition": "Rita Ora",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Bom Bom",
+    "definition": "Sam and the Womp",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Wings",
+    "definition": "Little Mix",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Let Me Love You (Until You Learn to Love",
+    "definition": "Ne-Yo",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Hall of Fame",
+    "definition": "Script ft Will.i.am",
+    "example": "2012 · 2 weeks at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Gangnam Style",
+    "definition": "Psy",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Diamonds",
+    "definition": "Rihanna",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Don't You Worry Child",
+    "definition": "Swedish House Mafia Feat. John Martin",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Sweet Nothing",
+    "definition": "Calvin Harris Feat. Florence Welch",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Beneath Your Beautiful",
+    "definition": "Labrinth ft Emeli Sande",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Candy",
+    "definition": "Robbie Williams",
+    "example": "2012 · 2 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Little Things",
+    "definition": "One Direction",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Troublemaker",
+    "definition": "Olly Murs ft Flo Rida",
+    "example": "2012 · 2 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "The Power of Love",
+    "definition": "Gabrielle Aplin",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Impossible",
+    "definition": "James Arthur",
+    "example": "2012 · 3 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "He Ain't Heavy He's My Brother",
+    "definition": "Justice Collective",
+    "example": "2012 · 1 week at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Scream & Shout",
+    "definition": "Will.i.am ft Britney Spears",
+    "example": "2013 · 2 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Get Up (Rattle)",
+    "definition": "Bingo Players ft Far East",
+    "example": "2013 · 2 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Thrift Shop",
+    "definition": "Macklemore & Ryan Lewis Feat. Wanz",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "I Could Be the One",
+    "definition": "Avicii vs Nicky Romero",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 71,
+    "term": "One Way or Another (Teenage Kicks)",
+    "definition": "One Direction",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Mirrors",
+    "definition": "Justin Timberlake",
+    "example": "2013 · 3 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "What About Us",
+    "definition": "Saturdays ft Sean Paul",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Let's Get Ready To Rhumble",
+    "definition": "PJ & Duncan",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Need U (100 Percent)",
+    "definition": "Duke Dumont ft Ame",
+    "example": "2013 · 2 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Waiting All Night",
+    "definition": "Rudimental ft Ella Eyre",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Get Lucky",
+    "definition": "Daft Punk ft Pharrell Williams",
+    "example": "2013 · 4 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "La La La",
+    "definition": "Naughty Boy ft Sam Smith",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Blurred Lines",
+    "definition": "Robin Thicke Feat. T.I. + Pharrell",
+    "example": "2013 · 5 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "I Love It",
+    "definition": "Icona Pop ft Charli Xcx",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Love Me Again",
+    "definition": "John Newman",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Wake Me Up",
+    "definition": "Avicii",
+    "example": "2013 · 3 weeks at No.1"
+  },
+  {
+    "id": 83,
+    "term": "We Can't Stop",
+    "definition": "Miley Cyrus",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Burn",
+    "definition": "Ellie Goulding",
+    "example": "2013 · 3 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Roar",
+    "definition": "Katy Perry",
+    "example": "2013 · 2 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "Talk Dirty",
+    "definition": "Jason Derulo ft 2 Chainz",
+    "example": "2013 · 2 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Counting Stars",
+    "definition": "OneRepublic",
+    "example": "2013 · 2 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Wrecking Ball",
+    "definition": "Miley Cyrus",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Royals",
+    "definition": "Lorde",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 90,
+    "term": "The Monster",
+    "definition": "Eminem ft Rihanna",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Look Right Through",
+    "definition": "Storm Queen",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 92,
+    "term": "Animals",
+    "definition": "Martin Garrix",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 93,
+    "term": "Somewhere Only We Know",
+    "definition": "Lily Allen",
+    "example": "2013 · 3 weeks at No.1"
+  },
+  {
+    "id": 94,
+    "term": "Under Control",
+    "definition": "Calvin Harris & Alesso Feat. Hurts",
+    "example": "2013 · 1 week at No.1"
+  },
+  {
+    "id": 95,
+    "term": "Skyscraper",
+    "definition": "Sam Bailey",
+    "example": "2013 · 1 week at No.1"
+  }
+];
+window.QM_NO1S1416_DATA = [
+  {
+    "id": 1,
+    "term": "Happy",
+    "definition": "Pharrell Williams",
+    "example": "2014 · 4 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Timber",
+    "definition": "Pitbull ft Kesha",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Rather Be",
+    "definition": "Clean Bandit ft Jess Glynne",
+    "example": "2014 · 4 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Money on My Mind",
+    "definition": "Sam Smith",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 5,
+    "term": "My Love",
+    "definition": "Route 94 ft Jess Glynne",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Tsunami (Jump)",
+    "definition": "DVBBS & Borgeous Feat. Tinie Tempah",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "I Got U",
+    "definition": "Duke Dumont ft Jax Jones",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 8,
+    "term": "She Looks So Perfect",
+    "definition": "5 Seconds of Summer",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "The Man",
+    "definition": "Aloe Blacc",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Nobody to Love",
+    "definition": "Sigma",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Hideaway",
+    "definition": "Kiesza",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Waves",
+    "definition": "Mr Probz",
+    "example": "2014 · 2 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Summer",
+    "definition": "Calvin Harris",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 14,
+    "term": "I Will Never Let You Down",
+    "definition": "Rita Ora",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Stay With Me",
+    "definition": "Sam Smith",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 16,
+    "term": "I Wanna Feel",
+    "definition": "Secondcity",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Sing",
+    "definition": "Ed Sheeran",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Ghost",
+    "definition": "Ella Henderson",
+    "example": "2014 · 2 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Gecko (Overdrive)",
+    "definition": "Oliver Heldens & Becky Hill",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Problem",
+    "definition": "Ariana Grande ft Iggy Azalea",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 21,
+    "term": "It's My Birthday",
+    "definition": "Will.i.am ft Cody Wise",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Me and My Broken Heart",
+    "definition": "Rixton",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Crazy Stupid Love",
+    "definition": "Cheryl Cole ft Tinie Tempah",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Rude",
+    "definition": "Magic",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Am I Wrong",
+    "definition": "Nico & Vinz",
+    "example": "2014 · 2 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Lovers on the Sun",
+    "definition": "David Guetta ft Sam Martin",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Prayer in C",
+    "definition": "Lilly Wood & Robin Schulz",
+    "example": "2014 · 2 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Blame",
+    "definition": "Calvin Harris ft John Newman",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Changing",
+    "definition": "Sigma ft Paloma Faith",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Bang Bang",
+    "definition": "Jessie J, Ariana Grande & Nicki Minaj",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 31,
+    "term": "All About That Bass",
+    "definition": "Meghan Trainor",
+    "example": "2014 · 4 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Thinking Out Loud",
+    "definition": "Ed Sheeran",
+    "example": "2014 · 2 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "I Don't Care",
+    "definition": "Cheryl",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Wake Me Up",
+    "definition": "Gareth Malone's All Star Choir",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Do They Know It's Christmas",
+    "definition": "Band Aid 30",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 36,
+    "term": "These Days",
+    "definition": "Take That",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Uptown Funk",
+    "definition": "Mark Ronson ft Bruno Mars",
+    "example": "2014 · 7 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Something I Need",
+    "definition": "Ben Haenow",
+    "example": "2014 · 1 week at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Love Me Like You Do",
+    "definition": "Ellie Goulding",
+    "example": "2015 · 4 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "King",
+    "definition": "Years & Years",
+    "example": "2015 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Lay Me Down",
+    "definition": "Sam Smith ft John Legend",
+    "example": "2015 · 2 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Hold My Hand",
+    "definition": "Jess Glynne",
+    "example": "2015 · 3 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "See You Again",
+    "definition": "Wiz Khalifa ft Charlie Puth",
+    "example": "2015 · 2 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Cheerleader (Felix Jaehn Remix)",
+    "definition": "Omi",
+    "example": "2015 · 4 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Want to Want Me",
+    "definition": "Jason Derulo",
+    "example": "2015 · 4 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Not Letting Go",
+    "definition": "Tinie Tempah ft Jess Glynne",
+    "example": "2015 · 1 week at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Are You With Me",
+    "definition": "Lost Frequencies",
+    "example": "2015 · 1 week at No.1"
+  },
+  {
+    "id": 48,
+    "term": "House Every Weekend",
+    "definition": "David Zowie",
+    "example": "2015 · 1 week at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Black Magic",
+    "definition": "Little Mix",
+    "example": "2015 · 3 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Drag Me Down",
+    "definition": "One Direction",
+    "example": "2015 · 1 week at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Marvin Gaye",
+    "definition": "Charlie Puth ft Meghan Trainor",
+    "example": "2015 · 1 week at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Don't Be So Hard on Yourself",
+    "definition": "Jess Glynne",
+    "example": "2015 · 1 week at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Fight Song",
+    "definition": "Rachel Platten",
+    "example": "2015 · 1 week at No.1"
+  },
+  {
+    "id": 54,
+    "term": "What Do You Mean",
+    "definition": "Justin Bieber",
+    "example": "2015 · 5 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Easy Love",
+    "definition": "Sigala",
+    "example": "2015 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Writing's on the Wall",
+    "definition": "Sam Smith",
+    "example": "2015 · 1 week at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Turn the Music Louder (Rumble)",
+    "definition": "KDA ft Tinie Tempah & Katy B",
+    "example": "2015 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Hello",
+    "definition": "Adele",
+    "example": "2015 · 3 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Sorry",
+    "definition": "Justin Bieber",
+    "example": "2015 · 2 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Love Yourself",
+    "definition": "Justin Bieber",
+    "example": "2015 · 6 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "A Bridge Over You",
+    "definition": "Lewisham & Greenwich NHS Choir",
+    "example": "2015 · 1 week at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Stitches",
+    "definition": "Shawn Mendes",
+    "example": "2016 · 2 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Pillowtalk",
+    "definition": "Zayn",
+    "example": "2016 · 1 week at No.1"
+  },
+  {
+    "id": 64,
+    "term": "7 Years",
+    "definition": "Lukas Graham",
+    "example": "2016 · 5 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "I Took a Pill in Ibiza",
+    "definition": "Mike Posner",
+    "example": "2016 · 4 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "One Dance",
+    "definition": "Drake ft Wizkid & Kyla",
+    "example": "2016 · 15 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Cold Water",
+    "definition": "Major Lazer Feat. Justin Bieber & MØ",
+    "example": "2016 · 5 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Closer",
+    "definition": "The Chainsmokers ft Halsey",
+    "example": "2016 · 4 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Say You Won't Let Go",
+    "definition": "James Arthur",
+    "example": "2016 · 3 weeks at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Shout Out to My Ex",
+    "definition": "Little Mix",
+    "example": "2016 · 3 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Rockabye",
+    "definition": "Clean Bandit",
+    "example": "2016 · 9 weeks at No.1"
+  }
+];
+window.QM_NO1S1719_DATA = [
+  {
+    "id": 1,
+    "term": "Shape of You",
+    "definition": "Ed Sheeran",
+    "example": "2017 · 14 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Sign of the Times",
+    "definition": "Harry Styles",
+    "example": "2017 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Symphony",
+    "definition": "Clean Bandit ft Zara Larsson",
+    "example": "2017 · 1 week at No.1"
+  },
+  {
+    "id": 4,
+    "term": "I'm the One",
+    "definition": "DJ Khaled Feat. Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
+    "example": "2017 · 1 week at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Despacito (Remix)",
+    "definition": "Luis Fonsi & Daddy Yankee Feat. Justin Bieber",
+    "example": "2017 · 11 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Bridge Over Troubled Water",
+    "definition": "Artists for Grenfell",
+    "example": "2017 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Wild Thoughts",
+    "definition": "DJ Khaled Feat. Rihanna & Bryson Tiller",
+    "example": "2017 · 1 week at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Feels",
+    "definition": "Calvin Harris Feat. Pharrell Williams, Katy Perry & Big Sean",
+    "example": "2017 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "New Rules",
+    "definition": "Dua Lipa",
+    "example": "2017 · 2 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Look What You Made Me Do",
+    "definition": "Taylor Swift",
+    "example": "2017 · 2 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Too Good at Goodbyes",
+    "definition": "Sam Smith",
+    "example": "2017 · 3 weeks at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Rockstar",
+    "definition": "Post Malone ft 21 Savage",
+    "example": "2017 · 4 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Havana",
+    "definition": "Camila Cabello ft Young Thug",
+    "example": "2017 · 5 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Perfect",
+    "definition": "Ed Sheeran",
+    "example": "2017 · 6 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "River",
+    "definition": "Eminem ft Ed Sheeran",
+    "example": "2018 · 1 week at No.1"
+  },
+  {
+    "id": 16,
+    "term": "God's Plan",
+    "definition": "Drake",
+    "example": "2018 · 9 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "These Days",
+    "definition": "Rudimental Feat. Jess Glynne, Macklemore & Dan Caplen",
+    "example": "2018 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Freaky Friday",
+    "definition": "Lil Dicky ft Chris Brown",
+    "example": "2018 · 1 week at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Nice for What",
+    "definition": "Drake",
+    "example": "2018 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "One Kiss",
+    "definition": "Calvin Harris & Dua Lipa",
+    "example": "2018 · 8 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "I'll Be There",
+    "definition": "Jess Glynne",
+    "example": "2018 · 1 week at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Solo",
+    "definition": "Clean Bandit ft Demi Lovato",
+    "example": "2018 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Shotgun",
+    "definition": "George Ezra",
+    "example": "2018 · 4 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "3 Lions",
+    "definition": "Baddiel & Skinner & Lightning Seeds",
+    "example": "2018 · 1 week at No.1"
+  },
+  {
+    "id": 25,
+    "term": "In My Feelings",
+    "definition": "Drake",
+    "example": "2018 · 4 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Eastside",
+    "definition": "Benny Blanco Feat. Halsey & Khalid",
+    "example": "2018 · 1 week at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Promises",
+    "definition": "Calvin Harris & Sam Smith",
+    "example": "2018 · 6 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Funky Friday",
+    "definition": "Dave ft Fredo",
+    "example": "2018 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Shallow",
+    "definition": "Lady Gaga & Bradley Cooper",
+    "example": "2018 · 2 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Thank U Next",
+    "definition": "Ariana Grande",
+    "example": "2018 · 6 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "We Built This City",
+    "definition": "Ladbaby",
+    "example": "2018 · 1 week at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Sweet but Psycho",
+    "definition": "Ava Max",
+    "example": "2019 · 4 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "7 Rings",
+    "definition": "Ariana Grande",
+    "example": "2019 · 4 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Break Up With Your Girlfriend I'm Bored",
+    "definition": "Ariana Grande",
+    "example": "2019 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Someone You Loved",
+    "definition": "Lewis Capaldi",
+    "example": "2019 · 7 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Old Town Road",
+    "definition": "Lil Nas X",
+    "example": "2019 · 2 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Vossi Bop",
+    "definition": "Stormzy",
+    "example": "2019 · 2 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "I Don't Care",
+    "definition": "Ed Sheeran & Justin Bieber",
+    "example": "2019 · 8 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Senorita",
+    "definition": "Shawn Mendes & Camila Cabello",
+    "example": "2019 · 6 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Beautiful People",
+    "definition": "Ed Sheeran ft Khalid",
+    "example": "2019 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Take Me Back to London",
+    "definition": "Ed Sheeran ft Stormzy",
+    "example": "2019 · 5 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Dance Monkey",
+    "definition": "Tones & I",
+    "example": "2019 · 11 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "I Love Sausage Rolls",
+    "definition": "Ladbaby",
+    "example": "2019 · 1 week at No.1"
+  }
+];
+window.QM_NO1S2026_DATA = [
+  {
+    "id": 1,
+    "term": "River",
+    "definition": "Ellie Goulding",
+    "example": "2020 · 1 week at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Own It",
+    "definition": "Stormzy Feat. Ed Sheeran & Burna Boy",
+    "example": "2020 · 3 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Godzilla",
+    "definition": "Eminem ft Juice Wrld",
+    "example": "2020 · 1 week at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Before You Go",
+    "definition": "Lewis Capaldi",
+    "example": "2020 · 1 week at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Blinding Lights",
+    "definition": "The Weeknd",
+    "example": "2020 · 8 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "No Time to Die",
+    "definition": "Billie Eilish",
+    "example": "2020 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Roses",
+    "definition": "SAINt JHN",
+    "example": "2020 · 2 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "You'll Never Walk Alone",
+    "definition": "Michael Ball & Captain Tom Moore With The NHS Voices Of Care Choir",
+    "example": "2020 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Times Like These (BBC Radio 1 Stay Home)",
+    "definition": "Live Lounge Allstars",
+    "example": "2020 · 1 week at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Toosie Slide",
+    "definition": "Drake",
+    "example": "2020 · 1 week at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Rockstar",
+    "definition": "Dababy ft Roddy Ricch",
+    "example": "2020 · 6 weeks at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Rain on Me",
+    "definition": "Lady Gaga & Ariana Grande",
+    "example": "2020 · 1 week at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Savage Love (Laxed - Siren Beat)",
+    "definition": "Jawsh 685 & Jason Derulo",
+    "example": "2020 · 3 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Head & Heart",
+    "definition": "Joel Corry ft MNEK",
+    "example": "2020 · 6 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Wap",
+    "definition": "Cardi B ft Megan Thee Stallion",
+    "example": "2020 · 3 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Mood",
+    "definition": "24kgoldn ft Iann Dior",
+    "example": "2020 · 4 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Lemonade",
+    "definition": "Internet Money Feat. Gunna, Don Toliver & NAV",
+    "example": "2020 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Positions",
+    "definition": "Ariana Grande",
+    "example": "2020 · 6 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "All I Want for Christmas Is You",
+    "definition": "Mariah Carey",
+    "example": "2020 · 2 weeks at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Don't Stop Me Eatin'",
+    "definition": "Ladbaby",
+    "example": "2020 · 1 week at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Last Christmas",
+    "definition": "Wham!",
+    "example": "2021 · 1 week at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Sweet Melody",
+    "definition": "Little Mix",
+    "example": "2021 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Drivers License",
+    "definition": "Olivia Rodrigo",
+    "example": "2021 · 9 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Wellerman",
+    "definition": "Nathan Evans, 220 KID & Billen Ted",
+    "example": "2021 · 2 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Montero (Call Me by Your Name)",
+    "definition": "Lil Nas X",
+    "example": "2021 · 5 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Body",
+    "definition": "Tion Wayne & Russ Millions",
+    "example": "2021 · 3 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Good 4 U",
+    "definition": "Olivia Rodrigo",
+    "example": "2021 · 5 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Bad Habits",
+    "definition": "Ed Sheeran",
+    "example": "2021 · 11 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Shivers",
+    "definition": "Ed Sheeran",
+    "example": "2021 · 4 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Cold Heart",
+    "definition": "Elton John & Dua Lipa",
+    "example": "2021 · 1 week at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Easy on Me",
+    "definition": "Adele",
+    "example": "2021 · 8 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Merry Christmas",
+    "definition": "Ed Sheeran & Elton John",
+    "example": "2021 · 3 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Sausage Rolls for Everyone",
+    "definition": "LadBaby Feat. Ed Sheeran & Elton John",
+    "example": "2021 · 1 week at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Abcdefu",
+    "definition": "Gayle",
+    "example": "2022 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "We Don't Talk About Bruno",
+    "definition": "Carolina Gaitán, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & The Encanto Cast",
+    "example": "2022 · 7 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Starlight",
+    "definition": "Dave",
+    "example": "2022 · 4 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "As It Was",
+    "definition": "Harry Styles",
+    "example": "2022 · 10 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Running Up That Hill",
+    "definition": "Kate Bush",
+    "example": "2022 · 3 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Afraid to Feel",
+    "definition": "LF System",
+    "example": "2022 · 8 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "B.O.T.A. (Baddest of Them All)",
+    "definition": "Eliza Rose & Interplanetary Criminal",
+    "example": "2022 · 2 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Forget Me",
+    "definition": "Lewis Capaldi",
+    "example": "2022 · 1 week at No.1"
+  },
+  {
+    "id": 42,
+    "term": "I'm Good (Blue)",
+    "definition": "David Guetta & Bebe Rexha",
+    "example": "2022 · 1 week at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Unholy",
+    "definition": "Sam Smith & Kim Petras",
+    "example": "2022 · 4 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Anti-Hero",
+    "definition": "Taylor Swift",
+    "example": "2022 · 6 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "All I Want for Christmas Is You",
+    "definition": "Mariah Carey",
+    "example": "2022 · 1 week at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Last Christmas",
+    "definition": "Wham!",
+    "example": "2022 · 2 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Food Aid",
+    "definition": "Ladbaby",
+    "example": "2022 · 1 week at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Escapism",
+    "definition": "Raye ft 070 Shake",
+    "example": "2023 · 1 week at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Pointless",
+    "definition": "Lewis Capaldi",
+    "example": "2023 · 1 week at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Flowers",
+    "definition": "Miley Cyrus",
+    "example": "2023 · 10 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Eyes Closed",
+    "definition": "Ed Sheeran",
+    "example": "2023 · 1 week at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Miracle",
+    "definition": "Calvin Harris Feat. Ellie Goulding",
+    "example": "2023 · 8 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Wish You the Best",
+    "definition": "Lewis Capaldi",
+    "example": "2023 · 1 week at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Sprinter",
+    "definition": "Dave & Central Cee",
+    "example": "2023 · 10 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "What Was I Made for",
+    "definition": "Billie Eilish",
+    "example": "2023 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Dance the Night (From Barbie the Album)",
+    "definition": "Dua Lipa",
+    "example": "2023 · 1 week at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Vampire",
+    "definition": "Olivia Rodrigo",
+    "example": "2023 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Paint the Town Red",
+    "definition": "Doja Cat",
+    "example": "2023 · 5 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Strangers",
+    "definition": "Kenya Grace",
+    "example": "2023 · 3 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Is It Over Now (Taylor's Version)",
+    "definition": "Taylor Swift",
+    "example": "2023 · 1 week at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Now and Then",
+    "definition": "The Beatles",
+    "example": "2023 · 1 week at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Lovin on Me",
+    "definition": "Jack Harlow",
+    "example": "2023 · 3 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Last Christmas",
+    "definition": "Wham!",
+    "example": "2023 · 4 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Stick Season",
+    "definition": "Noah Kahan",
+    "example": "2024 · 7 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Texas Hold 'Em",
+    "definition": "Beyonce",
+    "example": "2024 · 5 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Beautiful Things",
+    "definition": "Benson Boone",
+    "example": "2024 · 2 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Too Sweet",
+    "definition": "Hozier",
+    "example": "2024 · 2 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Fortnight",
+    "definition": "Taylor Swift ft Post Malone",
+    "example": "2024 · 1 week at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Espresso",
+    "definition": "Sabrina Carpenter",
+    "example": "2024 · 7 weeks at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Houdini",
+    "definition": "Eminem",
+    "example": "2024 · 2 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Please Please Please",
+    "definition": "Sabrina Carpenter",
+    "example": "2024 · 5 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Guess",
+    "definition": "Charli Xcx ft Billie Eilish",
+    "example": "2024 · 1 week at No.1"
+  },
+  {
+    "id": 73,
+    "term": "Backbone",
+    "definition": "Chase & Status & Stormzy",
+    "example": "2024 · 2 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Taste",
+    "definition": "Sabrina Carpenter",
+    "example": "2024 · 9 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Sailor Song",
+    "definition": "Gigi Perez",
+    "example": "2024 · 1 week at No.1"
+  },
+  {
+    "id": 76,
+    "term": "That's So True",
+    "definition": "Gracie Abrams",
+    "example": "2024 · 8 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Last Christmas",
+    "definition": "Wham!",
+    "example": "2024 · 3 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Messy",
+    "definition": "Lola Young",
+    "example": "2025 · 4 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Not Like Us",
+    "definition": "Kendrick Lamar",
+    "example": "2025 · 2 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Pink Pony Club",
+    "definition": "Chappell Roan",
+    "example": "2025 · 2 weeks at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Ordinary",
+    "definition": "Alex Warren",
+    "example": "2025 · 13 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Manchild",
+    "definition": "Sabrina Carpenter",
+    "example": "2025 · 2 weeks at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Survive",
+    "definition": "Lewis Capaldi",
+    "example": "2025 · 1 week at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Dior",
+    "definition": "MK ft Chrystal",
+    "example": "2025 · 2 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Daisies",
+    "definition": "Justin Bieber",
+    "example": "2025 · 1 week at No.1"
+  },
+  {
+    "id": 86,
+    "term": "Golden",
+    "definition": "Huntr/X: Ejae, Audrey Nuna & Rei Ami",
+    "example": "2025 · 10 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "The Subway",
+    "definition": "Chappell Roan",
+    "example": "2025 · 1 week at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Man I Need",
+    "definition": "Olivia Dean",
+    "example": "2025 · 1 week at No.1"
+  },
+  {
+    "id": 89,
+    "term": "The Fate of Ophelia",
+    "definition": "Taylor Swift",
+    "example": "2025 · 7 weeks at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Last Christmas",
+    "definition": "Wham!",
+    "example": "2025 · 2 weeks at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Xmas",
+    "definition": "Kylie Minogue",
+    "example": "2025 · 1 week at No.1"
+  },
+  {
+    "id": 92,
+    "term": "Where Is My Husband",
+    "definition": "Raye",
+    "example": "2026 · 1 week at No.1"
+  },
+  {
+    "id": 93,
+    "term": "End of Beginning",
+    "definition": "Djo",
+    "example": "2026 · 2 weeks at No.1"
+  },
+  {
+    "id": 94,
+    "term": "Raindance",
+    "definition": "Dave & Tems",
+    "example": "2026 · 2 weeks at No.1"
+  },
+  {
+    "id": 95,
+    "term": "Aperture",
+    "definition": "Harry Styles",
+    "example": "2026 · 1 week at No.1"
+  },
+  {
+    "id": 96,
+    "term": "Opalite",
+    "definition": "Taylor Swift",
+    "example": "2026 · 1 week at No.1"
+  },
+  {
+    "id": 97,
+    "term": "Rein Me in",
+    "definition": "Sam Fender & Olivia Dean",
+    "example": "2026 · 13 weeks at No.1"
+  },
+  {
+    "id": 98,
+    "term": "American Girls",
+    "definition": "Harry Styles",
+    "example": "2026 · 1 week at No.1"
+  },
+  {
+    "id": 99,
+    "term": "Drop Dead",
+    "definition": "Olivia Rodrigo",
+    "example": "2026 · 1 week at No.1"
+  },
+  {
+    "id": 100,
+    "term": "Hate That I Made You Love Me",
+    "definition": "Ariana Grande",
+    "example": "2026 · 1 week at No.1"
+  },
+  {
+    "id": 101,
+    "term": "I Knew It I Knew You",
+    "definition": "Taylor Swift",
+    "example": "2026 · 2 weeks at No.1"
+  }
+];
 window.QM_BALLETPIX_DATA = [
   {
     "id": 1,
@@ -53218,603 +62646,603 @@ window.QM_POKEMON_GEN9_DATA = [
 window.QM_IDIOMS_IT_DATA = [
   {
     "id": 1,
-    "term": "a proprio rischio e pericolo",
-    "definition": "at one's own risk, at one's own peril",
-    "example": ""
+    "term": "In bocca al lupo",
+    "definition": "\"Into the wolf’s mouth\" — good luck!",
+    "example": "In bocca al lupo per l’esame di domani!"
   },
   {
     "id": 2,
-    "term": "alle spalle di",
-    "definition": "at the expense of (someone); on the back of",
-    "example": "vivere alle spalle di Larry."
+    "term": "Non c’è trippa per gatti",
+    "definition": "\"There’s no tripe for cats\" — nothing doing; forget it",
+    "example": "Volevano un altro sconto, ma non c’è trippa per gatti."
   },
   {
     "id": 3,
-    "term": "andare da sé",
-    "definition": "to proceed smoothly without the need for external interventions; to go on on one's own",
-    "example": "l'accordo va da sé."
+    "term": "Avere le mani in pasta",
+    "definition": "\"To have your hands in the dough\" — to be deeply involved in something",
+    "example": "Ha le mani in pasta in tutti i cantieri della città."
   },
   {
     "id": 4,
-    "term": "andare per la propria strada",
-    "definition": "to go their separate ways",
-    "example": "man mano che la serata giungeva al termine, i promessi sposi sono andati per le proprie strade."
+    "term": "Prendere due piccioni con una fava",
+    "definition": "\"To catch two pigeons with one broad bean\" — to kill two birds with one stone",
+    "example": "Passo in banca e poi dal medico: prendo due piccioni con una fava."
   },
   {
     "id": 5,
-    "term": "avere a ridosso",
-    "definition": "to have (someone) who follows insistingly or threateningly; to be dogged or harassed",
-    "example": "aveva gli sbirri a ridosso."
+    "term": "Essere al verde",
+    "definition": "\"To be at the green\" — to be flat broke",
+    "example": "Fino alla fine del mese sono al verde."
   },
   {
     "id": 6,
-    "term": "avere il cuore sulle labbra",
-    "definition": "to wear one's heart on one's sleeve",
-    "example": ""
+    "term": "Avere un chiodo fisso",
+    "definition": "\"To have a fixed nail\" — to have a one-track obsession",
+    "example": "Ha un chiodo fisso: comprare una barca."
   },
   {
     "id": 7,
-    "term": "averne le palle piene",
-    "definition": "to be fed up with something; to be sick and tired",
-    "example": "Ne ho le palle piene di questa situazione."
+    "term": "Cercare il pelo nell’uovo",
+    "definition": "\"To look for the hair in the egg\" — to nitpick",
+    "example": "Non cercare il pelo nell’uovo, il lavoro è ottimo."
   },
   {
     "id": 8,
-    "term": "battere il capo nel muro",
-    "definition": "to beat one's head against a stone wall",
-    "example": ""
+    "term": "Fare orecchie da mercante",
+    "definition": "\"To make merchant’s ears\" — to turn a deaf ear",
+    "example": "Gliel’ho detto tre volte, ma fa orecchie da mercante."
   },
   {
     "id": 9,
-    "term": "battere il ferro finché è caldo",
-    "definition": "to strike while the iron is hot",
-    "example": ""
+    "term": "Piove sul bagnato",
+    "definition": "\"It rains on what is already wet\" — trouble piles onto those who have it already",
+    "example": "Ha vinto ancora lui: piove sempre sul bagnato."
   },
   {
     "id": 10,
-    "term": "battere in ritirata",
-    "definition": "to retreat oneself hurriedly; to beat a retreat; to flee",
-    "example": ""
+    "term": "Chi dorme non piglia pesci",
+    "definition": "\"He who sleeps catches no fish\" — you snooze, you lose",
+    "example": "Alzati presto: chi dorme non piglia pesci."
   },
   {
     "id": 11,
-    "term": "battere la grancassa",
-    "definition": "to advertise loudly; to spread the news widely",
-    "example": ""
+    "term": "Avere la testa fra le nuvole",
+    "definition": "\"To have your head among the clouds\" — to be miles away",
+    "example": "Oggi hai la testa fra le nuvole, che succede?"
   },
   {
     "id": 12,
-    "term": "bell'e buono",
-    "definition": "real, utter, outright, plain and simple",
-    "example": ""
+    "term": "Essere una buona forchetta",
+    "definition": "\"To be a good fork\" — to be a hearty eater",
+    "example": "Mio nonno era una buona forchetta."
   },
   {
     "id": 13,
-    "term": "bellezza acqua e sapone",
-    "definition": "natural (rather than artificial) beauty",
-    "example": ""
+    "term": "Cadere dalle nuvole",
+    "definition": "\"To fall out of the clouds\" — to be taken utterly by surprise",
+    "example": "Quando me l’hanno detto sono caduto dalle nuvole."
   },
   {
     "id": 14,
-    "term": "buttare il bambino con l'acqua sporca",
-    "definition": "to throw the baby out with the bathwater",
-    "example": ""
+    "term": "Fare il portoghese",
+    "definition": "\"To do the Portuguese\" — to sneak in without paying",
+    "example": "Sul tram fa sempre il portoghese."
   },
   {
     "id": 15,
-    "term": "cambiare le carte in tavola",
-    "definition": "to contradict what one has said or done in the past; to shift one's ground; to move the goalposts",
-    "example": ""
+    "term": "Avere le mani bucate",
+    "definition": "\"To have holed hands\" — to spend money like water",
+    "example": "Ha le mani bucate: lo stipendio gli dura una settimana."
   },
   {
     "id": 16,
-    "term": "cavare le castagne dal fuoco",
-    "definition": "to pull someone's bacon out of the fire, pull someone's chestnuts out of the fire",
-    "example": ""
+    "term": "Non tutte le ciambelle riescono col buco",
+    "definition": "\"Not every doughnut comes out with a hole\" — things don’t always go to plan",
+    "example": "Il dolce è venuto male, ma non tutte le ciambelle riescono col buco."
   },
   {
     "id": 17,
-    "term": "che fine ha fatto",
-    "definition": "what happened to",
-    "example": "Ho scoperto che fine ha fatto Luca, si è trasferito a Londra."
+    "term": "Tirare il pacco a qualcuno",
+    "definition": "\"To pull the parcel on someone\" — to stand someone up",
+    "example": "Mi ha tirato il pacco all’ultimo momento."
   },
   {
     "id": 18,
-    "term": "chi fa da sé fa per tre",
-    "definition": "it is most efficient to work by oneself without asking for help from others",
-    "example": ""
+    "term": "Prendere qualcuno per il naso",
+    "definition": "\"To take someone by the nose\" — to lead them on",
+    "example": "Ci ha preso per il naso per mesi."
   },
   {
     "id": 19,
-    "term": "chi è causa del suo mal pianga sé stesso",
-    "definition": "only oneself is to blame for the consequences of one's actions",
-    "example": ""
+    "term": "Essere in gamba",
+    "definition": "\"To be in leg\" — to be sharp and capable",
+    "example": "La nuova dottoressa è molto in gamba."
   },
   {
     "id": 20,
-    "term": "cogliere la palla al balzo",
-    "definition": "to take advantage of a situation, which is beneficial but was not planned; to seize and opportunity",
-    "example": "È vero che hanno iniziato loro, ma voi avete colto la palla al balzo e vi siete uniti."
+    "term": "Fare le corna",
+    "definition": "\"To make horns\" — to touch wood against bad luck",
+    "example": "Facciamo le corna che domani non piova."
   },
   {
     "id": 21,
-    "term": "con il sorcio in bocca",
-    "definition": "with one's hand in the cookie jar",
-    "example": ""
+    "term": "Rimanere in braghe di tela",
+    "definition": "\"To be left in canvas trousers\" — to lose the lot",
+    "example": "Con quell’investimento è rimasto in braghe di tela."
   },
   {
     "id": 22,
-    "term": "da capo a piedi",
-    "definition": "from head to toe; from top to bottom",
-    "example": "Sono ricoperto di neve da capo a piedi."
+    "term": "Gettare la spugna",
+    "definition": "\"To throw the sponge\" — to throw in the towel",
+    "example": "Dopo due ore di discussione ha gettato la spugna."
   },
   {
     "id": 23,
-    "term": "da un giorno all'altro",
-    "definition": "suddenly, all of a sudden, unexpectedly",
-    "example": ""
+    "term": "Attaccare un bottone",
+    "definition": "\"To sew on a button\" — to buttonhole someone with endless talk",
+    "example": "Mi ha attaccato un bottone di mezz’ora alla fermata."
   },
   {
     "id": 24,
-    "term": "dal profondo del cuore",
-    "definition": "from the bottom of one's heart",
-    "example": ""
+    "term": "Avere sale in zucca",
+    "definition": "\"To have salt in your pumpkin\" — to have common sense",
+    "example": "È giovane ma ha sale in zucca."
   },
   {
     "id": 25,
-    "term": "dare per buono",
-    "definition": "to reluctantly accept as good enough; to take it",
-    "example": "non sono le migliori prestazioni, ma lo do per buono."
+    "term": "Non avere peli sulla lingua",
+    "definition": "\"To have no hairs on your tongue\" — to speak your mind bluntly",
+    "example": "Non ha peli sulla lingua e gliel’ha detto in faccia."
   },
   {
     "id": 26,
-    "term": "dare un colpo di freno",
-    "definition": "to abruptly bring to a halt; to stop in one's tracks",
-    "example": ""
+    "term": "Fare la scarpetta",
+    "definition": "\"To make the little shoe\" — to mop up the last of the sauce with bread",
+    "example": "Il sugo era così buono che ho fatto la scarpetta."
   },
   {
     "id": 27,
-    "term": "di notte tutti i gatti sono bigi",
-    "definition": "all cats are grey in the dark",
-    "example": ""
+    "term": "Costare un occhio della testa",
+    "definition": "\"To cost an eye out of your head\" — to cost a fortune",
+    "example": "Quel cappotto costa un occhio della testa."
   },
   {
     "id": 28,
-    "term": "dietro l'angolo",
-    "definition": "around the corner",
-    "example": "la farmacia è proprio dietro l'angolo."
+    "term": "Essere come il prezzemolo",
+    "definition": "\"To be like parsley\" — to turn up absolutely everywhere",
+    "example": "È come il prezzemolo: lo trovi a ogni festa."
   },
   {
     "id": 29,
-    "term": "entrare in scena",
-    "definition": "to go on stage",
-    "example": "i valori della liberaldemocrazia sono pronti a entrare in scena."
+    "term": "Andare a letto con le galline",
+    "definition": "\"To go to bed with the hens\" — to turn in absurdly early",
+    "example": "In vacanza va a letto con le galline."
   },
   {
     "id": 30,
-    "term": "entrare nel vivo",
-    "definition": "to turn to the crux or climax; to get to the heart; to cut to the chase",
-    "example": ""
+    "term": "Avere un diavolo per capello",
+    "definition": "\"To have a devil for every hair\" — to be beside yourself with rage",
+    "example": "Stamattina ha un diavolo per capello."
   },
   {
     "id": 31,
-    "term": "errare è umano perdonare divino",
-    "definition": "to err is human; to forgive is divine",
-    "example": ""
+    "term": "Fare un buco nell’acqua",
+    "definition": "\"To make a hole in the water\" — to achieve precisely nothing",
+    "example": "Hanno indagato per mesi e hanno fatto un buco nell’acqua."
   },
   {
     "id": 32,
-    "term": "essere in sé",
-    "definition": "to possess and be able to control one's mental faculties; feel like oneself",
-    "example": ""
+    "term": "In quattro e quattr’otto",
+    "definition": "\"In four and four make eight\" — in no time at all",
+    "example": "Ha preparato la cena in quattro e quattr’otto."
   },
   {
     "id": 33,
-    "term": "essere passata molt'acqua sotto i ponti",
-    "definition": "for a lot of time to have passed",
-    "example": ""
+    "term": "Conosco i miei polli",
+    "definition": "\"I know my own chickens\" — I know exactly who I’m dealing with",
+    "example": "Arriverà in ritardo, conosco i miei polli."
   },
   {
     "id": 34,
-    "term": "essere pazzo",
-    "definition": "to be crazy (fervently) about/for somebody",
-    "example": "Euforia, sono pazza di te."
+    "term": "Tra il dire e il fare c’è di mezzo il mare",
+    "definition": "\"Between saying and doing lies the sea\" — easier said than done",
+    "example": "Promette molto, ma tra il dire e il fare c’è di mezzo il mare."
   },
   {
     "id": 35,
-    "term": "essere su questa terra",
-    "definition": "to live",
-    "example": ""
+    "term": "Avere la coda di paglia",
+    "definition": "\"To have a tail of straw\" — to be touchy because you know you’re guilty",
+    "example": "Si è offeso subito: ha la coda di paglia."
   },
   {
     "id": 36,
-    "term": "fa agli altri quel che vorresti fosse fatto a te",
-    "definition": "do unto others as you would have them do unto you",
-    "example": ""
+    "term": "Sputare il rospo",
+    "definition": "\"To spit out the toad\" — to come clean",
+    "example": "Su, sputa il rospo: cosa è successo?"
   },
   {
     "id": 37,
-    "term": "fare buon viso a cattivo gioco",
-    "definition": "to grin and bear it; to put a brave face on it",
-    "example": ""
+    "term": "Mangiare la foglia",
+    "definition": "\"To eat the leaf\" — to catch on to what’s really going on",
+    "example": "Ha mangiato la foglia e non si è presentato."
   },
   {
     "id": 38,
-    "term": "fare del proprio meglio",
-    "definition": "to do one's best ; to put one's best foot forward",
-    "example": "ha fatto del suo meglio per riuscire simpatico."
+    "term": "Salvare capra e cavoli",
+    "definition": "\"To save both the goat and the cabbages\" — to keep both sides happy at once",
+    "example": "Con quella proposta ha salvato capra e cavoli."
   },
   {
     "id": 39,
-    "term": "fare il bello e il cattivo tempo",
-    "definition": "to boldly exert power; to lay down the law",
-    "example": ""
+    "term": "Essere di manica larga",
+    "definition": "\"To be of wide sleeve\" — to be lenient",
+    "example": "Il professore è di manica larga agli orali."
   },
   {
     "id": 40,
-    "term": "fare il passo più lungo della gamba",
-    "definition": "to bite off more than one can chew",
-    "example": ""
+    "term": "Acqua in bocca!",
+    "definition": "\"Water in your mouth!\" — keep it to yourself",
+    "example": "È una sorpresa: acqua in bocca!"
   },
   {
     "id": 41,
-    "term": "fare il passo secondo la gamba",
-    "definition": "to cut one's coat according to one's cloth",
-    "example": ""
+    "term": "Fare fiasco",
+    "definition": "\"To make a flask\" — to flop badly",
+    "example": "Lo spettacolo ha fatto fiasco la prima sera."
   },
   {
     "id": 42,
-    "term": "fare le nozze coi fichi secchi",
-    "definition": "to try to do something challenging with limited means; to work on a shoestring",
-    "example": ""
+    "term": "Rimanere a bocca asciutta",
+    "definition": "\"To be left with a dry mouth\" — to end up with nothing at all",
+    "example": "Sono arrivati tardi e sono rimasti a bocca asciutta."
   },
   {
     "id": 43,
-    "term": "gallina dalle uova d'oro",
-    "definition": "the golden goose",
-    "example": ""
+    "term": "Essere una mosca bianca",
+    "definition": "\"To be a white fly\" — to be a rare exception",
+    "example": "Un capo così disponibile è una mosca bianca."
   },
   {
     "id": 44,
-    "term": "gallina vecchia fa buon brodo",
-    "definition": "there's many a good tune played on an old fiddle",
-    "example": ""
+    "term": "Prendere la palla al balzo",
+    "definition": "\"To take the ball on the bounce\" — to seize the chance",
+    "example": "Ha preso la palla al balzo e ha chiesto l’aumento."
   },
   {
     "id": 45,
-    "term": "gelare il sangue",
-    "definition": "to make (someone's) blood run cold",
-    "example": ""
+    "term": "Chi va piano va sano e va lontano",
+    "definition": "\"Who goes slowly goes safely and goes far\" — slow and steady wins the race",
+    "example": "Non correre: chi va piano va sano e va lontano."
   },
   {
     "id": 46,
-    "term": "gettare acqua sul fuoco",
-    "definition": "to throw cold water on something",
-    "example": ""
+    "term": "Avere una gatta da pelare",
+    "definition": "\"To have a cat to skin\" — to have a thankless job on your hands",
+    "example": "Con quel cliente ho una bella gatta da pelare."
   },
   {
     "id": 47,
-    "term": "gettare fumo negli occhi",
-    "definition": "to pull the wool over someone's eyes",
-    "example": ""
+    "term": "Tanto va la gatta al lardo che ci lascia lo zampino",
+    "definition": "\"The cat goes to the lard so often she leaves her paw behind\" — push your luck and you’ll be caught",
+    "example": "Alla fine l’hanno beccato: tanto va la gatta al lardo che ci lascia lo zampino."
   },
   {
     "id": 48,
-    "term": "gli assenti hanno sempre torto",
-    "definition": "one who is not present, or who does not show up to a situation",
-    "example": ""
+    "term": "Meglio un uovo oggi che una gallina domani",
+    "definition": "\"Better an egg today than a hen tomorrow\" — a bird in the hand is worth two in the bush",
+    "example": "Accetto l’offerta: meglio un uovo oggi che una gallina domani."
   },
   {
     "id": 49,
-    "term": "guardare in faccia",
-    "definition": "to look in the face; to face up to",
-    "example": "guardare in faccia la morte."
+    "term": "Chi la fa l’aspetti",
+    "definition": "\"Whoever does it should expect it\" — what goes around comes around",
+    "example": "Ora tocca a lui: chi la fa l’aspetti."
   },
   {
     "id": 50,
-    "term": "hai voluto la bicicletta e adesso pedala",
-    "definition": "make one's bed and lie in it",
-    "example": ""
+    "term": "Avere le braccine corte",
+    "definition": "\"To have short little arms\" — to be too tight-fisted to reach your wallet",
+    "example": "Non paga mai un caffè: ha le braccine corte."
   },
   {
     "id": 51,
-    "term": "i panni sporchi si lavano in famiglia",
-    "definition": "it is best not to wash one's dirty laundry in public",
-    "example": ""
+    "term": "Essere alla frutta",
+    "definition": "\"To be at the fruit course\" — to be at the end of your tether",
+    "example": "Dopo tre notti in bianco sono alla frutta."
   },
   {
     "id": 52,
-    "term": "i soldi non crescono sugli alberi",
-    "definition": "money doesn't grow on trees; there's no such thing as a free lunch",
-    "example": ""
+    "term": "Arrampicarsi sugli specchi",
+    "definition": "\"To climb up mirrors\" — to clutch at straws to justify yourself",
+    "example": "Non sapeva cosa dire e si arrampicava sugli specchi."
   },
   {
     "id": 53,
-    "term": "il bisogno aguzza l'ingegno",
-    "definition": "necessity is the mother of invention",
-    "example": ""
+    "term": "Tenere il piede in due scarpe",
+    "definition": "\"To keep a foot in two shoes\" — to keep two options going at once",
+    "example": "Tiene il piede in due scarpe da mesi."
   },
   {
     "id": 54,
-    "term": "il bue che dice cornuto all'asino",
-    "definition": "pot calling the kettle black; it takes one to know one; I know you are but what am I",
-    "example": ""
+    "term": "Stare con le mani in mano",
+    "definition": "\"To stand with your hands in your hands\" — to stand about doing nothing",
+    "example": "Non stare con le mani in mano, aiutami."
   },
   {
     "id": 55,
-    "term": "il diavolo fa le pentole ma non i coperchi",
-    "definition": "The devil teaches us his tricks but not how to hide them",
-    "example": ""
+    "term": "Piantare in asso qualcuno",
+    "definition": "\"To leave someone planted\" — to leave them in the lurch",
+    "example": "Mi ha piantato in asso alla stazione."
   },
   {
     "id": 56,
-    "term": "il gioco non vale la candela",
-    "definition": "the game is not worth the candle",
-    "example": ""
+    "term": "Vuotare il sacco",
+    "definition": "\"To empty the sack\" — to spill the beans",
+    "example": "Alla fine ha vuotato il sacco e ha detto tutto."
   },
   {
     "id": 57,
-    "term": "il giorno di San Mai",
-    "definition": "the first of never, February 31",
-    "example": ""
+    "term": "Perdere la bussola",
+    "definition": "\"To lose your compass\" — to lose your bearings completely",
+    "example": "Con tutte quelle scadenze ha perso la bussola."
   },
   {
     "id": 58,
-    "term": "l'abito non fa il monaco",
-    "definition": "you can't judge a book by its cover; clothes don't make the man, the cowl does not make the monk",
-    "example": ""
+    "term": "Prendere in giro qualcuno",
+    "definition": "\"To take someone for a walk around\" — to pull their leg",
+    "example": "Mi stai prendendo in giro?"
   },
   {
     "id": 59,
-    "term": "l'erba cattiva non muore mai",
-    "definition": "a bad penny always turns up",
-    "example": ""
+    "term": "Essere un pezzo di pane",
+    "definition": "\"To be a piece of bread\" — to be thoroughly kind-hearted",
+    "example": "Sembra burbero ma è un pezzo di pane."
   },
   {
     "id": 60,
-    "term": "l'erba del vicino è sempre più verde",
-    "definition": "the grass is always greener on the other side",
-    "example": ""
+    "term": "Non sapere che pesci pigliare",
+    "definition": "\"Not to know which fish to catch\" — to be at a complete loss",
+    "example": "Con tutte quelle offerte non sapevo che pesci pigliare."
   },
   {
     "id": 61,
-    "term": "l'etiope non si sbianca",
-    "definition": "it is futile to try to change human nature; human nature is innate and immutable",
-    "example": ""
+    "term": "Fare le ore piccole",
+    "definition": "\"To make the small hours\" — to stay up half the night",
+    "example": "Abbiamo fatto le ore piccole a chiacchierare."
   },
   {
     "id": 62,
-    "term": "l'occhio del padrone ingrassa il cavallo",
-    "definition": "a business thrives when the owner keeps his eye on it",
-    "example": ""
+    "term": "Essere sulla cresta dell’onda",
+    "definition": "\"To be on the crest of the wave\" — to be riding high",
+    "example": "Quel gruppo è sulla cresta dell’onda da due anni."
   },
   {
     "id": 63,
-    "term": "l'unione fa la forza",
-    "definition": "unity is strength; many hands make light work; united we stand, divided we fall; there is strength in numbers",
-    "example": ""
+    "term": "Cavarsela per il rotto della cuffia",
+    "definition": "\"To get out through the tear in the cap\" — to scrape through by the skin of your teeth",
+    "example": "Ha passato l’esame per il rotto della cuffia."
   },
   {
     "id": 64,
-    "term": "la bellezza di",
-    "definition": "the entire quantity, duration, sum, etc. of",
-    "example": "ho la bellezza di 76 anni."
+    "term": "Andare a gonfie vele",
+    "definition": "\"To go with billowing sails\" — to be going swimmingly",
+    "example": "Il locale va a gonfie vele."
   },
   {
     "id": 65,
-    "term": "ma anche no",
-    "definition": "or not",
-    "example": "A: Potremmo comprare un'altra macchina / B: Ma anche no."
+    "term": "Nascere con la camicia",
+    "definition": "\"To be born wearing a shirt\" — to be born lucky",
+    "example": "Quel ragazzo è nato con la camicia."
   },
   {
     "id": 66,
-    "term": "meglio soli che male accompagnati",
-    "definition": "it is better to be alone than in bad company",
-    "example": ""
+    "term": "Toccare il cielo con un dito",
+    "definition": "\"To touch the sky with a finger\" — to be over the moon",
+    "example": "Quando è nata la bambina ho toccato il cielo con un dito."
   },
   {
     "id": 67,
-    "term": "meglio tirare a campare che tirare le cuoia",
-    "definition": "it is better to advance one's own interests (even through illicit or questionable means) than to surrender one",
-    "example": ""
+    "term": "Un freddo cane",
+    "definition": "\"A dog cold\" — bitterly cold",
+    "example": "Fuori fa un freddo cane."
   },
   {
     "id": 68,
-    "term": "meglio un uovo oggi che una gallina domani",
-    "definition": "a bird in the hand is worth two in the bush; better an egg today than a hen tomorrow",
-    "example": ""
+    "term": "Avere qualcuno sullo stomaco",
+    "definition": "\"To have someone on your stomach\" — to be unable to stomach them",
+    "example": "Ho quel tipo sullo stomaco da anni."
   },
   {
     "id": 69,
-    "term": "mettere le carte in tavola",
-    "definition": "to put one's cards on the table",
-    "example": ""
+    "term": "Non stare né in cielo né in terra",
+    "definition": "\"To stand neither in heaven nor on earth\" — to make no sense whatsoever",
+    "example": "La sua scusa non sta né in cielo né in terra."
   },
   {
     "id": 70,
-    "term": "mettersi al passo con i tempi",
-    "definition": "to update oneself",
-    "example": ""
+    "term": "Menare il can per l’aia",
+    "definition": "\"To lead the dog round the threshing floor\" — to beat about the bush",
+    "example": "Smettila di menare il can per l’aia e rispondi."
   },
   {
     "id": 71,
-    "term": "montare il sangue alla testa",
-    "definition": "to make one's blood boil",
-    "example": "quella maestra mi monta il sangue alla testa."
+    "term": "Dire pane al pane e vino al vino",
+    "definition": "\"To call bread bread and wine wine\" — to call a spade a spade",
+    "example": "Lei dice pane al pane e vino al vino."
   },
   {
     "id": 72,
-    "term": "ne uccide più la penna della spada",
-    "definition": "the pen is mightier than the sword",
-    "example": ""
+    "term": "Avere sette vite come i gatti",
+    "definition": "\"To have seven lives like a cat\" — to be impossible to finish off",
+    "example": "È caduto dal tetto e sta bene: ha sette vite come i gatti."
   },
   {
     "id": 73,
-    "term": "nelle botti piccole sta il vino buono",
-    "definition": "good things come in small packages",
-    "example": ""
+    "term": "Il gioco non vale la candela",
+    "definition": "\"The game is not worth the candle\" — it isn’t worth the trouble",
+    "example": "Per due euro il gioco non vale la candela."
   },
   {
     "id": 74,
-    "term": "non c'è trippa per gatti",
-    "definition": "there are few or no resources at someone's disposal",
-    "example": ""
+    "term": "Fare di tutta l’erba un fascio",
+    "definition": "\"To bundle all the grass together\" — to tar everyone with the same brush",
+    "example": "Non fare di tutta l’erba un fascio."
   },
   {
     "id": 75,
-    "term": "non di solo pane vive l'uomo",
-    "definition": "man shall not live by bread alone",
-    "example": ""
+    "term": "Buttarsi a pesce",
+    "definition": "\"To throw yourself like a fish\" — to dive straight in",
+    "example": "Si è buttato a pesce sull’offerta."
   },
   {
     "id": 76,
-    "term": "non dire gatto se non ce l'hai nel sacco",
-    "definition": "don't count your chickens before they're hatched",
-    "example": ""
+    "term": "Averne fin sopra i capelli",
+    "definition": "\"To have it up over your hair\" — to be fed up to the back teeth",
+    "example": "Ne ho fin sopra i capelli di queste riunioni."
   },
   {
     "id": 77,
-    "term": "non giudicare un libro dalla copertina",
-    "definition": "don't judge a book by its cover",
-    "example": ""
+    "term": "Chi non risica non rosica",
+    "definition": "\"Who doesn’t risk doesn’t nibble\" — nothing ventured, nothing gained",
+    "example": "Ho investito tutto: chi non risica non rosica."
   },
   {
     "id": 78,
-    "term": "non resta che",
-    "definition": "there is nothing left to do but; it's time to",
-    "example": "non resta che aprire la scatola."
+    "term": "Rimanere di stucco",
+    "definition": "\"To be left made of plaster\" — to be dumbfounded",
+    "example": "Sono rimasto di stucco alla notizia."
   },
   {
     "id": 79,
-    "term": "o mangi la minestra o salti la finestra",
-    "definition": "one must like it or lump it; beggars can't be choosers; one must take the bitter pill to swallow",
-    "example": ""
+    "term": "Non fare una piega",
+    "definition": "\"Not to make a single crease\" — to be watertight, without a flaw",
+    "example": "Il suo ragionamento non fa una piega."
   },
   {
     "id": 80,
-    "term": "occhio non vede, cuore non duole",
-    "definition": "ignorance is bliss, what you don't know can't hurt you",
-    "example": ""
+    "term": "Sudare sette camicie",
+    "definition": "\"To sweat seven shirts\" — to work yourself to the bone",
+    "example": "Ho sudato sette camicie per finire in tempo."
   },
   {
     "id": 81,
-    "term": "occhio per occhio, dente per dente",
-    "definition": "an eye for an eye, a tooth for a tooth",
-    "example": ""
+    "term": "Alzare il gomito",
+    "definition": "\"To raise your elbow\" — to have one too many",
+    "example": "Ieri sera ha alzato un po’ il gomito."
   },
   {
     "id": 82,
-    "term": "ogni lasciata è persa",
-    "definition": "opportunity seldom knocks twice",
-    "example": ""
+    "term": "Mettere il carro davanti ai buoi",
+    "definition": "\"To put the cart in front of the oxen\" — to put the cart before the horse",
+    "example": "Stai mettendo il carro davanti ai buoi."
   },
   {
     "id": 83,
-    "term": "ogni promessa è debito",
-    "definition": "promise is debt",
-    "example": ""
+    "term": "Andare in bianco",
+    "definition": "\"To go in white\" — to come away with nothing",
+    "example": "Ha provato a invitarla ed è andato in bianco."
   },
   {
     "id": 84,
-    "term": "ogni riccio un capriccio",
-    "definition": "women are often fickle and capricious",
-    "example": ""
+    "term": "Prendere lucciole per lanterne",
+    "definition": "\"To take fireflies for lanterns\" — to get completely the wrong idea",
+    "example": "Hai preso lucciole per lanterne."
   },
   {
     "id": 85,
-    "term": "ora o mai più",
-    "definition": "now or never",
-    "example": ""
+    "term": "Stare in campana",
+    "definition": "\"To stay in the bell\" — to keep your eyes peeled",
+    "example": "Stai in campana, stanno controllando i biglietti."
   },
   {
     "id": 86,
-    "term": "paese che vai, usanze che trovi",
-    "definition": "one should not be surprised by how different someone else's culture and traditions might be",
-    "example": ""
+    "term": "Fare la gattamorta",
+    "definition": "\"To play the dead cat\" — to feign indifference while working on someone",
+    "example": "Fa la gattamorta ma sa benissimo cosa vuole."
   },
   {
     "id": 87,
-    "term": "parli del diavolo e spuntano le corna",
-    "definition": "speak of the devil and he appears, speak of the devil",
-    "example": ""
+    "term": "Essere un pesce fuor d’acqua",
+    "definition": "\"To be a fish out of water\" — to be completely out of your element",
+    "example": "In giacca e cravatta si sente un pesce fuor d’acqua."
   },
   {
     "id": 88,
-    "term": "passare sotto le forche caudine",
-    "definition": "to run the gauntlet, to pass under the yoke",
-    "example": "Appena uscito dal tribunale, tutti i giornalisti intorno lo hanno fatto passare sotto le forche caudine."
+    "term": "A caval donato non si guarda in bocca",
+    "definition": "\"You don’t look a given horse in the mouth\" — don’t find fault with a gift",
+    "example": "È usata, ma a caval donato non si guarda in bocca."
   },
   {
     "id": 89,
-    "term": "per filo e per segno",
-    "definition": "in minute detail, step by step, word for word",
-    "example": "Dimmi per filo e per segno come si fa questa torta."
+    "term": "Ogni morte di papa",
+    "definition": "\"Every death of a pope\" — once in a blue moon",
+    "example": "Ci vediamo ogni morte di papa."
   },
   {
     "id": 90,
-    "term": "per il rotto della cuffia",
-    "definition": "by the skin of one's teeth",
-    "example": ""
+    "term": "Fare i salti mortali",
+    "definition": "\"To do somersaults\" — to bend over backwards",
+    "example": "Faccio i salti mortali per arrivare a fine mese."
   },
   {
     "id": 91,
-    "term": "perdere il lume della ragione",
-    "definition": "to lose it, to lose control, to go crazy",
-    "example": ""
+    "term": "Fare venire l’acquolina in bocca",
+    "definition": "\"To bring the drool into your mouth\" — to be mouth-watering",
+    "example": "Solo l’odore fa venire l’acquolina in bocca."
   },
   {
     "id": 92,
-    "term": "perdere le staffe",
-    "definition": "to lose one's temper; to lose it",
-    "example": "talvolta anche i più tranquilli perdono le staffe."
+    "term": "Prendere qualcuno con le mani nel sacco",
+    "definition": "\"To catch someone with their hands in the sack\" — to catch them red-handed",
+    "example": "L’hanno preso con le mani nel sacco."
   },
   {
     "id": 93,
-    "term": "quando c'era lui",
-    "definition": "Used to decry the current state of politics as decadent, claiming that in the past things were done better",
-    "example": ""
+    "term": "Non vedo l’ora",
+    "definition": "\"I don’t see the hour\" — I can’t wait",
+    "example": "Non vedo l’ora di partire."
   },
   {
     "id": 94,
-    "term": "quando gli asini voleranno",
-    "definition": "when pigs fly, until hell freezes over",
-    "example": ""
+    "term": "Fare il diavolo a quattro",
+    "definition": "\"To do the devil in four\" — to kick up an almighty fuss",
+    "example": "Ha fatto il diavolo a quattro per un posto in prima fila."
   },
   {
     "id": 95,
-    "term": "quando il gatto non c'è, i topi ballano",
-    "definition": "when the cat's away the mice will play",
-    "example": ""
+    "term": "Essere al settimo cielo",
+    "definition": "\"To be in the seventh heaven\" — to be blissfully happy",
+    "example": "Da quando si è sposata è al settimo cielo."
   },
   {
     "id": 96,
-    "term": "quando il gioco si fa duro, i duri cominciano a giocare",
-    "definition": "when the going gets tough, the tough get going",
-    "example": ""
+    "term": "Non c’è due senza tre",
+    "definition": "\"There’s no two without three\" — these things come in threes",
+    "example": "Due guasti in una settimana: non c’è due senza tre."
   },
   {
     "id": 97,
-    "term": "quel che è fatto è fatto",
-    "definition": "what's done is done",
-    "example": ""
+    "term": "Mettere una pulce nell’orecchio",
+    "definition": "\"To put a flea in someone’s ear\" — to plant a suspicion",
+    "example": "Quella domanda mi ha messo una pulce nell’orecchio."
   },
   {
     "id": 98,
-    "term": "questione di lana caprina",
-    "definition": "moot point, unproductive discussion, futile argument",
-    "example": ""
+    "term": "Cascare a fagiolo",
+    "definition": "\"To fall like a bean\" — to come at exactly the right moment",
+    "example": "La tua telefonata è cascata a fagiolo."
   },
   {
     "id": 99,
-    "term": "raglio d'asino non sale al cielo",
-    "definition": "sticks and stones may break my bones, but words will never hurt me",
-    "example": ""
+    "term": "Avere la puzza sotto il naso",
+    "definition": "\"To have a stink under your nose\" — to be stuck-up",
+    "example": "Ha la puzza sotto il naso e non parla con nessuno."
   },
   {
     "id": 100,
-    "term": "rendere la pariglia",
-    "definition": "to get even; to strike back",
-    "example": "ti ha ferito, e ora vuoi rendere la pariglia."
+    "term": "Togliere le castagne dal fuoco",
+    "definition": "\"To take the chestnuts out of the fire\" — to sort out someone else’s mess",
+    "example": "Tocca sempre a me togliere le castagne dal fuoco."
   }
 ];
 window.QM_IDIOMS_PL_DATA = [
@@ -54422,1807 +63850,1813 @@ window.QM_IDIOMS_PL_DATA = [
 window.QM_IDIOMS_FR_DATA = [
   {
     "id": 1,
-    "term": "attacher sa tuque",
-    "definition": "to brace oneself; to get ready; to hold onto one's hat",
-    "example": ""
+    "term": "Poser un lapin à quelqu’un",
+    "definition": "\"To put down a rabbit for someone\" — to stand someone up",
+    "example": "Elle m’a posé un lapin hier soir."
   },
   {
     "id": 2,
-    "term": "au fur et à mesure",
-    "definition": "in keeping with",
-    "example": "La demande diminue toujours au fur et à mesure que le prix augmente."
+    "term": "Avoir le coup de foudre",
+    "definition": "\"To take the lightning bolt\" — to fall in love at first sight",
+    "example": "Ils ont eu le coup de foudre au premier regard."
   },
   {
     "id": 3,
-    "term": "avec des bouts de ficelle",
-    "definition": "on a shoestring",
-    "example": "Il est devenu millionnaire grâce à un prototype construit avec des bouts de ficelle."
+    "term": "Tomber dans les pommes",
+    "definition": "\"To fall into the apples\" — to faint",
+    "example": "Il est tombé dans les pommes en voyant l’aiguille."
   },
   {
     "id": 4,
-    "term": "avoir du pain sur la planche",
-    "definition": "to have bread on the table",
-    "example": "Bon, là, il faut qu'on commence. On a du pain sur la planche !"
+    "term": "Avoir un chat dans la gorge",
+    "definition": "\"To have a cat in your throat\" — to have a frog in your throat",
+    "example": "Excusez-moi, j’ai un chat dans la gorge."
   },
   {
     "id": 5,
-    "term": "avoir du sang sur les mains",
-    "definition": "to have blood on one's hands",
-    "example": "Tu es peut-être sorti indemne de ton accident de conduite en état d'ivresse, mais tu as le sang de ce pauvre garçon sur les mains."
+    "term": "Il pleut des cordes",
+    "definition": "\"It’s raining ropes\" — it’s pouring down",
+    "example": "Prends un parapluie, il pleut des cordes."
   },
   {
     "id": 6,
-    "term": "avoir le cœur sur la main",
-    "definition": "to be open-handed, to be generous",
-    "example": "Magali a le cœur sur la main."
+    "term": "Coûter les yeux de la tête",
+    "definition": "\"To cost the eyes out of your head\" — to cost a fortune",
+    "example": "Cette voiture coûte les yeux de la tête."
   },
   {
     "id": 7,
-    "term": "bien mal acquis ne profite jamais",
-    "definition": "ill-gotten gains never prosper",
-    "example": ""
+    "term": "Donner sa langue au chat",
+    "definition": "\"To give your tongue to the cat\" — to give up guessing",
+    "example": "Je donne ma langue au chat, dis-moi la réponse."
   },
   {
     "id": 8,
-    "term": "bien tard venu pour néant tenu",
-    "definition": "what comes too late doesn't count any more",
-    "example": ""
+    "term": "En faire tout un fromage",
+    "definition": "\"To make a whole cheese of it\" — to make a huge fuss about nothing",
+    "example": "Il en a fait tout un fromage pour une rayure."
   },
   {
     "id": 9,
-    "term": "bonnet blanc, blanc bonnet",
-    "definition": "tomayto, tomahto; same difference; six of one, half a dozen of the other",
-    "example": ""
+    "term": "Mettre les pieds dans le plat",
+    "definition": "\"To put your feet in the dish\" — to put your foot in it",
+    "example": "Il a mis les pieds dans le plat en parlant du divorce."
   },
   {
     "id": 10,
-    "term": "bouche de miel, cœur de fiel",
-    "definition": "One who speaks sweetly but harbors bitterness or malice; smooth lips hide an evil heart",
-    "example": ""
+    "term": "Raconter des salades",
+    "definition": "\"To tell salads\" — to spin tall tales",
+    "example": "Ne l’écoute pas, il raconte des salades."
   },
   {
     "id": 11,
-    "term": "boucler la boucle",
-    "definition": "to come full circle",
-    "example": "la boucle est bouclée."
+    "term": "Être dans de beaux draps",
+    "definition": "\"To be in fine sheets\" — to be in a right mess",
+    "example": "Sans les clés, nous voilà dans de beaux draps."
   },
   {
     "id": 12,
-    "term": "bâtir des châteaux en Espagne",
-    "definition": "to chase rainbows, to build castles in the air",
-    "example": ""
+    "term": "Avoir d’autres chats à fouetter",
+    "definition": "\"To have other cats to whip\" — to have better things to do",
+    "example": "J’ai d’autres chats à fouetter aujourd’hui."
   },
   {
     "id": 13,
-    "term": "c'est au fruit que l'on connaît l'arbre",
-    "definition": "the proof of the pudding is in the eating",
-    "example": ""
+    "term": "Appeler un chat un chat",
+    "definition": "\"To call a cat a cat\" — to call a spade a spade",
+    "example": "Appelons un chat un chat : c’est un échec."
   },
   {
     "id": 14,
-    "term": "c'est dans le besoin qu'on reconnaît ses vrais amis",
-    "definition": "a friend in need is a friend indeed",
-    "example": ""
+    "term": "Ne pas y aller avec le dos de la cuillère",
+    "definition": "\"Not to go at it with the back of the spoon\" — not to hold back in the slightest",
+    "example": "Elle n’y va pas avec le dos de la cuillère."
   },
   {
     "id": 15,
-    "term": "chien qui aboie ne mord pas",
-    "definition": "barking dogs seldom bite, one's bark is worse than one's bite, all talk no bite",
-    "example": ""
+    "term": "Se mettre sur son trente-et-un",
+    "definition": "\"To put yourself on your thirty-one\" — to dress up to the nines",
+    "example": "Elle s’est mise sur son trente-et-un pour le mariage."
   },
   {
     "id": 16,
-    "term": "comment sont les zaricos",
-    "definition": "how are you?, how are things?",
-    "example": "Comment sont les zaricos? — Oh, les zaricos sont salés!"
+    "term": "Faire la grasse matinée",
+    "definition": "\"To do the fat morning\" — to have a long lie-in",
+    "example": "Le dimanche, je fais la grasse matinée."
   },
   {
     "id": 17,
-    "term": "couper les cheveux en quatre",
-    "definition": "to split hairs",
-    "example": "Ne coupe pas les cheveux en quatre. Tu sais où je veux en venir."
+    "term": "Avoir la gueule de bois",
+    "definition": "\"To have a wooden mouth\" — to have a hangover",
+    "example": "Après la fête, j’ai la gueule de bois."
   },
   {
     "id": 18,
-    "term": "coûter les yeux de la tête",
-    "definition": "to cost an arm and a leg, to cost the earth: to cost too much, to be very expensive",
-    "example": "J'en ai marre de payer un loyer dans cette ville. Ça me coûte les yeux de la tête !"
+    "term": "Casser les pieds à quelqu’un",
+    "definition": "\"To break someone’s feet\" — to get on their nerves",
+    "example": "Arrête de me casser les pieds."
   },
   {
     "id": 19,
-    "term": "de deux maux, il faut choisir le moindre",
-    "definition": "one must choose the lesser of two evils",
-    "example": ""
+    "term": "Chercher la petite bête",
+    "definition": "\"To look for the little beast\" — to nitpick",
+    "example": "Il cherche toujours la petite bête."
   },
   {
     "id": 20,
-    "term": "des goûts et des couleurs, on ne discute pas",
-    "definition": "there's no accounting for taste",
-    "example": ""
+    "term": "Ce n’est pas la mer à boire",
+    "definition": "\"It isn’t the sea to drink\" — it’s hardly the end of the world",
+    "example": "Range ta chambre, ce n’est pas la mer à boire."
   },
   {
     "id": 21,
-    "term": "deux avis valent mieux qu'un",
-    "definition": "two heads are better than one",
-    "example": ""
+    "term": "Il y a anguille sous roche",
+    "definition": "\"There’s an eel under the rock\" — there’s something fishy going on",
+    "example": "Il y a anguille sous roche dans ce dossier."
   },
   {
     "id": 22,
-    "term": "deux précautions valent mieux qu'une",
-    "definition": "better safe than sorry; a belt-and-braces/belt-and-suspenders approach always wins the day",
-    "example": ""
+    "term": "Avoir le bras long",
+    "definition": "\"To have a long arm\" — to have friends in high places",
+    "example": "Il a le bras long au ministère."
   },
   {
     "id": 23,
-    "term": "du fil à retordre",
-    "definition": "a hard time, some difficulties",
-    "example": "Son adversaire lui a donné du fil à retordre."
+    "term": "Passer l’éponge",
+    "definition": "\"To pass the sponge over it\" — to wipe the slate clean",
+    "example": "Cette fois je passe l’éponge."
   },
   {
     "id": 24,
-    "term": "en avoir jusque-là",
-    "definition": "to have had it up to here (with); to have had enough (of), to be fed up",
-    "example": "Il en a jusque-là de ton insouciance."
+    "term": "Tirer les vers du nez à quelqu’un",
+    "definition": "\"To pull the worms out of someone’s nose\" — to worm the truth out of them",
+    "example": "J’ai dû lui tirer les vers du nez."
   },
   {
     "id": 25,
-    "term": "en avoir pour son argent",
-    "definition": "to get one's money's worth, to get good value for money",
-    "example": ""
+    "term": "Avoir un poil dans la main",
+    "definition": "\"To have a hair growing in your palm\" — to be bone idle",
+    "example": "Ce garçon a un poil dans la main."
   },
   {
     "id": 26,
-    "term": "en avril ne te découvre pas d'un fil, en mai fais ce qu'il te plaît",
-    "definition": "ne'er cast a clout till May be out",
-    "example": ""
+    "term": "Se faire rouler dans la farine",
+    "definition": "\"To get rolled in the flour\" — to be taken in",
+    "example": "Il s’est fait rouler dans la farine par le vendeur."
   },
   {
     "id": 27,
-    "term": "entre l'arbre et l'écorce",
-    "definition": "In a bad situation; between a rock and a hard place",
-    "example": ""
+    "term": "Ça ne casse pas trois pattes à un canard",
+    "definition": "\"It doesn’t break three legs off a duck\" — it’s nothing to write home about",
+    "example": "Le film ne casse pas trois pattes à un canard."
   },
   {
     "id": 28,
-    "term": "entre le marteau et l'enclume",
-    "definition": "between the hammer and the anvil",
-    "example": "J'étais entre le marteau et l'enclume, car si je ne contractais pas un autre prêt - et ne m'endettais pas davantage - je ne pourrais pas rembourser les dettes que j'avais déjà."
+    "term": "Tourner autour du pot",
+    "definition": "\"To go round and round the pot\" — to beat about the bush",
+    "example": "Ne tourne pas autour du pot, dis-le."
   },
   {
     "id": 29,
-    "term": "faire d'une pierre deux coups",
-    "definition": "to kill two birds with one stone",
-    "example": "Autant faire d'une pierre deux coups et déposer mes feuilles d'impôts pendant que je suis au centre commercial pour la pièce d'ordinateur dont j'ai besoin."
+    "term": "Prendre ses jambes à son cou",
+    "definition": "\"To take your legs to your neck\" — to take to your heels",
+    "example": "En voyant le chien, il a pris ses jambes à son cou."
   },
   {
     "id": 30,
-    "term": "faire une belle jambe",
-    "definition": "to do a fat lot of good",
-    "example": "Ça me fait une belle jambe !"
+    "term": "Faire d’une pierre deux coups",
+    "definition": "\"To make two hits with one stone\" — to kill two birds with one stone",
+    "example": "Je fais d’une pierre deux coups en passant à la poste."
   },
   {
     "id": 31,
-    "term": "fais ce que je dis, pas ce que je fais",
-    "definition": "do as I say and not as I do",
-    "example": ""
+    "term": "Se noyer dans un verre d’eau",
+    "definition": "\"To drown in a glass of water\" — to be overwhelmed by trifles",
+    "example": "Il se noie dans un verre d’eau pour un simple courriel."
   },
   {
     "id": 32,
-    "term": "faute avouée est à moitié pardonnée",
-    "definition": "a fault confessed is half redressed",
-    "example": ""
+    "term": "Avoir les dents longues",
+    "definition": "\"To have long teeth\" — to be ruthlessly ambitious",
+    "example": "Le nouveau directeur a les dents longues."
   },
   {
     "id": 33,
-    "term": "faute de grives on mange des merles",
-    "definition": "beggars can't be choosers, half a loaf is better than none, any port in a storm",
-    "example": ""
+    "term": "Mettre son grain de sel",
+    "definition": "\"To add your grain of salt\" — to stick your oar in",
+    "example": "Il faut toujours qu’il mette son grain de sel."
   },
   {
     "id": 34,
-    "term": "gagner son bifteck",
-    "definition": "to bring home the bacon",
-    "example": ""
+    "term": "Faire chou blanc",
+    "definition": "\"To make white cabbage\" — to draw a complete blank",
+    "example": "Les enquêteurs ont fait chou blanc."
   },
   {
     "id": 35,
-    "term": "garder son sang-froid",
-    "definition": "to keep one's cool; to keep a cool head",
-    "example": ""
+    "term": "Filer à l’anglaise",
+    "definition": "\"To slip off English-style\" — to sneak away unnoticed",
+    "example": "Il a filé à l’anglaise avant le dessert."
   },
   {
     "id": 36,
-    "term": "grasse matinée",
-    "definition": "sleep-in, lie-in",
-    "example": "Je n'aurais pas dû faire la grasse matinée."
+    "term": "Être soupe au lait",
+    "definition": "\"To be milk soup\" — to flare up at the slightest thing",
+    "example": "Méfie-toi, il est soupe au lait."
   },
   {
     "id": 37,
-    "term": "griffer la glace",
-    "definition": "To ice-skate",
-    "example": ""
+    "term": "Être dans la lune",
+    "definition": "\"To be on the moon\" — to be daydreaming",
+    "example": "Tu es dans la lune ce matin."
   },
   {
     "id": 38,
-    "term": "gros bonnet",
-    "definition": "bigwig",
-    "example": ""
+    "term": "Le jeu n’en vaut pas la chandelle",
+    "definition": "\"The game isn’t worth the candle\" — it isn’t worth the trouble",
+    "example": "Pour ce prix, le jeu n’en vaut pas la chandelle."
   },
   {
     "id": 39,
-    "term": "grosse légume",
-    "definition": "big cheese, bigwig",
-    "example": ""
+    "term": "Se serrer la ceinture",
+    "definition": "\"To tighten your belt\" — to cut right back",
+    "example": "Il faudra se serrer la ceinture cet hiver."
   },
   {
     "id": 40,
-    "term": "habit vert",
-    "definition": "the clothing worn by the members of the Institut de France",
-    "example": ""
+    "term": "Jeter l’argent par les fenêtres",
+    "definition": "\"To throw money out of the windows\" — to spend wildly",
+    "example": "Ils jettent l’argent par les fenêtres."
   },
   {
     "id": 41,
-    "term": "heure du mystère",
-    "definition": "dusk, twilight",
-    "example": ""
+    "term": "Avoir le cœur sur la main",
+    "definition": "\"To have your heart in your hand\" — to be extremely generous",
+    "example": "Ma voisine a le cœur sur la main."
   },
   {
     "id": 42,
-    "term": "huile de coude",
-    "definition": "elbow grease",
-    "example": ""
+    "term": "Faire la sourde oreille",
+    "definition": "\"To do the deaf ear\" — to turn a deaf ear",
+    "example": "Le patron fait la sourde oreille depuis des mois."
   },
   {
     "id": 43,
-    "term": "huis clos",
-    "definition": "closed door",
-    "example": ""
+    "term": "Prendre des vessies pour des lanternes",
+    "definition": "\"To take bladders for lanterns\" — to be completely taken in",
+    "example": "On lui fait prendre des vessies pour des lanternes."
   },
   {
     "id": 44,
-    "term": "huitième art",
-    "definition": "television",
-    "example": ""
+    "term": "Être comme un coq en pâte",
+    "definition": "\"To be like a cockerel in pastry\" — to be thoroughly pampered",
+    "example": "Chez sa grand-mère, il est comme un coq en pâte."
   },
   {
     "id": 45,
-    "term": "humour noir",
-    "definition": "black humor",
-    "example": ""
+    "term": "Ne pas être sorti de l’auberge",
+    "definition": "\"Not to be out of the inn yet\" — not out of the woods yet",
+    "example": "Avec ces retards, on n’est pas sortis de l’auberge."
   },
   {
     "id": 46,
-    "term": "il faut battre le fer pendant qu'il est chaud",
-    "definition": "One must strike while the iron is hot",
-    "example": ""
+    "term": "Avoir le compas dans l’œil",
+    "definition": "\"To have the compass in your eye\" — to judge measurements by eye",
+    "example": "Le menuisier a le compas dans l’œil."
   },
   {
     "id": 47,
-    "term": "il faut de tout pour faire un monde",
-    "definition": "it takes all kinds to make a world, it takes all sorts, variety is the spice of life",
-    "example": ""
+    "term": "Mettre la charrue avant les bœufs",
+    "definition": "\"To put the plough before the oxen\" — to put the cart before the horse",
+    "example": "Tu mets la charrue avant les bœufs."
   },
   {
     "id": 48,
-    "term": "il faut que jeunesse se passe",
-    "definition": "youth must have its fling; boys will be boys",
-    "example": ""
+    "term": "Se creuser la tête",
+    "definition": "\"To hollow out your head\" — to rack your brains",
+    "example": "Je me creuse la tête depuis une heure."
   },
   {
     "id": 49,
-    "term": "il n'est pire aveugle que celui qui ne veut pas voir",
-    "definition": "there are none so blind as those who will not see",
-    "example": ""
+    "term": "Rire jaune",
+    "definition": "\"To laugh yellow\" — to laugh hollowly, with no amusement at all",
+    "example": "Il a ri jaune quand on a parlé de sa promotion."
   },
   {
     "id": 50,
-    "term": "il n'est pire sourd que celui qui ne veut pas entendre",
-    "definition": "there are none so deaf as those who will not hear",
-    "example": ""
+    "term": "Un froid de canard",
+    "definition": "\"A duck cold\" — bitter, biting cold",
+    "example": "Il fait un froid de canard dehors."
   },
   {
     "id": 51,
-    "term": "il n'est si bon charretier qui ne verse",
-    "definition": "even Homer nods, it's a good horse that never stumbles",
-    "example": ""
+    "term": "Il n’y a pas un chat",
+    "definition": "\"There isn’t a cat\" — there’s not a soul about",
+    "example": "À midi il n’y a pas un chat dans les rues."
   },
   {
     "id": 52,
-    "term": "jamais deux sans trois",
-    "definition": "all things come in threes, things always come in threes",
-    "example": ""
+    "term": "Vendre la peau de l’ours avant de l’avoir tué",
+    "definition": "\"To sell the bear’s skin before killing it\" — to count your chickens too soon",
+    "example": "N’annonce rien : ne vends pas la peau de l’ours."
   },
   {
     "id": 53,
-    "term": "je te dis merde",
-    "definition": "break a leg! good luck!",
-    "example": ""
+    "term": "Manger sur le pouce",
+    "definition": "\"To eat on the thumb\" — to grab a quick bite",
+    "example": "J’ai mangé sur le pouce entre deux réunions."
   },
   {
     "id": 54,
-    "term": "jeter de l'huile sur le feu",
-    "definition": "add fuel to the fire",
-    "example": ""
+    "term": "Avoir la puce à l’oreille",
+    "definition": "\"To have the flea in your ear\" — to suspect that something is up",
+    "example": "Ce silence m’a mis la puce à l’oreille."
   },
   {
     "id": 55,
-    "term": "jeter le bébé avec l'eau du bain",
-    "definition": "throw the baby out with the bathwater",
-    "example": ""
+    "term": "Être à côté de la plaque",
+    "definition": "\"To be beside the plate\" — to be wide of the mark",
+    "example": "Sa réponse est complètement à côté de la plaque."
   },
   {
     "id": 56,
-    "term": "jeter le gant",
-    "definition": "throw down the gauntlet",
-    "example": "Le plus grand syndicat d'enseignants a jeté le gant au gouvernement hier, menaçant de faire grève si ses revendications ne sont pas satisfaites."
+    "term": "Faire le pont",
+    "definition": "\"To make the bridge\" — to take the working day between a holiday and the weekend off",
+    "example": "On fait le pont jeudi et vendredi."
   },
   {
     "id": 57,
-    "term": "jeu de main, jeu de vilain",
-    "definition": "it will end in tears! stop fooling around! stop roughhousing! you'll poke an eye out! it's all fun and games t",
-    "example": ""
+    "term": "En avoir ras le bol",
+    "definition": "\"To have the bowl full to the brim\" — to be fed up to the back teeth",
+    "example": "J’en ai ras le bol de ces excuses."
   },
   {
     "id": 58,
-    "term": "l'appétit vient en mangeant",
-    "definition": "appetite comes with eating",
-    "example": ""
+    "term": "Ne pas faire long feu",
+    "definition": "\"Not to make a long fire\" — not to last five minutes",
+    "example": "Son projet n’a pas fait long feu."
   },
   {
     "id": 59,
-    "term": "l'argent est le nerf de la guerre",
-    "definition": "money is crucial to wage a war, money is key when waging a war, money is the fuel of war",
-    "example": ""
+    "term": "Avoir du pain sur la planche",
+    "definition": "\"To have bread on the board\" — to have a great deal to get through",
+    "example": "On a du pain sur la planche avant lundi."
   },
   {
     "id": 60,
-    "term": "l'argent ne pousse pas dans les arbres",
-    "definition": "money doesn't grow on trees",
-    "example": ""
+    "term": "Découvrir le pot aux roses",
+    "definition": "\"To discover the pot of roses\" — to uncover the secret",
+    "example": "La comptable a découvert le pot aux roses."
   },
   {
     "id": 61,
-    "term": "l'avenir appartient à ceux qui se lèvent tôt",
-    "definition": "the early bird gets the worm",
-    "example": ""
+    "term": "Mettre du beurre dans les épinards",
+    "definition": "\"To put butter in the spinach\" — to make life a bit more comfortable",
+    "example": "Ce contrat met du beurre dans les épinards."
   },
   {
     "id": 62,
-    "term": "les absents ont toujours tort",
-    "definition": "it is easy to accuse someone of wrongdoing when they are not there to defend themselves",
-    "example": ""
+    "term": "Se mettre le doigt dans l’œil",
+    "definition": "\"To stick your finger in your own eye\" — to be kidding yourself",
+    "example": "S’il croit gagner, il se met le doigt dans l’œil."
   },
   {
     "id": 63,
-    "term": "manger à tous les râteliers",
-    "definition": "to have many irons in the fire, to play the field",
-    "example": ""
+    "term": "Payer en monnaie de singe",
+    "definition": "\"To pay in monkey money\" — to fob someone off with nothing",
+    "example": "Ils nous paient en monnaie de singe."
   },
   {
     "id": 64,
-    "term": "mariage pluvieux, mariage heureux",
-    "definition": "Rain on one's wedding day brings good luck",
-    "example": ""
+    "term": "Avoir bon dos",
+    "definition": "\"To have a good strong back\" — to be a convenient thing to blame",
+    "example": "La météo a bon dos !"
   },
   {
     "id": 65,
-    "term": "mettre de l'eau dans son vin",
-    "definition": "to moderate one's impetuosity; to compromise",
-    "example": ""
+    "term": "Passer du coq à l’âne",
+    "definition": "\"To go from the cockerel to the donkey\" — to jump from one subject to another",
+    "example": "Elle passe du coq à l’âne sans prévenir."
   },
   {
     "id": 66,
-    "term": "mieux vaut prévenir que guérir",
-    "definition": "prevention is better than cure, better safe than sorry",
-    "example": ""
+    "term": "Tomber à l’eau",
+    "definition": "\"To fall in the water\" — to fall through",
+    "example": "Le voyage est tombé à l’eau."
   },
   {
     "id": 67,
-    "term": "mieux vaut tenir que courir",
-    "definition": "a bird in the hand is worth two in the bush, better an egg today than a hen tomorrow",
-    "example": ""
+    "term": "Mener quelqu’un en bateau",
+    "definition": "\"To take someone out in a boat\" — to string them along",
+    "example": "Il nous a menés en bateau pendant des semaines."
   },
   {
     "id": 68,
-    "term": "mieux vaut être seul que mal accompagné",
-    "definition": "it is better to be alone than in bad company",
-    "example": ""
+    "term": "Faire les quatre volontés de quelqu’un",
+    "definition": "\"To carry out someone’s four wishes\" — to be at their beck and call",
+    "example": "Elle fait les quatre volontés de son fils."
   },
   {
     "id": 69,
-    "term": "n'y être pour rien",
-    "definition": "to have no responsibility (for it); to have no part (in it), to have nothing to do",
-    "example": ""
+    "term": "C’est la fin des haricots",
+    "definition": "\"That’s the end of the beans\" — that really is the last straw",
+    "example": "Si la banque refuse, c’est la fin des haricots."
   },
   {
     "id": 70,
-    "term": "ne pas desserrer les dents",
-    "definition": "to keep one's lips sealed, to remain silent",
-    "example": ""
+    "term": "Avoir la main verte",
+    "definition": "\"To have a green hand\" — to have green fingers",
+    "example": "Ma mère a la main verte."
   },
   {
     "id": 71,
-    "term": "ne pas lésiner sur les moyens",
-    "definition": "To go all out; to pull out all the stops",
-    "example": ""
+    "term": "Être blanc comme un linge",
+    "definition": "\"To be as white as a sheet of linen\" — pale with shock",
+    "example": "Elle était blanche comme un linge en sortant."
   },
   {
     "id": 72,
-    "term": "Noël au balcon, Pâques au tison",
-    "definition": "If Christmas is warm, Easter will be cold",
-    "example": ""
+    "term": "Prendre la mouche",
+    "definition": "\"To catch the fly\" — to take sudden offence",
+    "example": "Il a pris la mouche pour une simple plaisanterie."
   },
   {
     "id": 73,
-    "term": "nul n'a bien s'il ne le compère",
-    "definition": "Nothing comes out of nothing",
-    "example": ""
+    "term": "Faire la tête",
+    "definition": "\"To do the head\" — to sulk",
+    "example": "Il fait la tête depuis ce matin."
   },
   {
     "id": 74,
-    "term": "nul n'est censé ignorer la loi",
-    "definition": "ignorantia juris non excusat, ignorance of the law is not a valid excuse",
-    "example": ""
+    "term": "Un coup d’épée dans l’eau",
+    "definition": "\"A sword blow in the water\" — an entirely wasted effort",
+    "example": "Cette réforme est un coup d’épée dans l’eau."
   },
   {
     "id": 75,
-    "term": "oignez vilain, il vous poindra ; poignez vilain, il vous oindra",
-    "definition": "if you behave kindly towards a bad person, they will be mean",
-    "example": ""
+    "term": "Casser du sucre sur le dos de quelqu’un",
+    "definition": "\"To break sugar on someone’s back\" — to badmouth them behind their back",
+    "example": "Ils cassent du sucre sur son dos dès qu’il sort."
   },
   {
     "id": 76,
-    "term": "on en apprend tous les jours",
-    "definition": "you learn something new every day, every day is a school day",
-    "example": ""
+    "term": "Avoir les yeux plus gros que le ventre",
+    "definition": "\"To have eyes bigger than your belly\" — to take more than you can manage",
+    "example": "J’ai eu les yeux plus gros que le ventre au buffet."
   },
   {
     "id": 77,
-    "term": "on n'a rien sans rien",
-    "definition": "you don't get something for nothing; there's no such thing as a free lunch",
-    "example": ""
+    "term": "Être tiré par les cheveux",
+    "definition": "\"To be pulled along by the hair\" — far-fetched",
+    "example": "Ton explication est tirée par les cheveux."
   },
   {
     "id": 78,
-    "term": "on n'apprend pas pour l'école mais pour la vie",
-    "definition": "we do not learn for school, but for life",
-    "example": ""
+    "term": "Marcher sur des œufs",
+    "definition": "\"To walk on eggs\" — to tread very carefully indeed",
+    "example": "Avec ce sujet, on marche sur des œufs."
   },
   {
     "id": 79,
-    "term": "on n'arrête pas le progrès",
-    "definition": "you can't stop progress, there's no stopping progress",
-    "example": ""
+    "term": "Ne pas être dans son assiette",
+    "definition": "\"Not to be in your plate\" — to feel out of sorts",
+    "example": "Je ne suis pas dans mon assiette aujourd’hui."
   },
   {
     "id": 80,
-    "term": "on n'attrape pas des mouches avec du vinaigre",
-    "definition": "honey catches more flies than vinegar; you can catch more flies with honey than with vinegar",
-    "example": ""
+    "term": "Prêcher dans le désert",
+    "definition": "\"To preach in the desert\" — to talk to absolutely no effect",
+    "example": "Je prêche dans le désert depuis des années."
   },
   {
     "id": 81,
-    "term": "Paris ne s'est pas fait en un jour",
-    "definition": "Rome wasn't built in a day",
-    "example": ""
+    "term": "Enfoncer une porte ouverte",
+    "definition": "\"To break down an open door\" — to state the blindingly obvious",
+    "example": "Là, tu enfonces une porte ouverte."
   },
   {
     "id": 82,
-    "term": "petit à petit, l'oiseau fait son nid",
-    "definition": "slow and steady wins the race; little strokes fell great oaks",
-    "example": ""
+    "term": "Faire l’école buissonnière",
+    "definition": "\"To go to bush school\" — to play truant",
+    "example": "Ils ont fait l’école buissonnière tout le printemps."
   },
   {
     "id": 83,
-    "term": "petite pluie abat grand vent",
-    "definition": "Small rain lays great dust; a little kindness goes a long way",
-    "example": ""
+    "term": "Être un panier percé",
+    "definition": "\"To be a basket with a hole in it\" — to be unable to hold on to money",
+    "example": "C’est un panier percé : tout part en sorties."
   },
   {
     "id": 84,
-    "term": "pierre qui roule n'amasse pas mousse",
-    "definition": "a rolling stone gathers no moss",
-    "example": ""
+    "term": "Faire des pieds et des mains",
+    "definition": "\"To use feet and hands\" — to bend over backwards",
+    "example": "J’ai fait des pieds et des mains pour ces billets."
   },
   {
     "id": 85,
-    "term": "plus fait douceur que violence",
-    "definition": "gentleness works better than violence; you'll get more by being kind than by resorting to violence",
-    "example": ""
+    "term": "Avoir la frite",
+    "definition": "\"To have the chip\" — to be full of beans",
+    "example": "Ce matin, j’ai la frite."
   },
   {
     "id": 86,
-    "term": "qu'est-ce qu'il y a",
-    "definition": "what's happening? what's the matter?",
-    "example": ""
+    "term": "Être haut comme trois pommes",
+    "definition": "\"To be as tall as three apples\" — knee-high to a grasshopper",
+    "example": "Je le connais depuis qu’il est haut comme trois pommes."
   },
   {
     "id": 87,
-    "term": "quand le chat n'est pas là, les souris dansent",
-    "definition": "when the cat's away the mice will play",
-    "example": ""
+    "term": "Aller se faire cuire un œuf",
+    "definition": "\"To go and cook yourself an egg\" — to get lost",
+    "example": "Il peut aller se faire cuire un œuf."
   },
   {
     "id": 88,
-    "term": "quand le vin est tiré, il faut le boire",
-    "definition": "in for a penny, in for a pound",
-    "example": ""
+    "term": "Mettre la clé sous la porte",
+    "definition": "\"To leave the key under the door\" — to shut up shop for good",
+    "example": "Le restaurant a mis la clé sous la porte."
   },
   {
     "id": 89,
-    "term": "quand les poules auront des dents",
-    "definition": "when Hell freezes over; when pigs fly",
-    "example": ""
+    "term": "Avoir une faim de loup",
+    "definition": "\"To have a wolf’s hunger\" — to be ravenous",
+    "example": "À midi j’avais une faim de loup."
   },
   {
     "id": 90,
-    "term": "quand on aime on ne compte pas",
-    "definition": "when you love, you don't count the cost",
-    "example": ""
+    "term": "Être né coiffé",
+    "definition": "\"To be born with your hair done\" — to be born lucky",
+    "example": "Ce garçon est né coiffé."
   },
   {
     "id": 91,
-    "term": "rendre son âme au bon Dieu",
-    "definition": "to pass away; to give up the ghost",
-    "example": ""
+    "term": "Payer les pots cassés",
+    "definition": "\"To pay for the broken pots\" — to carry the can",
+    "example": "C’est toujours moi qui paie les pots cassés."
   },
   {
     "id": 92,
-    "term": "rien ne sert de courir, il faut partir à point",
-    "definition": "slow and steady wins the race; more haste, less speed",
-    "example": ""
+    "term": "Tirer son chapeau à quelqu’un",
+    "definition": "\"To take your hat off to someone\" — to salute what they’ve done",
+    "example": "Je lui tire mon chapeau."
   },
   {
     "id": 93,
-    "term": "rira bien qui rira le dernier",
-    "definition": "he who laughs last laughs best",
-    "example": ""
+    "term": "Avoir la tête sur les épaules",
+    "definition": "\"To have your head on your shoulders\" — to be level-headed",
+    "example": "À vingt ans, elle a la tête sur les épaules."
   },
   {
     "id": 94,
-    "term": "s'y casser les dents",
-    "definition": "to come up against a brick wall",
-    "example": ""
+    "term": "Se porter comme un charme",
+    "definition": "\"To carry yourself like a charm\" — to be in fine fettle",
+    "example": "À quatre-vingts ans, il se porte comme un charme."
   },
   {
     "id": 95,
-    "term": "se changer les idées",
-    "definition": "to start a new activity in order to change one's state of mind",
-    "example": "J'en ai marre de cette ambiance tendue ! Je sors pour me changer les idées."
+    "term": "Donner un coup de main",
+    "definition": "\"To give a hand-blow\" — to lend a hand",
+    "example": "Tu peux me donner un coup de main ?"
   },
   {
     "id": 96,
-    "term": "se jeter au cou",
-    "definition": "to embrace with affection, to shower with affection",
-    "example": "se jeter au cou de quelqu'un."
+    "term": "Tomber des nues",
+    "definition": "\"To fall from the clouds\" — to be dumbfounded",
+    "example": "J’en suis tombé des nues."
   },
   {
     "id": 97,
-    "term": "se tirer une balle dans le pied",
-    "definition": "to shoot oneself in the foot",
-    "example": ""
+    "term": "Broyer du noir",
+    "definition": "\"To grind black\" — to brood, to be in low spirits",
+    "example": "Depuis novembre, il broie du noir."
   },
   {
     "id": 98,
-    "term": "sur le bout de la langue",
-    "definition": "on the tip of one's tongue",
-    "example": ""
+    "term": "Faire la pluie et le beau temps",
+    "definition": "\"To make the rain and the fine weather\" — to call all the shots",
+    "example": "Au conseil, c’est elle qui fait la pluie et le beau temps."
   },
   {
     "id": 99,
-    "term": "taillable et corvéable à merci",
-    "definition": "heavily taxed; enslaved to do onerous work",
-    "example": ""
+    "term": "Avoir un cœur d’artichaut",
+    "definition": "\"To have an artichoke heart\" — to fall in love with everyone",
+    "example": "Il a un cœur d’artichaut depuis toujours."
   },
   {
     "id": 100,
-    "term": "tailler le bout de gras",
-    "definition": "to shoot the breeze, to chew the fat, to chat",
-    "example": ""
+    "term": "Mettre son nez partout",
+    "definition": "\"To put your nose everywhere\" — to poke into everything",
+    "example": "La voisine met son nez partout."
+  },
+  {
+    "id": 101,
+    "term": "Prendre racine",
+    "definition": "\"To take root\" — to outstay your welcome",
+    "example": "Il a pris racine dans le salon."
   }
 ];
 window.QM_IDIOMS_DE_DATA = [
   {
     "id": 1,
-    "term": "'n Appel und 'n Ei",
-    "definition": "peanuts; a low, minuscule price",
-    "example": "Er arbeitet für 'n Appel und 'n Ei."
+    "term": "Da liegt der Hund begraben",
+    "definition": "\"That’s where the dog is buried\" — that’s the real crux of it",
+    "example": "Das Geld fehlt — da liegt der Hund begraben."
   },
   {
     "id": 2,
-    "term": "alles auf eine Karte setzen",
-    "definition": "Risking everything, putting all one's eggs in one basket",
-    "example": ""
+    "term": "Ich verstehe nur Bahnhof",
+    "definition": "\"I understand only railway station\" — it’s all Greek to me",
+    "example": "Bei diesen Formularen verstehe ich nur Bahnhof."
   },
   {
     "id": 3,
-    "term": "auf dem Laufenden halten",
-    "definition": "to keep (someone) in the loop, to keep (someone) informed, to keep (someone) up-to-date",
-    "example": "Halt mich auf dem Laufenden!"
+    "term": "Die Daumen drücken",
+    "definition": "\"To press your thumbs\" — to keep your fingers crossed",
+    "example": "Ich drücke dir morgen die Daumen."
   },
   {
     "id": 4,
-    "term": "auf die Nerven gehen",
-    "definition": "to get on someone's nerves, to annoy",
-    "example": "Euer Unsinn geht mir echt auf die Nerven."
+    "term": "Tomaten auf den Augen haben",
+    "definition": "\"To have tomatoes on your eyes\" — to be blind to what’s in front of you",
+    "example": "Der Schlüssel lag da — du hattest Tomaten auf den Augen."
   },
   {
     "id": 5,
-    "term": "auf einem anderen Blatt stehen",
-    "definition": "to be another matter, to be a different story",
-    "example": "Er analysiert das verfehlte Regierungsprogramm sehr klar. Dass sein eigenes Programm noch verfehlter ist, steht auf einem anderen Blatt."
+    "term": "Das ist nicht mein Bier",
+    "definition": "\"That’s not my beer\" — that’s not my problem",
+    "example": "Wie sie das regeln, ist nicht mein Bier."
   },
   {
     "id": 6,
-    "term": "aus der Not eine Tugend machen",
-    "definition": "to make a virtue of necessity",
-    "example": "Viele Männer mit Haarausfall machen aus der Not eine Tugend und scheren sich den Kopf kahl."
+    "term": "Alles in Butter",
+    "definition": "\"Everything in butter\" — everything’s fine",
+    "example": "Keine Sorge, es ist alles in Butter."
   },
   {
     "id": 7,
-    "term": "aus einer Mücke einen Elefanten machen",
-    "definition": "to make a mountain out of a mole hill",
-    "example": "Du hast eine einzige Zwei bekommen und tust so, als würdest du in der Klasse durchfallen. Du machst aus einer Mücke einen Elefanten, wenn du mich fragst."
+    "term": "Die Katze im Sack kaufen",
+    "definition": "\"To buy the cat in the sack\" — to buy a pig in a poke",
+    "example": "Ohne Probefahrt kaufst du die Katze im Sack."
   },
   {
     "id": 8,
-    "term": "bei Adam und Eva anfangen",
-    "definition": "to start from the very beginning",
-    "example": ""
+    "term": "Jemandem einen Bären aufbinden",
+    "definition": "\"To tie a bear onto someone\" — to spin them a tall tale",
+    "example": "Er hat dir einen Bären aufgebunden."
   },
   {
     "id": 9,
-    "term": "bei der Stange halten",
-    "definition": "to keep (someone) in line; to make loyal",
-    "example": ""
+    "term": "Das ist mir Wurst",
+    "definition": "\"That’s sausage to me\" — I couldn’t care less",
+    "example": "Ob heute oder morgen, das ist mir Wurst."
   },
   {
     "id": 10,
-    "term": "bei sich sein",
-    "definition": "to have come to; to be calm or conscious",
-    "example": "Er kam kurz vorbei, aber jetzt ist er wieder bei sich."
+    "term": "Ins Fettnäpfchen treten",
+    "definition": "\"To step into the little fat pot\" — to put your foot in it",
+    "example": "Mit der Frage bin ich voll ins Fettnäpfchen getreten."
   },
   {
     "id": 11,
-    "term": "Bescheidenheit ist eine Zier, doch weiter kommt man ohne ihr",
-    "definition": "Being modest and humble is a morally commendable approach in life",
-    "example": ""
+    "term": "Die Kirche im Dorf lassen",
+    "definition": "\"To leave the church in the village\" — to keep a sense of proportion",
+    "example": "Lass mal die Kirche im Dorf, es war nur ein Fehler."
   },
   {
     "id": 12,
-    "term": "besser ein Ende mit Schrecken, als ein Schrecken ohne Ende",
-    "definition": "However painful, dealing resolutely with a problematic situation is preferable to allowing it to go on indefin",
-    "example": ""
+    "term": "Aus einer Mücke einen Elefanten machen",
+    "definition": "\"To make an elephant out of a mosquito\" — to make a mountain out of a molehill",
+    "example": "Mach aus einer Mücke keinen Elefanten."
   },
   {
     "id": 13,
-    "term": "Butter bei die Fische",
-    "definition": "talking turkey, cutting to the chase",
-    "example": "Jetzt mal Butter bei die Fische: Hast du's gemacht oder nicht?"
+    "term": "Schwein haben",
+    "definition": "\"To have pig\" — to have a real stroke of luck",
+    "example": "Bei dem Unfall hat er richtig Schwein gehabt."
   },
   {
     "id": 14,
-    "term": "Chinesisch sprechen",
-    "definition": "to be unintelligible",
-    "example": ""
+    "term": "Einen Kater haben",
+    "definition": "\"To have a tomcat\" — to have a hangover",
+    "example": "Nach der Feier hatte ich einen furchtbaren Kater."
   },
   {
     "id": 15,
-    "term": "das Blaue vom Himmel versprechen",
-    "definition": "to make a promise that cannot be fulfilled",
-    "example": ""
+    "term": "Nicht alle Tassen im Schrank haben",
+    "definition": "\"Not to have all your cups in the cupboard\" — to be off your rocker",
+    "example": "Wer so fährt, hat nicht alle Tassen im Schrank."
   },
   {
     "id": 16,
-    "term": "das Fell über die Ohren ziehen",
-    "definition": "to pull the wool over someone's eyes",
-    "example": ""
+    "term": "Auf dem Holzweg sein",
+    "definition": "\"To be on the wooden path\" — to be barking up the wrong tree",
+    "example": "Wenn du mich verdächtigst, bist du auf dem Holzweg."
   },
   {
     "id": 17,
-    "term": "das Gelbe vom Ei",
-    "definition": "the very best, something to write home about",
-    "example": "Das ist nicht gerade das Gelbe vom Ei."
+    "term": "Eine Extrawurst wollen",
+    "definition": "\"To want an extra sausage\" — to expect special treatment",
+    "example": "Er will immer eine Extrawurst."
   },
   {
     "id": 18,
-    "term": "das Kind fällt in den Brunnen",
-    "definition": "a disaster happens or becomes inevitable; it is too late for precautions that should have been taken earlier",
-    "example": "Wenn das Kind in den Brunnen gefallen ist, wollen es alle wieder gleich gewusst haben."
+    "term": "Jemandem auf den Keks gehen",
+    "definition": "\"To go onto someone’s biscuit\" — to get on their nerves",
+    "example": "Diese Musik geht mir auf den Keks."
   },
   {
     "id": 19,
-    "term": "dem Fass den Boden ausschlagen",
-    "definition": "to be unbelievable, outrageous, to be the most unbelievable part, to take the biscuit",
-    "example": "Dass Sie die vertragsgemäße Wartung einfach nicht durchgeführt haben, ist schlimm genug, aber dass Sie mir dann trotzdem eine Rechnung schicken, schlägt dem Fass den Boden aus."
+    "term": "Die Nase voll haben",
+    "definition": "\"To have your nose full\" — to be fed up",
+    "example": "Ich habe die Nase voll von diesen Ausreden."
   },
   {
     "id": 20,
-    "term": "durch den Kakao ziehen",
-    "definition": "to pull someone's leg, to make fun of someone or something, to roast someone",
-    "example": "Er zieht dich nur durch den Kakao."
+    "term": "Da steppt der Bär",
+    "definition": "\"There the bear tap-dances\" — that’s where the real party is",
+    "example": "Samstags steppt bei ihnen der Bär."
   },
   {
     "id": 21,
-    "term": "ein Ass im Ärmel haben",
-    "definition": "to have an ace up one's sleeve",
-    "example": ""
+    "term": "Klar wie Kloßbrühe",
+    "definition": "\"As clear as dumpling broth\" — perfectly obvious",
+    "example": "Der Fall ist klar wie Kloßbrühe."
   },
   {
     "id": 22,
-    "term": "ein bisschen Schwund ist immer",
-    "definition": "You must allow for some unanticipated or unexplained losses. You should expect neither that things proceed per",
-    "example": "Leute! Ein bisschen Schwund ist immer. Aber wie schnell hier meine Büroklammern immer aufgebraucht sind, grenzt an Diebstahl!"
+    "term": "Sich zum Affen machen",
+    "definition": "\"To make a monkey of yourself\" — to make a fool of yourself",
+    "example": "Mach dich nicht zum Affen."
   },
   {
     "id": 23,
-    "term": "einen Frosch im Hals haben",
-    "definition": "to have a frog in one's throat",
-    "example": ""
+    "term": "Zwei linke Hände haben",
+    "definition": "\"To have two left hands\" — to be all fingers and thumbs",
+    "example": "Beim Basteln habe ich zwei linke Hände."
   },
   {
     "id": 24,
-    "term": "es kann nicht sein, was nicht sein darf",
-    "definition": "people find it extremely hard to accept facts when they go against their firmly held conviction or are otherwi",
-    "example": "Obwohl man den Krieg längst verloren wusste, führte man ihn weiter nach dem Prinzip: Es kann nicht sein, was nicht sein darf!"
+    "term": "Jemanden auf die Palme bringen",
+    "definition": "\"To drive someone up the palm tree\" — to drive them up the wall",
+    "example": "Diese Warteschleife bringt mich auf die Palme."
   },
   {
     "id": 25,
-    "term": "es von den Lebenden nehmen",
-    "definition": "to charge a lot of money, to overprice",
-    "example": "Die Anwälte nehmen es von den Lebenden, das ist ja allgemein bekannt."
+    "term": "Unter vier Augen",
+    "definition": "\"Under four eyes\" — in private, just the two of us",
+    "example": "Das besprechen wir besser unter vier Augen."
   },
   {
     "id": 26,
-    "term": "etwas im Schilde führen",
-    "definition": "to be up to something, to scheme, to carry on one's mind, to have something up one's sleeve",
-    "example": "Böses im Schilde führen."
+    "term": "Hals über Kopf",
+    "definition": "\"Neck over head\" — headlong, in a mad rush",
+    "example": "Sie sind Hals über Kopf ausgezogen."
   },
   {
     "id": 27,
-    "term": "fehl am Platz",
-    "definition": "misplaced, out of place",
-    "example": "Ich fühlte mich in dieser Gesellschaft fehl am Platz."
+    "term": "Einen Zahn zulegen",
+    "definition": "\"To add a tooth\" — to get a move on",
+    "example": "Wir müssen einen Zahn zulegen, sonst wird das nichts."
   },
   {
     "id": 28,
-    "term": "Feuer und Flamme sein",
-    "definition": "to be full of enthusiasm; to be keen as mustard",
-    "example": ""
+    "term": "Alte Zöpfe abschneiden",
+    "definition": "\"To cut off the old plaits\" — to do away with outdated habits",
+    "example": "Die Firma muss endlich alte Zöpfe abschneiden."
   },
   {
     "id": 29,
-    "term": "fix und fertig",
-    "definition": "bushed, burnt out, dead on one's feet, at the end of one's rope, running on fumes, ready to drop, out of steam",
-    "example": ""
+    "term": "Jemandem einen Korb geben",
+    "definition": "\"To give someone a basket\" — to turn them down",
+    "example": "Sie hat ihm einen Korb gegeben."
   },
   {
     "id": 30,
-    "term": "Freunde in der Not gehen hundert auf ein Lot",
-    "definition": "a friend in need is a friend indeed",
-    "example": ""
+    "term": "Die Flinte ins Korn werfen",
+    "definition": "\"To throw your rifle into the corn\" — to give up in despair",
+    "example": "Wirf nicht gleich die Flinte ins Korn."
   },
   {
     "id": 31,
-    "term": "fünf Finger und ein Griff",
-    "definition": "the act of stealing, especially casually when the opportunity presents itself",
-    "example": "Neue Jacke? Was hat die gekostet? Fünf Finger und einen Griff?"
+    "term": "Perlen vor die Säue werfen",
+    "definition": "\"To throw pearls before the sows\" — to cast pearls before swine",
+    "example": "Diesen Wein hier zu servieren heißt Perlen vor die Säue werfen."
   },
   {
     "id": 32,
-    "term": "fünf Minuten vor der Zeit ist des Deutschen Pünktlichkeit",
-    "definition": "one should plan to arrive earlier than the date in order to make sure that one will not be late",
-    "example": ""
+    "term": "Ein Haar in der Suppe finden",
+    "definition": "\"To find a hair in the soup\" — to find fault with everything",
+    "example": "Er findet immer ein Haar in der Suppe."
   },
   {
     "id": 33,
-    "term": "ganz dicht sein",
-    "definition": "to be in one's right mind",
-    "example": "Bist du noch ganz dicht?"
+    "term": "Jemandem nicht das Wasser reichen können",
+    "definition": "\"Not to be able to pass someone the water\" — to be nowhere near their match",
+    "example": "Als Koch kann ich ihr nicht das Wasser reichen."
   },
   {
     "id": 34,
-    "term": "geschenkt ist geschenkt, wiederholen ist gestohlen",
-    "definition": "you can’t take back what you gave as a present; no backsies",
-    "example": ""
+    "term": "Auf keinen grünen Zweig kommen",
+    "definition": "\"Never to get onto a green branch\" — to get nowhere in life",
+    "example": "Mit dieser Einstellung kommt er auf keinen grünen Zweig."
   },
   {
     "id": 35,
-    "term": "gesunder Geist in gesundem Körper",
-    "definition": "A healthy mind in a healthy body",
-    "example": ""
+    "term": "Wie ein Elefant im Porzellanladen",
+    "definition": "\"Like an elephant in a porcelain shop\" — like a bull in a china shop",
+    "example": "Er benimmt sich wie ein Elefant im Porzellanladen."
   },
   {
     "id": 36,
-    "term": "geteiltes Leid ist halbes Leid",
-    "definition": "a sorrow shared is a sorrow halved",
-    "example": ""
+    "term": "Etwas auf die lange Bank schieben",
+    "definition": "\"To push something onto the long bench\" — to keep putting it off",
+    "example": "Schieb die Steuererklärung nicht auf die lange Bank."
   },
   {
     "id": 37,
-    "term": "Gleich und Gleich gesellt sich gern",
-    "definition": "birds of a feather flock together",
-    "example": ""
+    "term": "Da haben wir den Salat",
+    "definition": "\"There we have the salad\" — now we’re in a fine mess",
+    "example": "Der Server ist abgestürzt — da haben wir den Salat."
   },
   {
     "id": 38,
-    "term": "Gottes Mühlen mahlen langsam",
-    "definition": "the mills of the gods grind slowly",
-    "example": "Gottes Mühlen mahlen langsam, mahlen aber trefflich klein."
+    "term": "Es zieht wie Hechtsuppe",
+    "definition": "\"There’s a draught like pike soup\" — there’s a terrible draught in here",
+    "example": "Mach das Fenster zu, es zieht wie Hechtsuppe."
   },
   {
     "id": 39,
-    "term": "Hans Dampf in allen Gassen",
-    "definition": "jack of all trades",
-    "example": ""
+    "term": "Über den eigenen Schatten springen",
+    "definition": "\"To jump over your own shadow\" — to act against your own nature",
+    "example": "Er musste über den eigenen Schatten springen und sich entschuldigen."
   },
   {
     "id": 40,
-    "term": "Himmel und Hölle in Bewegung setzen",
-    "definition": "to move heaven and earth",
-    "example": ""
+    "term": "Butter bei die Fische",
+    "definition": "\"Butter with the fish\" — come on, get to the point",
+    "example": "Jetzt aber Butter bei die Fische: was kostet es?"
   },
   {
     "id": 41,
-    "term": "hingehen, wo der Pfeffer wächst",
-    "definition": "to go jump in the lake",
-    "example": ""
+    "term": "Jemanden durch den Kakao ziehen",
+    "definition": "\"To pull someone through the cocoa\" — to take the mickey out of them",
+    "example": "Die Kollegen haben ihn durch den Kakao gezogen."
   },
   {
     "id": 42,
-    "term": "hinter die Kulissen schauen",
-    "definition": "to take a look behind the scenes",
-    "example": ""
+    "term": "Eine Eselsbrücke bauen",
+    "definition": "\"To build a donkey bridge\" — to come up with a memory aid",
+    "example": "Für die Namen habe ich mir eine Eselsbrücke gebaut."
   },
   {
     "id": 43,
-    "term": "hinters Licht führen",
-    "definition": "pull the wool over someone's eyes",
-    "example": ""
+    "term": "Mit jemandem ein Hühnchen zu rupfen haben",
+    "definition": "\"To have a chicken to pluck with someone\" — to have a bone to pick",
+    "example": "Mit dir habe ich noch ein Hühnchen zu rupfen."
   },
   {
     "id": 44,
-    "term": "Hopfen und Malz ist verloren",
-    "definition": "it's a waste, all hope is in vain",
-    "example": "Da ist Hopfen und Malz verloren."
+    "term": "Wo sich Fuchs und Hase gute Nacht sagen",
+    "definition": "\"Where the fox and the hare say goodnight to each other\" — the middle of nowhere",
+    "example": "Sie wohnen da, wo sich Fuchs und Hase gute Nacht sagen."
   },
   {
     "id": 45,
-    "term": "im falschen Film",
-    "definition": "in a bizarre situation that runs contrary to one's expectations",
-    "example": "Da waren nur Bekloppte, ich dacht, ich wär im falschen Film."
+    "term": "Jetzt geht’s um die Wurst",
+    "definition": "\"Now it’s about the sausage\" — this is the crunch",
+    "example": "Letzte Runde — jetzt geht’s um die Wurst."
   },
   {
     "id": 46,
-    "term": "in den letzten Zügen liegen",
-    "definition": "to be on one's last legs; to be in one's death throes",
-    "example": ""
+    "term": "Den Löffel abgeben",
+    "definition": "\"To hand in the spoon\" — to kick the bucket",
+    "example": "Mit über neunzig hat er den Löffel abgegeben."
   },
   {
     "id": 47,
-    "term": "in den Tee tun",
-    "definition": "to slip something in someone’s drink",
-    "example": "Hast du mir schon Zucker in den Tee getan?"
+    "term": "Sich aus dem Staub machen",
+    "definition": "\"To make yourself out of the dust\" — to clear off in a hurry",
+    "example": "Die Täter haben sich aus dem Staub gemacht."
   },
   {
     "id": 48,
-    "term": "in der Kreide stehen",
-    "definition": "to be in (someone's) debt",
-    "example": "Ich stehe noch bei meinem Nachbarn in der Kreide."
+    "term": "Hand aufs Herz",
+    "definition": "\"Hand on the heart\" — be honest now",
+    "example": "Hand aufs Herz: hast du gelernt?"
   },
   {
     "id": 49,
-    "term": "in die Enge treiben",
-    "definition": "to trap, to scare, to corner",
-    "example": "Viele Menschen fühlen sich durch die neuen Beschränkungen in die Enge getrieben."
+    "term": "Ein Auge zudrücken",
+    "definition": "\"To press one eye shut\" — to turn a blind eye",
+    "example": "Der Lehrer hat ein Auge zugedrückt."
   },
   {
     "id": 50,
-    "term": "in die Pfanne hauen",
-    "definition": "to criticize or deride (someone) harshly, especially in a disloyal manner; to slam, to throw under the bus",
-    "example": "Ich will meine Kollegen nicht in die Pfanne hauen, aber ich muss doch festhalten, dass ich von Anfang an dagegen war."
+    "term": "Auf großem Fuß leben",
+    "definition": "\"To live on a big foot\" — to live in grand style",
+    "example": "Seit dem Gewinn leben sie auf großem Fuß."
   },
   {
     "id": 51,
-    "term": "jedes Wort auf die Goldwaage legen",
-    "definition": "to think carefully about one's wording",
-    "example": ""
+    "term": "Jemandem Honig ums Maul schmieren",
+    "definition": "\"To smear honey round someone’s mouth\" — to butter them up",
+    "example": "Er schmiert dem Chef Honig ums Maul."
   },
   {
     "id": 52,
-    "term": "jemandem das Ohr abkauen",
-    "definition": "to bother someone with endless speaking, get on someone's nerves",
-    "example": "Kau mir nicht das Ohr ab."
+    "term": "Die Sau rauslassen",
+    "definition": "\"To let the sow out\" — to let your hair down",
+    "example": "Einmal im Jahr lassen wir die Sau raus."
   },
   {
     "id": 53,
-    "term": "jemandem ein Kuckucksei ins Nest legen",
-    "definition": "to hurt someone such in a way that it only becomes apparent later",
-    "example": ""
+    "term": "Etwas durch die Blume sagen",
+    "definition": "\"To say something through the flower\" — to hint at it delicately",
+    "example": "Sie hat es mir durch die Blume gesagt."
   },
   {
     "id": 54,
-    "term": "jemandem ein X für ein U vormachen",
-    "definition": "to deceive, to hoodwink, to trick, to lead someone up the garden path",
-    "example": ""
+    "term": "Auf dem Zahnfleisch gehen",
+    "definition": "\"To walk on your gums\" — to be running on empty",
+    "example": "Nach zwei Nachtschichten gehe ich auf dem Zahnfleisch."
   },
   {
     "id": 55,
-    "term": "jemandem etwas zur Last legen",
-    "definition": "to accuse, blame",
-    "example": ""
+    "term": "Sich einen Ast lachen",
+    "definition": "\"To laugh yourself a branch\" — to laugh yourself silly",
+    "example": "Wir haben uns einen Ast gelacht."
   },
   {
     "id": 56,
-    "term": "jemandem stehen die Haare zu Berge",
-    "definition": "someone is worked up, upset or frightened to no end",
-    "example": "Als das Monster dann um die Ecke kam, standen mir die Haare zu Berge."
+    "term": "Jemandem die Butter vom Brot nehmen",
+    "definition": "\"To take the butter off someone’s bread\" — to do them out of what’s theirs",
+    "example": "Er lässt sich nicht die Butter vom Brot nehmen."
   },
   {
     "id": 57,
-    "term": "Kaiser von China",
-    "definition": "someone magnificent that one is not",
-    "example": "Er hält sich für den Kaiser von China."
+    "term": "Ein alter Hase sein",
+    "definition": "\"To be an old hare\" — to be an old hand",
+    "example": "In diesem Geschäft ist sie ein alter Hase."
   },
   {
     "id": 58,
-    "term": "kein Blatt vor den Mund nehmen",
-    "definition": "to be outspoken; not to mince words; to call a spade a spade",
-    "example": ""
+    "term": "Blau machen",
+    "definition": "\"To make blue\" — to skive off work",
+    "example": "Bei dem Wetter hat die halbe Klasse blau gemacht."
   },
   {
     "id": 59,
-    "term": "keine Antwort ist auch eine Antwort",
-    "definition": "a person’s silence can be very telling",
-    "example": "Und? Wie schmeckt dir mein neues Gericht? – [Stille.] – Naja, keine Antwort ist auch eine Antwort."
+    "term": "Schwarzfahren",
+    "definition": "\"To ride black\" — to travel without a ticket",
+    "example": "Wer schwarzfährt, zahlt vierzig Euro."
   },
   {
     "id": 60,
-    "term": "keine halben Sachen machen",
-    "definition": "to not do things by halves",
-    "example": ""
+    "term": "Aus dem Häuschen sein",
+    "definition": "\"To be out of your little house\" — to be beside yourself with excitement",
+    "example": "Die Kinder waren ganz aus dem Häuschen."
   },
   {
     "id": 61,
-    "term": "Kindermund tut Wahrheit kund",
-    "definition": "out of the mouths of babes comes truth",
-    "example": ""
+    "term": "Es ist noch kein Meister vom Himmel gefallen",
+    "definition": "\"No master has yet fallen from the sky\" — nobody starts out an expert",
+    "example": "Üb weiter — es ist noch kein Meister vom Himmel gefallen."
   },
   {
     "id": 62,
-    "term": "knapp daneben ist auch vorbei",
-    "definition": "close, but no cigar; a miss is as good as a mile",
-    "example": ""
+    "term": "Lügen haben kurze Beine",
+    "definition": "\"Lies have short legs\" — lies don’t get you far",
+    "example": "Sag die Wahrheit: Lügen haben kurze Beine."
   },
   {
     "id": 63,
-    "term": "leck mich am Arsch",
-    "definition": "kiss my ass",
-    "example": ""
+    "term": "Morgenstund hat Gold im Mund",
+    "definition": "\"The morning hour has gold in its mouth\" — the early bird catches the worm",
+    "example": "Ich stehe um sechs auf: Morgenstund hat Gold im Mund."
   },
   {
     "id": 64,
-    "term": "Leiche im Keller",
-    "definition": "skeleton in the cupboard, skeleton in the closet",
-    "example": ""
+    "term": "Kleinvieh macht auch Mist",
+    "definition": "\"Small livestock makes muck too\" — every little helps",
+    "example": "Zwei Euro sparen? Kleinvieh macht auch Mist."
   },
   {
     "id": 65,
-    "term": "Liebe geht durch den Magen",
-    "definition": "for someone, or offering someone food",
-    "example": ""
+    "term": "Viele Köche verderben den Brei",
+    "definition": "\"Many cooks spoil the porridge\" — too many cooks spoil the broth",
+    "example": "Lass ihn allein arbeiten, viele Köche verderben den Brei."
   },
   {
     "id": 66,
-    "term": "lieber eine Stumme im Bett als eine Taube auf dem Dach",
-    "definition": "a bird in the hand is worth two in the bush",
-    "example": ""
+    "term": "Der Apfel fällt nicht weit vom Stamm",
+    "definition": "\"The apple doesn’t fall far from the trunk\" — a chip off the old block",
+    "example": "Er kocht wie sein Vater — der Apfel fällt nicht weit vom Stamm."
   },
   {
     "id": 67,
-    "term": "Loch im Kopf",
-    "definition": "a laceration on the scalp",
-    "example": "Der Peter ist gestern von der Mauer gefallen und hatte ein Loch im Kopf."
+    "term": "Darauf kannst du Gift nehmen",
+    "definition": "\"You can take poison on that\" — you can bet your life on it",
+    "example": "Er kommt zu spät, darauf kannst du Gift nehmen."
   },
   {
     "id": 68,
-    "term": "Lügen haben schöne Beine",
-    "definition": "lying can be an attractive option; lies can be deceptively attractive",
-    "example": ""
+    "term": "Auf Wolke sieben schweben",
+    "definition": "\"To float on cloud seven\" — to be on cloud nine",
+    "example": "Seit der Hochzeit schwebt sie auf Wolke sieben."
   },
   {
     "id": 69,
-    "term": "mir nichts, dir nichts",
-    "definition": "suddenly; without warning, or consideration, or regard for own detriment",
-    "example": "Jetzt haben sie ihren Sohn dreißig Jahre lang verwöhnt und kaum hat er eine Freundin, zieht er mir nichts, dir nichts aus."
+    "term": "Ins Gras beißen",
+    "definition": "\"To bite into the grass\" — to bite the dust",
+    "example": "Im Film muss der Held ins Gras beißen."
   },
   {
     "id": 70,
-    "term": "mit gewaschenem Hals",
-    "definition": "finding oneself in an awkward situation",
-    "example": "Ich würde mich da nicht unnötig festlegen. Nachher stehst du da mit deinem gewaschenen Hals."
+    "term": "Jemandem auf den Schlips treten",
+    "definition": "\"To step on someone’s tie\" — to tread on their toes",
+    "example": "Mit der Bemerkung bin ich ihm auf den Schlips getreten."
   },
   {
     "id": 71,
-    "term": "mit jemandem ins Gericht gehen",
-    "definition": "to take a hard look at someone, to judge someone",
-    "example": ""
+    "term": "Da brat mir einer einen Storch",
+    "definition": "\"Somebody fry me a stork\" — well, blow me down",
+    "example": "Er hat wirklich gewonnen? Da brat mir einer einen Storch."
   },
   {
     "id": 72,
-    "term": "mit Kind und Kegel",
-    "definition": "as a large group; with all of one's family, contents, and/or livestock",
-    "example": "Angelina Jolie und Brad Pitt sind mit Kind und Kegel in Nizza angekommen."
+    "term": "Den Braten riechen",
+    "definition": "\"To smell the roast\" — to smell a rat",
+    "example": "Sie hat den Braten gerochen und ist nicht gekommen."
   },
   {
     "id": 73,
-    "term": "mit Sack und Pack",
-    "definition": "with all one's belongings, bag and baggage",
-    "example": "Unerwartet stand mein Bruder mit Sack und Pack vor meiner Haustür und bat um Herberge."
+    "term": "Mit dem falschen Fuß aufstehen",
+    "definition": "\"To get up on the wrong foot\" — to get out of bed on the wrong side",
+    "example": "Heute bist du wohl mit dem falschen Fuß aufgestanden."
   },
   {
     "id": 74,
-    "term": "nach Adam Riese",
-    "definition": "calculating correctly, by the rules of mathematics",
-    "example": "Wenn du am Tag 70 Euro verdienst, aber über 20 Euro Fahrtkosten hast, bleiben dir nach Adam Riese nicht mal 50 Euro übrig."
+    "term": "Ein Dorn im Auge sein",
+    "definition": "\"To be a thorn in the eye\" — to be a constant irritation",
+    "example": "Die Baustelle ist den Anwohnern ein Dorn im Auge."
   },
   {
     "id": 75,
-    "term": "nach oben buckeln und nach unten treten",
-    "definition": "to be meek towards one's superiors and despotic towards one's inferiors",
-    "example": ""
+    "term": "In den sauren Apfel beißen",
+    "definition": "\"To bite into the sour apple\" — to bite the bullet",
+    "example": "Ich muss in den sauren Apfel beißen und absagen."
   },
   {
     "id": 76,
-    "term": "nachts sind alle Katzen grau",
-    "definition": "differences that are normally clearly noticeable may become blurred under certain circumstances",
-    "example": "Hannah Arendt lehnte die Idee einer Kollektivschuld ab, weil sie dazu führe, dass nach dem Prinzip „Nachts sind alle Katzen grau“ die wirklich Schuldigen entlastet würden."
+    "term": "Um den heißen Brei herumreden",
+    "definition": "\"To talk around the hot porridge\" — to beat about the bush",
+    "example": "Rede nicht um den heißen Brei herum."
   },
   {
     "id": 77,
-    "term": "nicht alle Tassen im Schrank haben",
-    "definition": "to not have all one's marbles, (being) a few cards short of a deck, have a screw loose",
-    "example": "Der hat doch nicht alle Tassen im Schrank!"
+    "term": "Ohne Fleiß kein Preis",
+    "definition": "\"No diligence, no prize\" — no pain, no gain",
+    "example": "Übe weiter: ohne Fleiß kein Preis."
   },
   {
     "id": 78,
-    "term": "nicht der Rede wert sein",
-    "definition": "to be nothing worth mentioning",
-    "example": "nicht der Rede wert."
+    "term": "Jemandem einen Strich durch die Rechnung machen",
+    "definition": "\"To draw a line through someone’s bill\" — to scupper their plans",
+    "example": "Das Wetter hat uns einen Strich durch die Rechnung gemacht."
   },
   {
     "id": 79,
-    "term": "ob man will oder nicht",
-    "definition": "willy-nilly; whether we like it or not",
-    "example": ""
+    "term": "Etwas aus dem Ärmel schütteln",
+    "definition": "\"To shake something out of your sleeve\" — to produce it effortlessly",
+    "example": "Sie schüttelt solche Reden aus dem Ärmel."
   },
   {
     "id": 80,
-    "term": "oben licht und unten dicht",
-    "definition": "mentally capable and continent",
-    "example": "Solang man oben licht und unten dicht bleibt, ist ja alles noch in Ordnung."
+    "term": "Auf der faulen Haut liegen",
+    "definition": "\"To lie on your lazy skin\" — to laze about doing nothing",
+    "example": "Im Urlaub liege ich nur auf der faulen Haut."
   },
   {
     "id": 81,
-    "term": "ohne Fleiß kein Preis",
-    "definition": "no pain, no gain",
-    "example": ""
+    "term": "Das ist ein Katzensprung",
+    "definition": "\"That’s a cat’s jump\" — it’s only a stone’s throw",
+    "example": "Bis zum Bahnhof ist es ein Katzensprung."
   },
   {
     "id": 82,
-    "term": "ohne mit der Wimper zu zucken",
-    "definition": "without batting an eyelash",
-    "example": ""
+    "term": "Die Ohren spitzen",
+    "definition": "\"To sharpen your ears\" — to prick up your ears",
+    "example": "Als sein Name fiel, spitzte er die Ohren."
   },
   {
     "id": 83,
-    "term": "ohne Punkt und Komma",
-    "definition": "lengthy and rapid, without pause, possibly also somewhat incoherent",
-    "example": "Er redet ohne Punkt und Komma."
+    "term": "Auf Herz und Nieren prüfen",
+    "definition": "\"To test on heart and kidneys\" — to put through its paces",
+    "example": "Das Auto wurde auf Herz und Nieren geprüft."
   },
   {
     "id": 84,
-    "term": "Pack schlägt sich, Pack verträgt sich",
-    "definition": "It is normal for people (especially impulsive ones) to have big fights or enmities and then suddenly be friend",
-    "example": "„Jahrelang haben sie sich bekriegt und jetzt verbünden sie sich auf einmal.“ – „Tja, Pack schlägt sich, Pack verträgt sich.“."
+    "term": "Reden ist Silber, Schweigen ist Gold",
+    "definition": "\"Speech is silver, silence is gold\" — silence is golden",
+    "example": "Ich sagte nichts: Reden ist Silber, Schweigen ist Gold."
   },
   {
     "id": 85,
-    "term": "Papier ist geduldig",
-    "definition": "the fact that something has been put in writing does not make it true or certain to be realized",
-    "example": "Die Verordnung schreibt doch ganz genau vor, wie in solchen Fällen zu verfahren ist! — Naja, Papier ist geduldig, und hier auf dem Land wird das eben etwas anders gehandhabt."
+    "term": "Jemandem den Kopf verdrehen",
+    "definition": "\"To twist someone’s head round\" — to turn their head completely",
+    "example": "Die neue Kollegin hat ihm den Kopf verdreht."
   },
   {
     "id": 86,
-    "term": "Perlen vor die Säue werfen",
-    "definition": "cast pearls before swine",
-    "example": ""
+    "term": "Etwas im Schilde führen",
+    "definition": "\"To carry something on your shield\" — to be up to something",
+    "example": "Die beiden führen etwas im Schilde."
   },
   {
     "id": 87,
-    "term": "Platz nehmen",
-    "definition": "to have a seat, to take a seat",
-    "example": "bitte nehmen Sie Platz."
+    "term": "Jemanden über den Tisch ziehen",
+    "definition": "\"To pull someone across the table\" — to fleece them",
+    "example": "Beim Autokauf hat man ihn über den Tisch gezogen."
   },
   {
     "id": 88,
-    "term": "Probieren geht über Studieren",
-    "definition": "experience is the best teacher; experimentation and hands-on experience is more valuable than theoretizing",
-    "example": ""
+    "term": "Den Teufel an die Wand malen",
+    "definition": "\"To paint the devil on the wall\" — to imagine the worst",
+    "example": "Mal nicht den Teufel an die Wand."
   },
   {
     "id": 89,
-    "term": "Raben zeugen keine Tauben",
-    "definition": "a wild goose never laid a tame egg",
-    "example": ""
+    "term": "Aus allen Wolken fallen",
+    "definition": "\"To fall out of all the clouds\" — to be thunderstruck",
+    "example": "Als ich das hörte, fiel ich aus allen Wolken."
   },
   {
     "id": 90,
-    "term": "Rede und Antwort stehen",
-    "definition": "to answer to",
-    "example": ""
+    "term": "Das Kind mit dem Bade ausschütten",
+    "definition": "\"To throw the child out with the bathwater\" — to throw out the good with the bad",
+    "example": "Schütten wir nicht das Kind mit dem Bade aus."
   },
   {
     "id": 91,
-    "term": "Reden ist Silber, Schweigen ist Gold",
-    "definition": "speech is silver, silence is golden",
-    "example": ""
+    "term": "Sich ins eigene Fleisch schneiden",
+    "definition": "\"To cut into your own flesh\" — to shoot yourself in the foot",
+    "example": "Mit der Kündigung schneidet er sich ins eigene Fleisch."
   },
   {
     "id": 92,
-    "term": "Rom ist nicht an einem Tag erbaut worden",
-    "definition": "Rome wasn't built in a day",
-    "example": ""
+    "term": "Einen Bock schießen",
+    "definition": "\"To shoot a billy goat\" — to make a real blunder",
+    "example": "Da habe ich einen Bock geschossen."
   },
   {
     "id": 93,
-    "term": "rum wie num",
-    "definition": "all the same; either way; it makes no difference",
-    "example": "Ob du rechts oder links anfängst, ist rum wie num."
+    "term": "Das Gelbe vom Ei",
+    "definition": "\"The yellow of the egg\" — the best part of something",
+    "example": "Der Plan ist nicht das Gelbe vom Ei."
   },
   {
     "id": 94,
-    "term": "sein Glück nicht fassen können",
-    "definition": "to cannot believe one's luck, to be overjoyed",
-    "example": ""
+    "term": "Auf dem Teppich bleiben",
+    "definition": "\"To stay on the carpet\" — to keep your feet on the ground",
+    "example": "Bleib mal auf dem Teppich."
   },
   {
     "id": 95,
-    "term": "sein Licht unter den Scheffel stellen",
-    "definition": "to hide one's light under a bushel",
-    "example": ""
+    "term": "Jemandem auf der Nase herumtanzen",
+    "definition": "\"To dance about on someone’s nose\" — to walk all over them",
+    "example": "Die Kinder tanzen ihm auf der Nase herum."
   },
   {
     "id": 96,
-    "term": "sich aus den Fingern saugen",
-    "definition": "to think of something, to make up, to make up out of thin air, to invent (false stories, figures, etc.)",
-    "example": "Das hast du dir wieder aus den Fingern gesaugt."
+    "term": "Die Ruhe vor dem Sturm",
+    "definition": "\"The calm before the storm\" — the lull before things break",
+    "example": "Der Montag war die Ruhe vor dem Sturm."
   },
   {
     "id": 97,
-    "term": "sich die Butter vom Brot nehmen lassen",
-    "definition": "to (allow oneself to) be outmaneuvered, blindsided, ousted, displaced, to stick up for oneself, hold one's own",
-    "example": "Auch wenn sie noch neu ist, merkt man schon, dass sie sich nicht so leicht die Butter vom Brot nehmen lässt."
+    "term": "Alles hat ein Ende, nur die Wurst hat zwei",
+    "definition": "\"Everything has one end, only the sausage has two\" — all good things must end",
+    "example": "Schöner Abend, aber alles hat ein Ende, nur die Wurst hat zwei."
   },
   {
     "id": 98,
-    "term": "so klein mit Hut",
-    "definition": "meek, silenced, put in one's place, cut down to size",
-    "example": "Ich hab ihm mal gesagt, was ich von ihm halte; da war er aber so klein mit Hut."
+    "term": "Wie das fünfte Rad am Wagen",
+    "definition": "\"Like the fifth wheel on the cart\" — completely surplus to requirements",
+    "example": "Ich kam mir wie das fünfte Rad am Wagen vor."
   },
   {
     "id": 99,
-    "term": "traue keiner Statistik, die du nicht selbst gefälscht hast",
-    "definition": "always take statistics with a grain of salt",
-    "example": ""
+    "term": "Das ist kalter Kaffee",
+    "definition": "\"That’s cold coffee\" — that’s old news",
+    "example": "Die Nachricht ist kalter Kaffee."
   },
   {
     "id": 100,
-    "term": "Tropfen, der das Fass zum Überlaufen bringt",
-    "definition": "final straw, last straw, the straw that broke the camel's back",
-    "example": ""
+    "term": "Einen Vogel haben",
+    "definition": "\"To have a bird\" — to have a screw loose",
+    "example": "Du hast wohl einen Vogel!"
   }
 ];
 window.QM_IDIOMS_ES_DATA = [
   {
     "id": 1,
-    "term": "a otro perro con ese hueso",
-    "definition": "you can't fool me, go tell that to somebody else; tell it to the marines",
-    "example": ""
+    "term": "Estar en las nubes",
+    "definition": "\"To be in the clouds\" — to have your head in the clouds",
+    "example": "Lleva toda la mañana en las nubes."
   },
   {
     "id": 2,
-    "term": "agarrar fuego el cañal",
-    "definition": "to have a situation or problem get more complicated or worse; to have a situation or problem go downhill",
-    "example": "Cuando él la insultó agarró fuego el cañal."
+    "term": "Ser pan comido",
+    "definition": "\"To be eaten bread\" — to be a piece of cake",
+    "example": "El examen fue pan comido."
   },
   {
     "id": 3,
-    "term": "al primer golpe de vista",
-    "definition": "as soon as one sets one's eyes on something",
-    "example": ""
+    "term": "Estar como una cabra",
+    "definition": "\"To be like a goat\" — to be off your head",
+    "example": "Se baña en el mar en enero: está como una cabra."
   },
   {
     "id": 4,
-    "term": "andar a tres menos cuartillo",
-    "definition": "to be skint; to be down on one's uppers",
-    "example": ""
+    "term": "Tomar el pelo a alguien",
+    "definition": "\"To take someone’s hair\" — to pull their leg",
+    "example": "No te enfades, te está tomando el pelo."
   },
   {
     "id": 5,
-    "term": "armar la de san Quintín",
-    "definition": "to start a fight",
-    "example": "Se armó la de San Quintín."
+    "term": "Meter la pata",
+    "definition": "\"To put your paw in it\" — to put your foot in it",
+    "example": "Metí la pata preguntando por su ex."
   },
   {
     "id": 6,
-    "term": "arrimar el ascua a su sardina",
-    "definition": "to tip the balance in one's favour, look out for number one",
-    "example": ""
+    "term": "Ponerse las botas",
+    "definition": "\"To put your boots on\" — to do very nicely out of something",
+    "example": "Con ese contrato se puso las botas."
   },
   {
     "id": 7,
-    "term": "bailar al son que le tocan",
-    "definition": "to do as one is told; to obey; to follow the rules",
-    "example": ""
+    "term": "Dar en el clavo",
+    "definition": "\"To hit right on the nail\" — to hit the nail on the head",
+    "example": "Diste en el clavo con esa idea."
   },
   {
     "id": 8,
-    "term": "bien predica quien bien vive",
-    "definition": "he who preaches well is he who lives well",
-    "example": ""
+    "term": "Estar hecho polvo",
+    "definition": "\"To be turned to dust\" — to be absolutely shattered",
+    "example": "Después del viaje estoy hecho polvo."
   },
   {
     "id": 9,
-    "term": "blanca y en botella, leche",
-    "definition": "no doubt about it, no question",
-    "example": ""
+    "term": "Costar un ojo de la cara",
+    "definition": "\"To cost an eye out of your face\" — to cost a fortune",
+    "example": "Ese móvil cuesta un ojo de la cara."
   },
   {
     "id": 10,
-    "term": "brillar por su ausencia",
-    "definition": "to be conspicuous by one's absence, to be conspicuously absent",
-    "example": ""
+    "term": "No tener pelos en la lengua",
+    "definition": "\"To have no hairs on your tongue\" — to say exactly what you think",
+    "example": "Mi tía no tiene pelos en la lengua."
   },
   {
     "id": 11,
-    "term": "buscar pelos en la sopa",
-    "definition": "to look for excuses to complain",
-    "example": "¿Por qué buscabas pelos en la sopa?"
+    "term": "Ser uña y carne",
+    "definition": "\"To be fingernail and flesh\" — to be inseparable",
+    "example": "Desde el colegio son uña y carne."
   },
   {
     "id": 12,
-    "term": "buscarle las cosquillas a alguien",
-    "definition": "to push someone's buttons; to get someone's goat",
-    "example": ""
+    "term": "Irse por las ramas",
+    "definition": "\"To go off into the branches\" — to wander off the point",
+    "example": "Contéstame y no te vayas por las ramas."
   },
   {
     "id": 13,
-    "term": "caérsele la venda de los ojos",
-    "definition": "scales fall from someone's eyes",
-    "example": ""
+    "term": "Buscarle tres pies al gato",
+    "definition": "\"To look for three feet on the cat\" — to make needless complications",
+    "example": "No le busques tres pies al gato."
   },
   {
     "id": 14,
-    "term": "como alma que lleva el diablo",
-    "definition": "like a bat out of hell",
-    "example": "salir como alma que lleva el diablo."
+    "term": "Dar calabazas a alguien",
+    "definition": "\"To give someone pumpkins\" — to turn them down",
+    "example": "Le pidió salir y ella le dio calabazas."
   },
   {
     "id": 15,
-    "term": "como si no hubiera un mañana",
-    "definition": "like one's life depended on it",
-    "example": ""
+    "term": "Tirar la casa por la ventana",
+    "definition": "\"To throw the house out of the window\" — to spare no expense",
+    "example": "Para la boda tiraron la casa por la ventana."
   },
   {
     "id": 16,
-    "term": "como si tal cosa",
-    "definition": "as if it were nothing; business as usual",
-    "example": "No puedo dejar que te vayas como si tal cosa."
+    "term": "No tener ni pies ni cabeza",
+    "definition": "\"To have neither feet nor head\" — to make no sense at all",
+    "example": "Esa excusa no tiene ni pies ni cabeza."
   },
   {
     "id": 17,
-    "term": "con el corazón en la mano",
-    "definition": "with one's hand on one's heart",
-    "example": ""
+    "term": "Estar como pez en el agua",
+    "definition": "\"To be like a fish in water\" — to be in your element",
+    "example": "En el escenario está como pez en el agua."
   },
   {
     "id": 18,
-    "term": "dar atole con el dedo",
-    "definition": "to deceive",
-    "example": "No me des atole con el dedo, dime la verdad."
+    "term": "Dormir a pierna suelta",
+    "definition": "\"To sleep with a loose leg\" — to sleep like a log",
+    "example": "Anoche dormí a pierna suelta."
   },
   {
     "id": 19,
-    "term": "dar el brazo a torcer",
-    "definition": "to give in or give way, concede one's opinions, allow yourself to be persuaded",
-    "example": ""
+    "term": "Hablar por los codos",
+    "definition": "\"To talk through your elbows\" — to talk nineteen to the dozen",
+    "example": "Mi vecina habla por los codos."
   },
   {
     "id": 20,
-    "term": "dar la espalda",
-    "definition": "to turn one's back; to refuse to help or aid somebody",
-    "example": "¡No me des la espalda!"
+    "term": "Estar de mala leche",
+    "definition": "\"To be of bad milk\" — to be in a foul mood",
+    "example": "No le hables ahora, está de mala leche."
   },
   {
     "id": 21,
-    "term": "de agárrate que hay curva",
-    "definition": "a helluva; mighty",
-    "example": "una fiesta de agárrate que hay curvas."
+    "term": "Ser el que corta el bacalao",
+    "definition": "\"To be the one who cuts the cod\" — to be the one who really decides",
+    "example": "Aquí la que corta el bacalao es la directora."
   },
   {
     "id": 22,
-    "term": "desde el vientre de su madre",
-    "definition": "since before one was born; since one's conception",
-    "example": "Mi hijo fue elegido para salvar a nuestro pueblo desde el vientre de su madre."
+    "term": "Importar un pimiento",
+    "definition": "\"To matter a green pepper\" — not to matter in the slightest",
+    "example": "Me importa un pimiento lo que digan."
   },
   {
     "id": 23,
-    "term": "desde que uno tiene uso de razón",
-    "definition": "for as long as one can remember",
-    "example": "Dice que pinta desde que tiene uso de razón."
+    "term": "Ponerse rojo como un tomate",
+    "definition": "\"To go as red as a tomato\" — to blush scarlet",
+    "example": "Se puso rojo como un tomate al verla."
   },
   {
     "id": 24,
-    "term": "echar a la calle",
-    "definition": "to dismiss or fire someone",
-    "example": "El dueño nos ha echado a todos a la calle."
+    "term": "Estar hasta las narices",
+    "definition": "\"To be up to the nostrils\" — to be fed up to the back teeth",
+    "example": "Estoy hasta las narices de las obras."
   },
   {
     "id": 25,
-    "term": "el que no chilla no mama",
-    "definition": "someone who does not express their needs or desires may not obtain them; a closed mouth doesn't get fed",
-    "example": ""
+    "term": "Echar una mano",
+    "definition": "\"To throw a hand\" — to lend a hand",
+    "example": "¿Me echas una mano con las cajas?"
   },
   {
     "id": 26,
-    "term": "en la flor de la juventud",
-    "definition": "in the flower of one's youth",
-    "example": ""
+    "term": "Estar en el quinto pino",
+    "definition": "\"To be at the fifth pine tree\" — to be miles from anywhere",
+    "example": "Su casa está en el quinto pino."
   },
   {
     "id": 27,
-    "term": "en la punta de la lengua",
-    "definition": "on the tip of one's tongue",
-    "example": ""
+    "term": "No dar pie con bola",
+    "definition": "\"Not to get foot to ball\" — to get everything wrong",
+    "example": "Hoy no doy pie con bola."
   },
   {
     "id": 28,
-    "term": "entrarle los siete males",
-    "definition": "to cause someone to fret; to drive (someone) nuts",
-    "example": "me entran los siete males pensando en ello."
+    "term": "Tener mala pata",
+    "definition": "\"To have a bad leg\" — to have rotten luck",
+    "example": "Tuvimos mala pata con el tiempo."
   },
   {
     "id": 29,
-    "term": "estar a partir un piñón",
-    "definition": "to get on (with someone); be bosom buddies; to get on like a house on fire",
-    "example": "está a partir un piñón con el vecino."
+    "term": "Estar sin blanca",
+    "definition": "\"To be without a white coin\" — to be skint",
+    "example": "A final de mes estoy sin blanca."
   },
   {
     "id": 30,
-    "term": "feliz como una perdiz",
-    "definition": "happy as a clam, happy as Larry",
-    "example": ""
+    "term": "Dar la lata",
+    "definition": "\"To give the tin can\" — to pester relentlessly",
+    "example": "Los niños llevan una hora dando la lata."
   },
   {
     "id": 31,
-    "term": "firmar su propia sentencia de muerte",
-    "definition": "to sign one's death warrant",
-    "example": ""
+    "term": "Salir el tiro por la culata",
+    "definition": "\"For the shot to come out of the butt of the gun\" — to backfire completely",
+    "example": "Quiso ahorrar y le salió el tiro por la culata."
   },
   {
     "id": 32,
-    "term": "flor de la canela",
-    "definition": "the bee's knees; the cream of the crop",
-    "example": ""
+    "term": "Ahogarse en un vaso de agua",
+    "definition": "\"To drown in a glass of water\" — to make a drama out of nothing",
+    "example": "Se ahoga en un vaso de agua por cualquier cosa."
   },
   {
     "id": 33,
-    "term": "flor de la vida",
-    "definition": "youthful years; prime of life",
-    "example": ""
+    "term": "Estar en boca de todos",
+    "definition": "\"To be in everyone’s mouth\" — to be the talk of the town",
+    "example": "Ese grupo está en boca de todos."
   },
   {
     "id": 34,
-    "term": "fruncir el ceño",
-    "definition": "to frown, to scowl, to furrow one's brow",
-    "example": ""
+    "term": "Ir al grano",
+    "definition": "\"To go to the grain\" — to get to the point",
+    "example": "Vamos al grano, no hay tiempo."
   },
   {
     "id": 35,
-    "term": "fuera de serie",
-    "definition": "off the charts, out of this world, exceptional",
-    "example": "un escritor fuera de serie."
+    "term": "Ser coser y cantar",
+    "definition": "\"To be sewing and singing\" — to be an absolute doddle",
+    "example": "Montar el mueble fue coser y cantar."
   },
   {
     "id": 36,
-    "term": "ganar la partida",
-    "definition": "to get one up (over someone); to get the better of",
-    "example": ""
+    "term": "Tener la sartén por el mango",
+    "definition": "\"To hold the frying pan by the handle\" — to hold all the cards",
+    "example": "En esta negociación ellos tienen la sartén por el mango."
   },
   {
     "id": 37,
-    "term": "gastar la pólvora en salvas",
-    "definition": "to rearrange the deck chairs on the Titanic",
-    "example": ""
+    "term": "Estar entre la espada y la pared",
+    "definition": "\"To be between the sword and the wall\" — between a rock and a hard place",
+    "example": "Me dejó entre la espada y la pared."
   },
   {
     "id": 38,
-    "term": "gastar pólvora en gallinazos",
-    "definition": "to waste time",
-    "example": ""
+    "term": "Tener un humor de perros",
+    "definition": "\"To have a dogs’ mood\" — to be in a filthy temper",
+    "example": "Lleva toda la semana con un humor de perros."
   },
   {
     "id": 39,
-    "term": "gato escaldado del agua fría huye",
-    "definition": "once bitten, twice shy",
-    "example": ""
+    "term": "Hacerse el sueco",
+    "definition": "\"To play the Swede\" — to pretend not to hear",
+    "example": "Le llamaron dos veces y se hizo el sueco."
   },
   {
     "id": 40,
-    "term": "genio y figura hasta la sepultura",
-    "definition": "a leopard cannot change its spots",
-    "example": ""
+    "term": "Poner los cuernos a alguien",
+    "definition": "\"To put horns on someone\" — to cheat on them",
+    "example": "Se enteró de que le ponían los cuernos."
   },
   {
     "id": 41,
-    "term": "golpe de timón",
-    "definition": "change of tack; change of direction; change of course",
-    "example": ""
+    "term": "Estar como un flan",
+    "definition": "\"To be like a crème caramel\" — to be shaking with nerves",
+    "example": "Antes del examen estaba como un flan."
   },
   {
     "id": 42,
-    "term": "haber gato encerrado",
-    "definition": "to have something fishy going on",
-    "example": "En aquella situación hubo gato encerrado."
+    "term": "Tener mucha cara",
+    "definition": "\"To have a lot of face\" — to have a real nerve",
+    "example": "Tenía mucha cara y se coló en la fila."
   },
   {
     "id": 43,
-    "term": "hacer la trece catorce",
-    "definition": "to trick, deceive, mislead; to perform a ruse",
-    "example": "Ya me hizo la trece catorce una vez, no puedo confiar de nuevo."
+    "term": "Ser un cero a la izquierda",
+    "definition": "\"To be a nought on the left\" — to count for nothing",
+    "example": "En esa oficina soy un cero a la izquierda."
   },
   {
     "id": 44,
-    "term": "hacer leña del árbol caído",
-    "definition": "to kick someone when they are down",
-    "example": ""
+    "term": "Ir de punta en blanco",
+    "definition": "\"To go from tip to tip in white\" — to be dressed to the nines",
+    "example": "Llegó de punta en blanco a la fiesta."
   },
   {
     "id": 45,
-    "term": "hacer un hueco",
-    "definition": "to fit in; to make space",
-    "example": "Tengo todo el día liado, pero te puedo hacer un hueco desde las 11 hasta las y media."
+    "term": "Dar gato por liebre",
+    "definition": "\"To give cat instead of hare\" — to palm something inferior off on someone",
+    "example": "En ese puesto te dan gato por liebre."
   },
   {
     "id": 46,
-    "term": "hacerse la picha un lío",
-    "definition": "get one's knickers in a twist",
-    "example": ""
+    "term": "A otro perro con ese hueso",
+    "definition": "\"To another dog with that bone\" — go and tell that to someone else",
+    "example": "¿Que estabas trabajando? ¡A otro perro con ese hueso!"
   },
   {
     "id": 47,
-    "term": "hasta el carné de identidad",
-    "definition": "absolutely everything; totally and utterly",
-    "example": "Le robaron hasta el carné de identidad."
+    "term": "Estar en Babia",
+    "definition": "\"To be in Babia\" — to be away with the fairies",
+    "example": "Te he preguntado dos veces, estás en Babia."
   },
   {
     "id": 48,
-    "term": "ir a misa",
-    "definition": "to go to Mass , to go to mass , to go to church",
-    "example": "Yo soy quien manda aquí, y lo que yo digo va a misa."
+    "term": "Irse de la lengua",
+    "definition": "\"To let your tongue go\" — to let the secret slip",
+    "example": "Se fue de la lengua y lo contó todo."
   },
   {
     "id": 49,
-    "term": "ir al ajo del asunto",
-    "definition": "to cut to the chase, get to the point",
-    "example": ""
+    "term": "Quedarse de piedra",
+    "definition": "\"To be left made of stone\" — to be dumbfounded",
+    "example": "Me quedé de piedra con la noticia."
   },
   {
     "id": 50,
-    "term": "ir cada uno por su lado",
-    "definition": "to go one's own way",
-    "example": ""
+    "term": "Ser la gota que colma el vaso",
+    "definition": "\"The drop that fills the glass to the brim\" — the last straw",
+    "example": "Ese comentario fue la gota que colmó el vaso."
   },
   {
     "id": 51,
-    "term": "ir con la verdad por delante",
-    "definition": "to tell the truth; to be totally honest",
-    "example": ""
+    "term": "Estar de brazos cruzados",
+    "definition": "\"To be with your arms folded\" — to sit there doing nothing",
+    "example": "No te quedes de brazos cruzados, ayúdame."
   },
   {
     "id": 52,
-    "term": "ir de mal en peor",
-    "definition": "to go from bad to worse; to worsen",
-    "example": ""
+    "term": "Andar con pies de plomo",
+    "definition": "\"To walk with feet of lead\" — to tread very carefully",
+    "example": "Con este cliente hay que andar con pies de plomo."
   },
   {
     "id": 53,
-    "term": "irse de culo",
-    "definition": "to be taken aback or shocked",
-    "example": "Me fui de culo cuando lo vi engañándome."
+    "term": "Meterse en camisa de once varas",
+    "definition": "\"To get into a shirt eleven yards long\" — to get into deep water needlessly",
+    "example": "No te metas en camisa de once varas."
   },
   {
     "id": 54,
-    "term": "jugar al abejón con",
-    "definition": "to hold someone in low esteem, to not think much of someone",
-    "example": ""
+    "term": "Tener la mosca detrás de la oreja",
+    "definition": "\"To have the fly behind your ear\" — to smell a rat",
+    "example": "Desde esa llamada tengo la mosca detrás de la oreja."
   },
   {
     "id": 55,
-    "term": "jugar bien sus bazas",
-    "definition": "to play one's cards right",
-    "example": ""
+    "term": "Salir por la puerta grande",
+    "definition": "\"To leave through the big door\" — to go out in glory",
+    "example": "Se retiró saliendo por la puerta grande."
   },
   {
     "id": 56,
-    "term": "jugar la última carta",
-    "definition": "to shoot one's load",
-    "example": ""
+    "term": "Ponerse las pilas",
+    "definition": "\"To put your batteries in\" — to get your act together",
+    "example": "Ponte las pilas, entregamos el lunes."
   },
   {
     "id": 57,
-    "term": "jugar y nunca perder no puede ser",
-    "definition": "you win some, you lose some",
-    "example": ""
+    "term": "Ser del año de la pera",
+    "definition": "\"To be from the year of the pear\" — to be positively ancient",
+    "example": "Ese ordenador es del año de la pera."
   },
   {
     "id": 58,
-    "term": "jugárselo todo a una carta",
-    "definition": "to put all one's eggs in one basket",
-    "example": ""
+    "term": "Estar al pie del cañón",
+    "definition": "\"To be at the foot of the cannon\" — to stay at your post through anything",
+    "example": "A sus ochenta años sigue al pie del cañón."
   },
   {
     "id": 59,
-    "term": "la avaricia rompe el saco",
-    "definition": "grasp all, lose all; greed overreaches itself",
-    "example": ""
+    "term": "Dar la vuelta a la tortilla",
+    "definition": "\"To flip the omelette over\" — to turn the tables",
+    "example": "En el segundo tiempo dieron la vuelta a la tortilla."
   },
   {
     "id": 60,
-    "term": "la belleza está en los ojos de quien ve",
-    "definition": "beauty is in the eye of the beholder",
-    "example": ""
+    "term": "Irse al garete",
+    "definition": "\"To go adrift\" — to go completely to pot",
+    "example": "Sin dinero, el proyecto se fue al garete."
   },
   {
     "id": 61,
-    "term": "la cabeza blanca y el seso por venir",
-    "definition": "there's no fool like an old fool",
-    "example": ""
+    "term": "Poner toda la carne en el asador",
+    "definition": "\"To put all the meat on the grill\" — to go all out",
+    "example": "Puso toda la carne en el asador en la final."
   },
   {
     "id": 62,
-    "term": "la pelota está en el tejado de alguien",
-    "definition": "the ball is in someone's court",
-    "example": ""
+    "term": "Ser un pedazo de pan",
+    "definition": "\"To be a piece of bread\" — to be thoroughly kind",
+    "example": "Mi abuelo era un pedazo de pan."
   },
   {
     "id": 63,
-    "term": "llegar a la suela del zapato",
-    "definition": "to not compare to, to have nothing on",
-    "example": "Juan no llega ni a la suela del zapato."
+    "term": "No pegar ojo",
+    "definition": "\"Not to stick an eye down\" — not to sleep a wink",
+    "example": "Con el ruido no pegué ojo."
   },
   {
     "id": 64,
-    "term": "mal de la azotea",
-    "definition": "off one's rocker; round the twist",
-    "example": ""
+    "term": "Tener siete vidas como los gatos",
+    "definition": "\"To have seven lives like cats\" — to be impossible to finish off",
+    "example": "Se cayó del tejado: tiene siete vidas como los gatos."
   },
   {
     "id": 65,
-    "term": "manos a la obra",
-    "definition": "hands on deck, let's get to work, let's get to it, get down to work, get on with it, get down to business",
-    "example": "Ya es hora, manos a la obra."
+    "term": "Llevarse el gato al agua",
+    "definition": "\"To carry the cat to the water\" — to pull it off against the odds",
+    "example": "Al final se llevó el gato al agua."
   },
   {
     "id": 66,
-    "term": "mentar la soga en casa del ahorcado",
-    "definition": "to say the wrong thing, to put one's foot in it",
-    "example": ""
+    "term": "Como Pedro por su casa",
+    "definition": "\"Like Peter round his own house\" — completely at home, without ceremony",
+    "example": "Entró como Pedro por su casa."
   },
   {
     "id": 67,
-    "term": "mirar por encima del hombro",
-    "definition": "to look down on, stick one's nose up",
-    "example": ""
+    "term": "Estar en el ajo",
+    "definition": "\"To be in the garlic\" — to be in on it",
+    "example": "Él también estaba en el ajo."
   },
   {
     "id": 68,
-    "term": "más chulo que un ocho",
-    "definition": "stuck-up; opinionated; up oneself",
-    "example": ""
+    "term": "Empezar la casa por el tejado",
+    "definition": "\"To start the house at the roof\" — to put the cart before the horse",
+    "example": "Comprar muebles ya es empezar la casa por el tejado."
   },
   {
     "id": 69,
-    "term": "nadar y guardar la ropa",
-    "definition": "have one's cake and eat it",
-    "example": ""
+    "term": "Ser agua pasada",
+    "definition": "\"To be water that has gone by\" — water under the bridge",
+    "example": "Aquella discusión es agua pasada."
   },
   {
     "id": 70,
-    "term": "nadar y tener la ropa",
-    "definition": "to have one's cake and eat it too",
-    "example": ""
+    "term": "Irse por los cerros de Úbeda",
+    "definition": "\"To go off over the hills of Úbeda\" — to go completely off the subject",
+    "example": "Cada vez que le preguntan se va por los cerros de Úbeda."
   },
   {
     "id": 71,
-    "term": "no ser moco de pavo",
-    "definition": "to be nothing to sneeze at",
-    "example": "tampoco es moco de pavo."
+    "term": "Tener madera de algo",
+    "definition": "\"To have the wood for something\" — to be cut out for it",
+    "example": "Esa niña tiene madera de música."
   },
   {
     "id": 72,
-    "term": "no tener vuelta de hoja",
-    "definition": "To be untouchable; hold up",
-    "example": "Creo que mi argumento no tiene vuelta de hoja."
+    "term": "Pasarse de la raya",
+    "definition": "\"To go past the line\" — to overstep the mark",
+    "example": "Con esa broma se pasó de la raya."
   },
   {
     "id": 73,
-    "term": "no ver la hora de",
-    "definition": "to look forward to; can't wait",
-    "example": "¡No veo la hora de que nos casemos!"
+    "term": "Estar en un mar de dudas",
+    "definition": "\"To be in a sea of doubts\" — to be completely at sea",
+    "example": "Estoy en un mar de dudas con la oferta."
   },
   {
     "id": 74,
-    "term": "ojos que no ven, corazón que no siente",
-    "definition": "out of sight, out of mind; what the eyes don't see, the heart doesn't grieve",
-    "example": ""
+    "term": "Cortar por lo sano",
+    "definition": "\"To cut through the healthy part\" — to make a clean break",
+    "example": "Cortó por lo sano y dejó el trabajo."
   },
   {
     "id": 75,
-    "term": "oler a chamusquina",
-    "definition": "to start to get out of control; to lead to a slagging off",
-    "example": ""
+    "term": "Coger el toro por los cuernos",
+    "definition": "\"To take the bull by the horns\" — to face the difficulty head on",
+    "example": "Cogió el toro por los cuernos y habló con su jefe."
   },
   {
     "id": 76,
-    "term": "oler a cuerno quemado",
-    "definition": "to smell fishy",
-    "example": ""
+    "term": "Poner el dedo en la llaga",
+    "definition": "\"To put your finger in the wound\" — to touch a raw nerve",
+    "example": "Con esa pregunta puso el dedo en la llaga."
   },
   {
     "id": 77,
-    "term": "oler a pólvora",
-    "definition": "to smell fishy; to seem as though there's something fishy going on",
-    "example": ""
+    "term": "Ser un rollo",
+    "definition": "\"To be a roll\" — to be a crushing bore",
+    "example": "La charla fue un rollo."
   },
   {
     "id": 78,
-    "term": "oír hablar de",
-    "definition": "to hear of, to hear about",
-    "example": "La primera vez que oí hablar de Medjugorje fue a través de mis compañeros parroquianos."
+    "term": "Irse la olla",
+    "definition": "\"For your pot to go\" — to lose your marbles",
+    "example": "Se le fue la olla y compró dos coches."
   },
   {
     "id": 79,
-    "term": "pagar con la misma moneda",
-    "definition": "to give someone a taste of their own medicine",
-    "example": ""
+    "term": "Tener enchufe",
+    "definition": "\"To have a plug socket\" — to have connections in the right places",
+    "example": "Consiguió el puesto porque tiene enchufe."
   },
   {
     "id": 80,
-    "term": "para parar un tren",
-    "definition": "in great quantity, coming out of one's ears",
-    "example": "tiene potencia para parar un tren."
+    "term": "Ni corto ni perezoso",
+    "definition": "\"Neither short nor lazy\" — without a moment’s hesitation",
+    "example": "Ni corto ni perezoso, le pidió el aumento."
   },
   {
     "id": 81,
-    "term": "parar los pies",
-    "definition": "to stop (someone) in their tracks",
-    "example": "Hay que pararle los pies."
+    "term": "Dar largas a alguien",
+    "definition": "\"To give someone long ones\" — to keep fobbing them off",
+    "example": "Llevan meses dándome largas."
   },
   {
     "id": 82,
-    "term": "poner alguien en su sitio",
-    "definition": "to put someone in their place",
-    "example": ""
+    "term": "A buenas horas mangas verdes",
+    "definition": "\"At a fine hour, green sleeves\" — far too late to be any use",
+    "example": "Llegaron cuando acabó todo: ¡a buenas horas mangas verdes!"
   },
   {
     "id": 83,
-    "term": "poner de los nervios",
-    "definition": "to get on someone's nerves, to grate on",
-    "example": "De verdad eso me pone de los nervios."
+    "term": "Hacer la vista gorda",
+    "definition": "\"To make the fat eye\" — to turn a blind eye",
+    "example": "El portero hizo la vista gorda."
   },
   {
     "id": 84,
-    "term": "que ni pintado",
-    "definition": "down to a T; (suit) perfectly",
-    "example": "La camiseta me viene que ni pintada."
+    "term": "Irse a freír espárragos",
+    "definition": "\"To go and fry asparagus\" — to get lost",
+    "example": "Le dije que se fuera a freír espárragos."
   },
   {
     "id": 85,
-    "term": "quedar como Cagancho en Almagro",
-    "definition": "to make a show of oneself",
-    "example": ""
+    "term": "Estar con el agua al cuello",
+    "definition": "\"To be with the water up to your neck\" — to be up to your neck in it",
+    "example": "Con esas deudas están con el agua al cuello."
   },
   {
     "id": 86,
-    "term": "quedar en agua de borrajas",
-    "definition": "to be put on hold; to not be fulfilled",
-    "example": ""
+    "term": "Tener vista de lince",
+    "definition": "\"To have the sight of a lynx\" — to be eagle-eyed",
+    "example": "Encontró la errata: tiene vista de lince."
   },
   {
     "id": 87,
-    "term": "querer cagar más arriba del culo",
-    "definition": "To live beyond one's means",
-    "example": ""
+    "term": "Venir como anillo al dedo",
+    "definition": "\"To fit like a ring on the finger\" — to suit perfectly",
+    "example": "Ese trabajo le viene como anillo al dedo."
   },
   {
     "id": 88,
-    "term": "quien a buen árbol se arrima, buena sombra le cobija",
-    "definition": "it's not what you know but who you know",
-    "example": ""
+    "term": "Poner pies en polvorosa",
+    "definition": "\"To set your feet on the dusty ground\" — to take to your heels",
+    "example": "Al oír la sirena puso pies en polvorosa."
   },
   {
     "id": 89,
-    "term": "refrescar la memoria",
-    "definition": "to refresh someone's memory",
-    "example": ""
+    "term": "Estar en las últimas",
+    "definition": "\"To be in the last ones\" — to be on your last legs",
+    "example": "La batería está en las últimas."
   },
   {
     "id": 90,
-    "term": "reina de la casa",
-    "definition": "a female family member of a household",
-    "example": ""
+    "term": "Cantar las cuarenta a alguien",
+    "definition": "\"To sing someone the forty\" — to give them a piece of your mind",
+    "example": "Le cantó las cuarenta delante de todos."
   },
   {
     "id": 91,
-    "term": "Roma no se hizo en un día",
-    "definition": "Rome wasn't built in a day",
-    "example": ""
+    "term": "Estar hecho una sopa",
+    "definition": "\"To be turned into soup\" — to be soaked through",
+    "example": "Llegué a casa hecho una sopa."
   },
   {
     "id": 92,
-    "term": "romper una lanza",
-    "definition": "to stand up (for), to break a lance",
-    "example": "Rompió una lanza por su equipo."
+    "term": "Tirar los tejos a alguien",
+    "definition": "\"To throw the roof tiles at someone\" — to make a play for them",
+    "example": "Le está tirando los tejos desde marzo."
   },
   {
     "id": 93,
-    "term": "ruin señor cría ruin servidor",
-    "definition": "a bad master makes a bad servant; if leadership sets a bad example, their subordinates will follow suit",
-    "example": ""
+    "term": "Costar Dios y ayuda",
+    "definition": "\"To cost God and help besides\" — to take an enormous effort",
+    "example": "Costó Dios y ayuda convencerle."
   },
   {
     "id": 94,
-    "term": "saber de qué pie cojea",
-    "definition": "to know one's ideology; to know one's weaknesses",
-    "example": ""
+    "term": "Ser la oveja negra",
+    "definition": "\"To be the black sheep\" — the odd one out that the family disapproves of",
+    "example": "Él siempre fue la oveja negra de la familia."
   },
   {
     "id": 95,
-    "term": "sacar de quicio",
-    "definition": "to rile up, to annoy; to drive crazy; to drive someone nuts; to cause somebody to come unhinged",
-    "example": "Los llantos constantes de los bebés sacan de quicio a todos en el avión."
+    "term": "No ver tres en un burro",
+    "definition": "\"Not to see three men on a donkey\" — to be as blind as a bat",
+    "example": "Sin gafas no veo tres en un burro."
   },
   {
     "id": 96,
-    "term": "sacar el ascua con la mano del gato",
-    "definition": "to get someone else to do one's dirty work",
-    "example": ""
+    "term": "Estar como sardinas en lata",
+    "definition": "\"To be like sardines in a tin\" — packed in tight",
+    "example": "En el metro íbamos como sardinas en lata."
   },
   {
     "id": 97,
-    "term": "ser santo de la devoción de alguien",
-    "definition": "To be someone one likes or is fond of",
-    "example": "El presidente no es santo de mi devoción."
+    "term": "Tener la cabeza como un bombo",
+    "definition": "\"To have a head like a bass drum\" — to have a splitting, muddled head",
+    "example": "Con tanto ruido tengo la cabeza como un bombo."
   },
   {
     "id": 98,
-    "term": "si mi abuela tuviera ruedas, sería una bicicleta",
-    "definition": "if my aunt had balls, she'd be my uncle",
-    "example": "\"Habríamos ganado el partido si hubiéramos tenido un portero decente\" — \"Y si mi abuela tuviera ruedas, sería una bicicleta\"."
+    "term": "Echar leña al fuego",
+    "definition": "\"To throw wood on the fire\" — to make a quarrel worse",
+    "example": "No echemos leña al fuego."
   },
   {
     "id": 99,
-    "term": "tener agarrado por los cojones",
-    "definition": "to have someone by the balls",
-    "example": ""
+    "term": "Matar dos pájaros de un tiro",
+    "definition": "\"To kill two birds with one shot\" — to kill two birds with one stone",
+    "example": "Voy al centro y mato dos pájaros de un tiro."
   },
   {
     "id": 100,
-    "term": "tener algo que ver con",
-    "definition": "to have something to do with, to concern, to have some relationship with",
-    "example": "Pensé que la broma tendría algo que ver con el boquete."
+    "term": "Ser el ojito derecho de alguien",
+    "definition": "\"To be someone’s little right eye\" — to be their favourite",
+    "example": "Es el ojito derecho de su abuela."
   }
 ];
 window.QM_IDIOMS_PT_DATA = [
@@ -58747,494 +68181,6 @@ window.QM_IDIOMS_LT_DATA = [
     "term": "žvirbliu netapsi",
     "definition": "you won't become a sparrow — you can't change what you are",
     "example": ""
-  }
-];
-window.QM_IDIOMS_UK_DATA = [
-  {
-    "id": 1,
-    "term": "адвокат диявола",
-    "definition": "devil's advocate",
-    "example": ""
-  },
-  {
-    "id": 2,
-    "term": "бенкет під час чуми",
-    "definition": "to fiddle while Rome burns",
-    "example": ""
-  },
-  {
-    "id": 3,
-    "term": "бувай здоров",
-    "definition": "cheers!",
-    "example": ""
-  },
-  {
-    "id": 4,
-    "term": "в руках",
-    "definition": "in one's hands, in one's power, under one's control or management",
-    "example": ""
-  },
-  {
-    "id": 5,
-    "term": "висаджувати в повітря",
-    "definition": "to blow up",
-    "example": ""
-  },
-  {
-    "id": 6,
-    "term": "вишенька на торті",
-    "definition": "cherry on the cake, cherry on top, icing on the cake",
-    "example": ""
-  },
-  {
-    "id": 7,
-    "term": "водити козу",
-    "definition": "to find somewhere to get drunk",
-    "example": "Що ви там робите вже другу годину? Та ми козу водимо."
-  },
-  {
-    "id": 8,
-    "term": "все буде Україна",
-    "definition": "Ukraine forever!",
-    "example": ""
-  },
-  {
-    "id": 9,
-    "term": "всьо на свої лотоки",
-    "definition": "always looking out for one's own advantage, turning everything to one's own benefit",
-    "example": ""
-  },
-  {
-    "id": 10,
-    "term": "всі дороги ведуть до Риму",
-    "definition": "all roads lead to Rome",
-    "example": ""
-  },
-  {
-    "id": 11,
-    "term": "відкрити Америку",
-    "definition": "to discover that Queen Anne's dead",
-    "example": "Він сказав, що спорт корисний для здоров'я. Теж мені Америку відкрив!"
-  },
-  {
-    "id": 12,
-    "term": "голова й два вуха",
-    "definition": "absent-minded",
-    "example": "Чому ти забув ключі вдома знову? Та я ж голова і два вуха."
-  },
-  {
-    "id": 13,
-    "term": "гроші не пахнуть",
-    "definition": "money does not smell",
-    "example": ""
-  },
-  {
-    "id": 14,
-    "term": "дати в руку",
-    "definition": "to hand over, to put into someone's hands, to entrust",
-    "example": ""
-  },
-  {
-    "id": 15,
-    "term": "дати гарбуза",
-    "definition": "to reject one's romantic advances; to give the cold shoulder",
-    "example": ""
-  },
-  {
-    "id": 16,
-    "term": "дати з рук",
-    "definition": "to hand over, to give out of one's hands, to relinquish",
-    "example": ""
-  },
-  {
-    "id": 17,
-    "term": "держати в руках",
-    "definition": "to keep someone under control, to hold in check, to keep a tight rein on",
-    "example": ""
-  },
-  {
-    "id": 18,
-    "term": "дивитися на руки",
-    "definition": "to watch someone closely, to keep a close eye on someone",
-    "example": ""
-  },
-  {
-    "id": 19,
-    "term": "жувати соплі",
-    "definition": "To twiddle one's thumbs, to waste time and do nothing useful",
-    "example": "Відповідь на коментар: перестаньте соплі жувати."
-  },
-  {
-    "id": 20,
-    "term": "з Великоднем",
-    "definition": "Happy Easter!",
-    "example": ""
-  },
-  {
-    "id": 21,
-    "term": "з вільної руки",
-    "definition": "of one's own free will, voluntarily",
-    "example": ""
-  },
-  {
-    "id": 22,
-    "term": "з першої руки",
-    "definition": "firsthand, from the original source",
-    "example": ""
-  },
-  {
-    "id": 23,
-    "term": "з порожніми руками",
-    "definition": "empty-handed, with empty hands, without gifts, unrewarded",
-    "example": ""
-  },
-  {
-    "id": 24,
-    "term": "за закритими дверима",
-    "definition": "behind closed doors",
-    "example": ""
-  },
-  {
-    "id": 25,
-    "term": "заложити руки",
-    "definition": "to sit idle, to fold one's arms, to do nothing",
-    "example": ""
-  },
-  {
-    "id": 26,
-    "term": "земля обітована",
-    "definition": "dream",
-    "example": ""
-  },
-  {
-    "id": 27,
-    "term": "зложити голову",
-    "definition": "To die in battle",
-    "example": ""
-  },
-  {
-    "id": 28,
-    "term": "камінь спотикання",
-    "definition": "stumbling block",
-    "example": ""
-  },
-  {
-    "id": 29,
-    "term": "квиток до Кобзона",
-    "definition": "\"Ticket to Kobzon\": a quick death for a Russian soldier in Ukraine",
-    "example": "Вбивця отримав собі квиток до Кобзона."
-  },
-  {
-    "id": 30,
-    "term": "коли йдеться про",
-    "definition": "when it comes to",
-    "example": ""
-  },
-  {
-    "id": 31,
-    "term": "коли рак на горі свисне",
-    "definition": "when pigs fly, never",
-    "example": ""
-  },
-  {
-    "id": 32,
-    "term": "концерт Кобзона",
-    "definition": "\"Kobzon's concert\": a quick death for a Russian soldier fighting against Ukraine",
-    "example": "відправили на концерт Кобзона."
-  },
-  {
-    "id": 33,
-    "term": "крокодилячі сльози",
-    "definition": "crocodile tears",
-    "example": ""
-  },
-  {
-    "id": 34,
-    "term": "кулик кулика бачить здалека",
-    "definition": "birds of a feather flock together",
-    "example": ""
-  },
-  {
-    "id": 35,
-    "term": "ламати голову над чимось",
-    "definition": "to get confused",
-    "example": ""
-  },
-  {
-    "id": 36,
-    "term": "левова частка",
-    "definition": "lion's share",
-    "example": ""
-  },
-  {
-    "id": 37,
-    "term": "мати довгі руки",
-    "definition": "to be a thief, to be light-fingered, to have sticky fingers, to be prone to stealing",
-    "example": ""
-  },
-  {
-    "id": 38,
-    "term": "мене звати",
-    "definition": "my name is",
-    "example": "Мене́ зва́ти Стефа́н."
-  },
-  {
-    "id": 39,
-    "term": "молоко на губах не обсохло",
-    "definition": "wet behind the ears, greenhorn",
-    "example": ""
-  },
-  {
-    "id": 40,
-    "term": "моя хата скраю, я нічого не знаю",
-    "definition": "it's none of my business, I don't care",
-    "example": ""
-  },
-  {
-    "id": 41,
-    "term": "на молот",
-    "definition": "very finely",
-    "example": ""
-  },
-  {
-    "id": 42,
-    "term": "на руку",
-    "definition": "convenient, handy, advantageous, playing into someone's hands",
-    "example": ""
-  },
-  {
-    "id": 43,
-    "term": "на свою руку",
-    "definition": "on one's own, independently, on one's own initiative or risk",
-    "example": ""
-  },
-  {
-    "id": 44,
-    "term": "налякати їжака голою сракою",
-    "definition": "To fail to be threatening",
-    "example": ""
-  },
-  {
-    "id": 45,
-    "term": "не на руку",
-    "definition": "inconvenient, unsuitable, disadvantageous",
-    "example": ""
-  },
-  {
-    "id": 46,
-    "term": "не рука",
-    "definition": "it won't do; it is not suitable, convenient, or acceptable",
-    "example": ""
-  },
-  {
-    "id": 47,
-    "term": "не святі горшки ліплять",
-    "definition": "anyone can learn to do anything if they wish to",
-    "example": ""
-  },
-  {
-    "id": 48,
-    "term": "не чути ніг під собою",
-    "definition": "to be very happy or excited; over the moon",
-    "example": ""
-  },
-  {
-    "id": 49,
-    "term": "нема диму без вогню",
-    "definition": "there's no smoke without fire",
-    "example": ""
-  },
-  {
-    "id": 50,
-    "term": "нема лиха без добра",
-    "definition": "a blessing in disguise, something bad that has a good result",
-    "example": ""
-  },
-  {
-    "id": 51,
-    "term": "неозброєне око",
-    "definition": "naked eye, unaided eye",
-    "example": ""
-  },
-  {
-    "id": 52,
-    "term": "один у полі не воїн",
-    "definition": "many hands make light work",
-    "example": ""
-  },
-  {
-    "id": 53,
-    "term": "опустити руки",
-    "definition": "to lose heart, to give up, to despair",
-    "example": ""
-  },
-  {
-    "id": 54,
-    "term": "переливати з пустого в порожнє",
-    "definition": "to talk empty, useless, unimportant talks",
-    "example": ""
-  },
-  {
-    "id": 55,
-    "term": "показати де раки зимують",
-    "definition": "to punish someone, to teach someone a lesson",
-    "example": "Я покажу тобі, де раки зимують!"
-  },
-  {
-    "id": 56,
-    "term": "прийти до тями",
-    "definition": "to come to one's senses, to recover one's senses, to regain one's senses, to come to, to come round",
-    "example": ""
-  },
-  {
-    "id": 57,
-    "term": "про вовка промовка",
-    "definition": "speak of the devil",
-    "example": "Про вовка промовка, а вовк у хату. - Марко Вовчок."
-  },
-  {
-    "id": 58,
-    "term": "під джмелем",
-    "definition": "drunk",
-    "example": ""
-  },
-  {
-    "id": 59,
-    "term": "під диктовку",
-    "definition": "according to someone's will, as one wishes",
-    "example": ""
-  },
-  {
-    "id": 60,
-    "term": "піти рукою",
-    "definition": "to go well, to succeed, to go smoothly",
-    "example": ""
-  },
-  {
-    "id": 61,
-    "term": "раз та гаразд",
-    "definition": "even though something is done rarely, it is done extremely well",
-    "example": ""
-  },
-  {
-    "id": 62,
-    "term": "ранні пташки росу п'ють, а пізні слізки ллють",
-    "definition": "the early bird catches the worm, the early bird gets the worm",
-    "example": ""
-  },
-  {
-    "id": 63,
-    "term": "робити з мухи слона",
-    "definition": "to make a mountain out of a molehill",
-    "example": ""
-  },
-  {
-    "id": 64,
-    "term": "рожеві окуляри",
-    "definition": "rose-colored glasses",
-    "example": ""
-  },
-  {
-    "id": 65,
-    "term": "стрибати від радості",
-    "definition": "to jump for joy",
-    "example": ""
-  },
-  {
-    "id": 66,
-    "term": "теплою рукою",
-    "definition": "during one's lifetime, before death",
-    "example": ""
-  },
-  {
-    "id": 67,
-    "term": "тягнути руку",
-    "definition": "to raise one's hand",
-    "example": ""
-  },
-  {
-    "id": 68,
-    "term": "ходити з довгою рукою",
-    "definition": "to beg, to ask for alms",
-    "example": ""
-  },
-  {
-    "id": 69,
-    "term": "цирк на дроті",
-    "definition": "three-ring circus; pandemonium",
-    "example": ""
-  },
-  {
-    "id": 70,
-    "term": "Чотири вершники Апокаліпсису",
-    "definition": "Four Horsemen of the Apocalypse",
-    "example": ""
-  },
-  {
-    "id": 71,
-    "term": "яблуку ніде впасти",
-    "definition": "it's packed to the gills, it's packed to the rafters",
-    "example": ""
-  },
-  {
-    "id": 72,
-    "term": "язик до Києва доведе",
-    "definition": "one must be communicative and ask other people if needed",
-    "example": ""
-  },
-  {
-    "id": 73,
-    "term": "як вітром здуло",
-    "definition": "vanished into thin air",
-    "example": "Коли клас здавав домашню роботу, Семена як вітром здуло."
-  },
-  {
-    "id": 74,
-    "term": "як грім серед ясного неба",
-    "definition": "out of the blue",
-    "example": "Одного дня, як грім серед ясного неба, вона сказала, що йде від мене."
-  },
-  {
-    "id": 75,
-    "term": "як дві краплі води",
-    "definition": "like two peas in a pod",
-    "example": ""
-  },
-  {
-    "id": 76,
-    "term": "як до Києва рачки",
-    "definition": "far, a long way",
-    "example": ""
-  },
-  {
-    "id": 77,
-    "term": "як Марко в пеклі",
-    "definition": "ceaselessly, quickly, unnecessarily",
-    "example": ""
-  },
-  {
-    "id": 78,
-    "term": "як не срачка, то болячка",
-    "definition": "out of the frying pan, into the fire; referring to a situation that is inevitably as bad as the previous one",
-    "example": ""
-  },
-  {
-    "id": 79,
-    "term": "якщо на те пішло",
-    "definition": "for that matter, come to that",
-    "example": ""
-  },
-  {
-    "id": 80,
-    "term": "їбала жаба гадюку",
-    "definition": "Two or more unpleasant people are fighting each other; like rats in a sack",
-    "example": "Та там справжнє шоу — їбала жаба гадюку!"
-  },
-  {
-    "id": 81,
-    "term": "ґав ловити",
-    "definition": "to get distracted, to lose focus",
-    "example": "Не лови ґав на роботі!"
   }
 ];
 window.QM_IDIOMS_CS_DATA = [
