@@ -2551,8 +2551,6 @@ window.QM_HIDDEN_QUIZZES = [
   "welshCounties",
   "monarchs",
   "genZ",
-  "idioms",
-  "idioms2",
   "idiomsObscure",
   "itIdioms",
   "plIdioms",
