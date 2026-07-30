@@ -61723,7 +61723,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 58,
-    "term": "Gamblin' Man / Putting On The Style",
+    "term": "Gamblin' Man / Puttin' On The Style",
     "definition": "Lonnie Donegan",
     "example": "June 1957 · 2 weeks at No.1"
   },
@@ -62127,13 +62127,13 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 34,
-    "term": "Walking Back To Happiness",
+    "term": "Walkin' Back To Happiness",
     "definition": "Helen Shapiro",
     "example": "October 1961 · 3 weeks at No.1"
   },
   {
     "id": 35,
-    "term": "His Latest Flame / Little Sisters",
+    "term": "His Latest Flame / Little Sister",
     "definition": "Elvis Presley",
     "example": "November 1961 · 4 weeks at No.1"
   },
@@ -62241,7 +62241,7 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 53,
-    "term": "Wayward Wind",
+    "term": "The Wayward Wind",
     "definition": "Frank Ifield",
     "example": "February 1963 · 3 weeks at No.1"
   },
@@ -62283,7 +62283,7 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 60,
-    "term": "Devil In Disguise",
+    "term": "(You're The) Devil In Disguise",
     "definition": "Elvis Presley",
     "example": "August 1963 · 1 week at No.1"
   },
@@ -62361,7 +62361,7 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 73,
-    "term": "World Without Love",
+    "term": "A World Without Love",
     "definition": "Peter And Gordon",
     "example": "April 1964 · 2 weeks at No.1"
   },
@@ -62813,7 +62813,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 59,
-    "term": "Ballad Of Bonnie And Clyde",
+    "term": "The Ballad Of Bonnie And Clyde",
     "definition": "Georgie Fame",
     "example": "January 1968 · 1 week at No.1"
   },
@@ -62837,7 +62837,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 63,
-    "term": "Legend Of Xanadu",
+    "term": "The Legend Of Xanadu",
     "definition": "Dave Dee, Dozy, Beaky, Mick and Tich",
     "example": "March 1968 · 1 week at No.1"
   },
@@ -63103,7 +63103,7 @@ window.QM_NO1S7074_DATA = [
   },
   {
     "id": 10,
-    "term": "Tears Of A Clown",
+    "term": "The Tears Of A Clown",
     "definition": "Smokey Robinson And The Miracles",
     "example": "September 1970 · 1 week at No.1"
   },
@@ -63337,7 +63337,7 @@ window.QM_NO1S7074_DATA = [
   },
   {
     "id": 49,
-    "term": "Tie a Yellow Ribbon Round the Old Oak Tree",
+    "term": "Tie A Yellow Ribbon Round The Ole Oak Tree",
     "definition": "Dawn featuring Tony Orlando",
     "example": "April 1973 · 4 weeks at No.1"
   },
@@ -63397,7 +63397,7 @@ window.QM_NO1S7074_DATA = [
   },
   {
     "id": 59,
-    "term": "Daydreamer / Puppy Song",
+    "term": "Daydreamer / The Puppy Song",
     "definition": "David Cassidy",
     "example": "October 1973 · 3 weeks at No.1"
   },
@@ -63621,7 +63621,7 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 14,
-    "term": "I Can't Give You Anything (But My Love)",
+    "term": "Can't Give You Anything (But My Love)",
     "definition": "The Stylistics",
     "example": "August 1975 · 3 weeks at No.1"
   },
@@ -63675,13 +63675,13 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 23,
-    "term": "December '63",
+    "term": "December '63 (Oh What A Night)",
     "definition": "The Four Seasons",
     "example": "February 1976 · 2 weeks at No.1"
   },
   {
     "id": 24,
-    "term": "I Love To Love",
+    "term": "I Love To Love (But My Baby Loves To Dance)",
     "definition": "Tina Charles",
     "example": "March 1976 · 3 weeks at No.1"
   },
@@ -63717,7 +63717,7 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 30,
-    "term": "The Roussos Phenomenon",
+    "term": "The Roussos Phenomenon (EP)",
     "definition": "Demis Roussos",
     "example": "July 1976 · 1 week at No.1"
   },
@@ -63753,7 +63753,7 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 36,
-    "term": "When A Child Is Born",
+    "term": "When A Child Is Born (Soleado)",
     "definition": "Johnny Mathis",
     "example": "December 1976 · 3 weeks at No.1"
   },
@@ -64053,7 +64053,7 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 86,
-    "term": "Another Brick In The Wall",
+    "term": "Another Brick In The Wall (Part II)",
     "definition": "Pink Floyd",
     "example": "December 1979 · 5 weeks at No.1"
   }
@@ -64217,7 +64217,7 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 27,
-    "term": "Shaddup You Face",
+    "term": "Shaddap You Face",
     "definition": "Joe Dolce Music Theatre",
     "example": "February 1981 · 3 weeks at No.1"
   },
@@ -65059,7 +65059,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 72,
-    "term": "Groovy Kind Of Love",
+    "term": "A Groovy Kind Of Love",
     "definition": "Phil Collins",
     "example": "September 1988 · 2 weeks at No.1"
   },
@@ -65161,7 +65161,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 89,
-    "term": "You'll Never Stop Me From Loving You",
+    "term": "You'll Never Stop Me Loving You",
     "definition": "Sonia",
     "example": "July 1989 · 2 weeks at No.1"
   },
@@ -65271,7 +65271,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 11,
-    "term": "Itsy Bitsy Teeny Weeny Yellow Polka Dot Bikini",
+    "term": "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini",
     "definition": "Bombalurina",
     "example": "August 1990 · 3 weeks at No.1"
   },
@@ -66679,7 +66679,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 39,
-    "term": "Independent Women",
+    "term": "Independent Women Part I",
     "definition": "Destiny's Child",
     "example": "December 2000 · 1 week at No.1"
   },
@@ -67003,7 +67003,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 93,
-    "term": "The Long and Winding Road / Suspicious",
+    "term": "The Long and Winding Road / Suspicious Minds",
     "definition": "Will Young & Gareth Gates",
     "example": "October 2002 · 2 weeks at No.1"
   },
@@ -67587,7 +67587,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 88,
-    "term": "I Wish I Was a Punk Rocker",
+    "term": "I Wish I Was a Punk Rocker (With Flowers in My Hair)",
     "definition": "Sandi Thom",
     "example": "June 2006 · 1 week at No.1"
   },
@@ -67611,7 +67611,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 92,
-    "term": "Don't Stop Me Now / Please Please",
+    "term": "Don't Stop Me Now / Please, Please",
     "definition": "McFly",
     "example": "July 2006 · 1 week at No.1"
   },
@@ -67967,7 +67967,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 48,
-    "term": "Mama Do",
+    "term": "Mama Do (Uh Oh, Uh Oh)",
     "definition": "Pixie Lott",
     "example": "June 2009 · 1 week at No.1"
   },
@@ -68171,7 +68171,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 82,
-    "term": "Gettin' Over",
+    "term": "Gettin' Over You",
     "definition": "David Guetta ft Chris Willis",
     "example": "June 2010 · 1 week at No.1"
   },
@@ -68593,7 +68593,7 @@ window.QM_NO1S1113_DATA = [
   },
   {
     "id": 49,
-    "term": "Spectrum",
+    "term": "Spectrum (Say My Name)",
     "definition": "Florence & the Machine",
     "example": "July 2012 · 3 weeks at No.1"
   },
@@ -68623,7 +68623,7 @@ window.QM_NO1S1113_DATA = [
   },
   {
     "id": 54,
-    "term": "Let Me Love You (Until You Learn to Love",
+    "term": "Let Me Love You (Until You Learn to Love Yourself)",
     "definition": "Ne-Yo",
     "example": "September 2012 · 1 week at No.1"
   },
@@ -69739,7 +69739,7 @@ window.QM_NO1S2026_DATA = [
   },
   {
     "id": 30,
-    "term": "Cold Heart",
+    "term": "Cold Heart (PNAU Remix)",
     "definition": "Elton John & Dua Lipa",
     "example": "October 2021 · 1 week at No.1"
   },
