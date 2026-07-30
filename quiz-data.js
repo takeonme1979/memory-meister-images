@@ -40134,7 +40134,7 @@ window.QM_GENZ_DATA = [
     "id": 1,
     "term": "Rizz",
     "definition": "Charm or skill at chatting someone up",
-    "example": "He walked over and got her number in ten seconds — unmatched rizz."
+    "example": "He walked over and got her number in ten seconds — unmatched rizz. "
   },
   {
     "id": 2,
