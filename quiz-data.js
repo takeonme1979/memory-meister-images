@@ -2513,6 +2513,7 @@ window.QM_FLAGS_DATA = [
   }
 ];
 window.QM_HIDDEN_QUIZZES = [
+  "tudorElizabeth",
   "oscarActor00",
   "male60s",
   "startrek",
@@ -42878,6 +42879,566 @@ window.QM_MILLENNIAL_DATA = [
     "term": "Deets",
     "definition": "Details",
     "example": "Send me the deets for Saturday."
+  }
+];
+window.QM_TUDORELIZABETH_DATA = [
+  {
+    "id": 1,
+    "term": "Privy Council",
+    "definition": "Elizabeth’s inner group of about 19 advisers, running government day to day and enforcing her decisions.",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "term": "William Cecil, Lord Burghley",
+    "definition": "Elizabeth’s Secretary of State and closest adviser for 40 years, cautious and Protestant.",
+    "example": ""
+  },
+  {
+    "id": 3,
+    "term": "Robert Dudley, Earl of Leicester",
+    "definition": "Elizabeth’s favourite courtier, on the Privy Council; his ambitions and Amy Robsart’s death made him controversial.",
+    "example": ""
+  },
+  {
+    "id": 4,
+    "term": "Sir Francis Walsingham",
+    "definition": "Elizabeth’s spymaster, who built a network of informers and uncovered the Babington plot in 1586.",
+    "example": ""
+  },
+  {
+    "id": 5,
+    "term": "Patronage",
+    "definition": "Elizabeth’s power to grant titles, land and offices, which bought loyalty and kept nobles competing for her favour.",
+    "example": ""
+  },
+  {
+    "id": 6,
+    "term": "Progresses",
+    "definition": "Royal summer tours where Elizabeth stayed with nobles, showing herself to the country at their expense.",
+    "example": ""
+  },
+  {
+    "id": 7,
+    "term": "Court",
+    "definition": "The monarch’s household of nobles and officials, the centre of power and display.",
+    "example": ""
+  },
+  {
+    "id": 8,
+    "term": "The Essex rebellion (1601)",
+    "definition": "Robert Devereux, Earl of Essex, marched on London after losing favour and his monopoly on sweet wines; he was executed.",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "term": "Monopoly",
+    "definition": "The exclusive right to trade in a good, granted by the Crown; resented by Parliament as a cause of high prices.",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "term": "The marriage question",
+    "definition": "Pressure on Elizabeth to marry and produce an heir; she refused, using courtship as a diplomatic tool.",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "term": "The succession problem",
+    "definition": "Elizabeth had no child, so the throne would pass outside her line — in the end to James VI of Scotland in 1603.",
+    "example": ""
+  },
+  {
+    "id": 12,
+    "term": "Parliament under Elizabeth",
+    "definition": "Called mainly to raise taxes and pass laws; it met rarely and Elizabeth restricted debate on religion, marriage and the succession.",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "term": "Peter Wentworth",
+    "definition": "MP imprisoned for demanding free speech in Parliament, especially on the succession.",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "term": "Justice of the Peace",
+    "definition": "Local gentleman appointed to enforce laws, fix wages and run poor relief in his county.",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "term": "The Gloriana image",
+    "definition": "The cult of Elizabeth as an ageless Virgin Queen, promoted in portraits, pageants and poetry.",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "term": "The Armada Portrait",
+    "definition": "Painting showing Elizabeth’s hand on a globe with the defeated Armada behind, presenting her as ruler of the seas.",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "term": "The Rainbow Portrait",
+    "definition": "Late portrait covering Elizabeth in eyes and ears, symbolising a queen who sees and hears everything.",
+    "example": ""
+  },
+  {
+    "id": 18,
+    "term": "Tilbury speech (1588)",
+    "definition": "Elizabeth’s address to troops as the Armada approached: “the heart and stomach of a king”.",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "term": "The Golden Speech (1601)",
+    "definition": "Elizabeth’s final address to Parliament, promising to end unpopular monopolies.",
+    "example": ""
+  },
+  {
+    "id": 20,
+    "term": "The Great Chain of Being",
+    "definition": "The belief that God fixed everyone in a rank, from monarch down to labourer, which it was sinful to disturb.",
+    "example": ""
+  },
+  {
+    "id": 21,
+    "term": "Gentry",
+    "definition": "Landowners below the nobility whose wealth and country houses grew fast in Elizabeth’s reign.",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "term": "The Great Rebuilding",
+    "definition": "The boom in country-house building from the 1570s, using brick, glass and chimneys to display wealth.",
+    "example": ""
+  },
+  {
+    "id": 23,
+    "term": "Hardwick Hall",
+    "definition": "Bess of Hardwick’s house, famous for so much glass that people said “more glass than wall”.",
+    "example": ""
+  },
+  {
+    "id": 24,
+    "term": "Enclosure",
+    "definition": "Fencing common land into private fields, often for sheep, which pushed labourers off the land.",
+    "example": ""
+  },
+  {
+    "id": 25,
+    "term": "Rack renting",
+    "definition": "Landlords raising rents sharply, a common cause of rural poverty.",
+    "example": ""
+  },
+  {
+    "id": 26,
+    "term": "Vagabond",
+    "definition": "A wandering unemployed person; the law treated vagrancy as a crime rather than misfortune.",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "term": "Deserving poor",
+    "definition": "Those seen as unable to work — the old, sick, disabled and orphaned — who were thought to merit help.",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "term": "Undeserving poor",
+    "definition": "The able-bodied without work, suspected of idleness and punished rather than relieved.",
+    "example": ""
+  },
+  {
+    "id": 29,
+    "term": "The 1601 Poor Law",
+    "definition": "Made each parish responsible for its poor, funded by a compulsory poor rate; work for the able, relief for the rest.",
+    "example": ""
+  },
+  {
+    "id": 30,
+    "term": "Houses of correction",
+    "definition": "Places where the able-bodied poor were set to hard work as punishment and deterrent.",
+    "example": ""
+  },
+  {
+    "id": 31,
+    "term": "The Statute of Artificers (1563)",
+    "definition": "Fixed wages, made seven-year apprenticeships compulsory and tied workers to their trade.",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "term": "Bear-baiting",
+    "definition": "Popular entertainment in which dogs were set on a chained bear; enjoyed by all classes.",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "term": "The Globe",
+    "definition": "Open-air London playhouse built in 1599, home to Shakespeare’s company.",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "term": "The Theatre (1576)",
+    "definition": "London’s first purpose-built playhouse, opened by James Burbage in Shoreditch.",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "term": "Groundlings",
+    "definition": "Poorer playgoers who paid a penny to stand in the yard around the stage.",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "term": "Puritan opposition to theatre",
+    "definition": "Puritans attacked playhouses as immoral and blamed them for spreading plague and disorder.",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "term": "Sumptuary laws",
+    "definition": "Laws restricting what fabrics and colours each rank could wear, so dress showed status.",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "term": "Grammar schools",
+    "definition": "Schools teaching Latin and rhetoric to the sons of the better-off; education broadened but stayed unequal.",
+    "example": ""
+  },
+  {
+    "id": 39,
+    "term": "The Religious Settlement (1559)",
+    "definition": "Elizabeth’s compromise: a Protestant church with some familiar Catholic appearance, meant to satisfy most people.",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "term": "Act of Supremacy (1559)",
+    "definition": "Made Elizabeth Supreme Governor of the Church of England, with an oath of loyalty for clergy and officials.",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "term": "Act of Uniformity (1559)",
+    "definition": "Set one Book of Common Prayer and church appearance across England, with fines for not attending church.",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "term": "Royal Injunctions (1559)",
+    "definition": "Instructions to the clergy on running the church, including keeping a Bible in English in every church.",
+    "example": ""
+  },
+  {
+    "id": 43,
+    "term": "Supreme Governor",
+    "definition": "Elizabeth’s title as head of the church — chosen instead of Supreme Head to soften Catholic objections.",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "term": "Recusant",
+    "definition": "A Catholic who refused to attend Church of England services and paid a fine for it.",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "term": "Puritans",
+    "definition": "Radical Protestants who wanted the church purified of anything resembling Catholicism.",
+    "example": ""
+  },
+  {
+    "id": 46,
+    "term": "The vestments controversy",
+    "definition": "Puritan clergy objected to wearing traditional robes; Elizabeth insisted, and some refused and lost their livings.",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "term": "Presbyterianism",
+    "definition": "The Puritan idea of a church run by elders rather than bishops, which threatened royal control.",
+    "example": ""
+  },
+  {
+    "id": 48,
+    "term": "Prophesyings",
+    "definition": "Puritan meetings to study scripture; Elizabeth ordered them stopped and suspended Archbishop Grindal for refusing.",
+    "example": ""
+  },
+  {
+    "id": 49,
+    "term": "Archbishop Whitgift",
+    "definition": "Hard-line archbishop from 1583 who forced clergy to accept Elizabeth’s settlement or lose their posts.",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "term": "Jesuits",
+    "definition": "Catholic missionary priests trained abroad who came to England from 1580 to keep the faith alive.",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "term": "Edmund Campion",
+    "definition": "Jesuit priest executed in 1581, treated by the government as a traitor and by Catholics as a martyr.",
+    "example": ""
+  },
+  {
+    "id": 52,
+    "term": "Seminary priests",
+    "definition": "Priests trained at colleges such as Douai and smuggled into England to serve Catholic families.",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "term": "Priest holes",
+    "definition": "Hiding places built into Catholic houses to conceal priests during searches.",
+    "example": ""
+  },
+  {
+    "id": 54,
+    "term": "The Papal Bull (1570)",
+    "definition": "Regnans in Excelsis excommunicated Elizabeth and released Catholics from obedience, making them suspect.",
+    "example": ""
+  },
+  {
+    "id": 55,
+    "term": "Mary, Queen of Scots",
+    "definition": "Catholic claimant to the English throne who fled to England in 1568 and was held for 19 years.",
+    "example": ""
+  },
+  {
+    "id": 56,
+    "term": "The Revolt of the Northern Earls (1569)",
+    "definition": "Catholic rising by the earls of Northumberland and Westmorland to free Mary and restore Catholicism; crushed, with hundreds executed.",
+    "example": ""
+  },
+  {
+    "id": 57,
+    "term": "The Ridolfi plot (1571)",
+    "definition": "Plan by an Italian banker for a Spanish invasion, Elizabeth’s murder and Mary’s marriage to the Duke of Norfolk.",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "term": "The Duke of Norfolk",
+    "definition": "England’s leading noble, executed in 1572 for his part in the Ridolfi plot.",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "term": "The Throckmorton plot (1583)",
+    "definition": "Francis Throckmorton’s plan for a French invasion to free Mary; uncovered by Walsingham’s agents.",
+    "example": ""
+  },
+  {
+    "id": 60,
+    "term": "The Babington plot (1586)",
+    "definition": "Anthony Babington’s letters to Mary, intercepted and decoded, proved she consented to Elizabeth’s murder.",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "term": "Gilbert Gifford",
+    "definition": "Double agent who carried the Babington letters straight to Walsingham.",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "term": "The Bond of Association (1584)",
+    "definition": "Pledge by thousands to hunt down anyone who plotted Elizabeth’s death — and anyone who would benefit.",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "term": "The execution of Mary (1587)",
+    "definition": "Mary was beheaded at Fotheringhay; Elizabeth hesitated, then blamed her secretary for sending the warrant.",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "term": "The Act against Priests (1585)",
+    "definition": "Made it treason for a Catholic priest to be in England, and a crime to shelter one.",
+    "example": ""
+  },
+  {
+    "id": 65,
+    "term": "Philip II of Spain",
+    "definition": "Catholic king of Spain, once married to Mary I; his rivalry with Elizabeth led to war.",
+    "example": ""
+  },
+  {
+    "id": 66,
+    "term": "The Netherlands revolt",
+    "definition": "Dutch Protestant rebellion against Spanish rule, which Elizabeth supported to weaken Spain.",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "term": "The Treaty of Nonsuch (1585)",
+    "definition": "Elizabeth agreed to send troops and money to the Dutch rebels — effectively a declaration of war on Spain.",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "term": "The Earl of Leicester’s campaign",
+    "definition": "Leicester’s poorly supplied expedition to the Netherlands from 1585, which achieved little and angered Elizabeth.",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "term": "Privateering",
+    "definition": "Licensed raiding of Spanish ships and ports by English captains, profitable for them and for the Crown.",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "term": "The Singeing of the King of Spain’s Beard (1587)",
+    "definition": "Drake’s raid on Cadiz, destroying supplies and delaying the Armada by a year.",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "term": "The Spanish Armada (1588)",
+    "definition": "Philip II’s fleet of about 130 ships, sent to escort an invasion army from the Netherlands to England.",
+    "example": ""
+  },
+  {
+    "id": 72,
+    "term": "The Duke of Medina Sidonia",
+    "definition": "Reluctant commander of the Armada, an experienced administrator but not a naval officer.",
+    "example": ""
+  },
+  {
+    "id": 73,
+    "term": "The crescent formation",
+    "definition": "The Armada’s defensive shape, hard to attack but slow and dependent on staying together.",
+    "example": ""
+  },
+  {
+    "id": 74,
+    "term": "Fireships at Calais",
+    "definition": "Eight blazing English ships sent among the anchored Armada at night, breaking the formation.",
+    "example": ""
+  },
+  {
+    "id": 75,
+    "term": "The Battle of Gravelines",
+    "definition": "The decisive engagement after Calais, where English guns damaged the scattered Spanish fleet.",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "term": "The Protestant Wind",
+    "definition": "The storms that drove the Armada around Scotland and Ireland, wrecking many ships — seen as God’s favour.",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "term": "Reasons the Armada failed",
+    "definition": "English ships were faster and better gunned, Spanish planning depended on a risky rendezvous, and the weather finished it.",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "term": "The Armada medal",
+    "definition": "Commemorative medal struck with the words “God blew and they were scattered”.",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "term": "Sir Francis Drake",
+    "definition": "Privateer who raided Spanish shipping, circumnavigated the globe and helped defeat the Armada.",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "term": "Drake’s circumnavigation (1577-80)",
+    "definition": "Drake sailed round the world in the Golden Hind, returning with vast Spanish plunder; Elizabeth knighted him on board.",
+    "example": ""
+  },
+  {
+    "id": 81,
+    "term": "The Golden Hind",
+    "definition": "Drake’s ship on the circumnavigation, originally named the Pelican.",
+    "example": ""
+  },
+  {
+    "id": 82,
+    "term": "Sir Walter Raleigh",
+    "definition": "Courtier and explorer who organised the Virginia colonies and popularised tobacco and the potato.",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "term": "Sir John Hawkins",
+    "definition": "Naval commander and slave trader who redesigned English galleons to be faster and better armed.",
+    "example": ""
+  },
+  {
+    "id": 84,
+    "term": "Roanoke",
+    "definition": "The Virginia settlement attempted in 1585 and again in 1587; the second colony vanished, leaving the word “Croatoan”.",
+    "example": ""
+  },
+  {
+    "id": 85,
+    "term": "Reasons for exploration",
+    "definition": "Trade and profit, rivalry with Spain, better ships and navigation, and the search for new markets and raw materials.",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "term": "The galleon",
+    "definition": "Faster, lower-built warship with heavier guns, giving England the advantage over Spanish troop-carrying design.",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "term": "The astrolabe and quadrant",
+    "definition": "Instruments that let sailors work out latitude from the sun or stars.",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "term": "The Mercator projection",
+    "definition": "New map projection from 1569 that let sailors plot a straight compass course.",
+    "example": ""
+  },
+  {
+    "id": 89,
+    "term": "The Muscovy Company",
+    "definition": "Chartered company trading with Russia, an early example of merchants sharing the risk of long voyages.",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "term": "The East India Company (1600)",
+    "definition": "Chartered by Elizabeth to trade with Asia, the start of England’s trading empire.",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "term": "The triangular trade",
+    "definition": "The route linking England, West Africa and the Americas, in which Hawkins traded enslaved people for goods.",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "term": "New World crops",
+    "definition": "Tobacco and the potato reached England through the Virginia voyages, changing diet and habits.",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "term": "Significance of the voyages",
+    "definition": "They brought wealth and prestige, provoked Spain, and laid the foundations of English colonisation.",
+    "example": ""
   }
 ];
 window.QM_BALLETPIX_DATA = [
