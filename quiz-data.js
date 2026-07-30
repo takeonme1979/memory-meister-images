@@ -67251,7 +67251,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 32,
-    "term": "Fuck It (I Don't Want You Back)",
+    "term": "F**k It (I Don't Want You Back)",
     "definition": "Eamon",
     "example": "April 2004 · 4 weeks at No.1"
   },
