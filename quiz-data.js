@@ -2513,6 +2513,22 @@ window.QM_FLAGS_DATA = [
   }
 ];
 window.QM_HIDDEN_QUIZZES = [
+  "no1s5259",
+  "no1s6064",
+  "no1s6569",
+  "no1s7074",
+  "no1s7579",
+  "no1s8084",
+  "no1s8589",
+  "no1s9095",
+  "no1s9699",
+  "no1s0002",
+  "no1s0306",
+  "no1s0710",
+  "no1s1113",
+  "no1s1416",
+  "no1s1719",
+  "no1s2026",
   "male60s",
   "startrek",
   "female70s",
@@ -2646,20 +2662,6 @@ window.QM_HIDDEN_QUIZZES = [
   "rltAdjectives",
   "idioms3",
   "idiomsObscure2",
-  "no1s5259",
-  "no1s6064",
-  "no1s6569",
-  "no1s7074",
-  "no1s7579",
-  "no1s8084",
-  "no1s8589",
-  "no1s0002",
-  "no1s0306",
-  "no1s0710",
-  "no1s1113",
-  "no1s1416",
-  "no1s1719",
-  "no1s2026"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -60219,7 +60221,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 61,
-    "term": "Gamblin' Man/Putting On The Style",
+    "term": "Gamblin' Man / Putting On The Style",
     "definition": "Lonnie Donegan",
     "example": "1957 · 2 weeks at No.1"
   },
@@ -60291,7 +60293,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 73,
-    "term": "All I Have To Do Is Dream/Claudette",
+    "term": "All I Have To Do Is Dream / Claudette",
     "definition": "The Everly Brothers",
     "example": "1958 · 7 weeks at No.1"
   },
@@ -60303,7 +60305,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 75,
-    "term": "Stupid Cupid/Carolina Moon",
+    "term": "Stupid Cupid / Carolina Moon",
     "definition": "Connie Francis",
     "example": "1958 · 6 weeks at No.1"
   },
@@ -60333,7 +60335,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 80,
-    "term": "One Night/I Got Stung",
+    "term": "One Night / I Got Stung",
     "definition": "Elvis Presley",
     "example": "1959 · 3 weeks at No.1"
   },
@@ -60363,7 +60365,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 85,
-    "term": "A Fool Such As I/I Need Your Love Tonight",
+    "term": "A Fool Such As I / I Need Your Love Tonight",
     "definition": "Elvis Presley",
     "example": "1959 · 5 weeks at No.1"
   },
@@ -60539,7 +60541,7 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 20,
-    "term": "Walk Right Back/Ebony Eyes",
+    "term": "Walk Right Back / Ebony Eyes",
     "definition": "The Everly Brothers",
     "example": "1961 · 3 weeks at No.1"
   },
@@ -60605,7 +60607,7 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 31,
-    "term": "Reach For The Stars/Climb Ev'ry Mountain",
+    "term": "Reach For The Stars / Climb Ev'ry Mountain",
     "definition": "Shirley Bassey",
     "example": "1961 · 1 week at No.1"
   },
@@ -60629,7 +60631,7 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 35,
-    "term": "His Latest Flame/Little Sisters",
+    "term": "His Latest Flame / Little Sisters",
     "definition": "Elvis Presley",
     "example": "1961 · 4 weeks at No.1"
   },
@@ -60653,7 +60655,7 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 39,
-    "term": "Can't Help Falling In Love/Rock-A-Hula Baby",
+    "term": "Can't Help Falling In Love / Rock-A-Hula Baby",
     "definition": "Elvis Presley",
     "example": "1962 · 4 weeks at No.1"
   },
@@ -60719,7 +60721,7 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 50,
-    "term": "The Next Time/Bachelor Boy",
+    "term": "The Next Time / Bachelor Boy",
     "definition": "Cliff Richard",
     "example": "1963 · 3 weeks at No.1"
   },
@@ -61099,7 +61101,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 24,
-    "term": "Day Tripper/We Can Work It Out",
+    "term": "Day Tripper / We Can Work It Out",
     "definition": "The Beatles",
     "example": "1965 · 5 weeks at No.1"
   },
@@ -61189,7 +61191,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 39,
-    "term": "Yellow Submarine/Eleanor Rigby",
+    "term": "Yellow Submarine / Eleanor Rigby",
     "definition": "The Beatles",
     "example": "1966 · 4 weeks at No.1"
   },
@@ -61351,7 +61353,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 66,
-    "term": "What A Wonderful World/Cabaret",
+    "term": "What A Wonderful World / Cabaret",
     "definition": "Louis Armstrong",
     "example": "1968 · 4 weeks at No.1"
   },
@@ -61519,7 +61521,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 94,
-    "term": "Je T'aime... Moi Non Plus {Official Release}",
+    "term": "Je T'aime... Moi Non Plus",
     "definition": "Jane Birkin and Serge Gainsbourg",
     "example": "1969 · 1 week at No.1"
   },
@@ -61689,7 +61691,7 @@ window.QM_NO1S7074_DATA = [
   },
   {
     "id": 25,
-    "term": "Maggie May/Reason To Believe",
+    "term": "Maggie May / Reason To Believe",
     "definition": "Rod Stewart",
     "example": "1971 · 5 weeks at No.1"
   },
@@ -61893,7 +61895,7 @@ window.QM_NO1S7074_DATA = [
   },
   {
     "id": 59,
-    "term": "Daydreamer/Puppy Song",
+    "term": "Daydreamer / Puppy Song",
     "definition": "David Cassidy",
     "example": "1973 · 3 weeks at No.1"
   },
@@ -62291,7 +62293,7 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 43,
-    "term": "I Don't Want To Talk About It/First Cut Is The Deepest",
+    "term": "I Don't Want To Talk About It / First Cut Is The Deepest",
     "definition": "Rod Stewart",
     "example": "1977 · 4 weeks at No.1"
   },
@@ -62357,7 +62359,7 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 54,
-    "term": "Mull of Kintyre/Girls' School",
+    "term": "Mull of Kintyre / Girls' School",
     "definition": "Wings",
     "example": "1977 · 9 weeks at No.1"
   },
@@ -62399,7 +62401,7 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 61,
-    "term": "Rivers Of Babylon/Brown Girl In The Ring",
+    "term": "Rivers Of Babylon / Brown Girl In The Ring",
     "definition": "Boney M",
     "example": "1978 · 5 weeks at No.1"
   },
@@ -62587,13 +62589,13 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 6,
-    "term": "Going Underground/Dreams Of Children",
+    "term": "Going Underground / Dreams Of Children",
     "definition": "The Jam",
     "example": "1980 · 3 weeks at No.1"
   },
   {
     "id": 7,
-    "term": "Working My Way Back To You/Forgive Me Girl",
+    "term": "Working My Way Back To You / Forgive Me Girl",
     "definition": "Detroit Spinners",
     "example": "1980 · 2 weeks at No.1"
   },
@@ -62827,13 +62829,13 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 46,
-    "term": "The Model/Computer Love",
+    "term": "The Model / Computer Love",
     "definition": "Kraftwerk",
     "example": "1982 · 1 week at No.1"
   },
   {
     "id": 47,
-    "term": "Town Called Malice/Precious",
+    "term": "Town Called Malice / Precious",
     "definition": "The Jam",
     "example": "1982 · 3 weeks at No.1"
   },
@@ -63459,7 +63461,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 56,
-    "term": "Pump Up The Volume/Anitina (The First Time I See She Dance)",
+    "term": "Pump Up The Volume / Anitina (The First Time I See She Dance)",
     "definition": "M/A/R/R/S",
     "example": "1987 · 2 weeks at No.1"
   },
@@ -63525,8 +63527,8 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 67,
-    "term": "With A Little Help From My Friends/She's Leaving Home",
-    "definition": "Wet Wet Wet/Billy Bragg With Cara Tivey",
+    "term": "With A Little Help From My Friends / She's Leaving Home",
+    "definition": "Wet Wet Wet / Billy Bragg With Cara Tivey",
     "example": "1988 · 4 weeks at No.1"
   },
   {
@@ -63755,7 +63757,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 9,
-    "term": "Sacrifice/Healing Hands",
+    "term": "Sacrifice / Healing Hands",
     "definition": "Elton John",
     "example": "1990 · 5 weeks at No.1"
   },
@@ -63905,7 +63907,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 34,
-    "term": "Bohemian Rhapsody/These Are The Days Of Our Lives",
+    "term": "Bohemian Rhapsody / These Are The Days Of Our Lives",
     "definition": "Queen",
     "example": "1991 · 5 weeks at No.1"
   },
@@ -63929,7 +63931,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 38,
-    "term": "Please Don't Go/Game Boy",
+    "term": "Please Don't Go / Game Boy",
     "definition": "KWS",
     "example": "1992 · 5 weeks at No.1"
   },
@@ -64205,7 +64207,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 84,
-    "term": "Unchained Melody/White Cliffs Of Dover",
+    "term": "Unchained Melody / White Cliffs Of Dover",
     "definition": "Robson & Jerome",
     "example": "1995 · 7 weeks at No.1"
   },
@@ -64253,7 +64255,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 92,
-    "term": "I Believe/Up On The Roof",
+    "term": "I Believe / Up On The Roof",
     "definition": "Robson & Jerome",
     "example": "1995 · 4 weeks at No.1"
   },
@@ -64399,7 +64401,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 23,
-    "term": "Knockin' on Heaven's Door/Throw These..",
+    "term": "Knockin' on Heaven's Door / Throw These Guns Away",
     "definition": "Dunblane",
     "example": "1996 · 1 week at No.1"
   },
@@ -64447,7 +64449,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 31,
-    "term": "Mama/Who Do You Think You Are",
+    "term": "Mama / Who Do You Think You Are",
     "definition": "Spice Girls",
     "example": "1997 · 3 weeks at No.1"
   },
@@ -64609,7 +64611,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 58,
-    "term": "Under The Bridge/Lady Marmalade",
+    "term": "Under The Bridge / Lady Marmalade",
     "definition": "All Saints",
     "example": "1998 · 2 weeks at No.1"
   },
@@ -64735,7 +64737,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 79,
-    "term": "Heartbeat/Tragedy",
+    "term": "Heartbeat / Tragedy",
     "definition": "Steps",
     "example": "1999 · 2 weeks at No.1"
   },
@@ -64921,7 +64923,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 110,
-    "term": "She's The One/It's Only Us",
+    "term": "She's The One / It's Only Us",
     "definition": "Robbie Williams",
     "example": "1999 · 1 week at No.1"
   },
@@ -64939,7 +64941,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 113,
-    "term": "I Have A Dream/Seasons In The Sun",
+    "term": "I Have A Dream / Seasons In The Sun",
     "definition": "Westlife",
     "example": "1999 · 4 weeks at No.1"
   }
@@ -65151,7 +65153,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 35,
-    "term": "Holler/Let Love Lead The Way",
+    "term": "Holler / Let Love Lead The Way",
     "definition": "Spice Girls",
     "example": "2000 · 1 week at No.1"
   },
@@ -65295,7 +65297,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 59,
-    "term": "Eternity/The Road To Mandalay",
+    "term": "Eternity / The Road To Mandalay",
     "definition": "Robbie Williams",
     "example": "2001 · 2 weeks at No.1"
   },
@@ -65403,7 +65405,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 77,
-    "term": "Anything Is Possible/Evergreen",
+    "term": "Anything Is Possible / Evergreen",
     "definition": "Will Young",
     "example": "2002 · 3 weeks at No.1"
   },
@@ -65499,7 +65501,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 93,
-    "term": "The Long and Winding Road/Suspicious",
+    "term": "The Long and Winding Road / Suspicious",
     "definition": "Will Young & Gareth Gates",
     "example": "2002 · 2 weeks at No.1"
   },
@@ -65795,7 +65797,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 40,
-    "term": "Thunderbirds/3AM",
+    "term": "Thunderbirds / 3AM",
     "definition": "Busted",
     "example": "2004 · 2 weeks at No.1"
   },
@@ -65813,7 +65815,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 43,
-    "term": "My Place/Flap Your Wings",
+    "term": "My Place / Flap Your Wings",
     "definition": "Nelly",
     "example": "2004 · 1 week at No.1"
   },
@@ -65879,7 +65881,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 54,
-    "term": "One Night/I Got Stung",
+    "term": "One Night / I Got Stung",
     "definition": "Elvis Presley",
     "example": "2005 · 1 week at No.1"
   },
@@ -65927,7 +65929,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 62,
-    "term": "All About You/You've Got A Friend",
+    "term": "All About You / You've Got A Friend",
     "definition": "McFly",
     "example": "2005 · 1 week at No.1"
   },
@@ -66107,7 +66109,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 92,
-    "term": "Don't Stop Me Now/Please Please",
+    "term": "Don't Stop Me Now / Please Please",
     "definition": "McFly",
     "example": "2006 · 1 week at No.1"
   },
@@ -66223,7 +66225,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 8,
-    "term": "Baby's Coming Back/Transylvania",
+    "term": "Baby's Coming Back / Transylvania",
     "definition": "McFly",
     "example": "2007 · 1 week at No.1"
   },
