@@ -2578,7 +2578,6 @@ window.QM_HIDDEN_QUIZZES = [
   "nlIdioms",
   "huIdioms",
   "roIdioms",
-  "ltIdioms",
   "csIdioms",
   "ukAnimals",
   "ukFoods",
@@ -68064,122 +68063,6 @@ window.QM_IDIOMS_RO_DATA = [
     "id": 100,
     "term": "fată bătrână",
     "definition": "spinster, old maid",
-    "example": ""
-  }
-];
-window.QM_IDIOMS_LT_DATA = [
-  {
-    "id": 1,
-    "term": "akis dumti",
-    "definition": "to pull the wool over someone's eyes; to deceive",
-    "example": ""
-  },
-  {
-    "id": 2,
-    "term": "badyti akis",
-    "definition": "to be glaringly obvious; to stick out",
-    "example": ""
-  },
-  {
-    "id": 3,
-    "term": "bala nematė",
-    "definition": "to hell with it; never mind",
-    "example": ""
-  },
-  {
-    "id": 4,
-    "term": "ir sienos turi ausis",
-    "definition": "walls have ears",
-    "example": ""
-  },
-  {
-    "id": 5,
-    "term": "išdėti į šuns dienas",
-    "definition": "to give someone a dressing-down; to berate",
-    "example": ""
-  },
-  {
-    "id": 6,
-    "term": "kad prisivirei košės, tai ir srėbk",
-    "definition": "you've made your bed, now lie in it",
-    "example": ""
-  },
-  {
-    "id": 7,
-    "term": "kristi į akis",
-    "definition": "to catch the eye; to stand out",
-    "example": ""
-  },
-  {
-    "id": 8,
-    "term": "lieti ašaras",
-    "definition": "to shed tears",
-    "example": ""
-  },
-  {
-    "id": 9,
-    "term": "lyja kirviais",
-    "definition": "\"it's raining axes\" — it's pouring down",
-    "example": ""
-  },
-  {
-    "id": 10,
-    "term": "man šakės",
-    "definition": "I'm done for; I'm in real trouble",
-    "example": ""
-  },
-  {
-    "id": 11,
-    "term": "nespręsk apie knygą iš viršelio",
-    "definition": "don't judge a book by its cover",
-    "example": ""
-  },
-  {
-    "id": 12,
-    "term": "nėra to blogo, kas neišeitų į gerą",
-    "definition": "every cloud has a silver lining",
-    "example": ""
-  },
-  {
-    "id": 13,
-    "term": "panosė šlapia",
-    "definition": "still wet behind the ears; inexperienced",
-    "example": ""
-  },
-  {
-    "id": 14,
-    "term": "privirti košės",
-    "definition": "to stir up trouble; to make a mess of things",
-    "example": ""
-  },
-  {
-    "id": 15,
-    "term": "vienas kaip pirštas",
-    "definition": "\"alone as a finger\" — all on one's own",
-    "example": ""
-  },
-  {
-    "id": 16,
-    "term": "vienas velnias",
-    "definition": "it makes no odds; all the same",
-    "example": ""
-  },
-  {
-    "id": 17,
-    "term": "viena koja",
-    "definition": "in a flash; very quickly",
-    "example": ""
-  },
-  {
-    "id": 18,
-    "term": "turėti omenyje",
-    "definition": "to bear in mind",
-    "example": ""
-  },
-  {
-    "id": 19,
-    "term": "žvirbliu netapsi",
-    "definition": "you won't become a sparrow — you can't change what you are",
     "example": ""
   }
 ];
