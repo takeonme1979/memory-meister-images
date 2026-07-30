@@ -2513,6 +2513,7 @@ window.QM_FLAGS_DATA = [
   }
 ];
 window.QM_HIDDEN_QUIZZES = [
+  "millennial",
   "male60s",
   "startrek",
   "female70s",
@@ -40263,483 +40264,1085 @@ window.QM_GENZ_DATA = [
   },
   {
     "id": 21,
-    "term": "Snatched",
-    "definition": "Looking sharp and well put together",
-    "example": "Your outfit is snatched today."
-  },
-  {
-    "id": 22,
     "term": "Drip",
     "definition": "Impressive, stylish clothing",
     "example": "The trainers complete the drip."
   },
   {
-    "id": 23,
+    "id": 22,
     "term": "Fit",
     "definition": "An outfit",
     "example": "Send me a picture of the fit before you leave."
   },
   {
-    "id": 24,
-    "term": "Flex",
-    "definition": "Show off, usually about money or success",
-    "example": "Posting the receipt was a bit of a flex."
-  },
-  {
-    "id": 25,
-    "term": "Glow-up",
-    "definition": "A dramatic improvement in appearance or life",
-    "example": "Six months of the gym and it's a full glow-up."
-  },
-  {
-    "id": 26,
-    "term": "Ghosting",
-    "definition": "Vanishing from someone's life with no explanation",
-    "example": "Three great dates and then he ghosted me."
-  },
-  {
-    "id": 27,
-    "term": "Salty",
-    "definition": "Bitter and resentful over something small",
-    "example": "He's still salty about losing at cards."
-  },
-  {
-    "id": 28,
-    "term": "Shook",
-    "definition": "Badly shaken or stunned",
-    "example": "That ending left me shook."
-  },
-  {
-    "id": 29,
+    "id": 23,
     "term": "Simp",
     "definition": "Someone excessively devoted to a person who isn't interested",
     "example": "Buying her lunch every day and getting nothing back — total simp."
   },
   {
-    "id": 30,
-    "term": "Stan",
-    "definition": "Be an obsessive supporter of someone",
-    "example": "I've stanned that band since I was fourteen."
-  },
-  {
-    "id": 31,
-    "term": "Tea",
-    "definition": "Gossip",
-    "example": "Sit down, I've got tea about the wedding."
-  },
-  {
-    "id": 32,
-    "term": "Spill the tea",
-    "definition": "Share the gossip",
-    "example": "Go on then, spill the tea."
-  },
-  {
-    "id": 33,
-    "term": "Receipts",
-    "definition": "Screenshots or proof to back up a claim",
-    "example": "She posted the receipts and the argument ended."
-  },
-  {
-    "id": 34,
+    "id": 24,
     "term": "Vibe check",
     "definition": "A quick read of someone's mood or energy",
     "example": "He failed the vibe check the moment he walked in."
   },
   {
-    "id": 35,
+    "id": 25,
     "term": "Touch grass",
     "definition": "Go outside; get off the internet",
     "example": "You've been arguing online for six hours — touch grass."
   },
   {
-    "id": 36,
+    "id": 26,
     "term": "Chronically online",
     "definition": "So immersed in the internet you've lost perspective",
     "example": "Only someone chronically online would care about that."
   },
   {
-    "id": 37,
+    "id": 27,
     "term": "Cringe",
     "definition": "Embarrassing to witness",
     "example": "The whole speech was pure cringe."
   },
   {
-    "id": 38,
-    "term": "Lowkey",
-    "definition": "Slightly; secretly",
-    "example": "I'm lowkey hoping it gets cancelled."
-  },
-  {
-    "id": 39,
-    "term": "Highkey",
-    "definition": "Very openly; obviously",
-    "example": "I'm highkey excited about Friday."
-  },
-  {
-    "id": 40,
+    "id": 28,
     "term": "Deadass",
     "definition": "Seriously; I really mean it",
     "example": "I'm deadass, he said it to my face."
   },
   {
-    "id": 41,
-    "term": "Finna",
-    "definition": "About to; going to",
-    "example": "I'm finna leave in five minutes."
-  },
-  {
-    "id": 42,
+    "id": 29,
     "term": "Fr",
     "definition": "For real — genuinely, honestly",
     "example": "That exam was brutal, fr."
   },
   {
-    "id": 43,
+    "id": 30,
     "term": "IYKYK",
     "definition": "\"If you know, you know\" — an in-joke you won't explain",
     "example": "Third table from the window. IYKYK."
   },
   {
-    "id": 44,
+    "id": 31,
     "term": "W",
     "definition": "A win; something good",
     "example": "Half-price tickets? Massive W."
   },
   {
-    "id": 45,
+    "id": 32,
     "term": "L",
     "definition": "A loss; a failure",
     "example": "Forgot my wallet — took an L at the till."
   },
   {
-    "id": 46,
+    "id": 33,
     "term": "Take the L",
     "definition": "Accept the defeat gracefully",
     "example": "You were wrong, just take the L."
   },
   {
-    "id": 47,
+    "id": 34,
     "term": "Goated",
     "definition": "The greatest of all time",
     "example": "That album is goated."
   },
   {
-    "id": 48,
+    "id": 35,
     "term": "Let him cook",
     "definition": "Leave them to it — they know what they're doing",
     "example": "It looks chaotic, but let him cook."
   },
   {
-    "id": 49,
+    "id": 36,
     "term": "Cooked",
     "definition": "Finished; done for",
     "example": "Two hours before the deadline and nothing written — I'm cooked."
   },
   {
-    "id": 50,
+    "id": 37,
     "term": "Era",
     "definition": "A distinct phase you're currently in",
     "example": "She's in her marathon-running era."
   },
   {
-    "id": 51,
+    "id": 38,
     "term": "Core",
     "definition": "A whole aesthetic or vibe, added to any word",
     "example": "The whole flat is very cottagecore."
   },
   {
-    "id": 52,
-    "term": "Banger",
-    "definition": "An excellent song",
-    "example": "Track four is an absolute banger."
-  },
-  {
-    "id": 53,
-    "term": "Slaps",
-    "definition": "Sounds brilliant",
-    "example": "This chorus slaps."
-  },
-  {
-    "id": 54,
+    "id": 39,
     "term": "Hits different",
     "definition": "Affects you unusually strongly",
     "example": "That song hits different at 2am."
   },
   {
-    "id": 55,
+    "id": 40,
     "term": "Periodt",
     "definition": "Full stop — end of discussion",
     "example": "She's the best on the team, periodt."
   },
   {
-    "id": 56,
+    "id": 41,
     "term": "On god",
     "definition": "I swear it's true",
     "example": "On god, I posted it yesterday."
   },
   {
-    "id": 57,
+    "id": 42,
     "term": "Say less",
     "definition": "I understand, no need to explain further",
     "example": "\"Can you cover Saturday?\" \"Say less.\""
   },
   {
-    "id": 58,
+    "id": 43,
     "term": "It's giving",
     "definition": "It has the distinct air of",
     "example": "That coat? It's giving detective."
   },
   {
-    "id": 59,
+    "id": 44,
     "term": "Situationship",
     "definition": "A relationship with no agreed definition",
     "example": "Six months of a situationship and no label."
   },
   {
-    "id": 60,
-    "term": "Red flag",
-    "definition": "A warning sign about someone",
-    "example": "He was rude to the waiter — red flag."
-  },
-  {
-    "id": 61,
+    "id": 45,
     "term": "Green flag",
     "definition": "A sign that someone is a good person",
     "example": "He texted his sister happy birthday — green flag."
   },
   {
-    "id": 62,
-    "term": "Love bombing",
-    "definition": "Overwhelming someone with affection to gain control",
-    "example": "Flowers every day in week one was love bombing."
-  },
-  {
-    "id": 63,
-    "term": "Breadcrumbing",
-    "definition": "Giving just enough attention to keep someone hooked",
-    "example": "One text a fortnight is textbook breadcrumbing."
-  },
-  {
-    "id": 64,
+    "id": 46,
     "term": "Soft launch",
     "definition": "Hinting at a new relationship online without showing the face",
     "example": "An elbow in the photo — that's a soft launch."
   },
   {
-    "id": 65,
+    "id": 47,
     "term": "Hard launch",
     "definition": "Announcing the relationship openly",
     "example": "They hard launched at the wedding."
   },
   {
-    "id": 66,
-    "term": "Bestie",
-    "definition": "A friend, or a friendly way to address anyone",
-    "example": "Bestie, that is not what the email said."
-  },
-  {
-    "id": 67,
-    "term": "Boujee",
-    "definition": "Expensively fancy",
-    "example": "Marble worktops is very boujee."
-  },
-  {
-    "id": 68,
-    "term": "Extra",
-    "definition": "Over the top; doing far too much",
-    "example": "Fireworks for a birthday tea is a bit extra."
-  },
-  {
-    "id": 69,
-    "term": "Basic",
-    "definition": "Unoriginal; following every mainstream trend",
-    "example": "The pumpkin latte is basic and I don't care."
-  },
-  {
-    "id": 70,
+    "id": 48,
     "term": "Canon event",
     "definition": "An unavoidable experience that shapes who you are",
     "example": "A terrible first job is a canon event."
   },
   {
-    "id": 71,
+    "id": 49,
     "term": "Character development",
     "definition": "Visible personal growth",
     "example": "He does the washing-up now — real character development."
   },
   {
-    "id": 72,
+    "id": 50,
     "term": "Side quest",
     "definition": "A distraction from what you meant to do",
     "example": "Went for milk, came back with a plant — side quest."
   },
   {
-    "id": 73,
+    "id": 51,
     "term": "Crash out",
     "definition": "Lose your temper or fall apart over something",
     "example": "One more delay and I'm going to crash out."
   },
   {
-    "id": 74,
+    "id": 52,
     "term": "Lock in",
     "definition": "Focus intensely and get it done",
     "example": "Two weeks to the exam — time to lock in."
   },
   {
-    "id": 75,
+    "id": 53,
     "term": "Demure",
     "definition": "Modest and understated, said semi-ironically",
     "example": "Very demure, very mindful."
   },
   {
-    "id": 76,
+    "id": 54,
     "term": "Glazing",
     "definition": "Praising someone far beyond what they deserve",
     "example": "Stop glazing, he only scored once."
   },
   {
-    "id": 77,
+    "id": 55,
     "term": "Yapping",
     "definition": "Talking far too much about nothing",
     "example": "He's been yapping about that car all afternoon."
   },
   {
-    "id": 78,
+    "id": 56,
     "term": "Aura",
     "definition": "The intangible cool you gain or lose by your actions",
     "example": "Tripping on stage cost him serious aura."
   },
   {
-    "id": 79,
+    "id": 57,
     "term": "Aura farming",
     "definition": "Doing things purely to look effortlessly cool",
     "example": "Slow-motion sunglasses in the rain is pure aura farming."
   },
   {
-    "id": 80,
+    "id": 58,
     "term": "Looksmaxxing",
     "definition": "Systematically trying to improve your appearance",
     "example": "Skincare, gym, haircut — he's looksmaxxing."
   },
   {
-    "id": 81,
+    "id": 59,
     "term": "Brainrot",
     "definition": "Low-quality content that leaves you mentally mushy",
     "example": "Two hours of shorts is proper brainrot."
   },
   {
-    "id": 82,
+    "id": 60,
     "term": "Rage bait",
     "definition": "Content designed purely to make you angry enough to reply",
     "example": "Don't answer, it's rage bait."
   },
   {
-    "id": 83,
+    "id": 61,
     "term": "Goblin mode",
     "definition": "Unashamedly slobbish, unkempt behaviour",
     "example": "Full goblin mode all weekend — crisps and no curtains."
   },
   {
-    "id": 84,
+    "id": 62,
     "term": "Bed rotting",
     "definition": "Staying in bed all day on purpose to recover",
     "example": "Sunday was pure bed rotting."
   },
   {
-    "id": 85,
+    "id": 63,
     "term": "Girl dinner",
     "definition": "A meal assembled from odds and ends rather than cooked",
     "example": "Cheese, olives and half a pepper — girl dinner."
   },
   {
-    "id": 86,
+    "id": 64,
     "term": "Quiet quitting",
     "definition": "Doing your job to the letter and not a minute more",
     "example": "After the pay freeze, half the team started quiet quitting."
   },
   {
-    "id": 87,
+    "id": 65,
     "term": "Opp",
     "definition": "An opponent or enemy",
     "example": "Don't tell him anything, he's an opp."
   },
   {
-    "id": 88,
+    "id": 66,
     "term": "Unalive",
     "definition": "Died or killed — a euphemism used to dodge filters",
     "example": "The video said \"unalived\" to get past moderation."
   },
   {
-    "id": 89,
+    "id": 67,
     "term": "Pookie",
     "definition": "An affectionate nickname for someone dear",
     "example": "Morning, pookie."
   },
   {
-    "id": 90,
+    "id": 68,
     "term": "Devious lick",
     "definition": "A prank theft done for online clout",
     "example": "The devious lick trend got half a school suspended."
   },
   {
-    "id": 91,
+    "id": 69,
     "term": "Ok boomer",
     "definition": "A dismissal of an out-of-touch older opinion",
     "example": "He complained about phones again — ok boomer."
   },
   {
-    "id": 92,
-    "term": "Slept on",
-    "definition": "Underrated; unfairly overlooked",
-    "example": "That second album was completely slept on."
-  },
-  {
-    "id": 93,
+    "id": 70,
     "term": "Cheugy",
     "definition": "Out of date, or trying too hard to be trendy",
     "example": "Skinny jeans and a side parting? A bit cheugy now."
   },
   {
-    "id": 94,
+    "id": 71,
     "term": "Doomscrolling",
     "definition": "Scrolling endlessly through bad news you can't do anything about",
     "example": "I was doomscrolling until two in the morning."
   },
   {
-    "id": 95,
-    "term": "Catfish",
-    "definition": "Someone using a fake identity online to fool people",
-    "example": "The photos were fifteen years old — total catfish."
-  },
-  {
-    "id": 96,
-    "term": "Clapback",
-    "definition": "A sharp, well-aimed reply to criticism",
-    "example": "Her clapback got more likes than the insult."
-  },
-  {
-    "id": 97,
-    "term": "Throw shade",
-    "definition": "Insult someone subtly rather than openly",
-    "example": "She threw shade at the whole department without naming anyone."
-  },
-  {
-    "id": 98,
+    "id": 72,
     "term": "Gatekeep",
     "definition": "Withhold information to keep something exclusive",
     "example": "Just tell us which shop it's from and stop gatekeeping."
   },
   {
-    "id": 99,
+    "id": 73,
     "term": "Talking stage",
     "definition": "The early phase of messaging someone before you're actually dating",
     "example": "They've been in the talking stage since April."
   },
   {
-    "id": 100,
+    "id": 74,
     "term": "Clout chasing",
     "definition": "Doing things purely to gain online fame",
     "example": "Filming the argument was pure clout chasing."
+  },
+  {
+    "id": 75,
+    "term": "Beige flag",
+    "definition": "A trait that is odd rather than a dealbreaker",
+    "example": "He alphabetises the spice rack — total beige flag."
+  },
+  {
+    "id": 76,
+    "term": "Delusionship",
+    "definition": "A relationship that exists mainly in your own head",
+    "example": "They've spoken twice; it's a delusionship."
+  },
+  {
+    "id": 77,
+    "term": "Roman Empire",
+    "definition": "The thing you think about constantly and unprompted",
+    "example": "That penalty miss is my Roman Empire."
+  },
+  {
+    "id": 78,
+    "term": "Girl math",
+    "definition": "Self-serving arithmetic that justifies a purchase",
+    "example": "It was on sale, so I saved money — girl math."
+  },
+  {
+    "id": 79,
+    "term": "Brat",
+    "definition": "Knowingly messy, loud and unbothered",
+    "example": "Cheap sunglasses and a warm can: very brat."
+  },
+  {
+    "id": 80,
+    "term": "Caught in 4K",
+    "definition": "Filmed doing something you cannot then deny",
+    "example": "He said he never eats crisps — caught in 4K."
+  },
+  {
+    "id": 81,
+    "term": "Bombastic side eye",
+    "definition": "A long look of withering disbelief",
+    "example": "She gave the bill a bombastic side eye."
+  },
+  {
+    "id": 82,
+    "term": "Sheesh",
+    "definition": "An exclamation of admiration or disbelief",
+    "example": "Sheesh, he made that look easy."
+  },
+  {
+    "id": 83,
+    "term": "Bffr",
+    "definition": "\"Be for real\" — you cannot possibly mean that",
+    "example": "Forty quid for a sandwich? Bffr."
+  },
+  {
+    "id": 84,
+    "term": "Rizzler",
+    "definition": "Someone with an obvious gift for charming people",
+    "example": "He walked over and got her number — absolute rizzler."
+  },
+  {
+    "id": 85,
+    "term": "Sludge content",
+    "definition": "Unrelated video played alongside another to hold your attention",
+    "example": "A film ruined by sludge content down the side of it."
+  },
+  {
+    "id": 86,
+    "term": "Mogging",
+    "definition": "Visibly outshining someone on looks",
+    "example": "He stood next to his brother and got mogged."
+  },
+  {
+    "id": 87,
+    "term": "Dogwater",
+    "definition": "Hopeless at something, especially a game",
+    "example": "Stop passing to me, I’m dogwater at this."
+  },
+  {
+    "id": 88,
+    "term": "Clanker",
+    "definition": "A robot or an AI, said dismissively",
+    "example": "The clanker wrote my rejection letter."
+  },
+  {
+    "id": 89,
+    "term": "Nepo baby",
+    "definition": "Someone whose career rests on famous parents",
+    "example": "Third lead role this year — nepo baby."
+  },
+  {
+    "id": 90,
+    "term": "Coquette",
+    "definition": "A frilly, bows-and-lace hyper-feminine look",
+    "example": "She turned up in full coquette."
+  },
+  {
+    "id": 91,
+    "term": "POV",
+    "definition": "A clip acted out as though it is happening to you",
+    "example": "POV: you are the last one awake at the party."
+  },
+  {
+    "id": 92,
+    "term": "Hot girl walk",
+    "definition": "A long walk taken for your head as much as your legs",
+    "example": "Bad day, so I went on a hot girl walk."
+  },
+  {
+    "id": 93,
+    "term": "Slop",
+    "definition": "Mass-produced AI content clogging up your feed",
+    "example": "My whole feed is slop this morning."
+  },
+  {
+    "id": 94,
+    "term": "Chopped",
+    "definition": "Badly done — or unflatteringly turned out",
+    "example": "That haircut is chopped, I’m sorry."
+  },
+  {
+    "id": 95,
+    "term": "Menty b",
+    "definition": "A small, mostly self-aware mental breakdown",
+    "example": "Had a menty b over a parking ticket."
+  },
+  {
+    "id": 96,
+    "term": "Chat",
+    "definition": "An imaginary audience you address, streamer-style",
+    "example": "Chat, is this normal?"
+  },
+  {
+    "id": 97,
+    "term": "IJBOL",
+    "definition": "\"I just burst out laughing\" — the replacement for lmao",
+    "example": "He fell off the chair mid-sentence, IJBOL."
+  },
+  {
+    "id": 98,
+    "term": "Lore",
+    "definition": "Someone's backstory, told as if it were mythology",
+    "example": "You cannot ask that without knowing her lore."
+  },
+  {
+    "id": 99,
+    "term": "Loud budgeting",
+    "definition": "Announcing openly that you are not spending money",
+    "example": "I'm loud budgeting this month, so no taxis."
+  },
+  {
+    "id": 100,
+    "term": "Booed up",
+    "definition": "In a relationship — usually a new and very visible one",
+    "example": "She's been booed up since June."
+  }
+];
+window.QM_MILLENNIAL_DATA = [
+  {
+    "id": 1,
+    "term": "Bestie",
+    "definition": "Your closest friend — or anyone you address warmly",
+    "example": "Off to the cinema with my bestie."
+  },
+  {
+    "id": 2,
+    "term": "Ghosting",
+    "definition": "Vanishing from someone's life with no explanation",
+    "example": "Three good dates and then he started ghosting me."
+  },
+  {
+    "id": 3,
+    "term": "Glow-up",
+    "definition": "A dramatic improvement in looks or fortunes",
+    "example": "She had a serious glow-up after university."
+  },
+  {
+    "id": 4,
+    "term": "Flex",
+    "definition": "Show off, usually about money or success",
+    "example": "Posting the receipt was a weird flex."
+  },
+  {
+    "id": 5,
+    "term": "Shook",
+    "definition": "Stunned; badly rattled",
+    "example": "That ending left me shook."
+  },
+  {
+    "id": 6,
+    "term": "Snatched",
+    "definition": "Looking sharp and perfectly put together",
+    "example": "Her hair is snatched today."
+  },
+  {
+    "id": 7,
+    "term": "Salty",
+    "definition": "Bitter and sulky over something small",
+    "example": "He's still salty about losing at cards."
+  },
+  {
+    "id": 8,
+    "term": "Extra",
+    "definition": "Over the top; doing far more than the moment needs",
+    "example": "Fireworks for a birthday? A bit extra."
+  },
+  {
+    "id": 9,
+    "term": "Basic",
+    "definition": "Unoriginal — following every mainstream trend",
+    "example": "Pumpkin spice and a scarf: basic."
+  },
+  {
+    "id": 10,
+    "term": "Tea",
+    "definition": "Gossip",
+    "example": "What's the tea about the new manager?"
+  },
+  {
+    "id": 11,
+    "term": "Spill the tea",
+    "definition": "Tell me the gossip",
+    "example": "Sit down and spill the tea."
+  },
+  {
+    "id": 12,
+    "term": "Throw shade",
+    "definition": "Insult someone subtly rather than openly",
+    "example": "She threw shade at his cooking without naming it."
+  },
+  {
+    "id": 13,
+    "term": "Stan",
+    "definition": "Support someone obsessively",
+    "example": "I stan that band completely."
+  },
+  {
+    "id": 14,
+    "term": "Clapback",
+    "definition": "A sharp, well-aimed reply to criticism",
+    "example": "Her clapback got more likes than the insult."
+  },
+  {
+    "id": 15,
+    "term": "Receipts",
+    "definition": "Screenshots kept as proof",
+    "example": "Say that again — I've got receipts."
+  },
+  {
+    "id": 16,
+    "term": "Breadcrumbing",
+    "definition": "Giving just enough attention to keep someone hooked",
+    "example": "He's not interested, he's breadcrumbing you."
+  },
+  {
+    "id": 17,
+    "term": "Boujee",
+    "definition": "Expensively fancy",
+    "example": "Marble bathroom, very boujee."
+  },
+  {
+    "id": 18,
+    "term": "Catfish",
+    "definition": "Someone using a fake identity online to fool people",
+    "example": "The profile photos were a catfish."
+  },
+  {
+    "id": 19,
+    "term": "Slept on",
+    "definition": "Underrated; unfairly overlooked",
+    "example": "That album was completely slept on."
+  },
+  {
+    "id": 20,
+    "term": "Banger",
+    "definition": "An excellent song",
+    "example": "Every track on it is a banger."
+  },
+  {
+    "id": 21,
+    "term": "Slaps",
+    "definition": "Sounds brilliant",
+    "example": "This chorus absolutely slaps."
+  },
+  {
+    "id": 22,
+    "term": "Lowkey",
+    "definition": "Slightly; secretly",
+    "example": "I'm lowkey enjoying the rain."
+  },
+  {
+    "id": 23,
+    "term": "Highkey",
+    "definition": "Very openly; obviously",
+    "example": "I'm highkey furious about it."
+  },
+  {
+    "id": 24,
+    "term": "On fleek",
+    "definition": "Flawlessly done, especially eyebrows",
+    "example": "Her eyeliner is on fleek."
+  },
+  {
+    "id": 25,
+    "term": "Bae",
+    "definition": "Your partner — \"before anyone else\"",
+    "example": "Cooking dinner for bae tonight."
+  },
+  {
+    "id": 26,
+    "term": "YOLO",
+    "definition": "\"You only live once\" — said before doing something rash",
+    "example": "Booked the flight anyway. YOLO."
+  },
+  {
+    "id": 27,
+    "term": "Swag",
+    "definition": "Confident, stylish presence",
+    "example": "He walked in with all the swag."
+  },
+  {
+    "id": 28,
+    "term": "Totes",
+    "definition": "Totally",
+    "example": "That's totes fine by me."
+  },
+  {
+    "id": 29,
+    "term": "Obvi",
+    "definition": "Obviously",
+    "example": "Obvi I'm coming to your birthday."
+  },
+  {
+    "id": 30,
+    "term": "Adorbs",
+    "definition": "Adorable",
+    "example": "Look at the puppy, adorbs."
+  },
+  {
+    "id": 31,
+    "term": "Presh",
+    "definition": "Precious; sweet",
+    "example": "Your little note was presh."
+  },
+  {
+    "id": 32,
+    "term": "Amazeballs",
+    "definition": "Amazing",
+    "example": "The pudding was amazeballs."
+  },
+  {
+    "id": 33,
+    "term": "Cray-cray",
+    "definition": "Completely mad",
+    "example": "Queuing overnight for it is cray-cray."
+  },
+  {
+    "id": 34,
+    "term": "Squad goals",
+    "definition": "A group whose closeness you envy",
+    "example": "Matching outfits at the wedding — squad goals."
+  },
+  {
+    "id": 35,
+    "term": "Squad",
+    "definition": "Your close group of friends",
+    "example": "Bringing the whole squad on Saturday."
+  },
+  {
+    "id": 36,
+    "term": "Adulting",
+    "definition": "Doing the dull business of being a grown-up",
+    "example": "Paid a bill and booked a dentist: adulting."
+  },
+  {
+    "id": 37,
+    "term": "Humblebrag",
+    "definition": "A boast disguised as a complaint",
+    "example": "\"So tired from all this travelling\" — pure humblebrag."
+  },
+  {
+    "id": 38,
+    "term": "Mansplain",
+    "definition": "Explain something to a woman who knows it better",
+    "example": "He mansplained her own research to her."
+  },
+  {
+    "id": 39,
+    "term": "Hangry",
+    "definition": "Bad-tempered because you need feeding",
+    "example": "Feed him before the meeting, he's hangry."
+  },
+  {
+    "id": 40,
+    "term": "Dad bod",
+    "definition": "A softly unathletic but comfortable physique",
+    "example": "He's embraced the dad bod entirely."
+  },
+  {
+    "id": 41,
+    "term": "Hot mess",
+    "definition": "Someone chaotic but likeable with it",
+    "example": "Late, unbrushed and laughing: a hot mess."
+  },
+  {
+    "id": 42,
+    "term": "Epic fail",
+    "definition": "A spectacular, public mistake",
+    "example": "Spelled his own name wrong — epic fail."
+  },
+  {
+    "id": 43,
+    "term": "FTW",
+    "definition": "\"For the win\" — tagged onto whatever you are championing",
+    "example": "Tea before coffee, FTW."
+  },
+  {
+    "id": 44,
+    "term": "TL;DR",
+    "definition": "\"Too long; didn’t read\" — a summary for the impatient",
+    "example": "TL;DR: the trains are cancelled."
+  },
+  {
+    "id": 45,
+    "term": "ELI5",
+    "definition": "\"Explain like I’m five\" — give me the simple version",
+    "example": "ELI5: how does a mortgage work?"
+  },
+  {
+    "id": 46,
+    "term": "AMA",
+    "definition": "\"Ask me anything\" — an open question session",
+    "example": "I'm a beekeeper, AMA."
+  },
+  {
+    "id": 47,
+    "term": "Pwned",
+    "definition": "Comprehensively beaten",
+    "example": "He got pwned in the first round."
+  },
+  {
+    "id": 48,
+    "term": "Noob",
+    "definition": "A hopeless beginner",
+    "example": "Stop dying at the first jump, noob."
+  },
+  {
+    "id": 49,
+    "term": "Facepalm",
+    "definition": "A gesture of despair at someone’s stupidity",
+    "example": "He locked the keys in the car. Facepalm."
+  },
+  {
+    "id": 50,
+    "term": "Doggo",
+    "definition": "A dog, addressed with great affection",
+    "example": "Look at this good doggo."
+  },
+  {
+    "id": 51,
+    "term": "Pupper",
+    "definition": "A small or young dog",
+    "example": "The pupper has stolen my sock."
+  },
+  {
+    "id": 52,
+    "term": "Floof",
+    "definition": "A conspicuously fluffy animal",
+    "example": "That cat is pure floof."
+  },
+  {
+    "id": 53,
+    "term": "Boop the snoot",
+    "definition": "Tap an animal gently on the nose",
+    "example": "Permission to boop the snoot?"
+  },
+  {
+    "id": 54,
+    "term": "All the feels",
+    "definition": "An overwhelming rush of emotion",
+    "example": "That advert gave me all the feels."
+  },
+  {
+    "id": 55,
+    "term": "I can't even",
+    "definition": "I am too overcome to finish this sentence",
+    "example": "He brought flowers — I can't even."
+  },
+  {
+    "id": 56,
+    "term": "Netflix and chill",
+    "definition": "An evening in that is not really about the film",
+    "example": "She asked if I wanted to Netflix and chill."
+  },
+  {
+    "id": 57,
+    "term": "On point",
+    "definition": "Exactly right; perfectly judged",
+    "example": "The timing of that joke was on point."
+  },
+  {
+    "id": 58,
+    "term": "Subtweet",
+    "definition": "A post about someone without naming them",
+    "example": "That vague post about \"some people\" was a subtweet."
+  },
+  {
+    "id": 59,
+    "term": "Vaguebooking",
+    "definition": "Posting something ominous to fish for attention",
+    "example": "\"Well, that’s that then\" — stop vaguebooking."
+  },
+  {
+    "id": 60,
+    "term": "FOMO",
+    "definition": "\"Fear of missing out\" — the dread that the fun is elsewhere",
+    "example": "Scrolling the party photos gave me FOMO."
+  },
+  {
+    "id": 61,
+    "term": "Yaaas",
+    "definition": "Enthusiastic agreement, drawn out",
+    "example": "Yaaas, you look incredible."
+  },
+  {
+    "id": 62,
+    "term": "Werk",
+    "definition": "Do it, and do it with style",
+    "example": "New coat, new haircut — werk."
+  },
+  {
+    "id": 63,
+    "term": "Wig",
+    "definition": "A reaction to something so good it removed your hairpiece",
+    "example": "That high note? Wig."
+  },
+  {
+    "id": 64,
+    "term": "Lit",
+    "definition": "Brilliant; wildly good fun",
+    "example": "The afterparty was lit."
+  },
+  {
+    "id": 65,
+    "term": "Turnt",
+    "definition": "Worked up into a state of excitement",
+    "example": "Two songs in and the room was turnt."
+  },
+  {
+    "id": 66,
+    "term": "Fam",
+    "definition": "Your people, blood or not",
+    "example": "Thanks for coming out, fam."
+  },
+  {
+    "id": 67,
+    "term": "Savage",
+    "definition": "Brutally, admirably blunt",
+    "example": "Her reply to the complaint was savage."
+  },
+  {
+    "id": 68,
+    "term": "Bye Felicia",
+    "definition": "A dismissal of someone not worth your time",
+    "example": "He left in a huff. Bye Felicia."
+  },
+  {
+    "id": 69,
+    "term": "Sorry not sorry",
+    "definition": "An apology withdrawn as it is offered",
+    "example": "I ate the last one. Sorry not sorry."
+  },
+  {
+    "id": 70,
+    "term": "Ship",
+    "definition": "Wish two people were a couple",
+    "example": "I ship those two completely."
+  },
+  {
+    "id": 71,
+    "term": "OTP",
+    "definition": "\"One true pairing\" — the couple you are most invested in",
+    "example": "They're my OTP and always will be."
+  },
+  {
+    "id": 72,
+    "term": "Fangirl",
+    "definition": "Lose all composure over something you love",
+    "example": "I fangirled when the tour was announced."
+  },
+  {
+    "id": 73,
+    "term": "Cosplay",
+    "definition": "Dress as a character in costume",
+    "example": "She cosplayed the whole crew of the ship."
+  },
+  {
+    "id": 74,
+    "term": "Photobomb",
+    "definition": "Appear uninvited in someone else’s photo",
+    "example": "A seagull photobombed the wedding shot."
+  },
+  {
+    "id": 75,
+    "term": "Man cave",
+    "definition": "A room of the house given over to one man’s hobbies",
+    "example": "The garage is officially his man cave."
+  },
+  {
+    "id": 76,
+    "term": "Staycation",
+    "definition": "A holiday spent at home",
+    "example": "Flights were too dear, so: staycation."
+  },
+  {
+    "id": 77,
+    "term": "Glamping",
+    "definition": "Camping with none of the discomfort",
+    "example": "A yurt with a bath is glamping, not camping."
+  },
+  {
+    "id": 78,
+    "term": "Chillax",
+    "definition": "Calm down and relax",
+    "example": "Chillax, the taxi is only five minutes away."
+  },
+  {
+    "id": 79,
+    "term": "Bromance",
+    "definition": "An intense, entirely platonic friendship between men",
+    "example": "Those two have a full bromance."
+  },
+  {
+    "id": 80,
+    "term": "Frenemy",
+    "definition": "Someone friendly to your face and not behind it",
+    "example": "She's a frenemy at best."
+  },
+  {
+    "id": 81,
+    "term": "Vlog",
+    "definition": "A video diary posted online",
+    "example": "He vlogs every holiday now."
+  },
+  {
+    "id": 82,
+    "term": "Troll",
+    "definition": "Someone who posts to provoke a reaction",
+    "example": "Don't feed the troll."
+  },
+  {
+    "id": 83,
+    "term": "Rickroll",
+    "definition": "Trick someone into a Rick Astley video",
+    "example": "The link was a rickroll."
+  },
+  {
+    "id": 84,
+    "term": "Planking",
+    "definition": "Lying rigid in an absurd place for a photograph",
+    "example": "They went planking on the postbox."
+  },
+  {
+    "id": 85,
+    "term": "Twerk",
+    "definition": "Dance with vigorous hip movement",
+    "example": "She twerked all the way through the chorus."
+  },
+  {
+    "id": 86,
+    "term": "Dab",
+    "definition": "A triumphant pose, head into one elbow",
+    "example": "He scored and hit the dab."
+  },
+  {
+    "id": 87,
+    "term": "Beast mode",
+    "definition": "Total, unrelenting effort",
+    "example": "Third gym session this week — beast mode."
+  },
+  {
+    "id": 88,
+    "term": "Turn up",
+    "definition": "Go out and celebrate hard",
+    "example": "It's Friday, time to turn up."
+  },
+  {
+    "id": 89,
+    "term": "Bling",
+    "definition": "Ostentatious jewellery",
+    "example": "Rings on every finger, all bling."
+  },
+  {
+    "id": 90,
+    "term": "Ballin'",
+    "definition": "Living expensively and letting it show",
+    "example": "New watch, new car — he's ballin'."
+  },
+  {
+    "id": 91,
+    "term": "Ratchet",
+    "definition": "Tacky; rough around the edges",
+    "example": "The whole night got a bit ratchet."
+  },
+  {
+    "id": 92,
+    "term": "Thirsty",
+    "definition": "Transparently desperate for attention",
+    "example": "Commenting on every photo is thirsty."
+  },
+  {
+    "id": 93,
+    "term": "Sick",
+    "definition": "Brilliant — the opposite of what it sounds like",
+    "example": "That skate trick was sick."
+  },
+  {
+    "id": 94,
+    "term": "First world problem",
+    "definition": "A complaint that reveals how comfortable you are",
+    "example": "The wifi is slow in the hot tub — first world problem."
+  },
+  {
+    "id": 95,
+    "term": "Squee",
+    "definition": "A noise of uncontainable delight",
+    "example": "Tickets arrived. Squee!"
+  },
+  {
+    "id": 96,
+    "term": "Nerd out",
+    "definition": "Talk at length about a niche enthusiasm",
+    "example": "We nerded out about maps for an hour."
+  },
+  {
+    "id": 97,
+    "term": "Cool story bro",
+    "definition": "A flat dismissal of something boring you were told",
+    "example": "He described his fantasy team. Cool story bro."
+  },
+  {
+    "id": 98,
+    "term": "Haters gonna hate",
+    "definition": "Criticism says more about them than you",
+    "example": "Ignore the comments — haters gonna hate."
+  },
+  {
+    "id": 99,
+    "term": "Winning",
+    "definition": "Announcing your own triumph, ironically",
+    "example": "Found a parking space outside. Winning."
+  },
+  {
+    "id": 100,
+    "term": "Deets",
+    "definition": "Details",
+    "example": "Send me the deets for Saturday."
   }
 ];
 window.QM_IDIOMSOBSCURE_DATA = [
