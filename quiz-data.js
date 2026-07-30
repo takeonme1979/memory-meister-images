@@ -59841,603 +59841,603 @@ window.QM_IDIOMS_RO_DATA = [
 window.QM_IDIOMS_CS_DATA = [
   {
     "id": 1,
-    "term": "ani mě nehne",
-    "definition": "fat chance that; I'll be damned if; no way",
-    "example": "Ani mě nehne se někdy vracet na Kubu."
+    "term": "Dělat z komára velblouda",
+    "definition": "\"To make a camel out of a mosquito\" — to make a mountain out of a molehill",
+    "example": "Nedělej z komára velblouda, byla to malá chyba."
   },
   {
     "id": 2,
-    "term": "ani ryba ani rak",
-    "definition": "neither fish nor fowl",
-    "example": ""
+    "term": "Být v sedmém nebi",
+    "definition": "\"To be in the seventh heaven\" — to be blissfully happy",
+    "example": "Když dostala tu práci, byla v sedmém nebi."
   },
   {
     "id": 3,
-    "term": "atomový hřib",
-    "definition": "mushroom cloud",
-    "example": ""
+    "term": "Mít hlad jako vlk",
+    "definition": "\"To be as hungry as a wolf\" — to be ravenous",
+    "example": "Po tréninku mám hlad jako vlk."
   },
   {
     "id": 4,
-    "term": "až opadá listí z dubu",
-    "definition": "never, when pigs fly",
-    "example": ""
+    "term": "Mluvit z cesty",
+    "definition": "\"To talk off the road\" — to talk nonsense",
+    "example": "Nemluv z cesty, to se nikdy nestalo."
   },
   {
     "id": 5,
-    "term": "až to bude, tak to bude",
-    "definition": "the work cannot be done earlier or faster; close to an oak is not felled at one stroke",
-    "example": ""
+    "term": "Být za vodou",
+    "definition": "\"To be beyond the water\" — to be home and dry",
+    "example": "Když podepíše tu smlouvu, bude za vodou."
   },
   {
     "id": 6,
-    "term": "bez práce nejsou koláče",
-    "definition": "where there is no work and effort, there are no enjoyable results",
-    "example": ""
+    "term": "Mít hlavu v oblacích",
+    "definition": "\"To have your head in the clouds\" — to be miles away",
+    "example": "Celý den má hlavu v oblacích."
   },
   {
     "id": 7,
-    "term": "blaze tomu, kdo nic nemá, nestará se, kam to schová",
-    "definition": "poor people are often happier because fortune brings worries",
-    "example": ""
+    "term": "Chodit kolem horké kaše",
+    "definition": "\"To walk around hot porridge\" — to beat about the bush",
+    "example": "Nechoď kolem horké kaše a řekni to."
   },
   {
     "id": 8,
-    "term": "blesk z čistého nebe",
-    "definition": "bolt from the blue",
-    "example": ""
+    "term": "Zabít dvě mouchy jednou ranou",
+    "definition": "\"To kill two flies with one blow\" — to kill two birds with one stone",
+    "example": "Zabil dvě mouchy jednou ranou: nakoupil a vyzvedl balík."
   },
   {
     "id": 9,
-    "term": "bouře ve sklenici vody",
-    "definition": "tempest in a teapot",
-    "example": ""
+    "term": "Mít z něčeho těžkou hlavu",
+    "definition": "\"To have a heavy head from something\" — to be worried about it",
+    "example": "Z těch dluhů má těžkou hlavu."
   },
   {
     "id": 10,
-    "term": "být na dvě věci",
-    "definition": "to be worthless, to have no use, to suck",
-    "example": ""
+    "term": "Být jako ryba ve vodě",
+    "definition": "\"To be like a fish in water\" — to be in your element",
+    "example": "Na jevišti je jako ryba ve vodě."
   },
   {
     "id": 11,
-    "term": "být ruka v rukávě",
-    "definition": "something is agreed by both parties, close to signed, sealed, and delivered",
-    "example": "Chodí spolu už dlouho, já myslím, že už je ruka v rukávě."
+    "term": "Házet flintu do žita",
+    "definition": "\"To throw your rifle into the rye\" — to give up",
+    "example": "Neházej flintu do žita, ještě je čas."
   },
   {
     "id": 12,
-    "term": "chytrému napověz, hloupého kopni",
-    "definition": "a word to the wise is sufficient",
-    "example": ""
+    "term": "Vzít někoho na hůl",
+    "definition": "\"To take someone on a stick\" — to fleece them",
+    "example": "V tom bazaru nás vzali na hůl."
   },
   {
     "id": 13,
-    "term": "chytrému napověz, hloupého trkni",
-    "definition": "a nod is as good as a wink",
-    "example": ""
+    "term": "Nemít všech pět pohromadě",
+    "definition": "\"Not to have all five together\" — to have a screw loose",
+    "example": "Kdo tam leze v zimě, nemá všech pět pohromadě."
   },
   {
     "id": 14,
-    "term": "co je šeptem, to je čertem",
-    "definition": "what is whispered is illicit",
-    "example": ""
+    "term": "Být na koni",
+    "definition": "\"To be on the horse\" — to be sitting pretty",
+    "example": "Po té výhře jsme na koni."
   },
   {
     "id": 15,
-    "term": "co můžeš udělat dnes, neodkládej na zítřek",
-    "definition": "procrastination is foolish",
-    "example": ""
+    "term": "Koupit zajíce v pytli",
+    "definition": "\"To buy a hare in a bag\" — to buy a pig in a poke",
+    "example": "Bez prohlídky kupuješ zajíce v pytli."
   },
   {
     "id": 16,
-    "term": "co oči nevidí, to srdce nebolí",
-    "definition": "problems and losses that do not reach the attention cause no worries and no grief: what the eye doesn't see",
-    "example": ""
+    "term": "Mít hluboko do kapsy",
+    "definition": "\"To have deep into the pocket\" — to be short of money",
+    "example": "Teď mám hluboko do kapsy, nikam nejdu."
   },
   {
     "id": 17,
-    "term": "co se v mládí naučíš, ve stáří jako když najdeš",
-    "definition": "what you learn in your youth will be useful when you are old",
-    "example": ""
+    "term": "Tahat někoho za nos",
+    "definition": "\"To pull someone by the nose\" — to lead them on",
+    "example": "Půl roku nás tahal za nos."
   },
   {
     "id": 18,
-    "term": "co tě nepálí, nehas",
-    "definition": "mind one's own business; cobbler, stick to thy last",
-    "example": ""
+    "term": "Být bílá vrána",
+    "definition": "\"To be a white crow\" — to be a rare exception",
+    "example": "Takový učitel je bílá vrána."
   },
   {
     "id": 19,
-    "term": "darovanému koni na zuby nekoukej",
-    "definition": "don't look a gift horse in the mouth",
-    "example": ""
+    "term": "Mlčet jako hrob",
+    "definition": "\"To be silent as a grave\" — to say absolutely nothing",
+    "example": "O tom plánu mlčí jako hrob."
   },
   {
     "id": 20,
-    "term": "devatero řemesel, desátá bída",
-    "definition": "jack of all trades, master of none",
-    "example": ""
+    "term": "Spát jako dudek",
+    "definition": "\"To sleep like a hoopoe\" — to sleep like a log",
+    "example": "Po tom výletu jsem spal jako dudek."
   },
   {
     "id": 21,
-    "term": "do třetice všeho dobrého",
-    "definition": "third time is the charm",
-    "example": ""
+    "term": "Koukat jako tele na nová vrata",
+    "definition": "\"To stare like a calf at a new gate\" — to look utterly baffled",
+    "example": "Koukal jako tele na nová vrata."
   },
   {
     "id": 22,
-    "term": "dvakrát měř, jednou řež",
-    "definition": "measure twice and cut once; verify your plans and the information on which they are based before you execute t",
-    "example": ""
+    "term": "Jít jako po másle",
+    "definition": "\"To go as if on butter\" — to go perfectly smoothly",
+    "example": "Zkouška šla jako po másle."
   },
   {
     "id": 23,
-    "term": "dát někomu pětikorunu",
-    "definition": "to feel sympathy to somebody",
-    "example": "Tvářil se tak nešťastně, že by mu člověk dal pětikorunu."
+    "term": "Vidět svět růžovými brýlemi",
+    "definition": "\"To see the world through pink glasses\" — to be rose-tinted about it",
+    "example": "Vidí svět růžovými brýlemi."
   },
   {
     "id": 24,
-    "term": "dělat z komára velblouda",
-    "definition": "make a mountain out of a molehill",
-    "example": ""
+    "term": "Mít někoho v žaludku",
+    "definition": "\"To have someone in your stomach\" — to be unable to stand them",
+    "example": "Toho kolegu má v žaludku."
   },
   {
     "id": 25,
-    "term": "dštít oheň a síru",
-    "definition": "to rain fire and brimstone",
-    "example": ""
+    "term": "Být v rejži",
+    "definition": "\"To be in the rice\" — to be in trouble",
+    "example": "Když se to zjistí, jsme v rejži."
   },
   {
     "id": 26,
-    "term": "Eridino jablko",
-    "definition": "apple of discord, something which causes argument, rivalry, or strife",
-    "example": ""
+    "term": "Být na dně",
+    "definition": "\"To be at the bottom\" — to have hit rock bottom",
+    "example": "Po rozvodu byl úplně na dně."
   },
   {
     "id": 27,
-    "term": "hlad je nejlepší kuchař",
-    "definition": "hunger is a good sauce",
-    "example": ""
+    "term": "Vzít roha",
+    "definition": "\"To take the corner\" — to bolt",
+    "example": "Když uviděl policii, vzal roha."
   },
   {
     "id": 28,
-    "term": "hlas lidu, hlas boží",
-    "definition": "the voice of the people, the voice of God",
-    "example": ""
+    "term": "Mít filipa",
+    "definition": "\"To have Philip\" — to have a sharp mind",
+    "example": "Ten kluk má filipa."
   },
   {
     "id": 29,
-    "term": "hlavou zeď neprorazíš",
-    "definition": "stubbornness alone does not remove obstacles",
-    "example": ""
+    "term": "Jít někomu od ruky",
+    "definition": "\"To go to someone from the hand\" — to come easily to them",
+    "example": "Vaření mu jde od ruky."
   },
   {
     "id": 30,
-    "term": "hledět si svého",
-    "definition": "to mind one's own business",
-    "example": ""
+    "term": "Nechat někoho na holičkách",
+    "definition": "\"To leave someone bare\" — to leave them in the lurch",
+    "example": "Neopustím tě a nenechám tě na holičkách."
   },
   {
     "id": 31,
-    "term": "hodit flintu do žita",
-    "definition": "to throw in the towel",
-    "example": ""
+    "term": "Mít hroší kůži",
+    "definition": "\"To have hippo skin\" — to be thick-skinned",
+    "example": "Na tuhle práci musíš mít hroší kůži."
   },
   {
     "id": 32,
-    "term": "houby s octem",
-    "definition": "to know nothing",
-    "example": ""
+    "term": "Mít okno",
+    "definition": "\"To have a window\" — to draw a complete blank",
+    "example": "U zkoušky jsem měl okno."
   },
   {
     "id": 33,
-    "term": "i mistr tesař se někdy utne",
-    "definition": "we all make mistakes",
-    "example": ""
+    "term": "Držet někomu palce",
+    "definition": "\"To hold thumbs for someone\" — to keep your fingers crossed",
+    "example": "Drž mi palce u pohovoru."
   },
   {
     "id": 34,
-    "term": "jablko nepadá daleko od stromu",
-    "definition": "the apple doesn't fall far from the tree",
-    "example": ""
+    "term": "Mít máslo na hlavě",
+    "definition": "\"To have butter on your head\" — to have something to hide",
+    "example": "Kdo má máslo na hlavě, ať mlčí."
   },
   {
     "id": 35,
-    "term": "jak se do lesa volá, tak se z lesa ozývá",
-    "definition": "angry and impolite words lead to angry and impolite replies; what goes around comes around",
-    "example": ""
+    "term": "Nosit dříví do lesa",
+    "definition": "\"To carry wood into the forest\" — to do something entirely pointless",
+    "example": "Vysvětlovat mu to je jako nosit dříví do lesa."
   },
   {
     "id": 36,
-    "term": "jak si kdo ustele, tak si lehne",
-    "definition": "as you make your bed, so you must lie in it",
-    "example": ""
+    "term": "Slibovat hory doly",
+    "definition": "\"To promise mountains and valleys\" — to promise the earth",
+    "example": "Před volbami slibují hory doly."
   },
   {
     "id": 37,
-    "term": "jako házet hrách na stěnu",
-    "definition": "like talking to a wall, like talking to a brick wall",
-    "example": ""
+    "term": "Chytat lelky",
+    "definition": "\"To catch nightjars\" — to idle about",
+    "example": "Místo práce chytal lelky."
   },
   {
     "id": 38,
-    "term": "jako kdyby do někoho udeřil blesk",
-    "definition": "to be in shock, surprise or amazement",
-    "example": ""
+    "term": "Mít pod čepicí",
+    "definition": "\"To have it under your cap\" — to be nobody’s fool",
+    "example": "Ta holka má pod čepicí."
   },
   {
     "id": 39,
-    "term": "jedna vlaštovka jaro nedělá",
-    "definition": "one swallow doesn't make a summer",
-    "example": ""
+    "term": "Dát někomu košem",
+    "definition": "\"To give someone a basket\" — to turn them down",
+    "example": "Dala mu košem."
   },
   {
     "id": 40,
-    "term": "jít s kanónem na vrabce",
-    "definition": "to use a sledgehammer to crack a nut",
-    "example": ""
+    "term": "Mít hlavu jako střep",
+    "definition": "\"To have a head like a shard\" — to have a splitting head",
+    "example": "Po té oslavě mám hlavu jako střep."
   },
   {
     "id": 41,
-    "term": "kam čert nemůže, nastrčí ženskou",
-    "definition": "the explanation of why the person caused the problem is that she is a woman",
-    "example": ""
+    "term": "Jít s kůží na trh",
+    "definition": "\"To go to market with your own skin\" — to put yourself on the line",
+    "example": "Musel jít s kůží na trh a přiznat chybu."
   },
   {
     "id": 42,
-    "term": "každý dobrý skutek je po zásluze potrestán",
-    "definition": "no good deed goes unpunished",
-    "example": ""
+    "term": "Mít kliku",
+    "definition": "\"To have a door handle\" — to have a stroke of luck",
+    "example": "Měl kliku, že tam nebyl."
   },
   {
     "id": 43,
-    "term": "kde není žalobce, není soudce",
-    "definition": "where there is no plaintiff, there is no judge",
-    "example": ""
+    "term": "Lít jako z konve",
+    "definition": "\"To pour as from a watering can\" — to rain heavily",
+    "example": "Venku lije jako z konve."
   },
   {
     "id": 44,
-    "term": "kdo chce kam, pomozme mu tam",
-    "definition": "a person should be allowed to proceed in an action harmful to himself if he insists",
-    "example": ""
+    "term": "Nemít na růžích ustláno",
+    "definition": "\"Not to have a bed made of roses\" — to have a hard time of it",
+    "example": "Neměla na růžích ustláno."
   },
   {
     "id": 45,
-    "term": "kdo chce psa bít, hůl si vždycky najde",
-    "definition": "it is easy to find a stick to beat a dog",
-    "example": ""
+    "term": "Nechat to plavat",
+    "definition": "\"To let it float\" — to let it go",
+    "example": "Nech to plavat, nemá cenu se hádat."
   },
   {
     "id": 46,
-    "term": "kdo chce s vlky býti, musí s nimi výti",
-    "definition": "when in Rome do as the Romans do",
-    "example": ""
+    "term": "Vrtat někomu hlavou",
+    "definition": "\"To drill through someone’s head\" — to nag at their thoughts",
+    "example": "Ta věta mi vrtá hlavou."
   },
   {
     "id": 47,
-    "term": "kdo chce, hledá způsoby, kdo nechce, hledá důvody",
-    "definition": "those who want to do something find a way to do it",
-    "example": ""
+    "term": "Být jedna ruka",
+    "definition": "\"To be one hand\" — to be thick as thieves",
+    "example": "Ti dva jsou jedna ruka."
   },
   {
     "id": 48,
-    "term": "lehce nabyl, lehce pozbyl",
-    "definition": "easy come, easy go",
-    "example": ""
+    "term": "Sedět na dvou židlích",
+    "definition": "\"To sit on two chairs\" — to keep two options open at once",
+    "example": "Nedá se sedět na dvou židlích."
   },
   {
     "id": 49,
-    "term": "lepší pozdě než nikdy",
-    "definition": "better late than never",
-    "example": ""
-  },
-  {
-    "id": 50,
-    "term": "lepší vrabec v hrsti nežli holub na střeše",
-    "definition": "a bird in the hand is worth two in the bush",
-    "example": ""
-  },
-  {
-    "id": 51,
-    "term": "lež má krátké nohy",
-    "definition": "a lie has no legs",
-    "example": ""
-  },
-  {
-    "id": 52,
-    "term": "líná huba, holé neštěstí",
-    "definition": "who is lazy to ask a question or to ask for a service will bear bad consequences",
-    "example": ""
-  },
-  {
-    "id": 53,
-    "term": "líná huba, hotové neštěstí",
-    "definition": "those who are too lazy to ask a question or request something cannot profit from the answer they would have go",
-    "example": ""
-  },
-  {
-    "id": 54,
-    "term": "malé ryby taky ryby",
-    "definition": "half a loaf is better than none",
-    "example": ""
-  },
-  {
-    "id": 55,
-    "term": "mazat někomu med kolem huby",
-    "definition": "to soft-soap somebody, to butter someone up",
-    "example": ""
-  },
-  {
-    "id": 56,
-    "term": "mezi slepými je jednooký králem",
-    "definition": "in the land of the blind, the one-eyed man is king",
-    "example": ""
-  },
-  {
-    "id": 57,
-    "term": "mladí ležáci, staří žebráci",
-    "definition": "he who is lazy to work when he is young will be poor in old age",
-    "example": ""
-  },
-  {
-    "id": 58,
-    "term": "mluviti stříbro, mlčeti zlato",
-    "definition": "speech is silver, silence is golden",
-    "example": ""
-  },
-  {
-    "id": 59,
-    "term": "mnoho povolaných, málo vyvolených",
-    "definition": "many are called, but few are chosen",
-    "example": ""
-  },
-  {
-    "id": 60,
-    "term": "mít máslo na hlavě",
-    "definition": "egg on one's face",
-    "example": ""
-  },
-  {
-    "id": 61,
-    "term": "na hrubý pytel hrubá záplata",
-    "definition": "a rude action deserves a rude reaction",
-    "example": ""
-  },
-  {
-    "id": 62,
-    "term": "na každém šprochu pravdy trochu",
-    "definition": "Every statement contains a kernel of truth",
-    "example": ""
-  },
-  {
-    "id": 63,
-    "term": "natrhnout někomu sako",
-    "definition": "to give someone what for, to do somebody over",
-    "example": ""
-  },
-  {
-    "id": 64,
-    "term": "nebuď zvědavej, budeš brzo starej",
-    "definition": "curiosity killed the cat",
-    "example": ""
-  },
-  {
-    "id": 65,
-    "term": "nechval dne před večerem",
-    "definition": "don't count your chickens before they're hatched",
-    "example": ""
-  },
-  {
-    "id": 66,
-    "term": "nejít někomu něco pod fousy",
-    "definition": "not to be happy about something, not to like something",
-    "example": ""
-  },
-  {
-    "id": 67,
-    "term": "není všechno zlato, co se třpytí",
-    "definition": "all that glitters is not gold",
-    "example": ""
-  },
-  {
-    "id": 68,
-    "term": "oddělit zrno od plev",
-    "definition": "to separate the wheat from the chaff",
-    "example": ""
-  },
-  {
-    "id": 69,
-    "term": "odvážnému štěstí přeje",
-    "definition": "fortune favors the bold",
-    "example": ""
-  },
-  {
-    "id": 70,
-    "term": "oheň na střeše",
-    "definition": "conflict",
-    "example": ""
-  },
-  {
-    "id": 71,
-    "term": "oko za oko, zub za zub",
-    "definition": "eye for an eye, a tooth for a tooth",
-    "example": ""
-  },
-  {
-    "id": 72,
-    "term": "opakování matka moudrosti",
-    "definition": "practice makes perfect",
-    "example": ""
-  },
-  {
-    "id": 73,
-    "term": "orel much nelapá",
-    "definition": "don't waste time, attention, calm or money on fighting insignificant enemies",
-    "example": ""
-  },
-  {
-    "id": 74,
-    "term": "po bitvě je každý generál",
-    "definition": "twenty-twenty hindsight, hindsight is 20/20",
-    "example": ""
-  },
-  {
-    "id": 75,
-    "term": "potmě každá kráva černá",
-    "definition": "all cats are grey in the dark",
-    "example": ""
-  },
-  {
-    "id": 76,
-    "term": "potrefená husa se vždycky ozve",
-    "definition": "the person who has the qualities implied or stated in a derogatory hint made by another one will complain of b",
-    "example": ""
-  },
-  {
-    "id": 77,
-    "term": "pro jedno kvítí slunce nesvítí",
-    "definition": "when your beloved woman has broken your heart and left you, you will still fall in love again with another one",
-    "example": ""
-  },
-  {
-    "id": 78,
-    "term": "psi štěkají a karavana jde dál",
-    "definition": "the dogs bark, but the caravan goes on, haters gonna hate",
-    "example": ""
-  },
-  {
-    "id": 79,
-    "term": "před heřmánkem smekni, před bezinkou klekni",
-    "definition": ") and even higher ones of black elder",
-    "example": ""
-  },
-  {
-    "id": 80,
-    "term": "ranní ptáče dál doskáče",
-    "definition": "the early bird gets the worm",
-    "example": ""
-  },
-  {
-    "id": 81,
-    "term": "rodná hrouda",
-    "definition": "native soil",
-    "example": ""
-  },
-  {
-    "id": 82,
-    "term": "ruka ruku myje",
-    "definition": "you scratch my back and I'll scratch yours",
-    "example": ""
-  },
-  {
-    "id": 83,
-    "term": "ruku na srdce",
-    "definition": "in all honesty, in all fairness, honestly, frankly",
-    "example": ""
-  },
-  {
-    "id": 84,
-    "term": "ryba smrdí od hlavy",
-    "definition": "problems with people at lower ranks of an organization are to be traced to similar problems with people in the",
-    "example": ""
-  },
-  {
-    "id": 85,
-    "term": "Rychlé šípy",
-    "definition": "a group of absolutely honest people",
-    "example": ""
-  },
-  {
-    "id": 86,
-    "term": "ráno moudřejší večera",
-    "definition": "sleep on it",
-    "example": ""
-  },
-  {
-    "id": 87,
-    "term": "s chutí do toho, půl je hotovo",
-    "definition": "a good beginning makes a good ending",
-    "example": ""
-  },
-  {
-    "id": 88,
-    "term": "s křížkem po funuse",
-    "definition": "a day late and a dollar short",
+    "term": "Přijít s křížkem po funuse",
+    "definition": "\"To turn up with a little cross after the funeral\" — to arrive far too late",
     "example": "Přišel s křížkem po funuse."
   },
   {
+    "id": 50,
+    "term": "Dopadnout jako sedláci u Chlumce",
+    "definition": "\"To end up like the peasants at Chlumec\" — to be roundly beaten",
+    "example": "Dopadli jsme jako sedláci u Chlumce."
+  },
+  {
+    "id": 51,
+    "term": "Vytřít někomu zrak",
+    "definition": "\"To wipe someone’s eye\" — to show them up",
+    "example": "Vytřel jim zrak."
+  },
+  {
+    "id": 52,
+    "term": "Mít za ušima",
+    "definition": "\"To have it behind your ears\" — to be sly",
+    "example": "Ten má za ušima."
+  },
+  {
+    "id": 53,
+    "term": "Mazat někomu med kolem huby",
+    "definition": "\"To smear honey round someone’s mouth\" — to butter them up",
+    "example": "Přestaň mi mazat med kolem huby."
+  },
+  {
+    "id": 54,
+    "term": "Dělat mrtvého brouka",
+    "definition": "\"To play the dead beetle\" — to keep your head down and say nothing",
+    "example": "Dělal mrtvého brouka, aby se ho nikdo neptal."
+  },
+  {
+    "id": 55,
+    "term": "Kápnout božskou",
+    "definition": "\"To drop the divine one\" — to come clean",
+    "example": "Tak kápni božskou, kde jsi byl?"
+  },
+  {
+    "id": 56,
+    "term": "Být v balíku",
+    "definition": "\"To be in the parcel\" — to be loaded",
+    "example": "Po prodeji firmy je v balíku."
+  },
+  {
+    "id": 57,
+    "term": "Vzít nohy na ramena",
+    "definition": "\"To take your legs onto your shoulders\" — to run for it",
+    "example": "Vzal nohy na ramena a zmizel."
+  },
+  {
+    "id": 58,
+    "term": "Hodit něco za hlavu",
+    "definition": "\"To throw something behind your head\" — to put it behind you",
+    "example": "Hoď to za hlavu a jdi dál."
+  },
+  {
+    "id": 59,
+    "term": "Zůstat na suchu",
+    "definition": "\"To be left on the dry\" — to end up with nothing",
+    "example": "Přišli pozdě a zůstali na suchu."
+  },
+  {
+    "id": 60,
+    "term": "Nemít ani vindru",
+    "definition": "\"Not to have a single farthing\" — to be penniless",
+    "example": "Do výplaty nemám ani vindru."
+  },
+  {
+    "id": 61,
+    "term": "Mít něco pod palcem",
+    "definition": "\"To have something under your thumb\" — to have it firmly in hand",
+    "example": "Celý sklad má pod palcem."
+  },
+  {
+    "id": 62,
+    "term": "Být na roztrhání",
+    "definition": "\"To be for tearing apart\" — to be in great demand",
+    "example": "V prosinci je na roztrhání."
+  },
+  {
+    "id": 63,
+    "term": "Být jako na trní",
+    "definition": "\"To be as if on thorns\" — to be on tenterhooks",
+    "example": "Čekali jsme jako na trní."
+  },
+  {
+    "id": 64,
+    "term": "Mít se jako prase v žitě",
+    "definition": "\"To live like a pig in the rye\" — to be very comfortably off",
+    "example": "Mají se jako prase v žitě."
+  },
+  {
+    "id": 65,
+    "term": "Být pro smích",
+    "definition": "\"To be for laughter\" — to be a laughing stock",
+    "example": "Byl pro smích celé vesnici."
+  },
+  {
+    "id": 66,
+    "term": "Dostat kopačky",
+    "definition": "\"To get the boots\" — to be dumped",
+    "example": "Dostal kopačky po půl roce."
+  },
+  {
+    "id": 67,
+    "term": "Mít oči na stopkách",
+    "definition": "\"To have eyes on stalks\" — to keep a sharp lookout",
+    "example": "Měj oči na stopkách."
+  },
+  {
+    "id": 68,
+    "term": "Padnout někomu do oka",
+    "definition": "\"To fall into someone’s eye\" — to take their fancy",
+    "example": "Hned mu padla do oka."
+  },
+  {
+    "id": 69,
+    "term": "Uhodit hřebíček na hlavičku",
+    "definition": "\"To hit the little nail on its little head\" — to hit the nail on the head",
+    "example": "Uhodil hřebíček na hlavičku."
+  },
+  {
+    "id": 70,
+    "term": "Být v tom až po uši",
+    "definition": "\"To be in it up to your ears\" — to be deep in it",
+    "example": "Je v tom až po uši."
+  },
+  {
+    "id": 71,
+    "term": "Ležet ladem",
+    "definition": "\"To lie fallow\" — to go entirely unused",
+    "example": "Ten pozemek leží ladem."
+  },
+  {
+    "id": 72,
+    "term": "Hrát druhé housle",
+    "definition": "\"To play second violin\" — to play second fiddle",
+    "example": "Nechce hrát druhé housle."
+  },
+  {
+    "id": 73,
+    "term": "Kout pikle",
+    "definition": "\"To forge plots\" — to scheme",
+    "example": "Kují pikle proti šéfovi."
+  },
+  {
+    "id": 74,
+    "term": "Být v jednom kole",
+    "definition": "\"To be in one wheel\" — to be run off your feet",
+    "example": "Od rána jsem v jednom kole."
+  },
+  {
+    "id": 75,
+    "term": "Dělat drahoty",
+    "definition": "\"To make expensiveness\" — to play hard to get",
+    "example": "Nedělej drahoty a pojď s nami."
+  },
+  {
+    "id": 76,
+    "term": "Dát za někoho ruku do ohně",
+    "definition": "\"To put your hand in the fire for someone\" — to vouch for them completely",
+    "example": "Dal bych za ni ruku do ohně."
+  },
+  {
+    "id": 77,
+    "term": "Být tvrdý oříšek",
+    "definition": "\"To be a hard little nut\" — to be a tough nut to crack",
+    "example": "Ten úkol je tvrdý oříšek."
+  },
+  {
+    "id": 78,
+    "term": "Mít dlouhé prsty",
+    "definition": "\"To have long fingers\" — to be light-fingered",
+    "example": "Pozor na něj, má dlouhé prsty."
+  },
+  {
+    "id": 79,
+    "term": "Být trnem v oku",
+    "definition": "\"To be a thorn in the eye\" — to be a constant irritation",
+    "example": "Ta stavba je jim trnem v oku."
+  },
+  {
+    "id": 80,
+    "term": "Být v suchu",
+    "definition": "\"To be in the dry\" — to be out of danger",
+    "example": "Když projde zkouška, jsme v suchu."
+  },
+  {
+    "id": 81,
+    "term": "Třást se jako osika",
+    "definition": "\"To shake like an aspen\" — to tremble all over",
+    "example": "Třásl se jako osika."
+  },
+  {
+    "id": 82,
+    "term": "Být pod pantoflem",
+    "definition": "\"To be under the slipper\" — to be henpecked",
+    "example": "Manžel je pod pantoflem."
+  },
+  {
+    "id": 83,
+    "term": "Být do větru",
+    "definition": "\"To be into the wind\" — to be flighty",
+    "example": "Ta holka je do větru."
+  },
+  {
+    "id": 84,
+    "term": "Lámat nad někým hůl",
+    "definition": "\"To break the stick over someone\" — to give up on them",
+    "example": "Nechci nad ním lámat hůl."
+  },
+  {
+    "id": 85,
+    "term": "Chodit spát se slepicemi",
+    "definition": "\"To go to sleep with the hens\" — to turn in absurdly early",
+    "example": "Na venkově chodí spát se slepicemi."
+  },
+  {
+    "id": 86,
+    "term": "Mít volnou ruku",
+    "definition": "\"To have a free hand\" — to be given free rein",
+    "example": "Dostal volnou ruku."
+  },
+  {
+    "id": 87,
+    "term": "Být sto let za opicemi",
+    "definition": "\"To be a hundred years behind the monkeys\" — to be hopelessly behind the times",
+    "example": "Ten úřad je sto let za opicemi."
+  },
+  {
+    "id": 88,
+    "term": "Být na jedné lodi",
+    "definition": "\"To be in one boat\" — to be in the same boat",
+    "example": "V tomhle jsme na jedné lodi."
+  },
+  {
     "id": 89,
-    "term": "s poctivostí nejdál dojdeš",
-    "definition": "honesty is the best policy",
-    "example": ""
+    "term": "Mít v něčem prsty",
+    "definition": "\"To have fingers in something\" — to be mixed up in it",
+    "example": "Určitě v tom má prsty."
   },
   {
     "id": 90,
-    "term": "sejde z očí, sejde z mysli",
-    "definition": "out of sight, out of mind",
-    "example": ""
+    "term": "Být jako vyměněný",
+    "definition": "\"To be as if exchanged\" — to be a changed person",
+    "example": "Po dovolené je jako vyměněný."
   },
   {
     "id": 91,
-    "term": "spadnout do vlastní jámy",
-    "definition": "to give a taste of one's own medicine, to retaliate",
-    "example": ""
+    "term": "Nechat na sobě dříví štípat",
+    "definition": "\"To let people chop wood on you\" — to be a doormat",
+    "example": "Nenechám na sobě dříví štípat."
   },
   {
     "id": 92,
-    "term": "starého psa novým kouskům nenaučíš",
-    "definition": "you can't teach an old dog new tricks",
-    "example": ""
+    "term": "Mít žízeň jako trám",
+    "definition": "\"To be as thirsty as a beam\" — to be parched",
+    "example": "Mám žízeň jako trám."
   },
   {
     "id": 93,
-    "term": "stokrát nic umořilo osla",
-    "definition": "many small burdens add up to a big crushing burden",
-    "example": ""
+    "term": "Být bez ladu a skladu",
+    "definition": "\"To be without order or structure\" — to be all over the place",
+    "example": "Ta zpráva je bez ladu a skladu."
   },
   {
     "id": 94,
-    "term": "tak dlouho se chodí se džbánem pro vodu, až se ucho utrhne",
-    "definition": "when you use a thing too much, it ultimately breaks down at some point every day the bucket goes to the well b",
-    "example": ""
+    "term": "Nasadit někomu psí hlavu",
+    "definition": "\"To put a dog’s head on someone\" — to pin the blame on them",
+    "example": "Nasadili mu psí hlavu."
   },
   {
     "id": 95,
-    "term": "tichá voda břehy mele",
-    "definition": "still waters run deep",
-    "example": ""
+    "term": "Rána z čistého nebe",
+    "definition": "\"A blow out of a clear sky\" — a bolt from the blue",
+    "example": "Ta výpověď byla rána z čistého nebe."
   },
   {
     "id": 96,
-    "term": "to je gól",
-    "definition": "that is a turn up for the book",
-    "example": ""
+    "term": "Mít před sebou trnitou cestu",
+    "definition": "\"To have a thorny road ahead\" — to face a hard slog",
+    "example": "Ten tým má před sebou trnitou cestu."
   },
   {
     "id": 97,
-    "term": "tonoucí se stébla chytá",
-    "definition": "desperate times call for desperate measures",
-    "example": ""
+    "term": "Zamést něco pod koberec",
+    "definition": "\"To sweep something under the carpet\" — to hush it up",
+    "example": "Celý problém zametli pod koberec."
   },
   {
     "id": 98,
-    "term": "trpělivost růže přináší",
-    "definition": "all things come to those who wait",
-    "example": ""
+    "term": "Mít hlavu na správném místě",
+    "definition": "\"To have your head in the right place\" — to be sensible",
+    "example": "Je mladá, ale má hlavu na správném místě."
   },
   {
     "id": 99,
-    "term": "těžko na cvičišti, lehko na bojišti",
-    "definition": "train hard, fight easy; practice makes perfect",
-    "example": ""
+    "term": "Dělat si z někoho dobrý den",
+    "definition": "\"To make a good day out of someone\" — to make fun of them",
+    "example": "Nedělej si z mě dobrý den."
   },
   {
     "id": 100,
-    "term": "uhodit hřebíček na hlavičku",
-    "definition": "to hit the nail on the head",
-    "example": ""
+    "term": "Být kost a kůže",
+    "definition": "\"To be bone and skin\" — to be skin and bone",
+    "example": "Po nemoci byl kost a kůže."
   }
 ];
 window.QM_NO1S5259_DATA = [
