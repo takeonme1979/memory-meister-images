@@ -2551,7 +2551,6 @@ window.QM_HIDDEN_QUIZZES = [
   "welshCounties",
   "monarchs",
   "genZ",
-  "idiomsObscure",
   "itIdioms",
   "plIdioms",
   "frIdioms",
@@ -2643,9 +2642,7 @@ window.QM_HIDDEN_QUIZZES = [
   "ltAdjectives",
   "rhuAdjectives",
   "rroAdjectives",
-  "rltAdjectives",
-  "idioms3",
-  "idiomsObscure2",
+  "rltAdjectives"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
