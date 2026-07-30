@@ -58671,603 +58671,603 @@ window.QM_IDIOMS_NL_DATA = [
 window.QM_IDIOMS_HU_DATA = [
   {
     "id": 1,
-    "term": "a csapból is folyik",
-    "definition": "to be all over the news, or something that a lot of people are talking about",
-    "example": "A csapból is Michael Jackson folyik."
+    "term": "Kivágja a rezet",
+    "definition": "\"To cut out the copper\" — to pull it off in style",
+    "example": "A vizsgán kivágta a rezet."
   },
   {
     "id": 2,
-    "term": "a háta mögött",
-    "definition": "behind someone's back The 2nd sense of",
-    "example": "A munkatársam szemben hízeleg a főnöknek, de a háta mögött gúnyt űz belőle."
+    "term": "Nem esik messze az alma a fájától",
+    "definition": "\"The apple doesn’t fall far from its tree\" — a chip off the old block",
+    "example": "Ő is orvos lett: nem esik messze az alma a fájától."
   },
   {
     "id": 3,
-    "term": "a pohár fenekére néz",
-    "definition": "to get drunk",
-    "example": "Gyakran a pohár fenekére néz."
+    "term": "Kutyából nem lesz szalonna",
+    "definition": "\"You can’t make bacon out of a dog\" — a leopard never changes its spots",
+    "example": "Megígérte, hogy változik, de kutyából nem lesz szalonna."
   },
   {
     "id": 4,
-    "term": "a volán mögött",
-    "definition": "at the wheel, behind the wheel",
-    "example": "A kevés víz pont olyan, mint a sok alkohol – legalábbis a volán mögött."
+    "term": "Sok lúd disznót győz",
+    "definition": "\"Many geese overcome a pig\" — there is strength in numbers",
+    "example": "Egyedül nem bírnánk vele, de sok lúd disznót győz."
   },
   {
     "id": 5,
-    "term": "a vérében van",
-    "definition": "to be in someone's blood, to be a natural",
-    "example": "A családunk minden tagja gitározik, a zene a vérünkben van."
+    "term": "Bagoly mondja verébnek, hogy nagyfejű",
+    "definition": "\"The owl tells the sparrow it has a big head\" — the pot calling the kettle black",
+    "example": "Te szólsz a késésért? Bagoly mondja verébnek, hogy nagyfejű."
   },
   {
     "id": 6,
-    "term": "ahol a madár se jár",
-    "definition": "in the middle of nowhere, at an out-of-the-way place, on a remote, unfrequented area",
-    "example": "Mit keresel itt, ahol a madár se jár?"
+    "term": "Ajándék lónak ne nézd a fogát",
+    "definition": "\"Don’t look at the teeth of a gift horse\" — don’t find fault with a present",
+    "example": "Használt, de ajándék lónak ne nézd a fogát."
   },
   {
     "id": 7,
-    "term": "ajtót mutat",
-    "definition": "to show someone the door",
-    "example": "Ajtót mutattak nekik."
+    "term": "Ki korán kel, aranyat lel",
+    "definition": "\"Who rises early finds gold\" — the early bird catches the worm",
+    "example": "Hatkor kelek: ki korán kel, aranyat lel."
   },
   {
     "id": 8,
-    "term": "alig áll a lábán",
-    "definition": "to be exhausted, ready to collapse, too tired to stand",
-    "example": "Alig állok a lábamon."
+    "term": "Zsákbamacskát vesz",
+    "definition": "\"To buy a cat in a sack\" — to buy a pig in a poke",
+    "example": "Próba nélkül zsákbamacskát veszel."
   },
   {
     "id": 9,
-    "term": "az asztal alá iszik",
-    "definition": "to drink someone under the table , the person has to be in accusative case",
-    "example": "Akárkit képes az asztal alá inni."
+    "term": "Falra hányt borsó",
+    "definition": "\"Peas thrown at the wall\" — words entirely wasted on someone",
+    "example": "Neki beszélni olyan, mint a falra hányt borsó."
   },
   {
     "id": 10,
-    "term": "bal lábbal kel fel",
-    "definition": "to wake up on the wrong side of the bed, to get up on the wrong side of the bed, to get out of bed on the wrong side",
-    "example": "A főnököm ma bal lábbal kelt fel. Egész nap rosszkedvű volt."
+    "term": "Elveti a sulykot",
+    "definition": "\"To throw the beetle too far\" — to go over the top",
+    "example": "Kicsit elvetette a sulykot azzal a történettel."
   },
   {
     "id": 11,
-    "term": "beadja a derekát",
-    "definition": "to give in, to cave in, to knuckle under",
-    "example": "Nem akartunk télen szabadságra menni, de a gyerekek meggyőztek és mi beadtuk a derekunkat."
+    "term": "Kibújik a szög a zsákból",
+    "definition": "\"The nail pokes out of the sack\" — the truth comes out in the end",
+    "example": "Végül kibújt a szög a zsákból."
   },
   {
     "id": 12,
-    "term": "beletörik a nyelve",
-    "definition": "to stumble over one's tongue",
-    "example": "Beletört a nyelve az idegen szavakba."
+    "term": "Kerülgeti, mint macska a forró kását",
+    "definition": "\"Circling it like a cat round hot porridge\" — beating about the bush",
+    "example": "Ne kerülgesd, mint macska a forró kását."
   },
   {
     "id": 13,
-    "term": "csupa fül",
-    "definition": "all ears, be all ears",
-    "example": "Csupa fül vagyok."
+    "term": "Se füle, se farka",
+    "definition": "\"It has neither ear nor tail\" — it makes no sense at all",
+    "example": "Ennek a jelentésnek se füle, se farka."
   },
   {
     "id": 14,
-    "term": "Dunát lehetne rekeszteni",
-    "definition": "Used to express that there is an abundance of something (). It could also be negative if people are fed up with the exce",
-    "example": "A gyerekeinknek annyi játékuk van, hogy Dunát lehetne rekeszteni velük."
+    "term": "Egy füst alatt",
+    "definition": "\"Under one smoke\" — in the same trip, while we’re at it",
+    "example": "Egy füst alatt elintézem a postát is."
   },
   {
     "id": 15,
-    "term": "egy kalap alá vesz",
-    "definition": "to lump together",
-    "example": "Nem lehet a nyugdíjasokat egy kalap alá venni a dolgozókkal."
+    "term": "Ott van a kutya elásva",
+    "definition": "\"That’s where the dog is buried\" — that’s the real crux of it",
+    "example": "Nincs rá pénz — ott van a kutya elásva."
   },
   {
     "id": 16,
-    "term": "elege van",
-    "definition": "to be fed up",
-    "example": "Elege van a nagyvárosból."
+    "term": "Fából vaskarika",
+    "definition": "\"An iron ring made of wood\" — a flat impossibility",
+    "example": "Olcsón és gyorsan? Az fából vaskarika."
   },
   {
     "id": 17,
-    "term": "elveszti a fejét",
-    "definition": "to lose one's head",
-    "example": "Nagyon megijedtek és elvesztették a fejüket."
+    "term": "Lóg az eső lába",
+    "definition": "\"The rain’s leg is dangling\" — it looks like rain",
+    "example": "Vigyél ernyőt, lóg az eső lába."
   },
   {
     "id": 18,
-    "term": "ember legyen a talpán",
-    "definition": "The phrase refers to a capable, resourceful",
-    "example": "Ember legyen a talpán, aki ezt a feladatot meg tudja oldani."
+    "term": "Sok szakács elsózza a levest",
+    "definition": "\"Too many cooks over-salt the soup\" — too many cooks spoil the broth",
+    "example": "Hagyd rá egyedül: sok szakács elsózza a levest."
   },
   {
     "id": 19,
-    "term": "falra hányt borsó",
-    "definition": "like talking to a wall, like water off a duck's back, wasted breath",
-    "example": "Mindegy, hogy mit mondok neki. Falra hányt borsó."
+    "term": "Kicsi a bors, de erős",
+    "definition": "\"The pepper is small but strong\" — small but not to be underestimated",
+    "example": "Alacsony, de kicsi a bors, de erős."
   },
   {
     "id": 20,
-    "term": "farkaséhes",
-    "definition": "hungry like the wolf",
-    "example": "farkaséhes vagyok."
+    "term": "Madarat lehetne fogatni vele",
+    "definition": "\"You could catch birds with him\" — he’s over the moon",
+    "example": "A hír után madarat lehetett volna fogatni vele."
   },
   {
     "id": 21,
-    "term": "fejébe száll a dicsőség",
-    "definition": "to become swell-headed by success, to go to one's head",
-    "example": "Fejébe szállt a dicsőség!"
+    "term": "Csütörtököt mond",
+    "definition": "\"To say Thursday\" — to misfire, to come to nothing",
+    "example": "A terv csütörtököt mondott."
   },
   {
     "id": 22,
-    "term": "feketeleves",
-    "definition": "the worst or most unpleasant thing of something",
-    "example": "Hátravan még a feketeleves."
+    "term": "Felkopik az álla",
+    "definition": "\"His chin goes bald\" — he’ll be left with nothing to eat",
+    "example": "Ha nem dolgozik, felkopik az álla."
   },
   {
     "id": 23,
-    "term": "furdalja az oldalát",
-    "definition": "to nag at, to be intrigued by",
-    "example": "Furdalta az oldalamat a kíváncsiság."
+    "term": "Fűbe harap",
+    "definition": "\"To bite into the grass\" — to bite the dust",
+    "example": "A film végén a főhős fűbe harap."
   },
   {
     "id": 24,
-    "term": "fából vaskarika",
-    "definition": "contradiction in terms",
-    "example": "Az alkoholmentes sör fából vaskarika."
+    "term": "Nyakára hág a pénznek",
+    "definition": "\"To step on the neck of the money\" — to blow the lot",
+    "example": "Egy hét alatt nyakára hágott a pénznek."
   },
   {
     "id": 25,
-    "term": "fülig szerelmes",
-    "definition": "head over heels in love, over head and ears in love",
-    "example": "Rómeó fülig szerelmes volt Júliába."
+    "term": "Nem fenékig tejfel",
+    "definition": "\"It isn’t sour cream all the way down\" — it’s not all a bed of roses",
+    "example": "Szép állás, de nem fenékig tejfel."
   },
   {
     "id": 26,
-    "term": "gyerekcipőben jár",
-    "definition": "to be in its infancy",
-    "example": "Az űrturizmus most még gyerekcipőben jár."
+    "term": "Kenyértörésre kerül a sor",
+    "definition": "\"It comes to the breaking of bread\" — things come to a head",
+    "example": "Ha kenyértörésre kerül a sor, mellette állok."
   },
   {
     "id": 27,
-    "term": "halálra neveti magát",
-    "definition": "to laugh one's head off",
-    "example": "Vicceket meséltünk és halálra nevettük magunkat."
+    "term": "Két legyet üt egy csapásra",
+    "definition": "\"To hit two flies with one blow\" — to kill two birds with one stone",
+    "example": "Így két legyet ütött egy csapásra."
   },
   {
     "id": 28,
-    "term": "hetedik mennyország",
-    "definition": "seventh heaven",
-    "example": "a hetedik mennyországban van."
+    "term": "Sokat akar a szarka, de nem bírja a farka",
+    "definition": "\"The magpie wants a lot, but its tail can’t take it\" — biting off more than you can chew",
+    "example": "Három munka egyszerre? Sokat akar a szarka, de nem bírja a farka."
   },
   {
     "id": 29,
-    "term": "hátat fordít",
-    "definition": "to turn one's back, to turn away",
-    "example": "Gábor hátat fordított az ablaknak."
+    "term": "Vaj van a fején",
+    "definition": "\"There’s butter on his head\" — he has something to hide",
+    "example": "Az hallgat, akinek vaj van a fején."
   },
   {
     "id": 30,
-    "term": "illúziókba ringat",
-    "definition": "to deceive, to lead (someone) into a fool’s paradise",
-    "example": "Ha azt gondolod, hogy ezt el tudod érni, akkor csak illúziókba ringatod magad."
+    "term": "Vak tyúk is talál szemet",
+    "definition": "\"Even a blind hen finds a grain\" — even a fool gets lucky now and then",
+    "example": "Nyert egyszer: vak tyúk is talál szemet."
   },
   {
     "id": 31,
-    "term": "kedvét szegi",
-    "definition": "to deflate, to let down, to disappoint someone, to spoil one’s happiness",
-    "example": "A büntetés kedvét szegte."
+    "term": "Szegény, mint a templom egére",
+    "definition": "\"As poor as the church’s mouse\" — penniless",
+    "example": "Diákként szegény volt, mint a templom egére."
   },
   {
     "id": 32,
-    "term": "kerek perec",
-    "definition": "point blank, straight from the shoulder, flat out, flat",
-    "example": "Kerek perec visszautasították az ajánlatunkat."
+    "term": "Nem az én asztalom",
+    "definition": "\"It isn’t my table\" — not my department",
+    "example": "A pénzügy nem az én asztalom."
   },
   {
     "id": 33,
-    "term": "kesztyűs kézzel bánik",
-    "definition": "to handle someone with kid gloves, pull punches",
-    "example": "kesztyűs kézzel bánik vetélytársaival."
+    "term": "Kihúzza a gyufát",
+    "definition": "\"To pull out the match\" — to push your luck too far",
+    "example": "Ezzel a megjegyzéssel kihúzta a gyufát."
   },
   {
     "id": 34,
-    "term": "kezet emel",
-    "definition": "to hit someone, to lay a hand on someone, to raise one's hand against or to someone",
-    "example": "Kezet emelt rám!"
+    "term": "Egy gyékényen árulnak",
+    "definition": "\"They sell on the same mat\" — they’re in it together",
+    "example": "A két cég egy gyékényen árul."
   },
   {
     "id": 35,
-    "term": "készpénznek vesz",
-    "definition": "to take something for granted, to believe something word for word without any doubt",
-    "example": "Nem kell készpénznek venni minden szavát!"
+    "term": "Kirúg a hámból",
+    "definition": "\"To kick out of the harness\" — to let your hair down",
+    "example": "Évente egyszer kirúg a hámból."
   },
   {
     "id": 36,
-    "term": "körmére ég",
-    "definition": "to be pressing, overdue",
-    "example": "Körmömre ég a munka."
+    "term": "Lóhalálában",
+    "definition": "\"In horse-death\" — at breakneck speed",
+    "example": "Lóhalálában értünk a repülőtérre."
   },
   {
     "id": 37,
-    "term": "kő kövön nem marad",
-    "definition": "not a stone will be left standing",
-    "example": "Ha az ellenség ideér, itt kő kövön nem marad."
+    "term": "Se hall, se lát",
+    "definition": "\"Neither hears nor sees\" — oblivious to everything around him",
+    "example": "Ha olvas, se hall, se lát."
   },
   {
     "id": 38,
-    "term": "leesik az álla",
-    "definition": "to be very stunned, one's jaw drops",
-    "example": "Fogadok, hogy leesik az álla, ha ezt meghallja!"
+    "term": "Töri a fejét",
+    "definition": "\"To break his head\" — to rack his brains",
+    "example": "Egy órája töri a fejét a feladaton."
   },
   {
     "id": 39,
-    "term": "lerántja a leplet",
-    "definition": "to unmask, expose, reveal, blow the lid off",
-    "example": "Lerántottuk a leplet az árulóról."
+    "term": "Rossz fát tesz a tűzre",
+    "definition": "\"To put bad wood on the fire\" — to get up to mischief",
+    "example": "A gyerekek megint rossz fát tettek a tűzre."
   },
   {
     "id": 40,
-    "term": "látástól vakulásig",
-    "definition": "day and night, from daybreak till nightfall, from morning till night",
-    "example": "Látástól vakulásig dolgoztam."
+    "term": "Az orránál fogva vezet",
+    "definition": "\"To lead him by the nose\" — to string him along",
+    "example": "Hónapokig az orránál fogva vezették."
   },
   {
     "id": 41,
-    "term": "lépést tart",
-    "definition": "to keep abreast of something, keep pace, keep up with",
-    "example": "Próbált lépést tartani az osztálytársaival."
+    "term": "Kosarat ad",
+    "definition": "\"To give a basket\" — to turn someone down",
+    "example": "Kosarat adott neki a bálban."
   },
   {
     "id": 42,
-    "term": "madarat lehetne fogatni",
-    "definition": "to be happy as a lark, to walk on air, to be on cloud nine",
-    "example": "Madarat lehetne fogatni velem."
+    "term": "Két malomban őrölnek",
+    "definition": "\"They grind in two different mills\" — they’re talking at cross purposes",
+    "example": "Észrevettem, hogy két malomban őrölünk."
   },
   {
     "id": 43,
-    "term": "megkéri a kezét",
-    "definition": "to propose marriage , for someone:",
-    "example": "Megszerette a lányt és megkérte a kezét az apjától."
+    "term": "Kutyaharápást szőrével",
+    "definition": "\"Cure a dog bite with its own hair\" — hair of the dog",
+    "example": "Reggel egy sör: kutyaharápást szőrével."
   },
   {
     "id": 44,
-    "term": "megoldja a nyelvét",
-    "definition": "to loosen someone's tongue",
-    "example": "Egy üveg bor majd megoldja a nyelvét."
+    "term": "Nincsen rózsa tövis nélkül",
+    "definition": "\"There is no rose without a thorn\" — nothing good comes without a drawback",
+    "example": "Jó állás, de nincsen rózsa tövis nélkül."
   },
   {
     "id": 45,
-    "term": "megoldódik a nyelve",
-    "definition": "to find one's tongue",
-    "example": "Egy üveg bor után megoldódott a nyelvük."
+    "term": "Amilyen az adjonisten, olyan a fogadjisten",
+    "definition": "\"As the God-give-you, so the God-receive-you\" — you get back what you give",
+    "example": "Ne csodálkozz: amilyen az adjonisten, olyan a fogadjisten."
   },
   {
     "id": 46,
-    "term": "mérget vehet",
-    "definition": "to (be able to) bet the farm, bet one's bottom dollar, bet one's boots, take to the bank",
-    "example": "Nem vennék rá mérget."
+    "term": "Ki mint veti ágyát, úgy alussza álmát",
+    "definition": "\"As you make your bed, so you sleep your dream\" — you made your bed, now lie in it",
+    "example": "Nem készült: ki mint veti ágyát, úgy alussza álmát."
   },
   {
     "id": 47,
-    "term": "nem fenékig tejfel",
-    "definition": "not all beer and skittles, not just fun and games, not a bed of roses",
-    "example": "Az élet nem fenékig tejfel."
+    "term": "Addig nyújtózkodj, ameddig a takaród ér",
+    "definition": "\"Stretch only as far as your blanket reaches\" — cut your coat according to your cloth",
+    "example": "Ne vegyél autót: addig nyújtózkodj, ameddig a takaród ér."
   },
   {
     "id": 48,
-    "term": "nyélbe üt",
-    "definition": "to wrap up, arrange, wind up, conclude",
-    "example": "A jövő héten nyélbe ütünk egy újabb találkozót."
+    "term": "Több szem többet lát",
+    "definition": "\"More eyes see more\" — two heads are better than one",
+    "example": "Nézzük át együtt, több szem többet lát."
   },
   {
     "id": 49,
-    "term": "pálcát tör",
-    "definition": "or fölött to denounce, condemn, criticize someone harshly",
-    "example": "A munkatársaid pálcát törnek feletted, mert figyelmetlen vagy a munkádban."
+    "term": "Ajtóstul ront a házba",
+    "definition": "\"To burst into the house together with the door\" — to blurt it straight out",
+    "example": "Ajtóstul rontott a házba a kéréssel."
   },
   {
     "id": 50,
-    "term": "rossz szemmel néz",
-    "definition": "to frown upon, dislike, disapprove of someone or something",
-    "example": "Lustaságod miatt a többiek rossz szemmel néznek rád."
+    "term": "Egy kaptafára",
+    "definition": "\"On one shoemaker’s last\" — all cut to the same pattern",
+    "example": "Ezek a filmek mind egy kaptafára készülnek."
   },
   {
     "id": 51,
-    "term": "rémeket lát",
-    "definition": "to imagine things, to overreact, to be an alarmist",
-    "example": "Nem lesz semmi bajod. Rémeket látsz."
+    "term": "Faképnél hagy",
+    "definition": "\"To leave someone at the wooden picture\" — to leave them standing there",
+    "example": "A randin faképnél hagyta."
   },
   {
     "id": 52,
-    "term": "se híre, se hamva",
-    "definition": "disappeared without leaving a trace, neither hide nor hair",
-    "example": "A csónaknak se híre, se hamva nem volt."
+    "term": "Felvágták a nyelvét",
+    "definition": "\"His tongue has been cut loose\" — he has the gift of the gab",
+    "example": "Ennek a gyereknek felvágták a nyelvét."
   },
   {
     "id": 53,
-    "term": "se lát, se hall",
-    "definition": "to ignore the outside world, not listening",
-    "example": "Se lát, se hall, csak szorgalmasan dolgozik."
+    "term": "Fabatkát sem ér",
+    "definition": "\"Not worth a wooden farthing\" — completely worthless",
+    "example": "Ez a garancia fabatkát sem ér."
   },
   {
     "id": 54,
-    "term": "szedi a sátorfáját",
-    "definition": "to pull up stakes, to pack up bag and baggage",
-    "example": "Szedd a sátorfádat!"
+    "term": "Fülig szerelmes",
+    "definition": "\"In love up to the ears\" — head over heels",
+    "example": "Első látásra fülig szerelmes lett."
   },
   {
     "id": 55,
-    "term": "szöget üt a fejébe",
-    "definition": "to set one thinking, to put a suspicion in one's mind",
-    "example": "Szöget ütött a fejembe, hogy már hetek óta nem hívott."
+    "term": "Hasra esik valamitől",
+    "definition": "\"To fall on your belly from something\" — to be bowled over by it",
+    "example": "Mindenki hasra esett az új telefontól."
   },
   {
     "id": 56,
-    "term": "síkra száll",
-    "definition": "or to champion, to come out in favor of, to come out in support of, to take up the cudgels for",
-    "example": "Írásunkban a helyes nevelési elvek mellett szállunk síkra."
+    "term": "Jégre visz",
+    "definition": "\"To take someone onto the ice\" — to lead them into a trap",
+    "example": "Az ügynök jégre vitte az ügyfeleket."
   },
   {
     "id": 57,
-    "term": "tele van a hócipője",
-    "definition": "to be fed up",
-    "example": "Tele van a hócipője az egész világgal."
+    "term": "Kenyérre lehet kenni",
+    "definition": "\"You could spread him on bread\" — he’s exceedingly good-natured",
+    "example": "Olyan kedves, hogy kenyérre lehet kenni."
   },
   {
     "id": 58,
-    "term": "torkig van",
-    "definition": "to be fed up",
-    "example": "Torkig vagyok a mindennapos utazással."
+    "term": "Kerek perec",
+    "definition": "\"Round pretzel\" — flatly, point-blank",
+    "example": "Kerek perec megmondta, hogy nem jön."
   },
   {
     "id": 59,
-    "term": "tréfát űz",
-    "definition": "to poke fun (at someone or something: , ), ridicule, make fun of",
-    "example": "Tréfát űznek velem."
+    "term": "Kéz kezet mos",
+    "definition": "\"One hand washes the other\" — you scratch my back, I’ll scratch yours",
+    "example": "Segítettem neki, kéz kezet mos."
   },
   {
     "id": 60,
-    "term": "tűkön ül",
-    "definition": "to be on pins and needles, be on tenterhooks, be like a cat on a hot tin roof, be like a cat on hot bricks",
-    "example": "Ti csak beszéltetek, én pedig itt közben tűkön ültem!"
+    "term": "Kirázza a kisujjából",
+    "definition": "\"To shake it out of his little finger\" — to do it effortlessly",
+    "example": "A beszédet kirázta a kisujjából."
   },
   {
     "id": 61,
-    "term": "tűvé tesz",
-    "definition": "to search meticulously someplace (for someone or something ), to fine-tooth comb, leave no stone unturned",
-    "example": "Tűvé tették a házat a kocsikulcsokért."
+    "term": "Lába kélt",
+    "definition": "\"It grew legs\" — it has gone missing",
+    "example": "Lába kélt a bicikliknek."
   },
   {
     "id": 62,
-    "term": "ujjat húz",
-    "definition": "to pick a fight",
-    "example": "Aki ujjat húz velem, az fizetni fog érte."
+    "term": "Lelke rajta",
+    "definition": "\"Let it be on his soul\" — on his head be it",
+    "example": "Ha nem hallgat rám, lelke rajta."
   },
   {
     "id": 63,
-    "term": "vendégül lát",
-    "definition": "to entertain/host someone, to invite someone over",
-    "example": "Szeretnénk titeket vendégül látni vacsorára."
+    "term": "Megüti a bokáját",
+    "definition": "\"To knock his own ankle\" — to get his comeuppance",
+    "example": "Ha kiderül, megüti a bokáját."
   },
   {
     "id": 64,
-    "term": "vereséget szenved",
-    "definition": "to become defeated",
-    "example": "A válogatott komoly vereséget szenvedett a külföldi csapattól."
+    "term": "Nyakába varr",
+    "definition": "\"To sew it onto someone’s neck\" — to lumber them with it",
+    "example": "Megint rám varrták a szervezést a nyakamba."
   },
   {
     "id": 65,
-    "term": "vádat emel",
-    "definition": "to press charges (against someone: ), bring a charge or an accusation, indict, arraign, impeach someone",
-    "example": "Nem kívánok vádat emelni."
+    "term": "Orrára köt valamit",
+    "definition": "\"To tie something onto his nose\" — to let him in on it",
+    "example": "Nem kötötték az orrára, hogy elköltöztek."
   },
   {
     "id": 66,
-    "term": "vállat von",
-    "definition": "to shrug, to shrug one's shoulders",
-    "example": "Péter vállat vont."
+    "term": "Pórul jár",
+    "definition": "\"To fare badly\" — to come off worst",
+    "example": "Aki sietett, pórul járt."
   },
   {
     "id": 67,
-    "term": "válságba kerül",
-    "definition": "to fall into crisis, get into crisis",
-    "example": "Szüleik válása után a gyerekek mély lelki válságba kerültek."
+    "term": "Se szeri, se száma",
+    "definition": "\"Neither order nor number to it\" — countless",
+    "example": "Se szeri, se száma a példáknak."
   },
   {
     "id": 68,
-    "term": "vége szakad",
-    "definition": "to stop, end, cease, come to an end",
-    "example": "Egyszer minden jónak vége szakad."
+    "term": "Sok víz lefolyik addig a Dunán",
+    "definition": "\"A lot of water will flow down the Danube by then\" — that’s a long way off yet",
+    "example": "Nyugdíjas kor? Sok víz lefolyik addig a Dunán."
   },
   {
     "id": 69,
-    "term": "vége van",
-    "definition": "to be over, to be finished",
-    "example": "A botnak két vége van."
+    "term": "Szemet szúr",
+    "definition": "\"To prick the eye\" — to strike you as odd",
+    "example": "Szemet szúrt, hogy üres volt az iroda."
   },
   {
     "id": 70,
-    "term": "véget vet",
-    "definition": "to put an end to, put a stop to, bring an end to, bring to an end, put the kibosh on",
-    "example": "Elköltöztünk a városból és ez véget vetett a barátságunknak."
+    "term": "Tele van a hócipője",
+    "definition": "\"His snow boots are full\" — he’s had quite enough of it",
+    "example": "Tele van a hócipőm ezzel a vitával."
   },
   {
     "id": 71,
-    "term": "véka alá rejt",
-    "definition": "to hide, conceal",
-    "example": "Véka alá rejted a tehetségedet."
+    "term": "Tűkön ül",
+    "definition": "\"Sitting on pins\" — on tenterhooks",
+    "example": "Az eredményre várva tűkön ültünk."
   },
   {
     "id": 72,
-    "term": "véka alá rejti a tehetségét",
-    "definition": "to hide one's light under a bushel",
-    "example": "Véka alá rejted a tehetségedet."
+    "term": "Zöld ágra vergődik",
+    "definition": "\"To struggle onto a green branch\" — to get somewhere in life",
+    "example": "Sokáig nem vergődött zöld ágra."
   },
   {
     "id": 73,
-    "term": "vérig sért",
-    "definition": "to insult/offend someone mortally, cut to the quick, draw blood",
-    "example": "A megjegyzéseddel vérig sértetted a barátaimat."
+    "term": "Veri az ördög a feleségét",
+    "definition": "\"The devil is beating his wife\" — rain while the sun shines",
+    "example": "Süt a nap és esik: veri az ördög a feleségét."
   },
   {
     "id": 74,
-    "term": "zavarba hoz",
-    "definition": "to embarrass someone",
-    "example": "A kérdés zavarba hozott."
+    "term": "Vizet prédikál, bort iszik",
+    "definition": "\"He preaches water and drinks wine\" — do as I say, not as I do",
+    "example": "Spórolásról beszél: vizet prédikál, bort iszik."
   },
   {
     "id": 75,
-    "term": "álom jön a szemére",
-    "definition": "to be able to fall asleep",
-    "example": "Múlt éjjel nem jött álom a szememre."
+    "term": "Két pofára eszik",
+    "definition": "\"To eat with both cheeks\" — to tuck in greedily",
+    "example": "A gyerekek két pofára ették a süteményt."
   },
   {
     "id": 76,
-    "term": "égnek áll",
-    "definition": "to stand on end",
-    "example": "Égnek állt a hajam, amikor meghallottam a gyilkosság részleteit."
+    "term": "Se pénz, se posztó",
+    "definition": "\"Neither money nor cloth\" — nothing to show for it at all",
+    "example": "Egy év munka, aztán se pénz, se posztó."
   },
   {
     "id": 77,
-    "term": "útban van",
-    "definition": "to be in the way, get in the way, to get under one's feet",
-    "example": "A segítség útban van."
+    "term": "Beadja a kulcsot",
+    "definition": "\"To hand in the key\" — to kick the bucket",
+    "example": "Kilencvenévesen adta be a kulcsot."
   },
   {
     "id": 78,
-    "term": "a baj nem jár egyedül",
-    "definition": "when it rains, it pours, it never rains but it pours, misfortunes never come singly",
-    "example": ""
+    "term": "Csöbörből vödörbe",
+    "definition": "\"From a tub into a bucket\" — out of the frying pan into the fire",
+    "example": "Új munkahely, régi gondok: csöbörből vödörbe."
   },
   {
     "id": 79,
-    "term": "a biztonság kedvéért",
-    "definition": "to be on the safe side",
-    "example": ""
+    "term": "Dugába dől",
+    "definition": "\"To collapse into barrel staves\" — to fall through",
+    "example": "Az eső miatt dugába dőlt a terv."
   },
   {
     "id": 80,
-    "term": "a cipész maradjon a kaptafánál",
-    "definition": "cobbler, keep to your last",
-    "example": ""
+    "term": "Éhes, mint a farkas",
+    "definition": "\"As hungry as the wolf\" — ravenous",
+    "example": "Edzés után éhes vagyok, mint a farkas."
   },
   {
     "id": 81,
-    "term": "a cél szentesíti az eszközt",
-    "definition": "the end justifies the means",
-    "example": ""
+    "term": "Ég a keze alatt a munka",
+    "definition": "\"Work burns under his hands\" — he gets through it at speed",
+    "example": "Ég a keze alatt a munka, már kész is."
   },
   {
     "id": 82,
-    "term": "a falnak is füle van",
-    "definition": "walls have ears",
-    "example": ""
+    "term": "Farkasszemet néz",
+    "definition": "\"To look wolf-eye\" — to stare each other down",
+    "example": "A két csapat farkasszemet nézett."
   },
   {
     "id": 83,
-    "term": "a füle botját sem mozdítja",
-    "definition": "to turn a deaf ear, not respond, ignore a request, give no answer",
-    "example": ""
+    "term": "Fejjel megy a falnak",
+    "definition": "\"To go head-first at the wall\" — to attempt the impossible",
+    "example": "Ne menj fejjel a falnak, kérj segítséget."
   },
   {
     "id": 84,
-    "term": "a hallgatás beleegyezés",
-    "definition": "silence is consent",
-    "example": ""
+    "term": "Fogához veri a garast",
+    "definition": "\"He knocks the penny against his tooth\" — he counts every last coin",
+    "example": "Gazdag, de fogához veri a garast."
   },
   {
     "id": 85,
-    "term": "a harag rossz tanácsadó",
-    "definition": "Decisions and actions made in anger will be later regretted",
-    "example": ""
+    "term": "Fűt-fát ígér",
+    "definition": "\"To promise grass and tree\" — to promise the earth",
+    "example": "Választás előtt fűt-fát ígérnek."
   },
   {
     "id": 86,
-    "term": "a hazug embert hamarabb utolérik, mint a sánta kutyát",
-    "definition": "a lie has no legs",
-    "example": ""
+    "term": "Görbe utakon jár",
+    "definition": "\"To walk crooked roads\" — to be up to no good",
+    "example": "Az utóbbi időben görbe utakon jár."
   },
   {
     "id": 87,
-    "term": "a jég hátán is megél",
-    "definition": "to get by/make it anywhere",
-    "example": ""
+    "term": "Hallgat, mint a sír",
+    "definition": "\"Silent as the grave\" — saying absolutely nothing",
+    "example": "Az ügyről hallgat, mint a sír."
   },
   {
     "id": 88,
-    "term": "a jó kezdet fél siker",
-    "definition": "well begun is half done",
-    "example": ""
+    "term": "Nem enged a negyvennyolcból",
+    "definition": "\"He won’t give up any of the forty-eight\" — he won’t budge an inch",
+    "example": "Az árából nem enged a negyvennyolcból."
   },
   {
     "id": 89,
-    "term": "a kivétel erősíti a szabályt",
-    "definition": "the exception proves the rule",
-    "example": ""
+    "term": "Nem mind arany, ami fénylik",
+    "definition": "\"Not all that shines is gold\" — all that glitters is not gold",
+    "example": "Szép a külső, de nem mind arany, ami fénylik."
   },
   {
     "id": 90,
-    "term": "a kocka el van vetve",
-    "definition": "the die is cast",
-    "example": ""
+    "term": "Aki á-t mond, mondjon b-t is",
+    "definition": "\"Who says A should say B too\" — in for a penny, in for a pound",
+    "example": "Elkezdted: aki á-t mond, mondjon b-t is."
   },
   {
     "id": 91,
-    "term": "a kutya ugat, a karaván halad",
-    "definition": "the dogs bark, but the caravan goes on",
-    "example": ""
+    "term": "Elhúzza a csíkot",
+    "definition": "\"To draw the stripe away\" — to clear off sharpish",
+    "example": "Amikor meglátta a főnököt, elhúzta a csíkot."
   },
   {
     "id": 92,
-    "term": "a kákán is csomót keres",
-    "definition": "to seek a knot in a bulrush",
-    "example": ""
+    "term": "Nem fűlik hozzá a foga",
+    "definition": "\"His tooth doesn’t warm to it\" — he has no appetite for it",
+    "example": "Nem fűlik a foga a költözéshez."
   },
   {
     "id": 93,
-    "term": "a könyökén jön ki",
-    "definition": "to have something ad nauseam, to be fed up with, to be tired of, to be sick of, to feel overwhelmed with something",
-    "example": ""
+    "term": "Kiönti a szívét",
+    "definition": "\"To pour out his heart\" — to unburden himself",
+    "example": "Este kiöntötte a szívét a barátjának."
   },
   {
     "id": 94,
-    "term": "a látszat csal",
-    "definition": "appearances are deceptive",
-    "example": ""
+    "term": "Fejére olvassa",
+    "definition": "\"To read it onto his head\" — to hold it against him to his face",
+    "example": "Fejére olvasták a régi hibáit."
   },
   {
     "id": 95,
-    "term": "a lélek kész, de a test erőtlen",
-    "definition": "the spirit is willing but the flesh is weak",
-    "example": ""
+    "term": "Nyakig ül a bajban",
+    "definition": "\"Sitting up to the neck in trouble\" — deep in it",
+    "example": "Az adósságokkal nyakig ül a bajban."
   },
   {
     "id": 96,
-    "term": "a nagy Ő",
-    "definition": "an ideal or idealized romantic partner; the one, Mister/Miss Right",
-    "example": ""
+    "term": "Fapofával",
+    "definition": "\"With a wooden face\" — completely deadpan",
+    "example": "Fapofával mondta el a viccet."
   },
   {
     "id": 97,
-    "term": "a pénz nem boldogít",
-    "definition": "money can't buy happiness",
-    "example": ""
+    "term": "A látszat csal",
+    "definition": "\"Appearances deceive\" — things are not what they seem",
+    "example": "Csendesnek tűnik, de a látszat csal."
   },
   {
     "id": 98,
-    "term": "a rest kétszer fárad",
-    "definition": "a stitch in time saves nine",
-    "example": ""
+    "term": "Húzza a lóbőrt",
+    "definition": "\"To pull the horsehide\" — to be fast asleep, snoring",
+    "example": "Már tíz óra, ő meg húzza a lóbőrt."
   },
   {
     "id": 99,
-    "term": "a sarkára áll",
-    "definition": "to assert one's will, to be firm, to stick to one's guns",
-    "example": ""
+    "term": "Ép testben ép lélek",
+    "definition": "\"A sound mind in a sound body\" — look after the body and the mind follows",
+    "example": "Reggel futok: ép testben ép lélek."
   },
   {
     "id": 100,
-    "term": "a sors fintora",
-    "definition": "irony, twist of fate, quirk of fate",
-    "example": ""
+    "term": "Kicsúszik a lába alól a talaj",
+    "definition": "\"The ground slips out from under his feet\" — he loses his footing in life",
+    "example": "Az elbocsátás után kicsúszott a lába alól a talaj."
   }
 ];
 window.QM_IDIOMS_RO_DATA = [
