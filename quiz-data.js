@@ -2755,7 +2755,7 @@ window.QM_MUSICIANS_DATA = [
   },
   {
     "id": "id_1783700835372_gopoczgeooi",
-    "name": "Cheryl Cole",
+    "name": "Cheryl Cole (Girls Aloud)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/musicians/cheryl.jpg",
     "focalX": 50,
     "focalY": 36.32923958475814,
@@ -2840,7 +2840,7 @@ window.QM_MUSICIANS_DATA = [
   },
   {
     "id": "id_1783551205698_bnpz7s5u1y",
-    "name": "Florence Welch",
+    "name": "Florence Welch (Florence + the Machine)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/musicians/florence-welch.jpg",
     "focalX": 50,
     "focalY": 22.213483146067418,
@@ -3083,7 +3083,7 @@ window.QM_MUSICIANS_DATA = [
   },
   {
     "id": "id_1783551205698_n2q7fyve7t",
-    "name": "Nadine Coyle",
+    "name": "Nadine Coyle (Girls Aloud)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/musicians/nadine-coyle.png",
     "focalX": 60.583022928584064,
     "focalY": 7.9683407587761765,
@@ -3100,7 +3100,7 @@ window.QM_MUSICIANS_DATA = [
   },
   {
     "id": "id_1783876338044_nicolescherzinger",
-    "name": "Nicole Scherzinger",
+    "name": "Nicole Scherzinger (The Pussycat Dolls)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/musicians/nicole-scherzinger.jpg",
     "focalX": 45.63267617727137,
     "focalY": 48.61611793791019,
@@ -3404,7 +3404,7 @@ window.QM_MALE2010S_DATA = [
     "focalY": 18.267858164651052,
     "zoom": 1,
     "id": "id_1783709881380_u2751z283d",
-    "name": "Harry Styles",
+    "name": "Harry Styles (One Direction)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-2010s/harry-styles.jpg"
   },
   {
@@ -3412,7 +3412,7 @@ window.QM_MALE2010S_DATA = [
     "focalY": 35.47831684339038,
     "zoom": 1,
     "id": "id_1783709881380_uccf8ezw67",
-    "name": "Zayn",
+    "name": "Zayn (One Direction)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-2010s/zayn-malik.jpg"
   },
   {
@@ -3564,7 +3564,7 @@ window.QM_MALE2010S_DATA = [
     "focalY": 9.997840172786177,
     "zoom": 1,
     "id": "id_1783819014393_ckhfvw1xrq",
-    "name": "Will.i.am",
+    "name": "Will.i.am (The Black Eyed Peas)",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA0LVKm6UTmSqzE5WAkkxRXi58-upDaWHxafh7u5mAug&s=10",
     "brightness": 1,
     "contrast": 1,
@@ -4442,7 +4442,7 @@ window.QM_MALE90S_DATA = [
     "focalY": 0,
     "zoom": 1,
     "id": "id_1783709881384_jism197zpy",
-    "name": "Gary Barlow",
+    "name": "Gary Barlow (Take That)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-90s/gary-barlow.webp",
     "brightness": 1,
     "contrast": 1,
@@ -4939,7 +4939,7 @@ window.QM_MALE90S_DATA = [
   },
   {
     "id": "id_1783797009433_b25qn2qqpc",
-    "name": "Ronan Keating",
+    "name": "Ronan Keating (Boyzone)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-90s/ronan-keating-90s.jpg",
     "brightness": 1,
     "contrast": 1,
@@ -5072,7 +5072,7 @@ window.QM_FEMALE90S_DATA = [
     "focalY": 14.00415444997031,
     "zoom": 1.1,
     "id": "id_1783709881393_um27m9aof4",
-    "name": "Annie Lennox",
+    "name": "Annie Lennox (Eurythmics)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-90s/annie-lennox.jpg",
     "brightness": 1,
     "contrast": 1,
@@ -5081,7 +5081,7 @@ window.QM_FEMALE90S_DATA = [
   },
   {
     "id": "id_1783797009433_u1nouih1js",
-    "name": "Belinda Carlisle",
+    "name": "Belinda Carlisle (The Go-Go's)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-90s/belinda-carlisle-90s.jpg",
     "focalX": 0,
     "focalY": 0,
@@ -5309,7 +5309,7 @@ window.QM_FEMALE90S_DATA = [
   },
   {
     "id": "id_1783797009433_vesggf9uze",
-    "name": "Geri Halliwell",
+    "name": "Geri Halliwell (Spice Girls)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-90s/geri-halliwell.jpg",
     "focalX": 50,
     "focalY": 22.523359312921283,
@@ -5393,7 +5393,7 @@ window.QM_FEMALE90S_DATA = [
   },
   {
     "id": "id_1783808142368_qdkezw7775",
-    "name": "Kim Appleby",
+    "name": "Kim Appleby (Mel and Kim)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-90s/kim-appleby.jpg",
     "focalX": 50,
     "focalY": 31.817471861355095,
@@ -5453,7 +5453,7 @@ window.QM_FEMALE90S_DATA = [
   },
   {
     "id": "id_1783808142368_36oq5epp73",
-    "name": "Louise",
+    "name": "Louise (Eternal)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-90s/louise-redknapp-90s.webp",
     "focalX": 48.211371614937455,
     "focalY": 7.641357588221098,
@@ -5573,7 +5573,7 @@ window.QM_FEMALE90S_DATA = [
   },
   {
     "id": "id_1783876338044_melaniec",
-    "name": "Melanie C",
+    "name": "Melanie C (Spice Girls)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-90s/melanie-c.jpg",
     "focalX": 56.25060359625411,
     "focalY": 21.095341590947054,
@@ -6036,7 +6036,7 @@ window.QM_MALE00S_DATA = [
   },
   {
     "id": "id_1783709881388_qai8r9h0er",
-    "name": "Ronan Keating",
+    "name": "Ronan Keating (Boyzone)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/ronan-keating.jpg"
   },
   {
@@ -6322,7 +6322,7 @@ window.QM_MALE00S_DATA = [
   },
   {
     "id": "id_1783876338044_chesterbennington",
-    "name": "Chester Bennington",
+    "name": "Chester Bennington (Linkin Park)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/chester-bennington.jpg"
   }
 ];
@@ -6464,7 +6464,7 @@ window.QM_FEMALE00S_DATA = [
     "focalY": 18,
     "zoom": 1,
     "id": "id_1783709881389_o71lopm465",
-    "name": "Fergie",
+    "name": "Fergie (The Black Eyed Peas)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/fergie.jpg"
   },
   {
@@ -6504,7 +6504,7 @@ window.QM_FEMALE00S_DATA = [
     "focalY": 18,
     "zoom": 1,
     "id": "id_1783709881389_o89rm0lk83",
-    "name": "Emma Bunton",
+    "name": "Emma Bunton (Spice Girls)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/emma-bunton.png"
   },
   {
@@ -6560,7 +6560,7 @@ window.QM_FEMALE00S_DATA = [
     "focalY": 18,
     "zoom": 1,
     "id": "id_1783709881385_dtmrcpvae9",
-    "name": "Gwen Stefani",
+    "name": "Gwen Stefani (No Doubt)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/gwen-stefani.jpg"
   },
   {
@@ -6568,7 +6568,7 @@ window.QM_FEMALE00S_DATA = [
     "focalY": 18,
     "zoom": 1,
     "id": "id_1783709881386_a1mj1upr14",
-    "name": "Melanie C",
+    "name": "Melanie C (Spice Girls)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/melanie-c.jpg"
   },
   {
@@ -6708,7 +6708,7 @@ window.QM_FEMALE00S_DATA = [
     "focalY": 18,
     "zoom": 1,
     "id": "id_1783819098206_yoqrpvgytd",
-    "name": "Kelly Rowland",
+    "name": "Kelly Rowland (Destiny's Child)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/kelly-rowland-00s.jpg"
   },
   {
@@ -6788,7 +6788,7 @@ window.QM_FEMALE00S_DATA = [
     "focalY": 18,
     "zoom": 1,
     "id": "id_1783819098206_m9nyb9dofx",
-    "name": "Cheryl Cole",
+    "name": "Cheryl Cole (Girls Aloud)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/cheryl-cole-00s.jpg"
   },
   {
@@ -6840,7 +6840,7 @@ window.QM_FEMALE00S_DATA = [
   },
   {
     "id": "id_1783819098206_17qbj3hqc4",
-    "name": "Victoria Beckham",
+    "name": "Victoria Beckham (Spice Girls)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/victoria-beckham-00s.jpg?v=1784296789989"
   },
   {
@@ -7832,7 +7832,7 @@ window.QM_FEMALE80S_DATA = [
   },
   {
     "id": "id_1783709881392_2z5i8sbryl",
-    "name": "Alison Moyet",
+    "name": "Alison Moyet (Yazoo)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-80s/alison-moyet.jpg"
   },
   {
@@ -7884,7 +7884,7 @@ window.QM_FEMALE80S_DATA = [
   },
   {
     "id": "id_1783709881393_ggmszvangf",
-    "name": "Belinda Carlisle",
+    "name": "Belinda Carlisle (The Go-Go's)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-80s/belinda-carlisle.jpg"
   },
   {
@@ -7935,7 +7935,7 @@ window.QM_FEMALE80S_DATA = [
   },
   {
     "id": "id_1783709881393_62ww6xrekb",
-    "name": "Clare Grogan",
+    "name": "Clare Grogan (Altered Images)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-80s/clare-grogan.jpg"
   },
   {
@@ -7943,7 +7943,7 @@ window.QM_FEMALE80S_DATA = [
     "focalY": 18,
     "zoom": 1,
     "id": "id_1783709881393_w4faz4g2pr",
-    "name": "Tracey Thorn",
+    "name": "Tracey Thorn (Everything but the Girl)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-80s/tracey-thorn.jpg"
   },
   {
@@ -8349,7 +8349,7 @@ window.QM_MALE60S_DATA = [
   },
   {
     "id": "id_1783715420476_ofh69zvk9t",
-    "name": "Georgie Fame",
+    "name": "Georgie Fame (The Blue Flames)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/georgie-fame.jpg?v=1784294910584"
   },
   {
@@ -8359,7 +8359,7 @@ window.QM_MALE60S_DATA = [
   },
   {
     "id": "id_1783715420476_h8xiik5eap",
-    "name": "Scott Walker",
+    "name": "Scott Walker (The Walker Brothers)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/scott-walker.jpg"
   },
   {
@@ -8380,12 +8380,12 @@ window.QM_MALE60S_DATA = [
     "focalY": 18,
     "zoom": 1,
     "id": "id_1783715420476_1yu7be6fei",
-    "name": "Gerry Marsden",
+    "name": "Gerry Marsden (Gerry and the Pacemakers)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/gerry-marsden.jpg"
   },
   {
     "id": "id_1783715420476_wx5tx1ajeo",
-    "name": "Peter Noone",
+    "name": "Peter Noone (Herman's Hermits)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-60s/peter-noone.jpg?v=1784294910584"
   },
   {
@@ -9208,17 +9208,17 @@ window.QM_MALE70S_DATA = [
   },
   {
     "id": "id_1784112229105_51yohvb677",
-    "name": "John Lennon",
+    "name": "John Lennon (The Beatles)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/john-lennon.jpg"
   },
   {
     "id": "id_1784112229105_iu7bbxd9ro",
-    "name": "George Harrison",
+    "name": "George Harrison (The Beatles)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/george-harrison.jpg"
   },
   {
     "id": "id_1784112229105_0j86mujglg",
-    "name": "Ringo Starr",
+    "name": "Ringo Starr (The Beatles)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/ringo-starr.jpg"
   },
   {
@@ -9263,12 +9263,12 @@ window.QM_MALE70S_DATA = [
   },
   {
     "id": "id_1784112229105_6mhszbbcys",
-    "name": "David Cassidy",
+    "name": "David Cassidy (The Partridge Family)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/david-cassidy.jpg"
   },
   {
     "id": "id_1784112229105_1mn4scxqkf",
-    "name": "Donny Osmond",
+    "name": "Donny Osmond (The Osmonds)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/donny-osmond.jpg"
   },
   {
@@ -9363,7 +9363,7 @@ window.QM_MALE70S_DATA = [
   },
   {
     "id": "id_1784112229105_6y38haqo4a",
-    "name": "Smokey Robinson",
+    "name": "Smokey Robinson (The Miracles)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/smokey-robinson.jpg"
   },
   {
@@ -9373,12 +9373,12 @@ window.QM_MALE70S_DATA = [
   },
   {
     "id": "id_1784112229105_q7tfmhjcha",
-    "name": "Lou Reed",
+    "name": "Lou Reed (The Velvet Underground)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/lou-reed.jpg"
   },
   {
     "id": "id_1784112229105_3yeslurv57",
-    "name": "Iggy Pop",
+    "name": "Iggy Pop (The Stooges)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/iggy-pop.jpg"
   },
   {
@@ -9488,12 +9488,12 @@ window.QM_MALE70S_DATA = [
   },
   {
     "id": "id_1784112229105_iz4nrohfus",
-    "name": "Art Garfunkel",
+    "name": "Art Garfunkel (Simon & Garfunkel)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/art-garfunkel.jpg"
   },
   {
     "id": "id_1784112229105_anp8zdgqfj",
-    "name": "Paul Simon",
+    "name": "Paul Simon (Simon & Garfunkel)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/paul-simon.jpg"
   },
   {
