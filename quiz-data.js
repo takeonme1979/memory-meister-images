@@ -22901,7 +22901,7 @@ window.QM_OSCARSUPACTRESS40_DATA = [
 window.QM_OSCARDIRECTOR00_DATA = [
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 53.026714072267666,
     "zoom": 1,
     "id": "id_oscarDirector00_2000",
     "name": "Steven Soderbergh (Traffic, 2000)",
@@ -22914,7 +22914,7 @@ window.QM_OSCARDIRECTOR00_DATA = [
   {
     "focalX": 50,
     "focalY": 18,
-    "zoom": 1,
+    "zoom": 1.05,
     "id": "id_oscarDirector00_2001",
     "name": "Ron Howard (A Beautiful Mind, 2001)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/film/oscarDirector00/ron-howard.jpg",
