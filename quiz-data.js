@@ -80486,603 +80486,609 @@ window.QM_IDIOMS_ES_DATA = [
 window.QM_IDIOMS_PT_DATA = [
   {
     "id": 1,
-    "term": "a beleza está nos olhos de quem a vê",
-    "definition": "beauty is in the eye of the beholder",
-    "example": ""
+    "term": "Ficar a ver navios",
+    "definition": "“To be left watching ships” — to be left empty-handed; to miss out",
+    "example": "Chegámos tarde e ficámos a ver navios — já não havia bilhetes."
   },
   {
     "id": 2,
-    "term": "a casa de um homem é o seu castelo",
-    "definition": "a man's home is his castle",
-    "example": ""
+    "term": "Pagar o pato",
+    "definition": "“To pay for the duck” — to carry the blame for someone else",
+    "example": "Foram todos os outros que fizeram asneira, mas fui eu que paguei o pato."
   },
   {
     "id": 3,
-    "term": "a montanha parir um rato",
-    "definition": "[for someone to] make a mountain out of a molehill",
-    "example": ""
+    "term": "Engolir sapos",
+    "definition": "“To swallow toads” — to put up with insults without answering back",
+    "example": "Naquele emprego tive de engolir muitos sapos para manter a paz."
   },
   {
     "id": 4,
-    "term": "alugar um tríplex na cabeça de alguém",
-    "definition": "to psychologically affect someone to the point that they can't stop thinking about something or someone",
-    "example": ""
+    "term": "Tirar o cavalinho da chuva",
+    "definition": "“To take your little horse out of the rain” — to give up on an idea; don't count on it",
+    "example": "Se pensas que te empresto o carro, podes tirar o cavalinho da chuva."
   },
   {
     "id": 5,
-    "term": "até debaixo d'água",
-    "definition": "\"even underwater\", at all times, without exception",
-    "example": "Eu confio nele completamente, ele é meu amigo até debaixo d'água."
+    "term": "Meter o Rossio na Betesga",
+    "definition": "“To fit the Rossio square into Betesga alley” — to attempt the impossible; to overreach",
+    "example": "Queres fazer tudo isso numa tarde? Estás a meter o Rossio na Betesga."
   },
   {
     "id": 6,
-    "term": "basta a cada dia o seu mal",
-    "definition": "sufficient unto the day is the evil thereof",
-    "example": ""
+    "term": "Estar com a corda toda",
+    "definition": "“To be with the rope all wound up” — to be full of energy; wound up and lively",
+    "example": "As crianças estão com a corda toda desde manhã."
   },
   {
     "id": 7,
-    "term": "bater à porta",
-    "definition": "to come knocking",
-    "example": "a tentação bateu à minha porta."
+    "term": "Ir com os porcos",
+    "definition": "“To go with the pigs” — to die; to be ruined beyond saving",
+    "example": "Se o negócio não melhorar, isto vai com os porcos."
   },
   {
     "id": 8,
-    "term": "bicho de sete cabeças",
-    "definition": "rocket science, brain surgery",
-    "example": "É um pouco complicado, mas também não é um bicho de sete cabeças."
+    "term": "Ficar com a pulga atrás da orelha",
+    "definition": "“To be left with a flea behind the ear” — to become suspicious",
+    "example": "Ele mudou de assunto tão depressa que fiquei com a pulga atrás da orelha."
   },
   {
     "id": 9,
-    "term": "botar a mão no fogo",
-    "definition": "to vouch for; to trust (someone) with one's life",
-    "example": ""
+    "term": "Dar com os burros na água",
+    "definition": "“To end up with the donkeys in the water” — to fail completely after all the effort",
+    "example": "Tentámos montar o negócio sozinhos e demos com os burros na água."
   },
   {
     "id": 10,
-    "term": "botar na conta do papa",
-    "definition": "to let something be handled by someone else",
-    "example": ""
+    "term": "Ter macaquinhos na cabeça",
+    "definition": "“To have little monkeys in the head” — to be full of odd ideas or worries",
+    "example": "Deixa de ter macaquinhos na cabeça e faz o trabalho."
   },
   {
     "id": 11,
-    "term": "burro velho não aprende línguas",
-    "definition": "you can't teach an old dog new tricks",
-    "example": ""
+    "term": "Ser um cabeça de alho chocho",
+    "definition": "“To be a head of rotten garlic” — to be scatterbrained; to have a terrible memory",
+    "example": "Esqueci-me outra vez das chaves, sou mesmo um cabeça de alho chocho."
   },
   {
     "id": 12,
-    "term": "caminhar com as próprias pernas",
-    "definition": "to stand on one's own two feet",
-    "example": ""
+    "term": "Ficar a arder",
+    "definition": "“To be left burning” — to be badly overcharged",
+    "example": "Aquele jantar ficou-me a arder — cem euros por duas pessoas."
   },
   {
     "id": 13,
-    "term": "colocar todos os ovos em uma única cesta",
-    "definition": "to have all one's eggs in one basket",
-    "example": ""
+    "term": "Não ter papas na língua",
+    "definition": "“Not to have porridge on the tongue” — to speak bluntly, without mincing words",
+    "example": "A minha avó não tem papas na língua: diz sempre o que pensa."
   },
   {
     "id": 14,
-    "term": "com o passar do tempo",
-    "definition": "as time goes on, in the long run",
-    "example": "Não se preocupe, com o passar do tempo as coisas melhorar."
+    "term": "Estar feito ao bife",
+    "definition": "“To be done to the steak” — to be in serious trouble",
+    "example": "Se o chefe descobre isto, estamos feitos ao bife."
   },
   {
     "id": 15,
-    "term": "com que cara",
-    "definition": "How am I supposed to (face someone after I did)...?",
-    "example": "Eu não consegui realizar as minhas tarefas. Com que cara direi isso ao meu chefe?"
+    "term": "Dar troco",
+    "definition": "“To give change” — to pay someone attention; to take the bait",
+    "example": "Ele provocou-me a tarde toda, mas não lhe dei troco."
   },
   {
     "id": 16,
-    "term": "comer nas mãos de alguém",
-    "definition": "to eat out of someone's hand",
-    "example": ""
+    "term": "Cair o Carmo e a Trindade",
+    "definition": "“For the Carmo and the Trindade to fall down” — for all hell to break loose",
+    "example": "Quando souberem do preço, vai cair o Carmo e a Trindade."
   },
   {
     "id": 17,
-    "term": "cuidar da própria vida",
-    "definition": "to mind one's own business",
-    "example": "Cuida da tua vida ou te demitiremos."
+    "term": "Estar nas suas sete quintas",
+    "definition": "“To be on your seven farms” — to be perfectly content; in your element",
+    "example": "Com um livro e um café, ele está nas suas sete quintas."
   },
   {
     "id": 18,
-    "term": "da frigideira para o fogo",
-    "definition": "out of the frying pan, into the fire",
-    "example": ""
+    "term": "Muitos anos a virar frangos",
+    "definition": "“Many years turning chickens” — long experience; you don't get that good by accident",
+    "example": "Resolveu o problema num minuto — são muitos anos a virar frangos."
   },
   {
     "id": 19,
-    "term": "da noite para o dia",
-    "definition": "suddenly, from one day to the other",
-    "example": ""
+    "term": "Fazer de conta",
+    "definition": "“To make of account” — to pretend; to play along",
+    "example": "Vamos fazer de conta que não ouvimos nada."
   },
   {
     "id": 20,
-    "term": "dar a cara a tapa",
-    "definition": "to face boldly some possibly unpleasant situation",
-    "example": ""
+    "term": "Estar entre a espada e a parede",
+    "definition": "“To be between the sword and the wall” — to be caught between two bad options",
+    "example": "Sem dinheiro e sem tempo, estou entre a espada e a parede."
   },
   {
     "id": 21,
-    "term": "dar a mão à palmatória",
-    "definition": "used to express disbelief about a proposition",
-    "example": ""
+    "term": "Ir para o maneta",
+    "definition": "“To go to the one-armed man” — to fall apart; to go to waste",
+    "example": "Com esta chuva, o piquenique foi para o maneta."
   },
   {
     "id": 22,
-    "term": "dar o que falar",
-    "definition": "to generate attention and commentary, especially if suddenly and for a short time",
-    "example": "Este incidente deu o que falar."
+    "term": "Chorar sobre o leite derramado",
+    "definition": "“To cry over spilt milk” — to lament what cannot be undone",
+    "example": "Já está feito, não vale a pena chorar sobre o leite derramado."
   },
   {
     "id": 23,
-    "term": "dar um tiro no pé",
-    "definition": "to shoot oneself in the foot",
-    "example": ""
+    "term": "Puxar a brasa à sua sardinha",
+    "definition": "“To pull the embers towards your own sardine” — to look after your own interests",
+    "example": "Cada um puxa a brasa à sua sardinha nesta reunião."
   },
   {
     "id": 24,
-    "term": "e olhe lá",
-    "definition": "at best; at most; and no more; and that's it",
-    "example": "Sua encomenda vai chegar em 3 dias e olhe lá!"
+    "term": "Bater as botas",
+    "definition": "“To knock the boots together” — to die; to kick the bucket",
+    "example": "O velho gato bateu as botas no inverno passado."
   },
   {
     "id": 25,
-    "term": "em briga de marido e mulher, não se mete a colher",
-    "definition": "one should not interfere in a couple's quarrel",
-    "example": ""
+    "term": "Estar com os azeites",
+    "definition": "“To be with the olive oils” — to be in a foul mood",
+    "example": "Não lhe fales agora, está com os azeites."
   },
   {
     "id": 26,
-    "term": "em casa de ferreiro, o espeto é de pau",
-    "definition": "the shoemaker's children go barefoot",
-    "example": ""
+    "term": "Meter água",
+    "definition": "“To take in water” — to go badly wrong; to make no sense",
+    "example": "O plano começou bem, mas a meio já metia água."
   },
   {
     "id": 27,
-    "term": "em terra de cego, quem tem um olho é rei",
-    "definition": "in the land of the blind, the one-eyed man is king",
-    "example": ""
+    "term": "Fazer uma tempestade num copo de água",
+    "definition": "“To make a storm in a glass of water” — to make a fuss over nothing",
+    "example": "Foi só um arranhão, não faças uma tempestade num copo de água."
   },
   {
     "id": 28,
-    "term": "estar com os pés na cova",
-    "definition": "on one's last legs; about to die",
-    "example": ""
+    "term": "Andar com a cabeça na lua",
+    "definition": "“To walk with your head on the moon” — to be daydreaming; not paying attention",
+    "example": "Hoje andas com a cabeça na lua, o que se passa?"
   },
   {
     "id": 29,
-    "term": "fazer corpo mole",
-    "definition": "to drag one's feet, to mess about, to slack off",
-    "example": "Meu filho sempre faz corpo mole para ir ao dentista."
+    "term": "Dar a volta ao texto",
+    "definition": "“To turn the text around” — to talk your way out of something; to spin it",
+    "example": "Ele deu a volta ao texto e ainda saiu por cima."
   },
   {
     "id": 30,
-    "term": "fazer de gato e sapato",
-    "definition": "to use, exploit, mistreat or humiliate someone",
-    "example": "Ela só me fez de gato e sapato!"
+    "term": "Ser canja",
+    "definition": "“To be chicken soup” — to be very easy",
+    "example": "O exame foi canja, acabei em vinte minutos."
   },
   {
     "id": 31,
-    "term": "ficar com o pé atrás",
-    "definition": "to distrust; to doubt",
-    "example": "Sempre fico com o pé atrás quando me fazem uma proposta suspeita dessa."
+    "term": "Ter a faca e o queijo na mão",
+    "definition": "“To have the knife and the cheese in your hand” — to hold all the cards",
+    "example": "Com esses documentos, tens a faca e o queijo na mão."
   },
   {
     "id": 32,
-    "term": "focinho de porco não é tomada",
-    "definition": "to prove someone's misperception",
-    "example": ""
+    "term": "Estar à toa",
+    "definition": "“To be adrift” — to be aimless; at a loose end",
+    "example": "Passei o domingo à toa, sem fazer nada de jeito."
   },
   {
     "id": 33,
-    "term": "fugir como o diabo foge da cruz",
-    "definition": "to flee like a bat out of hell",
-    "example": "Estou fugindo dele como o diabo foge da cruz."
+    "term": "Passar pelas brasas",
+    "definition": "“To pass over the embers” — to nod off briefly",
+    "example": "Passei pelas brasas no sofá a ver o noticiário."
   },
   {
     "id": 34,
-    "term": "gato escaldado de água fria tem medo",
-    "definition": "once bitten, twice shy",
-    "example": ""
+    "term": "Custar os olhos da cara",
+    "definition": "“To cost the eyes of the face” — to cost a fortune",
+    "example": "Aquela viagem custou-nos os olhos da cara."
   },
   {
     "id": 35,
-    "term": "gosto não se discute",
-    "definition": "there's no accounting for taste",
-    "example": ""
+    "term": "Ficar de boca aberta",
+    "definition": "“To be left with an open mouth” — to be astonished",
+    "example": "Fiquei de boca aberta quando vi a conta."
   },
   {
     "id": 36,
-    "term": "gota d'água no oceano",
-    "definition": "drop in the bucket",
-    "example": ""
+    "term": "Dar o braço a torcer",
+    "definition": "“To give your arm to be twisted” — to admit you were wrong; to back down",
+    "example": "Ao fim de uma hora, lá deu o braço a torcer."
   },
   {
     "id": 37,
-    "term": "grão a grão enche a galinha o papo",
-    "definition": "many a mickle makes a muckle",
-    "example": ""
+    "term": "Ter minhocas na cabeça",
+    "definition": "“To have worms in the head” — to worry over imaginary problems",
+    "example": "Deixa-te de minhocas na cabeça e vai dormir."
   },
   {
     "id": 38,
-    "term": "homem dos sete ofícios",
-    "definition": "jack of all trades",
-    "example": ""
+    "term": "À sombra da bananeira",
+    "definition": "“In the shade of the banana tree” — without a care in the world",
+    "example": "Enquanto trabalhávamos, ele estava à sombra da bananeira."
   },
   {
     "id": 39,
-    "term": "há algo de podre no reino da Dinamarca",
-    "definition": "something is rotten in the state of Denmark",
-    "example": ""
+    "term": "Ver-se grego",
+    "definition": "“To find yourself Greek” — to have a very hard time of it",
+    "example": "Vi-me grego para montar aquele móvel sozinho."
   },
   {
     "id": 40,
-    "term": "há males que vêm para o bem",
-    "definition": "A negative event may have a later positive effect",
-    "example": ""
+    "term": "Fazer gato-sapato de alguém",
+    "definition": "“To make cat-and-shoe of someone” — to walk all over someone",
+    "example": "Não deixes que façam gato-sapato de ti."
   },
   {
     "id": 41,
-    "term": "há um chinelo velho para todo pé cansado",
-    "definition": "every Jack has his Jill",
-    "example": ""
+    "term": "Estar como o peixe na água",
+    "definition": "“To be like a fish in water” — to be completely at ease",
+    "example": "No palco, ela está como o peixe na água."
   },
   {
     "id": 42,
-    "term": "ideia de jerico",
-    "definition": "a stupid idea",
-    "example": "Quem teve a ideia de jerico de deixar a porta destrancada?"
+    "term": "Ir aos arames",
+    "definition": "“To go up to the wires” — to hit the roof",
+    "example": "O treinador foi aos arames com o árbitro."
   },
   {
     "id": 43,
-    "term": "Inês é morta",
-    "definition": "it's too late; what's done is done",
-    "example": "Depois de acusá-la de traição e expulsá-la de casa, ele quer se desculpar. Agora, Inês é morta."
+    "term": "Estar de trombas",
+    "definition": "“To be with a snout on” — to be sulking",
+    "example": "Está de trombas desde que lhe disse que não."
   },
   {
     "id": 44,
-    "term": "ir com a cara",
-    "definition": "to have a good impression of a person (or by extension, a concept or object) at first glance",
-    "example": ""
+    "term": "Falar pelos cotovelos",
+    "definition": "“To talk through the elbows” — to talk nineteen to the dozen",
+    "example": "A minha vizinha fala pelos cotovelos."
   },
   {
     "id": 45,
-    "term": "ir para a cucuia",
-    "definition": "to be forgotten, abandoned, discontinued or fail to produce results or consequences",
-    "example": "O projeto foi para a cucuia."
+    "term": "Chover a cântaros",
+    "definition": "“To rain by the pitcher” — to pour with rain",
+    "example": "Não saias agora, está a chover a cântaros."
   },
   {
     "id": 46,
-    "term": "jogar merda no ventilador",
-    "definition": "to spread bad rumours or compromising information",
-    "example": ""
+    "term": "Ter o rei na barriga",
+    "definition": "“To have the king in your belly” — to think very highly of yourself",
+    "example": "Desde a promoção, anda com o rei na barriga."
   },
   {
     "id": 47,
-    "term": "jogar na cara",
-    "definition": "to rub it in, to shove in someone's face",
-    "example": "— Eu ganho muito mais dinheiro que você. — Tá, mas não precisa jogar na cara assim."
+    "term": "Deitar água na fervura",
+    "definition": "“To pour water on the boil” — to calm a situation down",
+    "example": "Vamos deitar água na fervura antes que isto piore."
   },
   {
     "id": 48,
-    "term": "jogar um balde de água fria",
-    "definition": "to throw cold water on",
-    "example": ""
+    "term": "Estar com a pinta",
+    "definition": "“To be with the look” — to be looking sharp",
+    "example": "Com esse fato, estás mesmo com a pinta."
   },
   {
     "id": 49,
-    "term": "joguete nas mãos de",
-    "definition": "putty in someone's hands",
-    "example": ""
+    "term": "Enfiar o barrete",
+    "definition": "“To pull the cap on” — to be taken in; to fall for it",
+    "example": "Contaram-lhe a história e ele enfiou o barrete."
   },
   {
     "id": 50,
-    "term": "juntar a fome com a vontade de comer",
-    "definition": "to combine two different plans or goals into one",
-    "example": ""
+    "term": "Andar às aranhas",
+    "definition": "“To go about at the spiders” — to be completely lost",
+    "example": "Sem o manual, ando às aranhas com este programa."
   },
   {
     "id": 51,
-    "term": "levantar a voz",
-    "definition": "To raise one's voice",
-    "example": "Não me levantes a voz!"
+    "term": "Bater na mesma tecla",
+    "definition": "“To hit the same key” — to keep harping on about something",
+    "example": "Ele bate sempre na mesma tecla: o trânsito."
   },
   {
     "id": 52,
-    "term": "levantar do lado errado da cama",
-    "definition": "to get up on the wrong side of the bed",
-    "example": ""
+    "term": "De pequenino se torce o pepino",
+    "definition": "“The cucumber is bent while it is small” — habits are formed young",
+    "example": "Ensina-lhe as boas maneiras agora — de pequenino se torce o pepino."
   },
   {
     "id": 53,
-    "term": "levar água ao mar",
-    "definition": "to carry coals to Newcastle",
-    "example": ""
+    "term": "Estar com a barriga a dar horas",
+    "definition": "“For your belly to be telling the time” — to be extremely hungry",
+    "example": "Já são três da tarde e a barriga está a dar horas."
   },
   {
     "id": 54,
-    "term": "ligar o foda-se",
-    "definition": "to stop caring",
-    "example": "O negócio é ligar o foda-se e não ficar com a pulga atrás da orelha."
+    "term": "Vender gato por lebre",
+    "definition": "“To sell a cat as a hare” — to pass off something inferior; a con",
+    "example": "Naquela loja venderam-me gato por lebre."
   },
   {
     "id": 55,
-    "term": "limpar a barra",
-    "definition": "to get rid of or free oneself from an undesirable or dangerous situation",
-    "example": ""
+    "term": "Perder a cabeça",
+    "definition": "“To lose the head” — to lose your temper",
+    "example": "Perdeu a cabeça e disse coisas de que se arrependeu."
   },
   {
     "id": 56,
-    "term": "mais vale só que mal acompanhado",
-    "definition": "it's better to be alone than in bad company",
-    "example": ""
+    "term": "Ter dois dedos de testa",
+    "definition": "“To have two fingers of forehead” — to have some common sense",
+    "example": "Quem tem dois dedos de testa não assina um contrato desses."
   },
   {
     "id": 57,
-    "term": "mais vale um pássaro na mão do que dois voando",
-    "definition": "a bird in the hand is worth two in the bush",
-    "example": ""
+    "term": "Ficar em águas de bacalhau",
+    "definition": "“To end up in codfish water” — to come to nothing",
+    "example": "O projeto ficou em águas de bacalhau."
   },
   {
     "id": 58,
-    "term": "mais velho que o cagar em cócoras",
-    "definition": "to be old as the hills, to be older than dirt",
-    "example": ""
+    "term": "Dar o litro",
+    "definition": "“To give the litre” — to give it everything you have",
+    "example": "A equipa deu o litro até ao apito final."
   },
   {
     "id": 59,
-    "term": "matar cachorro a grito",
-    "definition": "to be very poor, not to have money",
-    "example": "Ele está matando cachorro a grito."
+    "term": "Estar por um fio",
+    "definition": "“To be hanging by a thread” — to be barely holding on",
+    "example": "Depois da operação, esteve por um fio."
   },
   {
     "id": 60,
-    "term": "meter o rabo entre as pernas",
-    "definition": "to put one's tail between one's legs",
-    "example": ""
+    "term": "Nem que a vaca tussa",
+    "definition": "“Not even if the cow coughs” — not a chance; never",
+    "example": "Não lhe empresto o carro nem que a vaca tussa."
   },
   {
     "id": 61,
-    "term": "na guerra e no amor vale tudo",
-    "definition": "all's fair in love and war",
-    "example": ""
+    "term": "À grande e à francesa",
+    "definition": "“Big and in the French style” — in lavish style",
+    "example": "Casaram-se à grande e à francesa."
   },
   {
     "id": 62,
-    "term": "nascer em berço de ouro",
-    "definition": "to be born with a silver spoon in one's mouth",
-    "example": ""
+    "term": "Dizer cobras e lagartos",
+    "definition": "“To say snakes and lizards” — to say vicious things about someone",
+    "example": "Depois da discussão, disse cobras e lagartos do antigo sócio."
   },
   {
     "id": 63,
-    "term": "nascer virado para a lua",
-    "definition": "to be very lucky",
-    "example": "Ela nasceu virada para a lua."
+    "term": "Estar-se nas tintas",
+    "definition": "“To be in the paints about it” — not to care in the slightest",
+    "example": "Estou-me nas tintas para o que ele pensa."
   },
   {
     "id": 64,
-    "term": "não ir com a cara de",
-    "definition": "to dislike",
-    "example": "Não vou com a cara do novo professor."
+    "term": "Fazer ouvidos de mercador",
+    "definition": "“To make merchant's ears” — to turn a deaf ear deliberately",
+    "example": "Avisei-o várias vezes, mas fez ouvidos de mercador."
   },
   {
     "id": 65,
-    "term": "não ter papas na língua",
-    "definition": "to not mince one's words, to speak one's mind",
-    "example": ""
+    "term": "Levar a água ao seu moinho",
+    "definition": "“To bring the water to your own mill” — to turn things to your own advantage",
+    "example": "Ele leva sempre a água ao seu moinho."
   },
   {
     "id": 66,
-    "term": "o bom filho a casa torna",
-    "definition": "to do something one has already done previously; to visit a place one has already been to",
-    "example": ""
+    "term": "Estar com um pé na cova",
+    "definition": "“To have one foot in the grave” — to be near the end",
+    "example": "Aos noventa e cinco, dizia que estava com um pé na cova."
   },
   {
     "id": 67,
-    "term": "o bom é inimigo do ótimo",
-    "definition": "with limited resources, one should work with what they have rather than doing nothing and waiting for an impro",
-    "example": ""
+    "term": "Ter olho clínico",
+    "definition": "“To have a clinical eye” — to have a sharp eye for something",
+    "example": "Ela tem olho clínico para escolher fruta."
   },
   {
     "id": 68,
-    "term": "o espírito está pronto, mas a carne é fraca",
-    "definition": "the spirit is willing but the flesh is weak",
-    "example": ""
+    "term": "Cair como sopa no mel",
+    "definition": "“To fall like soup into honey” — to come at exactly the right moment",
+    "example": "Aquele bónus caiu como sopa no mel."
   },
   {
     "id": 69,
-    "term": "o homem põe e Deus dispõe",
-    "definition": "man proposes, God disposes",
-    "example": ""
+    "term": "Meter os pés pelas mãos",
+    "definition": "“To put your feet through your hands” — to get in a muddle; to fumble it",
+    "example": "Com os nervos, meteu os pés pelas mãos na apresentação."
   },
   {
     "id": 70,
-    "term": "o pão que o diabo amassou",
-    "definition": "great suffering or strife in one's life",
-    "example": ""
+    "term": "Não dar ponto sem nó",
+    "definition": "“Not to make a stitch without a knot” — never to do anything without an angle",
+    "example": "Desconfia dele: não dá ponto sem nó."
   },
   {
     "id": 71,
-    "term": "passar a perna",
-    "definition": "to pull a fast one, trick, delude, deceive or fool someone",
-    "example": "Passei a perna no sujeito, tomei-lhe seu dinheiro sem perceber!"
+    "term": "Estar de olho",
+    "definition": "“To be with the eye on” — to keep watch on something",
+    "example": "Estou de olho naquela casa desde o verão."
   },
   {
     "id": 72,
-    "term": "por que cargas d'água",
-    "definition": "why the hell; why the heck",
-    "example": "Por que cargas d'água você demorou tanto para chegar?"
+    "term": "Fazer figura de urso",
+    "definition": "“To cut the figure of a bear” — to make a fool of yourself",
+    "example": "Não quero fazer figura de urso à frente de toda a gente."
   },
   {
     "id": 73,
-    "term": "por um triz",
-    "definition": "by a whisker; by a hair's breadth; by the skin of one's teeth",
-    "example": "Eu consegui escapar do acidente por um triz."
+    "term": "Ir buscar lã e vir tosquiado",
+    "definition": "“To go for wool and come back shorn” — to set out to gain and end up losing",
+    "example": "Foi reclamar e saiu a pagar mais: foi buscar lã e veio tosquiado."
   },
   {
     "id": 74,
-    "term": "por via das dúvidas",
-    "definition": "just in case, just to be on the safe side",
-    "example": "Leva o guarda-chuva, por via das dúvidas."
+    "term": "Ter costas quentes",
+    "definition": "“To have a warm back” — to have someone powerful protecting you",
+    "example": "Faz o que quer porque tem costas quentes."
   },
   {
     "id": 75,
-    "term": "puxar a brasa para a sardinha de alguém",
-    "definition": "to pull for one's side, to toot one's own horn",
-    "example": "Aproveitei para puxar a brasa para minha sardinha."
+    "term": "Amigo da onça",
+    "definition": "“Friend of the jaguar” — a false friend",
+    "example": "Com amigos da onça como esse, não precisas de inimigos."
   },
   {
     "id": 76,
-    "term": "quando a esmola é demais, o santo desconfia",
-    "definition": "when a person acts excessively kind, they wants something in return",
-    "example": ""
+    "term": "Encher linguiça",
+    "definition": "“To stuff sausage” — to pad something out with waffle",
+    "example": "Metade do relatório é para encher linguiça."
   },
   {
     "id": 77,
-    "term": "quando um não quer, dois não brigam",
-    "definition": "it takes two to tangle",
-    "example": "Não me importa quem começou. Quando um não quer, dois não brigam."
+    "term": "Chutar o balde",
+    "definition": "“To kick the bucket over” — to give up and let it all go — Brazil",
+    "example": "Cansou-se das regras e chutou o balde."
   },
   {
     "id": 78,
-    "term": "quem ama o feio, bonito lhe parece",
-    "definition": "the judgement of someone's loved ones is biased because they are going to find qualities in him/her where ther",
-    "example": ""
+    "term": "Descascar o abacaxi",
+    "definition": "“To peel the pineapple” — to sort out a nasty problem — Brazil",
+    "example": "Sobrou para mim descascar esse abacaxi."
   },
   {
     "id": 79,
-    "term": "quem não chora, não mama",
-    "definition": "the squeaky wheel gets the grease",
-    "example": "O cachorro pede para arrumar água e ração, porque quem não chora, não mama."
+    "term": "Pisar em ovos",
+    "definition": "“To step on eggs” — to tread very carefully — Brazil",
+    "example": "Nesse assunto é preciso pisar em ovos."
   },
   {
     "id": 80,
-    "term": "querer sol na eira e chuva no nabal",
-    "definition": "to want to have one's cake and eat it too",
-    "example": ""
+    "term": "Enxugar gelo",
+    "definition": "“To dry ice with a towel” — to do something utterly futile — Brazil",
+    "example": "Limpar isto agora é enxugar gelo."
   },
   {
     "id": 81,
-    "term": "rachar o bico",
-    "definition": "to crack up",
-    "example": "rachei o bico com uma piada vi ontem."
+    "term": "Dar uma de João sem braço",
+    "definition": "“To do a one-armed John” — to play innocent to avoid responsibility — Brazil",
+    "example": "Quando perguntaram quem quebrou, ele deu uma de João sem braço."
   },
   {
     "id": 82,
-    "term": "resumo da ópera",
-    "definition": "a concise description, especially of something that would be otherwise long and tiresome; the long story made",
-    "example": "Não vou ler esse documento gigantesco. Alguém me dá o resumo da ópera?"
+    "term": "Fazer vista grossa",
+    "definition": "“To make a thick view” — to turn a blind eye",
+    "example": "O fiscal fez vista grossa e seguiu em frente."
   },
   {
     "id": 83,
-    "term": "rir é o melhor remédio",
-    "definition": "laughter is the best medicine",
-    "example": ""
+    "term": "Estar mais para lá do que para cá",
+    "definition": "“To be more over there than over here” — to be at death's door, or utterly exhausted",
+    "example": "Depois de dois turnos seguidos, estava mais para lá do que para cá."
   },
   {
     "id": 84,
-    "term": "Roma e Pavia não se fizeram num dia",
-    "definition": "Rome wasn't built in a day",
-    "example": ""
+    "term": "Segurar vela",
+    "definition": "“To hold the candle” — to play gooseberry",
+    "example": "Não vou com vocês os dois para segurar vela."
   },
   {
     "id": 85,
-    "term": "roupa suja se lava em casa",
-    "definition": "don't wash your dirty linen in public",
-    "example": ""
+    "term": "Tirar água do joelho",
+    "definition": "“To take water from the knee” — to go for a pee",
+    "example": "Espera aí, vou só tirar água do joelho."
   },
   {
     "id": 86,
-    "term": "saco vazio não para em pé",
-    "definition": "one needs food in order to function well",
-    "example": "Deixa o trabalho aí e vai comer; saco vazio não para em pé, cê sabe, né?"
+    "term": "Cara de pau",
+    "definition": "“Wooden face” — brazen cheek",
+    "example": "Pediu aumento no primeiro dia, que cara de pau."
   },
   {
     "id": 87,
-    "term": "sair de cima do muro",
-    "definition": "to solve a previous conflict between (usually two) different opinions or decisions; to decide",
-    "example": ""
+    "term": "Dar com a língua nos dentes",
+    "definition": "“To hit the teeth with your tongue” — to let a secret slip",
+    "example": "Contei-lhe em confiança e ele deu logo com a língua nos dentes."
   },
   {
     "id": 88,
-    "term": "sangue nos olhos",
-    "definition": "determination, focus, courage",
-    "example": "Ela ficou com sangue nos olhos depois do insulto contra a sua filha."
+    "term": "Ficar a chuchar no dedo",
+    "definition": "“To be left sucking your thumb” — to be left with nothing",
+    "example": "Se não te inscreves hoje, ficas a chuchar no dedo."
   },
   {
     "id": 89,
-    "term": "ser a praia de alguém",
-    "definition": "to be someone’s area of interest",
-    "example": "Dançar não é muito a minha praia."
+    "term": "Arregaçar as mangas",
+    "definition": "“To roll up the sleeves” — to get stuck in",
+    "example": "Não vale a pena queixar-se: é arregaçar as mangas e trabalhar."
   },
   {
     "id": 90,
-    "term": "ser de comer rezando",
-    "definition": "to be exceptionally delicious",
-    "example": "A comida que ele faz é de comer rezando!"
+    "term": "Estar no bico do corvo",
+    "definition": "“To be in the crow's beak” — to be in a precarious spot",
+    "example": "Com esta dívida, a empresa está no bico do corvo."
   },
   {
     "id": 91,
-    "term": "tanto faz como tanto fez",
-    "definition": "tomayto, tomahto; big deal; whatever",
-    "example": ""
+    "term": "Ver o sol a nascer quadrado",
+    "definition": "“To see the sun rise square” — to end up in prison",
+    "example": "Se continuar assim, ainda vê o sol nascer quadrado."
   },
   {
     "id": 92,
-    "term": "ter o olho maior do que a barriga",
-    "definition": "to have eyes bigger than one's stomach",
-    "example": ""
+    "term": "Estar cheio de dedos",
+    "definition": "“To be full of fingers” — to be awkward and hesitant with someone",
+    "example": "Ele fica cheio de dedos quando fala com a chefe."
   },
   {
     "id": 93,
-    "term": "ter sol na eira e chuva no nabal",
-    "definition": "to have one's cake and eat it too",
-    "example": ""
+    "term": "Comer com os olhos",
+    "definition": "“To eat with the eyes” — to devour something with your gaze",
+    "example": "Ficou a comer o bolo com os olhos."
   },
   {
     "id": 94,
-    "term": "tirar as palavras da boca",
-    "definition": "to say what someone was about to say; take the words out of someone's mouth",
-    "example": "Você tirou as palavras da minha boca! (Brazil)/Tiraste-me as palavras da boca! (Portugal)."
+    "term": "Trocar as voltas a alguém",
+    "definition": "“To swap someone's turns around” — to outmanoeuvre someone",
+    "example": "Trocou as voltas aos adversários e ganhou a eleição."
   },
   {
     "id": 95,
-    "term": "um dia não são dias",
-    "definition": "you only live once",
-    "example": ""
+    "term": "Ter a cabeça no lugar",
+    "definition": "“To have your head in its place” — to be level-headed",
+    "example": "Apesar de novo, tem a cabeça no lugar."
   },
   {
     "id": 96,
-    "term": "um mal nunca vem só",
-    "definition": "misfortunes never come singly",
-    "example": ""
+    "term": "Não valer um caracol",
+    "definition": "“Not to be worth a snail” — to be worthless",
+    "example": "Aquele conselho não vale um caracol."
   },
   {
     "id": 97,
-    "term": "um pior que o outro",
-    "definition": "all members of a group are very bad",
-    "example": ""
+    "term": "Deitar mãos à obra",
+    "definition": "“To throw hands at the work” — to set to work",
+    "example": "Chega de conversa, vamos deitar mãos à obra."
   },
   {
     "id": 98,
-    "term": "um sol para cada um",
-    "definition": "sunny and very hot; scorching hot",
-    "example": "Ainda nem é verão e já tem um sol pra cada um!"
+    "term": "Estar na mó de baixo",
+    "definition": "“To be on the bottom millstone” — to be having a hard time of it",
+    "example": "Desde que perdeu o emprego, está na mó de baixo."
   },
   {
     "id": 99,
-    "term": "uma coisa é uma coisa, outra coisa é outra coisa",
-    "definition": "it has nothing to do with that",
-    "example": "— O carro dela quebrou e eu tive que ajudar ela. — Mas não foi ela que brigou com você esses dias? — Sim, mas uma coisa é uma coisa, outra coisa é outra coisa."
+    "term": "Ficar com água na boca",
+    "definition": "“To be left with water in the mouth” — for your mouth to water",
+    "example": "Só de ver a ementa fiquei com água na boca."
   },
   {
     "id": 100,
-    "term": "varrer para debaixo do tapete",
-    "definition": "to sweep something under the rug",
-    "example": ""
+    "term": "Prometer mundos e fundos",
+    "definition": "“To promise worlds and depths” — to promise the earth",
+    "example": "Prometeu mundos e fundos e não cumpriu nada."
+  },
+  {
+    "id": 101,
+    "term": "Ser o braço direito de alguém",
+    "definition": "“To be someone's right arm” — to be someone's indispensable helper",
+    "example": "É o braço direito do director há vinte anos."
   }
 ];
 window.QM_IDIOMS_NL_DATA = [
