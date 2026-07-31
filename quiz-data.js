@@ -6064,78 +6064,143 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783709881387_a0j0ucrqu1",
     "name": "James Morrison",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/james-morrison.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/james-morrison.webp",
+    "focalX": 66.77449544270837,
+    "focalY": 0,
+    "zoom": 1.05,
+    "brightness": 1.13,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881387_dapn35s25d",
     "name": "will.i.am",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/william.jpg?v=1784296429876"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/william.webp",
+    "focalX": 85.14335100316431,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1.15,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 8.2375045096039,
     "zoom": 1,
     "id": "id_1783709881387_1mjvsc4s8z",
     "name": "Timbaland",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/timbaland.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/timbaland.jpg",
+    "brightness": 1.2,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881388_j0q2wxphts",
     "name": "Sean Kingston",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/sean-kingston.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/sean-kingston.jpg",
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1.0999999999999999
   },
   {
     "id": "id_1783709881388_hivd2hktep",
     "name": "Taio Cruz",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/taio-cruz.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/taio-cruz.webp",
+    "focalX": 66.7744954427083,
+    "focalY": 2.5142063166929147,
+    "zoom": 1.05,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 20.19979229514369,
     "zoom": 1,
     "id": "id_1783709881388_ucbxq5l8b2",
     "name": "Will Young",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/will-young-period.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/will-young-period.jpg",
+    "brightness": 1.15,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1.1500000000000001,
     "id": "id_1783709881388_qdezegoma7",
     "name": "Gareth Gates",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/gareth-gates.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/gareth-gates.png",
+    "brightness": 1.13,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881388_n8abkxk039",
     "name": "Shayne Ward",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/shayne-ward.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/shayne-ward.jpg",
+    "focalX": 84.96865865116926,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 44.04872377554806,
+    "focalY": 68.28258224742596,
+    "zoom": 1.1500000000000001,
     "id": "id_1783709881388_0lj6anj6e8",
     "name": "Tony Christie",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/tony-christie.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/tony-christie.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881388_qai8r9h0er",
     "name": "Ronan Keating (Boyzone)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/ronan-keating.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/ronan-keating.jpg",
+    "focalX": 50,
+    "focalY": 0,
+    "zoom": 1,
+    "brightness": 1.3,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881388_oj5ts5vky3",
     "name": "Mika",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/mika.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/mika.jpg",
+    "brightness": 1.15,
+    "contrast": 1,
+    "saturation": 1.27,
+    "gamma": 1
   },
   {
     "id": "id_1783709881381_j091ammvjv",
     "name": "Dizzee Rascal",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/dizzee-rascal.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/dizzee-rascal.jpg",
+    "focalX": 50,
+    "focalY": 28.04441597349842,
+    "zoom": 1,
+    "brightness": 1.28,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 51.454726406254856,
     "zoom": 1,
     "id": "id_1783819098206_786m9e8yjw",
     "name": "Elvis Presley",
@@ -6144,22 +6209,43 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783819098206_1c6zfvaddl",
     "name": "Tom Fletcher (McFly)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/tom-fletcher.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/tom-fletcher.jpg",
+    "focalX": 50,
+    "focalY": 30.623089271903837,
+    "zoom": 1,
+    "brightness": 1.06,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783819098206_v2z1teg1mu",
     "name": "Liam Gallagher (Oasis)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/liam-gallagher.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/liam-gallagher.jpg",
+    "focalX": 24.20046922815307,
+    "focalY": 3.207474704056735,
+    "zoom": 1.3499999999999999,
+    "brightness": 1.25,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783819098206_oms6qd9hqz",
     "name": "James Bourne (Busted)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/james-bourne.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/james-bourne.jpg",
+    "focalX": 10.783464480669094,
+    "focalY": 10.839486147766415,
+    "zoom": 1.0999999999999999,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1.12,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 35.62185173360711,
+    "focalY": 0,
+    "zoom": 1.3499999999999999,
     "id": "id_1783819098206_gtxei86fyn",
     "name": "Chris Martin (Coldplay)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/chris-martin-00s.jpg"
@@ -6167,42 +6253,86 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783819098206_9oaaf659vy",
     "name": "Caleb Followill (Kings of Leon)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/caleb-followill.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/caleb-followill.jpg",
+    "focalX": 50,
+    "focalY": 9.295597826072113,
+    "zoom": 1
   },
   {
     "id": "id_1783819098206_hy9dx1c1b9",
     "name": "Alex Turner (Arctic Monkeys)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/alex-turner.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/alex-turner.jpg",
+    "focalX": 0,
+    "focalY": 12.940966354552168,
+    "zoom": 1.1,
+    "brightness": 1.24,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783819098206_mpyjk08nt",
     "name": "Shaggy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/shaggy.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/shaggy.webp",
+    "focalX": 89.77958483573718,
+    "focalY": 9.376245551243235,
+    "zoom": 1.25,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783819098206_uou56b3z3v",
     "name": "Kelly Jones (Stereophonics)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/kelly-jones.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/kelly-jones.jpg",
+    "focalX": 53.364983486888306,
+    "focalY": 0,
+    "zoom": 1.04
   },
   {
     "id": "id_1783819098206_qgjaayigg3",
     "name": "Tinchy Stryder",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/tinchy-stryder.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/tinchy-stryder.jpg",
+    "focalX": 49.655065203883325,
+    "focalY": 0,
+    "zoom": 1.35,
+    "brightness": 1.03,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783819098206_ri31d3gomc",
     "name": "Johnny Borrell (Razorlight)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/johnny-borrell.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/johnny-borrell.jpg",
+    "focalX": 45.16733935755542,
+    "focalY": 20.33723381949319,
+    "zoom": 2.1999999999999997,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783819098206_mqz63fwm6b",
     "name": "R. Kelly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/r-kelly.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/r-kelly.jpg",
+    "focalX": 47.33629127870061,
+    "focalY": 1.8557650044815224,
+    "zoom": 1.65,
+    "brightness": 1.14,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783819098206_pm3p89uooz",
     "name": "Chad Kroeger (Nickelback)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/chad-kroeger.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/chad-kroeger.jpg",
+    "focalX": 100,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "focalX": 50,
