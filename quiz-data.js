@@ -6939,7 +6939,7 @@ window.QM_MALE80S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/nik-kershaw.jpg",
     "focalX": 50.03596049634827,
     "focalY": 0,
-    "zoom": 1.1500000000000001,
+    "zoom": 1,
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
@@ -7130,37 +7130,76 @@ window.QM_MALE80S_DATA = [
     "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 85.71292056677477,
-    "zoom": 1,
+    "focalX": 17.916130290451814,
+    "focalY": 54.81125133224742,
+    "zoom": 1.1500000000000001,
     "id": "id_1783716276551_z643jxu7sn",
     "name": "Roland Orzabal (Tears for Fears)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/roland-orzabal.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/roland-orzabal.jpg",
+    "brightness": 1.27,
+    "contrast": 0.94,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783716276551_loq7j2xmj8",
     "name": "Dave Gahan (Depeche Mode)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/dave-gahan.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/dave-gahan.jpg",
+    "focalX": 50,
+    "focalY": 7.018150563349962,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783716276551_yrgwtrqho7",
     "name": "Neil Tennant (Pet Shop Boys)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/neil-tennant.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/neil-tennant.jpg",
+    "focalX": 74.96204213199452,
+    "focalY": 2.5513607642071348,
+    "zoom": 1.6,
+    "brightness": 1.1,
+    "contrast": 0.96,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783716276551_6axmkfcuzc",
     "name": "Jim Kerr (Simple Minds)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/jim-kerr.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/jim-kerr.jpg",
+    "focalX": 33.225504557291664,
+    "focalY": 6.387731132518276,
+    "zoom": 1.45,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783716276551_551ragpzco",
     "name": "Mark King (Level 42)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/mark-king.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/mark-king.jpg",
+    "focalX": 17.469004720471165,
+    "focalY": 3.3678523668758023,
+    "zoom": 1.3,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783716276551_csygzz0exi",
     "name": "Morten Harket (a-ha)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/morten-harket.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/morten-harket.jpg",
+    "focalX": 96.12986246744794,
+    "focalY": 0,
+    "zoom": 1.2,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
@@ -7168,11 +7207,15 @@ window.QM_MALE80S_DATA = [
     "zoom": 1,
     "id": "id_1783715420477_p6pn3jcgm5",
     "name": "Stevie Wonder",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/stevie-wonder.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/stevie-wonder.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 38.43436199321425,
     "zoom": 1,
     "id": "id_1783709881383_cda4gjb673",
     "name": "Prince",
@@ -7181,12 +7224,22 @@ window.QM_MALE80S_DATA = [
   {
     "id": "id_1783709881383_nfur49dj3s",
     "name": "Bruce Springsteen",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/bruce-springsteen.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/bruce-springsteen.webp",
+    "focalX": 26.635435707548755,
+    "focalY": 0,
+    "zoom": 1.3,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881383_q8v66t63x8",
     "name": "Lionel Richie (The Commodores)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/lionel-richie.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/lionel-richie.jpg",
+    "focalX": 50.599103096203926,
+    "focalY": 2.7178797750227193,
+    "zoom": 1.2
   },
   {
     "id": "id_1783709881383_so6j5amd5c",
@@ -7196,27 +7249,58 @@ window.QM_MALE80S_DATA = [
   {
     "id": "id_1783813717017_5wn7zwfdc2",
     "name": "George Michael (Wham!)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/george-michael.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/george-michael.jpg",
+    "focalX": 50,
+    "focalY": 25.806226868836767,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_etu8qpgwt2",
     "name": "Shakin' Stevens",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/shakin-stevens.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/shakin-stevens.jpg",
+    "focalX": 57.987845657218216,
+    "focalY": 0,
+    "zoom": 1.3,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_qjb0eb6gep",
     "name": "Paul Weller (The Jam)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/paul-weller.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/paul-weller.jpg",
+    "focalX": 0,
+    "focalY": 28.483482463706977,
+    "zoom": 1.1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_mgcog6k32r",
     "name": "Michael Jackson",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/michael-jackson.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/michael-jackson.jpg",
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1.1
   },
   {
     "id": "id_1783813717017_r1z5o0e332",
     "name": "Cliff Richard (Cliff Richard And The Young Ones)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/cliff-richard.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/cliff-richard.jpg",
+    "focalX": 78.75629653278578,
+    "focalY": 1.1301941276284853,
+    "zoom": 1.1500000000000001,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_tgqqtunpcp",
@@ -7225,7 +7309,10 @@ window.QM_MALE80S_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "focalX": 30.14451470567193,
+    "focalY": 0,
+    "zoom": 1.35
   },
   {
     "id": "id_1783813717017_eeen29tt2c",
