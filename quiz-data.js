@@ -5910,29 +5910,50 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783709881387_v6adetxqdy",
     "name": "Justin Timberlake",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/justin-timberlake.jpg?v=1784296172997",
-    "focalX": 53.99389022435898,
-    "focalY": 0.6815546082711373,
-    "zoom": 1.1500000000000001
-  },
-  {
-    "id": "id_1783709881387_6jtyazx3in",
-    "name": "Usher",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/usher.jpg?v=1784296330871",
-    "brightness": 1.18,
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/justin-timberlake.jpg",
+    "focalX": 50,
+    "focalY": 16.159747524173216,
+    "zoom": 1,
+    "brightness": 1,
     "contrast": 1,
     "saturation": 1,
     "gamma": 1
   },
   {
+    "id": "id_1783709881387_6jtyazx3in",
+    "name": "Usher",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/usher.jpg",
+    "brightness": 1.05,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1,
+    "focalX": 61.06013160720616,
+    "focalY": 4.751271284939654,
+    "zoom": 1.6500000000000001
+  },
+  {
     "id": "id_1783709881387_ml9fmt48ei",
     "name": "Robbie Williams",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/robbie-williams.jpg?v=1784296330871"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/robbie-williams.jpg",
+    "focalX": 50,
+    "focalY": 31.401535322081365,
+    "zoom": 1,
+    "brightness": 1.03,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881387_iv89jd6spb",
     "name": "Ne-Yo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/ne-yo.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/ne-yo.webp",
+    "focalX": 92.70652798942591,
+    "focalY": 0,
+    "zoom": 1.4000000000000001,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
