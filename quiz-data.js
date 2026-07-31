@@ -5947,8 +5947,8 @@ window.QM_MALE00S_DATA = [
     "id": "id_1783709881387_iv89jd6spb",
     "name": "Ne-Yo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/ne-yo.webp",
-    "focalX": 92.70652798942591,
-    "focalY": 0,
+    "focalX": 100,
+    "focalY": 2.9690848420789298,
     "zoom": 1.4000000000000001,
     "brightness": 1,
     "contrast": 1,
@@ -5966,7 +5966,10 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783709881387_1my6w4flhg",
     "name": "Akon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/akon.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/akon.jpg",
+    "focalX": 67.09105884595776,
+    "focalY": 0,
+    "zoom": 1.45
   },
   {
     "id": "id_1783709881387_kbn169nutd",
@@ -5976,42 +5979,87 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783709881387_64rdwycq9l",
     "name": "James Blunt",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/james-blunt.jpg?v=1784296172997"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/james-blunt.jpg?v=1784296172997",
+    "focalX": 50,
+    "focalY": 5.46685536886397,
+    "zoom": 1
   },
   {
     "id": "id_1783709881387_t43zpi75fh",
     "name": "Daniel Bedingfield",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/daniel-bedingfield.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/daniel-bedingfield.jpg",
+    "focalX": 50,
+    "focalY": 9.276223825008927,
+    "zoom": 1
   },
   {
     "id": "id_1783709881387_dn39c5x3f4",
     "name": "Craig David",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/craig-david.jpg?v=1784296330871"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/craig-david.jpg",
+    "focalX": 47.643523487290906,
+    "focalY": 23.057181064993568,
+    "zoom": 1.45,
+    "brightness": 1.04,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881387_t942v3wd1t",
     "name": "Eminem",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/eminem.jpg?v=1784296365727"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/eminem.jpg",
+    "focalX": 50.97728056066176,
+    "focalY": 0,
+    "zoom": 1.1500000000000001,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881387_bsfddgxwqp",
     "name": "Jay-Z",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/jay-z.jpg?v=1784296172997"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/jay-z.webp",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881387_40zyvgm5o2",
     "name": "Kanye West",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/kanye-west.jpg?v=1784296172997"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/kanye-west.jpg?v=1784296172997",
+    "brightness": 1.15,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881387_tu8wdn3kjz",
     "name": "50 Cent",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/50-cent-period.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/50-cent-period.jpg",
+    "focalX": 0,
+    "focalY": 16.97566645179827,
+    "zoom": 1.1,
+    "brightness": 1.12,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881387_txe3chfwzg",
     "name": "Sean Paul",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/sean-paul.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/sean-paul.jpg",
+    "focalX": 50,
+    "focalY": 6.272587332377092,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881387_a0j0ucrqu1",
