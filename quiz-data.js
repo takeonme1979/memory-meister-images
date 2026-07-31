@@ -5899,12 +5899,19 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783709881387_v6adetxqdy",
     "name": "Justin Timberlake",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/justin-timberlake.jpg?v=1784296172997"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/justin-timberlake.jpg?v=1784296172997",
+    "focalX": 53.99389022435898,
+    "focalY": 0.6815546082711373,
+    "zoom": 1.1500000000000001
   },
   {
     "id": "id_1783709881387_6jtyazx3in",
     "name": "Usher",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/usher.jpg?v=1784296330871"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/usher.jpg?v=1784296330871",
+    "brightness": 1.18,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881387_ml9fmt48ei",
