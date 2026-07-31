@@ -64206,603 +64206,615 @@ window.QM_IDIOMS_PT_DATA = [
 window.QM_IDIOMS_NL_DATA = [
   {
     "id": 1,
-    "term": "aan de hand zijn",
-    "definition": "to occur, happen, go on, be at hand",
-    "example": "wat is er aan de hand."
+    "term": "Nu komt de aap uit de mouw",
+    "definition": "“Now the monkey comes out of the sleeve” — now the truth comes out",
+    "example": "Hij wilde het geld lenen — nu komt de aap uit de mouw."
   },
   {
     "id": 2,
-    "term": "aan de tand voelen",
-    "definition": "to grill; to question thoroughly",
-    "example": "Ik zal hem nog eens aan de tand voelen om te achterhalen wat hij heeft uitgespookt."
+    "term": "Met de deur in huis vallen",
+    "definition": "“To fall into the house with the door” — to come straight to the point",
+    "example": "Ik val maar met de deur in huis: we moeten stoppen."
   },
   {
     "id": 3,
-    "term": "aan het eind van zijn Latijn zijn",
-    "definition": "to be at one's wits' end; to be exhausted",
-    "example": "Door het spervuur aan kritische vragen was de kandidaat aan het eind van haar Latijn."
+    "term": "De kat uit de boom kijken",
+    "definition": "“To watch the cat out of the tree” — to wait and see before committing",
+    "example": "Hij zei niets en keek eerst de kat uit de boom."
   },
   {
     "id": 4,
-    "term": "achter het behang kunnen plakken",
-    "definition": "to be fed up with, to be annoyed with",
-    "example": "Mijn zusje doet vandaag zo irritant, ik zou haar wel achter het behang kunnen plakken."
+    "term": "Over koetjes en kalfjes praten",
+    "definition": "“To talk about little cows and little calves” — to make small talk",
+    "example": "We praatten een uur over koetjes en kalfjes."
   },
   {
     "id": 5,
-    "term": "alles op één kaart zetten",
-    "definition": "to put all one's eggs in one basket",
-    "example": ""
+    "term": "Iets onder de knie hebben",
+    "definition": "“To have something under the knee” — to have mastered something",
+    "example": "Na een jaar had ze het Nederlands aardig onder de knie."
   },
   {
     "id": 6,
-    "term": "als muziek in de oren klinken",
-    "definition": "to sound like music to someone's ears",
-    "example": "Een dag vrij? Dat klinkt me als muziek in de oren!"
+    "term": "Met zijn ziel onder zijn arm lopen",
+    "definition": "“To walk with your soul under your arm” — to mope about with nothing to do",
+    "example": "Sinds zijn ontslag loopt hij met zijn ziel onder zijn arm."
   },
   {
     "id": 7,
-    "term": "anderhalve man en een paardenkop",
-    "definition": "one man and his dog",
-    "example": "Er kwamen nauwelijks mensen naar het evenement, slechts anderhalve man en een paardenkop."
+    "term": "Een kat in de zak kopen",
+    "definition": "“To buy a cat in the bag” — to be sold a pup; to buy something worthless",
+    "example": "Zonder proefrit koop je zo een kat in de zak."
   },
   {
     "id": 8,
-    "term": "beren op de weg zien",
-    "definition": "to imagine (future) problems",
-    "example": ""
+    "term": "De kogel is door de kerk",
+    "definition": "“The bullet has gone through the church” — the decision is finally made",
+    "example": "Na maanden vergaderen is de kogel door de kerk."
   },
   {
     "id": 9,
-    "term": "beter een vogel in de hand dan tien in de lucht",
-    "definition": "a bird in the hand is worth two in the bush",
-    "example": ""
+    "term": "Iemand een oor aannaaien",
+    "definition": "“To sew an ear onto someone” — to swindle someone",
+    "example": "Die verkoper heeft me een oor aangenaaid."
   },
   {
     "id": 10,
-    "term": "beter ten halve gekeerd dan ten hele gedwaald",
-    "definition": "a fault confessed is half redressed",
-    "example": ""
+    "term": "Het regent pijpenstelen",
+    "definition": "“It is raining pipe stems” — it is pouring down",
+    "example": "Neem een paraplu mee, het regent pijpenstelen."
   },
   {
     "id": 11,
-    "term": "bier na wijn geeft venijn",
-    "definition": "drinking beer following the consumption of wine causes greater discomfort (through excessive inebriation and h",
-    "example": ""
+    "term": "Als haringen in een ton",
+    "definition": "“Like herrings in a barrel” — packed in like sardines",
+    "example": "In de trein stonden we als haringen in een ton."
   },
   {
     "id": 12,
-    "term": "bij de duivel te biecht gaan",
-    "definition": "to seek help or confide in someone untrustworthy, dangerous, or morally wrong",
-    "example": ""
+    "term": "Iets uit je duim zuigen",
+    "definition": "“To suck something out of your thumb” — to make something up",
+    "example": "Dat verhaal heeft hij uit zijn duim gezogen."
   },
   {
     "id": 13,
-    "term": "bij de pakken neerzitten",
-    "definition": "to throw in the towel; to give up; to resign oneself to a situation",
-    "example": ""
+    "term": "Iemand de oren van het hoofd eten",
+    "definition": "“To eat the ears off someone's head” — to eat someone out of house and home",
+    "example": "Die jongens eten me de oren van het hoofd."
   },
   {
     "id": 14,
-    "term": "bij nacht zijn alle katten grauw",
-    "definition": "all cats are grey in the dark",
-    "example": ""
+    "term": "Van een mug een olifant maken",
+    "definition": "“To make an elephant out of a mosquito” — to make a mountain out of a molehill",
+    "example": "Het was maar een kras, maak er geen olifant van een mug."
   },
   {
     "id": 15,
-    "term": "dat brengt moesje niet naar Parijs",
-    "definition": "it doesn't have a significant effect; it's not a useful contribution; it doesn't advance the matter",
-    "example": ""
+    "term": "Het loopt in de soep",
+    "definition": "“It runs into the soup” — it all goes wrong",
+    "example": "Zonder planning loopt het hele project in de soep."
   },
   {
     "id": 16,
-    "term": "de kaas niet van het brood laten eten",
-    "definition": "to hold one's own, be assertive",
-    "example": "Maak je geen zorgen over haar, zij laat zich de kaas echt niet van het brood eten."
+    "term": "Ergens geen kaas van gegeten hebben",
+    "definition": "“To have eaten no cheese of something” — to know nothing about a subject",
+    "example": "Van boekhouden heb ik geen kaas gegeten."
   },
   {
     "id": 17,
-    "term": "de oren wassen",
-    "definition": "to rebuke, scold, reprimand severely, put someone in their place",
-    "example": "Ze waste de spijbelaar de oren."
+    "term": "De dans ontspringen",
+    "definition": "“To leap out of the dance” — to escape trouble at the last moment",
+    "example": "Hij was te laat, maar ontsprong de dans."
   },
   {
     "id": 18,
-    "term": "de vuile was buiten hangen",
-    "definition": "to air one's dirty laundry in public",
-    "example": ""
+    "term": "Iemand in de maling nemen",
+    "definition": "“To take someone into the grinding” — to pull someone's leg",
+    "example": "Hij nam me in de maling met dat verhaal."
   },
   {
     "id": 19,
-    "term": "de week doormidden zagen",
-    "definition": "to celebrate the halfway point of the working week on Wednesday",
-    "example": "Het is alweer woensdag, kom je mee uit lunchen om de week doormidden te zagen?"
+    "term": "Boter bij de vis",
+    "definition": "“Butter with the fish” — cash on the nail; pay up front",
+    "example": "Geen krediet hier: boter bij de vis."
   },
   {
     "id": 20,
-    "term": "de wijsheid in pacht hebben",
-    "definition": "To know everything",
-    "example": "Pubers denken altijd dat ze de wijsheid in pacht hebben."
+    "term": "Ergens de brui aan geven",
+    "definition": "“To give the brui to something” — to pack it in; to give up on it",
+    "example": "Na tien jaar gaf hij de brui aan zijn baan."
   },
   {
     "id": 21,
-    "term": "een appel en een ei",
-    "definition": "peanuts; a low price",
-    "example": "Deze tweedehands platenspeler kostte een appel en een ei."
+    "term": "Er is geen land mee te bezeilen",
+    "definition": "“There is no sailing to land with it” — there is no dealing with it",
+    "example": "Met die man is geen land te bezeilen."
   },
   {
     "id": 22,
-    "term": "een bord voor zijn kop hebben",
-    "definition": "to do as one pleases without shame or regard for signals from others",
-    "example": "Wat ik ook zeg, jij doet alsof de hele wereld om jou draait. Je hebt een bord voor je kop, en niet zo'n kleintje ook."
+    "term": "Roet in het eten gooien",
+    "definition": "“To throw soot into the food” — to spoil things; to be a spoilsport",
+    "example": "De regen gooide roet in het eten."
   },
   {
     "id": 23,
-    "term": "een kind kan de was doen",
-    "definition": "anyone can do it",
-    "example": "De handleiding legt het allemaal erg goed uit, een kind kan de was doen."
+    "term": "Zo dood als een pier",
+    "definition": "“As dead as an earthworm” — stone dead",
+    "example": "De accu is zo dood als een pier."
   },
   {
     "id": 24,
-    "term": "een rad voor de ogen draaien",
-    "definition": "to deceive, to pull the wool over someone's eyes",
-    "example": ""
+    "term": "Met de gebakken peren zitten",
+    "definition": "“To sit with the baked pears” — to be left to carry the mess",
+    "example": "Zij vertrokken en ik zat met de gebakken peren."
   },
   {
     "id": 25,
-    "term": "een speld tussen krijgen",
-    "definition": "to be unclear, refutable or debatable",
-    "example": "Dat zijn de feiten. Daar krijg je geen speld tussen."
+    "term": "Iemand de loef afsteken",
+    "definition": "“To cut the luff away from someone” — to get the better of someone",
+    "example": "Het kleine bedrijf stak de grote concurrent de loef af."
   },
   {
     "id": 26,
-    "term": "een worst voorhouden",
-    "definition": "to put something desirable in prospect in order to try to get someone to do something; to try to motivate",
-    "example": "De baas hield de werknemer een worst voor door toespelingen op een mogelijke promotie."
+    "term": "De handdoek in de ring gooien",
+    "definition": "“To throw the towel into the ring” — to admit defeat",
+    "example": "Na drie pogingen gooide hij de handdoek in de ring."
   },
   {
     "id": 27,
-    "term": "familie van het zevende knoopsgat",
-    "definition": "a very distant relative",
-    "example": ""
+    "term": "Ergens een puntje aan kunnen zuigen",
+    "definition": "“To be able to suck a tip off something” — to have a lot to learn from someone",
+    "example": "Aan haar geduld kan ik een puntje zuigen."
   },
   {
     "id": 28,
-    "term": "feest der herkenning",
-    "definition": "an experience that is enjoyable because it evokes a feeling of recognition",
-    "example": ""
+    "term": "Het is kluitjes in het riet sturen",
+    "definition": "“To send someone into the reeds with little clods” — to fob someone off",
+    "example": "Ze sturen ons met een kluitje in het riet."
   },
   {
     "id": 29,
-    "term": "feest van de democratie",
-    "definition": "an election",
-    "example": ""
+    "term": "Zijn schaapjes op het droge hebben",
+    "definition": "“To have your sheep on dry land” — to be comfortably off for life",
+    "example": "Op zijn vijftigste had hij zijn schaapjes op het droge."
   },
   {
     "id": 30,
-    "term": "fluitje van een cent",
-    "definition": "cakewalk, piece of cake",
-    "example": "Het bed in elkaar zetten is een fluitje van een cent, daar hoef je niet langer dan een uur mee bezig te zijn."
+    "term": "Een appeltje voor de dorst",
+    "definition": "“A little apple for the thirst” — something put by for a rainy day",
+    "example": "Dat spaargeld is ons appeltje voor de dorst."
   },
   {
     "id": 31,
-    "term": "gedane zaken nemen geen keer",
-    "definition": "what's done is done, what's done cannot be undone",
-    "example": ""
+    "term": "Door de mand vallen",
+    "definition": "“To fall through the basket” — to be found out",
+    "example": "Bij de eerste vraag viel hij al door de mand."
   },
   {
     "id": 32,
-    "term": "geen blad voor de mond nemen",
-    "definition": "to be outspoken; not to mince words; to call a spade a spade",
-    "example": ""
+    "term": "Iets op de lange baan schuiven",
+    "definition": "“To push something onto the long track” — to put something off indefinitely",
+    "example": "De beslissing werd weer op de lange baan geschoven."
   },
   {
     "id": 33,
-    "term": "geen haan die ernaar kraait",
-    "definition": "nobody pays any minds to it; nobody cares about it",
-    "example": ""
+    "term": "Het bijltje erbij neerleggen",
+    "definition": "“To lay the little axe down beside it” — to give up; to quit",
+    "example": "Hij legde er na dertig jaar het bijltje bij neer."
   },
   {
     "id": 34,
-    "term": "geen pap meer kunnen zeggen",
-    "definition": "to be exhausted",
-    "example": "Gelukkig zijn we eindelijk thuis, ik kan echt geen pap meer zeggen."
+    "term": "Een blauwtje lopen",
+    "definition": "“To walk a little blue one” — to be turned down by someone you fancied",
+    "example": "Hij liep een blauwtje bij haar zus."
   },
   {
     "id": 35,
-    "term": "geen windeieren leggen",
-    "definition": "to be beneficial to, particularly financially",
-    "example": "Zijn carrièreswitch heeft hem geen windeieren gelegd."
+    "term": "Ergens de klok van horen luiden",
+    "definition": "“To hear the bell ring about something” — to have only the vaguest idea",
+    "example": "Hij heeft de klok horen luiden maar weet niet waar de klepel hangt."
   },
   {
     "id": 36,
-    "term": "Gods water over Gods akker laten lopen",
-    "definition": "To let matters run their course; to not be bothered about consequences",
-    "example": ""
+    "term": "Op zijn tandvlees lopen",
+    "definition": "“To walk on your gums” — to be running on empty",
+    "example": "Na drie nachtdiensten liep ze op haar tandvlees."
   },
   {
     "id": 37,
-    "term": "haar op zijn tanden hebben",
-    "definition": "to be assertive, hold one's own",
-    "example": ""
+    "term": "Iets voor zoete koek slikken",
+    "definition": "“To swallow something as sweet cake” — to swallow something whole; to believe it uncritically",
+    "example": "Hij slikte die uitleg voor zoete koek."
   },
   {
     "id": 38,
-    "term": "het achterste van zijn tong laten zien",
-    "definition": "to put one's cards on the table, speak frankly",
-    "example": "Hij laat veel te snel het achterste van zijn tong zien."
+    "term": "De plank misslaan",
+    "definition": "“To miss the plank” — to get it completely wrong",
+    "example": "Met die conclusie sla je de plank mis."
   },
   {
     "id": 39,
-    "term": "het bij het verkeerde eind hebben",
-    "definition": "to be mistaken",
-    "example": "Als u denkt dat u met mij kunt sollen, dan heeft u het bij het verkeerde eind."
+    "term": "Voor een appel en een ei",
+    "definition": "“For an apple and an egg” — dirt cheap",
+    "example": "Ik kocht die fiets voor een appel en een ei."
   },
   {
     "id": 40,
-    "term": "het bloed kruipt waar het niet gaan kan",
-    "definition": "blood will tell; one's true nature will eventually assert itself",
-    "example": ""
+    "term": "Iemand op de kast jagen",
+    "definition": "“To chase someone onto the cupboard” — to wind someone up",
+    "example": "Zijn broer joeg hem expres op de kast."
   },
   {
     "id": 41,
-    "term": "het geluk is met de dommen",
-    "definition": "one seems to achieve something easier by luck, than through skill; it is better to be lucky than good",
-    "example": "Heb je het gehoord? Je collega heeft dat reuze-contract erdoor gekregen! — Het geluk is met de dommen."
+    "term": "Met de noorderzon vertrekken",
+    "definition": "“To leave with the northern sun” — to vanish without a trace",
+    "example": "De huurder vertrok met de noorderzon."
   },
   {
     "id": 42,
-    "term": "het rijk alleen hebben",
-    "definition": "To be home alone, to have one's residence all for oneself",
-    "example": "Haar vriend is er een paar dagen niet, dus heeft ze het rijk alleen."
+    "term": "Het hoofd boven water houden",
+    "definition": "“To keep your head above water” — to just about manage",
+    "example": "Met twee banen houdt ze het hoofd boven water."
   },
   {
     "id": 43,
-    "term": "in de bres springen voor",
-    "definition": "to protect (someone) or to help (someone) in dire straits",
-    "example": ""
+    "term": "Zijn handen in onschuld wassen",
+    "definition": "“To wash your hands in innocence” — to disclaim all responsibility",
+    "example": "De directie waste haar handen in onschuld."
   },
   {
     "id": 44,
-    "term": "in de lijn der verwachting liggen",
-    "definition": "to be expected",
-    "example": "Het lag in de lijn der verwachting dat de voetballer het met de scheidsrechter oneens zou zijn."
+    "term": "Iemand het vuur na aan de schenen leggen",
+    "definition": "“To lay the fire close to someone's shins” — to put someone under fierce pressure",
+    "example": "De journalist legde de minister het vuur na aan de schenen."
   },
   {
     "id": 45,
-    "term": "in de melk te brokkelen hebben",
-    "definition": "to have a say, to have authority",
-    "example": "Hij heeft op zijn werk niets in de melk te brokkelen."
+    "term": "Geen vuiltje aan de lucht",
+    "definition": "“Not a speck of dirt in the sky” — nothing to worry about",
+    "example": "Alles loopt op rolletjes, geen vuiltje aan de lucht."
   },
   {
     "id": 46,
-    "term": "in de rug steken",
-    "definition": "to stab (someone) in the back, to betray",
-    "example": "Hij is altijd bereid om iemand in de rug te steken."
+    "term": "Op rolletjes lopen",
+    "definition": "“To run on little rollers” — to go without a hitch",
+    "example": "De verhuizing liep op rolletjes."
   },
   {
     "id": 47,
-    "term": "in de wieg gelegd zijn",
-    "definition": "to be cut out for, have the talent for",
-    "example": "Zij is voor het dansen in de wieg gelegd."
+    "term": "Iets in de doofpot stoppen",
+    "definition": "“To put something in the extinguisher pot” — to hush something up",
+    "example": "Het schandaal werd in de doofpot gestopt."
   },
   {
     "id": 48,
-    "term": "in zijn oren knopen",
-    "definition": "to mark someone's words, take very conscious and careful mental note",
-    "example": "Knoop zijn advies maar goed in je oren!"
+    "term": "Uit zijn slof schieten",
+    "definition": "“To shoot out of your slipper” — to lose your temper suddenly",
+    "example": "Bij die opmerking schoot hij uit zijn slof."
   },
   {
     "id": 49,
-    "term": "jaar in jaar uit",
-    "definition": "year in, year out",
-    "example": ""
+    "term": "Een gat in de hand hebben",
+    "definition": "“To have a hole in your hand” — to be hopeless with money",
+    "example": "Hij verdient genoeg maar heeft een gat in zijn hand."
   },
   {
     "id": 50,
-    "term": "Jan met de pet",
-    "definition": "John Q. Public, Joe Average, a hypothetical individual personification of the common man",
-    "example": "Gebruiksaanwijzingen moeten zo geformuleerd zijn dat Jan met de pet ze snapt."
+    "term": "De puntjes op de i zetten",
+    "definition": "“To put the dots on the i” — to add the finishing touches",
+    "example": "We zetten morgen de puntjes op de i."
   },
   {
     "id": 51,
-    "term": "je bent wat je eet",
-    "definition": "you are what you eat",
-    "example": ""
+    "term": "Iemand de wind uit de zeilen nemen",
+    "definition": "“To take the wind out of someone's sails” — to disarm someone's argument",
+    "example": "Met dat cijfer nam ze hem de wind uit de zeilen."
   },
   {
     "id": 52,
-    "term": "je van het",
-    "definition": "the bee's knees, the very best, fantastic",
-    "example": ""
+    "term": "Van dik hout zaagt men planken",
+    "definition": "“From thick wood one saws planks” — done crudely, without any subtlety",
+    "example": "Zijn humor is van dik hout zaagt men planken."
   },
   {
     "id": 53,
-    "term": "jong geleerd is oud gedaan",
-    "definition": "as the twig is bent, so is the tree inclined",
-    "example": ""
+    "term": "Een kip zonder kop",
+    "definition": "“A chicken without a head” — running about aimlessly",
+    "example": "Hij rende rond als een kip zonder kop."
   },
   {
     "id": 54,
-    "term": "jonge hond",
-    "definition": "An eager and energetic young newcomer",
-    "example": "De tegendraadse jonge hond veroorzaakte furore in de partij."
+    "term": "De bloemetjes buiten zetten",
+    "definition": "“To put the little flowers outside” — to paint the town red",
+    "example": "Na het examen zetten we de bloemetjes buiten."
   },
   {
     "id": 55,
-    "term": "kaas gegeten hebben",
-    "definition": "to be adept at, have extensive knowledge of",
-    "example": "Van algebra heeft hij geen kaas gegeten."
+    "term": "Zijn draai gevonden hebben",
+    "definition": "“To have found your turn” — to have settled in",
+    "example": "In de nieuwe stad heeft hij zijn draai gevonden."
   },
   {
     "id": 56,
-    "term": "kant noch wal raken",
-    "definition": "to make no sense, be nonsensical",
-    "example": "Zijn redenering raakte kant noch wal."
+    "term": "Iets achter de hand houden",
+    "definition": "“To keep something behind the hand” — to keep something in reserve",
+    "example": "Hou altijd wat geld achter de hand."
   },
   {
     "id": 57,
-    "term": "kijken waar het schip strandt",
-    "definition": "to let the chips fall where they may",
-    "example": ""
+    "term": "Het is niet alles goud wat er blinkt",
+    "definition": "“Not everything that shines is gold” — all that glitters is not gold",
+    "example": "Mooie website, maar het is niet alles goud wat er blinkt."
   },
   {
     "id": 58,
-    "term": "kind aan huis zijn",
-    "definition": "to visit frequently",
-    "example": "Hij was kind aan huis bij mijn grootvader."
+    "term": "Iemand een hak zetten",
+    "definition": "“To set a heel on someone” — to play a mean trick on someone",
+    "example": "Hij zette zijn collega een flinke hak."
   },
   {
     "id": 59,
-    "term": "kind van de rekening",
-    "definition": "one who pays the price",
-    "example": "Die hoge lui ontspringen de dans, maar wij zijn het kind van de rekening."
+    "term": "Met twee maten meten",
+    "definition": "“To measure with two measures” — to apply double standards",
+    "example": "De scheidsrechter mat met twee maten."
   },
   {
     "id": 60,
-    "term": "koeien met gouden horens",
-    "definition": "impossible, unrealistic or fantastic things; castles in the air",
-    "example": "De manager beloofde koeien met gouden horens in plaats van realistische doelen te stellen."
+    "term": "Ergens geen doekjes om winden",
+    "definition": "“Not to wrap little cloths around something” — not to beat about the bush",
+    "example": "Ik wind er geen doekjes om: dit deugt niet."
   },
   {
     "id": 61,
-    "term": "leven als God in Frankrijk",
-    "definition": "to live comfortably and carefree",
-    "example": ""
+    "term": "Als een tang op een varken slaan",
+    "definition": "“To fit like a pair of tongs on a pig” — to make no sense at all",
+    "example": "Die vergelijking slaat als een tang op een varken."
   },
   {
     "id": 62,
-    "term": "liever blode Jan dan dode Jan",
-    "definition": "better safe than sorry",
-    "example": ""
+    "term": "Het onderspit delven",
+    "definition": "“To dig the bottom spit” — to come off worst",
+    "example": "In de finale dolven ze het onderspit."
   },
   {
     "id": 63,
-    "term": "lik op stuk geven",
-    "definition": "To have an answer ready; to address something (or someone) promptly and decisively",
-    "example": ""
+    "term": "Iemand om de tuin leiden",
+    "definition": "“To lead someone around the garden” — to deceive someone",
+    "example": "Met valse cijfers leidde hij ons om de tuin."
   },
   {
     "id": 64,
-    "term": "links laten liggen",
-    "definition": "to ignore, abandon, skip",
-    "example": "De toerist ging alleen naar Amsterdam, de rest van Nederland liet hij links liggen."
+    "term": "Zich in de nesten werken",
+    "definition": "“To work yourself into the nests” — to get yourself into trouble",
+    "example": "Met dat leugentje werkte hij zich in de nesten."
   },
   {
     "id": 65,
-    "term": "lood om oud ijzer",
-    "definition": "it makes no difference",
-    "example": ""
+    "term": "De koe bij de horens vatten",
+    "definition": "“To take the cow by the horns” — to tackle it head on",
+    "example": "Vat de koe bij de horens en bel hem op."
   },
   {
     "id": 66,
-    "term": "luiheid is des duivels oorkussen",
-    "definition": "idle hands are the devil's workshop",
-    "example": ""
+    "term": "Een gegeven paard niet in de bek kijken",
+    "definition": "“Not to look a given horse in the mouth” — not to look a gift horse in the mouth",
+    "example": "Het is tweedehands, maar je kijkt een gegeven paard niet in de bek."
   },
   {
     "id": 67,
-    "term": "met alle winden meewaaien",
-    "definition": "to turn with every wind, to be inconsistent, to succumb easily to outside influence",
-    "example": "Want hij is een politicus die met alle winden meewaait."
+    "term": "Water naar de zee dragen",
+    "definition": "“To carry water to the sea” — to do something utterly pointless",
+    "example": "Hem advies geven is water naar de zee dragen."
   },
   {
     "id": 68,
-    "term": "met de hakken over de sloot",
-    "definition": "just barely, by the skin of one's teeth",
-    "example": "Hij heeft met de hakken over de sloot zijn diploma gehaald."
+    "term": "Het zit hem niet lekker",
+    "definition": "“It does not sit nicely with him” — something is bothering him",
+    "example": "Die opmerking zit hem niet lekker."
   },
   {
     "id": 69,
-    "term": "met de nek aankijken",
-    "definition": "To scorn, look down on, disregard",
-    "example": "Ze keken de nieuwkomer met de nek aan."
+    "term": "Op het verkeerde been zetten",
+    "definition": "“To put someone on the wrong leg” — to wrong-foot someone",
+    "example": "De vraag zette me even op het verkeerde been."
   },
   {
     "id": 70,
-    "term": "met een kluitje in het riet sturen",
-    "definition": "to send someone off empty-handed or none the wiser",
-    "example": ""
+    "term": "Ergens niet omheen kunnen",
+    "definition": "“Not to be able to get around something” — to be unable to avoid a fact",
+    "example": "We kunnen niet om deze cijfers heen."
   },
   {
     "id": 71,
-    "term": "met man en muis",
-    "definition": "with everyone without exception",
-    "example": "met man en muis vergaan."
+    "term": "Zijn hart luchten",
+    "definition": "“To air your heart” — to get something off your chest",
+    "example": "Ze belde haar zus om haar hart te luchten."
   },
   {
     "id": 72,
-    "term": "met zijn gat in de boter vallen",
-    "definition": "to be in a comfortable situation through sheer luck; typically used to denote someone born into comfort",
-    "example": ""
+    "term": "Met man en macht",
+    "definition": "“With man and might” — with all hands and all effort",
+    "example": "Met man en macht werd de dijk hersteld."
   },
   {
     "id": 73,
-    "term": "na aan het hart liggen",
-    "definition": "to be close to someone's heart, to be important to someone on a personal level",
-    "example": "Het voortbestaan van dit natuurgebied ligt hem na aan het hart."
+    "term": "Iemand de mond snoeren",
+    "definition": "“To lace up someone's mouth” — to silence someone",
+    "example": "Met dat contract snoerden ze hem de mond."
   },
   {
     "id": 74,
-    "term": "naar de mond praten",
-    "definition": "to pander to someone, act like a sycophant to someone",
-    "example": ""
+    "term": "Een kip met gouden eieren",
+    "definition": "“A chicken with golden eggs” — a nice little earner",
+    "example": "Die app is een kip met gouden eieren."
   },
   {
     "id": 75,
-    "term": "naar iemands pijpen dansen",
-    "definition": "to dance to someone's tune",
-    "example": ""
+    "term": "Uit de kunst",
+    "definition": "“Out of the art” — brilliant; first rate",
+    "example": "Dat etentje was uit de kunst."
   },
   {
     "id": 76,
-    "term": "niet onder stoelen of banken steken",
-    "definition": "To be very frank and not withhold information about something",
-    "example": "Tijdens de bijeenkomst stak hij zijn politieke ideeën niet onder stoelen of banken."
+    "term": "Ergens de hand mee lichten",
+    "definition": "“To lift your hand with something” — to be lax about the rules",
+    "example": "Ze lichten daar de hand met de veiligheidsregels."
   },
   {
     "id": 77,
-    "term": "niet voor de poes zijn",
-    "definition": "to be someone or something that is not to be underestimated or trifled with",
-    "example": ""
+    "term": "Het kind van de rekening zijn",
+    "definition": "“To be the child of the bill” — to be the one who ends up paying for it",
+    "example": "Bij elke bezuiniging is de klant het kind van de rekening."
   },
   {
     "id": 78,
-    "term": "niets nieuws onder de zon",
-    "definition": "there is nothing new under the sun",
-    "example": ""
+    "term": "Zo oud als de weg naar Rome",
+    "definition": "“As old as the road to Rome” — as old as the hills",
+    "example": "Die grap is zo oud als de weg naar Rome."
   },
   {
     "id": 79,
-    "term": "ondank is 's werelds loon",
-    "definition": "one often receives ingratitude or no recognition for one's accomplishments",
-    "example": ""
+    "term": "Iets van de daken schreeuwen",
+    "definition": "“To shout something from the roofs” — to broadcast something to everyone",
+    "example": "Hij schreeuwde zijn nieuws van de daken."
   },
   {
     "id": 80,
-    "term": "onder de leden hebben",
-    "definition": "to have something in one's body; to be sick with something",
-    "example": "Hij heeft het virus al meer dan een week onder de leden."
+    "term": "Er is geen speld tussen te krijgen",
+    "definition": "“You cannot get a pin between it” — the argument is watertight",
+    "example": "Zijn betoog was zo strak dat er geen speld tussen te krijgen was."
   },
   {
     "id": 81,
-    "term": "Onze Lieve Heer heeft rare kostgangers",
-    "definition": "Some people are surprisingly strange and eccentric; people are weird",
-    "example": "Ik zag laatst een man naakt schaatsen. Onze Lieve Heer heeft rare kostgangers."
+    "term": "Zijn neus ophalen voor iets",
+    "definition": "“To pull your nose up at something” — to turn your nose up at something",
+    "example": "Hij haalt zijn neus op voor gewone koffie."
   },
   {
     "id": 82,
-    "term": "over de schutting gooien",
-    "definition": "To burden someone else with a problem one is faced with; to have someone else take care of an issue",
-    "example": "Deze vraag gooi ik liever over de schutting naar mijn collega."
+    "term": "De teugels laten vieren",
+    "definition": "“To let the reins slacken” — to loosen your grip",
+    "example": "Na de opening liet de directeur de teugels wat vieren."
   },
   {
     "id": 83,
-    "term": "over een nacht ijs gaan",
-    "definition": "to be taken lightly, to be ill-considered, to be handled in an overhasty way",
-    "example": "Het besluit om een rechtszaak aan te spannen ging niet over één nacht ijs."
+    "term": "Van de hak op de tak springen",
+    "definition": "“To jump from the heel to the branch” — to skip from subject to subject",
+    "example": "In zijn verhaal sprong hij van de hak op de tak."
   },
   {
     "id": 84,
-    "term": "over het paard getild zijn",
-    "definition": "to be arrogant due to excessive praise",
-    "example": "Hij is echt over het paard getild."
+    "term": "Een storm in een glas water",
+    "definition": "“A storm in a glass of water” — a storm in a teacup",
+    "example": "Het bleek een storm in een glas water."
   },
   {
     "id": 85,
-    "term": "paal en perk stellen",
-    "definition": "to limit, restrict",
-    "example": ""
+    "term": "Zijn ei kwijt kunnen",
+    "definition": "“To be able to get rid of your egg” — to have somewhere to express yourself",
+    "example": "In dat koor kan ze haar ei kwijt."
   },
   {
     "id": 86,
-    "term": "pappen en nathouden",
-    "definition": "to perfunctorily finish a task without consideration for results; to go through the motions",
-    "example": ""
+    "term": "Iemand op sleeptouw nemen",
+    "definition": "“To take someone on the tow rope” — to take someone under your wing",
+    "example": "De oudere collega nam de stagiair op sleeptouw."
   },
   {
     "id": 87,
-    "term": "peilingen zijn palingen",
-    "definition": "opinion polls are fickle and an unreliable indicator of election results",
-    "example": ""
+    "term": "Het is dweilen met de kraan open",
+    "definition": "“It is mopping with the tap running” — it is a hopeless task while the cause continues",
+    "example": "Zonder beleid is opruimen dweilen met de kraan open."
   },
   {
     "id": 88,
-    "term": "per slot van rekening",
-    "definition": "after all",
-    "example": ""
+    "term": "Ergens zijn tanden in zetten",
+    "definition": "“To sink your teeth into something” — to get properly stuck into a task",
+    "example": "Zet je tanden maar in dit dossier."
   },
   {
     "id": 89,
-    "term": "platte broodjes bakken",
-    "definition": "to grovel, to fawn, especially after having said something bold or controversial before; to attempt to reingra",
-    "example": ""
+    "term": "Met lege handen staan",
+    "definition": "“To stand with empty hands” — to end up with nothing",
+    "example": "Na het faillissement stonden ze met lege handen."
   },
   {
     "id": 90,
-    "term": "praatjes vullen geen gaatjes",
-    "definition": "fine words butter no parsnips, actions speak louder than words",
-    "example": ""
+    "term": "Zijn ogen uitkijken",
+    "definition": "“To look your eyes out” — to be amazed by everything you see",
+    "example": "In Tokio keek ik mijn ogen uit."
   },
   {
     "id": 91,
-    "term": "recht zo die gaat",
-    "definition": "straight ahead, without changing course",
-    "example": ""
+    "term": "De klos zijn",
+    "definition": "“To be the bobbin” — to be the one landed with it",
+    "example": "Wie het laatst weggaat, is de klos."
   },
   {
     "id": 92,
-    "term": "rechttoe rechtaan",
-    "definition": "straightforwardly, in a straightforward way",
-    "example": ""
+    "term": "Iemand de das omdoen",
+    "definition": "“To put the tie around someone” — to be someone's undoing",
+    "example": "Die ene fout deed hem uiteindelijk de das om."
   },
   {
     "id": 93,
-    "term": "roet in het eten gooien",
-    "definition": "to ruin a plan, event, or situation",
-    "example": ""
+    "term": "In de wolken zijn",
+    "definition": "“To be in the clouds” — to be over the moon",
+    "example": "Ze was in de wolken met het nieuws."
   },
   {
     "id": 94,
-    "term": "rond de pot draaien",
-    "definition": "to beat around the bush",
-    "example": ""
+    "term": "Ergens een zooitje van maken",
+    "definition": "“To make a mess of something” — to make a complete hash of it",
+    "example": "Hij heeft er een zooitje van gemaakt."
   },
   {
     "id": 95,
-    "term": "schapen met bokken verdelen",
-    "definition": "to apply a double standard",
-    "example": ""
+    "term": "De vinger op de zere plek leggen",
+    "definition": "“To put your finger on the sore spot” — to put your finger on exactly what is wrong",
+    "example": "Met die vraag legde ze de vinger op de zere plek."
   },
   {
     "id": 96,
-    "term": "schering en inslag",
-    "definition": "something very common or ordinary",
-    "example": "Kabeldiefstal is tegenwoordig schering en inslag."
+    "term": "Ergens niet aan moeten denken",
+    "definition": "“Not to have to think about something” — to dread the very thought of it",
+    "example": "Ik moet er niet aan denken dat we te laat komen."
   },
   {
     "id": 97,
-    "term": "scheve schaats rijden",
-    "definition": "to cheat on someone, be unfaithful",
-    "example": ""
+    "term": "Met de handen in het haar zitten",
+    "definition": "“To sit with your hands in your hair” — to be at your wits' end",
+    "example": "De leraar zat met de handen in het haar."
   },
   {
     "id": 98,
-    "term": "schouders eronder zetten",
-    "definition": "to work hard and make a strong effort; to put in the work",
-    "example": "Als we nu even de schouders eronder zetten, kunnen we straks rustig aan doen."
+    "term": "Iets op de mouw spelden",
+    "definition": "“To pin something on someone's sleeve” — to fool someone into believing something",
+    "example": "Dat verhaal heeft hij je op de mouw gespeld."
   },
   {
     "id": 99,
-    "term": "sigaar uit eigen doos",
-    "definition": "something presented as if it were a gift, but which was paid for by (or already belonged to) the recipient",
-    "example": ""
+    "term": "Van je stokje gaan",
+    "definition": "“To go off your little stick” — to faint",
+    "example": "In de hitte ging ze bijna van haar stokje."
   },
   {
     "id": 100,
-    "term": "stok om de hond te slaan",
-    "definition": "a pretense to do something that one already wanted to do",
-    "example": ""
+    "term": "De laatste loodjes wegen het zwaarst",
+    "definition": "“The last little weights are the heaviest” — the final stretch is always the hardest",
+    "example": "Nog twee hoofdstukken: de laatste loodjes wegen het zwaarst."
+  },
+  {
+    "id": 101,
+    "term": "Ergens gif op innemen",
+    "definition": "“To take poison on it” — to bet your life on it",
+    "example": "Daar kun je gif op innemen."
+  },
+  {
+    "id": 102,
+    "term": "Als een olifant in een porseleinkast",
+    "definition": "“Like an elephant in a china cabinet” — like a bull in a china shop",
+    "example": "Hij liep als een olifant in een porseleinkast door de vergadering."
   }
 ];
 window.QM_IDIOMS_HU_DATA = [
