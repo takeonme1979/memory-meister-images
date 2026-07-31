@@ -16511,27 +16511,36 @@ window.QM_UKBOYBANDS_DATA = [
     "gamma": 1
   },
   {
-    "id": "id_1784133075985_8wm01wn0",
-    "name": "Boom!",
-    "imageUrl": ""
-  },
-  {
     "id": "id_1784133075985_8xeuk7xm",
     "name": "Upside Down",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/upside-down.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/upside-down.jpg",
+    "focalX": 36.167533428577435,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1784133075985_8yvxqo86",
     "name": "North and South",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/north-and-south.jpg",
-    "focalX": 50.41229023652918,
-    "focalY": 50,
-    "zoom": 1
+    "focalX": 50,
+    "focalY": 40,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "gemini",
     "name": "Gemini",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/gemini.jpg",
+    "focalX": 50,
+    "focalY": 40,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   }
 ];
 window.QM_UKGIRLBANDS_DATA = [
