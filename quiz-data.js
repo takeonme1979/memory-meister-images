@@ -16667,7 +16667,7 @@ window.QM_UKGIRLBANDS_DATA = [
   {
     "id": "id_1784133075986_9ba5cvvb",
     "name": "Girl Thing",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-girlbands/girl-thing.webp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-girlbands/girl-thing.jpg",
     "focalX": 45.20737085586941,
     "focalY": 20.07617400749964,
     "zoom": 1.1,
