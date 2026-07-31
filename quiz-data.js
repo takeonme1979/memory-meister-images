@@ -6922,7 +6922,7 @@ window.QM_MALE80S_DATA = [
     "zoom": 1.13,
     "id": "id_1783716276549_uf2n3sw17h",
     "name": "Paul Young",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWDH1P-qee6ljQ6XxrJpPIWphNuLjLrGFrYXlF_BDmdA&s=10",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/paul-young.jpg",
     "brightness": 1.23,
     "contrast": 0.97,
     "saturation": 1,
