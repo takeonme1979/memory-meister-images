@@ -2554,8 +2554,7 @@ window.QM_HIDDEN_QUIZZES = [
   "rhuAdjectives",
   "rroAdjectives",
   "rltAdjectives",
-  "oscarActor00",
-  "tudorElizabeth"
+  "oscarActor00"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -2616,6 +2615,11 @@ window.QM_QUIZ_META = {
   },
   "synthpopBands": {
     "desc": "Synthpop & new wave of the 70s–80s (UK charts)."
+  },
+  "tudorElizabeth": {
+    "title": "Elizabethan England (AQA GCSE)",
+    "promptText": "What/Who is this?",
+    "desc": "93 key terms from AQA GCSE History: Elizabethan England, c1568–1603."
   }
 };
 window.QM_CATEGORY_META = {};
