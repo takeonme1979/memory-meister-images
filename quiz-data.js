@@ -66604,7 +66604,7 @@ window.QM_NO3S5262_DATA = [
   },
   {
     "id": "id_no3s5262_8",
-    "term": "Terry's Theme From 'Limelight'",
+    "term": "Terry's Theme From 'Limelight' (August 1953)",
     "definition": "Ron Goodwin",
     "example": "August 1953 — 2 weeks at No.3"
   },
@@ -66664,7 +66664,7 @@ window.QM_NO3S5262_DATA = [
   },
   {
     "id": "id_no3s5262_18",
-    "term": "If I Give My Heart to You",
+    "term": "If I Give My Heart to You (November 1954)",
     "definition": "Joan Regan",
     "example": "November 1954 — 1 week at No.3"
   },
@@ -66682,7 +66682,7 @@ window.QM_NO3S5262_DATA = [
   },
   {
     "id": "id_no3s5262_21",
-    "term": "Heartbeat",
+    "term": "Heartbeat (1955)",
     "definition": "Ruby Murray",
     "example": "January 1955 — 1 week at No.3"
   },
@@ -66694,7 +66694,7 @@ window.QM_NO3S5262_DATA = [
   },
   {
     "id": "id_no3s5262_23",
-    "term": "Let Me Go Lover",
+    "term": "Let Me Go Lover (March 1955)",
     "definition": "Dean Martin",
     "example": "March 1955 — 1 week at No.3"
   },
@@ -66724,13 +66724,13 @@ window.QM_NO3S5262_DATA = [
   },
   {
     "id": "id_no3s5262_28",
-    "term": "The Ballad of Davy Crockett",
+    "term": "The Ballad of Davy Crockett (January 1956)",
     "definition": "Tennessee Ernie Ford",
     "example": "January 1956 — 1 week at No.3"
   },
   {
     "id": "id_no3s5262_29",
-    "term": "Only You",
+    "term": "Only You (1956)",
     "definition": "Hilltoppers",
     "example": "May 1956 — 1 week at No.3"
   },
@@ -66814,7 +66814,7 @@ window.QM_NO3S5262_DATA = [
   },
   {
     "id": "id_no3s5262_43",
-    "term": "Oh Boy",
+    "term": "Oh Boy (1958)",
     "definition": "The Crickets",
     "example": "February 1958 — 2 weeks at No.3"
   },
@@ -66862,7 +66862,7 @@ window.QM_NO3S5262_DATA = [
   },
   {
     "id": "id_no3s5262_51",
-    "term": "Tom Dooley",
+    "term": "Tom Dooley (1958)",
     "definition": "Lonnie Donegan",
     "example": "December 1958 — 5 weeks at No.3"
   },
@@ -66898,7 +66898,7 @@ window.QM_NO3S5262_DATA = [
   },
   {
     "id": "id_no3s5262_57",
-    "term": "Donna",
+    "term": "Donna (1959)",
     "definition": "Marty Wilde",
     "example": "May 1959 — 1 week at No.3"
   },
@@ -66940,7 +66940,7 @@ window.QM_NO3S5262_DATA = [
   },
   {
     "id": "id_no3s5262_64",
-    "term": "Oh Carol",
+    "term": "Oh Carol (1959)",
     "definition": "Neil Sedaka",
     "example": "December 1959 — 4 weeks at No.3"
   },
@@ -67024,7 +67024,7 @@ window.QM_NO3S5262_DATA = [
   },
   {
     "id": "id_no3s5262_78",
-    "term": "You're Sixteen",
+    "term": "You're Sixteen (1961)",
     "definition": "Johnny Burnette",
     "example": "February 1961 — 1 week at No.3"
   },
@@ -67054,7 +67054,7 @@ window.QM_NO3S5262_DATA = [
   },
   {
     "id": "id_no3s5262_83",
-    "term": "A Girl Like You",
+    "term": "A Girl Like You (1961)",
     "definition": "Cliff Richard",
     "example": "July 1961 — 1 week at No.3"
   },
@@ -67066,7 +67066,7 @@ window.QM_NO3S5262_DATA = [
   },
   {
     "id": "id_no3s5262_85",
-    "term": "Romeo",
+    "term": "Romeo (1961)",
     "definition": "Petula Clark",
     "example": "August 1961 — 1 week at No.3"
   },
@@ -67096,7 +67096,7 @@ window.QM_NO3S5262_DATA = [
   },
   {
     "id": "id_no3s5262_90",
-    "term": "Forget Me Not",
+    "term": "Forget Me Not (1962)",
     "definition": "Eden Kane",
     "example": "February 1962 — 2 weeks at No.3"
   },
@@ -67108,7 +67108,7 @@ window.QM_NO3S5262_DATA = [
   },
   {
     "id": "id_no3s5262_92",
-    "term": "Sealed With A Kiss",
+    "term": "Sealed With A Kiss (1962)",
     "definition": "Brian Hyland",
     "example": "September 1962 — 1 week at No.3"
   },
@@ -67404,7 +67404,7 @@ window.QM_NO3S6370_DATA = [
   },
   {
     "id": "id_no3s6370_44",
-    "term": "Bang Bang",
+    "term": "Bang Bang (1966)",
     "definition": "Cher",
     "example": "May 1966 — 1 week at No.3"
   },
@@ -67434,7 +67434,7 @@ window.QM_NO3S6370_DATA = [
   },
   {
     "id": "id_no3s6370_49",
-    "term": "You Can't Hurry Love",
+    "term": "You Can't Hurry Love (1966)",
     "definition": "The Supremes",
     "example": "October 1966 — 1 week at No.3"
   },
@@ -67572,7 +67572,7 @@ window.QM_NO3S6370_DATA = [
   },
   {
     "id": "id_no3s6370_72",
-    "term": "This Old Heart Of Mine",
+    "term": "This Old Heart Of Mine (1968)",
     "definition": "The Isley Brothers",
     "example": "November 1968 — 2 weeks at No.3"
   },
@@ -67590,7 +67590,7 @@ window.QM_NO3S6370_DATA = [
   },
   {
     "id": "id_no3s6370_75",
-    "term": "Please Don't Go",
+    "term": "Please Don't Go (1969)",
     "definition": "Donald Peers",
     "example": "March 1969 — 1 week at No.3"
   },
@@ -67632,7 +67632,7 @@ window.QM_NO3S6370_DATA = [
   },
   {
     "id": "id_no3s6370_82",
-    "term": "He Ain't Heavy, He's My Brother",
+    "term": "He Ain't Heavy, He's My Brother (1969)",
     "definition": "The Hollies",
     "example": "November 1969 — 1 week at No.3"
   },
@@ -67656,7 +67656,7 @@ window.QM_NO3S6370_DATA = [
   },
   {
     "id": "id_no3s6370_86",
-    "term": "Can't Help Falling In Love",
+    "term": "Can't Help Falling In Love (1970)",
     "definition": "Andy Williams",
     "example": "March 1970 — 4 weeks at No.3"
   },
@@ -67674,13 +67674,13 @@ window.QM_NO3S6370_DATA = [
   },
   {
     "id": "id_no3s6370_89",
-    "term": "Mama Told Me (Not To Come)",
+    "term": "Mama Told Me (Not To Come) (1970)",
     "definition": "Three Dog Night",
     "example": "September 1970 — 2 weeks at No.3"
   },
   {
     "id": "id_no3s6370_90",
-    "term": "Give Me Just A Little More Time",
+    "term": "Give Me Just A Little More Time (1970)",
     "definition": "Chairmen of the Board",
     "example": "September 1970 — 2 weeks at No.3"
   },
@@ -67844,7 +67844,7 @@ window.QM_NO3S7178_DATA = [
   },
   {
     "id": "id_no3s7178_23",
-    "term": "Why",
+    "term": "Why (1972)",
     "definition": "Donny Osmond",
     "example": "December 1972 — 1 week at No.3"
   },
@@ -67922,7 +67922,7 @@ window.QM_NO3S7178_DATA = [
   },
   {
     "id": "id_no3s7178_36",
-    "term": "Sorrow",
+    "term": "Sorrow (1973)",
     "definition": "David Bowie",
     "example": "November 1973 — 2 weeks at No.3"
   },
@@ -67952,7 +67952,7 @@ window.QM_NO3S7178_DATA = [
   },
   {
     "id": "id_no3s7178_41",
-    "term": "Everyday",
+    "term": "Everyday (1974)",
     "definition": "Slade",
     "example": "April 1974 — 1 week at No.3"
   },
@@ -68000,7 +68000,7 @@ window.QM_NO3S7178_DATA = [
   },
   {
     "id": "id_no3s7178_49",
-    "term": "Hang On In There Baby",
+    "term": "Hang On In There Baby (1974)",
     "definition": "Johnny Bristol",
     "example": "September 1974 — 2 weeks at No.3"
   },
@@ -68036,7 +68036,7 @@ window.QM_NO3S7178_DATA = [
   },
   {
     "id": "id_no3s7178_55",
-    "term": "Girls",
+    "term": "Girls (1975)",
     "definition": "Moments And Whatnauts",
     "example": "March 1975 — 2 weeks at No.3"
   },
@@ -68078,7 +68078,7 @@ window.QM_NO3S7178_DATA = [
   },
   {
     "id": "id_no3s7178_62",
-    "term": "Love Machine",
+    "term": "Love Machine (1976)",
     "definition": "The Miracles",
     "example": "February 1976 — 1 week at No.3"
   },
@@ -68090,7 +68090,7 @@ window.QM_NO3S7178_DATA = [
   },
   {
     "id": "id_no3s7178_64",
-    "term": "Music",
+    "term": "Music (1976)",
     "definition": "John Miles",
     "example": "April 1976 — 3 weeks at No.3"
   },
@@ -68162,7 +68162,7 @@ window.QM_NO3S7178_DATA = [
   },
   {
     "id": "id_no3s7178_76",
-    "term": "When",
+    "term": "When (1977)",
     "definition": "Showaddywaddy",
     "example": "April 1977 — 1 week at No.3"
   },
@@ -68198,7 +68198,7 @@ window.QM_NO3S7178_DATA = [
   },
   {
     "id": "id_no3s7178_82",
-    "term": "How Deep Is Your Love",
+    "term": "How Deep Is Your Love (1977)",
     "definition": "The Bee Gees",
     "example": "December 1977 — 5 weeks at No.3"
   },
@@ -68216,13 +68216,13 @@ window.QM_NO3S7178_DATA = [
   },
   {
     "id": "id_no3s7178_85",
-    "term": "Wishing On A Star",
+    "term": "Wishing On A Star (1978)",
     "definition": "Rose Royce",
     "example": "March 1978 — 1 week at No.3"
   },
   {
     "id": "id_no3s7178_86",
-    "term": "Baker Street",
+    "term": "Baker Street (1978)",
     "definition": "Gerry Rafferty",
     "example": "April 1978 — 2 weeks at No.3"
   },
@@ -68234,13 +68234,13 @@ window.QM_NO3S7178_DATA = [
   },
   {
     "id": "id_no3s7178_88",
-    "term": "Miss You",
+    "term": "Miss You (1978)",
     "definition": "The Rolling Stones",
     "example": "June 1978 — 1 week at No.3"
   },
   {
     "id": "id_no3s7178_89",
-    "term": "Annie's Song",
+    "term": "Annie's Song (1978)",
     "definition": "James Galway",
     "example": "July 1978 — 2 weeks at No.3"
   },
@@ -68308,7 +68308,7 @@ window.QM_NO3S7984_DATA = [
   },
   {
     "id": "id_no3s7984_3",
-    "term": "Woman In Love",
+    "term": "Woman In Love (1979)",
     "definition": "The Three Degrees",
     "example": "February 1979 — 3 weeks at No.3"
   },
@@ -68338,7 +68338,7 @@ window.QM_NO3S7984_DATA = [
   },
   {
     "id": "id_no3s7984_8",
-    "term": "Wanted",
+    "term": "Wanted (1979)",
     "definition": "The Dooleys",
     "example": "August 1979 — 1 week at No.3"
   },
@@ -68410,13 +68410,13 @@ window.QM_NO3S7984_DATA = [
   },
   {
     "id": "id_no3s7984_20",
-    "term": "Please Don't Go",
+    "term": "Please Don't Go (1980)",
     "definition": "KC And The Sunshine Band",
     "example": "January 1980 — 1 week at No.3"
   },
   {
     "id": "id_no3s7984_21",
-    "term": "My Girl",
+    "term": "My Girl (1980)",
     "definition": "Madness",
     "example": "January 1980 — 2 weeks at No.3"
   },
@@ -68626,7 +68626,7 @@ window.QM_NO3S7984_DATA = [
   },
   {
     "id": "id_no3s7984_56",
-    "term": "Don't Go",
+    "term": "Don't Go (1982)",
     "definition": "Yazoo",
     "example": "July 1982 — 3 weeks at No.3"
   },
@@ -68644,7 +68644,7 @@ window.QM_NO3S7984_DATA = [
   },
   {
     "id": "id_no3s7984_59",
-    "term": "Mad World",
+    "term": "Mad World (1982)",
     "definition": "Tears for Fears",
     "example": "November 1982 — 3 weeks at No.3"
   },
@@ -68674,7 +68674,7 @@ window.QM_NO3S7984_DATA = [
   },
   {
     "id": "id_no3s7984_64",
-    "term": "Sign Of The Times",
+    "term": "Sign Of The Times (1983)",
     "definition": "The Belle Stars",
     "example": "February 1983 — 1 week at No.3"
   },
@@ -68698,7 +68698,7 @@ window.QM_NO3S7984_DATA = [
   },
   {
     "id": "id_no3s7984_68",
-    "term": "Can't Get Used To Losing You",
+    "term": "Can't Get Used To Losing You (1983)",
     "definition": "The Beat",
     "example": "May 1983 — 1 week at No.3"
   },
@@ -68710,7 +68710,7 @@ window.QM_NO3S7984_DATA = [
   },
   {
     "id": "id_no3s7984_70",
-    "term": "Who's That Girl?",
+    "term": "Who's That Girl? (1983)",
     "definition": "Eurythmics",
     "example": "July 1983 — 1 week at No.3"
   },
@@ -68824,7 +68824,7 @@ window.QM_NO3S7984_DATA = [
   },
   {
     "id": "id_no3s7984_89",
-    "term": "What's Love Got To Do With It",
+    "term": "What's Love Got To Do With It (1984)",
     "definition": "Tina Turner",
     "example": "August 1984 — 1 week at No.3"
   },
@@ -68892,7 +68892,7 @@ window.QM_NO3S8590_DATA = [
   },
   {
     "id": "id_no3s8590_7",
-    "term": "Love Don't Live Here Anymore",
+    "term": "Love Don't Live Here Anymore (1985)",
     "definition": "Jimmy Nail",
     "example": "May 1985 — 2 weeks at No.3"
   },
@@ -68958,7 +68958,7 @@ window.QM_NO3S8590_DATA = [
   },
   {
     "id": "id_no3s8590_18",
-    "term": "Eloise",
+    "term": "Eloise (1986)",
     "definition": "The Damned",
     "example": "February 1986 — 1 week at No.3"
   },
@@ -69048,7 +69048,7 @@ window.QM_NO3S8590_DATA = [
   },
   {
     "id": "id_no3s8590_33",
-    "term": "C'est La Vie",
+    "term": "C'est La Vie (1987)",
     "definition": "Robbie Nevil",
     "example": "January 1987 — 1 week at No.3"
   },
@@ -69090,13 +69090,13 @@ window.QM_NO3S8590_DATA = [
   },
   {
     "id": "id_no3s8590_40",
-    "term": "Always",
+    "term": "Always (1987)",
     "definition": "Atlantic Starr",
     "example": "July 1987 — 2 weeks at No.3"
   },
   {
     "id": "id_no3s8590_41",
-    "term": "Alone",
+    "term": "Alone (1987)",
     "definition": "Heart",
     "example": "August 1987 — 1 week at No.3"
   },
@@ -69132,13 +69132,13 @@ window.QM_NO3S8590_DATA = [
   },
   {
     "id": "id_no3s8590_47",
-    "term": "The Way You Make Me Feel",
+    "term": "The Way You Make Me Feel (1987)",
     "definition": "Michael Jackson",
     "example": "December 1987 — 3 weeks at No.3"
   },
   {
     "id": "id_no3s8590_48",
-    "term": "Rockin' Around the Christmas Tree",
+    "term": "Rockin' Around the Christmas Tree (1987)",
     "definition": "Comic Relief Presents Mel and Kim Performed by Kim Wilde and Mel Smith",
     "example": "December 1987 — 2 weeks at No.3"
   },
@@ -69216,13 +69216,13 @@ window.QM_NO3S8590_DATA = [
   },
   {
     "id": "id_no3s8590_61",
-    "term": "I Need You",
+    "term": "I Need You (1988)",
     "definition": "B.V.S.M.P.",
     "example": "August 1988 — 1 week at No.3"
   },
   {
     "id": "id_no3s8590_62",
-    "term": "Teardrops",
+    "term": "Teardrops (1988)",
     "definition": "Womack And Womack",
     "example": "September 1988 — 2 weeks at No.3"
   },
@@ -69240,13 +69240,13 @@ window.QM_NO3S8590_DATA = [
   },
   {
     "id": "id_no3s8590_65",
-    "term": "Missing You",
+    "term": "Missing You (1988)",
     "definition": "Chris De Burgh",
     "example": "November 1988 — 2 weeks at No.3"
   },
   {
     "id": "id_no3s8590_66",
-    "term": "Suddenly",
+    "term": "Suddenly (1988)",
     "definition": "Angry Anderson",
     "example": "December 1988 — 3 weeks at No.3"
   },
@@ -69264,7 +69264,7 @@ window.QM_NO3S8590_DATA = [
   },
   {
     "id": "id_no3s8590_69",
-    "term": "Help!",
+    "term": "Help! (1989)",
     "definition": "Bananarama And Lananeeneenoonoo",
     "example": "March 1989 — 2 weeks at No.3"
   },
@@ -69306,7 +69306,7 @@ window.QM_NO3S8590_DATA = [
   },
   {
     "id": "id_no3s8590_76",
-    "term": "Cherish",
+    "term": "Cherish (1989)",
     "definition": "Madonna",
     "example": "September 1989 — 1 week at No.3"
   },
@@ -69336,7 +69336,7 @@ window.QM_NO3S8590_DATA = [
   },
   {
     "id": "id_no3s8590_81",
-    "term": "Touch Me",
+    "term": "Touch Me (1990)",
     "definition": "49ers",
     "example": "January 1990 — 1 week at No.3"
   },
@@ -69396,7 +69396,7 @@ window.QM_NO3S8590_DATA = [
   },
   {
     "id": "id_no3s8590_91",
-    "term": "Take My Breath Away",
+    "term": "Take My Breath Away (1990)",
     "definition": "Berlin",
     "example": "November 1990 — 2 weeks at No.3"
   },
@@ -69408,7 +69408,7 @@ window.QM_NO3S8590_DATA = [
   },
   {
     "id": "id_no3s8590_93",
-    "term": "You've Lost That Lovin' Feelin'",
+    "term": "You've Lost That Lovin' Feelin' (1990)",
     "definition": "The Righteous Brothers",
     "example": "December 1990 — 1 week at No.3"
   }
@@ -69548,7 +69548,7 @@ window.QM_NO3S9196_DATA = [
   },
   {
     "id": "id_no3s9196_23",
-    "term": "Hang On In There Baby",
+    "term": "Hang On In There Baby (1992)",
     "definition": "Curiosity",
     "example": "May 1992 — 1 week at No.3"
   },
@@ -69674,7 +69674,7 @@ window.QM_NO3S9196_DATA = [
   },
   {
     "id": "id_no3s9196_44",
-    "term": "It's Alright",
+    "term": "It's Alright (1994)",
     "definition": "East 17",
     "example": "January 1994 — 1 week at No.3"
   },
@@ -69698,13 +69698,13 @@ window.QM_NO3S9196_DATA = [
   },
   {
     "id": "id_no3s9196_48",
-    "term": "Sweets For My Sweet",
+    "term": "Sweets For My Sweet (1994)",
     "definition": "C J Lewis",
     "example": "May 1994 — 1 week at No.3"
   },
   {
     "id": "id_no3s9196_49",
-    "term": "Around The World",
+    "term": "Around The World (1994)",
     "definition": "East 17",
     "example": "May 1994 — 3 weeks at No.3"
   },
@@ -69806,7 +69806,7 @@ window.QM_NO3S9196_DATA = [
   },
   {
     "id": "id_no3s9196_66",
-    "term": "Scream",
+    "term": "Scream (1995)",
     "definition": "Michael Jackson & Janet Jackson",
     "example": "June 1995 — 1 week at No.3"
   },
@@ -69818,7 +69818,7 @@ window.QM_NO3S9196_DATA = [
   },
   {
     "id": "id_no3s9196_68",
-    "term": "I'm a Believer",
+    "term": "I'm a Believer (1995)",
     "definition": "EMF & Reeves & Mortimer",
     "example": "July 1995 — 1 week at No.3"
   },
@@ -69932,7 +69932,7 @@ window.QM_NO3S9196_DATA = [
   },
   {
     "id": "id_no3s9196_87",
-    "term": "I Need You",
+    "term": "I Need You (1996)",
     "definition": "3T",
     "example": "December 1996 — 1 week at No.3"
   },
@@ -69944,7 +69944,7 @@ window.QM_NO3S9196_DATA = [
   },
   {
     "id": "id_no3s9196_89",
-    "term": "Don't Cry For Me Argentina",
+    "term": "Don't Cry For Me Argentina (1996)",
     "definition": "Madonna",
     "example": "December 1996 — 1 week at No.3"
   }
@@ -69982,7 +69982,7 @@ window.QM_NO3S9700_DATA = [
   },
   {
     "id": "id_no3s9700_6",
-    "term": "You Got the Love",
+    "term": "You Got the Love (1997)",
     "definition": "The Source ft Candi Staton",
     "example": "March 1997 — 1 week at No.3"
   },
@@ -70012,7 +70012,7 @@ window.QM_NO3S9700_DATA = [
   },
   {
     "id": "id_no3s9700_11",
-    "term": "Staring At The Sun",
+    "term": "Staring At The Sun (1997)",
     "definition": "U2",
     "example": "April 1997 — 1 week at No.3"
   },
@@ -70084,7 +70084,7 @@ window.QM_NO3S9700_DATA = [
   },
   {
     "id": "id_no3s9700_23",
-    "term": "Honey",
+    "term": "Honey (1997)",
     "definition": "Mariah Carey",
     "example": "September 1997 — 1 week at No.3"
   },
@@ -70102,7 +70102,7 @@ window.QM_NO3S9700_DATA = [
   },
   {
     "id": "id_no3s9700_26",
-    "term": "Wind Beneath My Wings",
+    "term": "Wind Beneath My Wings (1997)",
     "definition": "Steven Houghton",
     "example": "November 1997 — 1 week at No.3"
   },
@@ -70222,7 +70222,7 @@ window.QM_NO3S9700_DATA = [
   },
   {
     "id": "id_no3s9700_46",
-    "term": "When You're Gone",
+    "term": "When You're Gone (1998)",
     "definition": "Bryan Adams ft Melanie C",
     "example": "December 1998 — 1 week at No.3"
   },
@@ -70234,7 +70234,7 @@ window.QM_NO3S9700_DATA = [
   },
   {
     "id": "id_no3s9700_48",
-    "term": "Especially For You",
+    "term": "Especially For You (1998)",
     "definition": "Denise & Johnny",
     "example": "December 1998 — 1 week at No.3"
   },
@@ -70258,7 +70258,7 @@ window.QM_NO3S9700_DATA = [
   },
   {
     "id": "id_no3s9700_52",
-    "term": "Changes",
+    "term": "Changes (1999)",
     "definition": "2Pac",
     "example": "February 1999 — 1 week at No.3"
   },
@@ -70306,7 +70306,7 @@ window.QM_NO3S9700_DATA = [
   },
   {
     "id": "id_no3s9700_60",
-    "term": "Sometimes",
+    "term": "Sometimes (1999)",
     "definition": "Britney Spears",
     "example": "June 1999 — 1 week at No.3"
   },
@@ -70330,7 +70330,7 @@ window.QM_NO3S9700_DATA = [
   },
   {
     "id": "id_no3s9700_64",
-    "term": "Don't Stop",
+    "term": "Don't Stop (1999)",
     "definition": "ATB",
     "example": "October 1999 — 1 week at No.3"
   },
@@ -70354,7 +70354,7 @@ window.QM_NO3S9700_DATA = [
   },
   {
     "id": "id_no3s9700_68",
-    "term": "Because Of You",
+    "term": "Because Of You (2000)",
     "definition": "Scanty Sandwich",
     "example": "January 2000 — 1 week at No.3"
   },
@@ -70432,7 +70432,7 @@ window.QM_NO3S9700_DATA = [
   },
   {
     "id": "id_no3s9700_81",
-    "term": "It's My Life",
+    "term": "It's My Life (2000)",
     "definition": "Bon Jovi",
     "example": "June 2000 — 1 week at No.3"
   },
@@ -70492,7 +70492,7 @@ window.QM_NO3S9700_DATA = [
   },
   {
     "id": "id_no3s9700_91",
-    "term": "Silence",
+    "term": "Silence (2000)",
     "definition": "Delerium ft Sarah McLachlan",
     "example": "October 2000 — 1 week at No.3"
   },
@@ -70548,7 +70548,7 @@ window.QM_NO3S0103_DATA = [
   },
   {
     "id": "id_no3s0103_7",
-    "term": "Butterfly",
+    "term": "Butterfly (2001)",
     "definition": "Crazy Town",
     "example": "April 2001 — 1 week at No.3"
   },
@@ -70578,13 +70578,13 @@ window.QM_NO3S0103_DATA = [
   },
   {
     "id": "id_no3s0103_12",
-    "term": "Thank You",
+    "term": "Thank You (2001)",
     "definition": "Dido",
     "example": "June 2001 — 1 week at No.3"
   },
   {
     "id": "id_no3s0103_13",
-    "term": "Sing",
+    "term": "Sing (2001)",
     "definition": "Travis",
     "example": "June 2001 — 1 week at No.3"
   },
@@ -70608,7 +70608,7 @@ window.QM_NO3S0103_DATA = [
   },
   {
     "id": "id_no3s0103_17",
-    "term": "A Little Respect",
+    "term": "A Little Respect (2001)",
     "definition": "Wheatus",
     "example": "July 2001 — 1 week at No.3"
   },
@@ -70656,7 +70656,7 @@ window.QM_NO3S0103_DATA = [
   },
   {
     "id": "id_no3s0103_25",
-    "term": "They Don't Know",
+    "term": "They Don't Know (2001)",
     "definition": "So Solid Crew",
     "example": "November 2001 — 1 week at No.3"
   },
@@ -70740,7 +70740,7 @@ window.QM_NO3S0103_DATA = [
   },
   {
     "id": "id_no3s0103_39",
-    "term": "Wherever You Will Go",
+    "term": "Wherever You Will Go (2002)",
     "definition": "The Calling",
     "example": "July 2002 — 1 week at No.3"
   },
@@ -70770,7 +70770,7 @@ window.QM_NO3S0103_DATA = [
   },
   {
     "id": "id_no3s0103_44",
-    "term": "Like A Prayer",
+    "term": "Like A Prayer (2002)",
     "definition": "Mad House",
     "example": "August 2002 — 1 week at No.3"
   },
@@ -70788,7 +70788,7 @@ window.QM_NO3S0103_DATA = [
   },
   {
     "id": "id_no3s0103_47",
-    "term": "Papa Don't Preach",
+    "term": "Papa Don't Preach (2002)",
     "definition": "Kelly Osbourne",
     "example": "September 2002 — 1 week at No.3"
   },
@@ -70812,7 +70812,7 @@ window.QM_NO3S0103_DATA = [
   },
   {
     "id": "id_no3s0103_51",
-    "term": "One Love",
+    "term": "One Love (2002)",
     "definition": "Blue",
     "example": "November 2002 — 1 week at No.3"
   },
@@ -70956,13 +70956,13 @@ window.QM_NO3S0103_DATA = [
   },
   {
     "id": "id_no3s0103_75",
-    "term": "Sunshine",
+    "term": "Sunshine (2003)",
     "definition": "Gareth Gates",
     "example": "September 2003 — 1 week at No.3"
   },
   {
     "id": "id_no3s0103_76",
-    "term": "Superstar",
+    "term": "Superstar (2003)",
     "definition": "Jamelia",
     "example": "October 2003 — 1 week at No.3"
   },
@@ -70994,7 +70994,7 @@ window.QM_NO3S0408_DATA = [
   },
   {
     "id": "id_no3s0408_3",
-    "term": "Somebody to Love",
+    "term": "Somebody to Love (2004)",
     "definition": "Boogie Pimps",
     "example": "January 2004 — 1 week at No.3"
   },
@@ -71006,7 +71006,7 @@ window.QM_NO3S0408_DATA = [
   },
   {
     "id": "id_no3s0408_5",
-    "term": "Somewhere Only We Know",
+    "term": "Somewhere Only We Know (2004)",
     "definition": "Keane",
     "example": "February 2004 — 1 week at No.3"
   },
@@ -71102,7 +71102,7 @@ window.QM_NO3S0408_DATA = [
   },
   {
     "id": "id_no3s0408_21",
-    "term": "Sunshine",
+    "term": "Sunshine (2004)",
     "definition": "Twista",
     "example": "September 2004 — 1 week at No.3"
   },
@@ -71126,7 +71126,7 @@ window.QM_NO3S0408_DATA = [
   },
   {
     "id": "id_no3s0408_25",
-    "term": "More More More",
+    "term": "More More More (2004)",
     "definition": "Rachel Stevens",
     "example": "October 2004 — 1 week at No.3"
   },
@@ -71180,7 +71180,7 @@ window.QM_NO3S0408_DATA = [
   },
   {
     "id": "id_no3s0408_34",
-    "term": "Hush",
+    "term": "Hush (2005)",
     "definition": "LL Cool J ft 7 Aurelius",
     "example": "February 2005 — 1 week at No.3"
   },
@@ -71390,7 +71390,7 @@ window.QM_NO3S0408_DATA = [
   },
   {
     "id": "id_no3s0408_69",
-    "term": "Downtown",
+    "term": "Downtown (2006)",
     "definition": "Emma Bunton",
     "example": "December 2006 — 1 week at No.3"
   },
@@ -71462,7 +71462,7 @@ window.QM_NO3S0408_DATA = [
   },
   {
     "id": "id_no3s0408_81",
-    "term": "When You're Gone",
+    "term": "When You're Gone (2007)",
     "definition": "Avril Lavigne",
     "example": "July 2007 — 1 week at No.3"
   },
@@ -71540,7 +71540,7 @@ window.QM_NO3S0408_DATA = [
   },
   {
     "id": "id_no3s0408_94",
-    "term": "Girls",
+    "term": "Girls (2008)",
     "definition": "Sugababes",
     "example": "October 2008 — 1 week at No.3"
   },
@@ -71558,7 +71558,7 @@ window.QM_NO3S0408_DATA = [
   },
   {
     "id": "id_no3s0408_97",
-    "term": "Human",
+    "term": "Human (2008)",
     "definition": "The Killers",
     "example": "November 2008 — 1 week at No.3"
   },
@@ -71602,13 +71602,13 @@ window.QM_NO3S0915_DATA = [
   },
   {
     "id": "id_no3s0915_5",
-    "term": "Release Me",
+    "term": "Release Me (2009)",
     "definition": "Agnes",
     "example": "June 2009 — 2 weeks at No.3"
   },
   {
     "id": "id_no3s0915_6",
-    "term": "Fire",
+    "term": "Fire (2009)",
     "definition": "Kasabian",
     "example": "June 2009 — 1 week at No.3"
   },
@@ -71650,7 +71650,7 @@ window.QM_NO3S0915_DATA = [
   },
   {
     "id": "id_no3s0915_13",
-    "term": "Baby",
+    "term": "Baby (2010)",
     "definition": "Justin Bieber ft Ludacris",
     "example": "March 2010 — 2 weeks at No.3"
   },
@@ -71674,7 +71674,7 @@ window.QM_NO3S0915_DATA = [
   },
   {
     "id": "id_no3s0915_17",
-    "term": "Solo",
+    "term": "Solo (2010)",
     "definition": "Iyaz",
     "example": "June 2010 — 1 week at No.3"
   },
@@ -71698,7 +71698,7 @@ window.QM_NO3S0915_DATA = [
   },
   {
     "id": "id_no3s0915_21",
-    "term": "Missing You",
+    "term": "Missing You (2010)",
     "definition": "The Saturdays",
     "example": "August 2010 — 1 week at No.3"
   },
@@ -71728,7 +71728,7 @@ window.QM_NO3S0915_DATA = [
   },
   {
     "id": "id_no3s0915_26",
-    "term": "Poison",
+    "term": "Poison (2010)",
     "definition": "Nicole Scherzinger / Rita Ora",
     "example": "December 2010, 1 week at No.3 & July 2015, 1 week at No.3"
   },
@@ -71758,7 +71758,7 @@ window.QM_NO3S0915_DATA = [
   },
   {
     "id": "id_no3s0915_31",
-    "term": "Just Can't Get Enough",
+    "term": "Just Can't Get Enough (2011)",
     "definition": "Black Eyed Peas",
     "example": "April 2011 — 1 week at No.3"
   },
@@ -71818,7 +71818,7 @@ window.QM_NO3S0915_DATA = [
   },
   {
     "id": "id_no3s0915_41",
-    "term": "Wherever You Will Go",
+    "term": "Wherever You Will Go (2011)",
     "definition": "Charlene Soraia",
     "example": "October 2011 — 1 week at No.3"
   },
@@ -71842,7 +71842,7 @@ window.QM_NO3S0915_DATA = [
   },
   {
     "id": "id_no3s0915_45",
-    "term": "Troublemaker",
+    "term": "Troublemaker (January 2012)",
     "definition": "Taio Cruz",
     "example": "January 2012 — 1 week at No.3"
   },
@@ -71944,7 +71944,7 @@ window.QM_NO3S0915_DATA = [
   },
   {
     "id": "id_no3s0915_62",
-    "term": "Bang Bang",
+    "term": "Bang Bang (2013)",
     "definition": "Will.i.am",
     "example": "July 2013 — 1 week at No.3"
   },
@@ -71968,13 +71968,13 @@ window.QM_NO3S0915_DATA = [
   },
   {
     "id": "id_no3s0915_66",
-    "term": "It's My Party",
+    "term": "It's My Party (2013)",
     "definition": "Jessie J",
     "example": "September 2013 — 1 week at No.3"
   },
   {
     "id": "id_no3s0915_67",
-    "term": "Juliet",
+    "term": "Juliet (2013)",
     "definition": "Lawson",
     "example": "October 2013 — 1 week at No.3"
   },
@@ -72016,13 +72016,13 @@ window.QM_NO3S0915_DATA = [
   },
   {
     "id": "id_no3s0915_74",
-    "term": "Changes",
+    "term": "Changes (2014)",
     "definition": "Faul & Wad Ad vs PNAU",
     "example": "April 2014 — 1 week at No.3"
   },
   {
     "id": "id_no3s0915_75",
-    "term": "Touch",
+    "term": "Touch (2014)",
     "definition": "Shift K3Y",
     "example": "April 2014 — 1 week at No.3"
   },
@@ -72186,7 +72186,7 @@ window.QM_NO3S1621_DATA = [
   },
   {
     "id": "id_no3s1621_4",
-    "term": "You Don't Know Me",
+    "term": "You Don't Know Me (2017)",
     "definition": "Jax Jones ft Raye",
     "example": "February 2017 — 3 weeks at No.3"
   },
@@ -72204,13 +72204,13 @@ window.QM_NO3S1621_DATA = [
   },
   {
     "id": "id_no3s1621_7",
-    "term": "What About Us",
+    "term": "What About Us (2017)",
     "definition": "Pink",
     "example": "September 2017 — 3 weeks at No.3"
   },
   {
     "id": "id_no3s1621_8",
-    "term": "Silence",
+    "term": "Silence (2017)",
     "definition": "Marshmello ft Khalid",
     "example": "November 2017 — 3 weeks at No.3"
   },
@@ -72228,7 +72228,7 @@ window.QM_NO3S1621_DATA = [
   },
   {
     "id": "id_no3s1621_11",
-    "term": "Idgaf",
+    "term": "Idgaf (2018)",
     "definition": "Dua Lipa",
     "example": "March 2018 — 3 weeks at No.3"
   },
@@ -72246,7 +72246,7 @@ window.QM_NO3S1621_DATA = [
   },
   {
     "id": "id_no3s1621_14",
-    "term": "Rise",
+    "term": "Rise (2018)",
     "definition": "Jonas Blue ft Jack & Jack",
     "example": "August 2018 — 2 weeks at No.3"
   },
@@ -72258,7 +72258,7 @@ window.QM_NO3S1621_DATA = [
   },
   {
     "id": "id_no3s1621_16",
-    "term": "I Love It",
+    "term": "I Love It (2018)",
     "definition": "Kanye West & Lil Pump",
     "example": "September 2018 — 4 weeks at No.3"
   },
@@ -72270,7 +72270,7 @@ window.QM_NO3S1621_DATA = [
   },
   {
     "id": "id_no3s1621_18",
-    "term": "Without Me",
+    "term": "Without Me (2018)",
     "definition": "Halsey",
     "example": "December 2018 — 2 weeks at No.3"
   },
@@ -72282,7 +72282,7 @@ window.QM_NO3S1621_DATA = [
   },
   {
     "id": "id_no3s1621_20",
-    "term": "Wow.",
+    "term": "Wow. (2019)",
     "definition": "Post Malone",
     "example": "January 2019 — 1 week at No.3"
   },
@@ -72330,7 +72330,7 @@ window.QM_NO3S1621_DATA = [
   },
   {
     "id": "id_no3s1621_28",
-    "term": "Circles",
+    "term": "Circles (2019)",
     "definition": "Post Malone",
     "example": "October 2019 — 1 week at No.3"
   },
@@ -72390,7 +72390,7 @@ window.QM_NO3S1621_DATA = [
   },
   {
     "id": "id_no3s1621_38",
-    "term": "Dynamite",
+    "term": "Dynamite (2020)",
     "definition": "BTS",
     "example": "September 2020 — 1 week at No.3"
   },
@@ -72450,7 +72450,7 @@ window.QM_NO3S1621_DATA = [
   },
   {
     "id": "id_no3s1621_48",
-    "term": "Patience",
+    "term": "Patience (2021)",
     "definition": "KSI ft Yungblud & Polo G",
     "example": "March 2021 — 1 week at No.3"
   },
@@ -72486,7 +72486,7 @@ window.QM_NO3S1621_DATA = [
   },
   {
     "id": "id_no3s1621_54",
-    "term": "Black Magic",
+    "term": "Black Magic (2021)",
     "definition": "Jonasu",
     "example": "August 2021 — 2 weeks at No.3"
   },
@@ -72584,7 +72584,7 @@ window.QM_NO3S2226_DATA = [
   },
   {
     "id": "id_no3s2226_10",
-    "term": "Lift Me Up",
+    "term": "Lift Me Up (2022)",
     "definition": "Rihanna",
     "example": "November 2022 — 1 week at No.3"
   },
@@ -72596,7 +72596,7 @@ window.QM_NO3S2226_DATA = [
   },
   {
     "id": "id_no3s2226_12",
-    "term": "Miss You",
+    "term": "Miss You (2022)",
     "definition": "Oliver Tree & Robin Schulz",
     "example": "November 2022 — 1 week at No.3"
   },
@@ -72692,7 +72692,7 @@ window.QM_NO3S2226_DATA = [
   },
   {
     "id": "id_no3s2226_28",
-    "term": "Abracadabra",
+    "term": "Abracadabra (2025)",
     "definition": "Lady Gaga",
     "example": "February 2025 — 2 weeks at No.3"
   },
@@ -72716,7 +72716,7 @@ window.QM_NO3S2226_DATA = [
   },
   {
     "id": "id_no3s2226_32",
-    "term": "Show Me Love",
+    "term": "Show Me Love (2025)",
     "definition": "WizTheMC & Bees & Honey",
     "example": "May 2025 — 1 week at No.3"
   },
@@ -72740,7 +72740,7 @@ window.QM_NO3S2226_DATA = [
   },
   {
     "id": "id_no3s2226_36",
-    "term": "Tears",
+    "term": "Tears (2025)",
     "definition": "Sabrina Carpenter",
     "example": "September 2025 — 2 weeks at No.3"
   },
@@ -72758,7 +72758,7 @@ window.QM_NO3S2226_DATA = [
   },
   {
     "id": "id_no3s2226_39",
-    "term": "Rockin' Around the Christmas Tree",
+    "term": "Rockin' Around the Christmas Tree (2026)",
     "definition": "Brenda Lee",
     "example": "January 2026 — 1 week at No.3"
   },
@@ -72796,7 +72796,7 @@ window.QM_NO4S5264_DATA = [
   },
   {
     "id": "id_no4s5264_2",
-    "term": "Oh Happy Day",
+    "term": "Oh Happy Day (1953)",
     "definition": "Johnston Brothers",
     "example": "May 1953 — 2 weeks at No.4"
   },
@@ -72808,7 +72808,7 @@ window.QM_NO4S5264_DATA = [
   },
   {
     "id": "id_no4s5264_4",
-    "term": "Swedish Rhapsody",
+    "term": "Swedish Rhapsody (December 1953)",
     "definition": "Ray Martin",
     "example": "December 1953 — 3 weeks at No.4"
   },
@@ -72832,19 +72832,19 @@ window.QM_NO4S5264_DATA = [
   },
   {
     "id": "id_no4s5264_8",
-    "term": "Wanted",
+    "term": "Wanted (1954)",
     "definition": "Perry Como / Al Martino",
     "example": "June 1954, 2 weeks at No.4 & July 1954, 3 weeks at No.4"
   },
   {
     "id": "id_no4s5264_9",
-    "term": "This Ole House",
+    "term": "This Ole House (October 1954)",
     "definition": "Billie Anthony",
     "example": "October 1954 — 1 week at No.4"
   },
   {
     "id": "id_no4s5264_10",
-    "term": "If I Give My Heart to You",
+    "term": "If I Give My Heart to You (November 1954)",
     "definition": "Doris Day With the Mellomen",
     "example": "November 1954 — 1 week at No.4"
   },
@@ -72880,7 +72880,7 @@ window.QM_NO4S5264_DATA = [
   },
   {
     "id": "id_no4s5264_16",
-    "term": "Hey There",
+    "term": "Hey There (November 1955)",
     "definition": "Rosemary Clooney",
     "example": "November 1955 — 1 week at No.4"
   },
@@ -72934,7 +72934,7 @@ window.QM_NO4S5264_DATA = [
   },
   {
     "id": "id_no4s5264_25",
-    "term": "True Love",
+    "term": "True Love (1957)",
     "definition": "Bing Crosby and Grace Kelly",
     "example": "February 1957 — 1 week at No.4"
   },
@@ -72946,13 +72946,13 @@ window.QM_NO4S5264_DATA = [
   },
   {
     "id": "id_no4s5264_27",
-    "term": "Baby Baby",
+    "term": "Baby Baby (1957)",
     "definition": "Frankie Lymon And The Teenagers",
     "example": "May 1957 — 1 week at No.4"
   },
   {
     "id": "id_no4s5264_28",
-    "term": "Around The World",
+    "term": "Around The World (July 1957)",
     "definition": "Ronnie Hilton",
     "example": "July 1957 — 2 weeks at No.4"
   },
@@ -73168,7 +73168,7 @@ window.QM_NO4S5264_DATA = [
   },
   {
     "id": "id_no4s5264_64",
-    "term": "Love Letters",
+    "term": "Love Letters (1962)",
     "definition": "Ketty Lester",
     "example": "May 1962 — 1 week at No.4"
   },
@@ -73228,7 +73228,7 @@ window.QM_NO4S5264_DATA = [
   },
   {
     "id": "id_no4s5264_74",
-    "term": "Twist and Shout",
+    "term": "Twist and Shout (1963)",
     "definition": "Brian Poole And The Tremeloes",
     "example": "August 1963 — 3 weeks at No.4"
   },
@@ -73270,13 +73270,13 @@ window.QM_NO4S5264_DATA = [
   },
   {
     "id": "id_no4s5264_81",
-    "term": "Secret Love",
+    "term": "Secret Love (1963)",
     "definition": "Kathy Kirby",
     "example": "December 1963 — 2 weeks at No.4"
   },
   {
     "id": "id_no4s5264_82",
-    "term": "I Only Want To Be With You",
+    "term": "I Only Want To Be With You (1964)",
     "definition": "Dusty Springfield",
     "example": "January 1964 — 3 weeks at No.4"
   },
@@ -73344,7 +73344,7 @@ window.QM_NO4S6572_DATA = [
   },
   {
     "id": "id_no4s6572_5",
-    "term": "Goodbye My Love",
+    "term": "Goodbye My Love (1965)",
     "definition": "The Searchers",
     "example": "April 1965 — 1 week at No.4"
   },
@@ -73404,7 +73404,7 @@ window.QM_NO4S6572_DATA = [
   },
   {
     "id": "id_no4s6572_15",
-    "term": "My Love",
+    "term": "My Love (1966)",
     "definition": "Petula Clark",
     "example": "March 1966 — 1 week at No.4"
   },
@@ -73428,7 +73428,7 @@ window.QM_NO4S6572_DATA = [
   },
   {
     "id": "id_no4s6572_19",
-    "term": "Sorrow",
+    "term": "Sorrow (1966)",
     "definition": "Merseys",
     "example": "June 1966 — 3 weeks at No.4"
   },
@@ -73560,7 +73560,7 @@ window.QM_NO4S6572_DATA = [
   },
   {
     "id": "id_no4s6572_41",
-    "term": "MacArthur Park",
+    "term": "MacArthur Park (1968)",
     "definition": "Richard Harris",
     "example": "July 1968 — 2 weeks at No.4"
   },
@@ -73596,7 +73596,7 @@ window.QM_NO4S6572_DATA = [
   },
   {
     "id": "id_no4s6572_47",
-    "term": "Dancing In The Street",
+    "term": "Dancing In The Street (1969)",
     "definition": "Martha and the Vandellas",
     "example": "February 1969 — 1 week at No.4"
   },
@@ -73656,7 +73656,7 @@ window.QM_NO4S6572_DATA = [
   },
   {
     "id": "id_no4s6572_57",
-    "term": "Come And Get It",
+    "term": "Come And Get It (1970)",
     "definition": "Badfinger",
     "example": "January 1970 — 1 week at No.4"
   },
@@ -73686,7 +73686,7 @@ window.QM_NO4S6572_DATA = [
   },
   {
     "id": "id_no4s6572_62",
-    "term": "Something",
+    "term": "Something (1970)",
     "definition": "Shirley Bassey",
     "example": "August 1970 — 1 week at No.4"
   },
@@ -73704,13 +73704,13 @@ window.QM_NO4S6572_DATA = [
   },
   {
     "id": "id_no4s6572_65",
-    "term": "It's Only Make Believe",
+    "term": "It's Only Make Believe (1970)",
     "definition": "Glen Campbell",
     "example": "December 1970 — 4 weeks at No.4"
   },
   {
     "id": "id_no4s6572_66",
-    "term": "I'll Be There",
+    "term": "I'll Be There (1971)",
     "definition": "The Jackson 5",
     "example": "January 1971 — 1 week at No.4"
   },
@@ -73860,7 +73860,7 @@ window.QM_NO4S6572_DATA = [
   },
   {
     "id": "id_no4s6572_91",
-    "term": "Circles",
+    "term": "Circles (1972)",
     "definition": "The New Seekers",
     "example": "July 1972 — 1 week at No.4"
   },
@@ -73964,13 +73964,13 @@ window.QM_NO4S7379_DATA = [
   },
   {
     "id": "id_no4s7379_10",
-    "term": "Dyna-Mite",
+    "term": "Dyna-Mite (1973)",
     "definition": "Mud",
     "example": "November 1973 — 2 weeks at No.4"
   },
   {
     "id": "id_no4s7379_11",
-    "term": "When I Fall In Love",
+    "term": "When I Fall In Love (1973)",
     "definition": "Donny Osmond",
     "example": "December 1973 — 1 week at No.4"
   },
@@ -73994,7 +73994,7 @@ window.QM_NO4S7379_DATA = [
   },
   {
     "id": "id_no4s7379_15",
-    "term": "You're Sixteen",
+    "term": "You're Sixteen (1974)",
     "definition": "Ringo Starr",
     "example": "March 1974 — 2 weeks at No.4"
   },
@@ -74006,7 +74006,7 @@ window.QM_NO4S7379_DATA = [
   },
   {
     "id": "id_no4s7379_17",
-    "term": "What Becomes Of The Brokenhearted",
+    "term": "What Becomes Of The Brokenhearted (1974)",
     "definition": "Jimmy Ruffin",
     "example": "August 1974 — 1 week at No.4"
   },
@@ -74114,7 +74114,7 @@ window.QM_NO4S7379_DATA = [
   },
   {
     "id": "id_no4s7379_35",
-    "term": "This Old Heart Of Mine",
+    "term": "This Old Heart Of Mine (1975)",
     "definition": "Rod Stewart",
     "example": "December 1975 — 1 week at No.4"
   },
@@ -74156,7 +74156,7 @@ window.QM_NO4S7379_DATA = [
   },
   {
     "id": "id_no4s7379_42",
-    "term": "Can't Help Falling In Love",
+    "term": "Can't Help Falling In Love (1976)",
     "definition": "The Stylistics",
     "example": "May 1976 — 1 week at No.4"
   },
@@ -74240,7 +74240,7 @@ window.QM_NO4S7379_DATA = [
   },
   {
     "id": "id_no4s7379_56",
-    "term": "Romeo",
+    "term": "Romeo (1977)",
     "definition": "Mr. Big",
     "example": "March 1977 — 2 weeks at No.4"
   },
@@ -74300,7 +74300,7 @@ window.QM_NO4S7379_DATA = [
   },
   {
     "id": "id_no4s7379_66",
-    "term": "Stayin' Alive",
+    "term": "Stayin' Alive (1978)",
     "definition": "The Bee Gees",
     "example": "March 1978 — 1 week at No.4"
   },
@@ -74360,7 +74360,7 @@ window.QM_NO4S7379_DATA = [
   },
   {
     "id": "id_no4s7379_76",
-    "term": "I Want Your Love",
+    "term": "I Want Your Love (1979)",
     "definition": "Chic",
     "example": "April 1979 — 1 week at No.4"
   },
@@ -74396,13 +74396,13 @@ window.QM_NO4S7379_DATA = [
   },
   {
     "id": "id_no4s7379_82",
-    "term": "After The Love Has Gone",
+    "term": "After The Love Has Gone (1979)",
     "definition": "Earth, Wind & Fire",
     "example": "August 1979 — 1 week at No.4"
   },
   {
     "id": "id_no4s7379_83",
-    "term": "Angel Eyes",
+    "term": "Angel Eyes (1979)",
     "definition": "Roxy Music",
     "example": "September 1979 — 2 weeks at No.4"
   },
@@ -74426,7 +74426,7 @@ window.QM_NO4S7379_DATA = [
   },
   {
     "id": "id_no4s7379_87",
-    "term": "I Only Want To Be With You",
+    "term": "I Only Want To Be With You (1979)",
     "definition": "Tourists",
     "example": "December 1979 — 2 weeks at No.4"
   }
@@ -74518,7 +74518,7 @@ window.QM_NO4S8085_DATA = [
   },
   {
     "id": "id_no4s8085_15",
-    "term": "Happy Xmas (War Is Over)",
+    "term": "Happy Xmas (War Is Over) (January 1981)",
     "definition": "John Lennon & Plastic Ono Band",
     "example": "January 1981 — 1 week at No.4"
   },
@@ -74596,7 +74596,7 @@ window.QM_NO4S8085_DATA = [
   },
   {
     "id": "id_no4s8085_28",
-    "term": "Pretend",
+    "term": "Pretend (1981)",
     "definition": "Alvin Stardust",
     "example": "October 1981 — 1 week at No.4"
   },
@@ -74608,7 +74608,7 @@ window.QM_NO4S8085_DATA = [
   },
   {
     "id": "id_no4s8085_30",
-    "term": "Absolute Beginners",
+    "term": "Absolute Beginners (1981)",
     "definition": "The Jam",
     "example": "October 1981 — 1 week at No.4"
   },
@@ -74632,7 +74632,7 @@ window.QM_NO4S8085_DATA = [
   },
   {
     "id": "id_no4s8085_34",
-    "term": "Why Do Fools Fall in Love",
+    "term": "Why Do Fools Fall in Love (1981)",
     "definition": "Diana Ross",
     "example": "December 1981 — 1 week at No.4"
   },
@@ -74704,7 +74704,7 @@ window.QM_NO4S8085_DATA = [
   },
   {
     "id": "id_no4s8085_46",
-    "term": "Can't Take My Eyes Off You",
+    "term": "Can't Take My Eyes Off You (1982)",
     "definition": "Boystown Gang",
     "example": "August 1982 — 1 week at No.4"
   },
@@ -74800,7 +74800,7 @@ window.QM_NO4S8085_DATA = [
   },
   {
     "id": "id_no4s8085_62",
-    "term": "Mama",
+    "term": "Mama (1983)",
     "definition": "Genesis",
     "example": "September 1983 — 1 week at No.4"
   },
@@ -74824,7 +74824,7 @@ window.QM_NO4S8085_DATA = [
   },
   {
     "id": "id_no4s8085_66",
-    "term": "Hold Me Now",
+    "term": "Hold Me Now (1983)",
     "definition": "The Thompson Twins",
     "example": "December 1983 — 1 week at No.4"
   },
@@ -74902,7 +74902,7 @@ window.QM_NO4S8085_DATA = [
   },
   {
     "id": "id_no4s8085_79",
-    "term": "Shout",
+    "term": "Shout (1985)",
     "definition": "Tears for Fears",
     "example": "January 1985 — 1 week at No.4"
   },
@@ -74914,7 +74914,7 @@ window.QM_NO4S8085_DATA = [
   },
   {
     "id": "id_no4s8085_81",
-    "term": "Kiss Me",
+    "term": "Kiss Me (1985)",
     "definition": "Stephen 'Tin Tin' Duffy",
     "example": "March 1985 — 2 weeks at No.4"
   },
@@ -74938,13 +74938,13 @@ window.QM_NO4S8085_DATA = [
   },
   {
     "id": "id_no4s8085_85",
-    "term": "Suddenly",
+    "term": "Suddenly (1985)",
     "definition": "Billy Ocean",
     "example": "June 1985 — 1 week at No.4"
   },
   {
     "id": "id_no4s8085_86",
-    "term": "Cherish",
+    "term": "Cherish (1985)",
     "definition": "Kool & the Gang",
     "example": "July 1985 — 3 weeks at No.4"
   },
@@ -74976,7 +74976,7 @@ window.QM_NO4S8085_DATA = [
 window.QM_NO4S8691_DATA = [
   {
     "id": "id_no4s8691_1",
-    "term": "Broken Wings",
+    "term": "Broken Wings (1986)",
     "definition": "Mr Mister",
     "example": "January 1986 — 1 week at No.4"
   },
@@ -75144,7 +75144,7 @@ window.QM_NO4S8691_DATA = [
   },
   {
     "id": "id_no4s8691_29",
-    "term": "Never Can Say Goodbye",
+    "term": "Never Can Say Goodbye (1987)",
     "definition": "The Communards",
     "example": "November 1987 — 2 weeks at No.4"
   },
@@ -75156,13 +75156,13 @@ window.QM_NO4S8691_DATA = [
   },
   {
     "id": "id_no4s8691_31",
-    "term": "Love Letters",
+    "term": "Love Letters (1987)",
     "definition": "Alison Moyet",
     "example": "December 1987 — 1 week at No.4"
   },
   {
     "id": "id_no4s8691_32",
-    "term": "When I Fall In Love",
+    "term": "When I Fall In Love (1988)",
     "definition": "Nat King Cole",
     "example": "January 1988 — 1 week at No.4"
   },
@@ -75234,13 +75234,13 @@ window.QM_NO4S8691_DATA = [
   },
   {
     "id": "id_no4s8691_44",
-    "term": "A Little Respect",
+    "term": "A Little Respect (1988)",
     "definition": "Erasure",
     "example": "October 1988 — 1 week at No.4"
   },
   {
     "id": "id_no4s8691_45",
-    "term": "Twist and Shout",
+    "term": "Twist and Shout (1988)",
     "definition": "Salt-N-Pepa",
     "example": "November 1988 — 1 week at No.4"
   },
@@ -75270,7 +75270,7 @@ window.QM_NO4S8691_DATA = [
   },
   {
     "id": "id_no4s8691_50",
-    "term": "Stop",
+    "term": "Stop (1989)",
     "definition": "Sam Brown",
     "example": "March 1989 — 2 weeks at No.4"
   },
@@ -75294,7 +75294,7 @@ window.QM_NO4S8691_DATA = [
   },
   {
     "id": "id_no4s8691_54",
-    "term": "All I Want Is You",
+    "term": "All I Want Is You (1989)",
     "definition": "U2",
     "example": "July 1989 — 1 week at No.4"
   },
@@ -75342,7 +75342,7 @@ window.QM_NO4S8691_DATA = [
   },
   {
     "id": "id_no4s8691_62",
-    "term": "Got To Have Your Love",
+    "term": "Got To Have Your Love (1990)",
     "definition": "Mantronix featuring Wondress",
     "example": "January 1990 — 2 weeks at No.4"
   },
@@ -75384,7 +75384,7 @@ window.QM_NO4S8691_DATA = [
   },
   {
     "id": "id_no4s8691_69",
-    "term": "One Love",
+    "term": "One Love (1990)",
     "definition": "The Stone Roses",
     "example": "July 1990 — 1 week at No.4"
   },
@@ -75414,7 +75414,7 @@ window.QM_NO4S8691_DATA = [
   },
   {
     "id": "id_no4s8691_74",
-    "term": "Only You",
+    "term": "Only You (1991)",
     "definition": "Praise",
     "example": "February 1991 — 1 week at No.4"
   },
@@ -75426,7 +75426,7 @@ window.QM_NO4S8691_DATA = [
   },
   {
     "id": "id_no4s8691_76",
-    "term": "You Got The Love",
+    "term": "You Got The Love (1991)",
     "definition": "The Source",
     "example": "March 1991 — 2 weeks at No.4"
   },
@@ -75644,7 +75644,7 @@ window.QM_NO4S9297_DATA = [
   },
   {
     "id": "id_no4s9297_24",
-    "term": "Stay",
+    "term": "Stay (1993)",
     "definition": "Eternal",
     "example": "October 1993 — 1 week at No.4"
   },
@@ -75674,7 +75674,7 @@ window.QM_NO4S9297_DATA = [
   },
   {
     "id": "id_no4s9297_29",
-    "term": "The Power of Love",
+    "term": "The Power of Love (1994)",
     "definition": "Celine Dion",
     "example": "February 1994 — 1 week at No.4"
   },
@@ -75686,13 +75686,13 @@ window.QM_NO4S9297_DATA = [
   },
   {
     "id": "id_no4s9297_31",
-    "term": "Always",
+    "term": "Always (April 1994)",
     "definition": "Erasure",
     "example": "April 1994 — 2 weeks at No.4"
   },
   {
     "id": "id_no4s9297_32",
-    "term": "Get-A-Way",
+    "term": "Get-A-Way (1994)",
     "definition": "Maxx",
     "example": "June 1994 — 2 weeks at No.4"
   },
@@ -75770,7 +75770,7 @@ window.QM_NO4S9297_DATA = [
   },
   {
     "id": "id_no4s9297_45",
-    "term": "A Girl Like You",
+    "term": "A Girl Like You (1995)",
     "definition": "Edwyn Collins",
     "example": "July 1995 — 1 week at No.4"
   },
@@ -75794,7 +75794,7 @@ window.QM_NO4S9297_DATA = [
   },
   {
     "id": "id_no4s9297_49",
-    "term": "Fantasy",
+    "term": "Fantasy (1995)",
     "definition": "Mariah Carey",
     "example": "September 1995 — 2 weeks at No.4"
   },
@@ -75830,7 +75830,7 @@ window.QM_NO4S9297_DATA = [
   },
   {
     "id": "id_no4s9297_55",
-    "term": "Real Love",
+    "term": "Real Love (1996)",
     "definition": "The Beatles",
     "example": "March 1996 — 1 week at No.4"
   },
@@ -75914,7 +75914,7 @@ window.QM_NO4S9297_DATA = [
   },
   {
     "id": "id_no4s9297_69",
-    "term": "Angel",
+    "term": "Angel (1996)",
     "definition": "Simply Red",
     "example": "November 1996 — 1 week at No.4"
   },
@@ -75986,7 +75986,7 @@ window.QM_NO4S9297_DATA = [
   },
   {
     "id": "id_no4s9297_81",
-    "term": "Please Don't Go",
+    "term": "Please Don't Go (1997)",
     "definition": "No Mercy",
     "example": "May 1997 — 1 week at No.4"
   },
@@ -76004,7 +76004,7 @@ window.QM_NO4S9297_DATA = [
   },
   {
     "id": "id_no4s9297_84",
-    "term": "Free",
+    "term": "Free (1997)",
     "definition": "Ultra Nate",
     "example": "June 1997 — 2 weeks at No.4"
   },
@@ -76072,7 +76072,7 @@ window.QM_NO4S9801_DATA = [
   },
   {
     "id": "id_no4s9801_4",
-    "term": "Truly Madly Deeply",
+    "term": "Truly Madly Deeply (1998)",
     "definition": "Savage Garden",
     "example": "February 1998 — 1 week at No.4"
   },
@@ -76096,7 +76096,7 @@ window.QM_NO4S9801_DATA = [
   },
   {
     "id": "id_no4s9801_8",
-    "term": "All I Want Is You",
+    "term": "All I Want Is You (1998)",
     "definition": "911",
     "example": "April 1998 — 1 week at No.4"
   },
@@ -76126,7 +76126,7 @@ window.QM_NO4S9801_DATA = [
   },
   {
     "id": "id_no4s9801_13",
-    "term": "You're the One That I Want",
+    "term": "You're the One That I Want (1998)",
     "definition": "J. Travolta & O. Newton-John",
     "example": "July 1998 — 1 week at No.4"
   },
@@ -76144,7 +76144,7 @@ window.QM_NO4S9801_DATA = [
   },
   {
     "id": "id_no4s9801_16",
-    "term": "I Want You Back",
+    "term": "I Want You Back (August 1998)",
     "definition": "Cleopatra",
     "example": "August 1998 — 1 week at No.4"
   },
@@ -76186,7 +76186,7 @@ window.QM_NO4S9801_DATA = [
   },
   {
     "id": "id_no4s9801_23",
-    "term": "When You Believe",
+    "term": "When You Believe (1998)",
     "definition": "Mariah Carey & Whitney Houston",
     "example": "December 1998 — 1 week at No.4"
   },
@@ -76252,7 +76252,7 @@ window.QM_NO4S9801_DATA = [
   },
   {
     "id": "id_no4s9801_34",
-    "term": "Kiss Me",
+    "term": "Kiss Me (1999)",
     "definition": "Sixpence None the Richer",
     "example": "May 1999 — 1 week at No.4"
   },
@@ -76288,7 +76288,7 @@ window.QM_NO4S9801_DATA = [
   },
   {
     "id": "id_no4s9801_40",
-    "term": "Mickey",
+    "term": "Mickey (1999)",
     "definition": "Lolly",
     "example": "September 1999 — 1 week at No.4"
   },
@@ -76354,13 +76354,13 @@ window.QM_NO4S9801_DATA = [
   },
   {
     "id": "id_no4s9801_51",
-    "term": "Mama Told Me Not To Come",
+    "term": "Mama Told Me Not To Come (2000)",
     "definition": "Tom Jones & Stereophonics",
     "example": "March 2000 — 1 week at No.4"
   },
   {
     "id": "id_no4s9801_52",
-    "term": "Killer",
+    "term": "Killer (2000)",
     "definition": "ATB",
     "example": "March 2000 — 1 week at No.4"
   },
@@ -76438,7 +76438,7 @@ window.QM_NO4S9801_DATA = [
   },
   {
     "id": "id_no4s9801_65",
-    "term": "Don't Tell Me",
+    "term": "Don't Tell Me (2000)",
     "definition": "Madonna",
     "example": "December 2000 — 1 week at No.4"
   },
@@ -76522,7 +76522,7 @@ window.QM_NO4S9801_DATA = [
   },
   {
     "id": "id_no4s9801_79",
-    "term": "All Or Nothing",
+    "term": "All Or Nothing (2001)",
     "definition": "O-Town",
     "example": "August 2001 — 1 week at No.4"
   },
@@ -76596,7 +76596,7 @@ window.QM_NO4S0205_DATA = [
   },
   {
     "id": "id_no4s0205_4",
-    "term": "What About Us",
+    "term": "What About Us (2002)",
     "definition": "Brandy",
     "example": "February 2002 — 1 week at No.4"
   },
@@ -76608,7 +76608,7 @@ window.QM_NO4S0205_DATA = [
   },
   {
     "id": "id_no4s0205_6",
-    "term": "Something",
+    "term": "Something (2002)",
     "definition": "Lasgo",
     "example": "March 2002 — 1 week at No.4"
   },
@@ -76626,7 +76626,7 @@ window.QM_NO4S0205_DATA = [
   },
   {
     "id": "id_no4s0205_9",
-    "term": "Hero",
+    "term": "Hero (June 2002)",
     "definition": "Chad Kroeger ft Josey Scott",
     "example": "June 2002 — 1 week at No.4"
   },
@@ -76644,7 +76644,7 @@ window.QM_NO4S0205_DATA = [
   },
   {
     "id": "id_no4s0205_12",
-    "term": "Your Song",
+    "term": "Your Song (2002)",
     "definition": "Elton John & Alessandro Safina",
     "example": "July 2002 — 1 week at No.4"
   },
@@ -76704,7 +76704,7 @@ window.QM_NO4S0205_DATA = [
   },
   {
     "id": "id_no4s0205_22",
-    "term": "True",
+    "term": "True (2003)",
     "definition": "Jaimeson ft Angel Blu",
     "example": "January 2003 — 1 week at No.4"
   },
@@ -76776,7 +76776,7 @@ window.QM_NO4S0205_DATA = [
   },
   {
     "id": "id_no4s0205_34",
-    "term": "Baby Boy",
+    "term": "Baby Boy (September 2003)",
     "definition": "Big Brovaz",
     "example": "September 2003 — 2 weeks at No.4"
   },
@@ -76806,7 +76806,7 @@ window.QM_NO4S0205_DATA = [
   },
   {
     "id": "id_no4s0205_39",
-    "term": "Amazing",
+    "term": "Amazing (2004)",
     "definition": "George Michael",
     "example": "March 2004 — 1 week at No.4"
   },
@@ -76836,7 +76836,7 @@ window.QM_NO4S0205_DATA = [
   },
   {
     "id": "id_no4s0205_44",
-    "term": "Roses",
+    "term": "Roses (2004)",
     "definition": "Outkast",
     "example": "July 2004 — 1 week at No.4"
   },
@@ -76908,13 +76908,13 @@ window.QM_NO4S0205_DATA = [
   },
   {
     "id": "id_no4s0205_56",
-    "term": "Ride It",
+    "term": "Ride It (2004)",
     "definition": "Geri",
     "example": "December 2004 — 1 week at No.4"
   },
   {
     "id": "id_no4s0205_57",
-    "term": "Breathe",
+    "term": "Breathe (2005)",
     "definition": "Erasure",
     "example": "January 2005 — 1 week at No.4"
   },
@@ -76938,7 +76938,7 @@ window.QM_NO4S0205_DATA = [
   },
   {
     "id": "id_no4s0205_61",
-    "term": "Wake Me Up",
+    "term": "Wake Me Up (2005)",
     "definition": "Girls Aloud",
     "example": "March 2005 — 1 week at No.4"
   },
@@ -76962,7 +76962,7 @@ window.QM_NO4S0205_DATA = [
   },
   {
     "id": "id_no4s0205_65",
-    "term": "It's Like That",
+    "term": "It's Like That (2005)",
     "definition": "Mariah Carey",
     "example": "April 2005 — 1 week at No.4"
   },
@@ -77004,7 +77004,7 @@ window.QM_NO4S0205_DATA = [
   },
   {
     "id": "id_no4s0205_72",
-    "term": "Electricity",
+    "term": "Electricity (2005)",
     "definition": "Elton John",
     "example": "July 2005 — 1 week at No.4"
   },
@@ -77022,7 +77022,7 @@ window.QM_NO4S0205_DATA = [
   },
   {
     "id": "id_no4s0205_75",
-    "term": "Ooh La La",
+    "term": "Ooh La La (2005)",
     "definition": "Goldfrapp",
     "example": "August 2005 — 1 week at No.4"
   },
@@ -77040,7 +77040,7 @@ window.QM_NO4S0205_DATA = [
   },
   {
     "id": "id_no4s0205_78",
-    "term": "These Boots Are Made For Walkin'",
+    "term": "These Boots Are Made For Walkin' (2005)",
     "definition": "Jessica Simpson",
     "example": "September 2005 — 1 week at No.4"
   },
@@ -77120,7 +77120,7 @@ window.QM_NO4S0612_DATA = [
   },
   {
     "id": "id_no4s0612_5",
-    "term": "Amazing",
+    "term": "Amazing (2006)",
     "definition": "Westlife",
     "example": "March 2006 — 1 week at No.4"
   },
@@ -77204,13 +77204,13 @@ window.QM_NO4S0612_DATA = [
   },
   {
     "id": "id_no4s0612_19",
-    "term": "Truly Madly Deeply",
+    "term": "Truly Madly Deeply (2006)",
     "definition": "Cascada",
     "example": "December 2006 — 1 week at No.4"
   },
   {
     "id": "id_no4s0612_20",
-    "term": "I Think We're Alone Now",
+    "term": "I Think We're Alone Now (2006)",
     "definition": "Girls Aloud",
     "example": "December 2006 — 1 week at No.4"
   },
@@ -77252,7 +77252,7 @@ window.QM_NO4S0612_DATA = [
   },
   {
     "id": "id_no4s0612_27",
-    "term": "Because Of You",
+    "term": "Because Of You (2007)",
     "definition": "Ne-Yo",
     "example": "May 2007 — 1 week at No.4"
   },
@@ -77300,7 +77300,7 @@ window.QM_NO4S0612_DATA = [
   },
   {
     "id": "id_no4s0612_35",
-    "term": "Superstar",
+    "term": "Superstar (2008)",
     "definition": "Lupe Fiasco ft Matthew Santos",
     "example": "January 2008 — 1 week at No.4"
   },
@@ -77312,7 +77312,7 @@ window.QM_NO4S0612_DATA = [
   },
   {
     "id": "id_no4s0612_37",
-    "term": "Work",
+    "term": "Work (2008)",
     "definition": "Kelly Rowland",
     "example": "February 2008 — 1 week at No.4"
   },
@@ -77336,7 +77336,7 @@ window.QM_NO4S0612_DATA = [
   },
   {
     "id": "id_no4s0612_41",
-    "term": "Heartbreaker",
+    "term": "Heartbreaker (2008)",
     "definition": "Will.i.am ft Cheryl Cole",
     "example": "May 2008 — 3 weeks at No.4"
   },
@@ -77456,7 +77456,7 @@ window.QM_NO4S0612_DATA = [
   },
   {
     "id": "id_no4s0612_61",
-    "term": "Starry Eyed",
+    "term": "Starry Eyed (2010)",
     "definition": "Ellie Goulding",
     "example": "March 2010 — 3 weeks at No.4"
   },
@@ -77480,13 +77480,13 @@ window.QM_NO4S0612_DATA = [
   },
   {
     "id": "id_no4s0612_65",
-    "term": "All Night Long",
+    "term": "All Night Long (2010)",
     "definition": "Alexandra Burke ft Pitbull",
     "example": "May 2010 — 1 week at No.4"
   },
   {
     "id": "id_no4s0612_66",
-    "term": "I Like It",
+    "term": "I Like It (2010)",
     "definition": "Enrique Iglesias ft Pitbull",
     "example": "July 2010 — 1 week at No.4"
   },
@@ -77540,13 +77540,13 @@ window.QM_NO4S0612_DATA = [
   },
   {
     "id": "id_no4s0612_75",
-    "term": "Fast Car",
+    "term": "Fast Car (2011)",
     "definition": "Tracy Chapman",
     "example": "April 2011 — 1 week at No.4"
   },
   {
     "id": "id_no4s0612_76",
-    "term": "Beautiful People",
+    "term": "Beautiful People (2011)",
     "definition": "Chris Brown ft Benny Benassi",
     "example": "May 2011 — 2 weeks at No.4"
   },
@@ -77642,7 +77642,7 @@ window.QM_NO4S0612_DATA = [
   },
   {
     "id": "id_no4s0612_92",
-    "term": "Too Close",
+    "term": "Too Close (2012)",
     "definition": "Alex Clare",
     "example": "May 2012 — 2 weeks at No.4"
   },
@@ -77684,7 +77684,7 @@ window.QM_NO4S0612_DATA = [
   },
   {
     "id": "id_no4s0612_99",
-    "term": "Stay",
+    "term": "Stay (2012)",
     "definition": "Rihanna ft Mikky Ekko",
     "example": "December 2012 — 4 weeks at No.4"
   }
@@ -77716,7 +77716,7 @@ window.QM_NO4S1318_DATA = [
   },
   {
     "id": "id_no4s1318_5",
-    "term": "Earthquake",
+    "term": "Earthquake (2013)",
     "definition": "DJ Fresh Vs. Diplo Feat. Dominique Young Unique",
     "example": "August 2013 — 1 week at No.4"
   },
@@ -77812,7 +77812,7 @@ window.QM_NO4S1318_DATA = [
   },
   {
     "id": "id_no4s1318_21",
-    "term": "Lullaby",
+    "term": "Lullaby (2014)",
     "definition": "Professor Green ft Tori Kelly",
     "example": "September 2014 — 1 week at No.4"
   },
@@ -77824,7 +77824,7 @@ window.QM_NO4S1318_DATA = [
   },
   {
     "id": "id_no4s1318_23",
-    "term": "Up",
+    "term": "Up (2014)",
     "definition": "Olly Murs ft Demi Lovato",
     "example": "December 2014 — 3 weeks at No.4"
   },
@@ -77848,7 +77848,7 @@ window.QM_NO4S1318_DATA = [
   },
   {
     "id": "id_no4s1318_27",
-    "term": "Stronger",
+    "term": "Stronger (2015)",
     "definition": "Clean Bandit",
     "example": "May 2015 — 1 week at No.4"
   },
@@ -77884,7 +77884,7 @@ window.QM_NO4S1318_DATA = [
   },
   {
     "id": "id_no4s1318_33",
-    "term": "Show Me Love",
+    "term": "Show Me Love (2015)",
     "definition": "Sam Feldt ft Kimberly Anne",
     "example": "July 2015 — 1 week at No.4"
   },
@@ -77932,7 +77932,7 @@ window.QM_NO4S1318_DATA = [
   },
   {
     "id": "id_no4s1318_41",
-    "term": "My Way",
+    "term": "My Way (2016)",
     "definition": "Calvin Harris",
     "example": "October 2016 — 2 weeks at No.4"
   },
@@ -77944,7 +77944,7 @@ window.QM_NO4S1318_DATA = [
   },
   {
     "id": "id_no4s1318_43",
-    "term": "Touch",
+    "term": "Touch (2016)",
     "definition": "Little Mix",
     "example": "December 2016 — 6 weeks at No.4"
   },
@@ -77968,7 +77968,7 @@ window.QM_NO4S1318_DATA = [
   },
   {
     "id": "id_no4s1318_47",
-    "term": "Mama",
+    "term": "Mama (2017)",
     "definition": "Jonas Blue ft William Singe",
     "example": "July 2017 — 1 week at No.4"
   },
@@ -77986,13 +77986,13 @@ window.QM_NO4S1318_DATA = [
   },
   {
     "id": "id_no4s1318_50",
-    "term": "Psycho",
+    "term": "Psycho (2018)",
     "definition": "Post Malone ft Ty Dolla Sign",
     "example": "March 2018 — 1 week at No.4"
   },
   {
     "id": "id_no4s1318_51",
-    "term": "Friends",
+    "term": "Friends (2018)",
     "definition": "Marshmello & Anne-Marie",
     "example": "March 2018 — 3 weeks at No.4"
   },
@@ -78022,13 +78022,13 @@ window.QM_NO4S1318_DATA = [
   },
   {
     "id": "id_no4s1318_56",
-    "term": "Body",
+    "term": "Body (2018)",
     "definition": "Loud Luxury ft Brando",
     "example": "September 2018 — 2 weeks at No.4"
   },
   {
     "id": "id_no4s1318_57",
-    "term": "Electricity",
+    "term": "Electricity (2018)",
     "definition": "Silk City ft Dua Lipa",
     "example": "October 2018 — 1 week at No.4"
   },
@@ -78040,7 +78040,7 @@ window.QM_NO4S1318_DATA = [
   },
   {
     "id": "id_no4s1318_59",
-    "term": "The Power of Love",
+    "term": "The Power of Love (2018)",
     "definition": "Dalton Harris ft James Arthur",
     "example": "December 2018 — 1 week at No.4"
   }
@@ -78072,7 +78072,7 @@ window.QM_NO4S1926_DATA = [
   },
   {
     "id": "id_no4s1926_5",
-    "term": "Boyfriend",
+    "term": "Boyfriend (2019)",
     "definition": "Ariana Grande & Social House",
     "example": "August 2019 — 1 week at No.4"
   },
@@ -78090,7 +78090,7 @@ window.QM_NO4S1926_DATA = [
   },
   {
     "id": "id_no4s1926_8",
-    "term": "Lonely",
+    "term": "Lonely (2020)",
     "definition": "Joel Corry",
     "example": "April 2020 — 1 week at No.4"
   },
@@ -78132,7 +78132,7 @@ window.QM_NO4S1926_DATA = [
   },
   {
     "id": "id_no4s1926_15",
-    "term": "Rockin' Around the Christmas Tree",
+    "term": "Rockin' Around the Christmas Tree (2021)",
     "definition": "Justin Bieber",
     "example": "January 2021 — 1 week at No.4"
   },
@@ -78156,7 +78156,7 @@ window.QM_NO4S1926_DATA = [
   },
   {
     "id": "id_no4s1926_19",
-    "term": "Deja Vu",
+    "term": "Deja Vu (2021)",
     "definition": "Olivia Rodrigo",
     "example": "June 2021 — 2 weeks at No.4"
   },
@@ -78366,7 +78366,7 @@ window.QM_NO4S1926_DATA = [
   },
   {
     "id": "id_no4s1926_54",
-    "term": "Go",
+    "term": "Go (2026)",
     "definition": "The Chemical Brothers",
     "example": "June 2026 — 1 week at No.4"
   }
@@ -78374,7 +78374,7 @@ window.QM_NO4S1926_DATA = [
 window.QM_NO5S5264_DATA = [
   {
     "id": "id_no5s5264_1",
-    "term": "Forget Me Not",
+    "term": "Forget Me Not (1952)",
     "definition": "Vera Lynn",
     "example": "December 1952 — 1 week at No.5"
   },
@@ -78404,7 +78404,7 @@ window.QM_NO5S5264_DATA = [
   },
   {
     "id": "id_no5s5264_6",
-    "term": "Kiss",
+    "term": "Kiss (1953)",
     "definition": "Dean Martin",
     "example": "October 1953 — 1 week at No.5"
   },
@@ -78434,7 +78434,7 @@ window.QM_NO5S5264_DATA = [
   },
   {
     "id": "id_no5s5264_11",
-    "term": "Three Coins in the Fountain",
+    "term": "Three Coins in the Fountain (August 1954)",
     "definition": "Four Aces",
     "example": "August 1954 — 1 week at No.5"
   },
@@ -78452,7 +78452,7 @@ window.QM_NO5S5264_DATA = [
   },
   {
     "id": "id_no5s5264_14",
-    "term": "Let Me Go Lover",
+    "term": "Let Me Go Lover (March 1955)",
     "definition": "Ruby Murray",
     "example": "March 1955 — 1 week at No.5"
   },
@@ -78476,13 +78476,13 @@ window.QM_NO5S5264_DATA = [
   },
   {
     "id": "id_no5s5264_18",
-    "term": "Hey There",
+    "term": "Hey There (November 1955)",
     "definition": "Johnnie Ray",
     "example": "November 1955 — 2 weeks at No.5"
   },
   {
     "id": "id_no5s5264_19",
-    "term": "Memories Are Made of This",
+    "term": "Memories Are Made of This (March 1956)",
     "definition": "Dave King With the Keynotes",
     "example": "March 1956 — 3 weeks at No.5"
   },
@@ -78530,7 +78530,7 @@ window.QM_NO5S5264_DATA = [
   },
   {
     "id": "id_no5s5264_27",
-    "term": "Around The World",
+    "term": "Around The World (June 1957)",
     "definition": "Bing Crosby",
     "example": "June 1957 — 1 week at No.5"
   },
@@ -78554,13 +78554,13 @@ window.QM_NO5S5264_DATA = [
   },
   {
     "id": "id_no5s5264_31",
-    "term": "Tequila",
+    "term": "Tequila (1958)",
     "definition": "The Champs",
     "example": "April 1958 — 1 week at No.5"
   },
   {
     "id": "id_no5s5264_32",
-    "term": "Witch Doctor",
+    "term": "Witch Doctor (1958)",
     "definition": "Don Lang And His Frantic Five",
     "example": "June 1958 — 1 week at No.5"
   },
@@ -78596,7 +78596,7 @@ window.QM_NO5S5264_DATA = [
   },
   {
     "id": "id_no5s5264_38",
-    "term": "Tom Dooley",
+    "term": "Tom Dooley (1959)",
     "definition": "Kingston Trio",
     "example": "January 1959 — 1 week at No.5"
   },
@@ -78842,7 +78842,7 @@ window.QM_NO5S5264_DATA = [
   },
   {
     "id": "id_no5s5264_79",
-    "term": "Wipe Out",
+    "term": "Wipe Out (1963)",
     "definition": "The Surfaris",
     "example": "August 1963 — 1 week at No.5"
   },
@@ -78934,7 +78934,7 @@ window.QM_NO5S6574_DATA = [
   },
   {
     "id": "id_no5s6574_2",
-    "term": "Little Things",
+    "term": "Little Things (1965)",
     "definition": "Dave Berry",
     "example": "April 1965 — 1 week at No.5"
   },
@@ -78994,7 +78994,7 @@ window.QM_NO5S6574_DATA = [
   },
   {
     "id": "id_no5s6574_12",
-    "term": "Substitute",
+    "term": "Substitute (1966)",
     "definition": "The Who",
     "example": "April 1966 — 1 week at No.5"
   },
@@ -79012,7 +79012,7 @@ window.QM_NO5S6574_DATA = [
   },
   {
     "id": "id_no5s6574_15",
-    "term": "Mama",
+    "term": "Mama (1966)",
     "definition": "Dave Berry",
     "example": "August 1966 — 2 weeks at No.5"
   },
@@ -79072,13 +79072,13 @@ window.QM_NO5S6574_DATA = [
   },
   {
     "id": "id_no5s6574_25",
-    "term": "Love Is All Around",
+    "term": "Love Is All Around (1967)",
     "definition": "The Troggs",
     "example": "November 1967 — 1 week at No.5"
   },
   {
     "id": "id_no5s6574_26",
-    "term": "Something's Gotten Hold Of My Heart",
+    "term": "Something's Gotten Hold Of My Heart (1967)",
     "definition": "Gene Pitney",
     "example": "December 1967 — 3 weeks at No.5"
   },
@@ -79096,7 +79096,7 @@ window.QM_NO5S6574_DATA = [
   },
   {
     "id": "id_no5s6574_29",
-    "term": "Can't Take My Eyes Off You",
+    "term": "Can't Take My Eyes Off You (1968)",
     "definition": "Andy Williams",
     "example": "May 1968 — 1 week at No.5"
   },
@@ -79174,7 +79174,7 @@ window.QM_NO5S6574_DATA = [
   },
   {
     "id": "id_no5s6574_42",
-    "term": "Fox On The Run",
+    "term": "Fox On The Run (1969)",
     "definition": "Manfred Mann",
     "example": "February 1969 — 1 week at No.5"
   },
@@ -79192,7 +79192,7 @@ window.QM_NO5S6574_DATA = [
   },
   {
     "id": "id_no5s6574_45",
-    "term": "My Way",
+    "term": "My Way (1969)",
     "definition": "Frank Sinatra",
     "example": "May 1969 — 2 weeks at No.5"
   },
@@ -79252,7 +79252,7 @@ window.QM_NO5S6574_DATA = [
   },
   {
     "id": "id_no5s6574_55",
-    "term": "It's All In The Game",
+    "term": "It's All In The Game (1970)",
     "definition": "The Four Tops",
     "example": "July 1970 — 2 weeks at No.5"
   },
@@ -79276,13 +79276,13 @@ window.QM_NO5S6574_DATA = [
   },
   {
     "id": "id_no5s6574_59",
-    "term": "No Matter What",
+    "term": "No Matter What (1971)",
     "definition": "Badfinger",
     "example": "February 1971 — 1 week at No.5"
   },
   {
     "id": "id_no5s6574_60",
-    "term": "Amazing Grace",
+    "term": "Amazing Grace (1971)",
     "definition": "Judy Collins",
     "example": "February 1971 — 2 weeks at No.5"
   },
@@ -79366,7 +79366,7 @@ window.QM_NO5S6574_DATA = [
   },
   {
     "id": "id_no5s6574_74",
-    "term": "Meet Me On The Corner",
+    "term": "Meet Me On The Corner (1972)",
     "definition": "Lindisfarne",
     "example": "March 1972 — 1 week at No.5"
   },
@@ -79456,7 +79456,7 @@ window.QM_NO5S6574_DATA = [
   },
   {
     "id": "id_no5s6574_89",
-    "term": "Top Of The World",
+    "term": "Top Of The World (1973)",
     "definition": "The Carpenters",
     "example": "November 1973 — 1 week at No.5"
   },
@@ -79626,7 +79626,7 @@ window.QM_NO5S7581_DATA = [
   },
   {
     "id": "id_no5s7581_22",
-    "term": "You Don't Have To Say You Love Me",
+    "term": "You Don't Have To Say You Love Me (1976)",
     "definition": "Guys And Dolls",
     "example": "March 1976 — 1 week at No.5"
   },
@@ -79644,7 +79644,7 @@ window.QM_NO5S7581_DATA = [
   },
   {
     "id": "id_no5s7581_25",
-    "term": "More, More, More",
+    "term": "More, More, More (1976)",
     "definition": "Andrea True Connection",
     "example": "May 1976 — 2 weeks at No.5"
   },
@@ -79710,7 +79710,7 @@ window.QM_NO5S7581_DATA = [
   },
   {
     "id": "id_no5s7581_36",
-    "term": "Don't Leave Me This Way",
+    "term": "Don't Leave Me This Way (1977)",
     "definition": "Harold Melvin And The Bluenotes",
     "example": "February 1977 — 1 week at No.5"
   },
@@ -79788,7 +79788,7 @@ window.QM_NO5S7581_DATA = [
   },
   {
     "id": "id_no5s7581_49",
-    "term": "Never Let Her Slip Away",
+    "term": "Never Let Her Slip Away (1978)",
     "definition": "Andrew Gold",
     "example": "May 1978 — 2 weeks at No.5"
   },
@@ -79806,7 +79806,7 @@ window.QM_NO5S7581_DATA = [
   },
   {
     "id": "id_no5s7581_52",
-    "term": "Oh Carol",
+    "term": "Oh Carol (1978)",
     "definition": "Smokie",
     "example": "June 1978 — 1 week at No.5"
   },
@@ -79830,7 +79830,7 @@ window.QM_NO5S7581_DATA = [
   },
   {
     "id": "id_no5s7581_56",
-    "term": "MacArthur Park",
+    "term": "MacArthur Park (1978)",
     "definition": "Donna Summer",
     "example": "October 1978 — 3 weeks at No.5"
   },
@@ -79854,7 +79854,7 @@ window.QM_NO5S7581_DATA = [
   },
   {
     "id": "id_no5s7581_60",
-    "term": "Don't Cry For Me Argentina",
+    "term": "Don't Cry For Me Argentina (1979)",
     "definition": "The Shadows",
     "example": "February 1979 — 2 weeks at No.5"
   },
@@ -79866,7 +79866,7 @@ window.QM_NO5S7581_DATA = [
   },
   {
     "id": "id_no5s7581_62",
-    "term": "Hallelujah",
+    "term": "Hallelujah (1979)",
     "definition": "Milk And Honey",
     "example": "April 1979 — 1 week at No.5"
   },
@@ -79902,13 +79902,13 @@ window.QM_NO5S7581_DATA = [
   },
   {
     "id": "id_no5s7581_68",
-    "term": "Good Times",
+    "term": "Good Times (1979)",
     "definition": "Chic",
     "example": "July 1979 — 1 week at No.5"
   },
   {
     "id": "id_no5s7581_69",
-    "term": "Money",
+    "term": "Money (1979)",
     "definition": "Flying Lizards",
     "example": "September 1979 — 1 week at No.5"
   },
@@ -79938,7 +79938,7 @@ window.QM_NO5S7581_DATA = [
   },
   {
     "id": "id_no5s7581_74",
-    "term": "All Night Long",
+    "term": "All Night Long (1980)",
     "definition": "Rainbow",
     "example": "March 1980 — 1 week at No.5"
   },
@@ -80022,7 +80022,7 @@ window.QM_NO5S7581_DATA = [
   },
   {
     "id": "id_no5s7581_88",
-    "term": "Rapture",
+    "term": "Rapture (1981)",
     "definition": "Blondie",
     "example": "January 1981 — 2 weeks at No.5"
   },
@@ -80276,7 +80276,7 @@ window.QM_NO5S8288_DATA = [
   },
   {
     "id": "id_no5s8288_35",
-    "term": "Teardrops",
+    "term": "Teardrops (1984)",
     "definition": "Shakin' Stevens",
     "example": "December 1984 — 1 week at No.5"
   },
@@ -80336,7 +80336,7 @@ window.QM_NO5S8288_DATA = [
   },
   {
     "id": "id_no5s8288_45",
-    "term": "Angel",
+    "term": "Angel (1985)",
     "definition": "Madonna",
     "example": "September 1985 — 1 week at No.5"
   },
@@ -80516,13 +80516,13 @@ window.QM_NO5S8288_DATA = [
   },
   {
     "id": "id_no5s8288_75",
-    "term": "What Do You Want To Make Those Eyes At Me For",
+    "term": "What Do You Want To Make Those Eyes At Me For (1987)",
     "definition": "Shakin' Stevens",
     "example": "December 1987 — 1 week at No.5"
   },
   {
     "id": "id_no5s8288_76",
-    "term": "Angel Eyes",
+    "term": "Angel Eyes (1988)",
     "definition": "Wet Wet Wet",
     "example": "January 1988 — 1 week at No.5"
   },
@@ -80570,7 +80570,7 @@ window.QM_NO5S8288_DATA = [
   },
   {
     "id": "id_no5s8288_84",
-    "term": "I Want You Back",
+    "term": "I Want You Back (1988)",
     "definition": "Bananarama",
     "example": "April 1988 — 2 weeks at No.5"
   },
@@ -80594,7 +80594,7 @@ window.QM_NO5S8288_DATA = [
   },
   {
     "id": "id_no5s8288_88",
-    "term": "I Want Your Love",
+    "term": "I Want Your Love (1988)",
     "definition": "Transvision Vamp",
     "example": "July 1988 — 2 weeks at No.5"
   },
@@ -80612,7 +80612,7 @@ window.QM_NO5S8288_DATA = [
   },
   {
     "id": "id_no5s8288_91",
-    "term": "My Love",
+    "term": "My Love (1988)",
     "definition": "Julio Iglesias ft Stevie Wonder",
     "example": "September 1988 — 1 week at No.5"
   },
@@ -80624,7 +80624,7 @@ window.QM_NO5S8288_DATA = [
   },
   {
     "id": "id_no5s8288_93",
-    "term": "Kiss",
+    "term": "Kiss (1988)",
     "definition": "Art Of Noise featuring Tom Jones",
     "example": "November 1988 — 1 week at No.5"
   },
@@ -80644,7 +80644,7 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_2",
-    "term": "Keep On Movin'",
+    "term": "Keep On Movin' (1989)",
     "definition": "Soul II Soul featuring Caron Wheeler",
     "example": "March 1989 — 2 weeks at No.5"
   },
@@ -80656,7 +80656,7 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_4",
-    "term": "Lullaby",
+    "term": "Lullaby (1989)",
     "definition": "The Cure",
     "example": "April 1989 — 1 week at No.5"
   },
@@ -80668,7 +80668,7 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_6",
-    "term": "Manchild",
+    "term": "Manchild (1989)",
     "definition": "Neneh Cherry",
     "example": "June 1989 — 1 week at No.5"
   },
@@ -80680,13 +80680,13 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_8",
-    "term": "It's Alright",
+    "term": "It's Alright (1989)",
     "definition": "Pet Shop Boys",
     "example": "July 1989 — 2 weeks at No.5"
   },
   {
     "id": "id_no5s8995_9",
-    "term": "Wind Beneath My Wings",
+    "term": "Wind Beneath My Wings (1989)",
     "definition": "Bette Midler",
     "example": "July 1989 — 1 week at No.5"
   },
@@ -80788,7 +80788,7 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_26",
-    "term": "Fantasy",
+    "term": "Fantasy (1990)",
     "definition": "Black Box",
     "example": "November 1990 — 1 week at No.5"
   },
@@ -80806,7 +80806,7 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_29",
-    "term": "Secret Love",
+    "term": "Secret Love (1991)",
     "definition": "The Bee Gees",
     "example": "April 1991 — 1 week at No.5"
   },
@@ -80824,13 +80824,13 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_32",
-    "term": "Tainted Love",
+    "term": "Tainted Love (1991)",
     "definition": "Soft Cell Featuring Marc Almond",
     "example": "May 1991 — 1 week at No.5"
   },
   {
     "id": "id_no5s8995_33",
-    "term": "Holiday",
+    "term": "Holiday (1991)",
     "definition": "Madonna",
     "example": "June 1991 — 1 week at No.5"
   },
@@ -80878,7 +80878,7 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_41",
-    "term": "I Wonder Why",
+    "term": "I Wonder Why (1992)",
     "definition": "Curtis Stigers",
     "example": "February 1992 — 2 weeks at No.5"
   },
@@ -80896,7 +80896,7 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_44",
-    "term": "Why",
+    "term": "Why (1992)",
     "definition": "Annie Lennox",
     "example": "April 1992 — 1 week at No.5"
   },
@@ -80926,7 +80926,7 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_49",
-    "term": "Never Let Her Slip Away",
+    "term": "Never Let Her Slip Away (1992)",
     "definition": "Undercover",
     "example": "November 1992 — 2 weeks at No.5"
   },
@@ -80998,7 +80998,7 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_61",
-    "term": "Give It Up",
+    "term": "Give It Up (1993)",
     "definition": "Goodmen",
     "example": "November 1993 — 1 week at No.5"
   },
@@ -81022,7 +81022,7 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_65",
-    "term": "Anything",
+    "term": "Anything (1994)",
     "definition": "Culture Beat",
     "example": "January 1994 — 2 weeks at No.5"
   },
@@ -81052,13 +81052,13 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_70",
-    "term": "Don't Turn Around",
+    "term": "Don't Turn Around (1994)",
     "definition": "Ace of Base",
     "example": "June 1994 — 1 week at No.5"
   },
   {
     "id": "id_no5s8995_71",
-    "term": "Shine",
+    "term": "Shine (1994)",
     "definition": "Aswad",
     "example": "July 1994 — 1 week at No.5"
   },
@@ -81088,7 +81088,7 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_76",
-    "term": "Total Eclipse of the Heart",
+    "term": "Total Eclipse of the Heart (1995)",
     "definition": "Nicki French",
     "example": "January 1995 — 3 weeks at No.5"
   },
@@ -81100,7 +81100,7 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_78",
-    "term": "Baby Baby",
+    "term": "Baby Baby (1995)",
     "definition": "Corona",
     "example": "April 1995 — 2 weeks at No.5"
   },
@@ -81118,7 +81118,7 @@ window.QM_NO5S8995_DATA = [
   },
   {
     "id": "id_no5s8995_81",
-    "term": "In The Summertime",
+    "term": "In The Summertime (1995)",
     "definition": "Shaggy feat. Rayvon",
     "example": "July 1995 — 1 week at No.5"
   },
@@ -81198,7 +81198,7 @@ window.QM_NO5S9600_DATA = [
   },
   {
     "id": "id_no5s9600_10",
-    "term": "Don't Stop Movin'",
+    "term": "Don't Stop Movin' (1996)",
     "definition": "Livin' Joy",
     "example": "June 1996 — 1 week at No.5"
   },
@@ -81252,7 +81252,7 @@ window.QM_NO5S9600_DATA = [
   },
   {
     "id": "id_no5s9600_19",
-    "term": "Horny",
+    "term": "Horny (1996)",
     "definition": "Mark Morrison",
     "example": "December 1996 — 1 week at No.5"
   },
@@ -81264,7 +81264,7 @@ window.QM_NO5S9600_DATA = [
   },
   {
     "id": "id_no5s9600_21",
-    "term": "Alone",
+    "term": "Alone (1997)",
     "definition": "The Bee Gees",
     "example": "March 1997 — 3 weeks at No.5"
   },
@@ -81282,13 +81282,13 @@ window.QM_NO5S9600_DATA = [
   },
   {
     "id": "id_no5s9600_24",
-    "term": "Ready Or Not",
+    "term": "Ready Or Not (1997)",
     "definition": "The Course",
     "example": "April 1997 — 1 week at No.5"
   },
   {
     "id": "id_no5s9600_25",
-    "term": "Around The World",
+    "term": "Around The World (1997)",
     "definition": "Daft Punk",
     "example": "April 1997 — 1 week at No.5"
   },
@@ -81348,13 +81348,13 @@ window.QM_NO5S9600_DATA = [
   },
   {
     "id": "id_no5s9600_35",
-    "term": "When I Need You",
+    "term": "When I Need You (1998)",
     "definition": "Will Mellor",
     "example": "February 1998 — 1 week at No.5"
   },
   {
     "id": "id_no5s9600_36",
-    "term": "Everlasting Love",
+    "term": "Everlasting Love (1998)",
     "definition": "Cast From Casualty",
     "example": "March 1998 — 1 week at No.5"
   },
@@ -81474,7 +81474,7 @@ window.QM_NO5S9600_DATA = [
   },
   {
     "id": "id_no5s9600_56",
-    "term": "I Want You Back",
+    "term": "I Want You Back (1999)",
     "definition": "'N Sync",
     "example": "February 1999 — 1 week at No.5"
   },
@@ -81498,7 +81498,7 @@ window.QM_NO5S9600_DATA = [
   },
   {
     "id": "id_no5s9600_60",
-    "term": "Electricity",
+    "term": "Electricity (1999)",
     "definition": "Suede",
     "example": "April 1999 — 1 week at No.5"
   },
@@ -81546,7 +81546,7 @@ window.QM_NO5S9600_DATA = [
   },
   {
     "id": "id_no5s9600_68",
-    "term": "You Drive Me Crazy",
+    "term": "You Drive Me Crazy (1999)",
     "definition": "Britney Spears",
     "example": "October 1999 — 1 week at No.5"
   },
@@ -81558,7 +81558,7 @@ window.QM_NO5S9600_DATA = [
   },
   {
     "id": "id_no5s9600_70",
-    "term": "After The Love Has Gone",
+    "term": "After The Love Has Gone (1999)",
     "definition": "Steps",
     "example": "October 1999 — 1 week at No.5"
   },
@@ -81570,7 +81570,7 @@ window.QM_NO5S9600_DATA = [
   },
   {
     "id": "id_no5s9600_72",
-    "term": "Heartbreaker",
+    "term": "Heartbreaker (1999)",
     "definition": "Mariah Carey",
     "example": "November 1999 — 1 week at No.5"
   },
@@ -81612,7 +81612,7 @@ window.QM_NO5S9600_DATA = [
   },
   {
     "id": "id_no5s9600_79",
-    "term": "Money",
+    "term": "Money (2000)",
     "definition": "Jamelia",
     "example": "March 2000 — 1 week at No.5"
   },
@@ -81714,7 +81714,7 @@ window.QM_NO5S9600_DATA = [
   },
   {
     "id": "id_no5s9600_96",
-    "term": "Number 1",
+    "term": "Number 1 (2000)",
     "definition": "Tweenies",
     "example": "November 2000 — 1 week at No.5"
   },
@@ -81782,7 +81782,7 @@ window.QM_NO5S0105_DATA = [
   },
   {
     "id": "id_no5s0105_9",
-    "term": "Another Day In Paradise",
+    "term": "Another Day In Paradise (2001)",
     "definition": "Brandy & Ray J",
     "example": "June 2001 — 2 weeks at No.5"
   },
@@ -81800,7 +81800,7 @@ window.QM_NO5S0105_DATA = [
   },
   {
     "id": "id_no5s0105_12",
-    "term": "Take My Breath Away",
+    "term": "Take My Breath Away (2001)",
     "definition": "Emma Bunton",
     "example": "September 2001 — 1 week at No.5"
   },
@@ -81878,7 +81878,7 @@ window.QM_NO5S0105_DATA = [
   },
   {
     "id": "id_no5s0105_25",
-    "term": "Tainted Love",
+    "term": "Tainted Love (2002)",
     "definition": "Marilyn Manson",
     "example": "March 2002 — 1 week at No.5"
   },
@@ -81938,7 +81938,7 @@ window.QM_NO5S0105_DATA = [
   },
   {
     "id": "id_no5s0105_35",
-    "term": "Everyday",
+    "term": "Everyday (2002)",
     "definition": "Bon Jovi",
     "example": "September 2002 — 1 week at No.5"
   },
@@ -82004,7 +82004,7 @@ window.QM_NO5S0105_DATA = [
   },
   {
     "id": "id_no5s0105_46",
-    "term": "Don't Worry",
+    "term": "Don't Worry (2003)",
     "definition": "Appleton",
     "example": "February 2003 — 1 week at No.5"
   },
@@ -82022,7 +82022,7 @@ window.QM_NO5S0105_DATA = [
   },
   {
     "id": "id_no5s0105_49",
-    "term": "Out Of Time",
+    "term": "Out Of Time (2003)",
     "definition": "Blur",
     "example": "April 2003 — 1 week at No.5"
   },
@@ -82100,7 +82100,7 @@ window.QM_NO5S0105_DATA = [
   },
   {
     "id": "id_no5s0105_62",
-    "term": "Happy Xmas (War Is Over)",
+    "term": "Happy Xmas (War Is Over) (2003)",
     "definition": "Idols",
     "example": "December 2003 — 1 week at No.5"
   },
@@ -82112,7 +82112,7 @@ window.QM_NO5S0105_DATA = [
   },
   {
     "id": "id_no5s0105_64",
-    "term": "Run",
+    "term": "Run (2004)",
     "definition": "Snow Patrol",
     "example": "February 2004 — 1 week at No.5"
   },
@@ -82154,7 +82154,7 @@ window.QM_NO5S0105_DATA = [
   },
   {
     "id": "id_no5s0105_71",
-    "term": "Don't Tell Me",
+    "term": "Don't Tell Me (2004)",
     "definition": "Avril Lavigne",
     "example": "May 2004 — 1 week at No.5"
   },
@@ -82232,7 +82232,7 @@ window.QM_NO5S0105_DATA = [
   },
   {
     "id": "id_no5s0105_84",
-    "term": "Staring At The Sun",
+    "term": "Staring At The Sun (2005)",
     "definition": "Rooster",
     "example": "January 2005 — 1 week at No.5"
   },
@@ -82438,7 +82438,7 @@ window.QM_NO5S0615_DATA = [
   },
   {
     "id": "id_no5s0615_19",
-    "term": "Wow",
+    "term": "Wow (2008)",
     "definition": "Kylie Minogue",
     "example": "March 2008 — 2 weeks at No.5"
   },
@@ -82462,7 +82462,7 @@ window.QM_NO5S0615_DATA = [
   },
   {
     "id": "id_no5s0615_23",
-    "term": "Stay With Me",
+    "term": "Stay With Me (2008)",
     "definition": "Ironik",
     "example": "July 2008 — 1 week at No.5"
   },
@@ -82498,7 +82498,7 @@ window.QM_NO5S0615_DATA = [
   },
   {
     "id": "id_no5s0615_29",
-    "term": "Up",
+    "term": "Up (2008)",
     "definition": "The Saturdays",
     "example": "October 2008 — 1 week at No.5"
   },
@@ -82576,7 +82576,7 @@ window.QM_NO5S0615_DATA = [
   },
   {
     "id": "id_no5s0615_42",
-    "term": "I Need You",
+    "term": "I Need You (2009)",
     "definition": "N-Dubz",
     "example": "November 2009 — 1 week at No.5"
   },
@@ -82600,7 +82600,7 @@ window.QM_NO5S0615_DATA = [
   },
   {
     "id": "id_no5s0615_46",
-    "term": "Candy",
+    "term": "Candy (2010)",
     "definition": "Aggro Santos ft Kimberly Wyatt",
     "example": "May 2010 — 3 weeks at No.5"
   },
@@ -82672,7 +82672,7 @@ window.QM_NO5S0615_DATA = [
   },
   {
     "id": "id_no5s0615_58",
-    "term": "Jealousy",
+    "term": "Jealousy (2011)",
     "definition": "Will Young",
     "example": "September 2011 — 1 week at No.5"
   },
@@ -82708,7 +82708,7 @@ window.QM_NO5S0615_DATA = [
   },
   {
     "id": "id_no5s0615_64",
-    "term": "Scream",
+    "term": "Scream (2012)",
     "definition": "Usher",
     "example": "June 2012 — 1 week at No.5"
   },
@@ -82834,7 +82834,7 @@ window.QM_NO5S0615_DATA = [
   },
   {
     "id": "id_no5s0615_85",
-    "term": "Take Me Home",
+    "term": "Take Me Home (2014)",
     "definition": "Cash Cash ft Bebe Rexha",
     "example": "May 2014 — 1 week at No.5"
   },
@@ -82882,7 +82882,7 @@ window.QM_NO5S0615_DATA = [
   },
   {
     "id": "id_no5s0615_93",
-    "term": "Come and Get It",
+    "term": "Come and Get It (2015)",
     "definition": "John Newman",
     "example": "July 2015 — 1 week at No.5"
   },
@@ -82932,7 +82932,7 @@ window.QM_NO5S1626_DATA = [
   },
   {
     "id": "id_no5s1626_5",
-    "term": "Tears",
+    "term": "Tears (2016)",
     "definition": "Clean Bandit ft Louisa Johnson",
     "example": "June 2016 — 1 week at No.5"
   },
@@ -83076,7 +83076,7 @@ window.QM_NO5S1626_DATA = [
   },
   {
     "id": "id_no5s1626_29",
-    "term": "Taste",
+    "term": "Taste (2018)",
     "definition": "Tyga ft Offset",
     "example": "September 2018 — 1 week at No.5"
   },
@@ -83166,7 +83166,7 @@ window.QM_NO5S1626_DATA = [
   },
   {
     "id": "id_no5s1626_44",
-    "term": "Paradise",
+    "term": "Paradise (2021)",
     "definition": "Meduza ft Dermot Kennedy",
     "example": "February 2021 — 1 week at No.5"
   },
@@ -83232,7 +83232,7 @@ window.QM_NO5S1626_DATA = [
   },
   {
     "id": "id_no5s1626_55",
-    "term": "Down Under",
+    "term": "Down Under (2022)",
     "definition": "Luude ft Colin Hay",
     "example": "March 2022 — 1 week at No.5"
   },
@@ -83262,7 +83262,7 @@ window.QM_NO5S1626_DATA = [
   },
   {
     "id": "id_no5s1626_60",
-    "term": "Psycho",
+    "term": "Psycho (2022)",
     "definition": "Anne-Marie & Aitch",
     "example": "December 2022 — 1 week at No.5"
   },
@@ -83298,7 +83298,7 @@ window.QM_NO5S1626_DATA = [
   },
   {
     "id": "id_no5s1626_66",
-    "term": "Idgaf",
+    "term": "Idgaf (2023)",
     "definition": "Drake ft Yeat",
     "example": "October 2023 — 1 week at No.5"
   },
@@ -83364,7 +83364,7 @@ window.QM_NO5S1626_DATA = [
   },
   {
     "id": "id_no5s1626_77",
-    "term": "Twilight Zone",
+    "term": "Twilight Zone (2025)",
     "definition": "Ariana Grande",
     "example": "April 2025 — 1 week at No.5"
   },
@@ -83394,7 +83394,7 @@ window.QM_NO5S1626_DATA = [
   },
   {
     "id": "id_no5s1626_82",
-    "term": "Lullaby",
+    "term": "Lullaby (2025)",
     "definition": "Together for Palestine",
     "example": "December 2025 — 1 week at No.5"
   },
@@ -83432,13 +83432,13 @@ window.QM_NO2S5263_DATA = [
   },
   {
     "id": "id_no2s5263_3",
-    "term": "Pretend",
+    "term": "Pretend (1953)",
     "definition": "Nat King Cole",
     "example": "May 1953 — 5 weeks at No.2"
   },
   {
     "id": "id_no2s5263_4",
-    "term": "Terry's Theme From 'Limelight'",
+    "term": "Terry's Theme From 'Limelight' (June 1953)",
     "definition": "Frank Chacksfield",
     "example": "June 1953 — 8 weeks at No.2"
   },
@@ -83450,7 +83450,7 @@ window.QM_NO2S5263_DATA = [
   },
   {
     "id": "id_no2s5263_6",
-    "term": "Swedish Rhapsody",
+    "term": "Swedish Rhapsody (December 1953)",
     "definition": "Mantovani",
     "example": "December 1953 — 2 weeks at No.2"
   },
@@ -83480,7 +83480,7 @@ window.QM_NO2S5263_DATA = [
   },
   {
     "id": "id_no2s5263_11",
-    "term": "Smile",
+    "term": "Smile (1954)",
     "definition": "Nat King Cole",
     "example": "October 1954 — 3 weeks at No.2"
   },
@@ -83492,7 +83492,7 @@ window.QM_NO2S5263_DATA = [
   },
   {
     "id": "id_no2s5263_13",
-    "term": "Unchained Melody",
+    "term": "Unchained Melody (June 1955)",
     "definition": "Al Hibbler",
     "example": "June 1955 — 4 weeks at No.2"
   },
@@ -83528,13 +83528,13 @@ window.QM_NO2S5263_DATA = [
   },
   {
     "id": "id_no2s5263_19",
-    "term": "Meet Me on the Corner",
+    "term": "Meet Me on the Corner (1956)",
     "definition": "Max Bygraves",
     "example": "January 1956 — 1 week at No.2"
   },
   {
     "id": "id_no2s5263_20",
-    "term": "The Ballad of Davy Crockett",
+    "term": "The Ballad of Davy Crockett (January 1956)",
     "definition": "Bill Hayes",
     "example": "January 1956 — 3 weeks at No.2"
   },
@@ -83606,7 +83606,7 @@ window.QM_NO2S5263_DATA = [
   },
   {
     "id": "id_no2s5263_32",
-    "term": "When I Fall In Love",
+    "term": "When I Fall In Love (1957)",
     "definition": "Nat King Cole",
     "example": "June 1957 — 1 week at No.2"
   },
@@ -83840,7 +83840,7 @@ window.QM_NO2S5263_DATA = [
   },
   {
     "id": "id_no2s5263_71",
-    "term": "Jealousy",
+    "term": "Jealousy (1961)",
     "definition": "Billy Fury",
     "example": "October 1961 — 1 week at No.2"
   },
@@ -83888,7 +83888,7 @@ window.QM_NO2S5263_DATA = [
   },
   {
     "id": "id_no2s5263_79",
-    "term": "Hey! Baby",
+    "term": "Hey! Baby (1962)",
     "definition": "Bruce Channel",
     "example": "April 1962 — 1 week at No.2"
   },
@@ -83930,13 +83930,13 @@ window.QM_NO2S5263_DATA = [
   },
   {
     "id": "id_no2s5263_86",
-    "term": "The Loco-Motion",
+    "term": "The Loco-Motion (1962)",
     "definition": "Little Eva",
     "example": "October 1962 — 3 weeks at No.2"
   },
   {
     "id": "id_no2s5263_87",
-    "term": "Let's Dance",
+    "term": "Let's Dance (1962)",
     "definition": "Chris Montez",
     "example": "November 1962 — 4 weeks at No.2"
   },
@@ -83960,7 +83960,7 @@ window.QM_NO2S5263_DATA = [
   },
   {
     "id": "id_no2s5263_91",
-    "term": "Can't Get Used To Losing You",
+    "term": "Can't Get Used To Losing You (1963)",
     "definition": "Andy Williams",
     "example": "May 1963 — 1 week at No.2"
   },
@@ -83990,7 +83990,7 @@ window.QM_NO2S5263_DATA = [
   },
   {
     "id": "id_no2s5263_96",
-    "term": "It's All In The Game",
+    "term": "It's All In The Game (1963)",
     "definition": "Cliff Richard",
     "example": "September 1963 — 3 weeks at No.2"
   },
@@ -84022,7 +84022,7 @@ window.QM_NO2S6469_DATA = [
   },
   {
     "id": "id_no2s6469_2",
-    "term": "I'm The One",
+    "term": "I'm The One (1964)",
     "definition": "Gerry and the Pacemakers",
     "example": "February 1964 — 2 weeks at No.2"
   },
@@ -84040,7 +84040,7 @@ window.QM_NO2S6469_DATA = [
   },
   {
     "id": "id_no2s6469_5",
-    "term": "I Believe",
+    "term": "I Believe (1964)",
     "definition": "The Bachelors",
     "example": "May 1964 — 1 week at No.2"
   },
@@ -84076,13 +84076,13 @@ window.QM_NO2S6469_DATA = [
   },
   {
     "id": "id_no2s6469_11",
-    "term": "Downtown",
+    "term": "Downtown (1964)",
     "definition": "Petula Clark",
     "example": "December 1964 — 3 weeks at No.2"
   },
   {
     "id": "id_no2s6469_12",
-    "term": "You've Lost That Lovin' Feelin'",
+    "term": "You've Lost That Lovin' Feelin' (January 1965)",
     "definition": "Cilla Black",
     "example": "January 1965 — 1 week at No.2"
   },
@@ -84166,7 +84166,7 @@ window.QM_NO2S6469_DATA = [
   },
   {
     "id": "id_no2s6469_26",
-    "term": "A Groovy Kind Of Love",
+    "term": "A Groovy Kind Of Love (1966)",
     "definition": "Mindbenders",
     "example": "March 1966 — 1 week at No.2"
   },
@@ -84202,7 +84202,7 @@ window.QM_NO2S6469_DATA = [
   },
   {
     "id": "id_no2s6469_32",
-    "term": "Black Is Black",
+    "term": "Black Is Black (1966)",
     "definition": "Los Bravos",
     "example": "July 1966 — 1 week at No.2"
   },
@@ -84292,7 +84292,7 @@ window.QM_NO2S6469_DATA = [
   },
   {
     "id": "id_no2s6469_47",
-    "term": "This Is My Song",
+    "term": "This Is My Song (April 1967)",
     "definition": "Harry Secombe",
     "example": "April 1967 — 1 week at No.2"
   },
@@ -84328,7 +84328,7 @@ window.QM_NO2S6469_DATA = [
   },
   {
     "id": "id_no2s6469_53",
-    "term": "I'll Never Fall In Love Again",
+    "term": "I'll Never Fall In Love Again (1967)",
     "definition": "Tom Jones",
     "example": "August 1967 — 4 weeks at No.2"
   },
@@ -84346,7 +84346,7 @@ window.QM_NO2S6469_DATA = [
   },
   {
     "id": "id_no2s6469_56",
-    "term": "Hole In My Shoe",
+    "term": "Hole In My Shoe (1967)",
     "definition": "Traffic",
     "example": "October 1967 — 1 week at No.2"
   },
@@ -84394,7 +84394,7 @@ window.QM_NO2S6469_DATA = [
   },
   {
     "id": "id_no2s6469_64",
-    "term": "Honey",
+    "term": "Honey (1968)",
     "definition": "Bobby Goldsboro",
     "example": "June 1968 — 1 week at No.2"
   },
@@ -84418,7 +84418,7 @@ window.QM_NO2S6469_DATA = [
   },
   {
     "id": "id_no2s6469_68",
-    "term": "Eloise",
+    "term": "Eloise (1968)",
     "definition": "Barry Ryan",
     "example": "November 1968 — 2 weeks at No.2"
   },
@@ -84448,7 +84448,7 @@ window.QM_NO2S6469_DATA = [
   },
   {
     "id": "id_no2s6469_73",
-    "term": "Goodbye",
+    "term": "Goodbye (1969)",
     "definition": "Mary Hopkin",
     "example": "April 1969 — 3 weeks at No.2"
   },
@@ -84466,7 +84466,7 @@ window.QM_NO2S6469_DATA = [
   },
   {
     "id": "id_no2s6469_76",
-    "term": "Oh, Happy Day",
+    "term": "Oh, Happy Day (1969)",
     "definition": "The Edwin Hawkins Singers",
     "example": "June 1969 — 2 weeks at No.2"
   },
@@ -84552,13 +84552,13 @@ window.QM_NO2S7075_DATA = [
   },
   {
     "id": "id_no2s7075_4",
-    "term": "I Want You Back",
+    "term": "I Want You Back (1970)",
     "definition": "The Jackson 5",
     "example": "March 1970 — 1 week at No.2"
   },
   {
     "id": "id_no2s7075_5",
-    "term": "Let It Be",
+    "term": "Let It Be (1970)",
     "definition": "The Beatles",
     "example": "March 1970 — 1 week at No.2"
   },
@@ -84720,7 +84720,7 @@ window.QM_NO2S7075_DATA = [
   },
   {
     "id": "id_no2s7075_32",
-    "term": "American Pie",
+    "term": "American Pie (1972)",
     "definition": "Don McLean",
     "example": "March 1972 — 3 weeks at No.2"
   },
@@ -84780,7 +84780,7 @@ window.QM_NO2S7075_DATA = [
   },
   {
     "id": "id_no2s7075_42",
-    "term": "Donna",
+    "term": "Donna (1972)",
     "definition": "10cc",
     "example": "October 1972 — 2 weeks at No.2"
   },
@@ -85002,13 +85002,13 @@ window.QM_NO2S7075_DATA = [
   },
   {
     "id": "id_no2s7075_79",
-    "term": "Never Can Say Goodbye",
+    "term": "Never Can Say Goodbye (1975)",
     "definition": "Gloria Gaynor",
     "example": "January 1975 — 1 week at No.2"
   },
   {
     "id": "id_no2s7075_80",
-    "term": "Goodbye My Love",
+    "term": "Goodbye My Love (1975)",
     "definition": "Glitter Band",
     "example": "February 1975 — 1 week at No.2"
   },
@@ -85026,13 +85026,13 @@ window.QM_NO2S7075_DATA = [
   },
   {
     "id": "id_no2s7075_83",
-    "term": "Fox On The Run",
+    "term": "Fox On The Run (1975)",
     "definition": "The Sweet",
     "example": "April 1975 — 2 weeks at No.2"
   },
   {
     "id": "id_no2s7075_84",
-    "term": "Honey",
+    "term": "Honey (1975)",
     "definition": "Bobby Goldsboro",
     "example": "April 1975 — 1 week at No.2"
   },
@@ -85044,7 +85044,7 @@ window.QM_NO2S7075_DATA = [
   },
   {
     "id": "id_no2s7075_86",
-    "term": "Three Steps To Heaven",
+    "term": "Three Steps To Heaven (1975)",
     "definition": "Showaddywaddy",
     "example": "June 1975 — 1 week at No.2"
   },
@@ -85112,7 +85112,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_4",
-    "term": "You See The Trouble With Me",
+    "term": "You See The Trouble With Me (1976)",
     "definition": "Barry White",
     "example": "April 1976 — 2 weeks at No.2"
   },
@@ -85136,7 +85136,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_8",
-    "term": "A Little Bit More",
+    "term": "A Little Bit More (1976)",
     "definition": "Dr. Hook",
     "example": "July 1976 — 5 weeks at No.2"
   },
@@ -85172,7 +85172,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_14",
-    "term": "Somebody To Love",
+    "term": "Somebody To Love (1976)",
     "definition": "Queen",
     "example": "December 1976 — 1 week at No.2"
   },
@@ -85238,7 +85238,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_25",
-    "term": "Black Is Black",
+    "term": "Black Is Black (1977)",
     "definition": "La Belle Epoque",
     "example": "October 1977 — 3 weeks at No.2"
   },
@@ -85268,7 +85268,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_30",
-    "term": "I Wonder Why",
+    "term": "I Wonder Why (1978)",
     "definition": "Showaddywaddy",
     "example": "April 1978 — 1 week at No.2"
   },
@@ -85286,7 +85286,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_33",
-    "term": "Substitute",
+    "term": "Substitute (1978)",
     "definition": "Clout",
     "example": "August 1978 — 2 weeks at No.2"
   },
@@ -85298,7 +85298,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_35",
-    "term": "Love Don't Live Here Anymore",
+    "term": "Love Don't Live Here Anymore (1978)",
     "definition": "Rose Royce",
     "example": "October 1978 — 2 weeks at No.2"
   },
@@ -85346,7 +85346,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_43",
-    "term": "Some Girls",
+    "term": "Some Girls (1979)",
     "definition": "Racey",
     "example": "April 1979 — 3 weeks at No.2"
   },
@@ -85382,7 +85382,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_49",
-    "term": "Bang Bang",
+    "term": "Bang Bang (1979)",
     "definition": "BA Robertson",
     "example": "September 1979 — 1 week at No.2"
   },
@@ -85478,7 +85478,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_65",
-    "term": "Happy Xmas (War Is Over)",
+    "term": "Happy Xmas (War Is Over) (January 1981)",
     "definition": "John And Yoko And The Plastic Ono Band With The Harlem Community Choir",
     "example": "January 1981 — 1 week at No.2"
   },
@@ -85526,7 +85526,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_73",
-    "term": "You Drive Me Crazy",
+    "term": "You Drive Me Crazy (1981)",
     "definition": "Shakin' Stevens",
     "example": "May 1981 — 4 weeks at No.2"
   },
@@ -85586,7 +85586,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_83",
-    "term": "Mickey",
+    "term": "Mickey (1982)",
     "definition": "Toni Basil",
     "example": "March 1982 — 2 weeks at No.2"
   },
@@ -85616,7 +85616,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_88",
-    "term": "Only You",
+    "term": "Only You (1982)",
     "definition": "Yazoo",
     "example": "May 1982 — 1 week at No.2"
   },
@@ -85628,7 +85628,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_90",
-    "term": "Abracadabra",
+    "term": "Abracadabra (1982)",
     "definition": "The Steve Miller Band",
     "example": "July 1982 — 2 weeks at No.2"
   },
@@ -85670,7 +85670,7 @@ window.QM_NO2S7682_DATA = [
   },
   {
     "id": "id_no2s7682_97",
-    "term": "Heartbreaker",
+    "term": "Heartbreaker (1982)",
     "definition": "Dionne Warwick",
     "example": "November 1982 — 2 weeks at No.2"
   },
@@ -85714,7 +85714,7 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_5",
-    "term": "Words",
+    "term": "Words (1983)",
     "definition": "F.R. David",
     "example": "April 1983 — 2 weeks at No.2"
   },
@@ -85726,13 +85726,13 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_7",
-    "term": "Temptation",
+    "term": "Temptation (1983)",
     "definition": "Heaven 17",
     "example": "May 1983 — 1 week at No.2"
   },
   {
     "id": "id_no2s8388_8",
-    "term": "Bad Boys",
+    "term": "Bad Boys (1983)",
     "definition": "Wham!",
     "example": "June 1983 — 2 weeks at No.2"
   },
@@ -85780,7 +85780,7 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_16",
-    "term": "They Don't Know",
+    "term": "They Don't Know (1983)",
     "definition": "Tracey Ullman",
     "example": "October 1983 — 2 weeks at No.2"
   },
@@ -85810,7 +85810,7 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_21",
-    "term": "What Is Love?",
+    "term": "What Is Love? (1984)",
     "definition": "Howard Jones",
     "example": "January 1984 — 1 week at No.2"
   },
@@ -85834,7 +85834,7 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_25",
-    "term": "It's Raining Men",
+    "term": "It's Raining Men (1984)",
     "definition": "Weather Girls",
     "example": "March 1984 — 1 week at No.2"
   },
@@ -85876,7 +85876,7 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_32",
-    "term": "Hole In My Shoe",
+    "term": "Hole In My Shoe (1984)",
     "definition": "Neil",
     "example": "July 1984 — 3 weeks at No.2"
   },
@@ -85960,19 +85960,19 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_46",
-    "term": "Crazy For You",
+    "term": "Crazy For You (1985)",
     "definition": "Madonna",
     "example": "June 1985 — 1 week at No.2"
   },
   {
     "id": "id_no2s8388_47",
-    "term": "Axel F",
+    "term": "Axel F (1985)",
     "definition": "Harold Faltermeyer",
     "example": "July 1985 — 3 weeks at No.2"
   },
   {
     "id": "id_no2s8388_48",
-    "term": "Holiday",
+    "term": "Holiday (1985)",
     "definition": "Madonna",
     "example": "August 1985 — 1 week at No.2"
   },
@@ -85984,7 +85984,7 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_50",
-    "term": "Take on Me",
+    "term": "Take on Me (1985)",
     "definition": "A-ha",
     "example": "October 1985 — 3 weeks at No.2"
   },
@@ -86020,7 +86020,7 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_56",
-    "term": "Absolute Beginners",
+    "term": "Absolute Beginners (1986)",
     "definition": "David Bowie",
     "example": "March 1986 — 1 week at No.2"
   },
@@ -86092,7 +86092,7 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_68",
-    "term": "Sometimes",
+    "term": "Sometimes (1986)",
     "definition": "Erasure",
     "example": "December 1986 — 1 week at No.2"
   },
@@ -86122,7 +86122,7 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_73",
-    "term": "Hold Me Now",
+    "term": "Hold Me Now (1987)",
     "definition": "Johnny Logan",
     "example": "June 1987 — 1 week at No.2"
   },
@@ -86134,7 +86134,7 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_75",
-    "term": "Call Me",
+    "term": "Call Me (1987)",
     "definition": "Spagna",
     "example": "August 1987 — 1 week at No.2"
   },
@@ -86146,7 +86146,7 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_77",
-    "term": "Wipeout",
+    "term": "Wipeout (1987)",
     "definition": "The Fat Boys And The Beach Boys",
     "example": "September 1987 — 1 week at No.2"
   },
@@ -86176,7 +86176,7 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_82",
-    "term": "When I Fall In Love",
+    "term": "When I Fall In Love (1987)",
     "definition": "Rick Astley",
     "example": "December 1987 — 2 weeks at No.2"
   },
@@ -86218,7 +86218,7 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_89",
-    "term": "Love Changes (Everything)",
+    "term": "Love Changes (Everything) (1988)",
     "definition": "Climie Fisher",
     "example": "April 1988 — 1 week at No.2"
   },
@@ -86242,7 +86242,7 @@ window.QM_NO2S8388_DATA = [
   },
   {
     "id": "id_no2s8388_93",
-    "term": "The Loco-Motion",
+    "term": "The Loco-Motion (1988)",
     "definition": "Kylie Minogue",
     "example": "August 1988 — 4 weeks at No.2"
   },
@@ -86298,7 +86298,7 @@ window.QM_NO2S8993_DATA = [
   },
   {
     "id": "id_no2s8993_3",
-    "term": "Love Changes Everything",
+    "term": "Love Changes Everything (1989)",
     "definition": "Michael Ball",
     "example": "February 1989 — 2 weeks at No.2"
   },
@@ -86346,7 +86346,7 @@ window.QM_NO2S8993_DATA = [
   },
   {
     "id": "id_no2s8993_11",
-    "term": "Too Much",
+    "term": "Too Much (1989)",
     "definition": "Bros",
     "example": "July 1989 — 1 week at No.2"
   },
@@ -86364,7 +86364,7 @@ window.QM_NO2S8993_DATA = [
   },
   {
     "id": "id_no2s8993_14",
-    "term": "Poison",
+    "term": "Poison (1989)",
     "definition": "Alice Cooper",
     "example": "August 1989 — 1 week at No.2"
   },
@@ -86394,7 +86394,7 @@ window.QM_NO2S8993_DATA = [
   },
   {
     "id": "id_no2s8993_19",
-    "term": "Another Day In Paradise",
+    "term": "Another Day In Paradise (1989)",
     "definition": "Phil Collins",
     "example": "November 1989 — 1 week at No.2"
   },
@@ -86520,7 +86520,7 @@ window.QM_NO2S8993_DATA = [
   },
   {
     "id": "id_no2s8993_40",
-    "term": "Don't Worry",
+    "term": "Don't Worry (1990)",
     "definition": "Kim Appleby",
     "example": "November 1990 — 1 week at No.2"
   },
@@ -86532,7 +86532,7 @@ window.QM_NO2S8993_DATA = [
   },
   {
     "id": "id_no2s8993_42",
-    "term": "Crazy",
+    "term": "Crazy (1991)",
     "definition": "Seal",
     "example": "January 1991 — 1 week at No.2"
   },
@@ -86544,7 +86544,7 @@ window.QM_NO2S8993_DATA = [
   },
   {
     "id": "id_no2s8993_44",
-    "term": "Crazy For You",
+    "term": "Crazy For You (1991)",
     "definition": "Madonna",
     "example": "March 1991 — 2 weeks at No.2"
   },
@@ -86568,7 +86568,7 @@ window.QM_NO2S8993_DATA = [
   },
   {
     "id": "id_no2s8993_48",
-    "term": "Baby Baby",
+    "term": "Baby Baby (1991)",
     "definition": "Amy Grant",
     "example": "June 1991 — 1 week at No.2"
   },
@@ -86610,7 +86610,7 @@ window.QM_NO2S8993_DATA = [
   },
   {
     "id": "id_no2s8993_55",
-    "term": "When You Tell Me That You Love Me",
+    "term": "When You Tell Me That You Love Me (1991)",
     "definition": "Diana Ross",
     "example": "December 1991 — 2 weeks at No.2"
   },
@@ -86628,19 +86628,19 @@ window.QM_NO2S8993_DATA = [
   },
   {
     "id": "id_no2s8993_58",
-    "term": "Give Me Just A Little More Time",
+    "term": "Give Me Just A Little More Time (1992)",
     "definition": "Kylie Minogue",
     "example": "February 1992 — 1 week at No.2"
   },
   {
     "id": "id_no2s8993_59",
-    "term": "Twilight Zone",
+    "term": "Twilight Zone (1992)",
     "definition": "2 Unlimited",
     "example": "February 1992 — 1 week at No.2"
   },
   {
     "id": "id_no2s8993_60",
-    "term": "My Girl",
+    "term": "My Girl (1992)",
     "definition": "The Temptations",
     "example": "February 1992 — 2 weeks at No.2"
   },
@@ -86688,19 +86688,19 @@ window.QM_NO2S8993_DATA = [
   },
   {
     "id": "id_no2s8993_68",
-    "term": "Jump",
+    "term": "Jump (1992)",
     "definition": "Kris Kross",
     "example": "June 1992 — 1 week at No.2"
   },
   {
     "id": "id_no2s8993_69",
-    "term": "Heartbeat",
+    "term": "Heartbeat (1992)",
     "definition": "Nick Berry",
     "example": "June 1992 — 2 weeks at No.2"
   },
   {
     "id": "id_no2s8993_70",
-    "term": "I'll Be There",
+    "term": "I'll Be There (1992)",
     "definition": "Mariah Carey",
     "example": "July 1992 — 2 weeks at No.2"
   },
@@ -86724,13 +86724,13 @@ window.QM_NO2S8993_DATA = [
   },
   {
     "id": "id_no2s8993_74",
-    "term": "Baker Street",
+    "term": "Baker Street (1992)",
     "definition": "Undercover",
     "example": "September 1992 — 1 week at No.2"
   },
   {
     "id": "id_no2s8993_75",
-    "term": "It's My Life",
+    "term": "It's My Life (1992)",
     "definition": "Dr. Alban",
     "example": "September 1992 — 3 weeks at No.2"
   },
@@ -86778,7 +86778,7 @@ window.QM_NO2S8993_DATA = [
   },
   {
     "id": "id_no2s8993_83",
-    "term": "What Is Love",
+    "term": "What Is Love (1993)",
     "definition": "Haddaway",
     "example": "July 1993 — 2 weeks at No.2"
   },
@@ -86826,7 +86826,7 @@ window.QM_NO2S8993_DATA = [
   },
   {
     "id": "id_no2s8993_91",
-    "term": "True Love",
+    "term": "True Love (1993)",
     "definition": "Elton John and Kiki Dee",
     "example": "November 1993 — 2 weeks at No.2"
   }
@@ -86876,7 +86876,7 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_8",
-    "term": "Crazy for You",
+    "term": "Crazy for You (1994)",
     "definition": "Let Loose",
     "example": "August 1994 — 2 weeks at No.2"
   },
@@ -86900,7 +86900,7 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_12",
-    "term": "Always",
+    "term": "Always (October 1994)",
     "definition": "Bon Jovi",
     "example": "October 1994 — 3 weeks at No.2"
   },
@@ -86918,7 +86918,7 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_15",
-    "term": "Love Me For A Reason",
+    "term": "Love Me For A Reason (1995)",
     "definition": "Boyzone",
     "example": "January 1995 — 1 week at No.2"
   },
@@ -86990,7 +86990,7 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_27",
-    "term": "Stayin' Alive",
+    "term": "Stayin' Alive (1995)",
     "definition": "N-Trance ft Ricardo Da Force",
     "example": "September 1995 — 1 week at No.2"
   },
@@ -87032,7 +87032,7 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_34",
-    "term": "Father And Son",
+    "term": "Father And Son (1995)",
     "definition": "Boyzone",
     "example": "December 1995 — 3 weeks at No.2"
   },
@@ -87044,7 +87044,7 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_36",
-    "term": "Anything",
+    "term": "Anything (1996)",
     "definition": "3T",
     "example": "February 1996 — 3 weeks at No.2"
   },
@@ -87068,7 +87068,7 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_40",
-    "term": "Mysterious Girl",
+    "term": "Mysterious Girl (1996)",
     "definition": "Peter Andre ft Bubbler Ranx",
     "example": "June 1996 — 1 week at No.2"
   },
@@ -87080,7 +87080,7 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_42",
-    "term": "Freedom",
+    "term": "Freedom (1996)",
     "definition": "Robbie Williams",
     "example": "August 1996 — 1 week at No.2"
   },
@@ -87092,7 +87092,7 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_44",
-    "term": "Why",
+    "term": "Why (1996)",
     "definition": "3T featuring Michael Jackson",
     "example": "August 1996 — 1 week at No.2"
   },
@@ -87116,7 +87116,7 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_48",
-    "term": "What's Love Got To Do With It",
+    "term": "What's Love Got To Do With It (1996)",
     "definition": "Warren G Feat Adina Howard",
     "example": "November 1996 — 1 week at No.2"
   },
@@ -87158,7 +87158,7 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_55",
-    "term": "Hush",
+    "term": "Hush (1997)",
     "definition": "Kula Shaker",
     "example": "March 1997 — 1 week at No.2"
   },
@@ -87248,13 +87248,13 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_70",
-    "term": "Stand by Me",
+    "term": "Stand by Me (1997)",
     "definition": "Oasis",
     "example": "October 1997 — 1 week at No.2"
   },
   {
     "id": "id_no2s9498_71",
-    "term": "Stay",
+    "term": "Stay (1997)",
     "definition": "Sash! ft La Trec",
     "example": "October 1997 — 1 week at No.2"
   },
@@ -87290,7 +87290,7 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_77",
-    "term": "Stop",
+    "term": "Stop (1998)",
     "definition": "Spice Girls",
     "example": "March 1998 — 1 week at No.2"
   },
@@ -87314,7 +87314,7 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_81",
-    "term": "Horny",
+    "term": "Horny (1998)",
     "definition": "Mousse T vs Hot 'N' Juicy",
     "example": "June 1998 — 1 week at No.2"
   },
@@ -87380,13 +87380,13 @@ window.QM_NO2S9498_DATA = [
   },
   {
     "id": "id_no2s9498_92",
-    "term": "Top Of The World",
+    "term": "Top Of The World (1998)",
     "definition": "Brandy ft Mase",
     "example": "October 1998 — 1 week at No.2"
   },
   {
     "id": "id_no2s9498_93",
-    "term": "More Than A Woman",
+    "term": "More Than A Woman (1998)",
     "definition": "911",
     "example": "October 1998 — 1 week at No.2"
   },
@@ -87424,13 +87424,13 @@ window.QM_NO2S9902_DATA = [
   },
   {
     "id": "id_no2s9902_2",
-    "term": "Tequila",
+    "term": "Tequila (1999)",
     "definition": "Terrorvision",
     "example": "January 1999 — 1 week at No.2"
   },
   {
     "id": "id_no2s9902_3",
-    "term": "Runaway",
+    "term": "Runaway (1999)",
     "definition": "The Corrs",
     "example": "February 1999 — 1 week at No.2"
   },
@@ -87448,7 +87448,7 @@ window.QM_NO2S9902_DATA = [
   },
   {
     "id": "id_no2s9902_6",
-    "term": "Witch Doctor",
+    "term": "Witch Doctor (1999)",
     "definition": "Cartoons",
     "example": "April 1999 — 1 week at No.2"
   },
@@ -87484,7 +87484,7 @@ window.QM_NO2S9902_DATA = [
   },
   {
     "id": "id_no2s9902_12",
-    "term": "Ooh La La",
+    "term": "Ooh La La (1999)",
     "definition": "Wiseguys",
     "example": "June 1999 — 1 week at No.2"
   },
@@ -87610,7 +87610,7 @@ window.QM_NO2S9902_DATA = [
   },
   {
     "id": "id_no2s9902_33",
-    "term": "Flowers",
+    "term": "Flowers (2000)",
     "definition": "Sweet Female Attitude",
     "example": "April 2000 — 1 week at No.2"
   },
@@ -87688,7 +87688,7 @@ window.QM_NO2S9902_DATA = [
   },
   {
     "id": "id_no2s9902_46",
-    "term": "The Way You Make Me Feel",
+    "term": "The Way You Make Me Feel (2001)",
     "definition": "Steps",
     "example": "January 2001 — 1 week at No.2"
   },
@@ -87742,13 +87742,13 @@ window.QM_NO2S9902_DATA = [
   },
   {
     "id": "id_no2s9902_55",
-    "term": "Take Me Home",
+    "term": "Take Me Home (2001)",
     "definition": "Sophie Ellis-Bextor",
     "example": "August 2001 — 1 week at No.2"
   },
   {
     "id": "id_no2s9902_56",
-    "term": "Starlight",
+    "term": "Starlight (2001)",
     "definition": "The Supermen Lovers Featuring Mani Hoffman",
     "example": "September 2001 — 1 week at No.2"
   },
@@ -87766,7 +87766,7 @@ window.QM_NO2S9902_DATA = [
   },
   {
     "id": "id_no2s9902_59",
-    "term": "Rapture",
+    "term": "Rapture (2001)",
     "definition": "IIO",
     "example": "November 2001 — 1 week at No.2"
   },
@@ -87802,7 +87802,7 @@ window.QM_NO2S9902_DATA = [
   },
   {
     "id": "id_no2s9902_65",
-    "term": "Hey Baby",
+    "term": "Hey Baby (2002)",
     "definition": "No Doubt",
     "example": "February 2002 — 1 week at No.2"
   },
@@ -87838,7 +87838,7 @@ window.QM_NO2S9902_DATA = [
   },
   {
     "id": "id_no2s9902_71",
-    "term": "Girlfriend",
+    "term": "Girlfriend (2002)",
     "definition": "'N Sync",
     "example": "April 2002 — 1 week at No.2"
   },
@@ -87886,13 +87886,13 @@ window.QM_NO2S9902_DATA = [
   },
   {
     "id": "id_no2s9902_79",
-    "term": "Fantasy",
+    "term": "Fantasy (2002)",
     "definition": "Appleton",
     "example": "September 2002 — 1 week at No.2"
   },
   {
     "id": "id_no2s9902_80",
-    "term": "Got To Have Your Love",
+    "term": "Got To Have Your Love (2002)",
     "definition": "Liberty X",
     "example": "September 2002 — 1 week at No.2"
   },
@@ -88110,7 +88110,7 @@ window.QM_NO2S0306_DATA = [
   },
   {
     "id": "id_no2s0306_28",
-    "term": "Baby Boy",
+    "term": "Baby Boy (October 2003)",
     "definition": "Beyonce ft Sean Paul",
     "example": "October 2003 — 1 week at No.2"
   },
@@ -88140,13 +88140,13 @@ window.QM_NO2S0306_DATA = [
   },
   {
     "id": "id_no2s0306_33",
-    "term": "Jump",
+    "term": "Jump (2003)",
     "definition": "Girls Aloud",
     "example": "November 2003 — 1 week at No.2"
   },
   {
     "id": "id_no2s0306_34",
-    "term": "I'm Your Man",
+    "term": "I'm Your Man (2003)",
     "definition": "Shane Richie",
     "example": "December 2003 — 1 week at No.2"
   },
@@ -88176,7 +88176,7 @@ window.QM_NO2S0306_DATA = [
   },
   {
     "id": "id_no2s0306_39",
-    "term": "Thank You",
+    "term": "Thank You (2004)",
     "definition": "Jamelia",
     "example": "March 2004 — 1 week at No.2"
   },
@@ -88218,7 +88218,7 @@ window.QM_NO2S0306_DATA = [
   },
   {
     "id": "id_no2s0306_46",
-    "term": "Some Girls",
+    "term": "Some Girls (2004)",
     "definition": "Rachel Stevens",
     "example": "July 2004 — 1 week at No.2"
   },
@@ -88236,7 +88236,7 @@ window.QM_NO2S0306_DATA = [
   },
   {
     "id": "id_no2s0306_49",
-    "term": "Love Machine",
+    "term": "Love Machine (2004)",
     "definition": "Girls Aloud",
     "example": "September 2004 — 2 weeks at No.2"
   },
@@ -88278,7 +88278,7 @@ window.QM_NO2S0306_DATA = [
   },
   {
     "id": "id_no2s0306_56",
-    "term": "Father and Son",
+    "term": "Father and Son (2004)",
     "definition": "Ronan Keating ft Yusuf",
     "example": "December 2004 — 1 week at No.2"
   },
@@ -88302,7 +88302,7 @@ window.QM_NO2S0306_DATA = [
   },
   {
     "id": "id_no2s0306_60",
-    "term": "Let Me Love You",
+    "term": "Let Me Love You (2005)",
     "definition": "Mario",
     "example": "April 2005 — 1 week at No.2"
   },
@@ -88392,7 +88392,7 @@ window.QM_NO2S0306_DATA = [
   },
   {
     "id": "id_no2s0306_75",
-    "term": "When You Tell Me That You Love Me",
+    "term": "When You Tell Me That You Love Me (2005)",
     "definition": "Westlife ft Diana Ross",
     "example": "December 2005 — 1 week at No.2"
   },
@@ -88500,7 +88500,7 @@ window.QM_NO2S0306_DATA = [
   },
   {
     "id": "id_no2s0306_93",
-    "term": "My Love",
+    "term": "My Love (2006)",
     "definition": "Justin Timberlake ft T.I.",
     "example": "November 2006 — 1 week at No.2"
   },
@@ -88544,7 +88544,7 @@ window.QM_NO2S0712_DATA = [
   },
   {
     "id": "id_no2s0712_5",
-    "term": "Girlfriend",
+    "term": "Girlfriend (2007)",
     "definition": "Avril Lavigne",
     "example": "April 2007 — 2 weeks at No.2"
   },
@@ -88586,7 +88586,7 @@ window.QM_NO2S0712_DATA = [
   },
   {
     "id": "id_no2s0712_12",
-    "term": "Any Dream Will Do",
+    "term": "Any Dream Will Do (2007)",
     "definition": "Lee Mead",
     "example": "June 2007 — 1 week at No.2"
   },
@@ -88664,7 +88664,7 @@ window.QM_NO2S0712_DATA = [
   },
   {
     "id": "id_no2s0712_25",
-    "term": "Rockstar",
+    "term": "Rockstar (2008)",
     "definition": "Nickelback / Dappy ft Brian May",
     "example": "February 2008, 2 weeks at No.2 & March 2012, 1 week at No.2"
   },
@@ -88742,7 +88742,7 @@ window.QM_NO2S0712_DATA = [
   },
   {
     "id": "id_no2s0712_38",
-    "term": "Hallelujah",
+    "term": "Hallelujah (December 2008)",
     "definition": "Jeff Buckley",
     "example": "December 2008 — 1 week at No.2"
   },
@@ -88766,7 +88766,7 @@ window.QM_NO2S0712_DATA = [
   },
   {
     "id": "id_no2s0712_42",
-    "term": "Just Can't Get Enough",
+    "term": "Just Can't Get Enough (2009)",
     "definition": "The Saturdays",
     "example": "March 2009 — 1 week at No.2"
   },
@@ -88826,7 +88826,7 @@ window.QM_NO2S0712_DATA = [
   },
   {
     "id": "id_no2s0712_52",
-    "term": "Happy",
+    "term": "Happy (2009)",
     "definition": "Leona Lewis",
     "example": "November 2009 — 1 week at No.2"
   },
@@ -88916,7 +88916,7 @@ window.QM_NO2S0712_DATA = [
   },
   {
     "id": "id_no2s0712_67",
-    "term": "Your Song",
+    "term": "Your Song (2010)",
     "definition": "Ellie Goulding",
     "example": "December 2010 — 2 weeks at No.2"
   },
@@ -88970,7 +88970,7 @@ window.QM_NO2S0712_DATA = [
   },
   {
     "id": "id_no2s0712_76",
-    "term": "Heaven",
+    "term": "Heaven (2011)",
     "definition": "Emeli Sande",
     "example": "August 2011 — 1 week at No.2"
   },
@@ -88994,13 +88994,13 @@ window.QM_NO2S0712_DATA = [
   },
   {
     "id": "id_no2s0712_80",
-    "term": "Earthquake",
+    "term": "Earthquake (2011)",
     "definition": "Labrinth ft Tinie Tempah",
     "example": "November 2011 — 1 week at No.2"
   },
   {
     "id": "id_no2s0712_81",
-    "term": "Take A Chance On Me",
+    "term": "Take A Chance On Me (2011)",
     "definition": "JLS",
     "example": "November 2011 — 1 week at No.2"
   },
@@ -89036,7 +89036,7 @@ window.QM_NO2S0712_DATA = [
   },
   {
     "id": "id_no2s0712_87",
-    "term": "Boyfriend",
+    "term": "Boyfriend (2012)",
     "definition": "Justin Bieber",
     "example": "April 2012 — 1 week at No.2"
   },
@@ -89248,7 +89248,7 @@ window.QM_NO2S1318_DATA = [
   },
   {
     "id": "id_no2s1318_24",
-    "term": "Don't Stop",
+    "term": "Don't Stop (2014)",
     "definition": "5 Seconds of Summer",
     "example": "June 2014 — 1 week at No.2"
   },
@@ -89272,7 +89272,7 @@ window.QM_NO2S1318_DATA = [
   },
   {
     "id": "id_no2s1318_28",
-    "term": "Real Love",
+    "term": "Real Love (2014)",
     "definition": "Clean Bandit ft Jess Glynne",
     "example": "November 2014 — 1 week at No.2"
   },
@@ -89338,13 +89338,13 @@ window.QM_NO2S1318_DATA = [
   },
   {
     "id": "id_no2s1318_39",
-    "term": "Shine",
+    "term": "Shine (2015)",
     "definition": "Years & Years",
     "example": "July 2015 — 3 weeks at No.2"
   },
   {
     "id": "id_no2s1318_40",
-    "term": "How Deep Is Your Love",
+    "term": "How Deep Is Your Love (2015)",
     "definition": "Calvin Harris & Disciples",
     "example": "August 2015 — 2 weeks at No.2"
   },
@@ -89362,19 +89362,19 @@ window.QM_NO2S1318_DATA = [
   },
   {
     "id": "id_no2s1318_43",
-    "term": "Perfect",
+    "term": "Perfect (2015)",
     "definition": "One Direction",
     "example": "October 2015 — 1 week at No.2"
   },
   {
     "id": "id_no2s1318_44",
-    "term": "Fast Car",
+    "term": "Fast Car (2016)",
     "definition": "Jonas Blue & Dakota",
     "example": "February 2016 — 1 week at No.2"
   },
   {
     "id": "id_no2s1318_45",
-    "term": "Work",
+    "term": "Work (2016)",
     "definition": "Rihanna ft Drake",
     "example": "March 2016 — 2 weeks at No.2"
   },
@@ -89428,7 +89428,7 @@ window.QM_NO2S1318_DATA = [
   },
   {
     "id": "id_no2s1318_54",
-    "term": "Let Me Love You",
+    "term": "Let Me Love You (2016)",
     "definition": "DJ Snake ft Justin Bieber",
     "example": "August 2016 — 6 weeks at No.2"
   },
@@ -89452,7 +89452,7 @@ window.QM_NO2S1318_DATA = [
   },
   {
     "id": "id_no2s1318_58",
-    "term": "Human",
+    "term": "Human (2016)",
     "definition": "Rag'n'bone Man",
     "example": "December 2016 — 3 weeks at No.2"
   },
@@ -89500,7 +89500,7 @@ window.QM_NO2S1318_DATA = [
   },
   {
     "id": "id_no2s1318_66",
-    "term": "Friends",
+    "term": "Friends (2017)",
     "definition": "Justin Bieber & Bloodpop",
     "example": "August 2017 — 1 week at No.2"
   },
@@ -89524,7 +89524,7 @@ window.QM_NO2S1318_DATA = [
   },
   {
     "id": "id_no2s1318_70",
-    "term": "Paradise",
+    "term": "Paradise (2018)",
     "definition": "George Ezra",
     "example": "April 2018 — 1 week at No.2"
   },
@@ -89598,7 +89598,7 @@ window.QM_NO2S1926_DATA = [
   },
   {
     "id": "id_no2s1926_8",
-    "term": "Ride It",
+    "term": "Ride It (2019)",
     "definition": "Regard",
     "example": "October 2019 — 4 weeks at No.2"
   },
@@ -89652,7 +89652,7 @@ window.QM_NO2S1926_DATA = [
   },
   {
     "id": "id_no2s1926_17",
-    "term": "Without You",
+    "term": "Without You (2021)",
     "definition": "The Kid LAROI",
     "example": "February 2021 — 1 week at No.2"
   },
@@ -89682,13 +89682,13 @@ window.QM_NO2S1926_DATA = [
   },
   {
     "id": "id_no2s1926_22",
-    "term": "Holiday",
+    "term": "Holiday (2021)",
     "definition": "KSI",
     "example": "July 2021 — 1 week at No.2"
   },
   {
     "id": "id_no2s1926_23",
-    "term": "Stay",
+    "term": "Stay (2021)",
     "definition": "The Kid LAROI & Justin Bieber",
     "example": "July 2021 — 6 weeks at No.2"
   },
@@ -89724,7 +89724,7 @@ window.QM_NO2S1926_DATA = [
   },
   {
     "id": "id_no2s1926_29",
-    "term": "Baby",
+    "term": "Baby (2022)",
     "definition": "Aitch Feat. Ashanti",
     "example": "March 2022 — 3 weeks at No.2"
   },
@@ -89736,7 +89736,7 @@ window.QM_NO2S1926_DATA = [
   },
   {
     "id": "id_no2s1926_31",
-    "term": "Space Man",
+    "term": "Space Man (2022)",
     "definition": "Sam Ryder",
     "example": "May 2022 — 1 week at No.2"
   },
@@ -89748,7 +89748,7 @@ window.QM_NO2S1926_DATA = [
   },
   {
     "id": "id_no2s1926_33",
-    "term": "Go",
+    "term": "Go (2022)",
     "definition": "Cat Burns",
     "example": "June 2022 — 1 week at No.2"
   },
@@ -89820,7 +89820,7 @@ window.QM_NO2S1926_DATA = [
   },
   {
     "id": "id_no2s1926_45",
-    "term": "Houdini",
+    "term": "Houdini (2023)",
     "definition": "Dua Lipa",
     "example": "November 2023 — 1 week at No.2"
   },
@@ -89990,7 +89990,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 7,
-    "term": "Broken Wings",
+    "term": "Broken Wings (1953)",
     "definition": "Stargazers",
     "example": "April 1953 · 1 week at No.1"
   },
@@ -90002,7 +90002,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 9,
-    "term": "I Believe",
+    "term": "I Believe (1953)",
     "definition": "Frankie Laine",
     "example": "April 1953 · 18 weeks at No.1"
   },
@@ -90050,7 +90050,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 17,
-    "term": "Secret Love",
+    "term": "Secret Love (1954)",
     "definition": "Doris Day",
     "example": "April 1954 · 9 weeks at No.1"
   },
@@ -90074,13 +90074,13 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 21,
-    "term": "Three Coins in the Fountain",
+    "term": "Three Coins in the Fountain (September 1954)",
     "definition": "Frank Sinatra",
     "example": "September 1954 · 3 weeks at No.1"
   },
   {
     "id": 22,
-    "term": "Hold My Hand",
+    "term": "Hold My Hand (1954)",
     "definition": "Don Cornell",
     "example": "October 1954 · 5 weeks at No.1"
   },
@@ -90092,7 +90092,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 24,
-    "term": "This Ole House",
+    "term": "This Ole House (November 1954)",
     "definition": "Rosemary Clooney",
     "example": "November 1954 · 1 week at No.1"
   },
@@ -90140,7 +90140,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 32,
-    "term": "Unchained Melody",
+    "term": "Unchained Melody (June 1955)",
     "definition": "Jimmy Young",
     "example": "June 1955 · 3 weeks at No.1"
   },
@@ -90188,7 +90188,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 40,
-    "term": "Memories Are Made of This",
+    "term": "Memories Are Made of This (February 1956)",
     "definition": "Dean Martin",
     "example": "February 1956 · 4 weeks at No.1"
   },
@@ -90224,7 +90224,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 46,
-    "term": "Why Do Fools Fall in Love",
+    "term": "Why Do Fools Fall in Love (1956)",
     "definition": "Teenagers Featuring Frankie Lymon",
     "example": "July 1956 · 3 weeks at No.1"
   },
@@ -90266,7 +90266,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 53,
-    "term": "Young Love",
+    "term": "Young Love (1957)",
     "definition": "Tab Hunter",
     "example": "February 1957 · 7 weeks at No.1"
   },
@@ -90284,7 +90284,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 56,
-    "term": "Butterfly",
+    "term": "Butterfly (1957)",
     "definition": "Andy Williams",
     "example": "May 1957 · 2 weeks at No.1"
   },
@@ -90320,7 +90320,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 62,
-    "term": "Mary's Boy Child",
+    "term": "Mary's Boy Child (1957)",
     "definition": "Harry Belafonte",
     "example": "November 1957 · 7 weeks at No.1"
   },
@@ -90374,7 +90374,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 71,
-    "term": "When",
+    "term": "When (1958)",
     "definition": "Kalin Twins",
     "example": "August 1958 · 5 weeks at No.1"
   },
@@ -90386,7 +90386,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 73,
-    "term": "It's All In The Game",
+    "term": "It's All In The Game (1958)",
     "definition": "Tommy Edwards",
     "example": "November 1958 · 3 weeks at No.1"
   },
@@ -90398,7 +90398,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 75,
-    "term": "It's Only Make Believe",
+    "term": "It's Only Make Believe (1958)",
     "definition": "Conway Twitty",
     "example": "December 1958 · 5 weeks at No.1"
   },
@@ -90458,7 +90458,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 85,
-    "term": "Living Doll",
+    "term": "Living Doll (1959)",
     "definition": "Cliff Richard and the Drifters",
     "example": "August 1959 · 6 weeks at No.1"
   },
@@ -90494,7 +90494,7 @@ window.QM_NO1S5259_DATA = [
   },
   {
     "id": 91,
-    "term": "What Do You Want to Make Those Eyes at Me For?",
+    "term": "What Do You Want to Make Those Eyes at Me For? (1959)",
     "definition": "Emile Ford and the Checkmates",
     "example": "December 1959 · 6 weeks at No.1"
   }
@@ -90502,13 +90502,13 @@ window.QM_NO1S5259_DATA = [
 window.QM_NO1S6064_DATA = [
   {
     "id": 1,
-    "term": "Starry Eyed",
+    "term": "Starry Eyed (1960)",
     "definition": "Michael Holliday",
     "example": "January 1960 · 1 week at No.1"
   },
   {
     "id": 2,
-    "term": "Why",
+    "term": "Why (1960)",
     "definition": "Anthony Newley",
     "example": "February 1960 · 4 weeks at No.1"
   },
@@ -90544,7 +90544,7 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 8,
-    "term": "Three Steps To Heaven",
+    "term": "Three Steps To Heaven (1960)",
     "definition": "Eddie Cochran",
     "example": "June 1960 · 2 weeks at No.1"
   },
@@ -90652,13 +90652,13 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 26,
-    "term": "Runaway",
+    "term": "Runaway (1961)",
     "definition": "Del Shannon",
     "example": "July 1961 · 3 weeks at No.1"
   },
   {
     "id": 27,
-    "term": "Temptation",
+    "term": "Temptation (1961)",
     "definition": "The Everly Brothers",
     "example": "July 1961 · 2 weeks at No.1"
   },
@@ -90808,7 +90808,7 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 52,
-    "term": "Diamonds",
+    "term": "Diamonds (1963)",
     "definition": "Jet Harris and Tony Meehan",
     "example": "February 1963 · 3 weeks at No.1"
   },
@@ -90844,7 +90844,7 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 58,
-    "term": "I Like It",
+    "term": "I Like It (1963)",
     "definition": "Gerry and the Pacemakers",
     "example": "June 1963 · 4 weeks at No.1"
   },
@@ -90862,7 +90862,7 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 61,
-    "term": "Sweets For My Sweet",
+    "term": "Sweets For My Sweet (1963)",
     "definition": "The Searchers",
     "example": "August 1963 · 2 weeks at No.1"
   },
@@ -90886,7 +90886,7 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 65,
-    "term": "You'll Never Walk Alone",
+    "term": "You'll Never Walk Alone (1963)",
     "definition": "Gerry and the Pacemakers",
     "example": "November 1963 · 4 weeks at No.1"
   },
@@ -90946,7 +90946,7 @@ window.QM_NO1S6064_DATA = [
   },
   {
     "id": 75,
-    "term": "Juliet",
+    "term": "Juliet (1964)",
     "definition": "The Four Pennies",
     "example": "May 1964 · 1 week at No.1"
   },
@@ -91050,7 +91050,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 3,
-    "term": "You've Lost That Lovin' Feelin'",
+    "term": "You've Lost That Lovin' Feelin' (February 1965)",
     "definition": "The Righteous Brothers",
     "example": "February 1965 · 2 weeks at No.1"
   },
@@ -91134,13 +91134,13 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 17,
-    "term": "Help!",
+    "term": "Help! (1965)",
     "definition": "The Beatles",
     "example": "August 1965 · 3 weeks at No.1"
   },
   {
     "id": 18,
-    "term": "I Got You Babe",
+    "term": "I Got You Babe (1965)",
     "definition": "Sonny And Cher",
     "example": "August 1965 · 2 weeks at No.1"
   },
@@ -91158,7 +91158,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 21,
-    "term": "Tears",
+    "term": "Tears (1965)",
     "definition": "Ken Dodd",
     "example": "October 1965 · 5 weeks at No.1"
   },
@@ -91194,7 +91194,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 27,
-    "term": "These Boots Are Made For Walkin'",
+    "term": "These Boots Are Made For Walkin' (1966)",
     "definition": "Nancy Sinatra",
     "example": "February 1966 · 4 weeks at No.1"
   },
@@ -91212,7 +91212,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 30,
-    "term": "You Don't Have To Say You Love Me",
+    "term": "You Don't Have To Say You Love Me (1966)",
     "definition": "Dusty Springfield",
     "example": "April 1966 · 1 week at No.1"
   },
@@ -91248,13 +91248,13 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 36,
-    "term": "Getaway",
+    "term": "Getaway (1966)",
     "definition": "Georgie Fame And The Blue Flames",
     "example": "July 1966 · 1 week at No.1"
   },
   {
     "id": 37,
-    "term": "Out Of Time",
+    "term": "Out Of Time (1966)",
     "definition": "Chris Farlowe",
     "example": "July 1966 · 1 week at No.1"
   },
@@ -91272,7 +91272,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 40,
-    "term": "All Or Nothing",
+    "term": "All Or Nothing (1966)",
     "definition": "The Small Faces",
     "example": "September 1966 · 1 week at No.1"
   },
@@ -91302,25 +91302,25 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 45,
-    "term": "I'm a Believer",
+    "term": "I'm a Believer (1967)",
     "definition": "The Monkees",
     "example": "January 1967 · 4 weeks at No.1"
   },
   {
     "id": 46,
-    "term": "This Is My Song",
+    "term": "This Is My Song (February 1967)",
     "definition": "Petula Clark",
     "example": "February 1967 · 2 weeks at No.1"
   },
   {
     "id": 47,
-    "term": "Release Me",
+    "term": "Release Me (1967)",
     "definition": "Engelbert Humperdinck",
     "example": "March 1967 · 6 weeks at No.1"
   },
   {
     "id": 48,
-    "term": "Somethin' Stupid",
+    "term": "Somethin' Stupid (1967)",
     "definition": "Nancy Sinatra And Frank Sinatra",
     "example": "April 1967 · 2 weeks at No.1"
   },
@@ -91392,7 +91392,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 60,
-    "term": "Everlasting Love",
+    "term": "Everlasting Love (1968)",
     "definition": "Love Affair",
     "example": "February 1968 · 2 weeks at No.1"
   },
@@ -91446,7 +91446,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 69,
-    "term": "Baby Come Back",
+    "term": "Baby Come Back (1968)",
     "definition": "The Equals",
     "example": "July 1968 · 3 weeks at No.1"
   },
@@ -91464,7 +91464,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 72,
-    "term": "Fire!",
+    "term": "Fire! (1968)",
     "definition": "Crazy World Of Arthur Brown",
     "example": "August 1968 · 1 week at No.1"
   },
@@ -91494,7 +91494,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 77,
-    "term": "With A Little Help From My Friends",
+    "term": "With A Little Help From My Friends (1968)",
     "definition": "Joe Cocker",
     "example": "November 1968 · 1 week at No.1"
   },
@@ -91560,7 +91560,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 88,
-    "term": "Dizzy",
+    "term": "Dizzy (1969)",
     "definition": "Tommy Roe",
     "example": "June 1969 · 1 week at No.1"
   },
@@ -91602,7 +91602,7 @@ window.QM_NO1S6569_DATA = [
   },
   {
     "id": 95,
-    "term": "I'll Never Fall In Love Again",
+    "term": "I'll Never Fall In Love Again (1969)",
     "definition": "Bobbie Gentry",
     "example": "October 1969 · 1 week at No.1"
   },
@@ -91634,7 +91634,7 @@ window.QM_NO1S7074_DATA = [
   },
   {
     "id": 3,
-    "term": "Bridge Over Troubled Water",
+    "term": "Bridge Over Troubled Water (1970)",
     "definition": "Simon And Garfunkel",
     "example": "March 1970 · 3 weeks at No.1"
   },
@@ -91646,7 +91646,7 @@ window.QM_NO1S7074_DATA = [
   },
   {
     "id": 5,
-    "term": "Spirit In The Sky",
+    "term": "Spirit In The Sky (1970)",
     "definition": "Norman Greenbaum",
     "example": "May 1970 · 2 weeks at No.1"
   },
@@ -91664,7 +91664,7 @@ window.QM_NO1S7074_DATA = [
   },
   {
     "id": 8,
-    "term": "In The Summertime",
+    "term": "In The Summertime (1970)",
     "definition": "Mungo Jerry",
     "example": "June 1970 · 7 weeks at No.1"
   },
@@ -91802,13 +91802,13 @@ window.QM_NO1S7074_DATA = [
   },
   {
     "id": 31,
-    "term": "Without You",
+    "term": "Without You (1972)",
     "definition": "Nilsson",
     "example": "March 1972 · 5 weeks at No.1"
   },
   {
     "id": 32,
-    "term": "Amazing Grace",
+    "term": "Amazing Grace (1972)",
     "definition": "Pipes And Drums And The Military Band Of The Royal Scots Dragoon Guard",
     "example": "April 1972 · 5 weeks at No.1"
   },
@@ -91952,7 +91952,7 @@ window.QM_NO1S7074_DATA = [
   },
   {
     "id": 56,
-    "term": "Young Love",
+    "term": "Young Love (1973)",
     "definition": "Donny Osmond",
     "example": "August 1973 · 4 weeks at No.1"
   },
@@ -92066,7 +92066,7 @@ window.QM_NO1S7074_DATA = [
   },
   {
     "id": 75,
-    "term": "Love Me For A Reason",
+    "term": "Love Me For A Reason (1974)",
     "definition": "The Osmonds",
     "example": "August 1974 · 3 weeks at No.1"
   },
@@ -92078,7 +92078,7 @@ window.QM_NO1S7074_DATA = [
   },
   {
     "id": 77,
-    "term": "Annie's Song",
+    "term": "Annie's Song (1974)",
     "definition": "John Denver",
     "example": "October 1974 · 1 week at No.1"
   },
@@ -92090,7 +92090,7 @@ window.QM_NO1S7074_DATA = [
   },
   {
     "id": 79,
-    "term": "Everything I Own",
+    "term": "Everything I Own (1974)",
     "definition": "Ken Boothe",
     "example": "October 1974 · 3 weeks at No.1"
   },
@@ -92152,7 +92152,7 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 7,
-    "term": "Oh Boy",
+    "term": "Oh Boy (1975)",
     "definition": "Mud",
     "example": "May 1975 · 2 weeks at No.1"
   },
@@ -92176,7 +92176,7 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 11,
-    "term": "Tears On My Pillow",
+    "term": "Tears On My Pillow (1975)",
     "definition": "Johnny Nash",
     "example": "July 1975 · 1 week at No.1"
   },
@@ -92338,13 +92338,13 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 38,
-    "term": "Don't Cry For Me Argentina",
+    "term": "Don't Cry For Me Argentina (1977)",
     "definition": "Julie Covington",
     "example": "February 1977 · 1 week at No.1"
   },
   {
     "id": 39,
-    "term": "When I Need You",
+    "term": "When I Need You (1977)",
     "definition": "Leo Sayer",
     "example": "February 1977 · 3 weeks at No.1"
   },
@@ -92362,7 +92362,7 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 42,
-    "term": "Free",
+    "term": "Free (1977)",
     "definition": "Deniece Williams",
     "example": "May 1977 · 2 weeks at No.1"
   },
@@ -92452,7 +92452,7 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 57,
-    "term": "Take A Chance On Me",
+    "term": "Take A Chance On Me (1978)",
     "definition": "ABBA",
     "example": "February 1978 · 3 weeks at No.1"
   },
@@ -92482,7 +92482,7 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 62,
-    "term": "You're The One That I Want",
+    "term": "You're The One That I Want (1978)",
     "definition": "John Travolta And Olivia Newton-John",
     "example": "June 1978 · 9 weeks at No.1"
   },
@@ -92518,7 +92518,7 @@ window.QM_NO1S7579_DATA = [
   },
   {
     "id": 68,
-    "term": "Mary's Boy Child",
+    "term": "Mary's Boy Child (1978)",
     "definition": "Boney M",
     "example": "December 1978 · 4 weeks at No.1"
   },
@@ -92676,7 +92676,7 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 8,
-    "term": "Call Me",
+    "term": "Call Me (1980)",
     "definition": "Blondie",
     "example": "April 1980 · 1 week at No.1"
   },
@@ -92748,7 +92748,7 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 20,
-    "term": "Woman In Love",
+    "term": "Woman In Love (1980)",
     "definition": "Barbra Streisand",
     "example": "October 1980 · 3 weeks at No.1"
   },
@@ -92802,7 +92802,7 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 29,
-    "term": "This Ole House",
+    "term": "This Ole House (1981)",
     "definition": "Shakin' Stevens",
     "example": "March 1981 · 3 weeks at No.1"
   },
@@ -92850,7 +92850,7 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 37,
-    "term": "Tainted Love",
+    "term": "Tainted Love (1981)",
     "definition": "Soft Cell",
     "example": "September 1981 · 2 weeks at No.1"
   },
@@ -92862,7 +92862,7 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 39,
-    "term": "It's My Party",
+    "term": "It's My Party (1981)",
     "definition": "Dave Stewart With Barbara Gaskin",
     "example": "October 1981 · 4 weeks at No.1"
   },
@@ -93018,13 +93018,13 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 65,
-    "term": "You Can't Hurry Love",
+    "term": "You Can't Hurry Love (1983)",
     "definition": "Phil Collins",
     "example": "January 1983 · 2 weeks at No.1"
   },
   {
     "id": 66,
-    "term": "Down Under",
+    "term": "Down Under (1983)",
     "definition": "Men At Work",
     "example": "January 1983 · 3 weeks at No.1"
   },
@@ -93042,7 +93042,7 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 69,
-    "term": "Total Eclipse Of The Heart",
+    "term": "Total Eclipse Of The Heart (1983)",
     "definition": "Bonnie Tyler",
     "example": "March 1983 · 2 weeks at No.1"
   },
@@ -93054,13 +93054,13 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 71,
-    "term": "Let's Dance",
+    "term": "Let's Dance (1983)",
     "definition": "David Bowie",
     "example": "April 1983 · 3 weeks at No.1"
   },
   {
     "id": 72,
-    "term": "True",
+    "term": "True (1983)",
     "definition": "Spandau Ballet",
     "example": "April 1983 · 4 weeks at No.1"
   },
@@ -93090,7 +93090,7 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 77,
-    "term": "Give It Up",
+    "term": "Give It Up (1983)",
     "definition": "KC And The Sunshine Band",
     "example": "August 1983 · 3 weeks at No.1"
   },
@@ -93108,13 +93108,13 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 80,
-    "term": "Uptown Girl",
+    "term": "Uptown Girl (1983)",
     "definition": "Billy Joel",
     "example": "November 1983 · 5 weeks at No.1"
   },
   {
     "id": 81,
-    "term": "Only You",
+    "term": "Only You (1983)",
     "definition": "The Flying Pickets",
     "example": "December 1983 · 5 weeks at No.1"
   },
@@ -93138,7 +93138,7 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 85,
-    "term": "Hello",
+    "term": "Hello (1984)",
     "definition": "Lionel Richie",
     "example": "March 1984 · 6 weeks at No.1"
   },
@@ -93174,7 +93174,7 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 91,
-    "term": "Freedom",
+    "term": "Freedom (1984)",
     "definition": "Wham!",
     "example": "October 1984 · 3 weeks at No.1"
   },
@@ -93192,13 +93192,13 @@ window.QM_NO1S8084_DATA = [
   },
   {
     "id": 94,
-    "term": "The Power of Love",
+    "term": "The Power of Love (1984)",
     "definition": "Frankie Goes to Hollywood",
     "example": "December 1984 · 1 week at No.1"
   },
   {
     "id": 95,
-    "term": "Do They Know It's Christmas",
+    "term": "Do They Know It's Christmas (1984)",
     "definition": "Band Aid",
     "example": "December 1984 · 5 weeks at No.1"
   }
@@ -93248,7 +93248,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 8,
-    "term": "You'll Never Walk Alone",
+    "term": "You'll Never Walk Alone (1985)",
     "definition": "The Crowd",
     "example": "June 1985 · 2 weeks at No.1"
   },
@@ -93272,13 +93272,13 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 12,
-    "term": "I Got You Babe",
+    "term": "I Got You Babe (1985)",
     "definition": "UB40 featuring Chrissie Hynde",
     "example": "August 1985 · 1 week at No.1"
   },
   {
     "id": 13,
-    "term": "Dancing in the Street",
+    "term": "Dancing in the Street (1985)",
     "definition": "David Bowie And Mick Jagger",
     "example": "September 1985 · 4 weeks at No.1"
   },
@@ -93290,7 +93290,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 15,
-    "term": "The Power of Love",
+    "term": "The Power of Love (1985)",
     "definition": "Jennifer Rush",
     "example": "October 1985 · 5 weeks at No.1"
   },
@@ -93302,7 +93302,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 17,
-    "term": "I'm Your Man",
+    "term": "I'm Your Man (1985)",
     "definition": "Wham!",
     "example": "November 1985 · 2 weeks at No.1"
   },
@@ -93344,7 +93344,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 24,
-    "term": "Living Doll",
+    "term": "Living Doll (1986)",
     "definition": "Cliff Richard And The Young Ones",
     "example": "March 1986 · 3 weeks at No.1"
   },
@@ -93368,7 +93368,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 28,
-    "term": "Spirit In The Sky",
+    "term": "Spirit In The Sky (1986)",
     "definition": "Doctor And The Medics",
     "example": "June 1986 · 3 weeks at No.1"
   },
@@ -93380,7 +93380,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 30,
-    "term": "Papa Don't Preach",
+    "term": "Papa Don't Preach (1986)",
     "definition": "Madonna",
     "example": "July 1986 · 3 weeks at No.1"
   },
@@ -93398,7 +93398,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 33,
-    "term": "Don't Leave Me This Way",
+    "term": "Don't Leave Me This Way (1986)",
     "definition": "The Communards",
     "example": "September 1986 · 4 weeks at No.1"
   },
@@ -93458,13 +93458,13 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 43,
-    "term": "Stand By Me",
+    "term": "Stand By Me (1987)",
     "definition": "Ben E King",
     "example": "February 1987 · 3 weeks at No.1"
   },
   {
     "id": 44,
-    "term": "Everything I Own",
+    "term": "Everything I Own (1987)",
     "definition": "Boy George",
     "example": "March 1987 · 2 weeks at No.1"
   },
@@ -93476,7 +93476,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 46,
-    "term": "Let It Be",
+    "term": "Let It Be (1987)",
     "definition": "Ferry Aid",
     "example": "April 1987 · 3 weeks at No.1"
   },
@@ -93512,7 +93512,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 52,
-    "term": "Who's That Girl",
+    "term": "Who's That Girl (1987)",
     "definition": "Madonna",
     "example": "July 1987 · 1 week at No.1"
   },
@@ -93566,7 +93566,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 61,
-    "term": "I Think We're Alone Now",
+    "term": "I Think We're Alone Now (1988)",
     "definition": "Tiffany",
     "example": "January 1988 · 3 weeks at No.1"
   },
@@ -93578,7 +93578,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 63,
-    "term": "Don't Turn Around",
+    "term": "Don't Turn Around (1988)",
     "definition": "Aswad",
     "example": "March 1988 · 2 weeks at No.1"
   },
@@ -93596,7 +93596,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 66,
-    "term": "Perfect",
+    "term": "Perfect (1988)",
     "definition": "Fairground Attraction",
     "example": "May 1988 · 1 week at No.1"
   },
@@ -93632,13 +93632,13 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 72,
-    "term": "A Groovy Kind Of Love",
+    "term": "A Groovy Kind Of Love (1988)",
     "definition": "Phil Collins",
     "example": "September 1988 · 2 weeks at No.1"
   },
   {
     "id": 73,
-    "term": "He Ain't Heavy, He's My Brother",
+    "term": "He Ain't Heavy, He's My Brother (1988)",
     "definition": "The Hollies",
     "example": "September 1988 · 2 weeks at No.1"
   },
@@ -93674,13 +93674,13 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 79,
-    "term": "Especially for You",
+    "term": "Especially for You (1989)",
     "definition": "Kylie and Jason",
     "example": "January 1989 · 3 weeks at No.1"
   },
   {
     "id": 80,
-    "term": "Something's Gotten Hold Of My Heart",
+    "term": "Something's Gotten Hold Of My Heart (1989)",
     "definition": "Marc Almond featuring Gene Pitney",
     "example": "January 1989 · 4 weeks at No.1"
   },
@@ -93698,13 +93698,13 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 83,
-    "term": "Like A Prayer",
+    "term": "Like A Prayer (1989)",
     "definition": "Madonna",
     "example": "March 1989 · 3 weeks at No.1"
   },
   {
     "id": 84,
-    "term": "Eternal Flame",
+    "term": "Eternal Flame (1989)",
     "definition": "The Bangles",
     "example": "April 1989 · 4 weeks at No.1"
   },
@@ -93722,7 +93722,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 87,
-    "term": "Sealed With A Kiss",
+    "term": "Sealed With A Kiss (1989)",
     "definition": "Jason Donovan",
     "example": "June 1989 · 2 weeks at No.1"
   },
@@ -93758,7 +93758,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 93,
-    "term": "All Around The World",
+    "term": "All Around The World (1989)",
     "definition": "Lisa Stansfield",
     "example": "November 1989 · 2 weeks at No.1"
   },
@@ -93776,7 +93776,7 @@ window.QM_NO1S8589_DATA = [
   },
   {
     "id": 96,
-    "term": "Do They Know It's Christmas?",
+    "term": "Do They Know It's Christmas? (1989)",
     "definition": "Band Aid II",
     "example": "December 1989 · 3 weeks at No.1"
   }
@@ -93790,7 +93790,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 2,
-    "term": "Tears On My Pillow",
+    "term": "Tears On My Pillow (1990)",
     "definition": "Kylie Minogue",
     "example": "January 1990 · 1 week at No.1"
   },
@@ -93820,7 +93820,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 7,
-    "term": "Killer",
+    "term": "Killer (1990)",
     "definition": "Adamski",
     "example": "May 1990 · 4 weeks at No.1"
   },
@@ -93868,7 +93868,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 15,
-    "term": "Unchained Melody",
+    "term": "Unchained Melody (1990)",
     "definition": "The Righteous Brothers",
     "example": "November 1990 · 4 weeks at No.1"
   },
@@ -93946,7 +93946,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 28,
-    "term": "Any Dream Will Do",
+    "term": "Any Dream Will Do (1991)",
     "definition": "Jason Donovan",
     "example": "June 1991 · 2 weeks at No.1"
   },
@@ -93964,7 +93964,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 31,
-    "term": "Dizzy",
+    "term": "Dizzy (1991)",
     "definition": "Vic Reeves And The Wonder Stuff",
     "example": "November 1991 · 2 weeks at No.1"
   },
@@ -93994,7 +93994,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 36,
-    "term": "Stay",
+    "term": "Stay (1992)",
     "definition": "Shakespears Sister",
     "example": "February 1992 · 8 weeks at No.1"
   },
@@ -94150,7 +94150,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 62,
-    "term": "Twist and Shout",
+    "term": "Twist and Shout (1994)",
     "definition": "Chaka Demus & Pliers featuring Jack Radics and Taxi Gang",
     "example": "January 1994 · 2 weeks at No.1"
   },
@@ -94162,7 +94162,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 64,
-    "term": "Without You",
+    "term": "Without You (1994)",
     "definition": "Mariah Carey",
     "example": "February 1994 · 4 weeks at No.1"
   },
@@ -94204,7 +94204,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 71,
-    "term": "Love Is All Around",
+    "term": "Love Is All Around (1994)",
     "definition": "Wet Wet Wet",
     "example": "June 1994 · 15 weeks at No.1"
   },
@@ -94222,7 +94222,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 74,
-    "term": "Baby Come Back",
+    "term": "Baby Come Back (1994)",
     "definition": "Pato Banton",
     "example": "October 1994 · 4 weeks at No.1"
   },
@@ -94306,7 +94306,7 @@ window.QM_NO1S9095_DATA = [
   },
   {
     "id": 88,
-    "term": "You Are Not Alone",
+    "term": "You Are Not Alone (1995)",
     "definition": "Michael Jackson",
     "example": "September 1995 · 2 weeks at No.1"
   },
@@ -94350,7 +94350,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 2,
-    "term": "Spaceman",
+    "term": "Spaceman (1996)",
     "definition": "Babylon Zoo",
     "example": "January 1996 · 5 weeks at No.1"
   },
@@ -94362,7 +94362,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 4,
-    "term": "How Deep Is Your Love",
+    "term": "How Deep Is Your Love (1996)",
     "definition": "Take That",
     "example": "March 1996 · 3 weeks at No.1"
   },
@@ -94422,7 +94422,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 14,
-    "term": "Ready Or Not",
+    "term": "Ready Or Not (1996)",
     "definition": "Fugees",
     "example": "September 1996 · 2 weeks at No.1"
   },
@@ -94440,7 +94440,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 17,
-    "term": "Words",
+    "term": "Words (1996)",
     "definition": "Boyzone",
     "example": "October 1996 · 1 week at No.1"
   },
@@ -94452,13 +94452,13 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 19,
-    "term": "What Becomes of the Broken Hearted",
+    "term": "What Becomes of the Broken Hearted (1996)",
     "definition": "Robson & Jerome",
     "example": "November 1996 · 2 weeks at No.1"
   },
   {
     "id": 20,
-    "term": "Breathe",
+    "term": "Breathe (1996)",
     "definition": "The Prodigy",
     "example": "November 1996 · 2 weeks at No.1"
   },
@@ -94626,7 +94626,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 48,
-    "term": "Too Much",
+    "term": "Too Much (1997)",
     "definition": "Spice Girls",
     "example": "December 1997 · 2 weeks at No.1"
   },
@@ -94638,7 +94638,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 50,
-    "term": "All Around The World",
+    "term": "All Around The World (1998)",
     "definition": "Oasis",
     "example": "January 1998 · 1 week at No.1"
   },
@@ -94674,7 +94674,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 56,
-    "term": "It's Like That",
+    "term": "It's Like That (1998)",
     "definition": "Run-DMC vs Jason Nevins",
     "example": "March 1998 · 6 weeks at No.1"
   },
@@ -94704,7 +94704,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 61,
-    "term": "C'est La Vie",
+    "term": "C'est La Vie (1998)",
     "definition": "B*Witched",
     "example": "June 1998 · 2 weeks at No.1"
   },
@@ -94740,7 +94740,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 67,
-    "term": "No Matter What",
+    "term": "No Matter What (1998)",
     "definition": "Boyzone",
     "example": "August 1998 · 3 weeks at No.1"
   },
@@ -94764,7 +94764,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 71,
-    "term": "I Want You Back",
+    "term": "I Want You Back (September 1998)",
     "definition": "Melanie B ft Missy Elliott",
     "example": "September 1998 · 1 week at No.1"
   },
@@ -94776,7 +94776,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 73,
-    "term": "Girlfriend",
+    "term": "Girlfriend (1998)",
     "definition": "Billie",
     "example": "October 1998 · 1 week at No.1"
   },
@@ -94800,7 +94800,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 77,
-    "term": "Goodbye",
+    "term": "Goodbye (1998)",
     "definition": "Spice Girls",
     "example": "December 1998 · 1 week at No.1"
   },
@@ -94824,7 +94824,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 81,
-    "term": "A Little Bit More",
+    "term": "A Little Bit More (1999)",
     "definition": "911",
     "example": "January 1999 · 1 week at No.1"
   },
@@ -94836,7 +94836,7 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 83,
-    "term": "You Don't Know Me",
+    "term": "You Don't Know Me (1999)",
     "definition": "Armand Van Helden Featuring Duane Harden",
     "example": "February 1999 · 1 week at No.1"
   },
@@ -94986,13 +94986,13 @@ window.QM_NO1S9699_DATA = [
   },
   {
     "id": 108,
-    "term": "Keep On Movin'",
+    "term": "Keep On Movin' (1999)",
     "definition": "Five",
     "example": "November 1999 · 1 week at No.1"
   },
   {
     "id": 109,
-    "term": "Lift Me Up",
+    "term": "Lift Me Up (1999)",
     "definition": "Geri Halliwell",
     "example": "November 1999 · 1 week at No.1"
   },
@@ -95036,7 +95036,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 3,
-    "term": "Rise",
+    "term": "Rise (2000)",
     "definition": "Gabrielle",
     "example": "February 2000 · 2 weeks at No.1"
   },
@@ -95054,7 +95054,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 6,
-    "term": "American Pie",
+    "term": "American Pie (2000)",
     "definition": "Madonna",
     "example": "March 2000 · 1 week at No.1"
   },
@@ -95126,7 +95126,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 18,
-    "term": "You See The Trouble With Me",
+    "term": "You See The Trouble With Me (2000)",
     "definition": "Black Legend",
     "example": "June 2000 · 1 week at No.1"
   },
@@ -95186,13 +95186,13 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 28,
-    "term": "Music",
+    "term": "Music (2000)",
     "definition": "Madonna",
     "example": "September 2000 · 1 week at No.1"
   },
   {
     "id": 29,
-    "term": "Take on Me",
+    "term": "Take on Me (2000)",
     "definition": "A1",
     "example": "September 2000 · 1 week at No.1"
   },
@@ -95204,7 +95204,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 31,
-    "term": "Against All Odds",
+    "term": "Against All Odds (2000)",
     "definition": "Mariah Carey ft Westlife",
     "example": "September 2000 · 2 weeks at No.1"
   },
@@ -95234,7 +95234,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 36,
-    "term": "My Love",
+    "term": "My Love (2000)",
     "definition": "Westlife",
     "example": "November 2000 · 1 week at No.1"
   },
@@ -95276,7 +95276,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 43,
-    "term": "Touch Me",
+    "term": "Touch Me (2001)",
     "definition": "Rui Da Silva ft Cassandra",
     "example": "January 2001 · 1 week at No.1"
   },
@@ -95306,7 +95306,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 48,
-    "term": "Uptown Girl",
+    "term": "Uptown Girl (2001)",
     "definition": "Westlife",
     "example": "March 2001 · 1 week at No.1"
   },
@@ -95330,13 +95330,13 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 52,
-    "term": "Don't Stop Movin'",
+    "term": "Don't Stop Movin' (2001)",
     "definition": "S Club 7",
     "example": "May 2001 · 2 weeks at No.1"
   },
   {
     "id": 53,
-    "term": "It's Raining Men",
+    "term": "It's Raining Men (2001)",
     "definition": "Geri Halliwell",
     "example": "May 2001 · 2 weeks at No.1"
   },
@@ -95348,7 +95348,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 55,
-    "term": "Angel",
+    "term": "Angel (2001)",
     "definition": "Shaggy feat. Rayvon",
     "example": "June 2001 · 3 weeks at No.1"
   },
@@ -95378,7 +95378,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 60,
-    "term": "Eternal Flame",
+    "term": "Eternal Flame (2001)",
     "definition": "Atomic Kitten",
     "example": "August 2001 · 2 weeks at No.1"
   },
@@ -95390,13 +95390,13 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 62,
-    "term": "Let's Dance",
+    "term": "Let's Dance (2001)",
     "definition": "Five",
     "example": "August 2001 · 2 weeks at No.1"
   },
   {
     "id": 63,
-    "term": "Too Close",
+    "term": "Too Close (2001)",
     "definition": "Blue",
     "example": "September 2001 · 1 week at No.1"
   },
@@ -95408,7 +95408,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 65,
-    "term": "Hey Baby",
+    "term": "Hey Baby (2001)",
     "definition": "DJ Otzi",
     "example": "September 2001 · 1 week at No.1"
   },
@@ -95450,13 +95450,13 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 72,
-    "term": "Somethin' Stupid",
+    "term": "Somethin' Stupid (2001)",
     "definition": "Robbie Williams And Nicole Kidman",
     "example": "December 2001 · 3 weeks at No.1"
   },
   {
     "id": 73,
-    "term": "More Than A Woman",
+    "term": "More Than A Woman (2002)",
     "definition": "Aaliyah",
     "example": "January 2002 · 1 week at No.1"
   },
@@ -95468,7 +95468,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 75,
-    "term": "Hero",
+    "term": "Hero (February 2002)",
     "definition": "Enrique Iglesias",
     "example": "February 2002 · 4 weeks at No.1"
   },
@@ -95486,7 +95486,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 78,
-    "term": "Unchained Melody",
+    "term": "Unchained Melody (2002)",
     "definition": "Gareth Gates",
     "example": "March 2002 · 4 weeks at No.1"
   },
@@ -95522,7 +95522,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 84,
-    "term": "Without Me",
+    "term": "Without Me (2002)",
     "definition": "Eminem",
     "example": "June 2002 · 1 week at No.1"
   },
@@ -95594,7 +95594,7 @@ window.QM_NO1S0002_DATA = [
   },
   {
     "id": 96,
-    "term": "Heaven",
+    "term": "Heaven (2002)",
     "definition": "DJ Sammy & Yanou ft Do",
     "example": "November 2002 · 1 week at No.1"
   },
@@ -95656,7 +95656,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 4,
-    "term": "Spirit In The Sky",
+    "term": "Spirit In The Sky (2003)",
     "definition": "Gareth Gates ft the Kumars",
     "example": "March 2003 · 2 weeks at No.1"
   },
@@ -95704,7 +95704,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 12,
-    "term": "Breathe",
+    "term": "Breathe (2003)",
     "definition": "Blu Cantrell ft Sean Paul",
     "example": "August 2003 · 4 weeks at No.1"
   },
@@ -95758,13 +95758,13 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 21,
-    "term": "Changes",
+    "term": "Changes (2003)",
     "definition": "Ozzy & Kelly Osbourne",
     "example": "December 2003 · 1 week at No.1"
   },
   {
     "id": 22,
-    "term": "Mad World",
+    "term": "Mad World (2003)",
     "definition": "Michael Andrews ft Gary Jules",
     "example": "December 2003 · 3 weeks at No.1"
   },
@@ -95782,7 +95782,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 25,
-    "term": "With a Little Help From My Friends",
+    "term": "With a Little Help From My Friends (2004)",
     "definition": "Sam & Mark",
     "example": "February 2004 · 1 week at No.1"
   },
@@ -95794,7 +95794,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 27,
-    "term": "Mysterious Girl",
+    "term": "Mysterious Girl (2004)",
     "definition": "Peter Andre",
     "example": "March 2004 · 1 week at No.1"
   },
@@ -95854,7 +95854,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 37,
-    "term": "Burn",
+    "term": "Burn (2004)",
     "definition": "Usher",
     "example": "July 2004 · 2 weeks at No.1"
   },
@@ -95938,13 +95938,13 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 51,
-    "term": "Do They Know It's Christmas",
+    "term": "Do They Know It's Christmas (2004)",
     "definition": "Band Aid 20",
     "example": "December 2004 · 4 weeks at No.1"
   },
   {
     "id": 52,
-    "term": "Against All Odds",
+    "term": "Against All Odds (2005)",
     "definition": "Steve Brookstein",
     "example": "January 2005 · 1 week at No.1"
   },
@@ -96016,7 +96016,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 64,
-    "term": "Lonely",
+    "term": "Lonely (2005)",
     "definition": "Akon",
     "example": "May 2005 · 2 weeks at No.1"
   },
@@ -96028,7 +96028,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 66,
-    "term": "Axel F",
+    "term": "Axel F (2005)",
     "definition": "Crazy Frog",
     "example": "June 2005 · 4 weeks at No.1"
   },
@@ -96130,7 +96130,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 83,
-    "term": "Sorry",
+    "term": "Sorry (2006)",
     "definition": "Madonna",
     "example": "March 2006 · 1 week at No.1"
   },
@@ -96154,7 +96154,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 87,
-    "term": "Crazy",
+    "term": "Crazy (2006)",
     "definition": "Gnarls Barkley",
     "example": "April 2006 · 9 weeks at No.1"
   },
@@ -96178,7 +96178,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 91,
-    "term": "Smile",
+    "term": "Smile (2006)",
     "definition": "Lily Allen",
     "example": "July 2006 · 2 weeks at No.1"
   },
@@ -96190,7 +96190,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 93,
-    "term": "Deja Vu",
+    "term": "Deja Vu (2006)",
     "definition": "Beyonce ft Jay-Z",
     "example": "September 2006 · 1 week at No.1"
   },
@@ -96244,7 +96244,7 @@ window.QM_NO1S0306_DATA = [
   },
   {
     "id": 102,
-    "term": "Patience",
+    "term": "Patience (2006)",
     "definition": "Take That",
     "example": "December 2006 · 4 weeks at No.1"
   },
@@ -96270,7 +96270,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 3,
-    "term": "Shine",
+    "term": "Shine (2007)",
     "definition": "Take That",
     "example": "March 2007 · 2 weeks at No.1"
   },
@@ -96324,7 +96324,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 12,
-    "term": "Stronger",
+    "term": "Stronger (2007)",
     "definition": "Kanye West",
     "example": "August 2007 · 2 weeks at No.1"
   },
@@ -96354,7 +96354,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 17,
-    "term": "When You Believe",
+    "term": "When You Believe (2007)",
     "definition": "Leon Jackson",
     "example": "December 2007 · 3 weeks at No.1"
   },
@@ -96408,7 +96408,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 26,
-    "term": "Closer",
+    "term": "Closer (2008)",
     "definition": "Ne-Yo",
     "example": "July 2008 · 1 week at No.1"
   },
@@ -96450,7 +96450,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 33,
-    "term": "Hero",
+    "term": "Hero (2008)",
     "definition": "X Factor Finalists",
     "example": "November 2008 · 3 weeks at No.1"
   },
@@ -96468,13 +96468,13 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 36,
-    "term": "Run",
+    "term": "Run (2008)",
     "definition": "Leona Lewis",
     "example": "December 2008 · 2 weeks at No.1"
   },
   {
     "id": 37,
-    "term": "Hallelujah",
+    "term": "Hallelujah (December 2008)",
     "definition": "Alexandra Burke",
     "example": "December 2008 · 3 weeks at No.1"
   },
@@ -96522,7 +96522,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 45,
-    "term": "Number 1",
+    "term": "Number 1 (2009)",
     "definition": "Tinchy Stryder ft N-Dubz",
     "example": "May 2009 · 3 weeks at No.1"
   },
@@ -96588,7 +96588,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 56,
-    "term": "Holiday",
+    "term": "Holiday (2009)",
     "definition": "Dizzee Rascal",
     "example": "September 2009 · 1 week at No.1"
   },
@@ -96618,7 +96618,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 61,
-    "term": "Bad Boys",
+    "term": "Bad Boys (2009)",
     "definition": "Alexandra Burke ft Flo Rida",
     "example": "October 2009 · 1 week at No.1"
   },
@@ -96642,7 +96642,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 65,
-    "term": "You Are Not Alone",
+    "term": "You Are Not Alone (2009)",
     "definition": "X Factor Finalists 2009",
     "example": "November 2009 · 1 week at No.1"
   },
@@ -96726,7 +96726,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 79,
-    "term": "Good Times",
+    "term": "Good Times (2010)",
     "definition": "Roll Deep",
     "example": "May 2010 · 3 weeks at No.1"
   },
@@ -96750,7 +96750,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 83,
-    "term": "Shout",
+    "term": "Shout (2010)",
     "definition": "Shout ft Dizzee & James Corden",
     "example": "June 2010 · 2 weeks at No.1"
   },
@@ -96804,7 +96804,7 @@ window.QM_NO1S0710_DATA = [
   },
   {
     "id": 92,
-    "term": "Dynamite",
+    "term": "Dynamite (2010)",
     "definition": "Taio Cruz",
     "example": "September 2010 · 1 week at No.1"
   },
@@ -96974,13 +96974,13 @@ window.QM_NO1S1113_DATA = [
   },
   {
     "id": 17,
-    "term": "Promises",
+    "term": "Promises (2011)",
     "definition": "Nero",
     "example": "August 2011 · 1 week at No.1"
   },
   {
     "id": 18,
-    "term": "Don't Go",
+    "term": "Don't Go (2011)",
     "definition": "Wretch 32 ft Josh Kumra",
     "example": "August 2011 · 1 week at No.1"
   },
@@ -97034,7 +97034,7 @@ window.QM_NO1S1113_DATA = [
   },
   {
     "id": 27,
-    "term": "Wishing On A Star",
+    "term": "Wishing On A Star (2011)",
     "definition": "X Factor Finalists 2011",
     "example": "December 2011 · 1 week at No.1"
   },
@@ -97058,7 +97058,7 @@ window.QM_NO1S1113_DATA = [
   },
   {
     "id": 31,
-    "term": "Paradise",
+    "term": "Paradise (2012)",
     "definition": "Coldplay",
     "example": "January 2012 · 1 week at No.1"
   },
@@ -97142,7 +97142,7 @@ window.QM_NO1S1113_DATA = [
   },
   {
     "id": 45,
-    "term": "Sing",
+    "term": "Sing (2012)",
     "definition": "Gary Barlow & The Commonwealth Band",
     "example": "June 2012 · 1 week at No.1"
   },
@@ -97214,7 +97214,7 @@ window.QM_NO1S1113_DATA = [
   },
   {
     "id": 57,
-    "term": "Diamonds",
+    "term": "Diamonds (2012)",
     "definition": "Rihanna",
     "example": "October 2012 · 1 week at No.1"
   },
@@ -97238,25 +97238,25 @@ window.QM_NO1S1113_DATA = [
   },
   {
     "id": 61,
-    "term": "Candy",
+    "term": "Candy (2012)",
     "definition": "Robbie Williams",
     "example": "November 2012 · 2 weeks at No.1"
   },
   {
     "id": 62,
-    "term": "Little Things",
+    "term": "Little Things (2012)",
     "definition": "One Direction",
     "example": "November 2012 · 1 week at No.1"
   },
   {
     "id": 63,
-    "term": "Troublemaker",
+    "term": "Troublemaker (December 2012)",
     "definition": "Olly Murs ft Flo Rida",
     "example": "December 2012 · 2 weeks at No.1"
   },
   {
     "id": 64,
-    "term": "The Power of Love",
+    "term": "The Power of Love (2012)",
     "definition": "Gabrielle Aplin",
     "example": "December 2012 · 1 week at No.1"
   },
@@ -97268,7 +97268,7 @@ window.QM_NO1S1113_DATA = [
   },
   {
     "id": 66,
-    "term": "He Ain't Heavy He's My Brother",
+    "term": "He Ain't Heavy He's My Brother (2012)",
     "definition": "Justice Collective",
     "example": "December 2012 · 1 week at No.1"
   },
@@ -97310,7 +97310,7 @@ window.QM_NO1S1113_DATA = [
   },
   {
     "id": 73,
-    "term": "What About Us",
+    "term": "What About Us (2013)",
     "definition": "Saturdays ft Sean Paul",
     "example": "March 2013 · 1 week at No.1"
   },
@@ -97352,7 +97352,7 @@ window.QM_NO1S1113_DATA = [
   },
   {
     "id": 80,
-    "term": "I Love It",
+    "term": "I Love It (2013)",
     "definition": "Icona Pop ft Charli Xcx",
     "example": "July 2013 · 1 week at No.1"
   },
@@ -97364,7 +97364,7 @@ window.QM_NO1S1113_DATA = [
   },
   {
     "id": 82,
-    "term": "Wake Me Up",
+    "term": "Wake Me Up (2013)",
     "definition": "Avicii",
     "example": "July 2013 · 3 weeks at No.1"
   },
@@ -97376,7 +97376,7 @@ window.QM_NO1S1113_DATA = [
   },
   {
     "id": 84,
-    "term": "Burn",
+    "term": "Burn (2013)",
     "definition": "Ellie Goulding",
     "example": "August 2013 · 3 weeks at No.1"
   },
@@ -97430,7 +97430,7 @@ window.QM_NO1S1113_DATA = [
   },
   {
     "id": 93,
-    "term": "Somewhere Only We Know",
+    "term": "Somewhere Only We Know (2013)",
     "definition": "Lily Allen",
     "example": "November 2013 · 3 weeks at No.1"
   },
@@ -97450,7 +97450,7 @@ window.QM_NO1S1113_DATA = [
 window.QM_NO1S1416_DATA = [
   {
     "id": 1,
-    "term": "Happy",
+    "term": "Happy (2014)",
     "definition": "Pharrell Williams",
     "example": "January 2014 · 4 weeks at No.1"
   },
@@ -97474,7 +97474,7 @@ window.QM_NO1S1416_DATA = [
   },
   {
     "id": 5,
-    "term": "My Love",
+    "term": "My Love (2014)",
     "definition": "Route 94 ft Jess Glynne",
     "example": "March 2014 · 1 week at No.1"
   },
@@ -97534,7 +97534,7 @@ window.QM_NO1S1416_DATA = [
   },
   {
     "id": 15,
-    "term": "Stay With Me",
+    "term": "Stay With Me (2014)",
     "definition": "Sam Smith",
     "example": "May 2014 · 1 week at No.1"
   },
@@ -97546,7 +97546,7 @@ window.QM_NO1S1416_DATA = [
   },
   {
     "id": 17,
-    "term": "Sing",
+    "term": "Sing (2014)",
     "definition": "Ed Sheeran",
     "example": "June 2014 · 1 week at No.1"
   },
@@ -97624,7 +97624,7 @@ window.QM_NO1S1416_DATA = [
   },
   {
     "id": 30,
-    "term": "Bang Bang",
+    "term": "Bang Bang (2014)",
     "definition": "Jessie J, Ariana Grande & Nicki Minaj",
     "example": "October 2014 · 1 week at No.1"
   },
@@ -97642,25 +97642,25 @@ window.QM_NO1S1416_DATA = [
   },
   {
     "id": 33,
-    "term": "I Don't Care",
+    "term": "I Don't Care (2014)",
     "definition": "Cheryl",
     "example": "November 2014 · 1 week at No.1"
   },
   {
     "id": 34,
-    "term": "Wake Me Up",
+    "term": "Wake Me Up (2014)",
     "definition": "Gareth Malone's All Star Choir",
     "example": "November 2014 · 1 week at No.1"
   },
   {
     "id": 35,
-    "term": "Do They Know It's Christmas",
+    "term": "Do They Know It's Christmas (2014)",
     "definition": "Band Aid 30",
     "example": "November 2014 · 1 week at No.1"
   },
   {
     "id": 36,
-    "term": "These Days",
+    "term": "These Days (2014)",
     "definition": "Take That",
     "example": "December 2014 · 1 week at No.1"
   },
@@ -97696,7 +97696,7 @@ window.QM_NO1S1416_DATA = [
   },
   {
     "id": 42,
-    "term": "Hold My Hand",
+    "term": "Hold My Hand (2015)",
     "definition": "Jess Glynne",
     "example": "April 2015 · 3 weeks at No.1"
   },
@@ -97738,7 +97738,7 @@ window.QM_NO1S1416_DATA = [
   },
   {
     "id": 49,
-    "term": "Black Magic",
+    "term": "Black Magic (2015)",
     "definition": "Little Mix",
     "example": "July 2015 · 3 weeks at No.1"
   },
@@ -97792,13 +97792,13 @@ window.QM_NO1S1416_DATA = [
   },
   {
     "id": 58,
-    "term": "Hello",
+    "term": "Hello (2015)",
     "definition": "Adele",
     "example": "November 2015 · 3 weeks at No.1"
   },
   {
     "id": 59,
-    "term": "Sorry",
+    "term": "Sorry (2015)",
     "definition": "Justin Bieber",
     "example": "November 2015 · 2 weeks at No.1"
   },
@@ -97852,7 +97852,7 @@ window.QM_NO1S1416_DATA = [
   },
   {
     "id": 68,
-    "term": "Closer",
+    "term": "Closer (2016)",
     "definition": "The Chainsmokers ft Halsey",
     "example": "September 2016 · 4 weeks at No.1"
   },
@@ -97884,7 +97884,7 @@ window.QM_NO1S1719_DATA = [
   },
   {
     "id": 2,
-    "term": "Sign of the Times",
+    "term": "Sign of the Times (2017)",
     "definition": "Harry Styles",
     "example": "April 2017 · 1 week at No.1"
   },
@@ -97896,7 +97896,7 @@ window.QM_NO1S1719_DATA = [
   },
   {
     "id": 4,
-    "term": "I'm the One",
+    "term": "I'm the One (2017)",
     "definition": "DJ Khaled Feat. Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
     "example": "May 2017 · 1 week at No.1"
   },
@@ -97908,7 +97908,7 @@ window.QM_NO1S1719_DATA = [
   },
   {
     "id": 6,
-    "term": "Bridge Over Troubled Water",
+    "term": "Bridge Over Troubled Water (2017)",
     "definition": "Artists for Grenfell",
     "example": "June 2017 · 1 week at No.1"
   },
@@ -97944,7 +97944,7 @@ window.QM_NO1S1719_DATA = [
   },
   {
     "id": 12,
-    "term": "Rockstar",
+    "term": "Rockstar (2017)",
     "definition": "Post Malone ft 21 Savage",
     "example": "October 2017 · 4 weeks at No.1"
   },
@@ -97956,13 +97956,13 @@ window.QM_NO1S1719_DATA = [
   },
   {
     "id": 14,
-    "term": "Perfect",
+    "term": "Perfect (2017)",
     "definition": "Ed Sheeran",
     "example": "December 2017 · 6 weeks at No.1"
   },
   {
     "id": 15,
-    "term": "River",
+    "term": "River (2018)",
     "definition": "Eminem ft Ed Sheeran",
     "example": "January 2018 · 1 week at No.1"
   },
@@ -97974,7 +97974,7 @@ window.QM_NO1S1719_DATA = [
   },
   {
     "id": 17,
-    "term": "These Days",
+    "term": "These Days (2018)",
     "definition": "Rudimental Feat. Jess Glynne, Macklemore & Dan Caplen",
     "example": "April 2018 · 1 week at No.1"
   },
@@ -97998,13 +97998,13 @@ window.QM_NO1S1719_DATA = [
   },
   {
     "id": 21,
-    "term": "I'll Be There",
+    "term": "I'll Be There (2018)",
     "definition": "Jess Glynne",
     "example": "June 2018 · 1 week at No.1"
   },
   {
     "id": 22,
-    "term": "Solo",
+    "term": "Solo (2018)",
     "definition": "Clean Bandit ft Demi Lovato",
     "example": "June 2018 · 1 week at No.1"
   },
@@ -98034,7 +98034,7 @@ window.QM_NO1S1719_DATA = [
   },
   {
     "id": 27,
-    "term": "Promises",
+    "term": "Promises (2018)",
     "definition": "Calvin Harris & Sam Smith",
     "example": "September 2018 · 6 weeks at No.1"
   },
@@ -98100,7 +98100,7 @@ window.QM_NO1S1719_DATA = [
   },
   {
     "id": 38,
-    "term": "I Don't Care",
+    "term": "I Don't Care (2019)",
     "definition": "Ed Sheeran & Justin Bieber",
     "example": "May 2019 · 8 weeks at No.1"
   },
@@ -98112,7 +98112,7 @@ window.QM_NO1S1719_DATA = [
   },
   {
     "id": 40,
-    "term": "Beautiful People",
+    "term": "Beautiful People (2019)",
     "definition": "Ed Sheeran ft Khalid",
     "example": "July 2019 · 1 week at No.1"
   },
@@ -98138,7 +98138,7 @@ window.QM_NO1S1719_DATA = [
 window.QM_NO1S2026_DATA = [
   {
     "id": 1,
-    "term": "River",
+    "term": "River (2020)",
     "definition": "Ellie Goulding",
     "example": "January 2020 · 1 week at No.1"
   },
@@ -98174,13 +98174,13 @@ window.QM_NO1S2026_DATA = [
   },
   {
     "id": 7,
-    "term": "Roses",
+    "term": "Roses (2020)",
     "definition": "SAINt JHN",
     "example": "March 2020 · 2 weeks at No.1"
   },
   {
     "id": 8,
-    "term": "You'll Never Walk Alone",
+    "term": "You'll Never Walk Alone (2020)",
     "definition": "Michael Ball & Captain Tom Moore With The NHS Voices Of Care Choir",
     "example": "April 2020 · 1 week at No.1"
   },
@@ -98198,7 +98198,7 @@ window.QM_NO1S2026_DATA = [
   },
   {
     "id": 11,
-    "term": "Rockstar",
+    "term": "Rockstar (2020)",
     "definition": "Dababy ft Roddy Ricch",
     "example": "May 2020 · 6 weeks at No.1"
   },
@@ -98288,7 +98288,7 @@ window.QM_NO1S2026_DATA = [
   },
   {
     "id": 26,
-    "term": "Body",
+    "term": "Body (2021)",
     "definition": "Tion Wayne & Russ Millions",
     "example": "May 2021 · 3 weeks at No.1"
   },
@@ -98348,7 +98348,7 @@ window.QM_NO1S2026_DATA = [
   },
   {
     "id": 36,
-    "term": "Starlight",
+    "term": "Starlight (2022)",
     "definition": "Dave",
     "example": "March 2022 · 4 weeks at No.1"
   },
@@ -98420,7 +98420,7 @@ window.QM_NO1S2026_DATA = [
   },
   {
     "id": 48,
-    "term": "Flowers",
+    "term": "Flowers (2023)",
     "definition": "Miley Cyrus",
     "example": "January 2023 · 10 weeks at No.1"
   },
@@ -98534,7 +98534,7 @@ window.QM_NO1S2026_DATA = [
   },
   {
     "id": 67,
-    "term": "Houdini",
+    "term": "Houdini (2024)",
     "definition": "Eminem",
     "example": "June 2024 · 2 weeks at No.1"
   },
@@ -98558,7 +98558,7 @@ window.QM_NO1S2026_DATA = [
   },
   {
     "id": 71,
-    "term": "Taste",
+    "term": "Taste (2024)",
     "definition": "Sabrina Carpenter",
     "example": "September 2024 · 9 weeks at No.1"
   },
@@ -98600,7 +98600,7 @@ window.QM_NO1S2026_DATA = [
   },
   {
     "id": 78,
-    "term": "Manchild",
+    "term": "Manchild (2025)",
     "definition": "Sabrina Carpenter",
     "example": "June 2025 · 2 weeks at No.1"
   },
