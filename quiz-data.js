@@ -65443,603 +65443,615 @@ window.QM_IDIOMS_HU_DATA = [
 window.QM_IDIOMS_RO_DATA = [
   {
     "id": 1,
-    "term": "da de gol",
-    "definition": "to blow someone's cover, to expose",
-    "example": ""
+    "term": "A o lua la sănătoasa",
+    "definition": "“To take it towards the healthy one” — to leg it",
+    "example": "Când a văzut poliția, a luat-o la sănătoasa."
   },
   {
     "id": 2,
-    "term": "floare la ureche",
-    "definition": "piece of cake",
-    "example": "Testul a fost floare la ureche."
+    "term": "A-i pica fisa",
+    "definition": "“For the coin to drop” — for the penny to drop",
+    "example": "După o oră de explicații, în sfârșit i-a picat fisa."
   },
   {
     "id": 3,
-    "term": "la sfântu-așteaptă",
-    "definition": "never, on the second Tuesday of the week",
-    "example": "O să ne primim banii înapoi la sfântu-așteaptă."
+    "term": "A freca menta",
+    "definition": "“To rub the mint” — to idle about doing nothing",
+    "example": "În loc să învețe, freacă menta toată ziua."
   },
   {
     "id": 4,
-    "term": "lăsa loc de bună ziua",
-    "definition": "to hide one's hard feelings for someone after having an argument or breaking up with him/her/them",
-    "example": "Ei s-au despărțit acum trei luni, dar au lăsat loc de bună ziua."
+    "term": "A tăia frunză la câini",
+    "definition": "“To cut leaves for the dogs” — to waste time on something pointless",
+    "example": "Nu mai tăia frunză la câini și apucă-te de treabă."
   },
   {
     "id": 5,
-    "term": "răspunde cu aceeași monedă",
-    "definition": "to retaliate, reciprocate, fight back, counterattack, give as good as one gets, return the favor",
-    "example": "Dacă cineva te înjură, răspunde-i cu aceeași monedă și înjură-l înapoi!"
+    "term": "A se uita ca mâța în calendar",
+    "definition": "“To look like the cat at the calendar” — to stare at something without understanding a word",
+    "example": "Se uita la contract ca mâța în calendar."
   },
   {
     "id": 6,
-    "term": "scoate cămașa",
-    "definition": "to fix or get away with one’s mistakes",
-    "example": "Am făcut o prostie, iar acum nu știu pe unde să scot cămașa. Ajută-mă, te rog!"
+    "term": "A da cu bâta în baltă",
+    "definition": "“To hit the pond with the stick” — to put your foot in it",
+    "example": "A întrebat-o de fostul soț și a dat cu bâta în baltă."
   },
   {
     "id": 7,
-    "term": "se răsuci în mormânt",
-    "definition": "turn in one's grave",
-    "example": "Băi, băiete, se răsucește tac-tu în mormânt de dezamăgire ce ești, bă."
+    "term": "A-i sări muștarul",
+    "definition": "“For the mustard to jump up” — to lose your temper",
+    "example": "Când a auzit prețul, i-a sărit muștarul."
   },
   {
     "id": 8,
-    "term": "a cincea roată la căruță",
-    "definition": "third wheel, fifth wheel",
-    "example": ""
+    "term": "A fi cu capul în nori",
+    "definition": "“To be with your head in the clouds” — to be daydreaming",
+    "example": "Ești cu capul în nori de dimineață."
   },
   {
     "id": 9,
-    "term": "afară-i vopsit gardul, înăuntru-i leopardul",
-    "definition": "all that glitters is not gold",
-    "example": ""
+    "term": "A face din țânțar armăsar",
+    "definition": "“To make a stallion out of a mosquito” — to make a mountain out of a molehill",
+    "example": "A întârziat cinci minute, nu face din țânțar armăsar."
   },
   {
     "id": 10,
-    "term": "ajunge cuțitul la os",
-    "definition": "for the situation to become critical",
-    "example": ""
+    "term": "A călca pe bec",
+    "definition": "“To step on the light bulb” — to break the rules; to slip up",
+    "example": "A mai călcat pe bec o dată și l-au concediat."
   },
   {
     "id": 11,
-    "term": "ajunge la sapă de lemn",
-    "definition": "to become very poor",
-    "example": ""
+    "term": "A-și lua inima în dinți",
+    "definition": "“To take your heart in your teeth” — to pluck up courage",
+    "example": "Mi-am luat inima în dinți și am cerut o mărire."
   },
   {
     "id": 12,
-    "term": "alerga mâncând pământul",
-    "definition": "to run fast",
-    "example": ""
+    "term": "A o da cotită",
+    "definition": "“To make it bent” — to backtrack; to weasel out of it",
+    "example": "Când l-am întrebat direct, a dat-o cotită."
   },
   {
     "id": 13,
-    "term": "alinia astrele",
-    "definition": "stars align",
-    "example": ""
+    "term": "A pune paie pe foc",
+    "definition": "“To put straw on the fire” — to add fuel to the fire",
+    "example": "Nu mai pune paie pe foc, sunt destul de supărați."
   },
   {
     "id": 14,
-    "term": "apa trece, pietrele rămân",
-    "definition": "irrelevant things pass, important things remain, so one should focus on the important things",
-    "example": ""
+    "term": "A avea pitici pe creier",
+    "definition": "“To have dwarfs on the brain” — to have a bee in your bonnet",
+    "example": "Are pitici pe creier cu ordinea din casă."
   },
   {
     "id": 15,
-    "term": "arde gazul de pomană",
-    "definition": "to waste time",
-    "example": ""
+    "term": "A fi în al nouălea cer",
+    "definition": "“To be in the ninth heaven” — to be over the moon",
+    "example": "De când a primit vestea, e în al nouălea cer."
   },
   {
     "id": 16,
-    "term": "are balta pește",
-    "definition": "there are plenty of fish in the sea",
-    "example": ""
+    "term": "A trage mâța de coadă",
+    "definition": "“To pull the cat by the tail” — to be scraping by; to be hard up",
+    "example": "De un an trage mâța de coadă, dar nu se plânge."
   },
   {
     "id": 17,
-    "term": "avea ac de cojocul cuiva",
-    "definition": "to be able to carry out revenge",
-    "example": ""
+    "term": "A-i face cuiva zile fripte",
+    "definition": "“To make someone's days fried” — to give someone a hard time",
+    "example": "Vecinul le face zile fripte cu muzica lui."
   },
   {
     "id": 18,
-    "term": "așchia nu sare departe de trunchi",
-    "definition": "apple does not fall far from the tree, like father, like son, like mother, like daughter",
-    "example": ""
+    "term": "A umbla cu fofârlica",
+    "definition": "“To go about with the fofârlica” — to be up to something crooked",
+    "example": "Nu-i da bani, umblă cu fofârlica."
   },
   {
     "id": 19,
-    "term": "aștepta să pice mură-n gură",
-    "definition": "to do nothing to achieve one's goals",
-    "example": ""
+    "term": "A vinde gogoși",
+    "definition": "“To sell doughnuts” — to spin yarns; to talk rubbish",
+    "example": "Nu-mi mai vinde gogoși, știu ce s-a întâmplat."
   },
   {
     "id": 20,
-    "term": "banul este ochiul dracului",
-    "definition": "money is the root of all evil",
-    "example": ""
+    "term": "A da apă la moară",
+    "definition": "“To give water to the mill” — to play into someone's hands",
+    "example": "Dacă răspunzi, îi dai apă la moară."
   },
   {
     "id": 21,
-    "term": "bate apa-n piuă",
-    "definition": "to talk pointlessly",
-    "example": ""
+    "term": "A-l lua gura pe dinainte",
+    "definition": "“For the mouth to take him ahead” — to let something slip",
+    "example": "L-a luat gura pe dinainte și a spus tot."
   },
   {
     "id": 22,
-    "term": "bate fierul cât e cald",
-    "definition": "strike the iron while it's hot",
-    "example": ""
+    "term": "A se face frate cu dracul până trece puntea",
+    "definition": "“To become the devil's brother until you cross the bridge” — to do what it takes until you are safely through",
+    "example": "S-a făcut frate cu dracul până a trecut puntea, apoi i-a uitat pe toți."
   },
   {
     "id": 23,
-    "term": "bate la ochi",
-    "definition": "to be very obvious",
-    "example": ""
+    "term": "A avea un ochi la slănină și unul la făină",
+    "definition": "“To have one eye on the bacon and one on the flour” — to be cross-eyed, or to be watching two things at once",
+    "example": "Are un ochi la slănină și unul la făină când conduce."
   },
   {
     "id": 24,
-    "term": "bate palma",
-    "definition": "to seal the deal",
-    "example": ""
+    "term": "A o scălda",
+    "definition": "“To bathe it” — to hedge; to avoid answering",
+    "example": "Întrebat despre buget, a tot scăldat-o."
   },
   {
     "id": 25,
-    "term": "bilă neagră",
-    "definition": "blackball",
-    "example": ""
+    "term": "A-i merge gura",
+    "definition": "“For his mouth to run” — to talk non-stop",
+    "example": "Îi merge gura de dimineață până seara."
   },
   {
     "id": 26,
-    "term": "boală lipicioasă",
-    "definition": "contagious disease",
-    "example": ""
+    "term": "A face pe niznaiul",
+    "definition": "“To play the know-nothing” — to play dumb",
+    "example": "Nu face pe niznaiul, știi foarte bine."
   },
   {
     "id": 27,
-    "term": "buturuga mică răstoarnă carul mare",
-    "definition": "little strokes fell great oaks",
-    "example": ""
+    "term": "A rămâne mască",
+    "definition": "“To remain a mask” — to be dumbfounded",
+    "example": "Când i-a spus prețul, am rămas mască."
   },
   {
     "id": 28,
-    "term": "băga capul la cutie",
-    "definition": "to hide, to shelter, to avoid retaliation",
-    "example": ""
+    "term": "A da ortul popii",
+    "definition": "“To give the coin to the priest” — to kick the bucket",
+    "example": "Bătrânul motan a dat ortul popii iarna trecută."
   },
   {
     "id": 29,
-    "term": "băga mâna în foc",
-    "definition": "to be completely certain concerning the veracity of something",
-    "example": ""
+    "term": "A umbla cu cioara vopsită",
+    "definition": "“To go about with a painted crow” — to try to pass off a lie as the truth",
+    "example": "Nu umbla cu cioara vopsită, am văzut factura."
   },
   {
     "id": 30,
-    "term": "calul de dar nu se caută la dinți",
-    "definition": "don't look a gift horse in the mouth",
-    "example": ""
+    "term": "A-și da arama pe față",
+    "definition": "“To show your copper” — to show your true colours",
+    "example": "După o lună, și-a dat arama pe față."
   },
   {
     "id": 31,
-    "term": "cap de an",
-    "definition": "new year",
-    "example": ""
+    "term": "A pune batista pe țambal",
+    "definition": "“To put the handkerchief on the cymbalom” — to hush something up",
+    "example": "Au pus batista pe țambal și nimeni n-a mai vorbit despre asta."
   },
   {
     "id": 32,
-    "term": "capul plecat sabia nu-l taie",
-    "definition": "a submissive man is not persecuted; better bend than break",
-    "example": ""
+    "term": "A trage un pui de somn",
+    "definition": "“To pull a chick of sleep” — to have a nap",
+    "example": "După masă trag mereu un pui de somn."
   },
   {
     "id": 33,
-    "term": "ce se naște din pisică, șoareci mănâncă",
-    "definition": "the apple does not fall far from the tree, like father, like son, like mother, like daughter",
-    "example": ""
+    "term": "A o ține una și bună",
+    "definition": "“To hold it one and good” — to stick stubbornly to one line",
+    "example": "Degeaba îi explici, o ține una și bună."
   },
   {
     "id": 34,
-    "term": "cei șapte ani de acasă",
-    "definition": "good upbringing, in particular good manners",
-    "example": ""
+    "term": "A fi cu ochii în patru",
+    "definition": "“To be with your eyes in four” — to keep your wits about you",
+    "example": "În gară fii cu ochii în patru."
   },
   {
     "id": 35,
-    "term": "cel bogat face cum vrea, cel sărac face cum poate",
-    "definition": "a rich man does as he pleases, a poor man does as he can",
-    "example": ""
+    "term": "A-i pune cuiva bețe în roate",
+    "definition": "“To put sticks in someone's wheels” — to put a spanner in the works",
+    "example": "Ne-a pus bețe în roate la fiecare pas."
   },
   {
     "id": 36,
-    "term": "chelului tichie de mărgăritar îi trebuie",
-    "definition": "one should focus on important things first",
-    "example": ""
+    "term": "A o lua de la capăt",
+    "definition": "“To take it from the end” — to start over",
+    "example": "Fișierul s-a pierdut, o luăm de la capăt."
   },
   {
     "id": 37,
-    "term": "chestia e că",
-    "definition": "the thing is",
-    "example": ""
+    "term": "A avea limba lungă",
+    "definition": "“To have a long tongue” — to be unable to keep a secret",
+    "example": "Nu-i spune nimic, are limba lungă."
   },
   {
     "id": 38,
-    "term": "cine cu cine votează",
-    "definition": "what's what",
-    "example": ""
+    "term": "A călca strâmb",
+    "definition": "“To step crooked” — to stray; to be unfaithful",
+    "example": "Se zvonește că a cam călcat strâmb."
   },
   {
     "id": 39,
-    "term": "cine fură azi un ou, mâine va fura un bou",
-    "definition": "once a thief, always a thief",
-    "example": ""
+    "term": "A da din colț în colț",
+    "definition": "“To go from corner to corner” — to squirm out of an awkward question",
+    "example": "Întrebat de bani, a dat din colț în colț."
   },
   {
     "id": 40,
-    "term": "cine râde la urmă râde mai bine",
-    "definition": "he who laughs last laughs best",
-    "example": ""
+    "term": "A fi mână spartă",
+    "definition": "“To be a broken hand” — to be a spendthrift",
+    "example": "E mână spartă, nu strânge un leu."
   },
   {
     "id": 41,
-    "term": "cine se aseamănă se adună",
-    "definition": "birds of a feather flock together",
-    "example": ""
+    "term": "A prinde pe cineva cu mâța în sac",
+    "definition": "“To catch someone with the cat in the bag” — to catch someone red-handed",
+    "example": "L-au prins cu mâța în sac la casa de marcat."
   },
   {
     "id": 42,
-    "term": "cine se trezește de dimineață, departe ajunge",
-    "definition": "the early bird gets the worm",
-    "example": ""
+    "term": "A-și băga nasul unde nu-i fierbe oala",
+    "definition": "“To stick your nose where your pot is not boiling” — to poke your nose into other people's business",
+    "example": "Nu-ți băga nasul unde nu-ți fierbe oala."
   },
   {
     "id": 43,
-    "term": "cine seamănă vânt culege furtună",
-    "definition": "sow the wind, reap the whirlwind",
-    "example": ""
+    "term": "A trage spuza pe turta sa",
+    "definition": "“To pull the embers onto your own flatbread” — to look after your own interests",
+    "example": "Fiecare trage spuza pe turta sa la împărțeală."
   },
   {
     "id": 44,
-    "term": "coadă de topor",
-    "definition": "axe handle",
-    "example": ""
+    "term": "A o da în bară",
+    "definition": "“To put it in the bar” — to mess it up",
+    "example": "Am dat-o în bară la interviu."
   },
   {
     "id": 45,
-    "term": "copil din flori",
-    "definition": "love child",
-    "example": ""
+    "term": "A avea șapte vieți",
+    "definition": "“To have seven lives” — to have nine lives",
+    "example": "A scăpat din nou nevătămat, are șapte vieți."
   },
   {
     "id": 46,
-    "term": "corb la corb nu scoate ochii",
-    "definition": "dog does not eat dog",
-    "example": ""
+    "term": "A spăla putina",
+    "definition": "“To wash the little barrel” — to do a runner",
+    "example": "Când s-a aflat, a spălat putina peste noapte."
   },
   {
     "id": 47,
-    "term": "cu capul pe umeri",
-    "definition": "with one’s head screwed on, sensible",
-    "example": ""
+    "term": "A fi tobă de carte",
+    "definition": "“To be a drum of books” — to be extremely well read",
+    "example": "Bunicul era tobă de carte."
   },
   {
     "id": 48,
-    "term": "cu capul în nori",
-    "definition": "having the head in the clouds",
-    "example": ""
+    "term": "A-i lua cuiva piuitul",
+    "definition": "“To take someone's peep away” — to leave someone speechless",
+    "example": "Răspunsul ei i-a luat piuitul."
   },
   {
     "id": 49,
-    "term": "cu o floare nu se face primăvară",
-    "definition": "one swallow does not a summer make",
-    "example": ""
+    "term": "A face casă bună cu cineva",
+    "definition": "“To make a good house with someone” — to get on well with someone",
+    "example": "Face casă bună cu toți colegii."
   },
   {
     "id": 50,
-    "term": "cu răbdarea treci și marea",
-    "definition": "good things come to those who wait",
-    "example": ""
+    "term": "A bate câmpii",
+    "definition": "“To beat the fields” — to talk nonsense; to ramble",
+    "example": "De la o vreme bate câmpii de oboseală."
   },
   {
     "id": 51,
-    "term": "cui pe cui se scoate",
-    "definition": "one nail drives out another",
-    "example": ""
+    "term": "A-i sta ceva pe limbă",
+    "definition": "“For something to sit on your tongue” — to have it on the tip of your tongue",
+    "example": "Îmi stă pe limbă numele lui."
   },
   {
     "id": 52,
-    "term": "cum îți așterni, așa dormi",
-    "definition": "as you make your bed, so you must lie in it",
-    "example": ""
+    "term": "A pune punctul pe i",
+    "definition": "“To put the dot on the i” — to put it in exactly the right words",
+    "example": "Cu observația aia a pus punctul pe i."
   },
   {
     "id": 53,
-    "term": "cuvânt greu",
-    "definition": "an important say",
-    "example": ""
+    "term": "A da cu piciorul unei șanse",
+    "definition": "“To kick a chance with your foot” — to throw an opportunity away",
+    "example": "A dat cu piciorul unei șanse rare."
   },
   {
     "id": 54,
-    "term": "câinele care latră nu mușcă",
-    "definition": "barking dogs seldom bite",
-    "example": ""
+    "term": "A se îneca ca țiganul la mal",
+    "definition": "“To drown like the gypsy at the shore” — to fail at the very last step",
+    "example": "A picat ultimul examen — s-a înecat ca țiganul la mal."
   },
   {
     "id": 55,
-    "term": "câinii latră, caravana trece",
-    "definition": "the dogs bark, but the caravan goes on; sticks and stones may break my bones, but words will never hurt me",
-    "example": ""
+    "term": "A avea pe cineva la degetul mic",
+    "definition": "“To have someone on your little finger” — to have someone wrapped around your finger",
+    "example": "Îl are la degetul mic de ani de zile."
   },
   {
     "id": 56,
-    "term": "când o zbura porcul",
-    "definition": "never, when pigs fly",
-    "example": ""
+    "term": "A tăia macaroana",
+    "definition": "“To cut the macaroni” — to cut someone off mid-flow",
+    "example": "I-a tăiat macaroana în mijlocul discursului."
   },
   {
     "id": 57,
-    "term": "când pisica nu-i acasă, joacă șoarecii pe masă",
-    "definition": "when the cat's away the mice will play",
-    "example": ""
+    "term": "A fi lup îmbrăcat în piele de oaie",
+    "definition": "“To be a wolf dressed in sheep's skin” — to be a wolf in sheep's clothing",
+    "example": "Pare blând, dar e lup îmbrăcat în piele de oaie."
   },
   {
     "id": 58,
-    "term": "când vine vorba de",
-    "definition": "when it comes to",
-    "example": ""
+    "term": "A-i da cu virgulă",
+    "definition": "“To give it with a comma” — to split hairs",
+    "example": "Nu-mi mai da cu virgulă, ai înțeles ideea."
   },
   {
     "id": 59,
-    "term": "când și când",
-    "definition": "now and then",
-    "example": ""
+    "term": "A o lua pe arătură",
+    "definition": "“To take it onto the ploughed field” — to go completely off track",
+    "example": "La a treia întrebare a luat-o pe arătură."
   },
   {
     "id": 60,
-    "term": "cânta în strună",
-    "definition": "to do whatever another person pleases",
-    "example": ""
+    "term": "A avea sânge de pește",
+    "definition": "“To have fish blood” — to be cold-blooded, unflappable",
+    "example": "În criză are sânge de pește."
   },
   {
     "id": 61,
-    "term": "cât ai zice pește",
-    "definition": "immediately",
-    "example": ""
+    "term": "A trage tare",
+    "definition": "“To pull hard” — to graft; to work flat out",
+    "example": "Trage tare de doi ani ca să termine facultatea."
   },
   {
     "id": 62,
-    "term": "câte bordeie, atâtea obiceie",
-    "definition": "when in Rome, do as the Romans do",
-    "example": ""
+    "term": "A-și face de cap",
+    "definition": "“To do as your head pleases” — to run wild",
+    "example": "Cât au fost părinții plecați, și-au făcut de cap."
   },
   {
     "id": 63,
-    "term": "câștiga teren",
-    "definition": "to gain ground",
-    "example": ""
+    "term": "A da colțul",
+    "definition": "“To turn the corner” — to die",
+    "example": "Mașina veche a dat colțul în sfârșit."
   },
   {
     "id": 64,
-    "term": "călca pe bec",
-    "definition": "to break a rule",
-    "example": ""
+    "term": "A fi la ananghie",
+    "definition": "“To be at the ananghie” — to be in a tight spot",
+    "example": "Sună-mă dacă ești la ananghie."
   },
   {
     "id": 65,
-    "term": "călca pe bătătură",
-    "definition": "to annoy, to irritate",
-    "example": ""
+    "term": "A-i pune capac",
+    "definition": "“To put a lid on it” — to top it all; to finish someone off",
+    "example": "Ca să-i pună capac, a mai și întârziat."
   },
   {
     "id": 66,
-    "term": "căuta cu lumânarea",
-    "definition": "to ask for trouble, to ask for it",
-    "example": ""
+    "term": "A o face lată",
+    "definition": "“To make it wide” — to go on a proper bender",
+    "example": "Aseară au făcut-o lată până dimineață."
   },
   {
     "id": 67,
-    "term": "da apă la moară",
-    "definition": "to encourage or embolden",
-    "example": ""
+    "term": "A avea stofă de",
+    "definition": "“To have the cloth of” — to have the makings of",
+    "example": "Băiatul are stofă de inginer."
   },
   {
     "id": 68,
-    "term": "da colțul",
-    "definition": "to turn the corner",
-    "example": ""
+    "term": "A umbla din poartă în poartă",
+    "definition": "“To walk from gate to gate” — to traipse from door to door",
+    "example": "A umblat din poartă în poartă după semnături."
   },
   {
     "id": 69,
-    "term": "da de veste",
-    "definition": "to announce",
-    "example": ""
+    "term": "A-i intra cuiva pe sub piele",
+    "definition": "“To get under someone's skin” — to worm your way into someone's favour",
+    "example": "I-a intrat pe sub piele șefului în două săptămâni."
   },
   {
     "id": 70,
-    "term": "da din coadă",
-    "definition": "to wag the tail",
-    "example": ""
+    "term": "A pierde șirul",
+    "definition": "“To lose the thread” — to lose track",
+    "example": "Am pierdut șirul discuției."
   },
   {
     "id": 71,
-    "term": "da gata",
-    "definition": "to finish, especially in an impressive manner",
-    "example": ""
+    "term": "A-i da înainte",
+    "definition": "“To give it forwards” — to plough on regardless",
+    "example": "Nu-l ascultă nimeni, dar el îi dă înainte."
   },
   {
     "id": 72,
-    "term": "da la rațe",
-    "definition": "to vomit",
-    "example": ""
+    "term": "A face haz de necaz",
+    "definition": "“To make fun of misfortune” — to laugh in the face of trouble",
+    "example": "A rămas fără curent, dar face haz de necaz."
   },
   {
     "id": 73,
-    "term": "da ortul popii",
-    "definition": "to kick the bucket, to buy the farm",
-    "example": ""
+    "term": "A avea mână de aur",
+    "definition": "“To have a golden hand” — to have the magic touch",
+    "example": "Chirurgul acela are mână de aur."
   },
   {
     "id": 74,
-    "term": "da papucii",
-    "definition": "to dump",
-    "example": ""
+    "term": "A-i fi cuiva inima cât un purice",
+    "definition": "“For your heart to be the size of a flea” — to be scared stiff",
+    "example": "Mi-era inima cât un purice înainte de examen."
   },
   {
     "id": 75,
-    "term": "da pe goarnă",
-    "definition": "to snitch (on someone), to rat out, to tell on",
-    "example": ""
+    "term": "A pune umărul",
+    "definition": "“To put the shoulder in” — to pitch in",
+    "example": "Dacă punem toți umărul, terminăm azi."
   },
   {
     "id": 76,
-    "term": "da peste",
-    "definition": "to hit, collide with",
-    "example": ""
+    "term": "A da chix",
+    "definition": "“To go chix” — to flop; to come to nothing",
+    "example": "Planul a dat chix din prima zi."
   },
   {
     "id": 77,
-    "term": "da peste nas",
-    "definition": "to chastise, especially by bringing up someone’s fault or mistake",
-    "example": ""
+    "term": "A ține pumnii",
+    "definition": "“To hold your fists” — to keep your fingers crossed",
+    "example": "Îți țin pumnii la interviu."
   },
   {
     "id": 78,
-    "term": "da în mintea copiilor",
-    "definition": "to become senile",
-    "example": ""
+    "term": "A fi băgat în seamă",
+    "definition": "“To be taken into account” — to be paid attention to",
+    "example": "Vrea doar să fie băgat în seamă."
   },
   {
     "id": 79,
-    "term": "de la A la Z",
-    "definition": "from A to Z",
-    "example": ""
+    "term": "A-și lua câmpii",
+    "definition": "“To take to the fields” — to lose your mind",
+    "example": "De atâta stres era gata să-și ia câmpii."
   },
   {
     "id": 80,
-    "term": "despica firul în patru",
-    "definition": "to split hairs",
-    "example": ""
+    "term": "A vorbi în dodii",
+    "definition": "“To speak in dodii” — to talk incoherently",
+    "example": "Avea febră mare și vorbea în dodii."
   },
   {
     "id": 81,
-    "term": "din lac în puț",
-    "definition": "out of the frying pan, into the fire",
-    "example": ""
+    "term": "A da bir cu fugiții",
+    "definition": "“To pay tribute with the runaways” — to make yourself scarce; to shirk",
+    "example": "Când a fost de muncă, a dat bir cu fugiții."
   },
   {
     "id": 82,
-    "term": "din senin",
-    "definition": "out of the blue",
-    "example": ""
+    "term": "A avea carte",
+    "definition": "“To have book” — to be educated",
+    "example": "Cine are carte are parte."
   },
   {
     "id": 83,
-    "term": "duce cu preșul",
-    "definition": "to cheat, to fool",
-    "example": ""
+    "term": "A scoate pe cineva din sărite",
+    "definition": "“To take someone out of their leaps” — to drive someone up the wall",
+    "example": "Zgomotul acela mă scoate din sărite."
   },
   {
     "id": 84,
-    "term": "duce de nas",
-    "definition": "to lead by the nose",
-    "example": ""
+    "term": "A-i da cu presupusul",
+    "definition": "“To go at it with the supposed” — to guess rather than check",
+    "example": "Nu-i da cu presupusul, sună-i și întreabă."
   },
   {
     "id": 85,
-    "term": "Dumnezeu nu bate cu parul",
-    "definition": "what goes around comes around, sow the wind, reap the whirlwind, the chickens come home to roost",
-    "example": ""
+    "term": "A fi pe drojdie",
+    "definition": "“To be on the dregs” — to be skint",
+    "example": "La sfârșitul lunii suntem pe drojdie."
   },
   {
     "id": 86,
-    "term": "după gratii",
-    "definition": "behind bars",
-    "example": ""
+    "term": "A prinde rădăcini",
+    "definition": "“To take root” — to outstay your welcome",
+    "example": "Stă de patru ore, a prins rădăcini pe canapea."
   },
   {
     "id": 87,
-    "term": "face ca trenul",
-    "definition": "to go ballistic, blow a fuse",
-    "example": ""
+    "term": "A-i cânta cuiva în strună",
+    "definition": "“To play along someone's string” — to pander to someone",
+    "example": "Toți îi cântă în strună directorului."
   },
   {
     "id": 88,
-    "term": "face cinste",
-    "definition": "to pay for someone else at a restaurant, pub, etc",
-    "example": ""
+    "term": "A trage pe sfoară",
+    "definition": "“To pull on the string” — to con someone",
+    "example": "L-au tras pe sfoară la vânzarea mașinii."
   },
   {
     "id": 89,
-    "term": "face cu ou și cu oțet",
-    "definition": "to scold",
-    "example": ""
+    "term": "A fi cu musca pe căciulă",
+    "definition": "“To be with the fly on your hat” — to have a guilty conscience",
+    "example": "Se agită prea mult — e cu musca pe căciulă."
   },
   {
     "id": 90,
-    "term": "face din rahat bici",
-    "definition": "to make a silk purse of a sow's ear",
-    "example": ""
+    "term": "A o pune de mămăligă",
+    "definition": "“To set it up for polenta” — to be in for it now",
+    "example": "Dacă află șeful, am pus-o de mămăligă."
   },
   {
     "id": 91,
-    "term": "face din țânțar armăsar",
-    "definition": "to make a mountain out of a mole hill",
-    "example": ""
+    "term": "A umple paharul",
+    "definition": "“To fill the glass” — to be the last straw",
+    "example": "Întârzierea de azi a umplut paharul."
   },
   {
     "id": 92,
-    "term": "face față",
-    "definition": "to cope with something, to withstand, deal with",
-    "example": ""
+    "term": "A avea ac de cojocul cuiva",
+    "definition": "“To have a needle for someone's sheepskin coat” — to know how to deal with someone",
+    "example": "Nu-ți face griji, am eu ac de cojocul lui."
   },
   {
     "id": 93,
-    "term": "face haz de necaz",
-    "definition": "to laugh at a difficult situation, to grin and bear it",
-    "example": ""
+    "term": "A fi paine caldă",
+    "definition": "“To be warm bread” — to be very kind-hearted",
+    "example": "Vecina noastră e pâine caldă."
   },
   {
     "id": 94,
-    "term": "face o românească",
-    "definition": "to take the easy way out by skirting regulations, especially in traffic",
-    "example": ""
+    "term": "A-l durea în cot",
+    "definition": "“For it to hurt him in the elbow” — not to care in the least",
+    "example": "Îl doare în cot de ce spun ceilalți."
   },
   {
     "id": 95,
-    "term": "face ochi dulci",
-    "definition": "to make eyes",
-    "example": ""
+    "term": "A face ochii mari",
+    "definition": "“To make your eyes big” — to be wide-eyed with surprise",
+    "example": "A făcut ochii mari când a văzut cadoul."
   },
   {
     "id": 96,
-    "term": "face pe mortul în păpușoi",
-    "definition": "to pretend to not know something",
-    "example": ""
+    "term": "A-și pune mintea cu cineva",
+    "definition": "“To put your mind against someone” — to stoop to arguing with someone",
+    "example": "Nu-mi pun mintea cu un copil."
   },
   {
     "id": 97,
-    "term": "face pe prostul",
-    "definition": "to pretend not to know or understand something",
-    "example": ""
+    "term": "A da colțul ierbii",
+    "definition": "“For the grass to turn the corner” — for spring to arrive",
+    "example": "Când dă colțul ierbii, ieșim la munte."
   },
   {
     "id": 98,
-    "term": "face rost",
-    "definition": "to obtain",
-    "example": ""
+    "term": "A rămâne cu buzele umflate",
+    "definition": "“To be left with swollen lips” — to be left disappointed and empty-handed",
+    "example": "A venit prea târziu și a rămas cu buzele umflate."
   },
   {
     "id": 99,
-    "term": "face umbră pământului degeaba",
-    "definition": "to be useless",
-    "example": ""
+    "term": "A-i merge mintea",
+    "definition": "“For his mind to run” — to be quick-witted",
+    "example": "Îi merge mintea, prinde imediat."
   },
   {
     "id": 100,
-    "term": "fată bătrână",
-    "definition": "spinster, old maid",
-    "example": ""
+    "term": "A pune osul la treabă",
+    "definition": "“To put the bone to the work” — to knuckle down",
+    "example": "Gata cu vorba, punem osul la treabă."
+  },
+  {
+    "id": 101,
+    "term": "A o brodi",
+    "definition": "“To embroider it” — to get it right by luck",
+    "example": "Am ales la nimereală și am brodit-o."
+  },
+  {
+    "id": 102,
+    "term": "A fi cu scaun la cap",
+    "definition": "“To have a chair at the head” — to be sensible",
+    "example": "E tânăr, dar e cu scaun la cap."
   }
 ];
 window.QM_IDIOMS_CS_DATA = [
