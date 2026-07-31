@@ -5979,9 +5979,6 @@ window.QM_MALE00S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/james-blunt.jpg?v=1784296172997"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783709881387_t43zpi75fh",
     "name": "Daniel Bedingfield",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/daniel-bedingfield.jpg"
@@ -6007,9 +6004,6 @@ window.QM_MALE00S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/kanye-west.jpg?v=1784296172997"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783709881387_tu8wdn3kjz",
     "name": "50 Cent",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/50-cent-period.jpg"
@@ -6082,9 +6076,6 @@ window.QM_MALE00S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/ronan-keating.jpg"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783709881388_oj5ts5vky3",
     "name": "Mika",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/mika.jpg"
@@ -6184,9 +6175,6 @@ window.QM_MALE00S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/james-dean-bradfield.jpg?v=1784296172997"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783819098206_mz056pb5xz",
     "name": "Basshunter",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/basshunter-00s.jpg"
@@ -6276,12 +6264,9 @@ window.QM_MALE00S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/adam-levine.jpg"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
     "id": "id_1783819098206_zv1sb4y6r0",
     "name": "2PAC",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/2pac-00s.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/2pac.jpg"
   },
   {
     "id": "id_1783819098206_k52ea3txz6",
@@ -6334,10 +6319,7 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783876338044_bustarhymes",
     "name": "Busta Rhymes",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/busta-rhymes.jpg",
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/busta-rhymes.jpg"
   },
   {
     "id": "id_1783876338044_wyclefjean",
