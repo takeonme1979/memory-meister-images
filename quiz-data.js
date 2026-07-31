@@ -2513,6 +2513,7 @@ window.QM_FLAGS_DATA = [
   }
 ];
 window.QM_HIDDEN_QUIZZES = [
+  "ukTrafficSigns",
   "tudorElizabeth",
   "oscarActor00",
   "male60s",
@@ -19234,6 +19235,1187 @@ window.QM_CARLOGOS_DATA = [
     "id": "id_1783795661490_t6nmhhohx4",
     "name": "Volkswagen",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/brands/carlogos/carlogo-volkswagen.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  }
+];
+window.QM_UKTRAFFICSIGNS_DATA = [
+  {
+    "id": "uksign_stop",
+    "name": "Stop and give way",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/stop.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_give-way",
+    "name": "Give way to traffic on the major road",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/give-way.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-entry",
+    "name": "No entry for vehicles",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-entry.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-motor-vehicles",
+    "name": "No motor vehicles",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-motor-vehicles.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-right-turn",
+    "name": "No right turn",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-right-turn.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-left-turn",
+    "name": "No left turn",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-left-turn.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-u-turn",
+    "name": "No U-turns",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-u-turn.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-overtaking",
+    "name": "No overtaking",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-overtaking.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-caravans",
+    "name": "No towed caravans",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-caravans.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-horse-drawn",
+    "name": "No horse-drawn vehicles",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-horse-drawn.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-horses",
+    "name": "No ridden or accompanied horses",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-horses.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-pedestrians",
+    "name": "No pedestrians",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-pedestrians.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-cycling",
+    "name": "No cycling",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-cycling.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-buses",
+    "name": "No buses (over 8 passenger seats)",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-buses.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-wide-vehicles",
+    "name": "No vehicles over the width shown",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-wide-vehicles.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-high-vehicles",
+    "name": "No vehicles over the height shown",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-high-vehicles.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-heavy-vehicles",
+    "name": "No vehicles over the maximum gross weight shown",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-heavy-vehicles.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-waiting",
+    "name": "No waiting",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-waiting.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-stopping",
+    "name": "No stopping (clearway)",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-stopping.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_give-priority",
+    "name": "Give priority to vehicles from the opposite direction",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/give-priority.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_speed-limit",
+    "name": "Maximum speed limit in miles per hour",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/speed-limit.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_national-speed",
+    "name": "National speed limit applies",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/national-speed.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_minimum-speed",
+    "name": "Minimum speed limit",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/minimum-speed.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_end-minimum-speed",
+    "name": "End of minimum speed limit",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/end-minimum-speed.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_zone-20",
+    "name": "Entrance to a 20 mph zone",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/zone-20.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_end-zone-20",
+    "name": "End of 20 mph zone",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/end-zone-20.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_end-of-restriction",
+    "name": "End of the restriction shown on the sign before it",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/end-of-restriction.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_turn-left",
+    "name": "Turn left",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/turn-left.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_ahead-only",
+    "name": "Ahead only",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/ahead-only.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_turn-left-ahead",
+    "name": "Turn left ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/turn-left-ahead.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_keep-left",
+    "name": "Keep left",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/keep-left.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_pass-either-side",
+    "name": "Vehicles may pass either side to reach the same destination",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/pass-either-side.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_mini-roundabout",
+    "name": "Mini-roundabout — give way to traffic from the right",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/mini-roundabout.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_one-way",
+    "name": "One-way traffic",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/one-way.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_buses-cycles-only",
+    "name": "Route for buses and cycles only",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/buses-cycles-only.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_cycles-only",
+    "name": "Route for cycles only",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/cycles-only.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_shared-route",
+    "name": "Shared route for cycles and pedestrians",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/shared-route.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_segregated-route",
+    "name": "Segregated route for cycles and pedestrians",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/segregated-route.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_contraflow-bus",
+    "name": "Contra-flow bus lane",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/contraflow-bus.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_cycle-lane",
+    "name": "With-flow cycle lane",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/cycle-lane.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_crossroads",
+    "name": "Crossroads ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/crossroads.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_t-junction",
+    "name": "T-junction ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/t-junction.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_side-road",
+    "name": "Side road ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/side-road.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_staggered-junction",
+    "name": "Staggered junction ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/staggered-junction.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_give-way-ahead",
+    "name": "Junction ahead controlled by a stop or give way sign",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/give-way-ahead.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_roundabout",
+    "name": "Roundabout ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/roundabout.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_traffic-merges",
+    "name": "Traffic merging from the left ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/traffic-merges.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_bend-right",
+    "name": "Bend to the right ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/bend-right.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_double-bend",
+    "name": "Double bend ahead, first to the left",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/double-bend.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_road-narrows-both",
+    "name": "Road narrows on both sides",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/road-narrows-both.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_road-narrows-right",
+    "name": "Road narrows on the right",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/road-narrows-right.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_single-file",
+    "name": "Traffic reduces to single file in each direction",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/single-file.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_dual-ends",
+    "name": "Dual carriageway ends ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/dual-ends.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_two-way-traffic",
+    "name": "Two-way traffic ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/two-way-traffic.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_two-way-crossing",
+    "name": "Two-way traffic crossing a one-way road ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/two-way-crossing.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_steep-down",
+    "name": "Steep hill downwards",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/steep-down.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_steep-up",
+    "name": "Steep hill upwards",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/steep-up.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_hump-bridge",
+    "name": "Hump bridge ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/hump-bridge.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_swing-bridge",
+    "name": "Opening or swing bridge ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/swing-bridge.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_tunnel",
+    "name": "Tunnel ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/tunnel.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_low-headroom",
+    "name": "Low headroom — maximum height shown",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/low-headroom.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_ford",
+    "name": "Ford ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/ford.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_ice",
+    "name": "Risk of ice or packed snow ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/ice.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_quayside",
+    "name": "Quayside or river bank ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/quayside.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_uneven-road",
+    "name": "Uneven road ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/uneven-road.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_soft-verges",
+    "name": "Soft verges ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/soft-verges.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_slippery-road",
+    "name": "Slippery road ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/slippery-road.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_road-hump",
+    "name": "Road hump or series of road humps ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/road-hump.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_large-vehicles",
+    "name": "Large vehicles likely to be in the middle of the road",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/large-vehicles.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_side-winds",
+    "name": "Side winds likely ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/side-winds.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_slow-vehicles",
+    "name": "Slow-moving vehicles likely on the hill ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/slow-vehicles.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_queues",
+    "name": "Traffic queues likely ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/queues.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_other-danger",
+    "name": "Other danger — the plate below says what it is",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/other-danger.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_accident",
+    "name": "Accident ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/accident.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_traffic-signals",
+    "name": "Traffic signals ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/traffic-signals.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_pedestrian-crossing",
+    "name": "Pedestrian crossing ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/pedestrian-crossing.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_pedestrians-in-road",
+    "name": "Pedestrians in the road ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/pedestrians-in-road.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_children",
+    "name": "Children — a school or playground is near",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/children.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_school-ahead",
+    "name": "School ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/school-ahead.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_crossing-patrol",
+    "name": "School crossing patrol ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/crossing-patrol.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_playground",
+    "name": "Children's playground ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/playground.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_cattle",
+    "name": "Cattle likely to be in the road",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/cattle.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_sheep",
+    "name": "Sheep likely to be in the road",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/sheep.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_wild-horses",
+    "name": "Wild horses or ponies likely to be in the road",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/wild-horses.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_horses",
+    "name": "Accompanied horses or ponies likely to be in the road",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/horses.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_wild-animals",
+    "name": "Wild animals likely to be in the road",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/wild-animals.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_cattle-grid",
+    "name": "Cattle grid ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/cattle-grid.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_farm-vehicles",
+    "name": "Agricultural vehicles likely to be in the road",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/farm-vehicles.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_low-aircraft",
+    "name": "Low-flying aircraft or sudden aircraft noise",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/low-aircraft.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_cycle-route",
+    "name": "Cycle route crossing or joining the road ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/cycle-route.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_toads",
+    "name": "Migratory toad crossing ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/toads.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_crossing-barrier",
+    "name": "Level crossing with barrier or gate ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/crossing-barrier.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_crossing-no-barrier",
+    "name": "Level crossing without barrier or gate ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/crossing-no-barrier.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_trams-crossing",
+    "name": "Trams crossing ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/trams-crossing.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_crossing-location",
+    "name": "Level crossing without barrier — the crossing itself",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/crossing-location.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-stopping-crossing",
+    "name": "Do not stop on the level crossing",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-stopping-crossing.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_overhead-cable",
+    "name": "Overhead electric cable — the plate shows the safe height",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/overhead-cable.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_grounding",
+    "name": "Risk of grounding at a crossing or hump bridge",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/grounding.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_countdown-crossing",
+    "name": "Countdown marker to a level crossing",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/countdown-crossing.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_wig-wag",
+    "name": "Flashing light signals ahead at a crossing or bridge",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/wig-wag.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_parking",
+    "name": "Parking place",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/parking.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-through-road",
+    "name": "No through road",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-through-road.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_priority-over",
+    "name": "You have priority over oncoming vehicles",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/priority-over.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_dual-begins",
+    "name": "Dual carriageway begins ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/dual-begins.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_unsuitable",
+    "name": "Road unsuitable for motor vehicles",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/unsuitable.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_single-track",
+    "name": "Single track road with passing places",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/single-track.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_passing-place",
+    "name": "Passing place on a single track road",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/passing-place.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_escape-lane",
+    "name": "Escape lane ahead for vehicles unable to stop on the hill",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/escape-lane.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_hospital",
+    "name": "Hospital ahead (no accident and emergency department)",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/hospital.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_in",
+    "name": "Entrance to a car park or premises",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/in.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-exit",
+    "name": "No exit",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-exit.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_speed-camera",
+    "name": "Speed cameras are used to enforce the limit",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/speed-camera.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_average-speed",
+    "name": "Average speed cameras over the length of road shown",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/average-speed.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_traffic-calming",
+    "name": "Start of an area with traffic calming features",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/traffic-calming.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_home-zone",
+    "name": "Start of a home zone",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/home-zone.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_bus-stop",
+    "name": "Stopping place for buses",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/bus-stop.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_cycle-parking",
+    "name": "Parking place for cycles",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/cycle-parking.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_emergency-phone",
+    "name": "Emergency telephone",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/emergency-phone.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_village-30",
+    "name": "Start of a 30 mph limit at a village or town boundary",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/village-30.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_services",
+    "name": "Distance to services, and what they provide",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/services.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_park-and-ride",
+    "name": "Direction to a park and ride car park",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/park-and-ride.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_tourist-info",
+    "name": "Tourist information point",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/tourist-info.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_motorway-start",
+    "name": "Start of motorway regulations and the national speed limit",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/motorway-start.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_motorway-end",
+    "name": "End of motorway regulations",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/motorway-end.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_services-ahead",
+    "name": "Distance to the next motorway service area",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/services-ahead.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-services",
+    "name": "No services on the motorway ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-services.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_road-works",
+    "name": "Road works ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/road-works.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_loose-chippings",
+    "name": "Loose chippings on the road ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/loose-chippings.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_no-hard-shoulder",
+    "name": "No hard shoulder available ahead",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/no-hard-shoulder.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_hard-shoulder-ends",
+    "name": "No hard shoulder available for the distance shown",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/hard-shoulder-ends.png",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
+  },
+  {
+    "id": "uksign_diversion",
+    "name": "Start of a temporary diversion route",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/transport/uk-traffic-signs/diversion.png",
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
