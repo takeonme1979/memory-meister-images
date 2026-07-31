@@ -16357,7 +16357,7 @@ window.QM_UKBOYBANDS_DATA = [
   {
     "id": "id_1784133075985_8h66rhm9",
     "name": "911",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/911.webp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/911.jpg",
     "focalX": 55.45349899127352,
     "focalY": 29.311742991247396,
     "zoom": 1.4000000000000001,
@@ -16501,7 +16501,7 @@ window.QM_UKBOYBANDS_DATA = [
   {
     "id": "id_1784133075985_8vu7tcl8",
     "name": "OTT",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/ott.webp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/ott.jpg",
     "focalX": 51.51672745807958,
     "focalY": 50,
     "zoom": 1,
