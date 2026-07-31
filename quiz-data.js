@@ -2513,19 +2513,6 @@ window.QM_FLAGS_DATA = [
   }
 ];
 window.QM_HIDDEN_QUIZZES = [
-  "oscarActor70",
-  "oscarActor40",
-  "oscarActress00",
-  "oscarActress70",
-  "oscarActress40",
-  "oscarSupActor00",
-  "oscarSupActor70",
-  "oscarSupActor40",
-  "oscarSupActress00",
-  "oscarSupActress70",
-  "oscarSupActress40",
-  "oscarDirector00",
-  "oscarDirector70",
   "male60s",
   "startrek",
   "female70s",
@@ -2567,7 +2554,20 @@ window.QM_HIDDEN_QUIZZES = [
   "rhuAdjectives",
   "rroAdjectives",
   "rltAdjectives",
-  "oscarActor00"
+  "oscarActor00",
+  "oscarActor70",
+  "oscarActor40",
+  "oscarActress00",
+  "oscarActress70",
+  "oscarActress40",
+  "oscarSupActor00",
+  "oscarSupActor70",
+  "oscarSupActor40",
+  "oscarSupActress00",
+  "oscarSupActress70",
+  "oscarSupActress40",
+  "oscarDirector00",
+  "oscarDirector70"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -16255,7 +16255,10 @@ window.QM_UKBOYBANDS_DATA = [
   {
     "id": "id_1784133075985_874f46t9",
     "name": "Take That",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/take-that.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/take-that.jpg",
+    "focalX": 50.323116561921836,
+    "focalY": 0,
+    "zoom": 1.1
   },
   {
     "id": "id_1784133075985_889tq99x",
@@ -16266,138 +16269,246 @@ window.QM_UKBOYBANDS_DATA = [
     "id": "id_1784133075985_89i44u7p",
     "name": "Boyzone",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/boyzone.jpg",
-    "focalX": 46.11312555930232,
-    "focalY": 50,
-    "zoom": 1
+    "focalX": 42.963834926644914,
+    "focalY": 0,
+    "zoom": 1.05,
+    "brightness": 1.12,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8atc8iy5",
     "name": "Blue",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/blue.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/blue.jpg",
+    "focalX": 55.998899895206286,
+    "focalY": 4.169729459210485,
+    "zoom": 1.3499999999999999
   },
   {
     "id": "id_1784133075985_8bvu98gd",
     "name": "Busted",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/busted.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/busted.jpg",
+    "brightness": 1.04,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8c5yik6k",
     "name": "McFly",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/mcfly.jpg",
-    "focalX": 38.16387610521145,
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/mcfly.webp",
+    "focalX": 47.60387404468108,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8d2ifcy6",
     "name": "JLS",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/jls.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/jls.jpg",
+    "focalX": 36.72483658168454,
+    "focalY": 28.349486833373533,
+    "zoom": 1.2,
+    "brightness": 1.15,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8ef11awt",
     "name": "5ive",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/5ive.jpg",
     "focalX": 50,
-    "focalY": 28.340737212514128,
-    "zoom": 1
+    "focalY": 7.600368942153815,
+    "zoom": 1,
+    "brightness": 1.18,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8fhqrmpi",
     "name": "A1",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/a1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/a1.webp",
+    "focalX": 48.876503383524856,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8goqcazf",
     "name": "East 17",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/east-17.jpg",
-    "focalX": 52.496384309497316,
-    "focalY": 50,
-    "zoom": 1.15
+    "focalX": 44.81477262317815,
+    "focalY": 28.830659097993077,
+    "zoom": 1.2,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8h66rhm9",
     "name": "911",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/911.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/911.webp",
+    "focalX": 55.45349899127352,
+    "focalY": 29.311742991247396,
+    "zoom": 1.4000000000000001,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8i1pn8tk",
     "name": "Damage",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/damage.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/damage.jpg",
+    "focalX": 50,
+    "focalY": 40,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8jryik8d",
     "name": "Another Level",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/another-level.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/another-level.jpg",
+    "focalX": 42.99065162395609,
+    "focalY": 42.061482433186534,
+    "zoom": 1.2,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8k1q6g1l",
     "name": "Point Break",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/point-break.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/point-break.jpg",
+    "focalX": 51.51905845239636,
+    "focalY": 19.792464814393874,
+    "zoom": 1.4000000000000001
   },
   {
     "id": "id_1784133075985_8l136d0x",
     "name": "Northern Line",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/northern-line.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/northern-line.jpg",
+    "focalX": 100,
+    "focalY": 16.73943820552224,
+    "zoom": 1.05
   },
   {
     "id": "id_1784133075985_8meymn06",
     "name": "Phixx",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/phixx.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/phixx.jpg",
+    "focalX": 50,
+    "focalY": 14.380535878165693,
+    "zoom": 1,
+    "brightness": 1.05,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8ntkyzg6",
     "name": "Triple 8",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/triple-8.jpg",
-    "focalX": 27.820011234549096,
-    "focalY": 50,
-    "zoom": 1
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/triple-8.webp",
+    "focalX": 55.46980451983641,
+    "focalY": 0,
+    "zoom": 1.2,
+    "brightness": 1.1,
+    "contrast": 1,
+    "saturation": 1.36,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8o63g8w5",
     "name": "V",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/v.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/v.jpg",
+    "focalX": 63.68280547896242,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8pkrbwoe",
     "name": "D-Side",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/d-side-2.jpg",
+    "focalX": 50,
+    "focalY": 21.526738004864384,
+    "zoom": 1,
+    "brightness": 1.04,
+    "contrast": 1,
+    "saturation": 1.02,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8qk4twjr",
     "name": "Worlds Apart",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/worlds-apart.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/worlds-apart.webp",
+    "focalX": 46.11936787008002,
+    "focalY": 0,
+    "zoom": 1.05,
+    "brightness": 1.09,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8r6f6xdn",
     "name": "Bad Boys Inc",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/bad-boys-inc.jpg",
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/bad-boys-inc.webp",
+    "focalX": 55.36960100759415,
+    "focalY": 7.4207320636764065,
+    "zoom": 1.3,
+    "brightness": 1.06,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8sp2xc8u",
     "name": "Let Loose",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/let-loose.jpg",
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1
+    "focalX": 50.97728056066176,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1.02,
+    "contrast": 1,
+    "saturation": 0.97,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8t1wzdjq",
     "name": "Ultimate Kaos",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/ultimate-kaos.jpg",
-    "focalX": 25.327087402343736,
+    "focalX": 35.42059326171874,
     "focalY": 50,
     "zoom": 1
   },
   {
     "id": "id_1784133075985_8vu7tcl8",
     "name": "OTT",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/ott.jpg",
-    "focalX": 50,
-    "focalY": 1.1417475101509655,
-    "zoom": 1
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/uk-boybands/ott.webp",
+    "focalX": 51.51672745807958,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1784133075985_8wm01wn0",
@@ -66439,15302 +66550,6 @@ window.QM_IDIOMS_CS_DATA = [
     "example": "Po nemoci byl kost a kůže."
   }
 ];
-window.QM_NO1S5259_DATA = [
-  {
-    "id": 1,
-    "term": "Here in My Heart",
-    "definition": "Al Martino",
-    "example": "November 1952 · 9 weeks at No.1"
-  },
-  {
-    "id": 2,
-    "term": "You Belong to Me",
-    "definition": "Jo Stafford",
-    "example": "January 1953 · 1 week at No.1"
-  },
-  {
-    "id": 3,
-    "term": "Comes A-Long A-Love",
-    "definition": "Kay Starr",
-    "example": "January 1953 · 1 week at No.1"
-  },
-  {
-    "id": 4,
-    "term": "Outside of Heaven",
-    "definition": "Eddie Fisher",
-    "example": "January 1953 · 1 week at No.1"
-  },
-  {
-    "id": 5,
-    "term": "Don't Let the Stars Get in Your Eyes",
-    "definition": "Perry Como and the Ramblers",
-    "example": "February 1953 · 5 weeks at No.1"
-  },
-  {
-    "id": 6,
-    "term": "She Wears Red Feathers",
-    "definition": "Guy Mitchell",
-    "example": "March 1953 · 4 weeks at No.1"
-  },
-  {
-    "id": 7,
-    "term": "Broken Wings",
-    "definition": "Stargazers",
-    "example": "April 1953 · 1 week at No.1"
-  },
-  {
-    "id": 8,
-    "term": "(How Much Is) That Doggie in the Window",
-    "definition": "Lita Roza",
-    "example": "April 1953 · 1 week at No.1"
-  },
-  {
-    "id": 9,
-    "term": "I Believe",
-    "definition": "Frankie Laine",
-    "example": "April 1953 · 18 weeks at No.1"
-  },
-  {
-    "id": 10,
-    "term": "I'm Walking Behind You",
-    "definition": "Eddie Fisher With Sally Sweetland",
-    "example": "June 1953 · 1 week at No.1"
-  },
-  {
-    "id": 11,
-    "term": "The Song From the Moulin Rouge",
-    "definition": "Mantovani",
-    "example": "August 1953 · 1 week at No.1"
-  },
-  {
-    "id": 12,
-    "term": "Look at That Girl",
-    "definition": "Guy Mitchell",
-    "example": "September 1953 · 6 weeks at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Hey Joe",
-    "definition": "Frankie Laine",
-    "example": "October 1953 · 2 weeks at No.1"
-  },
-  {
-    "id": 14,
-    "term": "Answer Me",
-    "definition": "David Whitfield / Frankie Laine",
-    "example": "November 1953 · 2 versions at No.1 (1 week and 8 weeks)"
-  },
-  {
-    "id": 15,
-    "term": "Oh Mein Papa",
-    "definition": "Eddie Calvert",
-    "example": "January 1954 · 9 weeks at No.1"
-  },
-  {
-    "id": 16,
-    "term": "I See the Moon",
-    "definition": "Stargazers",
-    "example": "March 1954 · 6 weeks at No.1"
-  },
-  {
-    "id": 17,
-    "term": "Secret Love",
-    "definition": "Doris Day",
-    "example": "April 1954 · 9 weeks at No.1"
-  },
-  {
-    "id": 18,
-    "term": "Such a Night",
-    "definition": "Johnnie Ray",
-    "example": "May 1954 · 1 week at No.1"
-  },
-  {
-    "id": 19,
-    "term": "Cara Mia",
-    "definition": "David Whitfield With Mantovani and His Orchestra",
-    "example": "July 1954 · 10 weeks at No.1"
-  },
-  {
-    "id": 20,
-    "term": "Little Things Mean a Lot",
-    "definition": "Kitty Kallen",
-    "example": "September 1954 · 1 week at No.1"
-  },
-  {
-    "id": 21,
-    "term": "Three Coins in the Fountain",
-    "definition": "Frank Sinatra",
-    "example": "September 1954 · 3 weeks at No.1"
-  },
-  {
-    "id": 22,
-    "term": "Hold My Hand",
-    "definition": "Don Cornell",
-    "example": "October 1954 · 5 weeks at No.1"
-  },
-  {
-    "id": 23,
-    "term": "My Son My Son",
-    "definition": "Vera Lynn",
-    "example": "November 1954 · 2 weeks at No.1"
-  },
-  {
-    "id": 24,
-    "term": "This Ole House",
-    "definition": "Rosemary Clooney",
-    "example": "November 1954 · 1 week at No.1"
-  },
-  {
-    "id": 25,
-    "term": "Let's Have Another Party",
-    "definition": "Winifred Atwell",
-    "example": "December 1954 · 5 weeks at No.1"
-  },
-  {
-    "id": 26,
-    "term": "The Finger of Suspicion",
-    "definition": "Dickie Valentine With the Stargazers",
-    "example": "January 1955 · 3 weeks at No.1"
-  },
-  {
-    "id": 27,
-    "term": "Mambo Italiano",
-    "definition": "Rosemary Clooney and the Mellomen",
-    "example": "January 1955 · 3 weeks at No.1"
-  },
-  {
-    "id": 28,
-    "term": "Softly Softly",
-    "definition": "Ruby Murray",
-    "example": "February 1955 · 3 weeks at No.1"
-  },
-  {
-    "id": 29,
-    "term": "Give Me Your Word",
-    "definition": "Tennessee Ernie Ford",
-    "example": "March 1955 · 7 weeks at No.1"
-  },
-  {
-    "id": 30,
-    "term": "Cherry Pink and Apple Blossom White",
-    "definition": "Perez Prado And His Orchestra / Eddie Calvert",
-    "example": "April 1955 and May 1955 · 2 versions at No.1 (2 weeks and 4 weeks)"
-  },
-  {
-    "id": 31,
-    "term": "Stranger in Paradise",
-    "definition": "Tony Bennett",
-    "example": "May 1955 · 2 weeks at No.1"
-  },
-  {
-    "id": 32,
-    "term": "Unchained Melody",
-    "definition": "Jimmy Young",
-    "example": "June 1955 · 3 weeks at No.1"
-  },
-  {
-    "id": 33,
-    "term": "Dreamboat",
-    "definition": "Alma Cogan",
-    "example": "July 1955 · 2 weeks at No.1"
-  },
-  {
-    "id": 34,
-    "term": "Rose Marie",
-    "definition": "Slim Whitman",
-    "example": "July 1955 · 11 weeks at No.1"
-  },
-  {
-    "id": 35,
-    "term": "The Man From Laramie",
-    "definition": "Jimmy Young",
-    "example": "October 1955 · 4 weeks at No.1"
-  },
-  {
-    "id": 36,
-    "term": "Hernando's Hideaway",
-    "definition": "Johnston Brothers",
-    "example": "November 1955 · 2 weeks at No.1"
-  },
-  {
-    "id": 37,
-    "term": "Rock Around the Clock",
-    "definition": "Bill Haley and His Comets",
-    "example": "November 1955 · 5 weeks at No.1"
-  },
-  {
-    "id": 38,
-    "term": "Christmas Alphabet",
-    "definition": "Dickie Valentine",
-    "example": "December 1955 · 3 weeks at No.1"
-  },
-  {
-    "id": 39,
-    "term": "Sixteen Tons",
-    "definition": "Tennessee Ernie Ford",
-    "example": "January 1956 · 4 weeks at No.1"
-  },
-  {
-    "id": 40,
-    "term": "Memories Are Made of This",
-    "definition": "Dean Martin",
-    "example": "February 1956 · 4 weeks at No.1"
-  },
-  {
-    "id": 41,
-    "term": "It's Almost Tomorrow",
-    "definition": "Dreamweavers",
-    "example": "March 1956 · 3 weeks at No.1"
-  },
-  {
-    "id": 42,
-    "term": "Rock and Roll Waltz",
-    "definition": "Kay Starr",
-    "example": "March 1956 · 1 week at No.1"
-  },
-  {
-    "id": 43,
-    "term": "The Poor People of Paris",
-    "definition": "Winifred Atwell",
-    "example": "April 1956 · 3 weeks at No.1"
-  },
-  {
-    "id": 44,
-    "term": "No Other Love",
-    "definition": "Ronnie Hilton",
-    "example": "May 1956 · 6 weeks at No.1"
-  },
-  {
-    "id": 45,
-    "term": "I'll Be Home",
-    "definition": "Pat Boone",
-    "example": "June 1956 · 5 weeks at No.1"
-  },
-  {
-    "id": 46,
-    "term": "Why Do Fools Fall in Love",
-    "definition": "Teenagers Featuring Frankie Lymon",
-    "example": "July 1956 · 3 weeks at No.1"
-  },
-  {
-    "id": 47,
-    "term": "Whatever Will Be Will Be (Que Sera Sera)",
-    "definition": "Doris Day",
-    "example": "August 1956 · 6 weeks at No.1"
-  },
-  {
-    "id": 48,
-    "term": "Lay Down Your Arms",
-    "definition": "Anne Shelton",
-    "example": "September 1956 · 4 weeks at No.1"
-  },
-  {
-    "id": 49,
-    "term": "A Woman in Love",
-    "definition": "Frankie Laine",
-    "example": "October 1956 · 4 weeks at No.1"
-  },
-  {
-    "id": 50,
-    "term": "Just Walkin' in the Rain",
-    "definition": "Johnnie Ray",
-    "example": "November 1956 · 7 weeks at No.1"
-  },
-  {
-    "id": 51,
-    "term": "Singing the Blues",
-    "definition": "Guy Mitchell / Tommy Steele and the Steelmen",
-    "example": "January 1957 · 2 versions at No.1 (2 weeks and 1 week)"
-  },
-  {
-    "id": 52,
-    "term": "The Garden Of Eden",
-    "definition": "Frankie Vaughan",
-    "example": "January 1957 · 4 weeks at No.1"
-  },
-  {
-    "id": 53,
-    "term": "Young Love",
-    "definition": "Tab Hunter",
-    "example": "February 1957 · 7 weeks at No.1"
-  },
-  {
-    "id": 54,
-    "term": "Cumberland Gap",
-    "definition": "Lonnie Donegan",
-    "example": "April 1957 · 5 weeks at No.1"
-  },
-  {
-    "id": 55,
-    "term": "Rock-A-Billy",
-    "definition": "Guy Mitchell",
-    "example": "May 1957 · 1 week at No.1"
-  },
-  {
-    "id": 56,
-    "term": "Butterfly",
-    "definition": "Andy Williams",
-    "example": "May 1957 · 2 weeks at No.1"
-  },
-  {
-    "id": 57,
-    "term": "Yes Tonight Josephine",
-    "definition": "Johnnie Ray",
-    "example": "June 1957 · 3 weeks at No.1"
-  },
-  {
-    "id": 58,
-    "term": "Gamblin' Man / Puttin' On The Style",
-    "definition": "Lonnie Donegan",
-    "example": "June 1957 · 2 weeks at No.1"
-  },
-  {
-    "id": 59,
-    "term": "All Shook Up",
-    "definition": "Elvis Presley",
-    "example": "July 1957 · 7 weeks at No.1"
-  },
-  {
-    "id": 60,
-    "term": "Diana",
-    "definition": "Paul Anka",
-    "example": "August 1957 · 9 weeks at No.1"
-  },
-  {
-    "id": 61,
-    "term": "That'll Be The Day",
-    "definition": "The Crickets",
-    "example": "November 1957 · 3 weeks at No.1"
-  },
-  {
-    "id": 62,
-    "term": "Mary's Boy Child",
-    "definition": "Harry Belafonte",
-    "example": "November 1957 · 7 weeks at No.1"
-  },
-  {
-    "id": 63,
-    "term": "Great Balls Of Fire",
-    "definition": "Jerry Lee Lewis",
-    "example": "January 1958 · 2 weeks at No.1"
-  },
-  {
-    "id": 64,
-    "term": "Jailhouse Rock",
-    "definition": "Elvis Presley",
-    "example": "January 1958 · 3 weeks at No.1"
-  },
-  {
-    "id": 65,
-    "term": "The Story Of My Life",
-    "definition": "Michael Holliday",
-    "example": "February 1958 · 2 weeks at No.1"
-  },
-  {
-    "id": 66,
-    "term": "Magic Moments",
-    "definition": "Perry Como",
-    "example": "March 1958 · 8 weeks at No.1"
-  },
-  {
-    "id": 67,
-    "term": "Whole Lotta Woman",
-    "definition": "Marvin Rainwater",
-    "example": "April 1958 · 3 weeks at No.1"
-  },
-  {
-    "id": 68,
-    "term": "Who's Sorry Now",
-    "definition": "Connie Francis",
-    "example": "May 1958 · 6 weeks at No.1"
-  },
-  {
-    "id": 69,
-    "term": "On The Street Where You Live",
-    "definition": "Vic Damone",
-    "example": "June 1958 · 1 week at No.1"
-  },
-  {
-    "id": 70,
-    "term": "All I Have To Do Is Dream / Claudette",
-    "definition": "The Everly Brothers",
-    "example": "July 1958 · 7 weeks at No.1"
-  },
-  {
-    "id": 71,
-    "term": "When",
-    "definition": "Kalin Twins",
-    "example": "August 1958 · 5 weeks at No.1"
-  },
-  {
-    "id": 72,
-    "term": "Stupid Cupid / Carolina Moon",
-    "definition": "Connie Francis",
-    "example": "September 1958 · 6 weeks at No.1"
-  },
-  {
-    "id": 73,
-    "term": "It's All In The Game",
-    "definition": "Tommy Edwards",
-    "example": "November 1958 · 3 weeks at No.1"
-  },
-  {
-    "id": 74,
-    "term": "Hoots Mon",
-    "definition": "Lord Rockingham's XI",
-    "example": "November 1958 · 3 weeks at No.1"
-  },
-  {
-    "id": 75,
-    "term": "It's Only Make Believe",
-    "definition": "Conway Twitty",
-    "example": "December 1958 · 5 weeks at No.1"
-  },
-  {
-    "id": 76,
-    "term": "The Day The Rains Came",
-    "definition": "Jane Morgan",
-    "example": "January 1959 · 1 week at No.1"
-  },
-  {
-    "id": 77,
-    "term": "One Night / I Got Stung",
-    "definition": "Elvis Presley",
-    "example": "January 1959 · 3 weeks at No.1"
-  },
-  {
-    "id": 78,
-    "term": "As I Love You",
-    "definition": "Shirley Bassey",
-    "example": "February 1959 · 4 weeks at No.1"
-  },
-  {
-    "id": 79,
-    "term": "Smoke Gets In Your Eyes",
-    "definition": "The Platters",
-    "example": "March 1959 · 1 week at No.1"
-  },
-  {
-    "id": 80,
-    "term": "Side Saddle",
-    "definition": "Russ Conway",
-    "example": "March 1959 · 4 weeks at No.1"
-  },
-  {
-    "id": 81,
-    "term": "It Doesn't Matter Anymore",
-    "definition": "Buddy Holly",
-    "example": "April 1959 · 3 weeks at No.1"
-  },
-  {
-    "id": 82,
-    "term": "A Fool Such As I / I Need Your Love Tonight",
-    "definition": "Elvis Presley",
-    "example": "May 1959 · 5 weeks at No.1"
-  },
-  {
-    "id": 83,
-    "term": "Roulette",
-    "definition": "Russ Conway",
-    "example": "June 1959 · 2 weeks at No.1"
-  },
-  {
-    "id": 84,
-    "term": "Dream Lover",
-    "definition": "Bobby Darin",
-    "example": "July 1959 · 4 weeks at No.1"
-  },
-  {
-    "id": 85,
-    "term": "Living Doll",
-    "definition": "Cliff Richard and the Drifters",
-    "example": "August 1959 · 6 weeks at No.1"
-  },
-  {
-    "id": 86,
-    "term": "Only Sixteen",
-    "definition": "Craig Douglas",
-    "example": "September 1959 · 4 weeks at No.1"
-  },
-  {
-    "id": 87,
-    "term": "Here Comes Summer",
-    "definition": "Jerry Keller",
-    "example": "October 1959 · 1 week at No.1"
-  },
-  {
-    "id": 88,
-    "term": "Mack The Knife",
-    "definition": "Bobby Darin",
-    "example": "October 1959 · 2 weeks at No.1"
-  },
-  {
-    "id": 89,
-    "term": "Travellin' Light",
-    "definition": "Cliff Richard and The Shadows",
-    "example": "October 1959 · 5 weeks at No.1"
-  },
-  {
-    "id": 90,
-    "term": "What Do You Want?",
-    "definition": "Adam Faith",
-    "example": "December 1959 · 3 weeks at No.1"
-  },
-  {
-    "id": 91,
-    "term": "What Do You Want to Make Those Eyes at Me For?",
-    "definition": "Emile Ford and the Checkmates",
-    "example": "December 1959 · 6 weeks at No.1"
-  }
-];
-window.QM_NO1S6064_DATA = [
-  {
-    "id": 1,
-    "term": "Starry Eyed",
-    "definition": "Michael Holliday",
-    "example": "January 1960 · 1 week at No.1"
-  },
-  {
-    "id": 2,
-    "term": "Why",
-    "definition": "Anthony Newley",
-    "example": "February 1960 · 4 weeks at No.1"
-  },
-  {
-    "id": 3,
-    "term": "Poor Me",
-    "definition": "Adam Faith",
-    "example": "March 1960 · 2 weeks at No.1"
-  },
-  {
-    "id": 4,
-    "term": "Running Bear",
-    "definition": "Johnny Preston",
-    "example": "March 1960 · 2 weeks at No.1"
-  },
-  {
-    "id": 5,
-    "term": "My Old Man's A Dustman",
-    "definition": "Lonnie Donegan",
-    "example": "April 1960 · 4 weeks at No.1"
-  },
-  {
-    "id": 6,
-    "term": "Do You Mind?",
-    "definition": "Anthony Newley",
-    "example": "April 1960 · 1 week at No.1"
-  },
-  {
-    "id": 7,
-    "term": "Cathy's Clown",
-    "definition": "The Everly Brothers",
-    "example": "May 1960 · 7 weeks at No.1"
-  },
-  {
-    "id": 8,
-    "term": "Three Steps To Heaven",
-    "definition": "Eddie Cochran",
-    "example": "June 1960 · 2 weeks at No.1"
-  },
-  {
-    "id": 9,
-    "term": "Good Timin'",
-    "definition": "Jimmy Jones",
-    "example": "July 1960 · 3 weeks at No.1"
-  },
-  {
-    "id": 10,
-    "term": "Please Don't Tease",
-    "definition": "Cliff Richard",
-    "example": "July 1960 · 3 weeks at No.1"
-  },
-  {
-    "id": 11,
-    "term": "Shakin' All Over",
-    "definition": "Johnny Kidd & the Pirates",
-    "example": "August 1960 · 1 week at No.1"
-  },
-  {
-    "id": 12,
-    "term": "Apache",
-    "definition": "The Shadows",
-    "example": "August 1960 · 5 weeks at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Tell Laura I Love Her",
-    "definition": "Ricky Valance",
-    "example": "October 1960 · 3 weeks at No.1"
-  },
-  {
-    "id": 14,
-    "term": "Only The Lonely",
-    "definition": "Roy Orbison",
-    "example": "October 1960 · 2 weeks at No.1"
-  },
-  {
-    "id": 15,
-    "term": "It's Now or Never",
-    "definition": "Elvis Presley",
-    "example": "November 1960 · 8 weeks at No.1"
-  },
-  {
-    "id": 16,
-    "term": "I Love You",
-    "definition": "Cliff Richard",
-    "example": "December 1960 · 2 weeks at No.1"
-  },
-  {
-    "id": 17,
-    "term": "Poetry In Motion",
-    "definition": "Johnny Tillotson",
-    "example": "January 1961 · 2 weeks at No.1"
-  },
-  {
-    "id": 18,
-    "term": "Are You Lonesome Tonight?",
-    "definition": "Elvis Presley",
-    "example": "January 1961 · 4 weeks at No.1"
-  },
-  {
-    "id": 19,
-    "term": "Sailor",
-    "definition": "Petula Clark",
-    "example": "February 1961 · 1 week at No.1"
-  },
-  {
-    "id": 20,
-    "term": "Walk Right Back / Ebony Eyes",
-    "definition": "The Everly Brothers",
-    "example": "March 1961 · 3 weeks at No.1"
-  },
-  {
-    "id": 21,
-    "term": "Wooden Heart",
-    "definition": "Elvis Presley",
-    "example": "March 1961 · 6 weeks at No.1"
-  },
-  {
-    "id": 22,
-    "term": "Blue Moon",
-    "definition": "Marcels",
-    "example": "May 1961 · 2 weeks at No.1"
-  },
-  {
-    "id": 23,
-    "term": "On The Rebound",
-    "definition": "Floyd Cramer",
-    "example": "May 1961 · 1 week at No.1"
-  },
-  {
-    "id": 24,
-    "term": "You're Driving Me Crazy",
-    "definition": "Temperance Seven",
-    "example": "May 1961 · 1 week at No.1"
-  },
-  {
-    "id": 25,
-    "term": "Surrender",
-    "definition": "Elvis Presley",
-    "example": "June 1961 · 4 weeks at No.1"
-  },
-  {
-    "id": 26,
-    "term": "Runaway",
-    "definition": "Del Shannon",
-    "example": "July 1961 · 3 weeks at No.1"
-  },
-  {
-    "id": 27,
-    "term": "Temptation",
-    "definition": "The Everly Brothers",
-    "example": "July 1961 · 2 weeks at No.1"
-  },
-  {
-    "id": 28,
-    "term": "Well I Ask You",
-    "definition": "Eden Kane",
-    "example": "August 1961 · 1 week at No.1"
-  },
-  {
-    "id": 29,
-    "term": "You Don't Know",
-    "definition": "Helen Shapiro",
-    "example": "August 1961 · 3 weeks at No.1"
-  },
-  {
-    "id": 30,
-    "term": "Johnny Remember Me",
-    "definition": "John Leyton",
-    "example": "September 1961 · 4 weeks at No.1"
-  },
-  {
-    "id": 31,
-    "term": "Reach For The Stars / Climb Ev'ry Mountain",
-    "definition": "Shirley Bassey",
-    "example": "September 1961 · 1 week at No.1"
-  },
-  {
-    "id": 32,
-    "term": "Kon-Tiki",
-    "definition": "The Shadows",
-    "example": "October 1961 · 1 week at No.1"
-  },
-  {
-    "id": 33,
-    "term": "Michael",
-    "definition": "Highwaymen",
-    "example": "October 1961 · 1 week at No.1"
-  },
-  {
-    "id": 34,
-    "term": "Walkin' Back To Happiness",
-    "definition": "Helen Shapiro",
-    "example": "October 1961 · 3 weeks at No.1"
-  },
-  {
-    "id": 35,
-    "term": "His Latest Flame / Little Sister",
-    "definition": "Elvis Presley",
-    "example": "November 1961 · 4 weeks at No.1"
-  },
-  {
-    "id": 36,
-    "term": "Tower Of Strength",
-    "definition": "Frankie Vaughan",
-    "example": "December 1961 · 3 weeks at No.1"
-  },
-  {
-    "id": 37,
-    "term": "Moon River",
-    "definition": "Danny Williams",
-    "example": "December 1961 · 2 weeks at No.1"
-  },
-  {
-    "id": 38,
-    "term": "The Young Ones",
-    "definition": "Cliff Richard",
-    "example": "January 1962 · 6 weeks at No.1"
-  },
-  {
-    "id": 39,
-    "term": "Can't Help Falling In Love / Rock-A-Hula Baby",
-    "definition": "Elvis Presley",
-    "example": "February 1962 · 4 weeks at No.1"
-  },
-  {
-    "id": 40,
-    "term": "Wonderful Land",
-    "definition": "The Shadows",
-    "example": "March 1962 · 8 weeks at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Nut Rocker",
-    "definition": "B Bumble and the Stingers",
-    "example": "May 1962 · 1 week at No.1"
-  },
-  {
-    "id": 42,
-    "term": "Good Luck Charm",
-    "definition": "Elvis Presley",
-    "example": "May 1962 · 5 weeks at No.1"
-  },
-  {
-    "id": 43,
-    "term": "Come Outside",
-    "definition": "Mike Sarne With Wendy Richard",
-    "example": "June 1962 · 2 weeks at No.1"
-  },
-  {
-    "id": 44,
-    "term": "I Can't Stop Loving You",
-    "definition": "Ray Charles",
-    "example": "July 1962 · 2 weeks at No.1"
-  },
-  {
-    "id": 45,
-    "term": "I Remember You",
-    "definition": "Frank Ifield",
-    "example": "July 1962 · 7 weeks at No.1"
-  },
-  {
-    "id": 46,
-    "term": "She's Not You",
-    "definition": "Elvis Presley",
-    "example": "September 1962 · 3 weeks at No.1"
-  },
-  {
-    "id": 47,
-    "term": "Telstar",
-    "definition": "The Tornados",
-    "example": "October 1962 · 5 weeks at No.1"
-  },
-  {
-    "id": 48,
-    "term": "Lovesick Blues",
-    "definition": "Frank Ifield",
-    "example": "November 1962 · 5 weeks at No.1"
-  },
-  {
-    "id": 49,
-    "term": "Return To Sender",
-    "definition": "Elvis Presley",
-    "example": "December 1962 · 3 weeks at No.1"
-  },
-  {
-    "id": 50,
-    "term": "The Next Time / Bachelor Boy",
-    "definition": "Cliff Richard",
-    "example": "January 1963 · 3 weeks at No.1"
-  },
-  {
-    "id": 51,
-    "term": "Dance On!",
-    "definition": "The Shadows",
-    "example": "January 1963 · 1 week at No.1"
-  },
-  {
-    "id": 52,
-    "term": "Diamonds",
-    "definition": "Jet Harris and Tony Meehan",
-    "example": "February 1963 · 3 weeks at No.1"
-  },
-  {
-    "id": 53,
-    "term": "The Wayward Wind",
-    "definition": "Frank Ifield",
-    "example": "February 1963 · 3 weeks at No.1"
-  },
-  {
-    "id": 54,
-    "term": "Summer Holiday",
-    "definition": "Cliff Richard",
-    "example": "March 1963 · 3 weeks at No.1"
-  },
-  {
-    "id": 55,
-    "term": "Foot Tapper",
-    "definition": "The Shadows",
-    "example": "March 1963 · 1 week at No.1"
-  },
-  {
-    "id": 56,
-    "term": "How Do You Do It?",
-    "definition": "Gerry and the Pacemakers",
-    "example": "April 1963 · 3 weeks at No.1"
-  },
-  {
-    "id": 57,
-    "term": "From Me To You",
-    "definition": "The Beatles",
-    "example": "May 1963 · 7 weeks at No.1"
-  },
-  {
-    "id": 58,
-    "term": "I Like It",
-    "definition": "Gerry and the Pacemakers",
-    "example": "June 1963 · 4 weeks at No.1"
-  },
-  {
-    "id": 59,
-    "term": "Confessin'",
-    "definition": "Frank Ifield",
-    "example": "July 1963 · 2 weeks at No.1"
-  },
-  {
-    "id": 60,
-    "term": "(You're The) Devil In Disguise",
-    "definition": "Elvis Presley",
-    "example": "August 1963 · 1 week at No.1"
-  },
-  {
-    "id": 61,
-    "term": "Sweets For My Sweet",
-    "definition": "The Searchers",
-    "example": "August 1963 · 2 weeks at No.1"
-  },
-  {
-    "id": 62,
-    "term": "Bad To Me",
-    "definition": "Billy J Kramer And The Dakotas",
-    "example": "August 1963 · 3 weeks at No.1"
-  },
-  {
-    "id": 63,
-    "term": "She Loves You",
-    "definition": "The Beatles",
-    "example": "September 1963 · 6 weeks at No.1"
-  },
-  {
-    "id": 64,
-    "term": "Do You Love Me?",
-    "definition": "Brian Poole And The Tremeloes",
-    "example": "October 1963 · 3 weeks at No.1"
-  },
-  {
-    "id": 65,
-    "term": "You'll Never Walk Alone",
-    "definition": "Gerry and the Pacemakers",
-    "example": "November 1963 · 4 weeks at No.1"
-  },
-  {
-    "id": 66,
-    "term": "I Want To Hold Your Hand",
-    "definition": "The Beatles",
-    "example": "December 1963 · 5 weeks at No.1"
-  },
-  {
-    "id": 67,
-    "term": "Glad All Over",
-    "definition": "The Dave Clark Five",
-    "example": "January 1964 · 2 weeks at No.1"
-  },
-  {
-    "id": 68,
-    "term": "Needles And Pins",
-    "definition": "The Searchers",
-    "example": "February 1964 · 3 weeks at No.1"
-  },
-  {
-    "id": 69,
-    "term": "Diane",
-    "definition": "The Bachelors",
-    "example": "February 1964 · 1 week at No.1"
-  },
-  {
-    "id": 70,
-    "term": "Anyone Who Had A Heart",
-    "definition": "Cilla Black",
-    "example": "February 1964 · 3 weeks at No.1"
-  },
-  {
-    "id": 71,
-    "term": "Little Children",
-    "definition": "Billy J Kramer And The Dakotas",
-    "example": "March 1964 · 2 weeks at No.1"
-  },
-  {
-    "id": 72,
-    "term": "Can't Buy Me Love",
-    "definition": "The Beatles",
-    "example": "April 1964 · 3 weeks at No.1"
-  },
-  {
-    "id": 73,
-    "term": "A World Without Love",
-    "definition": "Peter And Gordon",
-    "example": "April 1964 · 2 weeks at No.1"
-  },
-  {
-    "id": 74,
-    "term": "Don't Throw Your Love Away",
-    "definition": "The Searchers",
-    "example": "May 1964 · 2 weeks at No.1"
-  },
-  {
-    "id": 75,
-    "term": "Juliet",
-    "definition": "The Four Pennies",
-    "example": "May 1964 · 1 week at No.1"
-  },
-  {
-    "id": 76,
-    "term": "You're My World",
-    "definition": "Cilla Black",
-    "example": "May 1964 · 4 weeks at No.1"
-  },
-  {
-    "id": 77,
-    "term": "It's Over",
-    "definition": "Roy Orbison",
-    "example": "June 1964 · 2 weeks at No.1"
-  },
-  {
-    "id": 78,
-    "term": "The House of the Rising Sun",
-    "definition": "The Animals",
-    "example": "July 1964 · 1 week at No.1"
-  },
-  {
-    "id": 79,
-    "term": "It's All Over Now",
-    "definition": "The Rolling Stones",
-    "example": "July 1964 · 1 week at No.1"
-  },
-  {
-    "id": 80,
-    "term": "A Hard Day's Night",
-    "definition": "The Beatles",
-    "example": "July 1964 · 3 weeks at No.1"
-  },
-  {
-    "id": 81,
-    "term": "Do Wah Diddy Diddy",
-    "definition": "Manfred Mann",
-    "example": "August 1964 · 2 weeks at No.1"
-  },
-  {
-    "id": 82,
-    "term": "Have I The Right?",
-    "definition": "Honeycombs",
-    "example": "August 1964 · 2 weeks at No.1"
-  },
-  {
-    "id": 83,
-    "term": "You Really Got Me",
-    "definition": "The Kinks",
-    "example": "September 1964 · 2 weeks at No.1"
-  },
-  {
-    "id": 84,
-    "term": "I'm Into Something Good",
-    "definition": "Herman's Hermits",
-    "example": "September 1964 · 2 weeks at No.1"
-  },
-  {
-    "id": 85,
-    "term": "Oh, Pretty Woman",
-    "definition": "Roy Orbison",
-    "example": "October 1964 · 3 weeks at No.1"
-  },
-  {
-    "id": 86,
-    "term": "(There's) Always Something There To Remind Me",
-    "definition": "Sandie Shaw",
-    "example": "October 1964 · 3 weeks at No.1"
-  },
-  {
-    "id": 87,
-    "term": "Baby Love",
-    "definition": "The Supremes",
-    "example": "November 1964 · 2 weeks at No.1"
-  },
-  {
-    "id": 88,
-    "term": "Little Red Rooster",
-    "definition": "The Rolling Stones",
-    "example": "December 1964 · 1 week at No.1"
-  },
-  {
-    "id": 89,
-    "term": "I Feel Fine",
-    "definition": "The Beatles",
-    "example": "December 1964 · 5 weeks at No.1"
-  }
-];
-window.QM_NO1S6569_DATA = [
-  {
-    "id": 1,
-    "term": "Yeh Yeh",
-    "definition": "Georgie Fame",
-    "example": "January 1965 · 2 weeks at No.1"
-  },
-  {
-    "id": 2,
-    "term": "Go Now",
-    "definition": "The Moody Blues",
-    "example": "January 1965 · 1 week at No.1"
-  },
-  {
-    "id": 3,
-    "term": "You've Lost That Lovin' Feelin'",
-    "definition": "The Righteous Brothers",
-    "example": "February 1965 · 2 weeks at No.1"
-  },
-  {
-    "id": 4,
-    "term": "Tired Of Waiting For You",
-    "definition": "The Kinks",
-    "example": "February 1965 · 1 week at No.1"
-  },
-  {
-    "id": 5,
-    "term": "I'll Never Find Another You",
-    "definition": "The Seekers",
-    "example": "February 1965 · 2 weeks at No.1"
-  },
-  {
-    "id": 6,
-    "term": "It's Not Unusual",
-    "definition": "Tom Jones",
-    "example": "March 1965 · 1 week at No.1"
-  },
-  {
-    "id": 7,
-    "term": "The Last Time",
-    "definition": "The Rolling Stones",
-    "example": "March 1965 · 3 weeks at No.1"
-  },
-  {
-    "id": 8,
-    "term": "Concrete And Clay",
-    "definition": "Unit Four Plus Two",
-    "example": "April 1965 · 1 week at No.1"
-  },
-  {
-    "id": 9,
-    "term": "The Minute You're Gone",
-    "definition": "Cliff Richard",
-    "example": "April 1965 · 1 week at No.1"
-  },
-  {
-    "id": 10,
-    "term": "Ticket To Ride",
-    "definition": "The Beatles",
-    "example": "April 1965 · 3 weeks at No.1"
-  },
-  {
-    "id": 11,
-    "term": "King Of The Road",
-    "definition": "Roger Miller",
-    "example": "May 1965 · 1 week at No.1"
-  },
-  {
-    "id": 12,
-    "term": "Where Are You Now (My Love)",
-    "definition": "Jackie Trent",
-    "example": "May 1965 · 1 week at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Long Live Love",
-    "definition": "Sandie Shaw",
-    "example": "May 1965 · 3 weeks at No.1"
-  },
-  {
-    "id": 14,
-    "term": "Crying In The Chapel",
-    "definition": "Elvis Presley",
-    "example": "June 1965 · 2 weeks at No.1"
-  },
-  {
-    "id": 15,
-    "term": "I'm Alive",
-    "definition": "The Hollies",
-    "example": "June 1965 · 3 weeks at No.1"
-  },
-  {
-    "id": 16,
-    "term": "Mr Tambourine Man",
-    "definition": "The Byrds",
-    "example": "July 1965 · 2 weeks at No.1"
-  },
-  {
-    "id": 17,
-    "term": "Help!",
-    "definition": "The Beatles",
-    "example": "August 1965 · 3 weeks at No.1"
-  },
-  {
-    "id": 18,
-    "term": "I Got You Babe",
-    "definition": "Sonny And Cher",
-    "example": "August 1965 · 2 weeks at No.1"
-  },
-  {
-    "id": 19,
-    "term": "(I Can't Get No) Satisfaction",
-    "definition": "The Rolling Stones",
-    "example": "September 1965 · 2 weeks at No.1"
-  },
-  {
-    "id": 20,
-    "term": "Make It Easy On Yourself",
-    "definition": "The Walker Brothers",
-    "example": "September 1965 · 1 week at No.1"
-  },
-  {
-    "id": 21,
-    "term": "Tears",
-    "definition": "Ken Dodd",
-    "example": "October 1965 · 5 weeks at No.1"
-  },
-  {
-    "id": 22,
-    "term": "Get Off Of My Cloud",
-    "definition": "The Rolling Stones",
-    "example": "November 1965 · 3 weeks at No.1"
-  },
-  {
-    "id": 23,
-    "term": "The Carnival Is Over",
-    "definition": "The Seekers",
-    "example": "November 1965 · 3 weeks at No.1"
-  },
-  {
-    "id": 24,
-    "term": "Day Tripper / We Can Work It Out",
-    "definition": "The Beatles",
-    "example": "December 1965 · 5 weeks at No.1"
-  },
-  {
-    "id": 25,
-    "term": "Keep On Running",
-    "definition": "The Spencer Davis Group",
-    "example": "January 1966 · 1 week at No.1"
-  },
-  {
-    "id": 26,
-    "term": "Michelle",
-    "definition": "Overlanders",
-    "example": "January 1966 · 3 weeks at No.1"
-  },
-  {
-    "id": 27,
-    "term": "These Boots Are Made For Walkin'",
-    "definition": "Nancy Sinatra",
-    "example": "February 1966 · 4 weeks at No.1"
-  },
-  {
-    "id": 28,
-    "term": "The Sun Ain't Gonna Shine Anymore",
-    "definition": "The Walker Brothers",
-    "example": "March 1966 · 4 weeks at No.1"
-  },
-  {
-    "id": 29,
-    "term": "Somebody Help Me",
-    "definition": "The Spencer Davis Group",
-    "example": "April 1966 · 2 weeks at No.1"
-  },
-  {
-    "id": 30,
-    "term": "You Don't Have To Say You Love Me",
-    "definition": "Dusty Springfield",
-    "example": "April 1966 · 1 week at No.1"
-  },
-  {
-    "id": 31,
-    "term": "Pretty Flamingo",
-    "definition": "Manfred Mann",
-    "example": "May 1966 · 3 weeks at No.1"
-  },
-  {
-    "id": 32,
-    "term": "Paint It Black",
-    "definition": "The Rolling Stones",
-    "example": "May 1966 · 1 week at No.1"
-  },
-  {
-    "id": 33,
-    "term": "Strangers In The Night",
-    "definition": "Frank Sinatra",
-    "example": "June 1966 · 3 weeks at No.1"
-  },
-  {
-    "id": 34,
-    "term": "Paperback Writer",
-    "definition": "The Beatles",
-    "example": "June 1966 · 2 weeks at No.1"
-  },
-  {
-    "id": 35,
-    "term": "Sunny Afternoon",
-    "definition": "The Kinks",
-    "example": "July 1966 · 2 weeks at No.1"
-  },
-  {
-    "id": 36,
-    "term": "Getaway",
-    "definition": "Georgie Fame And The Blue Flames",
-    "example": "July 1966 · 1 week at No.1"
-  },
-  {
-    "id": 37,
-    "term": "Out Of Time",
-    "definition": "Chris Farlowe",
-    "example": "July 1966 · 1 week at No.1"
-  },
-  {
-    "id": 38,
-    "term": "With A Girl Like You",
-    "definition": "The Troggs",
-    "example": "August 1966 · 2 weeks at No.1"
-  },
-  {
-    "id": 39,
-    "term": "Yellow Submarine / Eleanor Rigby",
-    "definition": "The Beatles",
-    "example": "August 1966 · 4 weeks at No.1"
-  },
-  {
-    "id": 40,
-    "term": "All Or Nothing",
-    "definition": "The Small Faces",
-    "example": "September 1966 · 1 week at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Distant Drums",
-    "definition": "Jim Reeves",
-    "example": "September 1966 · 5 weeks at No.1"
-  },
-  {
-    "id": 42,
-    "term": "Reach Out I'll Be There",
-    "definition": "The Four Tops",
-    "example": "October 1966 · 3 weeks at No.1"
-  },
-  {
-    "id": 43,
-    "term": "Good Vibrations",
-    "definition": "The Beach Boys",
-    "example": "November 1966 · 2 weeks at No.1"
-  },
-  {
-    "id": 44,
-    "term": "Green Green Grass Of Home",
-    "definition": "Tom Jones",
-    "example": "December 1966 · 7 weeks at No.1"
-  },
-  {
-    "id": 45,
-    "term": "I'm a Believer",
-    "definition": "The Monkees",
-    "example": "January 1967 · 4 weeks at No.1"
-  },
-  {
-    "id": 46,
-    "term": "This Is My Song",
-    "definition": "Petula Clark",
-    "example": "February 1967 · 2 weeks at No.1"
-  },
-  {
-    "id": 47,
-    "term": "Release Me",
-    "definition": "Engelbert Humperdinck",
-    "example": "March 1967 · 6 weeks at No.1"
-  },
-  {
-    "id": 48,
-    "term": "Somethin' Stupid",
-    "definition": "Nancy Sinatra And Frank Sinatra",
-    "example": "April 1967 · 2 weeks at No.1"
-  },
-  {
-    "id": 49,
-    "term": "Puppet On A String",
-    "definition": "Sandie Shaw",
-    "example": "April 1967 · 3 weeks at No.1"
-  },
-  {
-    "id": 50,
-    "term": "Silence Is Golden",
-    "definition": "The Tremeloes",
-    "example": "May 1967 · 3 weeks at No.1"
-  },
-  {
-    "id": 51,
-    "term": "A Whiter Shade Of Pale",
-    "definition": "Procol Harum",
-    "example": "June 1967 · 6 weeks at No.1"
-  },
-  {
-    "id": 52,
-    "term": "All You Need Is Love",
-    "definition": "The Beatles",
-    "example": "July 1967 · 3 weeks at No.1"
-  },
-  {
-    "id": 53,
-    "term": "San Francisco (Be Sure To Wear Some Flowers In Your Hair)",
-    "definition": "Scott McKenzie",
-    "example": "August 1967 · 4 weeks at No.1"
-  },
-  {
-    "id": 54,
-    "term": "The Last Waltz",
-    "definition": "Engelbert Humperdinck",
-    "example": "September 1967 · 5 weeks at No.1"
-  },
-  {
-    "id": 55,
-    "term": "Massachusetts",
-    "definition": "The Bee Gees",
-    "example": "October 1967 · 4 weeks at No.1"
-  },
-  {
-    "id": 56,
-    "term": "Baby Now That I've Found You",
-    "definition": "The Foundations",
-    "example": "November 1967 · 2 weeks at No.1"
-  },
-  {
-    "id": 57,
-    "term": "Let The Heartaches Begin",
-    "definition": "Long John Baldry",
-    "example": "November 1967 · 2 weeks at No.1"
-  },
-  {
-    "id": 58,
-    "term": "Hello Goodbye",
-    "definition": "The Beatles",
-    "example": "December 1967 · 7 weeks at No.1"
-  },
-  {
-    "id": 59,
-    "term": "The Ballad Of Bonnie And Clyde",
-    "definition": "Georgie Fame",
-    "example": "January 1968 · 1 week at No.1"
-  },
-  {
-    "id": 60,
-    "term": "Everlasting Love",
-    "definition": "Love Affair",
-    "example": "February 1968 · 2 weeks at No.1"
-  },
-  {
-    "id": 61,
-    "term": "The Mighty Quinn",
-    "definition": "Manfred Mann",
-    "example": "February 1968 · 2 weeks at No.1"
-  },
-  {
-    "id": 62,
-    "term": "Cinderella Rockefella",
-    "definition": "Esther and Abi Ofarim",
-    "example": "March 1968 · 3 weeks at No.1"
-  },
-  {
-    "id": 63,
-    "term": "The Legend Of Xanadu",
-    "definition": "Dave Dee, Dozy, Beaky, Mick and Tich",
-    "example": "March 1968 · 1 week at No.1"
-  },
-  {
-    "id": 64,
-    "term": "Lady Madonna",
-    "definition": "The Beatles",
-    "example": "March 1968 · 2 weeks at No.1"
-  },
-  {
-    "id": 65,
-    "term": "Congratulations",
-    "definition": "Cliff Richard",
-    "example": "April 1968 · 2 weeks at No.1"
-  },
-  {
-    "id": 66,
-    "term": "What A Wonderful World / Cabaret",
-    "definition": "Louis Armstrong",
-    "example": "April 1968 · 4 weeks at No.1"
-  },
-  {
-    "id": 67,
-    "term": "Young Girl",
-    "definition": "Gary Puckett And The Union Gap",
-    "example": "May 1968 · 4 weeks at No.1"
-  },
-  {
-    "id": 68,
-    "term": "Jumpin' Jack Flash",
-    "definition": "The Rolling Stones",
-    "example": "June 1968 · 2 weeks at No.1"
-  },
-  {
-    "id": 69,
-    "term": "Baby Come Back",
-    "definition": "The Equals",
-    "example": "July 1968 · 3 weeks at No.1"
-  },
-  {
-    "id": 70,
-    "term": "I Pretend",
-    "definition": "Des O'Connor",
-    "example": "July 1968 · 1 week at No.1"
-  },
-  {
-    "id": 71,
-    "term": "Mony Mony",
-    "definition": "Tommy James And The Shondells",
-    "example": "August 1968 · 3 weeks at No.1"
-  },
-  {
-    "id": 72,
-    "term": "Fire!",
-    "definition": "Crazy World Of Arthur Brown",
-    "example": "August 1968 · 1 week at No.1"
-  },
-  {
-    "id": 73,
-    "term": "Do It Again",
-    "definition": "The Beach Boys",
-    "example": "August 1968 · 1 week at No.1"
-  },
-  {
-    "id": 74,
-    "term": "I've Gotta Get A Message To You",
-    "definition": "The Bee Gees",
-    "example": "September 1968 · 1 week at No.1"
-  },
-  {
-    "id": 75,
-    "term": "Hey Jude",
-    "definition": "The Beatles",
-    "example": "September 1968 · 2 weeks at No.1"
-  },
-  {
-    "id": 76,
-    "term": "Those Were The Days",
-    "definition": "Mary Hopkin",
-    "example": "September 1968 · 6 weeks at No.1"
-  },
-  {
-    "id": 77,
-    "term": "With A Little Help From My Friends",
-    "definition": "Joe Cocker",
-    "example": "November 1968 · 1 week at No.1"
-  },
-  {
-    "id": 78,
-    "term": "The Good the Bad and the Ugly",
-    "definition": "Hugo Montenegro",
-    "example": "November 1968 · 4 weeks at No.1"
-  },
-  {
-    "id": 79,
-    "term": "Lily The Pink",
-    "definition": "The Scaffold",
-    "example": "December 1968 · 4 weeks at No.1"
-  },
-  {
-    "id": 80,
-    "term": "Ob-La-Di Ob-La-Da",
-    "definition": "Marmalade",
-    "example": "January 1969 · 3 weeks at No.1"
-  },
-  {
-    "id": 81,
-    "term": "Albatross",
-    "definition": "Fleetwood Mac",
-    "example": "February 1969 · 1 week at No.1"
-  },
-  {
-    "id": 82,
-    "term": "Blackberry Way",
-    "definition": "The Move",
-    "example": "February 1969 · 1 week at No.1"
-  },
-  {
-    "id": 83,
-    "term": "(If Paradise Is) Half As Nice",
-    "definition": "Amen Corner",
-    "example": "February 1969 · 2 weeks at No.1"
-  },
-  {
-    "id": 84,
-    "term": "Where Do You Go To (My Lovely)",
-    "definition": "Peter Sarstedt",
-    "example": "March 1969 · 4 weeks at No.1"
-  },
-  {
-    "id": 85,
-    "term": "I Heard It Through The Grapevine",
-    "definition": "Marvin Gaye",
-    "example": "March 1969 · 3 weeks at No.1"
-  },
-  {
-    "id": 86,
-    "term": "The Israelites",
-    "definition": "Desmond Dekker And The Aces",
-    "example": "April 1969 · 1 week at No.1"
-  },
-  {
-    "id": 87,
-    "term": "Get Back",
-    "definition": "Beatles With Billy Preston",
-    "example": "April 1969 · 6 weeks at No.1"
-  },
-  {
-    "id": 88,
-    "term": "Dizzy",
-    "definition": "Tommy Roe",
-    "example": "June 1969 · 1 week at No.1"
-  },
-  {
-    "id": 89,
-    "term": "The Ballad Of John And Yoko",
-    "definition": "The Beatles",
-    "example": "June 1969 · 3 weeks at No.1"
-  },
-  {
-    "id": 90,
-    "term": "Something In The Air",
-    "definition": "Thunderclap Newman",
-    "example": "July 1969 · 3 weeks at No.1"
-  },
-  {
-    "id": 91,
-    "term": "Honky Tonk Women",
-    "definition": "The Rolling Stones",
-    "example": "July 1969 · 5 weeks at No.1"
-  },
-  {
-    "id": 92,
-    "term": "In The Year 2525",
-    "definition": "Zager And Evans",
-    "example": "August 1969 · 3 weeks at No.1"
-  },
-  {
-    "id": 93,
-    "term": "Bad Moon Rising",
-    "definition": "Creedence Clearwater Revival",
-    "example": "September 1969 · 3 weeks at No.1"
-  },
-  {
-    "id": 94,
-    "term": "Je T'aime... Moi Non Plus",
-    "definition": "Jane Birkin and Serge Gainsbourg",
-    "example": "October 1969 · 1 week at No.1"
-  },
-  {
-    "id": 95,
-    "term": "I'll Never Fall In Love Again",
-    "definition": "Bobbie Gentry",
-    "example": "October 1969 · 1 week at No.1"
-  },
-  {
-    "id": 96,
-    "term": "Sugar, Sugar",
-    "definition": "The Archies",
-    "example": "October 1969 · 8 weeks at No.1"
-  },
-  {
-    "id": 97,
-    "term": "Two Little Boys",
-    "definition": "Rolf Harris",
-    "example": "December 1969 · 6 weeks at No.1"
-  }
-];
-window.QM_NO1S7074_DATA = [
-  {
-    "id": 1,
-    "term": "Love Grows (Where My Rosemary Goes)",
-    "definition": "Edison Lighthouse",
-    "example": "January 1970 · 5 weeks at No.1"
-  },
-  {
-    "id": 2,
-    "term": "Wand'rin' Star",
-    "definition": "Lee Marvin",
-    "example": "March 1970 · 3 weeks at No.1"
-  },
-  {
-    "id": 3,
-    "term": "Bridge Over Troubled Water",
-    "definition": "Simon And Garfunkel",
-    "example": "March 1970 · 3 weeks at No.1"
-  },
-  {
-    "id": 4,
-    "term": "All Kinds Of Everything",
-    "definition": "Dana",
-    "example": "April 1970 · 2 weeks at No.1"
-  },
-  {
-    "id": 5,
-    "term": "Spirit In The Sky",
-    "definition": "Norman Greenbaum",
-    "example": "May 1970 · 2 weeks at No.1"
-  },
-  {
-    "id": 6,
-    "term": "Back Home",
-    "definition": "England World Cup Squad",
-    "example": "May 1970 · 3 weeks at No.1"
-  },
-  {
-    "id": 7,
-    "term": "Yellow River",
-    "definition": "Christie",
-    "example": "June 1970 · 1 week at No.1"
-  },
-  {
-    "id": 8,
-    "term": "In The Summertime",
-    "definition": "Mungo Jerry",
-    "example": "June 1970 · 7 weeks at No.1"
-  },
-  {
-    "id": 9,
-    "term": "The Wonder Of You",
-    "definition": "Elvis Presley",
-    "example": "August 1970 · 6 weeks at No.1"
-  },
-  {
-    "id": 10,
-    "term": "The Tears Of A Clown",
-    "definition": "Smokey Robinson And The Miracles",
-    "example": "September 1970 · 1 week at No.1"
-  },
-  {
-    "id": 11,
-    "term": "Band Of Gold",
-    "definition": "Freda Payne",
-    "example": "September 1970 · 6 weeks at No.1"
-  },
-  {
-    "id": 12,
-    "term": "Woodstock",
-    "definition": "Matthews Southern Comfort",
-    "example": "October 1970 · 3 weeks at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Voodoo Chile",
-    "definition": "The Jimi Hendrix Experience",
-    "example": "November 1970 · 1 week at No.1"
-  },
-  {
-    "id": 14,
-    "term": "I Hear You Knocking",
-    "definition": "Dave Edmunds",
-    "example": "November 1970 · 6 weeks at No.1"
-  },
-  {
-    "id": 15,
-    "term": "Grandad",
-    "definition": "Clive Dunn",
-    "example": "January 1971 · 3 weeks at No.1"
-  },
-  {
-    "id": 16,
-    "term": "My Sweet Lord",
-    "definition": "George Harrison",
-    "example": "January 1971 · 5 weeks at No.1"
-  },
-  {
-    "id": 17,
-    "term": "Baby Jump",
-    "definition": "Mungo Jerry",
-    "example": "March 1971 · 2 weeks at No.1"
-  },
-  {
-    "id": 18,
-    "term": "Hot Love",
-    "definition": "T. Rex",
-    "example": "March 1971 · 6 weeks at No.1"
-  },
-  {
-    "id": 19,
-    "term": "Double Barrel",
-    "definition": "Dave And Ansel Collins",
-    "example": "May 1971 · 2 weeks at No.1"
-  },
-  {
-    "id": 20,
-    "term": "Knock Three Times",
-    "definition": "Dawn",
-    "example": "May 1971 · 5 weeks at No.1"
-  },
-  {
-    "id": 21,
-    "term": "Chirpy Chirpy Cheep Cheep",
-    "definition": "Middle of the road",
-    "example": "June 1971 · 5 weeks at No.1"
-  },
-  {
-    "id": 22,
-    "term": "Get It On",
-    "definition": "T. Rex",
-    "example": "July 1971 · 4 weeks at No.1"
-  },
-  {
-    "id": 23,
-    "term": "I'm Still Waiting",
-    "definition": "Diana Ross",
-    "example": "August 1971 · 4 weeks at No.1"
-  },
-  {
-    "id": 24,
-    "term": "Hey Girl Don't Bother Me",
-    "definition": "The Tams",
-    "example": "September 1971 · 3 weeks at No.1"
-  },
-  {
-    "id": 25,
-    "term": "Maggie May / Reason To Believe",
-    "definition": "Rod Stewart",
-    "example": "October 1971 · 5 weeks at No.1"
-  },
-  {
-    "id": 26,
-    "term": "Coz I Luv You",
-    "definition": "Slade",
-    "example": "November 1971 · 4 weeks at No.1"
-  },
-  {
-    "id": 27,
-    "term": "Ernie (The Fastest Milkman In The West)",
-    "definition": "Benny Hill",
-    "example": "December 1971 · 4 weeks at No.1"
-  },
-  {
-    "id": 28,
-    "term": "I'd Like To Teach The World To Sing (In Perfect Harmony)",
-    "definition": "The New Seekers",
-    "example": "January 1972 · 4 weeks at No.1"
-  },
-  {
-    "id": 29,
-    "term": "Telegram Sam",
-    "definition": "T. Rex",
-    "example": "February 1972 · 2 weeks at No.1"
-  },
-  {
-    "id": 30,
-    "term": "Son Of My Father",
-    "definition": "Chicory Tip",
-    "example": "February 1972 · 3 weeks at No.1"
-  },
-  {
-    "id": 31,
-    "term": "Without You",
-    "definition": "Nilsson",
-    "example": "March 1972 · 5 weeks at No.1"
-  },
-  {
-    "id": 32,
-    "term": "Amazing Grace",
-    "definition": "Pipes And Drums And The Military Band Of The Royal Scots Dragoon Guard",
-    "example": "April 1972 · 5 weeks at No.1"
-  },
-  {
-    "id": 33,
-    "term": "Metal Guru",
-    "definition": "T. Rex",
-    "example": "May 1972 · 4 weeks at No.1"
-  },
-  {
-    "id": 34,
-    "term": "Vincent",
-    "definition": "Don McLean",
-    "example": "June 1972 · 2 weeks at No.1"
-  },
-  {
-    "id": 35,
-    "term": "Take Me Bak 'Ome",
-    "definition": "Slade",
-    "example": "July 1972 · 1 week at No.1"
-  },
-  {
-    "id": 36,
-    "term": "Puppy Love",
-    "definition": "Donny Osmond",
-    "example": "July 1972 · 5 weeks at No.1"
-  },
-  {
-    "id": 37,
-    "term": "School's Out",
-    "definition": "Alice Cooper",
-    "example": "August 1972 · 3 weeks at No.1"
-  },
-  {
-    "id": 38,
-    "term": "You Wear It Well",
-    "definition": "Rod Stewart",
-    "example": "September 1972 · 1 week at No.1"
-  },
-  {
-    "id": 39,
-    "term": "Mama Weer All Crazee Now",
-    "definition": "Slade",
-    "example": "September 1972 · 3 weeks at No.1"
-  },
-  {
-    "id": 40,
-    "term": "How Can I Be Sure",
-    "definition": "David Cassidy",
-    "example": "September 1972 · 2 weeks at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Mouldy Old Dough",
-    "definition": "Lieutenant Pigeon",
-    "example": "October 1972 · 4 weeks at No.1"
-  },
-  {
-    "id": 42,
-    "term": "Clair",
-    "definition": "Gilbert O'Sullivan",
-    "example": "November 1972 · 2 weeks at No.1"
-  },
-  {
-    "id": 43,
-    "term": "My Ding-A-Ling",
-    "definition": "Chuck Berry",
-    "example": "November 1972 · 4 weeks at No.1"
-  },
-  {
-    "id": 44,
-    "term": "Long Haired Lover From Liverpool",
-    "definition": "Little Jimmy Osmond",
-    "example": "December 1972 · 5 weeks at No.1"
-  },
-  {
-    "id": 45,
-    "term": "Blockbuster",
-    "definition": "The Sweet",
-    "example": "January 1973 · 5 weeks at No.1"
-  },
-  {
-    "id": 46,
-    "term": "Cum On Feel The Noize",
-    "definition": "Slade",
-    "example": "March 1973 · 4 weeks at No.1"
-  },
-  {
-    "id": 47,
-    "term": "The Twelfth Of Never",
-    "definition": "Donny Osmond",
-    "example": "March 1973 · 1 week at No.1"
-  },
-  {
-    "id": 48,
-    "term": "Get Down",
-    "definition": "Gilbert O'Sullivan",
-    "example": "April 1973 · 2 weeks at No.1"
-  },
-  {
-    "id": 49,
-    "term": "Tie A Yellow Ribbon Round The Ole Oak Tree",
-    "definition": "Dawn featuring Tony Orlando",
-    "example": "April 1973 · 4 weeks at No.1"
-  },
-  {
-    "id": 50,
-    "term": "See My Baby Jive",
-    "definition": "Wizzard",
-    "example": "May 1973 · 4 weeks at No.1"
-  },
-  {
-    "id": 51,
-    "term": "Can The Can",
-    "definition": "Suzi Quatro",
-    "example": "June 1973 · 1 week at No.1"
-  },
-  {
-    "id": 52,
-    "term": "Rubber Bullets",
-    "definition": "10cc",
-    "example": "June 1973 · 1 week at No.1"
-  },
-  {
-    "id": 53,
-    "term": "Skweeze Me Pleeze Me",
-    "definition": "Slade",
-    "example": "June 1973 · 3 weeks at No.1"
-  },
-  {
-    "id": 54,
-    "term": "Welcome Home",
-    "definition": "Peters and Lee",
-    "example": "July 1973 · 1 week at No.1"
-  },
-  {
-    "id": 55,
-    "term": "I'm the Leader of the Gang (I Am!)",
-    "definition": "Gary Glitter",
-    "example": "July 1973 · 4 weeks at No.1"
-  },
-  {
-    "id": 56,
-    "term": "Young Love",
-    "definition": "Donny Osmond",
-    "example": "August 1973 · 4 weeks at No.1"
-  },
-  {
-    "id": 57,
-    "term": "Angel Fingers",
-    "definition": "Wizzard",
-    "example": "September 1973 · 1 week at No.1"
-  },
-  {
-    "id": 58,
-    "term": "Eye Level",
-    "definition": "Simon Park Orchestra",
-    "example": "September 1973 · 4 weeks at No.1"
-  },
-  {
-    "id": 59,
-    "term": "Daydreamer / The Puppy Song",
-    "definition": "David Cassidy",
-    "example": "October 1973 · 3 weeks at No.1"
-  },
-  {
-    "id": 60,
-    "term": "I Love You Love Me Love",
-    "definition": "Gary Glitter",
-    "example": "November 1973 · 4 weeks at No.1"
-  },
-  {
-    "id": 61,
-    "term": "Merry Xmas Everybody",
-    "definition": "Slade",
-    "example": "December 1973 · 5 weeks at No.1"
-  },
-  {
-    "id": 62,
-    "term": "You Won't Find Another Fool Like Me",
-    "definition": "The New Seekers ft. Lyn Paul",
-    "example": "January 1974 · 1 week at No.1"
-  },
-  {
-    "id": 63,
-    "term": "Tiger Feet",
-    "definition": "Mud",
-    "example": "January 1974 · 4 weeks at No.1"
-  },
-  {
-    "id": 64,
-    "term": "Devil Gate Drive",
-    "definition": "Suzi Quatro",
-    "example": "February 1974 · 2 weeks at No.1"
-  },
-  {
-    "id": 65,
-    "term": "Jealous Mind",
-    "definition": "Alvin Stardust",
-    "example": "March 1974 · 1 week at No.1"
-  },
-  {
-    "id": 66,
-    "term": "Billy - Don't Be a Hero",
-    "definition": "Paper Lace",
-    "example": "March 1974 · 3 weeks at No.1"
-  },
-  {
-    "id": 67,
-    "term": "Seasons In The Sun",
-    "definition": "Terry Jacks",
-    "example": "April 1974 · 4 weeks at No.1"
-  },
-  {
-    "id": 68,
-    "term": "Waterloo",
-    "definition": "ABBA",
-    "example": "May 1974 · 2 weeks at No.1"
-  },
-  {
-    "id": 69,
-    "term": "Sugar Baby Love",
-    "definition": "The Rubettes",
-    "example": "May 1974 · 4 weeks at No.1"
-  },
-  {
-    "id": 70,
-    "term": "The Streak",
-    "definition": "Ray Stevens",
-    "example": "June 1974 · 1 week at No.1"
-  },
-  {
-    "id": 71,
-    "term": "Always Yours",
-    "definition": "Gary Glitter",
-    "example": "June 1974 · 1 week at No.1"
-  },
-  {
-    "id": 72,
-    "term": "She",
-    "definition": "Charles Aznavour",
-    "example": "June 1974 · 4 weeks at No.1"
-  },
-  {
-    "id": 73,
-    "term": "Rock Your Baby",
-    "definition": "George McCrae",
-    "example": "July 1974 · 3 weeks at No.1"
-  },
-  {
-    "id": 74,
-    "term": "When Will I See You Again",
-    "definition": "The Three Degrees",
-    "example": "August 1974 · 2 weeks at No.1"
-  },
-  {
-    "id": 75,
-    "term": "Love Me For A Reason",
-    "definition": "The Osmonds",
-    "example": "August 1974 · 3 weeks at No.1"
-  },
-  {
-    "id": 76,
-    "term": "Kung Fu Fighting",
-    "definition": "Carl Douglas",
-    "example": "September 1974 · 3 weeks at No.1"
-  },
-  {
-    "id": 77,
-    "term": "Annie's Song",
-    "definition": "John Denver",
-    "example": "October 1974 · 1 week at No.1"
-  },
-  {
-    "id": 78,
-    "term": "Sad Sweet Dreamer",
-    "definition": "Sweet Sensation",
-    "example": "October 1974 · 1 week at No.1"
-  },
-  {
-    "id": 79,
-    "term": "Everything I Own",
-    "definition": "Ken Boothe",
-    "example": "October 1974 · 3 weeks at No.1"
-  },
-  {
-    "id": 80,
-    "term": "Gonna Make You A Star",
-    "definition": "David Essex",
-    "example": "November 1974 · 3 weeks at No.1"
-  },
-  {
-    "id": 81,
-    "term": "You're The First, The Last, My Everything",
-    "definition": "Barry White",
-    "example": "December 1974 · 2 weeks at No.1"
-  },
-  {
-    "id": 82,
-    "term": "Lonely This Christmas",
-    "definition": "Mud",
-    "example": "December 1974 · 4 weeks at No.1"
-  }
-];
-window.QM_NO1S7579_DATA = [
-  {
-    "id": 1,
-    "term": "Down Down",
-    "definition": "Status Quo",
-    "example": "January 1975 · 1 week at No.1"
-  },
-  {
-    "id": 2,
-    "term": "Ms. Grace",
-    "definition": "The Tymes",
-    "example": "January 1975 · 1 week at No.1"
-  },
-  {
-    "id": 3,
-    "term": "January",
-    "definition": "Pilot",
-    "example": "February 1975 · 3 weeks at No.1"
-  },
-  {
-    "id": 4,
-    "term": "Make Me Smile (Come Up and See Me)",
-    "definition": "Steve Harley & Cockney Rebel",
-    "example": "February 1975 · 2 weeks at No.1"
-  },
-  {
-    "id": 5,
-    "term": "If",
-    "definition": "Telly Savalas",
-    "example": "March 1975 · 2 weeks at No.1"
-  },
-  {
-    "id": 6,
-    "term": "Bye Bye Baby",
-    "definition": "Bay City Rollers",
-    "example": "March 1975 · 6 weeks at No.1"
-  },
-  {
-    "id": 7,
-    "term": "Oh Boy",
-    "definition": "Mud",
-    "example": "May 1975 · 2 weeks at No.1"
-  },
-  {
-    "id": 8,
-    "term": "Stand By Your Man",
-    "definition": "Tammy Wynette",
-    "example": "May 1975 · 3 weeks at No.1"
-  },
-  {
-    "id": 9,
-    "term": "Whispering Grass",
-    "definition": "Windsor Davies And Don Estelle",
-    "example": "June 1975 · 3 weeks at No.1"
-  },
-  {
-    "id": 10,
-    "term": "I'm Not In Love",
-    "definition": "10cc",
-    "example": "June 1975 · 2 weeks at No.1"
-  },
-  {
-    "id": 11,
-    "term": "Tears On My Pillow",
-    "definition": "Johnny Nash",
-    "example": "July 1975 · 1 week at No.1"
-  },
-  {
-    "id": 12,
-    "term": "Give A Little Love",
-    "definition": "Bay City Rollers",
-    "example": "July 1975 · 3 weeks at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Barbados",
-    "definition": "Typically Tropical",
-    "example": "August 1975 · 1 week at No.1"
-  },
-  {
-    "id": 14,
-    "term": "Can't Give You Anything (But My Love)",
-    "definition": "The Stylistics",
-    "example": "August 1975 · 3 weeks at No.1"
-  },
-  {
-    "id": 15,
-    "term": "Sailing",
-    "definition": "Rod Stewart",
-    "example": "September 1975 · 4 weeks at No.1"
-  },
-  {
-    "id": 16,
-    "term": "Hold Me Close",
-    "definition": "David Essex",
-    "example": "October 1975 · 3 weeks at No.1"
-  },
-  {
-    "id": 17,
-    "term": "I Only Have Eyes For You",
-    "definition": "Art Garfunkel",
-    "example": "October 1975 · 2 weeks at No.1"
-  },
-  {
-    "id": 18,
-    "term": "Space Oddity",
-    "definition": "David Bowie",
-    "example": "November 1975 · 2 weeks at No.1"
-  },
-  {
-    "id": 19,
-    "term": "D.I.V.O.R.C.E.",
-    "definition": "Billy Connolly",
-    "example": "November 1975 · 1 week at No.1"
-  },
-  {
-    "id": 20,
-    "term": "Bohemian Rhapsody",
-    "definition": "Queen",
-    "example": "November 1975 · 9 weeks at No.1"
-  },
-  {
-    "id": 21,
-    "term": "Mamma Mia",
-    "definition": "ABBA",
-    "example": "January 1976 · 2 weeks at No.1"
-  },
-  {
-    "id": 22,
-    "term": "Forever And Ever",
-    "definition": "Slik",
-    "example": "February 1976 · 1 week at No.1"
-  },
-  {
-    "id": 23,
-    "term": "December '63 (Oh What A Night)",
-    "definition": "The Four Seasons",
-    "example": "February 1976 · 2 weeks at No.1"
-  },
-  {
-    "id": 24,
-    "term": "I Love To Love (But My Baby Loves To Dance)",
-    "definition": "Tina Charles",
-    "example": "March 1976 · 3 weeks at No.1"
-  },
-  {
-    "id": 25,
-    "term": "Save Your Kisses For Me",
-    "definition": "Brotherhood Of Man",
-    "example": "March 1976 · 6 weeks at No.1"
-  },
-  {
-    "id": 26,
-    "term": "Fernando",
-    "definition": "ABBA",
-    "example": "May 1976 · 4 weeks at No.1"
-  },
-  {
-    "id": 27,
-    "term": "No Charge",
-    "definition": "J.J. Barrie",
-    "example": "June 1976 · 1 week at No.1"
-  },
-  {
-    "id": 28,
-    "term": "Combine Harvester",
-    "definition": "The Wurzels",
-    "example": "June 1976 · 2 weeks at No.1"
-  },
-  {
-    "id": 29,
-    "term": "You To Me Are Everything",
-    "definition": "Real Thing",
-    "example": "June 1976 · 3 weeks at No.1"
-  },
-  {
-    "id": 30,
-    "term": "The Roussos Phenomenon (EP)",
-    "definition": "Demis Roussos",
-    "example": "July 1976 · 1 week at No.1"
-  },
-  {
-    "id": 31,
-    "term": "Don't Go Breaking My Heart",
-    "definition": "Elton John and Kiki Dee",
-    "example": "July 1976 · 6 weeks at No.1"
-  },
-  {
-    "id": 32,
-    "term": "Dancing Queen",
-    "definition": "ABBA",
-    "example": "September 1976 · 6 weeks at No.1"
-  },
-  {
-    "id": 33,
-    "term": "Mississippi",
-    "definition": "Pussycat",
-    "example": "October 1976 · 4 weeks at No.1"
-  },
-  {
-    "id": 34,
-    "term": "If You Leave Me Now",
-    "definition": "Chicago",
-    "example": "November 1976 · 3 weeks at No.1"
-  },
-  {
-    "id": 35,
-    "term": "Under The Moon Of Love",
-    "definition": "Showaddywaddy",
-    "example": "December 1976 · 3 weeks at No.1"
-  },
-  {
-    "id": 36,
-    "term": "When A Child Is Born (Soleado)",
-    "definition": "Johnny Mathis",
-    "example": "December 1976 · 3 weeks at No.1"
-  },
-  {
-    "id": 37,
-    "term": "Don't Give Up On Us",
-    "definition": "David Soul",
-    "example": "January 1977 · 4 weeks at No.1"
-  },
-  {
-    "id": 38,
-    "term": "Don't Cry For Me Argentina",
-    "definition": "Julie Covington",
-    "example": "February 1977 · 1 week at No.1"
-  },
-  {
-    "id": 39,
-    "term": "When I Need You",
-    "definition": "Leo Sayer",
-    "example": "February 1977 · 3 weeks at No.1"
-  },
-  {
-    "id": 40,
-    "term": "Chanson D'Amour",
-    "definition": "The Manhattan Transfer",
-    "example": "March 1977 · 3 weeks at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Knowing Me, Knowing You",
-    "definition": "ABBA",
-    "example": "April 1977 · 5 weeks at No.1"
-  },
-  {
-    "id": 42,
-    "term": "Free",
-    "definition": "Deniece Williams",
-    "example": "May 1977 · 2 weeks at No.1"
-  },
-  {
-    "id": 43,
-    "term": "I Don't Want To Talk About It / First Cut Is The Deepest",
-    "definition": "Rod Stewart",
-    "example": "May 1977 · 4 weeks at No.1"
-  },
-  {
-    "id": 44,
-    "term": "Lucille",
-    "definition": "Kenny Rogers",
-    "example": "June 1977 · 1 week at No.1"
-  },
-  {
-    "id": 45,
-    "term": "Show You The Way To Go",
-    "definition": "The Jacksons",
-    "example": "June 1977 · 1 week at No.1"
-  },
-  {
-    "id": 46,
-    "term": "So You Win Again",
-    "definition": "Hot Chocolate",
-    "example": "July 1977 · 3 weeks at No.1"
-  },
-  {
-    "id": 47,
-    "term": "I Feel Love",
-    "definition": "Donna Summer",
-    "example": "July 1977 · 4 weeks at No.1"
-  },
-  {
-    "id": 48,
-    "term": "Angelo",
-    "definition": "Brotherhood Of Man",
-    "example": "August 1977 · 1 week at No.1"
-  },
-  {
-    "id": 49,
-    "term": "Float On",
-    "definition": "The Floaters",
-    "example": "August 1977 · 1 week at No.1"
-  },
-  {
-    "id": 50,
-    "term": "Way Down",
-    "definition": "Elvis Presley",
-    "example": "September 1977 · 5 weeks at No.1"
-  },
-  {
-    "id": 51,
-    "term": "Silver Lady",
-    "definition": "David Soul",
-    "example": "October 1977 · 3 weeks at No.1"
-  },
-  {
-    "id": 52,
-    "term": "Yes Sir I Can Boogie",
-    "definition": "Baccara",
-    "example": "October 1977 · 1 week at No.1"
-  },
-  {
-    "id": 53,
-    "term": "Name Of The Game",
-    "definition": "ABBA",
-    "example": "November 1977 · 4 weeks at No.1"
-  },
-  {
-    "id": 54,
-    "term": "Mull of Kintyre / Girls' School",
-    "definition": "Wings",
-    "example": "December 1977 · 9 weeks at No.1"
-  },
-  {
-    "id": 55,
-    "term": "Uptown Top Ranking",
-    "definition": "Althia And Donna",
-    "example": "February 1978 · 1 week at No.1"
-  },
-  {
-    "id": 56,
-    "term": "Figaro",
-    "definition": "Brotherhood Of Man",
-    "example": "February 1978 · 1 week at No.1"
-  },
-  {
-    "id": 57,
-    "term": "Take A Chance On Me",
-    "definition": "ABBA",
-    "example": "February 1978 · 3 weeks at No.1"
-  },
-  {
-    "id": 58,
-    "term": "Wuthering Heights",
-    "definition": "Kate Bush",
-    "example": "March 1978 · 4 weeks at No.1"
-  },
-  {
-    "id": 59,
-    "term": "Matchstalk Men And Matchstalk Cats And Dogs",
-    "definition": "Brian And Michael",
-    "example": "April 1978 · 3 weeks at No.1"
-  },
-  {
-    "id": 60,
-    "term": "Night Fever",
-    "definition": "The Bee Gees",
-    "example": "April 1978 · 2 weeks at No.1"
-  },
-  {
-    "id": 61,
-    "term": "Rivers Of Babylon / Brown Girl In The Ring",
-    "definition": "Boney M",
-    "example": "May 1978 · 5 weeks at No.1"
-  },
-  {
-    "id": 62,
-    "term": "You're The One That I Want",
-    "definition": "John Travolta And Olivia Newton-John",
-    "example": "June 1978 · 9 weeks at No.1"
-  },
-  {
-    "id": 63,
-    "term": "Three Times A Lady",
-    "definition": "The Commodores",
-    "example": "August 1978 · 5 weeks at No.1"
-  },
-  {
-    "id": 64,
-    "term": "Dreadlock Holiday",
-    "definition": "10cc",
-    "example": "September 1978 · 1 week at No.1"
-  },
-  {
-    "id": 65,
-    "term": "Summer Nights",
-    "definition": "John Travolta And Olivia Newton-John",
-    "example": "September 1978 · 7 weeks at No.1"
-  },
-  {
-    "id": 66,
-    "term": "Rat Trap",
-    "definition": "The Boomtown Rats",
-    "example": "November 1978 · 2 weeks at No.1"
-  },
-  {
-    "id": 67,
-    "term": "Da 'Ya' Think I'm Sexy?",
-    "definition": "Rod Stewart",
-    "example": "December 1978 · 1 week at No.1"
-  },
-  {
-    "id": 68,
-    "term": "Mary's Boy Child",
-    "definition": "Boney M",
-    "example": "December 1978 · 4 weeks at No.1"
-  },
-  {
-    "id": 69,
-    "term": "Y.M.C.A.",
-    "definition": "The Village People",
-    "example": "January 1979 · 3 weeks at No.1"
-  },
-  {
-    "id": 70,
-    "term": "Hit Me With Your Rhythm Stick",
-    "definition": "Ian And The Blockheads",
-    "example": "January 1979 · 1 week at No.1"
-  },
-  {
-    "id": 71,
-    "term": "Heart Of Glass",
-    "definition": "Blondie",
-    "example": "February 1979 · 4 weeks at No.1"
-  },
-  {
-    "id": 72,
-    "term": "Tragedy",
-    "definition": "The Bee Gees",
-    "example": "March 1979 · 2 weeks at No.1"
-  },
-  {
-    "id": 73,
-    "term": "I Will Survive",
-    "definition": "Gloria Gaynor",
-    "example": "March 1979 · 4 weeks at No.1"
-  },
-  {
-    "id": 74,
-    "term": "Bright Eyes",
-    "definition": "Art Garfunkel",
-    "example": "April 1979 · 6 weeks at No.1"
-  },
-  {
-    "id": 75,
-    "term": "Sunday Girl",
-    "definition": "Blondie",
-    "example": "May 1979 · 3 weeks at No.1"
-  },
-  {
-    "id": 76,
-    "term": "Ring My Bell",
-    "definition": "Anita Ward",
-    "example": "June 1979 · 2 weeks at No.1"
-  },
-  {
-    "id": 77,
-    "term": "Are 'Friends' Electric?",
-    "definition": "Tubeway Army",
-    "example": "June 1979 · 4 weeks at No.1"
-  },
-  {
-    "id": 78,
-    "term": "I Don't Like Mondays",
-    "definition": "The Boomtown Rats",
-    "example": "July 1979 · 4 weeks at No.1"
-  },
-  {
-    "id": 79,
-    "term": "We Don't Talk Anymore",
-    "definition": "Cliff Richard",
-    "example": "August 1979 · 4 weeks at No.1"
-  },
-  {
-    "id": 80,
-    "term": "Cars",
-    "definition": "Gary Numan",
-    "example": "September 1979 · 1 week at No.1"
-  },
-  {
-    "id": 81,
-    "term": "Message In A Bottle",
-    "definition": "The Police",
-    "example": "September 1979 · 3 weeks at No.1"
-  },
-  {
-    "id": 82,
-    "term": "Video Killed The Radio Star",
-    "definition": "The Buggles",
-    "example": "October 1979 · 1 week at No.1"
-  },
-  {
-    "id": 83,
-    "term": "One Day At A Time",
-    "definition": "Lena Martell",
-    "example": "October 1979 · 3 weeks at No.1"
-  },
-  {
-    "id": 84,
-    "term": "When You're In Love With A Beautiful Woman",
-    "definition": "Dr. Hook",
-    "example": "November 1979 · 3 weeks at No.1"
-  },
-  {
-    "id": 85,
-    "term": "Walking On The Moon",
-    "definition": "The Police",
-    "example": "December 1979 · 1 week at No.1"
-  },
-  {
-    "id": 86,
-    "term": "Another Brick In The Wall (Part II)",
-    "definition": "Pink Floyd",
-    "example": "December 1979 · 5 weeks at No.1"
-  }
-];
-window.QM_NO1S8084_DATA = [
-  {
-    "id": 1,
-    "term": "Brass In Pocket",
-    "definition": "The Pretenders",
-    "example": "January 1980 · 2 weeks at No.1"
-  },
-  {
-    "id": 2,
-    "term": "Too Much Too Young (The Special AKA Live! EP)",
-    "definition": "The Specials",
-    "example": "February 1980 · 2 weeks at No.1"
-  },
-  {
-    "id": 3,
-    "term": "Coward Of The County",
-    "definition": "Kenny Rogers",
-    "example": "February 1980 · 2 weeks at No.1"
-  },
-  {
-    "id": 4,
-    "term": "Atomic",
-    "definition": "Blondie",
-    "example": "March 1980 · 2 weeks at No.1"
-  },
-  {
-    "id": 5,
-    "term": "Together We Are Beautiful",
-    "definition": "Fern Kinney",
-    "example": "March 1980 · 1 week at No.1"
-  },
-  {
-    "id": 6,
-    "term": "Going Underground / Dreams Of Children",
-    "definition": "The Jam",
-    "example": "March 1980 · 3 weeks at No.1"
-  },
-  {
-    "id": 7,
-    "term": "Working My Way Back To You / Forgive Me Girl",
-    "definition": "Detroit Spinners",
-    "example": "April 1980 · 2 weeks at No.1"
-  },
-  {
-    "id": 8,
-    "term": "Call Me",
-    "definition": "Blondie",
-    "example": "April 1980 · 1 week at No.1"
-  },
-  {
-    "id": 9,
-    "term": "Geno",
-    "definition": "Dexy's Midnight Runners",
-    "example": "May 1980 · 2 weeks at No.1"
-  },
-  {
-    "id": 10,
-    "term": "What's Another Year",
-    "definition": "Johnny Logan",
-    "example": "May 1980 · 2 weeks at No.1"
-  },
-  {
-    "id": 11,
-    "term": "Theme From M*a*s*h (Suicide Is Painless)",
-    "definition": "MASH",
-    "example": "May 1980 · 3 weeks at No.1"
-  },
-  {
-    "id": 12,
-    "term": "Crying",
-    "definition": "Don McLean",
-    "example": "June 1980 · 3 weeks at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Xanadu",
-    "definition": "Olivia Newton-John And Electric Light Orchestra",
-    "example": "July 1980 · 2 weeks at No.1"
-  },
-  {
-    "id": 14,
-    "term": "Use It Up And Wear It Out",
-    "definition": "Odyssey",
-    "example": "July 1980 · 2 weeks at No.1"
-  },
-  {
-    "id": 15,
-    "term": "The Winner Takes It All",
-    "definition": "ABBA",
-    "example": "August 1980 · 2 weeks at No.1"
-  },
-  {
-    "id": 16,
-    "term": "Ashes To Ashes",
-    "definition": "David Bowie",
-    "example": "August 1980 · 2 weeks at No.1"
-  },
-  {
-    "id": 17,
-    "term": "Start",
-    "definition": "The Jam",
-    "example": "September 1980 · 1 week at No.1"
-  },
-  {
-    "id": 18,
-    "term": "Feels Like I'm In Love",
-    "definition": "Kelly Marie",
-    "example": "September 1980 · 2 weeks at No.1"
-  },
-  {
-    "id": 19,
-    "term": "Don't Stand So Close To Me",
-    "definition": "The Police",
-    "example": "September 1980 · 4 weeks at No.1"
-  },
-  {
-    "id": 20,
-    "term": "Woman In Love",
-    "definition": "Barbra Streisand",
-    "example": "October 1980 · 3 weeks at No.1"
-  },
-  {
-    "id": 21,
-    "term": "The Tide Is High",
-    "definition": "Blondie",
-    "example": "November 1980 · 2 weeks at No.1"
-  },
-  {
-    "id": 22,
-    "term": "Super Trouper",
-    "definition": "ABBA",
-    "example": "November 1980 · 3 weeks at No.1"
-  },
-  {
-    "id": 23,
-    "term": "(Just Like) Starting Over",
-    "definition": "John Lennon",
-    "example": "December 1980 · 1 week at No.1"
-  },
-  {
-    "id": 24,
-    "term": "There's No One Quite Like Grandma",
-    "definition": "St. Winifred's School Choir",
-    "example": "December 1980 · 2 weeks at No.1"
-  },
-  {
-    "id": 25,
-    "term": "Imagine",
-    "definition": "John Lennon",
-    "example": "January 1981 · 4 weeks at No.1"
-  },
-  {
-    "id": 26,
-    "term": "Woman",
-    "definition": "John Lennon",
-    "example": "February 1981 · 2 weeks at No.1"
-  },
-  {
-    "id": 27,
-    "term": "Shaddap You Face",
-    "definition": "Joe Dolce Music Theatre",
-    "example": "February 1981 · 3 weeks at No.1"
-  },
-  {
-    "id": 28,
-    "term": "Jealous Guy",
-    "definition": "Roxy Music",
-    "example": "March 1981 · 2 weeks at No.1"
-  },
-  {
-    "id": 29,
-    "term": "This Ole House",
-    "definition": "Shakin' Stevens",
-    "example": "March 1981 · 3 weeks at No.1"
-  },
-  {
-    "id": 30,
-    "term": "Making Your Mind Up",
-    "definition": "Bucks Fizz",
-    "example": "April 1981 · 3 weeks at No.1"
-  },
-  {
-    "id": 31,
-    "term": "Stand And Deliver",
-    "definition": "Adam and the Ants",
-    "example": "May 1981 · 5 weeks at No.1"
-  },
-  {
-    "id": 32,
-    "term": "Being With You",
-    "definition": "Smokey Robinson",
-    "example": "June 1981 · 2 weeks at No.1"
-  },
-  {
-    "id": 33,
-    "term": "One Day In Your Life",
-    "definition": "Michael Jackson",
-    "example": "June 1981 · 2 weeks at No.1"
-  },
-  {
-    "id": 34,
-    "term": "Ghost Town",
-    "definition": "The Specials",
-    "example": "July 1981 · 3 weeks at No.1"
-  },
-  {
-    "id": 35,
-    "term": "Green Door",
-    "definition": "Shakin' Stevens",
-    "example": "August 1981 · 4 weeks at No.1"
-  },
-  {
-    "id": 36,
-    "term": "Japanese Boy",
-    "definition": "Aneka",
-    "example": "August 1981 · 1 week at No.1"
-  },
-  {
-    "id": 37,
-    "term": "Tainted Love",
-    "definition": "Soft Cell",
-    "example": "September 1981 · 2 weeks at No.1"
-  },
-  {
-    "id": 38,
-    "term": "Prince Charming",
-    "definition": "Adam and the Ants",
-    "example": "September 1981 · 4 weeks at No.1"
-  },
-  {
-    "id": 39,
-    "term": "It's My Party",
-    "definition": "Dave Stewart With Barbara Gaskin",
-    "example": "October 1981 · 4 weeks at No.1"
-  },
-  {
-    "id": 40,
-    "term": "Every Little Thing She Does Is Magic",
-    "definition": "The Police",
-    "example": "November 1981 · 1 week at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Under Pressure",
-    "definition": "Queen & David Bowie",
-    "example": "November 1981 · 2 weeks at No.1"
-  },
-  {
-    "id": 42,
-    "term": "Begin The Beguine (Volver A Empezar)",
-    "definition": "Julio Iglesias",
-    "example": "December 1981 · 1 week at No.1"
-  },
-  {
-    "id": 43,
-    "term": "Don't You Want Me",
-    "definition": "The Human League",
-    "example": "December 1981 · 5 weeks at No.1"
-  },
-  {
-    "id": 44,
-    "term": "The Land Of Make Believe",
-    "definition": "Bucks Fizz",
-    "example": "January 1982 · 2 weeks at No.1"
-  },
-  {
-    "id": 45,
-    "term": "Oh Julie",
-    "definition": "Shakin' Stevens",
-    "example": "January 1982 · 1 week at No.1"
-  },
-  {
-    "id": 46,
-    "term": "The Model / Computer Love",
-    "definition": "Kraftwerk",
-    "example": "February 1982 · 1 week at No.1"
-  },
-  {
-    "id": 47,
-    "term": "Town Called Malice / Precious",
-    "definition": "The Jam",
-    "example": "February 1982 · 3 weeks at No.1"
-  },
-  {
-    "id": 48,
-    "term": "The Lion Sleeps Tonight",
-    "definition": "Tight Fit",
-    "example": "March 1982 · 3 weeks at No.1"
-  },
-  {
-    "id": 49,
-    "term": "Seven Tears",
-    "definition": "Goombay Dance Band",
-    "example": "March 1982 · 3 weeks at No.1"
-  },
-  {
-    "id": 50,
-    "term": "My Camera Never Lies",
-    "definition": "Bucks Fizz",
-    "example": "April 1982 · 1 week at No.1"
-  },
-  {
-    "id": 51,
-    "term": "Ebony And Ivory",
-    "definition": "Paul McCartney And Stevie Wonder",
-    "example": "April 1982 · 3 weeks at No.1"
-  },
-  {
-    "id": 52,
-    "term": "A Little Peace",
-    "definition": "Nicole",
-    "example": "May 1982 · 2 weeks at No.1"
-  },
-  {
-    "id": 53,
-    "term": "House Of Fun",
-    "definition": "Madness",
-    "example": "May 1982 · 2 weeks at No.1"
-  },
-  {
-    "id": 54,
-    "term": "Goody Two Shoes",
-    "definition": "Adam Ant",
-    "example": "June 1982 · 2 weeks at No.1"
-  },
-  {
-    "id": 55,
-    "term": "I've Never Been To Me",
-    "definition": "Charlene",
-    "example": "June 1982 · 1 week at No.1"
-  },
-  {
-    "id": 56,
-    "term": "Happy Talk",
-    "definition": "Captain Sensible",
-    "example": "July 1982 · 2 weeks at No.1"
-  },
-  {
-    "id": 57,
-    "term": "Fame",
-    "definition": "Irene Cara",
-    "example": "July 1982 · 3 weeks at No.1"
-  },
-  {
-    "id": 58,
-    "term": "Come On Eileen",
-    "definition": "Dexy's Midnight Runners With The Emerald Express",
-    "example": "August 1982 · 4 weeks at No.1"
-  },
-  {
-    "id": 59,
-    "term": "Eye Of The Tiger",
-    "definition": "Survivor",
-    "example": "September 1982 · 4 weeks at No.1"
-  },
-  {
-    "id": 60,
-    "term": "Pass The Dutchie",
-    "definition": "Musical Youth",
-    "example": "October 1982 · 3 weeks at No.1"
-  },
-  {
-    "id": 61,
-    "term": "Do You Really Want to Hurt Me",
-    "definition": "Culture Club",
-    "example": "October 1982 · 3 weeks at No.1"
-  },
-  {
-    "id": 62,
-    "term": "I Don't Wanna Dance",
-    "definition": "Eddy Grant",
-    "example": "November 1982 · 3 weeks at No.1"
-  },
-  {
-    "id": 63,
-    "term": "Beat Surrender",
-    "definition": "The Jam",
-    "example": "December 1982 · 2 weeks at No.1"
-  },
-  {
-    "id": 64,
-    "term": "Save Your Love",
-    "definition": "Renée and Renato",
-    "example": "December 1982 · 4 weeks at No.1"
-  },
-  {
-    "id": 65,
-    "term": "You Can't Hurry Love",
-    "definition": "Phil Collins",
-    "example": "January 1983 · 2 weeks at No.1"
-  },
-  {
-    "id": 66,
-    "term": "Down Under",
-    "definition": "Men At Work",
-    "example": "January 1983 · 3 weeks at No.1"
-  },
-  {
-    "id": 67,
-    "term": "Too Shy",
-    "definition": "Kajagoogoo",
-    "example": "February 1983 · 2 weeks at No.1"
-  },
-  {
-    "id": 68,
-    "term": "Billie Jean",
-    "definition": "Michael Jackson",
-    "example": "March 1983 · 1 week at No.1"
-  },
-  {
-    "id": 69,
-    "term": "Total Eclipse Of The Heart",
-    "definition": "Bonnie Tyler",
-    "example": "March 1983 · 2 weeks at No.1"
-  },
-  {
-    "id": 70,
-    "term": "Is There Something I Should Know?",
-    "definition": "Duran Duran",
-    "example": "March 1983 · 2 weeks at No.1"
-  },
-  {
-    "id": 71,
-    "term": "Let's Dance",
-    "definition": "David Bowie",
-    "example": "April 1983 · 3 weeks at No.1"
-  },
-  {
-    "id": 72,
-    "term": "True",
-    "definition": "Spandau Ballet",
-    "example": "April 1983 · 4 weeks at No.1"
-  },
-  {
-    "id": 73,
-    "term": "Candy Girl",
-    "definition": "New Edition",
-    "example": "May 1983 · 1 week at No.1"
-  },
-  {
-    "id": 74,
-    "term": "Every Breath You Take",
-    "definition": "The Police",
-    "example": "June 1983 · 4 weeks at No.1"
-  },
-  {
-    "id": 75,
-    "term": "Baby Jane",
-    "definition": "Rod Stewart",
-    "example": "July 1983 · 3 weeks at No.1"
-  },
-  {
-    "id": 76,
-    "term": "Wherever I Lay My Hat (That's My Home)",
-    "definition": "Paul Young",
-    "example": "July 1983 · 3 weeks at No.1"
-  },
-  {
-    "id": 77,
-    "term": "Give It Up",
-    "definition": "KC And The Sunshine Band",
-    "example": "August 1983 · 3 weeks at No.1"
-  },
-  {
-    "id": 78,
-    "term": "Red Red Wine",
-    "definition": "UB40",
-    "example": "September 1983 · 3 weeks at No.1"
-  },
-  {
-    "id": 79,
-    "term": "Karma Chameleon",
-    "definition": "Culture Club",
-    "example": "September 1983 · 6 weeks at No.1"
-  },
-  {
-    "id": 80,
-    "term": "Uptown Girl",
-    "definition": "Billy Joel",
-    "example": "November 1983 · 5 weeks at No.1"
-  },
-  {
-    "id": 81,
-    "term": "Only You",
-    "definition": "The Flying Pickets",
-    "example": "December 1983 · 5 weeks at No.1"
-  },
-  {
-    "id": 82,
-    "term": "Pipes Of Peace",
-    "definition": "Paul McCartney",
-    "example": "January 1984 · 2 weeks at No.1"
-  },
-  {
-    "id": 83,
-    "term": "Relax",
-    "definition": "Frankie Goes to Hollywood",
-    "example": "January 1984 · 5 weeks at No.1"
-  },
-  {
-    "id": 84,
-    "term": "99 Red Balloons",
-    "definition": "Nena",
-    "example": "March 1984 · 3 weeks at No.1"
-  },
-  {
-    "id": 85,
-    "term": "Hello",
-    "definition": "Lionel Richie",
-    "example": "March 1984 · 6 weeks at No.1"
-  },
-  {
-    "id": 86,
-    "term": "The Reflex",
-    "definition": "Duran Duran",
-    "example": "May 1984 · 4 weeks at No.1"
-  },
-  {
-    "id": 87,
-    "term": "Wake Me Up Before You Go Go",
-    "definition": "Wham!",
-    "example": "June 1984 · 2 weeks at No.1"
-  },
-  {
-    "id": 88,
-    "term": "Two Tribes",
-    "definition": "Frankie Goes to Hollywood",
-    "example": "June 1984 · 9 weeks at No.1"
-  },
-  {
-    "id": 89,
-    "term": "Careless Whisper",
-    "definition": "George Michael",
-    "example": "August 1984 · 3 weeks at No.1"
-  },
-  {
-    "id": 90,
-    "term": "I Just Called To Say I Love You",
-    "definition": "Stevie Wonder",
-    "example": "September 1984 · 6 weeks at No.1"
-  },
-  {
-    "id": 91,
-    "term": "Freedom",
-    "definition": "Wham!",
-    "example": "October 1984 · 3 weeks at No.1"
-  },
-  {
-    "id": 92,
-    "term": "I Feel For You",
-    "definition": "Chaka Khan",
-    "example": "November 1984 · 3 weeks at No.1"
-  },
-  {
-    "id": 93,
-    "term": "I Should Have Known Better",
-    "definition": "Jim Diamond",
-    "example": "December 1984 · 1 week at No.1"
-  },
-  {
-    "id": 94,
-    "term": "The Power of Love",
-    "definition": "Frankie Goes to Hollywood",
-    "example": "December 1984 · 1 week at No.1"
-  },
-  {
-    "id": 95,
-    "term": "Do They Know It's Christmas",
-    "definition": "Band Aid",
-    "example": "December 1984 · 5 weeks at No.1"
-  }
-];
-window.QM_NO1S8589_DATA = [
-  {
-    "id": 1,
-    "term": "I Want To Know What Love Is",
-    "definition": "Foreigner",
-    "example": "January 1985 · 3 weeks at No.1"
-  },
-  {
-    "id": 2,
-    "term": "I Know Him So Well",
-    "definition": "Elaine Paige And Barbara Dickson",
-    "example": "February 1985 · 4 weeks at No.1"
-  },
-  {
-    "id": 3,
-    "term": "You Spin Me Round (Like A Record)",
-    "definition": "Dead or Alive",
-    "example": "March 1985 · 2 weeks at No.1"
-  },
-  {
-    "id": 4,
-    "term": "Easy Lover",
-    "definition": "Philip Bailey With Phil Collins",
-    "example": "March 1985 · 4 weeks at No.1"
-  },
-  {
-    "id": 5,
-    "term": "We Are the World",
-    "definition": "USA for Africa",
-    "example": "April 1985 · 2 weeks at No.1"
-  },
-  {
-    "id": 6,
-    "term": "Move Closer",
-    "definition": "Phyllis Nelson",
-    "example": "May 1985 · 1 week at No.1"
-  },
-  {
-    "id": 7,
-    "term": "19",
-    "definition": "Paul Hardcastle",
-    "example": "May 1985 · 5 weeks at No.1"
-  },
-  {
-    "id": 8,
-    "term": "You'll Never Walk Alone",
-    "definition": "The Crowd",
-    "example": "June 1985 · 2 weeks at No.1"
-  },
-  {
-    "id": 9,
-    "term": "Frankie",
-    "definition": "Sister Sledge",
-    "example": "June 1985 · 4 weeks at No.1"
-  },
-  {
-    "id": 10,
-    "term": "There Must Be An Angel (Playing With My Heart)",
-    "definition": "Eurythmics",
-    "example": "July 1985 · 1 week at No.1"
-  },
-  {
-    "id": 11,
-    "term": "Into The Groove",
-    "definition": "Madonna",
-    "example": "August 1985 · 4 weeks at No.1"
-  },
-  {
-    "id": 12,
-    "term": "I Got You Babe",
-    "definition": "UB40 featuring Chrissie Hynde",
-    "example": "August 1985 · 1 week at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Dancing in the Street",
-    "definition": "David Bowie And Mick Jagger",
-    "example": "September 1985 · 4 weeks at No.1"
-  },
-  {
-    "id": 14,
-    "term": "If I Was",
-    "definition": "Midge Ure",
-    "example": "October 1985 · 1 week at No.1"
-  },
-  {
-    "id": 15,
-    "term": "The Power of Love",
-    "definition": "Jennifer Rush",
-    "example": "October 1985 · 5 weeks at No.1"
-  },
-  {
-    "id": 16,
-    "term": "A Good Heart",
-    "definition": "Feargal Sharkey",
-    "example": "November 1985 · 2 weeks at No.1"
-  },
-  {
-    "id": 17,
-    "term": "I'm Your Man",
-    "definition": "Wham!",
-    "example": "November 1985 · 2 weeks at No.1"
-  },
-  {
-    "id": 18,
-    "term": "Saving All My Love For You",
-    "definition": "Whitney Houston",
-    "example": "December 1985 · 2 weeks at No.1"
-  },
-  {
-    "id": 19,
-    "term": "Merry Christmas Everyone",
-    "definition": "Shakin' Stevens",
-    "example": "December 1985 · 2 weeks at No.1"
-  },
-  {
-    "id": 20,
-    "term": "West End Girls",
-    "definition": "Pet Shop Boys",
-    "example": "January 1986 · 2 weeks at No.1"
-  },
-  {
-    "id": 21,
-    "term": "The Sun Always Shines On TV",
-    "definition": "A-ha",
-    "example": "January 1986 · 2 weeks at No.1"
-  },
-  {
-    "id": 22,
-    "term": "When the Going Gets Tough, the Tough Get Going",
-    "definition": "Billy Ocean",
-    "example": "February 1986 · 4 weeks at No.1"
-  },
-  {
-    "id": 23,
-    "term": "Chain Reaction",
-    "definition": "Diana Ross",
-    "example": "March 1986 · 3 weeks at No.1"
-  },
-  {
-    "id": 24,
-    "term": "Living Doll",
-    "definition": "Cliff Richard And The Young Ones",
-    "example": "March 1986 · 3 weeks at No.1"
-  },
-  {
-    "id": 25,
-    "term": "A Different Corner",
-    "definition": "George Michael",
-    "example": "April 1986 · 3 weeks at No.1"
-  },
-  {
-    "id": 26,
-    "term": "Rock Me Amadeus",
-    "definition": "Falco",
-    "example": "May 1986 · 1 week at No.1"
-  },
-  {
-    "id": 27,
-    "term": "The Chicken Song",
-    "definition": "Spitting Image",
-    "example": "May 1986 · 3 weeks at No.1"
-  },
-  {
-    "id": 28,
-    "term": "Spirit In The Sky",
-    "definition": "Doctor And The Medics",
-    "example": "June 1986 · 3 weeks at No.1"
-  },
-  {
-    "id": 29,
-    "term": "The Edge Of Heaven",
-    "definition": "Wham!",
-    "example": "June 1986 · 2 weeks at No.1"
-  },
-  {
-    "id": 30,
-    "term": "Papa Don't Preach",
-    "definition": "Madonna",
-    "example": "July 1986 · 3 weeks at No.1"
-  },
-  {
-    "id": 31,
-    "term": "The Lady In Red",
-    "definition": "Chris De Burgh",
-    "example": "August 1986 · 3 weeks at No.1"
-  },
-  {
-    "id": 32,
-    "term": "I Want To Wake Up With You",
-    "definition": "Boris Gardiner",
-    "example": "August 1986 · 3 weeks at No.1"
-  },
-  {
-    "id": 33,
-    "term": "Don't Leave Me This Way",
-    "definition": "The Communards",
-    "example": "September 1986 · 4 weeks at No.1"
-  },
-  {
-    "id": 34,
-    "term": "True Blue",
-    "definition": "Madonna",
-    "example": "October 1986 · 1 week at No.1"
-  },
-  {
-    "id": 35,
-    "term": "Every Loser Wins",
-    "definition": "Nick Berry",
-    "example": "October 1986 · 3 weeks at No.1"
-  },
-  {
-    "id": 36,
-    "term": "Take My Breath Away (Love Theme From 'Top Gun')",
-    "definition": "Berlin",
-    "example": "November 1986 · 4 weeks at No.1"
-  },
-  {
-    "id": 37,
-    "term": "The Final Countdown",
-    "definition": "Europe",
-    "example": "December 1986 · 2 weeks at No.1"
-  },
-  {
-    "id": 38,
-    "term": "Caravan Of Love",
-    "definition": "The Housemartins",
-    "example": "December 1986 · 1 week at No.1"
-  },
-  {
-    "id": 39,
-    "term": "Reet Petite",
-    "definition": "Jackie Wilson",
-    "example": "December 1986 · 3 weeks at No.1"
-  },
-  {
-    "id": 40,
-    "term": "Reet Petite (The Sweetest Girl In Town)",
-    "definition": "Jackie Wilson",
-    "example": "January 1987 · 1 week at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Jack Your Body",
-    "definition": "Steve 'Silk' Hurley",
-    "example": "January 1987 · 2 weeks at No.1"
-  },
-  {
-    "id": 42,
-    "term": "I Knew You Were Waiting (For Me)",
-    "definition": "George Michael And Aretha Franklin",
-    "example": "February 1987 · 2 weeks at No.1"
-  },
-  {
-    "id": 43,
-    "term": "Stand By Me",
-    "definition": "Ben E King",
-    "example": "February 1987 · 3 weeks at No.1"
-  },
-  {
-    "id": 44,
-    "term": "Everything I Own",
-    "definition": "Boy George",
-    "example": "March 1987 · 2 weeks at No.1"
-  },
-  {
-    "id": 45,
-    "term": "Respectable",
-    "definition": "Mel And Kim",
-    "example": "March 1987 · 1 week at No.1"
-  },
-  {
-    "id": 46,
-    "term": "Let It Be",
-    "definition": "Ferry Aid",
-    "example": "April 1987 · 3 weeks at No.1"
-  },
-  {
-    "id": 47,
-    "term": "La Isla Bonita",
-    "definition": "Madonna",
-    "example": "April 1987 · 2 weeks at No.1"
-  },
-  {
-    "id": 48,
-    "term": "Nothing's Gonna Stop Us Now",
-    "definition": "Starship",
-    "example": "May 1987 · 4 weeks at No.1"
-  },
-  {
-    "id": 49,
-    "term": "I Wanna Dance With Somebody (Who Loves Me)",
-    "definition": "Whitney Houston",
-    "example": "June 1987 · 2 weeks at No.1"
-  },
-  {
-    "id": 50,
-    "term": "Star Trekkin'",
-    "definition": "The Firm",
-    "example": "June 1987 · 2 weeks at No.1"
-  },
-  {
-    "id": 51,
-    "term": "It's A Sin",
-    "definition": "Pet Shop Boys",
-    "example": "July 1987 · 3 weeks at No.1"
-  },
-  {
-    "id": 52,
-    "term": "Who's That Girl",
-    "definition": "Madonna",
-    "example": "July 1987 · 1 week at No.1"
-  },
-  {
-    "id": 53,
-    "term": "La Bamba",
-    "definition": "Los Lobos",
-    "example": "August 1987 · 2 weeks at No.1"
-  },
-  {
-    "id": 54,
-    "term": "I Just Can't Stop Loving You",
-    "definition": "Michael Jackson With Siedah Garrett",
-    "example": "August 1987 · 2 weeks at No.1"
-  },
-  {
-    "id": 55,
-    "term": "Never Gonna Give You Up",
-    "definition": "Rick Astley",
-    "example": "August 1987 · 5 weeks at No.1"
-  },
-  {
-    "id": 56,
-    "term": "Pump Up The Volume / Anitina (The First Time I See She Dance)",
-    "definition": "M/A/R/R/S",
-    "example": "October 1987 · 2 weeks at No.1"
-  },
-  {
-    "id": 57,
-    "term": "You Win Again",
-    "definition": "The Bee Gees",
-    "example": "October 1987 · 4 weeks at No.1"
-  },
-  {
-    "id": 58,
-    "term": "China in Your Hand",
-    "definition": "T'Pau",
-    "example": "November 1987 · 5 weeks at No.1"
-  },
-  {
-    "id": 59,
-    "term": "Always On My Mind",
-    "definition": "Pet Shop Boys",
-    "example": "December 1987 · 4 weeks at No.1"
-  },
-  {
-    "id": 60,
-    "term": "Heaven Is A Place On Earth",
-    "definition": "Belinda Carlisle",
-    "example": "January 1988 · 2 weeks at No.1"
-  },
-  {
-    "id": 61,
-    "term": "I Think We're Alone Now",
-    "definition": "Tiffany",
-    "example": "January 1988 · 3 weeks at No.1"
-  },
-  {
-    "id": 62,
-    "term": "I Should Be So Lucky",
-    "definition": "Kylie Minogue",
-    "example": "February 1988 · 5 weeks at No.1"
-  },
-  {
-    "id": 63,
-    "term": "Don't Turn Around",
-    "definition": "Aswad",
-    "example": "March 1988 · 2 weeks at No.1"
-  },
-  {
-    "id": 64,
-    "term": "Heart",
-    "definition": "Pet Shop Boys",
-    "example": "April 1988 · 3 weeks at No.1"
-  },
-  {
-    "id": 65,
-    "term": "Theme From S-Express",
-    "definition": "S-Express",
-    "example": "April 1988 · 2 weeks at No.1"
-  },
-  {
-    "id": 66,
-    "term": "Perfect",
-    "definition": "Fairground Attraction",
-    "example": "May 1988 · 1 week at No.1"
-  },
-  {
-    "id": 67,
-    "term": "With A Little Help From My Friends / She's Leaving Home",
-    "definition": "Wet Wet Wet / Billy Bragg With Cara Tivey",
-    "example": "May 1988 · 4 weeks at No.1"
-  },
-  {
-    "id": 68,
-    "term": "Doctorin' The Tardis",
-    "definition": "Timelords",
-    "example": "June 1988 · 1 week at No.1"
-  },
-  {
-    "id": 69,
-    "term": "I Owe You Nothing",
-    "definition": "Bros",
-    "example": "June 1988 · 2 weeks at No.1"
-  },
-  {
-    "id": 70,
-    "term": "Nothing's Gonna Change My Love For You",
-    "definition": "Glenn Medeiros",
-    "example": "July 1988 · 4 weeks at No.1"
-  },
-  {
-    "id": 71,
-    "term": "The Only Way Is Up",
-    "definition": "Yazz And The Plastic Population",
-    "example": "August 1988 · 5 weeks at No.1"
-  },
-  {
-    "id": 72,
-    "term": "A Groovy Kind Of Love",
-    "definition": "Phil Collins",
-    "example": "September 1988 · 2 weeks at No.1"
-  },
-  {
-    "id": 73,
-    "term": "He Ain't Heavy, He's My Brother",
-    "definition": "The Hollies",
-    "example": "September 1988 · 2 weeks at No.1"
-  },
-  {
-    "id": 74,
-    "term": "Desire",
-    "definition": "U2",
-    "example": "October 1988 · 1 week at No.1"
-  },
-  {
-    "id": 75,
-    "term": "One Moment In Time",
-    "definition": "Whitney Houston",
-    "example": "October 1988 · 2 weeks at No.1"
-  },
-  {
-    "id": 76,
-    "term": "Orinoco Flow",
-    "definition": "Enya",
-    "example": "October 1988 · 3 weeks at No.1"
-  },
-  {
-    "id": 77,
-    "term": "First Time",
-    "definition": "Robin Beck",
-    "example": "November 1988 · 3 weeks at No.1"
-  },
-  {
-    "id": 78,
-    "term": "Mistletoe and Wine",
-    "definition": "Cliff Richard",
-    "example": "December 1988 · 4 weeks at No.1"
-  },
-  {
-    "id": 79,
-    "term": "Especially for You",
-    "definition": "Kylie and Jason",
-    "example": "January 1989 · 3 weeks at No.1"
-  },
-  {
-    "id": 80,
-    "term": "Something's Gotten Hold Of My Heart",
-    "definition": "Marc Almond featuring Gene Pitney",
-    "example": "January 1989 · 4 weeks at No.1"
-  },
-  {
-    "id": 81,
-    "term": "Belfast Child",
-    "definition": "Simple Minds",
-    "example": "February 1989 · 2 weeks at No.1"
-  },
-  {
-    "id": 82,
-    "term": "Too Many Broken Hearts",
-    "definition": "Jason Donovan",
-    "example": "March 1989 · 2 weeks at No.1"
-  },
-  {
-    "id": 83,
-    "term": "Like A Prayer",
-    "definition": "Madonna",
-    "example": "March 1989 · 3 weeks at No.1"
-  },
-  {
-    "id": 84,
-    "term": "Eternal Flame",
-    "definition": "The Bangles",
-    "example": "April 1989 · 4 weeks at No.1"
-  },
-  {
-    "id": 85,
-    "term": "Hand On Your Heart",
-    "definition": "Kylie Minogue",
-    "example": "May 1989 · 1 week at No.1"
-  },
-  {
-    "id": 86,
-    "term": "Ferry Cross the Mersey",
-    "definition": "Gerry Marsden, Paul McCartney, Holly Johnson and the Christians",
-    "example": "May 1989 · 3 weeks at No.1"
-  },
-  {
-    "id": 87,
-    "term": "Sealed With A Kiss",
-    "definition": "Jason Donovan",
-    "example": "June 1989 · 2 weeks at No.1"
-  },
-  {
-    "id": 88,
-    "term": "Back To Life (However Do You Want Me)",
-    "definition": "Soul II Soul",
-    "example": "June 1989 · 4 weeks at No.1"
-  },
-  {
-    "id": 89,
-    "term": "You'll Never Stop Me Loving You",
-    "definition": "Sonia",
-    "example": "July 1989 · 2 weeks at No.1"
-  },
-  {
-    "id": 90,
-    "term": "Swing The Mood",
-    "definition": "Jive Bunny And The Mastermixers",
-    "example": "August 1989 · 5 weeks at No.1"
-  },
-  {
-    "id": 91,
-    "term": "Ride On Time",
-    "definition": "Black Box",
-    "example": "September 1989 · 6 weeks at No.1"
-  },
-  {
-    "id": 92,
-    "term": "That's What I Like",
-    "definition": "Jive Bunny And The Mastermixers",
-    "example": "October 1989 · 3 weeks at No.1"
-  },
-  {
-    "id": 93,
-    "term": "All Around The World",
-    "definition": "Lisa Stansfield",
-    "example": "November 1989 · 2 weeks at No.1"
-  },
-  {
-    "id": 94,
-    "term": "You Got It (The Right Stuff)",
-    "definition": "New Kids on the Block",
-    "example": "November 1989 · 3 weeks at No.1"
-  },
-  {
-    "id": 95,
-    "term": "Let's Party",
-    "definition": "Jive Bunny And The Mastermixers",
-    "example": "December 1989 · 1 week at No.1"
-  },
-  {
-    "id": 96,
-    "term": "Do They Know It's Christmas?",
-    "definition": "Band Aid II",
-    "example": "December 1989 · 3 weeks at No.1"
-  }
-];
-window.QM_NO1S9095_DATA = [
-  {
-    "id": 1,
-    "term": "Hangin' Tough",
-    "definition": "New Kids on the Block",
-    "example": "January 1990 · 2 weeks at No.1"
-  },
-  {
-    "id": 2,
-    "term": "Tears On My Pillow",
-    "definition": "Kylie Minogue",
-    "example": "January 1990 · 1 week at No.1"
-  },
-  {
-    "id": 3,
-    "term": "Nothing Compares 2 U",
-    "definition": "Sinead O'Connor",
-    "example": "February 1990 · 4 weeks at No.1"
-  },
-  {
-    "id": 4,
-    "term": "Dub Be Good To Me",
-    "definition": "Beats International featuring Lindy Layton",
-    "example": "March 1990 · 4 weeks at No.1"
-  },
-  {
-    "id": 5,
-    "term": "The Power",
-    "definition": "Snap!",
-    "example": "March 1990 · 2 weeks at No.1"
-  },
-  {
-    "id": 6,
-    "term": "Vogue",
-    "definition": "Madonna",
-    "example": "April 1990 · 4 weeks at No.1"
-  },
-  {
-    "id": 7,
-    "term": "Killer",
-    "definition": "Adamski",
-    "example": "May 1990 · 4 weeks at No.1"
-  },
-  {
-    "id": 8,
-    "term": "World in Motion...",
-    "definition": "Englandneworder",
-    "example": "June 1990 · 2 weeks at No.1"
-  },
-  {
-    "id": 9,
-    "term": "Sacrifice / Healing Hands",
-    "definition": "Elton John",
-    "example": "June 1990 · 5 weeks at No.1"
-  },
-  {
-    "id": 10,
-    "term": "Turtle Power",
-    "definition": "Partners In Kryme",
-    "example": "July 1990 · 4 weeks at No.1"
-  },
-  {
-    "id": 11,
-    "term": "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini",
-    "definition": "Bombalurina",
-    "example": "August 1990 · 3 weeks at No.1"
-  },
-  {
-    "id": 12,
-    "term": "The Joker",
-    "definition": "The Steve Miller Band",
-    "example": "September 1990 · 2 weeks at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Show Me Heaven",
-    "definition": "Maria McKee",
-    "example": "September 1990 · 4 weeks at No.1"
-  },
-  {
-    "id": 14,
-    "term": "A Little Time",
-    "definition": "The Beautiful South",
-    "example": "October 1990 · 1 week at No.1"
-  },
-  {
-    "id": 15,
-    "term": "Unchained Melody",
-    "definition": "The Righteous Brothers",
-    "example": "November 1990 · 4 weeks at No.1"
-  },
-  {
-    "id": 16,
-    "term": "Ice Ice Baby",
-    "definition": "Vanilla Ice",
-    "example": "December 1990 · 4 weeks at No.1"
-  },
-  {
-    "id": 17,
-    "term": "Saviour's Day",
-    "definition": "Cliff Richard",
-    "example": "December 1990 · 1 week at No.1"
-  },
-  {
-    "id": 18,
-    "term": "Bring Your Daughter... To The Slaughter",
-    "definition": "Iron Maiden",
-    "example": "January 1991 · 2 weeks at No.1"
-  },
-  {
-    "id": 19,
-    "term": "Sadeness Part 1",
-    "definition": "Enigma",
-    "example": "January 1991 · 1 week at No.1"
-  },
-  {
-    "id": 20,
-    "term": "Innuendo",
-    "definition": "Queen",
-    "example": "January 1991 · 1 week at No.1"
-  },
-  {
-    "id": 21,
-    "term": "3AM Eternal",
-    "definition": "KLF featuring The Children Of The Revolution",
-    "example": "February 1991 · 2 weeks at No.1"
-  },
-  {
-    "id": 22,
-    "term": "Do The Bartman",
-    "definition": "Simpsons",
-    "example": "February 1991 · 3 weeks at No.1"
-  },
-  {
-    "id": 23,
-    "term": "Should I Stay Or Should I Go",
-    "definition": "The Clash",
-    "example": "March 1991 · 2 weeks at No.1"
-  },
-  {
-    "id": 24,
-    "term": "The Stonk",
-    "definition": "Hale And Pace And The Stonkers",
-    "example": "March 1991 · 1 week at No.1"
-  },
-  {
-    "id": 25,
-    "term": "The One And Only",
-    "definition": "Chesney Hawkes",
-    "example": "March 1991 · 5 weeks at No.1"
-  },
-  {
-    "id": 26,
-    "term": "The Shoop Shoop Song (It's In His Kiss)",
-    "definition": "Cher",
-    "example": "May 1991 · 5 weeks at No.1"
-  },
-  {
-    "id": 27,
-    "term": "I Wanna Sex You Up",
-    "definition": "Color Me Badd",
-    "example": "June 1991 · 3 weeks at No.1"
-  },
-  {
-    "id": 28,
-    "term": "Any Dream Will Do",
-    "definition": "Jason Donovan",
-    "example": "June 1991 · 2 weeks at No.1"
-  },
-  {
-    "id": 29,
-    "term": "(Everything I Do) I Do It For You",
-    "definition": "Bryan Adams",
-    "example": "July 1991 · 16 weeks at No.1"
-  },
-  {
-    "id": 30,
-    "term": "The Fly",
-    "definition": "U2",
-    "example": "November 1991 · 1 week at No.1"
-  },
-  {
-    "id": 31,
-    "term": "Dizzy",
-    "definition": "Vic Reeves And The Wonder Stuff",
-    "example": "November 1991 · 2 weeks at No.1"
-  },
-  {
-    "id": 32,
-    "term": "Black Or White",
-    "definition": "Michael Jackson",
-    "example": "November 1991 · 2 weeks at No.1"
-  },
-  {
-    "id": 33,
-    "term": "Don't Let The Sun Go Down On Me",
-    "definition": "George Michael And Elton John",
-    "example": "December 1991 · 2 weeks at No.1"
-  },
-  {
-    "id": 34,
-    "term": "Bohemian Rhapsody / These Are The Days Of Our Lives",
-    "definition": "Queen",
-    "example": "December 1991 · 5 weeks at No.1"
-  },
-  {
-    "id": 35,
-    "term": "Goodnight Girl",
-    "definition": "Wet Wet Wet",
-    "example": "January 1992 · 4 weeks at No.1"
-  },
-  {
-    "id": 36,
-    "term": "Stay",
-    "definition": "Shakespears Sister",
-    "example": "February 1992 · 8 weeks at No.1"
-  },
-  {
-    "id": 37,
-    "term": "Deeply Dippy",
-    "definition": "Right Said Fred",
-    "example": "April 1992 · 3 weeks at No.1"
-  },
-  {
-    "id": 38,
-    "term": "Please Don't Go / Game Boy",
-    "definition": "KWS",
-    "example": "May 1992 · 5 weeks at No.1"
-  },
-  {
-    "id": 39,
-    "term": "Abba-esque (EP)",
-    "definition": "Erasure",
-    "example": "June 1992 · 5 weeks at No.1"
-  },
-  {
-    "id": 40,
-    "term": "Ain't No Doubt",
-    "definition": "Jimmy Nail",
-    "example": "July 1992 · 3 weeks at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Rhythm Is A Dancer",
-    "definition": "Snap!",
-    "example": "August 1992 · 6 weeks at No.1"
-  },
-  {
-    "id": 42,
-    "term": "Ebeneezer Goode",
-    "definition": "The Shamen",
-    "example": "September 1992 · 4 weeks at No.1"
-  },
-  {
-    "id": 43,
-    "term": "Sleeping Satellite",
-    "definition": "Tasmin Archer",
-    "example": "October 1992 · 2 weeks at No.1"
-  },
-  {
-    "id": 44,
-    "term": "End Of The Road",
-    "definition": "Boyz II Men",
-    "example": "October 1992 · 3 weeks at No.1"
-  },
-  {
-    "id": 45,
-    "term": "Would I Lie to You",
-    "definition": "Charles & Eddie",
-    "example": "November 1992 · 2 weeks at No.1"
-  },
-  {
-    "id": 46,
-    "term": "I Will Always Love You",
-    "definition": "Whitney Houston",
-    "example": "December 1992 · 10 weeks at No.1"
-  },
-  {
-    "id": 47,
-    "term": "No Limit",
-    "definition": "2 Unlimited",
-    "example": "February 1993 · 5 weeks at No.1"
-  },
-  {
-    "id": 48,
-    "term": "Oh Carolina",
-    "definition": "Shaggy",
-    "example": "March 1993 · 2 weeks at No.1"
-  },
-  {
-    "id": 49,
-    "term": "Young At Heart",
-    "definition": "The Bluebells",
-    "example": "April 1993 · 4 weeks at No.1"
-  },
-  {
-    "id": 50,
-    "term": "Five Live (EP)",
-    "definition": "George Michael And Queen With Lisa Stansfield",
-    "example": "May 1993 · 3 weeks at No.1"
-  },
-  {
-    "id": 51,
-    "term": "All That She Wants",
-    "definition": "Ace of Base",
-    "example": "May 1993 · 3 weeks at No.1"
-  },
-  {
-    "id": 52,
-    "term": "(I Can't Help) Falling In Love With You",
-    "definition": "UB40",
-    "example": "June 1993 · 2 weeks at No.1"
-  },
-  {
-    "id": 53,
-    "term": "Dreams",
-    "definition": "Gabrielle",
-    "example": "June 1993 · 3 weeks at No.1"
-  },
-  {
-    "id": 54,
-    "term": "Pray",
-    "definition": "Take That",
-    "example": "July 1993 · 4 weeks at No.1"
-  },
-  {
-    "id": 55,
-    "term": "Living On My Own",
-    "definition": "Freddie Mercury",
-    "example": "August 1993 · 2 weeks at No.1"
-  },
-  {
-    "id": 56,
-    "term": "Mr. Vain",
-    "definition": "Culture Beat",
-    "example": "August 1993 · 4 weeks at No.1"
-  },
-  {
-    "id": 57,
-    "term": "Boom! Shake The Room",
-    "definition": "DJ Jazzy Jeff & the Fresh Prince",
-    "example": "September 1993 · 2 weeks at No.1"
-  },
-  {
-    "id": 58,
-    "term": "Relight My Fire",
-    "definition": "Take That featuring Lulu",
-    "example": "October 1993 · 2 weeks at No.1"
-  },
-  {
-    "id": 59,
-    "term": "I'd Do Anything for Love (But I Won't Do That)",
-    "definition": "Meat Loaf",
-    "example": "October 1993 · 7 weeks at No.1"
-  },
-  {
-    "id": 60,
-    "term": "Mr. Blobby",
-    "definition": "Mr Blobby",
-    "example": "December 1993 · 3 weeks at No.1"
-  },
-  {
-    "id": 61,
-    "term": "Babe",
-    "definition": "Take That",
-    "example": "December 1993 · 1 week at No.1"
-  },
-  {
-    "id": 62,
-    "term": "Twist and Shout",
-    "definition": "Chaka Demus & Pliers featuring Jack Radics and Taxi Gang",
-    "example": "January 1994 · 2 weeks at No.1"
-  },
-  {
-    "id": 63,
-    "term": "Things Can Only Get Better",
-    "definition": "D:Ream",
-    "example": "January 1994 · 4 weeks at No.1"
-  },
-  {
-    "id": 64,
-    "term": "Without You",
-    "definition": "Mariah Carey",
-    "example": "February 1994 · 4 weeks at No.1"
-  },
-  {
-    "id": 65,
-    "term": "Doop",
-    "definition": "Doop",
-    "example": "March 1994 · 3 weeks at No.1"
-  },
-  {
-    "id": 66,
-    "term": "Everything Changes",
-    "definition": "Take That",
-    "example": "April 1994 · 2 weeks at No.1"
-  },
-  {
-    "id": 67,
-    "term": "The Most Beautiful Girl In The World",
-    "definition": "Prince",
-    "example": "April 1994 · 2 weeks at No.1"
-  },
-  {
-    "id": 68,
-    "term": "The Real Thing",
-    "definition": "Tony Di Bart",
-    "example": "May 1994 · 1 week at No.1"
-  },
-  {
-    "id": 69,
-    "term": "Inside",
-    "definition": "Stiltskin",
-    "example": "May 1994 · 1 week at No.1"
-  },
-  {
-    "id": 70,
-    "term": "Come On You Reds",
-    "definition": "Manchester Utd Football Squad",
-    "example": "May 1994 · 2 weeks at No.1"
-  },
-  {
-    "id": 71,
-    "term": "Love Is All Around",
-    "definition": "Wet Wet Wet",
-    "example": "June 1994 · 15 weeks at No.1"
-  },
-  {
-    "id": 72,
-    "term": "Saturday Night",
-    "definition": "Whigfield",
-    "example": "September 1994 · 4 weeks at No.1"
-  },
-  {
-    "id": 73,
-    "term": "Sure",
-    "definition": "Take That",
-    "example": "October 1994 · 2 weeks at No.1"
-  },
-  {
-    "id": 74,
-    "term": "Baby Come Back",
-    "definition": "Pato Banton",
-    "example": "October 1994 · 4 weeks at No.1"
-  },
-  {
-    "id": 75,
-    "term": "Let Me Be Your Fantasy",
-    "definition": "Baby D",
-    "example": "November 1994 · 2 weeks at No.1"
-  },
-  {
-    "id": 76,
-    "term": "Stay Another Day",
-    "definition": "East 17",
-    "example": "December 1994 · 5 weeks at No.1"
-  },
-  {
-    "id": 77,
-    "term": "Cotton Eye Joe",
-    "definition": "Rednex",
-    "example": "January 1995 · 3 weeks at No.1"
-  },
-  {
-    "id": 78,
-    "term": "Think Twice",
-    "definition": "Celine Dion",
-    "example": "February 1995 · 7 weeks at No.1"
-  },
-  {
-    "id": 79,
-    "term": "Love Can Build A Bridge",
-    "definition": "Cher, Chrissie Hynde & Neneh Cherry With Eric Clapton",
-    "example": "March 1995 · 1 week at No.1"
-  },
-  {
-    "id": 80,
-    "term": "Don't Stop (Wiggle Wiggle)",
-    "definition": "The Outhere Brothers",
-    "example": "April 1995 · 1 week at No.1"
-  },
-  {
-    "id": 81,
-    "term": "Back For Good",
-    "definition": "Take That",
-    "example": "April 1995 · 4 weeks at No.1"
-  },
-  {
-    "id": 82,
-    "term": "Some Might Say",
-    "definition": "Oasis",
-    "example": "May 1995 · 1 week at No.1"
-  },
-  {
-    "id": 83,
-    "term": "Dreamer",
-    "definition": "Livin' Joy",
-    "example": "May 1995 · 1 week at No.1"
-  },
-  {
-    "id": 84,
-    "term": "Unchained Melody / White Cliffs Of Dover",
-    "definition": "Robson & Jerome",
-    "example": "May 1995 · 7 weeks at No.1"
-  },
-  {
-    "id": 85,
-    "term": "Boom Boom Boom",
-    "definition": "The Outhere Brothers",
-    "example": "July 1995 · 4 weeks at No.1"
-  },
-  {
-    "id": 86,
-    "term": "Never Forget",
-    "definition": "Take That",
-    "example": "August 1995 · 3 weeks at No.1"
-  },
-  {
-    "id": 87,
-    "term": "Country House",
-    "definition": "Blur",
-    "example": "August 1995 · 2 weeks at No.1"
-  },
-  {
-    "id": 88,
-    "term": "You Are Not Alone",
-    "definition": "Michael Jackson",
-    "example": "September 1995 · 2 weeks at No.1"
-  },
-  {
-    "id": 89,
-    "term": "Boombastic",
-    "definition": "Shaggy",
-    "example": "September 1995 · 1 week at No.1"
-  },
-  {
-    "id": 90,
-    "term": "Fairground",
-    "definition": "Simply Red",
-    "example": "September 1995 · 4 weeks at No.1"
-  },
-  {
-    "id": 91,
-    "term": "Gangsta's Paradise",
-    "definition": "Coolio feat. L.V.",
-    "example": "October 1995 · 2 weeks at No.1"
-  },
-  {
-    "id": 92,
-    "term": "I Believe / Up On The Roof",
-    "definition": "Robson & Jerome",
-    "example": "November 1995 · 4 weeks at No.1"
-  },
-  {
-    "id": 93,
-    "term": "Earth Song",
-    "definition": "Michael Jackson",
-    "example": "December 1995 · 6 weeks at No.1"
-  }
-];
-window.QM_NO1S9699_DATA = [
-  {
-    "id": 1,
-    "term": "Jesus To A Child",
-    "definition": "George Michael",
-    "example": "January 1996 · 1 week at No.1"
-  },
-  {
-    "id": 2,
-    "term": "Spaceman",
-    "definition": "Babylon Zoo",
-    "example": "January 1996 · 5 weeks at No.1"
-  },
-  {
-    "id": 3,
-    "term": "Don't Look Back in Anger",
-    "definition": "Oasis",
-    "example": "March 1996 · 1 week at No.1"
-  },
-  {
-    "id": 4,
-    "term": "How Deep Is Your Love",
-    "definition": "Take That",
-    "example": "March 1996 · 3 weeks at No.1"
-  },
-  {
-    "id": 5,
-    "term": "Firestarter",
-    "definition": "The Prodigy",
-    "example": "March 1996 · 3 weeks at No.1"
-  },
-  {
-    "id": 6,
-    "term": "Return Of The Mack",
-    "definition": "Mark Morrison",
-    "example": "April 1996 · 2 weeks at No.1"
-  },
-  {
-    "id": 7,
-    "term": "Fastlove",
-    "definition": "George Michael",
-    "example": "May 1996 · 3 weeks at No.1"
-  },
-  {
-    "id": 8,
-    "term": "Ooh Aah...just a Little Bit",
-    "definition": "Gina G",
-    "example": "May 1996 · 1 week at No.1"
-  },
-  {
-    "id": 9,
-    "term": "Three Lions",
-    "definition": "Baddiel & Skinner & Lightning Seeds",
-    "example": "June 1996 · 2 weeks at No.1"
-  },
-  {
-    "id": 10,
-    "term": "Killing Me Softly",
-    "definition": "Fugees",
-    "example": "June 1996 · 5 weeks at No.1"
-  },
-  {
-    "id": 11,
-    "term": "Forever Love",
-    "definition": "Gary Barlow",
-    "example": "July 1996 · 1 week at No.1"
-  },
-  {
-    "id": 12,
-    "term": "Wannabe",
-    "definition": "Spice Girls",
-    "example": "July 1996 · 7 weeks at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Flava",
-    "definition": "Peter Andre",
-    "example": "September 1996 · 1 week at No.1"
-  },
-  {
-    "id": 14,
-    "term": "Ready Or Not",
-    "definition": "Fugees",
-    "example": "September 1996 · 2 weeks at No.1"
-  },
-  {
-    "id": 15,
-    "term": "Breakfast At Tiffany's",
-    "definition": "Deep Blue Something",
-    "example": "October 1996 · 1 week at No.1"
-  },
-  {
-    "id": 16,
-    "term": "Setting Sun",
-    "definition": "The Chemical Brothers",
-    "example": "October 1996 · 1 week at No.1"
-  },
-  {
-    "id": 17,
-    "term": "Words",
-    "definition": "Boyzone",
-    "example": "October 1996 · 1 week at No.1"
-  },
-  {
-    "id": 18,
-    "term": "Say You'll Be There",
-    "definition": "Spice Girls",
-    "example": "October 1996 · 2 weeks at No.1"
-  },
-  {
-    "id": 19,
-    "term": "What Becomes of the Broken Hearted",
-    "definition": "Robson & Jerome",
-    "example": "November 1996 · 2 weeks at No.1"
-  },
-  {
-    "id": 20,
-    "term": "Breathe",
-    "definition": "The Prodigy",
-    "example": "November 1996 · 2 weeks at No.1"
-  },
-  {
-    "id": 21,
-    "term": "I Feel You",
-    "definition": "Peter Andre",
-    "example": "December 1996 · 1 week at No.1"
-  },
-  {
-    "id": 22,
-    "term": "A Different Beat",
-    "definition": "Boyzone",
-    "example": "December 1996 · 1 week at No.1"
-  },
-  {
-    "id": 23,
-    "term": "Knockin' on Heaven's Door / Throw These Guns Away",
-    "definition": "Dunblane",
-    "example": "December 1996 · 1 week at No.1"
-  },
-  {
-    "id": 24,
-    "term": "2 Become 1",
-    "definition": "Spice Girls",
-    "example": "December 1996 · 3 weeks at No.1"
-  },
-  {
-    "id": 25,
-    "term": "Professional Widow (It's Got To Be Big)",
-    "definition": "Tori Amos",
-    "example": "January 1997 · 1 week at No.1"
-  },
-  {
-    "id": 26,
-    "term": "Your Woman",
-    "definition": "White Town",
-    "example": "January 1997 · 1 week at No.1"
-  },
-  {
-    "id": 27,
-    "term": "Beetlebum",
-    "definition": "Blur",
-    "example": "February 1997 · 1 week at No.1"
-  },
-  {
-    "id": 28,
-    "term": "Ain't Nobody",
-    "definition": "LL Cool J",
-    "example": "February 1997 · 1 week at No.1"
-  },
-  {
-    "id": 29,
-    "term": "Discotheque",
-    "definition": "U2",
-    "example": "February 1997 · 1 week at No.1"
-  },
-  {
-    "id": 30,
-    "term": "Don't Speak",
-    "definition": "No Doubt",
-    "example": "February 1997 · 3 weeks at No.1"
-  },
-  {
-    "id": 31,
-    "term": "Mama / Who Do You Think You Are",
-    "definition": "Spice Girls",
-    "example": "March 1997 · 3 weeks at No.1"
-  },
-  {
-    "id": 32,
-    "term": "Block Rockin' Beats",
-    "definition": "The Chemical Brothers",
-    "example": "April 1997 · 1 week at No.1"
-  },
-  {
-    "id": 33,
-    "term": "I Believe I Can Fly",
-    "definition": "R. Kelly",
-    "example": "April 1997 · 3 weeks at No.1"
-  },
-  {
-    "id": 34,
-    "term": "Blood on the Dance Floor",
-    "definition": "Michael Jackson",
-    "example": "May 1997 · 1 week at No.1"
-  },
-  {
-    "id": 35,
-    "term": "Love Wont Wait",
-    "definition": "Gary Barlow",
-    "example": "May 1997 · 1 week at No.1"
-  },
-  {
-    "id": 36,
-    "term": "You're Not Alone",
-    "definition": "Olive",
-    "example": "May 1997 · 2 weeks at No.1"
-  },
-  {
-    "id": 37,
-    "term": "I Wanna Be The Only One",
-    "definition": "Eternal featuring BeBe Winans",
-    "example": "May 1997 · 1 week at No.1"
-  },
-  {
-    "id": 38,
-    "term": "Mmm Bop",
-    "definition": "Hanson",
-    "example": "June 1997 · 3 weeks at No.1"
-  },
-  {
-    "id": 39,
-    "term": "I'll Be Missing You",
-    "definition": "Puff Daddy And Faith Evans ft 112",
-    "example": "June 1997 · 6 weeks at No.1"
-  },
-  {
-    "id": 40,
-    "term": "D'You Know What I Mean?",
-    "definition": "Oasis",
-    "example": "July 1997 · 1 week at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Men In Black",
-    "definition": "Will Smith",
-    "example": "August 1997 · 4 weeks at No.1"
-  },
-  {
-    "id": 42,
-    "term": "The Drugs Don't Work",
-    "definition": "The Verve",
-    "example": "September 1997 · 1 week at No.1"
-  },
-  {
-    "id": 43,
-    "term": "Something About The Way You Look Tonight",
-    "definition": "Elton John",
-    "example": "September 1997 · 5 weeks at No.1"
-  },
-  {
-    "id": 44,
-    "term": "Spice Up Your Life",
-    "definition": "Spice Girls",
-    "example": "October 1997 · 1 week at No.1"
-  },
-  {
-    "id": 45,
-    "term": "Barbie Girl",
-    "definition": "Aqua",
-    "example": "November 1997 · 4 weeks at No.1"
-  },
-  {
-    "id": 46,
-    "term": "Perfect Day",
-    "definition": "Various Artists",
-    "example": "November 1997 · 3 weeks at No.1"
-  },
-  {
-    "id": 47,
-    "term": "Teletubbies Say Eh-Oh!",
-    "definition": "The Teletubbies",
-    "example": "December 1997 · 2 weeks at No.1"
-  },
-  {
-    "id": 48,
-    "term": "Too Much",
-    "definition": "Spice Girls",
-    "example": "December 1997 · 2 weeks at No.1"
-  },
-  {
-    "id": 49,
-    "term": "Never Ever",
-    "definition": "All Saints",
-    "example": "January 1998 · 1 week at No.1"
-  },
-  {
-    "id": 50,
-    "term": "All Around The World",
-    "definition": "Oasis",
-    "example": "January 1998 · 1 week at No.1"
-  },
-  {
-    "id": 51,
-    "term": "You Make Me Wanna...",
-    "definition": "Usher",
-    "example": "January 1998 · 1 week at No.1"
-  },
-  {
-    "id": 52,
-    "term": "Doctor Jones",
-    "definition": "Aqua",
-    "example": "February 1998 · 2 weeks at No.1"
-  },
-  {
-    "id": 53,
-    "term": "My Heart Will Go On",
-    "definition": "Celine Dion",
-    "example": "February 1998 · 2 weeks at No.1"
-  },
-  {
-    "id": 54,
-    "term": "Brimful of Asha",
-    "definition": "Cornershop",
-    "example": "February 1998 · 1 week at No.1"
-  },
-  {
-    "id": 55,
-    "term": "Frozen",
-    "definition": "Madonna",
-    "example": "March 1998 · 1 week at No.1"
-  },
-  {
-    "id": 56,
-    "term": "It's Like That",
-    "definition": "Run-DMC vs Jason Nevins",
-    "example": "March 1998 · 6 weeks at No.1"
-  },
-  {
-    "id": 57,
-    "term": "All That I Need",
-    "definition": "Boyzone",
-    "example": "May 1998 · 1 week at No.1"
-  },
-  {
-    "id": 58,
-    "term": "Under The Bridge / Lady Marmalade",
-    "definition": "All Saints",
-    "example": "May 1998 · 2 weeks at No.1"
-  },
-  {
-    "id": 59,
-    "term": "Turn Back Time",
-    "definition": "Aqua",
-    "example": "May 1998 · 1 week at No.1"
-  },
-  {
-    "id": 60,
-    "term": "Feel It",
-    "definition": "The Tamperer feat. Maya",
-    "example": "May 1998 · 1 week at No.1"
-  },
-  {
-    "id": 61,
-    "term": "C'est La Vie",
-    "definition": "B*Witched",
-    "example": "June 1998 · 2 weeks at No.1"
-  },
-  {
-    "id": 62,
-    "term": "3 Lions '98",
-    "definition": "Baddiel & Skinner & Lightning Seeds",
-    "example": "June 1998 · 3 weeks at No.1"
-  },
-  {
-    "id": 63,
-    "term": "Because We Want To",
-    "definition": "Billie",
-    "example": "July 1998 · 1 week at No.1"
-  },
-  {
-    "id": 64,
-    "term": "Freak Me",
-    "definition": "Another Level",
-    "example": "July 1998 · 1 week at No.1"
-  },
-  {
-    "id": 65,
-    "term": "Deeper Underground",
-    "definition": "Jamiroquai",
-    "example": "July 1998 · 1 week at No.1"
-  },
-  {
-    "id": 66,
-    "term": "Viva Forever",
-    "definition": "Spice Girls",
-    "example": "August 1998 · 2 weeks at No.1"
-  },
-  {
-    "id": 67,
-    "term": "No Matter What",
-    "definition": "Boyzone",
-    "example": "August 1998 · 3 weeks at No.1"
-  },
-  {
-    "id": 68,
-    "term": "If You Tolerate This Your Children Will Be Next",
-    "definition": "Manic Street Preachers",
-    "example": "September 1998 · 1 week at No.1"
-  },
-  {
-    "id": 69,
-    "term": "Bootie Call",
-    "definition": "All Saints",
-    "example": "September 1998 · 1 week at No.1"
-  },
-  {
-    "id": 70,
-    "term": "Millennium",
-    "definition": "Robbie Williams",
-    "example": "September 1998 · 1 week at No.1"
-  },
-  {
-    "id": 71,
-    "term": "I Want You Back",
-    "definition": "Melanie B ft Missy Elliott",
-    "example": "September 1998 · 1 week at No.1"
-  },
-  {
-    "id": 72,
-    "term": "Rollercoaster",
-    "definition": "B*Witched",
-    "example": "October 1998 · 2 weeks at No.1"
-  },
-  {
-    "id": 73,
-    "term": "Girlfriend",
-    "definition": "Billie",
-    "example": "October 1998 · 1 week at No.1"
-  },
-  {
-    "id": 74,
-    "term": "Gym And Tonic",
-    "definition": "Spacedust",
-    "example": "October 1998 · 1 week at No.1"
-  },
-  {
-    "id": 75,
-    "term": "Believe",
-    "definition": "Cher",
-    "example": "October 1998 · 6 weeks at No.1"
-  },
-  {
-    "id": 76,
-    "term": "To You I Belong",
-    "definition": "B*Witched",
-    "example": "December 1998 · 1 week at No.1"
-  },
-  {
-    "id": 77,
-    "term": "Goodbye",
-    "definition": "Spice Girls",
-    "example": "December 1998 · 1 week at No.1"
-  },
-  {
-    "id": 78,
-    "term": "Chocolate Salty Balls",
-    "definition": "Chef",
-    "example": "December 1998 · 1 week at No.1"
-  },
-  {
-    "id": 79,
-    "term": "Heartbeat / Tragedy",
-    "definition": "Steps",
-    "example": "January 1999 · 2 weeks at No.1"
-  },
-  {
-    "id": 80,
-    "term": "Praise You",
-    "definition": "Fatboy Slim",
-    "example": "January 1999 · 1 week at No.1"
-  },
-  {
-    "id": 81,
-    "term": "A Little Bit More",
-    "definition": "911",
-    "example": "January 1999 · 1 week at No.1"
-  },
-  {
-    "id": 82,
-    "term": "Pretty Fly (For A White Guy)",
-    "definition": "The Offspring",
-    "example": "January 1999 · 1 week at No.1"
-  },
-  {
-    "id": 83,
-    "term": "You Don't Know Me",
-    "definition": "Armand Van Helden Featuring Duane Harden",
-    "example": "February 1999 · 1 week at No.1"
-  },
-  {
-    "id": 84,
-    "term": "Maria",
-    "definition": "Blondie",
-    "example": "February 1999 · 1 week at No.1"
-  },
-  {
-    "id": 85,
-    "term": "Fly Away",
-    "definition": "Lenny Kravitz",
-    "example": "February 1999 · 1 week at No.1"
-  },
-  {
-    "id": 86,
-    "term": "...Baby One More Time",
-    "definition": "Britney Spears",
-    "example": "February 1999 · 2 weeks at No.1"
-  },
-  {
-    "id": 87,
-    "term": "When The Going Gets Tough",
-    "definition": "Boyzone",
-    "example": "March 1999 · 2 weeks at No.1"
-  },
-  {
-    "id": 88,
-    "term": "Blame It On The Weatherman",
-    "definition": "B*Witched",
-    "example": "March 1999 · 1 week at No.1"
-  },
-  {
-    "id": 89,
-    "term": "Flat Beat",
-    "definition": "Mr. Oizo",
-    "example": "April 1999 · 2 weeks at No.1"
-  },
-  {
-    "id": 90,
-    "term": "Perfect Moment",
-    "definition": "Martine McCutcheon",
-    "example": "April 1999 · 2 weeks at No.1"
-  },
-  {
-    "id": 91,
-    "term": "Swear It Again",
-    "definition": "Westlife",
-    "example": "May 1999 · 2 weeks at No.1"
-  },
-  {
-    "id": 92,
-    "term": "I Want It That Way",
-    "definition": "Backstreet Boys",
-    "example": "May 1999 · 1 week at No.1"
-  },
-  {
-    "id": 93,
-    "term": "You Needed Me",
-    "definition": "Boyzone",
-    "example": "May 1999 · 1 week at No.1"
-  },
-  {
-    "id": 94,
-    "term": "Sweet Like Chocolate",
-    "definition": "Shanks & Bigfoot",
-    "example": "May 1999 · 2 weeks at No.1"
-  },
-  {
-    "id": 95,
-    "term": "Everybody's Free (To Wear Sunscreen)",
-    "definition": "Baz Luhrmann",
-    "example": "June 1999 · 1 week at No.1"
-  },
-  {
-    "id": 96,
-    "term": "Bring It All Back",
-    "definition": "S Club 7",
-    "example": "June 1999 · 1 week at No.1"
-  },
-  {
-    "id": 97,
-    "term": "Boom,boom,boom,boom!!",
-    "definition": "Vengaboys",
-    "example": "June 1999 · 1 week at No.1"
-  },
-  {
-    "id": 98,
-    "term": "9PM (Till I Come)",
-    "definition": "ATB",
-    "example": "July 1999 · 2 weeks at No.1"
-  },
-  {
-    "id": 99,
-    "term": "Livin' La Vida Loca",
-    "definition": "Ricky Martin",
-    "example": "July 1999 · 3 weeks at No.1"
-  },
-  {
-    "id": 100,
-    "term": "When You Say Nothing At All",
-    "definition": "Ronan Keating",
-    "example": "August 1999 · 2 weeks at No.1"
-  },
-  {
-    "id": 101,
-    "term": "If I Let You Go",
-    "definition": "Westlife",
-    "example": "August 1999 · 1 week at No.1"
-  },
-  {
-    "id": 102,
-    "term": "Mi Chico Latino",
-    "definition": "Geri Halliwell",
-    "example": "August 1999 · 1 week at No.1"
-  },
-  {
-    "id": 103,
-    "term": "Mambo No.5 (A Little Bit Of...)",
-    "definition": "Lou Bega",
-    "example": "September 1999 · 2 weeks at No.1"
-  },
-  {
-    "id": 104,
-    "term": "We're Going To Ibiza!",
-    "definition": "Vengaboys",
-    "example": "September 1999 · 1 week at No.1"
-  },
-  {
-    "id": 105,
-    "term": "Blue (Da Ba Dee)",
-    "definition": "Eiffel 65",
-    "example": "September 1999 · 3 weeks at No.1"
-  },
-  {
-    "id": 106,
-    "term": "Genie In A Bottle",
-    "definition": "Christina Aguilera",
-    "example": "October 1999 · 2 weeks at No.1"
-  },
-  {
-    "id": 107,
-    "term": "Flying Without Wings",
-    "definition": "Westlife",
-    "example": "October 1999 · 1 week at No.1"
-  },
-  {
-    "id": 108,
-    "term": "Keep On Movin'",
-    "definition": "Five",
-    "example": "November 1999 · 1 week at No.1"
-  },
-  {
-    "id": 109,
-    "term": "Lift Me Up",
-    "definition": "Geri Halliwell",
-    "example": "November 1999 · 1 week at No.1"
-  },
-  {
-    "id": 110,
-    "term": "She's The One / It's Only Us",
-    "definition": "Robbie Williams",
-    "example": "November 1999 · 1 week at No.1"
-  },
-  {
-    "id": 111,
-    "term": "King Of My Castle",
-    "definition": "Wamdue Project",
-    "example": "November 1999 · 1 week at No.1"
-  },
-  {
-    "id": 112,
-    "term": "The Millennium Prayer",
-    "definition": "Cliff Richard",
-    "example": "December 1999 · 3 weeks at No.1"
-  },
-  {
-    "id": 113,
-    "term": "I Have A Dream / Seasons In The Sun",
-    "definition": "Westlife",
-    "example": "December 1999 · 4 weeks at No.1"
-  }
-];
-window.QM_NO1S0002_DATA = [
-  {
-    "id": 1,
-    "term": "The Masses Against The Classes",
-    "definition": "Manic Street Preachers",
-    "example": "January 2000 · 1 week at No.1"
-  },
-  {
-    "id": 2,
-    "term": "Born To Make You Happy",
-    "definition": "Britney Spears",
-    "example": "January 2000 · 1 week at No.1"
-  },
-  {
-    "id": 3,
-    "term": "Rise",
-    "definition": "Gabrielle",
-    "example": "February 2000 · 2 weeks at No.1"
-  },
-  {
-    "id": 4,
-    "term": "Go Let It Out",
-    "definition": "Oasis",
-    "example": "February 2000 · 1 week at No.1"
-  },
-  {
-    "id": 5,
-    "term": "Pure Shores",
-    "definition": "All Saints",
-    "example": "February 2000 · 2 weeks at No.1"
-  },
-  {
-    "id": 6,
-    "term": "American Pie",
-    "definition": "Madonna",
-    "example": "March 2000 · 1 week at No.1"
-  },
-  {
-    "id": 7,
-    "term": "Don't Give Up",
-    "definition": "Chicane ft Bryan Adams",
-    "example": "March 2000 · 1 week at No.1"
-  },
-  {
-    "id": 8,
-    "term": "Bag It Up",
-    "definition": "Geri Halliwell",
-    "example": "March 2000 · 1 week at No.1"
-  },
-  {
-    "id": 9,
-    "term": "Never Be The Same Again",
-    "definition": "Melanie C Featuring Lisa 'Left Eye' Lopes",
-    "example": "April 2000 · 1 week at No.1"
-  },
-  {
-    "id": 10,
-    "term": "Fool Again",
-    "definition": "Westlife",
-    "example": "April 2000 · 1 week at No.1"
-  },
-  {
-    "id": 11,
-    "term": "Fill Me In",
-    "definition": "Craig David",
-    "example": "April 2000 · 1 week at No.1"
-  },
-  {
-    "id": 12,
-    "term": "Toca's Miracle",
-    "definition": "Coco vs Fragma",
-    "example": "April 2000 · 2 weeks at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Bound 4 Da Reload (Casualty)",
-    "definition": "Oxide & Neutrino",
-    "example": "May 2000 · 1 week at No.1"
-  },
-  {
-    "id": 14,
-    "term": "Oops! I Did It Again",
-    "definition": "Britney Spears",
-    "example": "May 2000 · 1 week at No.1"
-  },
-  {
-    "id": 15,
-    "term": "Don't Call Me Baby",
-    "definition": "Madison Avenue",
-    "example": "May 2000 · 1 week at No.1"
-  },
-  {
-    "id": 16,
-    "term": "Day & Night",
-    "definition": "Billie Piper",
-    "example": "May 2000 · 1 week at No.1"
-  },
-  {
-    "id": 17,
-    "term": "It Feels So Good",
-    "definition": "Sonique",
-    "example": "June 2000 · 3 weeks at No.1"
-  },
-  {
-    "id": 18,
-    "term": "You See The Trouble With Me",
-    "definition": "Black Legend",
-    "example": "June 2000 · 1 week at No.1"
-  },
-  {
-    "id": 19,
-    "term": "Spinning Around",
-    "definition": "Kylie Minogue",
-    "example": "July 2000 · 1 week at No.1"
-  },
-  {
-    "id": 20,
-    "term": "The Real Slim Shady",
-    "definition": "Eminem",
-    "example": "July 2000 · 1 week at No.1"
-  },
-  {
-    "id": 21,
-    "term": "Breathless",
-    "definition": "The Corrs",
-    "example": "July 2000 · 1 week at No.1"
-  },
-  {
-    "id": 22,
-    "term": "Life Is A Rollercoaster",
-    "definition": "Ronan Keating",
-    "example": "July 2000 · 1 week at No.1"
-  },
-  {
-    "id": 23,
-    "term": "We Will Rock You",
-    "definition": "Five & Queen",
-    "example": "July 2000 · 1 week at No.1"
-  },
-  {
-    "id": 24,
-    "term": "7 Days",
-    "definition": "Craig David",
-    "example": "August 2000 · 1 week at No.1"
-  },
-  {
-    "id": 25,
-    "term": "Rock DJ",
-    "definition": "Robbie Williams",
-    "example": "August 2000 · 1 week at No.1"
-  },
-  {
-    "id": 26,
-    "term": "I Turn To You",
-    "definition": "Melanie C",
-    "example": "August 2000 · 1 week at No.1"
-  },
-  {
-    "id": 27,
-    "term": "Groovejet (If This Ain't Love)",
-    "definition": "Spiller",
-    "example": "August 2000 · 1 week at No.1"
-  },
-  {
-    "id": 28,
-    "term": "Music",
-    "definition": "Madonna",
-    "example": "September 2000 · 1 week at No.1"
-  },
-  {
-    "id": 29,
-    "term": "Take on Me",
-    "definition": "A1",
-    "example": "September 2000 · 1 week at No.1"
-  },
-  {
-    "id": 30,
-    "term": "Lady (Hear Me Tonight)",
-    "definition": "Modjo",
-    "example": "September 2000 · 2 weeks at No.1"
-  },
-  {
-    "id": 31,
-    "term": "Against All Odds",
-    "definition": "Mariah Carey ft Westlife",
-    "example": "September 2000 · 2 weeks at No.1"
-  },
-  {
-    "id": 32,
-    "term": "Black Coffee",
-    "definition": "All Saints",
-    "example": "October 2000 · 1 week at No.1"
-  },
-  {
-    "id": 33,
-    "term": "Beautiful Day",
-    "definition": "U2",
-    "example": "October 2000 · 1 week at No.1"
-  },
-  {
-    "id": 34,
-    "term": "Stomp",
-    "definition": "Steps",
-    "example": "October 2000 · 1 week at No.1"
-  },
-  {
-    "id": 35,
-    "term": "Holler / Let Love Lead The Way",
-    "definition": "Spice Girls",
-    "example": "November 2000 · 1 week at No.1"
-  },
-  {
-    "id": 36,
-    "term": "My Love",
-    "definition": "Westlife",
-    "example": "November 2000 · 1 week at No.1"
-  },
-  {
-    "id": 37,
-    "term": "Same Old Brand New You",
-    "definition": "A1",
-    "example": "November 2000 · 1 week at No.1"
-  },
-  {
-    "id": 38,
-    "term": "Can't Fight The Moonlight",
-    "definition": "Leann Rimes",
-    "example": "November 2000 · 1 week at No.1"
-  },
-  {
-    "id": 39,
-    "term": "Independent Women Part I",
-    "definition": "Destiny's Child",
-    "example": "December 2000 · 1 week at No.1"
-  },
-  {
-    "id": 40,
-    "term": "Never Had A Dream Come True",
-    "definition": "S Club 7",
-    "example": "December 2000 · 1 week at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Stan",
-    "definition": "Eminem",
-    "example": "December 2000 · 1 week at No.1"
-  },
-  {
-    "id": 42,
-    "term": "Can We Fix It",
-    "definition": "Bob the Builder",
-    "example": "December 2000 · 3 weeks at No.1"
-  },
-  {
-    "id": 43,
-    "term": "Touch Me",
-    "definition": "Rui Da Silva ft Cassandra",
-    "example": "January 2001 · 1 week at No.1"
-  },
-  {
-    "id": 44,
-    "term": "Love Don't Cost A Thing",
-    "definition": "Jennifer Lopez",
-    "example": "January 2001 · 1 week at No.1"
-  },
-  {
-    "id": 45,
-    "term": "Rollin'",
-    "definition": "Limp Bizkit",
-    "example": "January 2001 · 2 weeks at No.1"
-  },
-  {
-    "id": 46,
-    "term": "Whole Again",
-    "definition": "Atomic Kitten",
-    "example": "February 2001 · 4 weeks at No.1"
-  },
-  {
-    "id": 47,
-    "term": "It Wasn't Me",
-    "definition": "Shaggy ft Rikrok",
-    "example": "March 2001 · 1 week at No.1"
-  },
-  {
-    "id": 48,
-    "term": "Uptown Girl",
-    "definition": "Westlife",
-    "example": "March 2001 · 1 week at No.1"
-  },
-  {
-    "id": 49,
-    "term": "Pure And Simple",
-    "definition": "Hearsay",
-    "example": "March 2001 · 3 weeks at No.1"
-  },
-  {
-    "id": 50,
-    "term": "What Took You So Long",
-    "definition": "Emma Bunton",
-    "example": "April 2001 · 2 weeks at No.1"
-  },
-  {
-    "id": 51,
-    "term": "Survivor",
-    "definition": "Destiny's Child",
-    "example": "April 2001 · 1 week at No.1"
-  },
-  {
-    "id": 52,
-    "term": "Don't Stop Movin'",
-    "definition": "S Club 7",
-    "example": "May 2001 · 2 weeks at No.1"
-  },
-  {
-    "id": 53,
-    "term": "It's Raining Men",
-    "definition": "Geri Halliwell",
-    "example": "May 2001 · 2 weeks at No.1"
-  },
-  {
-    "id": 54,
-    "term": "Do You Really Like It",
-    "definition": "DJ Pied Piper & The Masters Of Ceremonies",
-    "example": "June 2001 · 1 week at No.1"
-  },
-  {
-    "id": 55,
-    "term": "Angel",
-    "definition": "Shaggy feat. Rayvon",
-    "example": "June 2001 · 3 weeks at No.1"
-  },
-  {
-    "id": 56,
-    "term": "Lady Marmalade",
-    "definition": "Christina Aguilera, Lil' Kim, Mya & Pink",
-    "example": "June 2001 · 1 week at No.1"
-  },
-  {
-    "id": 57,
-    "term": "The Way To Your Love",
-    "definition": "Hearsay",
-    "example": "July 2001 · 1 week at No.1"
-  },
-  {
-    "id": 58,
-    "term": "Another Chance",
-    "definition": "Roger Sanchez",
-    "example": "July 2001 · 1 week at No.1"
-  },
-  {
-    "id": 59,
-    "term": "Eternity / The Road To Mandalay",
-    "definition": "Robbie Williams",
-    "example": "July 2001 · 2 weeks at No.1"
-  },
-  {
-    "id": 60,
-    "term": "Eternal Flame",
-    "definition": "Atomic Kitten",
-    "example": "August 2001 · 2 weeks at No.1"
-  },
-  {
-    "id": 61,
-    "term": "21 Seconds",
-    "definition": "So Solid Crew",
-    "example": "August 2001 · 1 week at No.1"
-  },
-  {
-    "id": 62,
-    "term": "Let's Dance",
-    "definition": "Five",
-    "example": "August 2001 · 2 weeks at No.1"
-  },
-  {
-    "id": 63,
-    "term": "Too Close",
-    "definition": "Blue",
-    "example": "September 2001 · 1 week at No.1"
-  },
-  {
-    "id": 64,
-    "term": "Mambo No 5",
-    "definition": "Bob the Builder",
-    "example": "September 2001 · 1 week at No.1"
-  },
-  {
-    "id": 65,
-    "term": "Hey Baby",
-    "definition": "DJ Otzi",
-    "example": "September 2001 · 1 week at No.1"
-  },
-  {
-    "id": 66,
-    "term": "Can't Get You Out Of My Head",
-    "definition": "Kylie Minogue",
-    "example": "September 2001 · 4 weeks at No.1"
-  },
-  {
-    "id": 67,
-    "term": "Because I Got High",
-    "definition": "Afroman",
-    "example": "October 2001 · 3 weeks at No.1"
-  },
-  {
-    "id": 68,
-    "term": "Queen Of My Heart",
-    "definition": "Westlife",
-    "example": "November 2001 · 1 week at No.1"
-  },
-  {
-    "id": 69,
-    "term": "If You Come Back",
-    "definition": "Blue",
-    "example": "November 2001 · 1 week at No.1"
-  },
-  {
-    "id": 70,
-    "term": "Have You Ever",
-    "definition": "S Club 7",
-    "example": "December 2001 · 1 week at No.1"
-  },
-  {
-    "id": 71,
-    "term": "Gotta Get Thru This",
-    "definition": "Daniel Bedingfield",
-    "example": "December 2001 · 3 weeks at No.1"
-  },
-  {
-    "id": 72,
-    "term": "Somethin' Stupid",
-    "definition": "Robbie Williams And Nicole Kidman",
-    "example": "December 2001 · 3 weeks at No.1"
-  },
-  {
-    "id": 73,
-    "term": "More Than A Woman",
-    "definition": "Aaliyah",
-    "example": "January 2002 · 1 week at No.1"
-  },
-  {
-    "id": 74,
-    "term": "My Sweet Lord",
-    "definition": "George Harrison",
-    "example": "January 2002 · 1 week at No.1"
-  },
-  {
-    "id": 75,
-    "term": "Hero",
-    "definition": "Enrique Iglesias",
-    "example": "February 2002 · 4 weeks at No.1"
-  },
-  {
-    "id": 76,
-    "term": "World Of Our Own",
-    "definition": "Westlife",
-    "example": "March 2002 · 1 week at No.1"
-  },
-  {
-    "id": 77,
-    "term": "Anything Is Possible / Evergreen",
-    "definition": "Will Young",
-    "example": "March 2002 · 3 weeks at No.1"
-  },
-  {
-    "id": 78,
-    "term": "Unchained Melody",
-    "definition": "Gareth Gates",
-    "example": "March 2002 · 4 weeks at No.1"
-  },
-  {
-    "id": 79,
-    "term": "The Hindu Times",
-    "definition": "Oasis",
-    "example": "April 2002 · 1 week at No.1"
-  },
-  {
-    "id": 80,
-    "term": "Freak Like Me",
-    "definition": "Sugababes",
-    "example": "May 2002 · 1 week at No.1"
-  },
-  {
-    "id": 81,
-    "term": "Kiss Kiss",
-    "definition": "Holly Valance",
-    "example": "May 2002 · 1 week at No.1"
-  },
-  {
-    "id": 82,
-    "term": "If Tomorrow Never Comes",
-    "definition": "Ronan Keating",
-    "example": "May 2002 · 1 week at No.1"
-  },
-  {
-    "id": 83,
-    "term": "Just A Little",
-    "definition": "Liberty X",
-    "example": "May 2002 · 1 week at No.1"
-  },
-  {
-    "id": 84,
-    "term": "Without Me",
-    "definition": "Eminem",
-    "example": "June 2002 · 1 week at No.1"
-  },
-  {
-    "id": 85,
-    "term": "Light My Fire",
-    "definition": "Will Young",
-    "example": "June 2002 · 2 weeks at No.1"
-  },
-  {
-    "id": 86,
-    "term": "A Little Less Conversation",
-    "definition": "Elvis Presley",
-    "example": "June 2002 · 4 weeks at No.1"
-  },
-  {
-    "id": 87,
-    "term": "Anyone Of Us (Stupid Mistake)",
-    "definition": "Gareth Gates",
-    "example": "July 2002 · 3 weeks at No.1"
-  },
-  {
-    "id": 88,
-    "term": "Colourblind",
-    "definition": "Darius",
-    "example": "August 2002 · 2 weeks at No.1"
-  },
-  {
-    "id": 89,
-    "term": "Round Round",
-    "definition": "Sugababes",
-    "example": "August 2002 · 1 week at No.1"
-  },
-  {
-    "id": 90,
-    "term": "Crossroads",
-    "definition": "Blazin' Squad",
-    "example": "August 2002 · 1 week at No.1"
-  },
-  {
-    "id": 91,
-    "term": "The Tide Is High (Get The Feeling)",
-    "definition": "Atomic Kitten",
-    "example": "September 2002 · 3 weeks at No.1"
-  },
-  {
-    "id": 92,
-    "term": "Just Like A Pill",
-    "definition": "Pink",
-    "example": "September 2002 · 1 week at No.1"
-  },
-  {
-    "id": 93,
-    "term": "The Long and Winding Road / Suspicious Minds",
-    "definition": "Will Young & Gareth Gates",
-    "example": "October 2002 · 2 weeks at No.1"
-  },
-  {
-    "id": 94,
-    "term": "The Ketchup Song (Asereje)",
-    "definition": "Las Ketchup",
-    "example": "October 2002 · 1 week at No.1"
-  },
-  {
-    "id": 95,
-    "term": "Dilemma",
-    "definition": "Nelly ft Kelly Rowland",
-    "example": "October 2002 · 2 weeks at No.1"
-  },
-  {
-    "id": 96,
-    "term": "Heaven",
-    "definition": "DJ Sammy & Yanou ft Do",
-    "example": "November 2002 · 1 week at No.1"
-  },
-  {
-    "id": 97,
-    "term": "Unbreakable",
-    "definition": "Westlife",
-    "example": "November 2002 · 1 week at No.1"
-  },
-  {
-    "id": 98,
-    "term": "Dirrty",
-    "definition": "Christina Aguilera ft Redman",
-    "example": "November 2002 · 2 weeks at No.1"
-  },
-  {
-    "id": 99,
-    "term": "If You're Not The One",
-    "definition": "Daniel Bedingfield",
-    "example": "December 2002 · 1 week at No.1"
-  },
-  {
-    "id": 100,
-    "term": "Lose Yourself",
-    "definition": "Eminem",
-    "example": "December 2002 · 1 week at No.1"
-  },
-  {
-    "id": 101,
-    "term": "Sorry Seems To Be The Hardest Word",
-    "definition": "Blue ft Elton John",
-    "example": "December 2002 · 1 week at No.1"
-  },
-  {
-    "id": 102,
-    "term": "Sound Of The Underground",
-    "definition": "Girls Aloud",
-    "example": "December 2002 · 4 weeks at No.1"
-  }
-];
-window.QM_NO1S0306_DATA = [
-  {
-    "id": 1,
-    "term": "Stop Living The Lie",
-    "definition": "David Sneddon",
-    "example": "January 2003 · 2 weeks at No.1"
-  },
-  {
-    "id": 2,
-    "term": "All The Things She Said",
-    "definition": "Tatu",
-    "example": "February 2003 · 4 weeks at No.1"
-  },
-  {
-    "id": 3,
-    "term": "Beautiful",
-    "definition": "Christina Aguilera",
-    "example": "March 2003 · 2 weeks at No.1"
-  },
-  {
-    "id": 4,
-    "term": "Spirit In The Sky",
-    "definition": "Gareth Gates ft the Kumars",
-    "example": "March 2003 · 2 weeks at No.1"
-  },
-  {
-    "id": 5,
-    "term": "Make Luv",
-    "definition": "Room 5 ft Oliver Cheatham",
-    "example": "April 2003 · 4 weeks at No.1"
-  },
-  {
-    "id": 6,
-    "term": "You Said No",
-    "definition": "Busted",
-    "example": "May 2003 · 1 week at No.1"
-  },
-  {
-    "id": 7,
-    "term": "Loneliness",
-    "definition": "Tomcraft",
-    "example": "May 2003 · 1 week at No.1"
-  },
-  {
-    "id": 8,
-    "term": "Ignition Remix",
-    "definition": "R. Kelly",
-    "example": "May 2003 · 4 weeks at No.1"
-  },
-  {
-    "id": 9,
-    "term": "Bring Me To Life",
-    "definition": "Evanescence",
-    "example": "June 2003 · 4 weeks at No.1"
-  },
-  {
-    "id": 10,
-    "term": "Crazy In Love",
-    "definition": "Beyonce",
-    "example": "July 2003 · 3 weeks at No.1"
-  },
-  {
-    "id": 11,
-    "term": "Never Gonna Leave Your Side",
-    "definition": "Daniel Bedingfield",
-    "example": "August 2003 · 1 week at No.1"
-  },
-  {
-    "id": 12,
-    "term": "Breathe",
-    "definition": "Blu Cantrell ft Sean Paul",
-    "example": "August 2003 · 4 weeks at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Are You Ready for Love",
-    "definition": "Elton John",
-    "example": "September 2003 · 1 week at No.1"
-  },
-  {
-    "id": 14,
-    "term": "Where Is the Love",
-    "definition": "Black Eyed Peas",
-    "example": "September 2003 · 6 weeks at No.1"
-  },
-  {
-    "id": 15,
-    "term": "Hole In The Head",
-    "definition": "Sugababes",
-    "example": "October 2003 · 1 week at No.1"
-  },
-  {
-    "id": 16,
-    "term": "Be Faithful",
-    "definition": "Fatman Scoop & Crooklyn Clan",
-    "example": "November 2003 · 2 weeks at No.1"
-  },
-  {
-    "id": 17,
-    "term": "Slow",
-    "definition": "Kylie Minogue",
-    "example": "November 2003 · 1 week at No.1"
-  },
-  {
-    "id": 18,
-    "term": "Crashed The Wedding",
-    "definition": "Busted",
-    "example": "November 2003 · 1 week at No.1"
-  },
-  {
-    "id": 19,
-    "term": "Mandy",
-    "definition": "Westlife",
-    "example": "November 2003 · 1 week at No.1"
-  },
-  {
-    "id": 20,
-    "term": "Leave Right Now",
-    "definition": "Will Young",
-    "example": "December 2003 · 2 weeks at No.1"
-  },
-  {
-    "id": 21,
-    "term": "Changes",
-    "definition": "Ozzy & Kelly Osbourne",
-    "example": "December 2003 · 1 week at No.1"
-  },
-  {
-    "id": 22,
-    "term": "Mad World",
-    "definition": "Michael Andrews ft Gary Jules",
-    "example": "December 2003 · 3 weeks at No.1"
-  },
-  {
-    "id": 23,
-    "term": "All This Time",
-    "definition": "Michelle",
-    "example": "January 2004 · 3 weeks at No.1"
-  },
-  {
-    "id": 24,
-    "term": "Take Me to the Clouds Above",
-    "definition": "LMC vs U2",
-    "example": "February 2004 · 2 weeks at No.1"
-  },
-  {
-    "id": 25,
-    "term": "With a Little Help From My Friends",
-    "definition": "Sam & Mark",
-    "example": "February 2004 · 1 week at No.1"
-  },
-  {
-    "id": 26,
-    "term": "Who's David",
-    "definition": "Busted",
-    "example": "February 2004 · 1 week at No.1"
-  },
-  {
-    "id": 27,
-    "term": "Mysterious Girl",
-    "definition": "Peter Andre",
-    "example": "March 2004 · 1 week at No.1"
-  },
-  {
-    "id": 28,
-    "term": "Toxic",
-    "definition": "Britney Spears",
-    "example": "March 2004 · 1 week at No.1"
-  },
-  {
-    "id": 29,
-    "term": "Cha Cha Slide",
-    "definition": "DJ Casper",
-    "example": "March 2004 · 1 week at No.1"
-  },
-  {
-    "id": 30,
-    "term": "Yeah",
-    "definition": "Usher ft Lil' Jon & Ludacris",
-    "example": "March 2004 · 2 weeks at No.1"
-  },
-  {
-    "id": 31,
-    "term": "5 Colours In Her Hair",
-    "definition": "McFly",
-    "example": "April 2004 · 2 weeks at No.1"
-  },
-  {
-    "id": 32,
-    "term": "F**k It (I Don't Want You Back)",
-    "definition": "Eamon",
-    "example": "April 2004 · 4 weeks at No.1"
-  },
-  {
-    "id": 33,
-    "term": "F.U.R.B. (F U Right Back)",
-    "definition": "Frankee",
-    "example": "May 2004 · 3 weeks at No.1"
-  },
-  {
-    "id": 34,
-    "term": "I Don't Wanna Know",
-    "definition": "Mario Winans ft Enya & P.diddy",
-    "example": "June 2004 · 2 weeks at No.1"
-  },
-  {
-    "id": 35,
-    "term": "Everytime",
-    "definition": "Britney Spears",
-    "example": "June 2004 · 1 week at No.1"
-  },
-  {
-    "id": 36,
-    "term": "Obviously",
-    "definition": "McFly",
-    "example": "July 2004 · 1 week at No.1"
-  },
-  {
-    "id": 37,
-    "term": "Burn",
-    "definition": "Usher",
-    "example": "July 2004 · 2 weeks at No.1"
-  },
-  {
-    "id": 38,
-    "term": "Lola's Theme",
-    "definition": "Shapeshifters",
-    "example": "July 2004 · 1 week at No.1"
-  },
-  {
-    "id": 39,
-    "term": "Dry Your Eyes",
-    "definition": "The Streets",
-    "example": "July 2004 · 1 week at No.1"
-  },
-  {
-    "id": 40,
-    "term": "Thunderbirds / 3AM",
-    "definition": "Busted",
-    "example": "August 2004 · 2 weeks at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Baby Cakes",
-    "definition": "3 of a Kind",
-    "example": "August 2004 · 1 week at No.1"
-  },
-  {
-    "id": 42,
-    "term": "These Words",
-    "definition": "Natasha Bedingfield",
-    "example": "August 2004 · 2 weeks at No.1"
-  },
-  {
-    "id": 43,
-    "term": "My Place / Flap Your Wings",
-    "definition": "Nelly",
-    "example": "September 2004 · 1 week at No.1"
-  },
-  {
-    "id": 44,
-    "term": "Real To Me",
-    "definition": "Brian McFadden",
-    "example": "September 2004 · 1 week at No.1"
-  },
-  {
-    "id": 45,
-    "term": "Call On Me",
-    "definition": "Eric Prydz",
-    "example": "September 2004 · 5 weeks at No.1"
-  },
-  {
-    "id": 46,
-    "term": "Radio",
-    "definition": "Robbie Williams",
-    "example": "October 2004 · 1 week at No.1"
-  },
-  {
-    "id": 47,
-    "term": "Wonderful",
-    "definition": "Ja Rule ft R. Kelly & Ashanti",
-    "example": "November 2004 · 1 week at No.1"
-  },
-  {
-    "id": 48,
-    "term": "Just Lose It",
-    "definition": "Eminem",
-    "example": "November 2004 · 1 week at No.1"
-  },
-  {
-    "id": 49,
-    "term": "Vertigo",
-    "definition": "U2",
-    "example": "November 2004 · 1 week at No.1"
-  },
-  {
-    "id": 50,
-    "term": "I'll Stand By You",
-    "definition": "Girls Aloud",
-    "example": "November 2004 · 2 weeks at No.1"
-  },
-  {
-    "id": 51,
-    "term": "Do They Know It's Christmas",
-    "definition": "Band Aid 20",
-    "example": "December 2004 · 4 weeks at No.1"
-  },
-  {
-    "id": 52,
-    "term": "Against All Odds",
-    "definition": "Steve Brookstein",
-    "example": "January 2005 · 1 week at No.1"
-  },
-  {
-    "id": 53,
-    "term": "Jailhouse Rock",
-    "definition": "Elvis Presley",
-    "example": "January 2005 · 1 week at No.1"
-  },
-  {
-    "id": 54,
-    "term": "One Night / I Got Stung",
-    "definition": "Elvis Presley",
-    "example": "January 2005 · 1 week at No.1"
-  },
-  {
-    "id": 55,
-    "term": "Goodies",
-    "definition": "Ciara ft Petey Pablo",
-    "example": "January 2005 · 1 week at No.1"
-  },
-  {
-    "id": 56,
-    "term": "It's Now or Never",
-    "definition": "Elvis Presley",
-    "example": "February 2005 · 1 week at No.1"
-  },
-  {
-    "id": 57,
-    "term": "Like Toy Soldiers",
-    "definition": "Eminem",
-    "example": "February 2005 · 1 week at No.1"
-  },
-  {
-    "id": 58,
-    "term": "Sometimes You Can't Make It On Your Own",
-    "definition": "U2",
-    "example": "February 2005 · 1 week at No.1"
-  },
-  {
-    "id": 59,
-    "term": "Get Right",
-    "definition": "Jennifer Lopez",
-    "example": "February 2005 · 1 week at No.1"
-  },
-  {
-    "id": 60,
-    "term": "Over and Over",
-    "definition": "Nelly ft Tim McGraw",
-    "example": "March 2005 · 1 week at No.1"
-  },
-  {
-    "id": 61,
-    "term": "Dakota",
-    "definition": "Stereophonics",
-    "example": "March 2005 · 1 week at No.1"
-  },
-  {
-    "id": 62,
-    "term": "All About You / You've Got A Friend",
-    "definition": "McFly",
-    "example": "March 2005 · 1 week at No.1"
-  },
-  {
-    "id": 63,
-    "term": "(Is This The Way To) Amarillo",
-    "definition": "Tony Christie ft Peter Kay",
-    "example": "March 2005 · 7 weeks at No.1"
-  },
-  {
-    "id": 64,
-    "term": "Lonely",
-    "definition": "Akon",
-    "example": "May 2005 · 2 weeks at No.1"
-  },
-  {
-    "id": 65,
-    "term": "Lyla",
-    "definition": "Oasis",
-    "example": "May 2005 · 1 week at No.1"
-  },
-  {
-    "id": 66,
-    "term": "Axel F",
-    "definition": "Crazy Frog",
-    "example": "June 2005 · 4 weeks at No.1"
-  },
-  {
-    "id": 67,
-    "term": "Ghetto Gospel",
-    "definition": "2PAC ft Elton John",
-    "example": "July 2005 · 3 weeks at No.1"
-  },
-  {
-    "id": 68,
-    "term": "You're Beautiful",
-    "definition": "James Blunt",
-    "example": "July 2005 · 5 weeks at No.1"
-  },
-  {
-    "id": 69,
-    "term": "I'll Be OK",
-    "definition": "McFly",
-    "example": "August 2005 · 1 week at No.1"
-  },
-  {
-    "id": 70,
-    "term": "The Importance Of Being Idle",
-    "definition": "Oasis",
-    "example": "September 2005 · 1 week at No.1"
-  },
-  {
-    "id": 71,
-    "term": "Dare",
-    "definition": "Gorillaz",
-    "example": "September 2005 · 1 week at No.1"
-  },
-  {
-    "id": 72,
-    "term": "Don't Cha",
-    "definition": "The Pussycat Dolls ft Busta Rhymes",
-    "example": "September 2005 · 3 weeks at No.1"
-  },
-  {
-    "id": 73,
-    "term": "Push The Button",
-    "definition": "Sugababes",
-    "example": "October 2005 · 3 weeks at No.1"
-  },
-  {
-    "id": 74,
-    "term": "I Bet You Look Good On The Dancefloor",
-    "definition": "Arctic Monkeys",
-    "example": "October 2005 · 1 week at No.1"
-  },
-  {
-    "id": 75,
-    "term": "You Raise Me Up",
-    "definition": "Westlife",
-    "example": "November 2005 · 2 weeks at No.1"
-  },
-  {
-    "id": 76,
-    "term": "Hung Up",
-    "definition": "Madonna",
-    "example": "November 2005 · 3 weeks at No.1"
-  },
-  {
-    "id": 77,
-    "term": "Stickwitu",
-    "definition": "The Pussycat Dolls",
-    "example": "December 2005 · 2 weeks at No.1"
-  },
-  {
-    "id": 78,
-    "term": "JCB Song",
-    "definition": "Nizlopi",
-    "example": "December 2005 · 1 week at No.1"
-  },
-  {
-    "id": 79,
-    "term": "That's My Goal",
-    "definition": "Shayne Ward",
-    "example": "December 2005 · 4 weeks at No.1"
-  },
-  {
-    "id": 80,
-    "term": "When The Sun Goes Down",
-    "definition": "Arctic Monkeys",
-    "example": "January 2006 · 1 week at No.1"
-  },
-  {
-    "id": 81,
-    "term": "Nasty Girl",
-    "definition": "The Notorious B.I.G. Feat. Diddy, Nelly, Jagged Edge & Avery Storm",
-    "example": "February 2006 · 2 weeks at No.1"
-  },
-  {
-    "id": 82,
-    "term": "Thunder In My Heart Again",
-    "definition": "Meck ft Leo Sayer",
-    "example": "February 2006 · 2 weeks at No.1"
-  },
-  {
-    "id": 83,
-    "term": "Sorry",
-    "definition": "Madonna",
-    "example": "March 2006 · 1 week at No.1"
-  },
-  {
-    "id": 84,
-    "term": "It's Chico Time",
-    "definition": "Chico",
-    "example": "March 2006 · 2 weeks at No.1"
-  },
-  {
-    "id": 85,
-    "term": "No Tomorrow",
-    "definition": "Orson",
-    "example": "March 2006 · 1 week at No.1"
-  },
-  {
-    "id": 86,
-    "term": "So Sick",
-    "definition": "Ne-Yo",
-    "example": "April 2006 · 1 week at No.1"
-  },
-  {
-    "id": 87,
-    "term": "Crazy",
-    "definition": "Gnarls Barkley",
-    "example": "April 2006 · 9 weeks at No.1"
-  },
-  {
-    "id": 88,
-    "term": "I Wish I Was a Punk Rocker (With Flowers in My Hair)",
-    "definition": "Sandi Thom",
-    "example": "June 2006 · 1 week at No.1"
-  },
-  {
-    "id": 89,
-    "term": "Maneater",
-    "definition": "Nelly Furtado",
-    "example": "June 2006 · 3 weeks at No.1"
-  },
-  {
-    "id": 90,
-    "term": "Hips Don't Lie",
-    "definition": "Shakira ft Wyclef Jean",
-    "example": "July 2006 · 5 weeks at No.1"
-  },
-  {
-    "id": 91,
-    "term": "Smile",
-    "definition": "Lily Allen",
-    "example": "July 2006 · 2 weeks at No.1"
-  },
-  {
-    "id": 92,
-    "term": "Don't Stop Me Now / Please, Please",
-    "definition": "McFly",
-    "example": "July 2006 · 1 week at No.1"
-  },
-  {
-    "id": 93,
-    "term": "Deja Vu",
-    "definition": "Beyonce ft Jay-Z",
-    "example": "September 2006 · 1 week at No.1"
-  },
-  {
-    "id": 94,
-    "term": "SexyBack",
-    "definition": "Justin Timberlake",
-    "example": "September 2006 · 1 week at No.1"
-  },
-  {
-    "id": 95,
-    "term": "I Don't Feel Like Dancin'",
-    "definition": "Scissor Sisters",
-    "example": "September 2006 · 4 weeks at No.1"
-  },
-  {
-    "id": 96,
-    "term": "America",
-    "definition": "Razorlight",
-    "example": "October 2006 · 1 week at No.1"
-  },
-  {
-    "id": 97,
-    "term": "Welcome To The Black Parade",
-    "definition": "My Chemical Romance",
-    "example": "October 2006 · 2 weeks at No.1"
-  },
-  {
-    "id": 98,
-    "term": "Star Girl",
-    "definition": "McFly",
-    "example": "November 2006 · 1 week at No.1"
-  },
-  {
-    "id": 99,
-    "term": "Put Your Hands Up for Detroit",
-    "definition": "Fedde Le Grand",
-    "example": "November 2006 · 1 week at No.1"
-  },
-  {
-    "id": 100,
-    "term": "The Rose",
-    "definition": "Westlife",
-    "example": "November 2006 · 1 week at No.1"
-  },
-  {
-    "id": 101,
-    "term": "Smack That",
-    "definition": "Akon ft Eminem",
-    "example": "November 2006 · 1 week at No.1"
-  },
-  {
-    "id": 102,
-    "term": "Patience",
-    "definition": "Take That",
-    "example": "December 2006 · 4 weeks at No.1"
-  },
-  {
-    "id": 103,
-    "term": "A Moment Like This",
-    "definition": "Leona Lewis",
-    "example": "December 2006 · 4 weeks at No.1"
-  }
-];
-window.QM_NO1S0710_DATA = [
-  {
-    "id": 1,
-    "term": "Grace Kelly",
-    "definition": "Mika",
-    "example": "January 2007 · 5 weeks at No.1"
-  },
-  {
-    "id": 2,
-    "term": "Ruby",
-    "definition": "Kaiser Chiefs",
-    "example": "March 2007 · 1 week at No.1"
-  },
-  {
-    "id": 3,
-    "term": "Shine",
-    "definition": "Take That",
-    "example": "March 2007 · 2 weeks at No.1"
-  },
-  {
-    "id": 4,
-    "term": "Walk This Way",
-    "definition": "Sugababes vs Girls Aloud",
-    "example": "March 2007 · 1 week at No.1"
-  },
-  {
-    "id": 5,
-    "term": "(I'm Gonna Be) 500 Miles",
-    "definition": "Proclaimers, Brian Potter & Andy Pipkin",
-    "example": "March 2007 · 3 weeks at No.1"
-  },
-  {
-    "id": 6,
-    "term": "Give It To Me",
-    "definition": "Timbaland Featuring Nelly Furtado & Justin Timberlake",
-    "example": "April 2007 · 1 week at No.1"
-  },
-  {
-    "id": 7,
-    "term": "Beautiful Liar",
-    "definition": "Beyonce & Shakira",
-    "example": "April 2007 · 3 weeks at No.1"
-  },
-  {
-    "id": 8,
-    "term": "Baby's Coming Back / Transylvania",
-    "definition": "McFly",
-    "example": "May 2007 · 1 week at No.1"
-  },
-  {
-    "id": 9,
-    "term": "Umbrella",
-    "definition": "Rihanna ft Jay-Z",
-    "example": "May 2007 · 10 weeks at No.1"
-  },
-  {
-    "id": 10,
-    "term": "The Way I Are",
-    "definition": "Timbaland ft Keri Hilson",
-    "example": "August 2007 · 2 weeks at No.1"
-  },
-  {
-    "id": 11,
-    "term": "With Every Heartbeat",
-    "definition": "Robyn With Kleerup",
-    "example": "August 2007 · 1 week at No.1"
-  },
-  {
-    "id": 12,
-    "term": "Stronger",
-    "definition": "Kanye West",
-    "example": "August 2007 · 2 weeks at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Beautiful Girls",
-    "definition": "Sean Kingston",
-    "example": "September 2007 · 4 weeks at No.1"
-  },
-  {
-    "id": 14,
-    "term": "About You Now",
-    "definition": "Sugababes",
-    "example": "October 2007 · 4 weeks at No.1"
-  },
-  {
-    "id": 15,
-    "term": "Bleeding Love",
-    "definition": "Leona Lewis",
-    "example": "November 2007 · 7 weeks at No.1"
-  },
-  {
-    "id": 16,
-    "term": "What A Wonderful World",
-    "definition": "Eva Cassidy & Katie Melua",
-    "example": "December 2007 · 1 week at No.1"
-  },
-  {
-    "id": 17,
-    "term": "When You Believe",
-    "definition": "Leon Jackson",
-    "example": "December 2007 · 3 weeks at No.1"
-  },
-  {
-    "id": 18,
-    "term": "Now You're Gone",
-    "definition": "Basshunter ft DJ Mental Theo's Bazzheadz",
-    "example": "January 2008 · 5 weeks at No.1"
-  },
-  {
-    "id": 19,
-    "term": "Mercy",
-    "definition": "Duffy",
-    "example": "February 2008 · 5 weeks at No.1"
-  },
-  {
-    "id": 20,
-    "term": "American Boy",
-    "definition": "Estelle ft Kanye West",
-    "example": "March 2008 · 4 weeks at No.1"
-  },
-  {
-    "id": 21,
-    "term": "4 Minutes",
-    "definition": "Madonna ft Justin Timberlake",
-    "example": "April 2008 · 4 weeks at No.1"
-  },
-  {
-    "id": 22,
-    "term": "That's Not My Name",
-    "definition": "Ting Tings",
-    "example": "May 2008 · 1 week at No.1"
-  },
-  {
-    "id": 23,
-    "term": "Take A Bow",
-    "definition": "Rihanna",
-    "example": "May 2008 · 2 weeks at No.1"
-  },
-  {
-    "id": 24,
-    "term": "Singin' In The Rain",
-    "definition": "Mint Royale",
-    "example": "June 2008 · 2 weeks at No.1"
-  },
-  {
-    "id": 25,
-    "term": "Viva La Vida",
-    "definition": "Coldplay",
-    "example": "June 2008 · 1 week at No.1"
-  },
-  {
-    "id": 26,
-    "term": "Closer",
-    "definition": "Ne-Yo",
-    "example": "July 2008 · 1 week at No.1"
-  },
-  {
-    "id": 27,
-    "term": "Dance Wiv Me",
-    "definition": "Dizzee Rascal Featuring Calvin Harris And Chrome",
-    "example": "July 2008 · 4 weeks at No.1"
-  },
-  {
-    "id": 28,
-    "term": "All Summer Long",
-    "definition": "Kid Rock",
-    "example": "August 2008 · 1 week at No.1"
-  },
-  {
-    "id": 29,
-    "term": "I Kissed A Girl",
-    "definition": "Katy Perry",
-    "example": "August 2008 · 5 weeks at No.1"
-  },
-  {
-    "id": 30,
-    "term": "Sex on Fire",
-    "definition": "Kings of Leon",
-    "example": "September 2008 · 3 weeks at No.1"
-  },
-  {
-    "id": 31,
-    "term": "So What",
-    "definition": "Pink",
-    "example": "October 2008 · 3 weeks at No.1"
-  },
-  {
-    "id": 32,
-    "term": "The Promise",
-    "definition": "Girls Aloud",
-    "example": "November 2008 · 1 week at No.1"
-  },
-  {
-    "id": 33,
-    "term": "Hero",
-    "definition": "X Factor Finalists",
-    "example": "November 2008 · 3 weeks at No.1"
-  },
-  {
-    "id": 34,
-    "term": "If I Were A Boy",
-    "definition": "Beyonce",
-    "example": "November 2008 · 1 week at No.1"
-  },
-  {
-    "id": 35,
-    "term": "Greatest Day",
-    "definition": "Take That",
-    "example": "December 2008 · 1 week at No.1"
-  },
-  {
-    "id": 36,
-    "term": "Run",
-    "definition": "Leona Lewis",
-    "example": "December 2008 · 2 weeks at No.1"
-  },
-  {
-    "id": 37,
-    "term": "Hallelujah",
-    "definition": "Alexandra Burke",
-    "example": "December 2008 · 3 weeks at No.1"
-  },
-  {
-    "id": 38,
-    "term": "Just Dance",
-    "definition": "Lady Gaga ft Colby O'Donis",
-    "example": "January 2009 · 3 weeks at No.1"
-  },
-  {
-    "id": 39,
-    "term": "The Fear",
-    "definition": "Lily Allen",
-    "example": "February 2009 · 4 weeks at No.1"
-  },
-  {
-    "id": 40,
-    "term": "My Life Would Suck Without You",
-    "definition": "Kelly Clarkson",
-    "example": "March 2009 · 1 week at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Right Round",
-    "definition": "Flo Rida ft Kesha",
-    "example": "March 2009 · 1 week at No.1"
-  },
-  {
-    "id": 42,
-    "term": "Islands In The Stream",
-    "definition": "Vanessa Jenkins And Bryn West Featuring Sir Tom Jones And Robin Gibb",
-    "example": "March 2009 · 1 week at No.1"
-  },
-  {
-    "id": 43,
-    "term": "Poker Face",
-    "definition": "Lady Gaga",
-    "example": "March 2009 · 3 weeks at No.1"
-  },
-  {
-    "id": 44,
-    "term": "I'm Not Alone",
-    "definition": "Calvin Harris",
-    "example": "April 2009 · 2 weeks at No.1"
-  },
-  {
-    "id": 45,
-    "term": "Number 1",
-    "definition": "Tinchy Stryder ft N-Dubz",
-    "example": "May 2009 · 3 weeks at No.1"
-  },
-  {
-    "id": 46,
-    "term": "Boom Boom Pow",
-    "definition": "Black Eyed Peas",
-    "example": "May 2009 · 2 weeks at No.1"
-  },
-  {
-    "id": 47,
-    "term": "Bonkers",
-    "definition": "Dizzee Rascal & Armand Van Helden",
-    "example": "May 2009 · 2 weeks at No.1"
-  },
-  {
-    "id": 48,
-    "term": "Mama Do (Uh Oh, Uh Oh)",
-    "definition": "Pixie Lott",
-    "example": "June 2009 · 1 week at No.1"
-  },
-  {
-    "id": 49,
-    "term": "When Love Takes Over",
-    "definition": "David Guetta ft Kelly Rowland",
-    "example": "June 2009 · 1 week at No.1"
-  },
-  {
-    "id": 50,
-    "term": "Bulletproof",
-    "definition": "La Roux",
-    "example": "July 2009 · 1 week at No.1"
-  },
-  {
-    "id": 51,
-    "term": "Evacuate The Dancefloor",
-    "definition": "Cascada",
-    "example": "July 2009 · 2 weeks at No.1"
-  },
-  {
-    "id": 52,
-    "term": "Beat Again",
-    "definition": "JLS",
-    "example": "July 2009 · 2 weeks at No.1"
-  },
-  {
-    "id": 53,
-    "term": "I Gotta Feeling",
-    "definition": "Black Eyed Peas",
-    "example": "August 2009 · 2 weeks at No.1"
-  },
-  {
-    "id": 54,
-    "term": "Never Leave You",
-    "definition": "Tinchy Stryder ft Amelle",
-    "example": "August 2009 · 1 week at No.1"
-  },
-  {
-    "id": 55,
-    "term": "Sexy Chick",
-    "definition": "David Guetta ft Akon",
-    "example": "August 2009 · 1 week at No.1"
-  },
-  {
-    "id": 56,
-    "term": "Holiday",
-    "definition": "Dizzee Rascal",
-    "example": "September 2009 · 1 week at No.1"
-  },
-  {
-    "id": 57,
-    "term": "Run This Town",
-    "definition": "Jay-Z ft Rihanna & Kanye West",
-    "example": "September 2009 · 1 week at No.1"
-  },
-  {
-    "id": 58,
-    "term": "Boys & Girls",
-    "definition": "Pixie Lott",
-    "example": "September 2009 · 1 week at No.1"
-  },
-  {
-    "id": 59,
-    "term": "Break Your Heart",
-    "definition": "Taio Cruz",
-    "example": "September 2009 · 3 weeks at No.1"
-  },
-  {
-    "id": 60,
-    "term": "Oopsy Daisy",
-    "definition": "Chipmunk",
-    "example": "October 2009 · 1 week at No.1"
-  },
-  {
-    "id": 61,
-    "term": "Bad Boys",
-    "definition": "Alexandra Burke ft Flo Rida",
-    "example": "October 2009 · 1 week at No.1"
-  },
-  {
-    "id": 62,
-    "term": "Fight For This Love",
-    "definition": "Cheryl Cole",
-    "example": "October 2009 · 2 weeks at No.1"
-  },
-  {
-    "id": 63,
-    "term": "Everybody In Love",
-    "definition": "JLS",
-    "example": "November 2009 · 1 week at No.1"
-  },
-  {
-    "id": 64,
-    "term": "Meet Me Halfway",
-    "definition": "Black Eyed Peas",
-    "example": "November 2009 · 1 week at No.1"
-  },
-  {
-    "id": 65,
-    "term": "You Are Not Alone",
-    "definition": "X Factor Finalists 2009",
-    "example": "November 2009 · 1 week at No.1"
-  },
-  {
-    "id": 66,
-    "term": "The Official BBC Children In Need Medley",
-    "definition": "Peter Kay's Animated All Star Band",
-    "example": "December 2009 · 2 weeks at No.1"
-  },
-  {
-    "id": 67,
-    "term": "Bad Romance",
-    "definition": "Lady Gaga",
-    "example": "December 2009 · 2 weeks at No.1"
-  },
-  {
-    "id": 68,
-    "term": "Killing in the Name",
-    "definition": "Rage Against the Machine",
-    "example": "December 2009 · 1 week at No.1"
-  },
-  {
-    "id": 69,
-    "term": "The Climb",
-    "definition": "Joe McElderry",
-    "example": "January 2010 · 1 week at No.1"
-  },
-  {
-    "id": 70,
-    "term": "Replay",
-    "definition": "Iyaz",
-    "example": "January 2010 · 2 weeks at No.1"
-  },
-  {
-    "id": 71,
-    "term": "Fireflies",
-    "definition": "Owl City",
-    "example": "January 2010 · 3 weeks at No.1"
-  },
-  {
-    "id": 72,
-    "term": "Everybody Hurts",
-    "definition": "Helping Haiti",
-    "example": "February 2010 · 2 weeks at No.1"
-  },
-  {
-    "id": 73,
-    "term": "In My Head",
-    "definition": "Jason Derulo",
-    "example": "March 2010 · 1 week at No.1"
-  },
-  {
-    "id": 74,
-    "term": "Pass Out",
-    "definition": "Tinie Tempah",
-    "example": "March 2010 · 2 weeks at No.1"
-  },
-  {
-    "id": 75,
-    "term": "Telephone",
-    "definition": "Lady Gaga ft Beyonce",
-    "example": "March 2010 · 2 weeks at No.1"
-  },
-  {
-    "id": 76,
-    "term": "This Ain't A Love Song",
-    "definition": "Scouting for Girls",
-    "example": "April 2010 · 2 weeks at No.1"
-  },
-  {
-    "id": 77,
-    "term": "OMG",
-    "definition": "Usher ft Will.i.am",
-    "example": "April 2010 · 1 week at No.1"
-  },
-  {
-    "id": 78,
-    "term": "Once",
-    "definition": "Diana Vickers",
-    "example": "May 2010 · 1 week at No.1"
-  },
-  {
-    "id": 79,
-    "term": "Good Times",
-    "definition": "Roll Deep",
-    "example": "May 2010 · 3 weeks at No.1"
-  },
-  {
-    "id": 80,
-    "term": "Nothin' On You",
-    "definition": "B.o.B ft Bruno Mars",
-    "example": "May 2010 · 1 week at No.1"
-  },
-  {
-    "id": 81,
-    "term": "Dirtee Disco",
-    "definition": "Dizzee Rascal",
-    "example": "June 2010 · 1 week at No.1"
-  },
-  {
-    "id": 82,
-    "term": "Gettin' Over You",
-    "definition": "David Guetta ft Chris Willis",
-    "example": "June 2010 · 1 week at No.1"
-  },
-  {
-    "id": 83,
-    "term": "Shout",
-    "definition": "Shout ft Dizzee & James Corden",
-    "example": "June 2010 · 2 weeks at No.1"
-  },
-  {
-    "id": 84,
-    "term": "California Gurls",
-    "definition": "Katy Perry ft Snoop Dogg",
-    "example": "July 2010 · 2 weeks at No.1"
-  },
-  {
-    "id": 85,
-    "term": "The Club Is Alive",
-    "definition": "JLS",
-    "example": "July 2010 · 1 week at No.1"
-  },
-  {
-    "id": 86,
-    "term": "Airplanes",
-    "definition": "B.o.B ft Hayley Williams",
-    "example": "July 2010 · 1 week at No.1"
-  },
-  {
-    "id": 87,
-    "term": "We No Speak Americano",
-    "definition": "Yolanda Be Cool vs D Cup",
-    "example": "July 2010 · 1 week at No.1"
-  },
-  {
-    "id": 88,
-    "term": "All Time Low",
-    "definition": "The Wanted",
-    "example": "August 2010 · 1 week at No.1"
-  },
-  {
-    "id": 89,
-    "term": "Beautiful Monster",
-    "definition": "Ne-Yo",
-    "example": "August 2010 · 1 week at No.1"
-  },
-  {
-    "id": 90,
-    "term": "Club Can't Handle Me",
-    "definition": "Flo Rida ft David Guetta",
-    "example": "August 2010 · 1 week at No.1"
-  },
-  {
-    "id": 91,
-    "term": "Green Light",
-    "definition": "Roll Deep",
-    "example": "August 2010 · 1 week at No.1"
-  },
-  {
-    "id": 92,
-    "term": "Dynamite",
-    "definition": "Taio Cruz",
-    "example": "September 2010 · 1 week at No.1"
-  },
-  {
-    "id": 93,
-    "term": "Please Don't Let Me Go",
-    "definition": "Olly Murs",
-    "example": "September 2010 · 1 week at No.1"
-  },
-  {
-    "id": 94,
-    "term": "Start Without You",
-    "definition": "Alexandra Burke ft Laza Morgan",
-    "example": "September 2010 · 2 weeks at No.1"
-  },
-  {
-    "id": 95,
-    "term": "Just The Way You Are (Amazing)",
-    "definition": "Bruno Mars",
-    "example": "October 2010 · 2 weeks at No.1"
-  },
-  {
-    "id": 96,
-    "term": "Written In The Stars",
-    "definition": "Tinie Tempah ft Eric Turner",
-    "example": "October 2010 · 1 week at No.1"
-  },
-  {
-    "id": 97,
-    "term": "Forget You",
-    "definition": "Cee Lo Green",
-    "example": "October 2010 · 2 weeks at No.1"
-  },
-  {
-    "id": 98,
-    "term": "Promise This",
-    "definition": "Cheryl Cole",
-    "example": "November 2010 · 1 week at No.1"
-  },
-  {
-    "id": 99,
-    "term": "Only Girl (In The World)",
-    "definition": "Rihanna",
-    "example": "November 2010 · 2 weeks at No.1"
-  },
-  {
-    "id": 100,
-    "term": "Love You More",
-    "definition": "JLS",
-    "example": "November 2010 · 1 week at No.1"
-  },
-  {
-    "id": 101,
-    "term": "Heroes",
-    "definition": "X Factor Finalists 2010",
-    "example": "December 2010 · 2 weeks at No.1"
-  },
-  {
-    "id": 102,
-    "term": "The Time (Dirty Bit)",
-    "definition": "Black Eyed Peas",
-    "example": "December 2010 · 1 week at No.1"
-  },
-  {
-    "id": 103,
-    "term": "When We Collide",
-    "definition": "Matt Cardle",
-    "example": "December 2010 · 3 weeks at No.1"
-  }
-];
-window.QM_NO1S1113_DATA = [
-  {
-    "id": 1,
-    "term": "What's My Name",
-    "definition": "Rihanna ft Drake",
-    "example": "January 2011 · 1 week at No.1"
-  },
-  {
-    "id": 2,
-    "term": "Grenade",
-    "definition": "Bruno Mars",
-    "example": "January 2011 · 2 weeks at No.1"
-  },
-  {
-    "id": 3,
-    "term": "We R Who We R",
-    "definition": "Kesha",
-    "example": "February 2011 · 1 week at No.1"
-  },
-  {
-    "id": 4,
-    "term": "Price Tag",
-    "definition": "Jessie J ft Bob",
-    "example": "February 2011 · 2 weeks at No.1"
-  },
-  {
-    "id": 5,
-    "term": "Someone Like You",
-    "definition": "Adele",
-    "example": "February 2011 · 5 weeks at No.1"
-  },
-  {
-    "id": 6,
-    "term": "Don't Hold Your Breath",
-    "definition": "Nicole Scherzinger",
-    "example": "March 2011 · 1 week at No.1"
-  },
-  {
-    "id": 7,
-    "term": "On The Floor",
-    "definition": "Jennifer Lopez ft Pitbull",
-    "example": "April 2011 · 2 weeks at No.1"
-  },
-  {
-    "id": 8,
-    "term": "Party Rock Anthem",
-    "definition": "LMFAO Featuring Lauren Bennett And GoonRock",
-    "example": "April 2011 · 4 weeks at No.1"
-  },
-  {
-    "id": 9,
-    "term": "The Lazy Song",
-    "definition": "Bruno Mars",
-    "example": "May 2011 · 1 week at No.1"
-  },
-  {
-    "id": 10,
-    "term": "Give Me Everything",
-    "definition": "Pitbull Feat. Ne-Yo, Afrojack & Nayer",
-    "example": "May 2011 · 3 weeks at No.1"
-  },
-  {
-    "id": 11,
-    "term": "Changed The Way You Kiss Me",
-    "definition": "Example",
-    "example": "June 2011 · 2 weeks at No.1"
-  },
-  {
-    "id": 12,
-    "term": "Don't Wanna Go Home",
-    "definition": "Jason Derulo",
-    "example": "July 2011 · 2 weeks at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Louder",
-    "definition": "DJ Fresh ft Sian Evans",
-    "example": "July 2011 · 1 week at No.1"
-  },
-  {
-    "id": 14,
-    "term": "Glad You Came",
-    "definition": "The Wanted",
-    "example": "July 2011 · 2 weeks at No.1"
-  },
-  {
-    "id": 15,
-    "term": "She Makes Me Wanna",
-    "definition": "JLS ft Dev",
-    "example": "August 2011 · 1 week at No.1"
-  },
-  {
-    "id": 16,
-    "term": "Swagger Jagger",
-    "definition": "Cher Lloyd",
-    "example": "August 2011 · 1 week at No.1"
-  },
-  {
-    "id": 17,
-    "term": "Promises",
-    "definition": "Nero",
-    "example": "August 2011 · 1 week at No.1"
-  },
-  {
-    "id": 18,
-    "term": "Don't Go",
-    "definition": "Wretch 32 ft Josh Kumra",
-    "example": "August 2011 · 1 week at No.1"
-  },
-  {
-    "id": 19,
-    "term": "Heart Skips A Beat",
-    "definition": "Olly Murs ft Rizzle Kicks",
-    "example": "September 2011 · 1 week at No.1"
-  },
-  {
-    "id": 20,
-    "term": "Stay Awake",
-    "definition": "Example",
-    "example": "September 2011 · 1 week at No.1"
-  },
-  {
-    "id": 21,
-    "term": "All About Tonight",
-    "definition": "Pixie Lott",
-    "example": "September 2011 · 1 week at No.1"
-  },
-  {
-    "id": 22,
-    "term": "What Makes You Beautiful",
-    "definition": "One Direction",
-    "example": "September 2011 · 1 week at No.1"
-  },
-  {
-    "id": 23,
-    "term": "No Regrets",
-    "definition": "Dappy",
-    "example": "October 2011 · 1 week at No.1"
-  },
-  {
-    "id": 24,
-    "term": "Loca People",
-    "definition": "Sak Noel",
-    "example": "October 2011 · 1 week at No.1"
-  },
-  {
-    "id": 25,
-    "term": "We Found Love",
-    "definition": "Rihanna ft Calvin Harris",
-    "example": "October 2011 · 6 weeks at No.1"
-  },
-  {
-    "id": 26,
-    "term": "Read All About It",
-    "definition": "Professor Green ft Emeli Sande",
-    "example": "November 2011 · 2 weeks at No.1"
-  },
-  {
-    "id": 27,
-    "term": "Wishing On A Star",
-    "definition": "X Factor Finalists 2011",
-    "example": "December 2011 · 1 week at No.1"
-  },
-  {
-    "id": 28,
-    "term": "Dance With Me Tonight",
-    "definition": "Olly Murs",
-    "example": "December 2011 · 1 week at No.1"
-  },
-  {
-    "id": 29,
-    "term": "Cannonball",
-    "definition": "Little Mix",
-    "example": "December 2011 · 1 week at No.1"
-  },
-  {
-    "id": 30,
-    "term": "Wherever You Are",
-    "definition": "Military Wives With Gareth Malone",
-    "example": "December 2011 · 1 week at No.1"
-  },
-  {
-    "id": 31,
-    "term": "Paradise",
-    "definition": "Coldplay",
-    "example": "January 2012 · 1 week at No.1"
-  },
-  {
-    "id": 32,
-    "term": "Good Feeling",
-    "definition": "Flo Rida",
-    "example": "January 2012 · 1 week at No.1"
-  },
-  {
-    "id": 33,
-    "term": "Domino",
-    "definition": "Jessie J",
-    "example": "January 2012 · 2 weeks at No.1"
-  },
-  {
-    "id": 34,
-    "term": "Twilight",
-    "definition": "Cover Drive",
-    "example": "February 2012 · 1 week at No.1"
-  },
-  {
-    "id": 35,
-    "term": "Titanium",
-    "definition": "David Guetta ft Sia",
-    "example": "February 2012 · 1 week at No.1"
-  },
-  {
-    "id": 36,
-    "term": "Somebody That I Used To Know",
-    "definition": "Gotye ft Kimbra",
-    "example": "February 2012 · 5 weeks at No.1"
-  },
-  {
-    "id": 37,
-    "term": "Hot Right Now",
-    "definition": "DJ Fresh ft Rita Ora",
-    "example": "February 2012 · 1 week at No.1"
-  },
-  {
-    "id": 38,
-    "term": "Part Of Me",
-    "definition": "Katy Perry",
-    "example": "March 2012 · 1 week at No.1"
-  },
-  {
-    "id": 39,
-    "term": "Turn Up The Music",
-    "definition": "Chris Brown",
-    "example": "April 2012 · 1 week at No.1"
-  },
-  {
-    "id": 40,
-    "term": "Call Me Maybe",
-    "definition": "Carly Rae Jepsen",
-    "example": "April 2012 · 4 weeks at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Young",
-    "definition": "Tulisa",
-    "example": "May 2012 · 1 week at No.1"
-  },
-  {
-    "id": 42,
-    "term": "R.I.P.",
-    "definition": "Rita Ora ft Tinie Tempah",
-    "example": "May 2012 · 2 weeks at No.1"
-  },
-  {
-    "id": 43,
-    "term": "We Are Young",
-    "definition": "Fun ft Janelle Monae",
-    "example": "June 2012 · 1 week at No.1"
-  },
-  {
-    "id": 44,
-    "term": "Feel the Love",
-    "definition": "Rudimental ft John Newman",
-    "example": "June 2012 · 1 week at No.1"
-  },
-  {
-    "id": 45,
-    "term": "Sing",
-    "definition": "Gary Barlow & The Commonwealth Band",
-    "example": "June 2012 · 1 week at No.1"
-  },
-  {
-    "id": 46,
-    "term": "Call My Name",
-    "definition": "Cheryl",
-    "example": "June 2012 · 1 week at No.1"
-  },
-  {
-    "id": 47,
-    "term": "Payphone",
-    "definition": "Maroon 5 ft Wiz Khalifa",
-    "example": "June 2012 · 2 weeks at No.1"
-  },
-  {
-    "id": 48,
-    "term": "This Is Love",
-    "definition": "Will.i.am ft Eva Simons",
-    "example": "July 2012 · 1 week at No.1"
-  },
-  {
-    "id": 49,
-    "term": "Spectrum (Say My Name)",
-    "definition": "Florence & the Machine",
-    "example": "July 2012 · 3 weeks at No.1"
-  },
-  {
-    "id": 50,
-    "term": "Heatwave",
-    "definition": "Wiley ft Ms D",
-    "example": "August 2012 · 2 weeks at No.1"
-  },
-  {
-    "id": 51,
-    "term": "How We Do (Party)",
-    "definition": "Rita Ora",
-    "example": "August 2012 · 1 week at No.1"
-  },
-  {
-    "id": 52,
-    "term": "Bom Bom",
-    "definition": "Sam and the Womp",
-    "example": "September 2012 · 1 week at No.1"
-  },
-  {
-    "id": 53,
-    "term": "Wings",
-    "definition": "Little Mix",
-    "example": "September 2012 · 1 week at No.1"
-  },
-  {
-    "id": 54,
-    "term": "Let Me Love You (Until You Learn to Love Yourself)",
-    "definition": "Ne-Yo",
-    "example": "September 2012 · 1 week at No.1"
-  },
-  {
-    "id": 55,
-    "term": "Hall of Fame",
-    "definition": "Script ft Will.i.am",
-    "example": "September 2012 · 2 weeks at No.1"
-  },
-  {
-    "id": 56,
-    "term": "Gangnam Style",
-    "definition": "Psy",
-    "example": "October 2012 · 1 week at No.1"
-  },
-  {
-    "id": 57,
-    "term": "Diamonds",
-    "definition": "Rihanna",
-    "example": "October 2012 · 1 week at No.1"
-  },
-  {
-    "id": 58,
-    "term": "Don't You Worry Child",
-    "definition": "Swedish House Mafia Feat. John Martin",
-    "example": "October 2012 · 1 week at No.1"
-  },
-  {
-    "id": 59,
-    "term": "Sweet Nothing",
-    "definition": "Calvin Harris Feat. Florence Welch",
-    "example": "October 2012 · 1 week at No.1"
-  },
-  {
-    "id": 60,
-    "term": "Beneath Your Beautiful",
-    "definition": "Labrinth ft Emeli Sande",
-    "example": "November 2012 · 1 week at No.1"
-  },
-  {
-    "id": 61,
-    "term": "Candy",
-    "definition": "Robbie Williams",
-    "example": "November 2012 · 2 weeks at No.1"
-  },
-  {
-    "id": 62,
-    "term": "Little Things",
-    "definition": "One Direction",
-    "example": "November 2012 · 1 week at No.1"
-  },
-  {
-    "id": 63,
-    "term": "Troublemaker",
-    "definition": "Olly Murs ft Flo Rida",
-    "example": "December 2012 · 2 weeks at No.1"
-  },
-  {
-    "id": 64,
-    "term": "The Power of Love",
-    "definition": "Gabrielle Aplin",
-    "example": "December 2012 · 1 week at No.1"
-  },
-  {
-    "id": 65,
-    "term": "Impossible",
-    "definition": "James Arthur",
-    "example": "December 2012 · 3 weeks at No.1"
-  },
-  {
-    "id": 66,
-    "term": "He Ain't Heavy He's My Brother",
-    "definition": "Justice Collective",
-    "example": "December 2012 · 1 week at No.1"
-  },
-  {
-    "id": 67,
-    "term": "Scream & Shout",
-    "definition": "Will.i.am ft Britney Spears",
-    "example": "January 2013 · 2 weeks at No.1"
-  },
-  {
-    "id": 68,
-    "term": "Get Up (Rattle)",
-    "definition": "Bingo Players ft Far East",
-    "example": "February 2013 · 2 weeks at No.1"
-  },
-  {
-    "id": 69,
-    "term": "Thrift Shop",
-    "definition": "Macklemore & Ryan Lewis Feat. Wanz",
-    "example": "February 2013 · 1 week at No.1"
-  },
-  {
-    "id": 70,
-    "term": "I Could Be the One",
-    "definition": "Avicii vs Nicky Romero",
-    "example": "February 2013 · 1 week at No.1"
-  },
-  {
-    "id": 71,
-    "term": "One Way or Another (Teenage Kicks)",
-    "definition": "One Direction",
-    "example": "March 2013 · 1 week at No.1"
-  },
-  {
-    "id": 72,
-    "term": "Mirrors",
-    "definition": "Justin Timberlake",
-    "example": "March 2013 · 3 weeks at No.1"
-  },
-  {
-    "id": 73,
-    "term": "What About Us",
-    "definition": "Saturdays ft Sean Paul",
-    "example": "March 2013 · 1 week at No.1"
-  },
-  {
-    "id": 74,
-    "term": "Let's Get Ready To Rhumble",
-    "definition": "PJ & Duncan",
-    "example": "April 2013 · 1 week at No.1"
-  },
-  {
-    "id": 75,
-    "term": "Need U (100 Percent)",
-    "definition": "Duke Dumont ft Ame",
-    "example": "April 2013 · 2 weeks at No.1"
-  },
-  {
-    "id": 76,
-    "term": "Waiting All Night",
-    "definition": "Rudimental ft Ella Eyre",
-    "example": "April 2013 · 1 week at No.1"
-  },
-  {
-    "id": 77,
-    "term": "Get Lucky",
-    "definition": "Daft Punk ft Pharrell Williams",
-    "example": "May 2013 · 4 weeks at No.1"
-  },
-  {
-    "id": 78,
-    "term": "La La La",
-    "definition": "Naughty Boy ft Sam Smith",
-    "example": "June 2013 · 1 week at No.1"
-  },
-  {
-    "id": 79,
-    "term": "Blurred Lines",
-    "definition": "Robin Thicke Feat. T.I. + Pharrell",
-    "example": "June 2013 · 5 weeks at No.1"
-  },
-  {
-    "id": 80,
-    "term": "I Love It",
-    "definition": "Icona Pop ft Charli Xcx",
-    "example": "July 2013 · 1 week at No.1"
-  },
-  {
-    "id": 81,
-    "term": "Love Me Again",
-    "definition": "John Newman",
-    "example": "July 2013 · 1 week at No.1"
-  },
-  {
-    "id": 82,
-    "term": "Wake Me Up",
-    "definition": "Avicii",
-    "example": "July 2013 · 3 weeks at No.1"
-  },
-  {
-    "id": 83,
-    "term": "We Can't Stop",
-    "definition": "Miley Cyrus",
-    "example": "August 2013 · 1 week at No.1"
-  },
-  {
-    "id": 84,
-    "term": "Burn",
-    "definition": "Ellie Goulding",
-    "example": "August 2013 · 3 weeks at No.1"
-  },
-  {
-    "id": 85,
-    "term": "Roar",
-    "definition": "Katy Perry",
-    "example": "September 2013 · 2 weeks at No.1"
-  },
-  {
-    "id": 86,
-    "term": "Talk Dirty",
-    "definition": "Jason Derulo ft 2 Chainz",
-    "example": "September 2013 · 2 weeks at No.1"
-  },
-  {
-    "id": 87,
-    "term": "Counting Stars",
-    "definition": "OneRepublic",
-    "example": "October 2013 · 2 weeks at No.1"
-  },
-  {
-    "id": 88,
-    "term": "Wrecking Ball",
-    "definition": "Miley Cyrus",
-    "example": "October 2013 · 1 week at No.1"
-  },
-  {
-    "id": 89,
-    "term": "Royals",
-    "definition": "Lorde",
-    "example": "November 2013 · 1 week at No.1"
-  },
-  {
-    "id": 90,
-    "term": "The Monster",
-    "definition": "Eminem ft Rihanna",
-    "example": "November 2013 · 1 week at No.1"
-  },
-  {
-    "id": 91,
-    "term": "Look Right Through",
-    "definition": "Storm Queen",
-    "example": "November 2013 · 1 week at No.1"
-  },
-  {
-    "id": 92,
-    "term": "Animals",
-    "definition": "Martin Garrix",
-    "example": "November 2013 · 1 week at No.1"
-  },
-  {
-    "id": 93,
-    "term": "Somewhere Only We Know",
-    "definition": "Lily Allen",
-    "example": "November 2013 · 3 weeks at No.1"
-  },
-  {
-    "id": 94,
-    "term": "Under Control",
-    "definition": "Calvin Harris & Alesso Feat. Hurts",
-    "example": "December 2013 · 1 week at No.1"
-  },
-  {
-    "id": 95,
-    "term": "Skyscraper",
-    "definition": "Sam Bailey",
-    "example": "December 2013 · 1 week at No.1"
-  }
-];
-window.QM_NO1S1416_DATA = [
-  {
-    "id": 1,
-    "term": "Happy",
-    "definition": "Pharrell Williams",
-    "example": "January 2014 · 4 weeks at No.1"
-  },
-  {
-    "id": 2,
-    "term": "Timber",
-    "definition": "Pitbull ft Kesha",
-    "example": "January 2014 · 1 week at No.1"
-  },
-  {
-    "id": 3,
-    "term": "Rather Be",
-    "definition": "Clean Bandit ft Jess Glynne",
-    "example": "February 2014 · 4 weeks at No.1"
-  },
-  {
-    "id": 4,
-    "term": "Money on My Mind",
-    "definition": "Sam Smith",
-    "example": "March 2014 · 1 week at No.1"
-  },
-  {
-    "id": 5,
-    "term": "My Love",
-    "definition": "Route 94 ft Jess Glynne",
-    "example": "March 2014 · 1 week at No.1"
-  },
-  {
-    "id": 6,
-    "term": "Tsunami (Jump)",
-    "definition": "DVBBS & Borgeous Feat. Tinie Tempah",
-    "example": "March 2014 · 1 week at No.1"
-  },
-  {
-    "id": 7,
-    "term": "I Got U",
-    "definition": "Duke Dumont ft Jax Jones",
-    "example": "March 2014 · 1 week at No.1"
-  },
-  {
-    "id": 8,
-    "term": "She Looks So Perfect",
-    "definition": "5 Seconds of Summer",
-    "example": "April 2014 · 1 week at No.1"
-  },
-  {
-    "id": 9,
-    "term": "The Man",
-    "definition": "Aloe Blacc",
-    "example": "April 2014 · 1 week at No.1"
-  },
-  {
-    "id": 10,
-    "term": "Nobody to Love",
-    "definition": "Sigma",
-    "example": "April 2014 · 1 week at No.1"
-  },
-  {
-    "id": 11,
-    "term": "Hideaway",
-    "definition": "Kiesza",
-    "example": "April 2014 · 1 week at No.1"
-  },
-  {
-    "id": 12,
-    "term": "Waves",
-    "definition": "Mr Probz",
-    "example": "May 2014 · 2 weeks at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Summer",
-    "definition": "Calvin Harris",
-    "example": "May 2014 · 1 week at No.1"
-  },
-  {
-    "id": 14,
-    "term": "I Will Never Let You Down",
-    "definition": "Rita Ora",
-    "example": "May 2014 · 1 week at No.1"
-  },
-  {
-    "id": 15,
-    "term": "Stay With Me",
-    "definition": "Sam Smith",
-    "example": "May 2014 · 1 week at No.1"
-  },
-  {
-    "id": 16,
-    "term": "I Wanna Feel",
-    "definition": "Secondcity",
-    "example": "June 2014 · 1 week at No.1"
-  },
-  {
-    "id": 17,
-    "term": "Sing",
-    "definition": "Ed Sheeran",
-    "example": "June 2014 · 1 week at No.1"
-  },
-  {
-    "id": 18,
-    "term": "Ghost",
-    "definition": "Ella Henderson",
-    "example": "June 2014 · 2 weeks at No.1"
-  },
-  {
-    "id": 19,
-    "term": "Gecko (Overdrive)",
-    "definition": "Oliver Heldens & Becky Hill",
-    "example": "July 2014 · 1 week at No.1"
-  },
-  {
-    "id": 20,
-    "term": "Problem",
-    "definition": "Ariana Grande ft Iggy Azalea",
-    "example": "July 2014 · 1 week at No.1"
-  },
-  {
-    "id": 21,
-    "term": "It's My Birthday",
-    "definition": "Will.i.am ft Cody Wise",
-    "example": "July 2014 · 1 week at No.1"
-  },
-  {
-    "id": 22,
-    "term": "Me and My Broken Heart",
-    "definition": "Rixton",
-    "example": "July 2014 · 1 week at No.1"
-  },
-  {
-    "id": 23,
-    "term": "Crazy Stupid Love",
-    "definition": "Cheryl Cole ft Tinie Tempah",
-    "example": "August 2014 · 1 week at No.1"
-  },
-  {
-    "id": 24,
-    "term": "Rude",
-    "definition": "Magic",
-    "example": "August 2014 · 1 week at No.1"
-  },
-  {
-    "id": 25,
-    "term": "Am I Wrong",
-    "definition": "Nico & Vinz",
-    "example": "August 2014 · 2 weeks at No.1"
-  },
-  {
-    "id": 26,
-    "term": "Lovers on the Sun",
-    "definition": "David Guetta ft Sam Martin",
-    "example": "August 2014 · 1 week at No.1"
-  },
-  {
-    "id": 27,
-    "term": "Prayer in C",
-    "definition": "Lilly Wood & Robin Schulz",
-    "example": "September 2014 · 2 weeks at No.1"
-  },
-  {
-    "id": 28,
-    "term": "Blame",
-    "definition": "Calvin Harris ft John Newman",
-    "example": "September 2014 · 1 week at No.1"
-  },
-  {
-    "id": 29,
-    "term": "Changing",
-    "definition": "Sigma ft Paloma Faith",
-    "example": "September 2014 · 1 week at No.1"
-  },
-  {
-    "id": 30,
-    "term": "Bang Bang",
-    "definition": "Jessie J, Ariana Grande & Nicki Minaj",
-    "example": "October 2014 · 1 week at No.1"
-  },
-  {
-    "id": 31,
-    "term": "All About That Bass",
-    "definition": "Meghan Trainor",
-    "example": "October 2014 · 4 weeks at No.1"
-  },
-  {
-    "id": 32,
-    "term": "Thinking Out Loud",
-    "definition": "Ed Sheeran",
-    "example": "November 2014 · 2 weeks at No.1"
-  },
-  {
-    "id": 33,
-    "term": "I Don't Care",
-    "definition": "Cheryl",
-    "example": "November 2014 · 1 week at No.1"
-  },
-  {
-    "id": 34,
-    "term": "Wake Me Up",
-    "definition": "Gareth Malone's All Star Choir",
-    "example": "November 2014 · 1 week at No.1"
-  },
-  {
-    "id": 35,
-    "term": "Do They Know It's Christmas",
-    "definition": "Band Aid 30",
-    "example": "November 2014 · 1 week at No.1"
-  },
-  {
-    "id": 36,
-    "term": "These Days",
-    "definition": "Take That",
-    "example": "December 2014 · 1 week at No.1"
-  },
-  {
-    "id": 37,
-    "term": "Uptown Funk",
-    "definition": "Mark Ronson ft Bruno Mars",
-    "example": "December 2014 · 7 weeks at No.1"
-  },
-  {
-    "id": 38,
-    "term": "Something I Need",
-    "definition": "Ben Haenow",
-    "example": "December 2014 · 1 week at No.1"
-  },
-  {
-    "id": 39,
-    "term": "Love Me Like You Do",
-    "definition": "Ellie Goulding",
-    "example": "February 2015 · 4 weeks at No.1"
-  },
-  {
-    "id": 40,
-    "term": "King",
-    "definition": "Years & Years",
-    "example": "March 2015 · 1 week at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Lay Me Down",
-    "definition": "Sam Smith ft John Legend",
-    "example": "March 2015 · 2 weeks at No.1"
-  },
-  {
-    "id": 42,
-    "term": "Hold My Hand",
-    "definition": "Jess Glynne",
-    "example": "April 2015 · 3 weeks at No.1"
-  },
-  {
-    "id": 43,
-    "term": "See You Again",
-    "definition": "Wiz Khalifa ft Charlie Puth",
-    "example": "April 2015 · 2 weeks at No.1"
-  },
-  {
-    "id": 44,
-    "term": "Cheerleader (Felix Jaehn Remix)",
-    "definition": "Omi",
-    "example": "May 2015 · 4 weeks at No.1"
-  },
-  {
-    "id": 45,
-    "term": "Want to Want Me",
-    "definition": "Jason Derulo",
-    "example": "June 2015 · 4 weeks at No.1"
-  },
-  {
-    "id": 46,
-    "term": "Not Letting Go",
-    "definition": "Tinie Tempah ft Jess Glynne",
-    "example": "July 2015 · 1 week at No.1"
-  },
-  {
-    "id": 47,
-    "term": "Are You With Me",
-    "definition": "Lost Frequencies",
-    "example": "July 2015 · 1 week at No.1"
-  },
-  {
-    "id": 48,
-    "term": "House Every Weekend",
-    "definition": "David Zowie",
-    "example": "July 2015 · 1 week at No.1"
-  },
-  {
-    "id": 49,
-    "term": "Black Magic",
-    "definition": "Little Mix",
-    "example": "July 2015 · 3 weeks at No.1"
-  },
-  {
-    "id": 50,
-    "term": "Drag Me Down",
-    "definition": "One Direction",
-    "example": "August 2015 · 1 week at No.1"
-  },
-  {
-    "id": 51,
-    "term": "Marvin Gaye",
-    "definition": "Charlie Puth ft Meghan Trainor",
-    "example": "August 2015 · 1 week at No.1"
-  },
-  {
-    "id": 52,
-    "term": "Don't Be So Hard on Yourself",
-    "definition": "Jess Glynne",
-    "example": "August 2015 · 1 week at No.1"
-  },
-  {
-    "id": 53,
-    "term": "Fight Song",
-    "definition": "Rachel Platten",
-    "example": "September 2015 · 1 week at No.1"
-  },
-  {
-    "id": 54,
-    "term": "What Do You Mean",
-    "definition": "Justin Bieber",
-    "example": "September 2015 · 5 weeks at No.1"
-  },
-  {
-    "id": 55,
-    "term": "Easy Love",
-    "definition": "Sigala",
-    "example": "September 2015 · 1 week at No.1"
-  },
-  {
-    "id": 56,
-    "term": "Writing's on the Wall",
-    "definition": "Sam Smith",
-    "example": "October 2015 · 1 week at No.1"
-  },
-  {
-    "id": 57,
-    "term": "Turn the Music Louder (Rumble)",
-    "definition": "KDA ft Tinie Tempah & Katy B",
-    "example": "October 2015 · 1 week at No.1"
-  },
-  {
-    "id": 58,
-    "term": "Hello",
-    "definition": "Adele",
-    "example": "November 2015 · 3 weeks at No.1"
-  },
-  {
-    "id": 59,
-    "term": "Sorry",
-    "definition": "Justin Bieber",
-    "example": "November 2015 · 2 weeks at No.1"
-  },
-  {
-    "id": 60,
-    "term": "Love Yourself",
-    "definition": "Justin Bieber",
-    "example": "December 2015 · 6 weeks at No.1"
-  },
-  {
-    "id": 61,
-    "term": "A Bridge Over You",
-    "definition": "Lewisham & Greenwich NHS Choir",
-    "example": "December 2015 · 1 week at No.1"
-  },
-  {
-    "id": 62,
-    "term": "Stitches",
-    "definition": "Shawn Mendes",
-    "example": "January 2016 · 2 weeks at No.1"
-  },
-  {
-    "id": 63,
-    "term": "Pillowtalk",
-    "definition": "Zayn",
-    "example": "February 2016 · 1 week at No.1"
-  },
-  {
-    "id": 64,
-    "term": "7 Years",
-    "definition": "Lukas Graham",
-    "example": "February 2016 · 5 weeks at No.1"
-  },
-  {
-    "id": 65,
-    "term": "I Took a Pill in Ibiza",
-    "definition": "Mike Posner",
-    "example": "March 2016 · 4 weeks at No.1"
-  },
-  {
-    "id": 66,
-    "term": "One Dance",
-    "definition": "Drake ft Wizkid & Kyla",
-    "example": "April 2016 · 15 weeks at No.1"
-  },
-  {
-    "id": 67,
-    "term": "Cold Water",
-    "definition": "Major Lazer Feat. Justin Bieber & MØ",
-    "example": "August 2016 · 5 weeks at No.1"
-  },
-  {
-    "id": 68,
-    "term": "Closer",
-    "definition": "The Chainsmokers ft Halsey",
-    "example": "September 2016 · 4 weeks at No.1"
-  },
-  {
-    "id": 69,
-    "term": "Say You Won't Let Go",
-    "definition": "James Arthur",
-    "example": "October 2016 · 3 weeks at No.1"
-  },
-  {
-    "id": 70,
-    "term": "Shout Out to My Ex",
-    "definition": "Little Mix",
-    "example": "October 2016 · 3 weeks at No.1"
-  },
-  {
-    "id": 71,
-    "term": "Rockabye",
-    "definition": "Clean Bandit",
-    "example": "November 2016 · 9 weeks at No.1"
-  }
-];
-window.QM_NO1S1719_DATA = [
-  {
-    "id": 1,
-    "term": "Shape of You",
-    "definition": "Ed Sheeran",
-    "example": "January 2017 · 14 weeks at No.1"
-  },
-  {
-    "id": 2,
-    "term": "Sign of the Times",
-    "definition": "Harry Styles",
-    "example": "April 2017 · 1 week at No.1"
-  },
-  {
-    "id": 3,
-    "term": "Symphony",
-    "definition": "Clean Bandit ft Zara Larsson",
-    "example": "May 2017 · 1 week at No.1"
-  },
-  {
-    "id": 4,
-    "term": "I'm the One",
-    "definition": "DJ Khaled Feat. Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
-    "example": "May 2017 · 1 week at No.1"
-  },
-  {
-    "id": 5,
-    "term": "Despacito (Remix)",
-    "definition": "Luis Fonsi & Daddy Yankee Feat. Justin Bieber",
-    "example": "May 2017 · 11 weeks at No.1"
-  },
-  {
-    "id": 6,
-    "term": "Bridge Over Troubled Water",
-    "definition": "Artists for Grenfell",
-    "example": "June 2017 · 1 week at No.1"
-  },
-  {
-    "id": 7,
-    "term": "Wild Thoughts",
-    "definition": "DJ Khaled Feat. Rihanna & Bryson Tiller",
-    "example": "July 2017 · 1 week at No.1"
-  },
-  {
-    "id": 8,
-    "term": "Feels",
-    "definition": "Calvin Harris Feat. Pharrell Williams, Katy Perry & Big Sean",
-    "example": "August 2017 · 1 week at No.1"
-  },
-  {
-    "id": 9,
-    "term": "New Rules",
-    "definition": "Dua Lipa",
-    "example": "August 2017 · 2 weeks at No.1"
-  },
-  {
-    "id": 10,
-    "term": "Look What You Made Me Do",
-    "definition": "Taylor Swift",
-    "example": "September 2017 · 2 weeks at No.1"
-  },
-  {
-    "id": 11,
-    "term": "Too Good at Goodbyes",
-    "definition": "Sam Smith",
-    "example": "September 2017 · 3 weeks at No.1"
-  },
-  {
-    "id": 12,
-    "term": "Rockstar",
-    "definition": "Post Malone ft 21 Savage",
-    "example": "October 2017 · 4 weeks at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Havana",
-    "definition": "Camila Cabello ft Young Thug",
-    "example": "November 2017 · 5 weeks at No.1"
-  },
-  {
-    "id": 14,
-    "term": "Perfect",
-    "definition": "Ed Sheeran",
-    "example": "December 2017 · 6 weeks at No.1"
-  },
-  {
-    "id": 15,
-    "term": "River",
-    "definition": "Eminem ft Ed Sheeran",
-    "example": "January 2018 · 1 week at No.1"
-  },
-  {
-    "id": 16,
-    "term": "God's Plan",
-    "definition": "Drake",
-    "example": "February 2018 · 9 weeks at No.1"
-  },
-  {
-    "id": 17,
-    "term": "These Days",
-    "definition": "Rudimental Feat. Jess Glynne, Macklemore & Dan Caplen",
-    "example": "April 2018 · 1 week at No.1"
-  },
-  {
-    "id": 18,
-    "term": "Freaky Friday",
-    "definition": "Lil Dicky ft Chris Brown",
-    "example": "April 2018 · 1 week at No.1"
-  },
-  {
-    "id": 19,
-    "term": "Nice for What",
-    "definition": "Drake",
-    "example": "April 2018 · 1 week at No.1"
-  },
-  {
-    "id": 20,
-    "term": "One Kiss",
-    "definition": "Calvin Harris & Dua Lipa",
-    "example": "April 2018 · 8 weeks at No.1"
-  },
-  {
-    "id": 21,
-    "term": "I'll Be There",
-    "definition": "Jess Glynne",
-    "example": "June 2018 · 1 week at No.1"
-  },
-  {
-    "id": 22,
-    "term": "Solo",
-    "definition": "Clean Bandit ft Demi Lovato",
-    "example": "June 2018 · 1 week at No.1"
-  },
-  {
-    "id": 23,
-    "term": "Shotgun",
-    "definition": "George Ezra",
-    "example": "July 2018 · 4 weeks at No.1"
-  },
-  {
-    "id": 24,
-    "term": "3 Lions",
-    "definition": "Baddiel & Skinner & Lightning Seeds",
-    "example": "July 2018 · 1 week at No.1"
-  },
-  {
-    "id": 25,
-    "term": "In My Feelings",
-    "definition": "Drake",
-    "example": "July 2018 · 4 weeks at No.1"
-  },
-  {
-    "id": 26,
-    "term": "Eastside",
-    "definition": "Benny Blanco Feat. Halsey & Khalid",
-    "example": "September 2018 · 1 week at No.1"
-  },
-  {
-    "id": 27,
-    "term": "Promises",
-    "definition": "Calvin Harris & Sam Smith",
-    "example": "September 2018 · 6 weeks at No.1"
-  },
-  {
-    "id": 28,
-    "term": "Funky Friday",
-    "definition": "Dave ft Fredo",
-    "example": "October 2018 · 1 week at No.1"
-  },
-  {
-    "id": 29,
-    "term": "Shallow",
-    "definition": "Lady Gaga & Bradley Cooper",
-    "example": "November 2018 · 2 weeks at No.1"
-  },
-  {
-    "id": 30,
-    "term": "Thank U Next",
-    "definition": "Ariana Grande",
-    "example": "November 2018 · 6 weeks at No.1"
-  },
-  {
-    "id": 31,
-    "term": "We Built This City",
-    "definition": "Ladbaby",
-    "example": "December 2018 · 1 week at No.1"
-  },
-  {
-    "id": 32,
-    "term": "Sweet but Psycho",
-    "definition": "Ava Max",
-    "example": "January 2019 · 4 weeks at No.1"
-  },
-  {
-    "id": 33,
-    "term": "7 Rings",
-    "definition": "Ariana Grande",
-    "example": "January 2019 · 4 weeks at No.1"
-  },
-  {
-    "id": 34,
-    "term": "Break Up With Your Girlfriend I'm Bored",
-    "definition": "Ariana Grande",
-    "example": "February 2019 · 1 week at No.1"
-  },
-  {
-    "id": 35,
-    "term": "Someone You Loved",
-    "definition": "Lewis Capaldi",
-    "example": "March 2019 · 7 weeks at No.1"
-  },
-  {
-    "id": 36,
-    "term": "Old Town Road",
-    "definition": "Lil Nas X",
-    "example": "April 2019 · 2 weeks at No.1"
-  },
-  {
-    "id": 37,
-    "term": "Vossi Bop",
-    "definition": "Stormzy",
-    "example": "May 2019 · 2 weeks at No.1"
-  },
-  {
-    "id": 38,
-    "term": "I Don't Care",
-    "definition": "Ed Sheeran & Justin Bieber",
-    "example": "May 2019 · 8 weeks at No.1"
-  },
-  {
-    "id": 39,
-    "term": "Senorita",
-    "definition": "Shawn Mendes & Camila Cabello",
-    "example": "July 2019 · 6 weeks at No.1"
-  },
-  {
-    "id": 40,
-    "term": "Beautiful People",
-    "definition": "Ed Sheeran ft Khalid",
-    "example": "July 2019 · 1 week at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Take Me Back to London",
-    "definition": "Ed Sheeran ft Stormzy",
-    "example": "September 2019 · 5 weeks at No.1"
-  },
-  {
-    "id": 42,
-    "term": "Dance Monkey",
-    "definition": "Tones & I",
-    "example": "October 2019 · 11 weeks at No.1"
-  },
-  {
-    "id": 43,
-    "term": "I Love Sausage Rolls",
-    "definition": "Ladbaby",
-    "example": "December 2019 · 1 week at No.1"
-  }
-];
-window.QM_NO1S2026_DATA = [
-  {
-    "id": 1,
-    "term": "River",
-    "definition": "Ellie Goulding",
-    "example": "January 2020 · 1 week at No.1"
-  },
-  {
-    "id": 2,
-    "term": "Own It",
-    "definition": "Stormzy Feat. Ed Sheeran & Burna Boy",
-    "example": "January 2020 · 3 weeks at No.1"
-  },
-  {
-    "id": 3,
-    "term": "Godzilla",
-    "definition": "Eminem ft Juice Wrld",
-    "example": "January 2020 · 1 week at No.1"
-  },
-  {
-    "id": 4,
-    "term": "Before You Go",
-    "definition": "Lewis Capaldi",
-    "example": "February 2020 · 1 week at No.1"
-  },
-  {
-    "id": 5,
-    "term": "Blinding Lights",
-    "definition": "The Weeknd",
-    "example": "February 2020 · 8 weeks at No.1"
-  },
-  {
-    "id": 6,
-    "term": "No Time to Die",
-    "definition": "Billie Eilish",
-    "example": "February 2020 · 1 week at No.1"
-  },
-  {
-    "id": 7,
-    "term": "Roses",
-    "definition": "SAINt JHN",
-    "example": "March 2020 · 2 weeks at No.1"
-  },
-  {
-    "id": 8,
-    "term": "You'll Never Walk Alone",
-    "definition": "Michael Ball & Captain Tom Moore With The NHS Voices Of Care Choir",
-    "example": "April 2020 · 1 week at No.1"
-  },
-  {
-    "id": 9,
-    "term": "Times Like These (BBC Radio 1 Stay Home)",
-    "definition": "Live Lounge Allstars",
-    "example": "May 2020 · 1 week at No.1"
-  },
-  {
-    "id": 10,
-    "term": "Toosie Slide",
-    "definition": "Drake",
-    "example": "May 2020 · 1 week at No.1"
-  },
-  {
-    "id": 11,
-    "term": "Rockstar",
-    "definition": "Dababy ft Roddy Ricch",
-    "example": "May 2020 · 6 weeks at No.1"
-  },
-  {
-    "id": 12,
-    "term": "Rain on Me",
-    "definition": "Lady Gaga & Ariana Grande",
-    "example": "June 2020 · 1 week at No.1"
-  },
-  {
-    "id": 13,
-    "term": "Savage Love (Laxed - Siren Beat)",
-    "definition": "Jawsh 685 & Jason Derulo",
-    "example": "July 2020 · 3 weeks at No.1"
-  },
-  {
-    "id": 14,
-    "term": "Head & Heart",
-    "definition": "Joel Corry ft MNEK",
-    "example": "July 2020 · 6 weeks at No.1"
-  },
-  {
-    "id": 15,
-    "term": "Wap",
-    "definition": "Cardi B ft Megan Thee Stallion",
-    "example": "September 2020 · 3 weeks at No.1"
-  },
-  {
-    "id": 16,
-    "term": "Mood",
-    "definition": "24kgoldn ft Iann Dior",
-    "example": "October 2020 · 4 weeks at No.1"
-  },
-  {
-    "id": 17,
-    "term": "Lemonade",
-    "definition": "Internet Money Feat. Gunna, Don Toliver & NAV",
-    "example": "October 2020 · 1 week at No.1"
-  },
-  {
-    "id": 18,
-    "term": "Positions",
-    "definition": "Ariana Grande",
-    "example": "November 2020 · 6 weeks at No.1"
-  },
-  {
-    "id": 19,
-    "term": "All I Want for Christmas Is You",
-    "definition": "Mariah Carey",
-    "example": "December 2020 and December 2022 · 3 weeks at No.1 in total"
-  },
-  {
-    "id": 20,
-    "term": "Don't Stop Me Eatin'",
-    "definition": "Ladbaby",
-    "example": "December 2020 · 1 week at No.1"
-  },
-  {
-    "id": 21,
-    "term": "Last Christmas",
-    "definition": "Wham!",
-    "example": "January 2021, December 2022, December 2023, December 2024 and December 2025 · 12 weeks at No.1 in total"
-  },
-  {
-    "id": 22,
-    "term": "Sweet Melody",
-    "definition": "Little Mix",
-    "example": "January 2021 · 1 week at No.1"
-  },
-  {
-    "id": 23,
-    "term": "Drivers License",
-    "definition": "Olivia Rodrigo",
-    "example": "January 2021 · 9 weeks at No.1"
-  },
-  {
-    "id": 24,
-    "term": "Wellerman",
-    "definition": "Nathan Evans, 220 KID & Billen Ted",
-    "example": "March 2021 · 2 weeks at No.1"
-  },
-  {
-    "id": 25,
-    "term": "Montero (Call Me by Your Name)",
-    "definition": "Lil Nas X",
-    "example": "April 2021 · 5 weeks at No.1"
-  },
-  {
-    "id": 26,
-    "term": "Body",
-    "definition": "Tion Wayne & Russ Millions",
-    "example": "May 2021 · 3 weeks at No.1"
-  },
-  {
-    "id": 27,
-    "term": "Good 4 U",
-    "definition": "Olivia Rodrigo",
-    "example": "June 2021 · 5 weeks at No.1"
-  },
-  {
-    "id": 28,
-    "term": "Bad Habits",
-    "definition": "Ed Sheeran",
-    "example": "July 2021 · 11 weeks at No.1"
-  },
-  {
-    "id": 29,
-    "term": "Shivers",
-    "definition": "Ed Sheeran",
-    "example": "September 2021 · 4 weeks at No.1"
-  },
-  {
-    "id": 30,
-    "term": "Cold Heart (PNAU Remix)",
-    "definition": "Elton John & Dua Lipa",
-    "example": "October 2021 · 1 week at No.1"
-  },
-  {
-    "id": 31,
-    "term": "Easy on Me",
-    "definition": "Adele",
-    "example": "October 2021 · 8 weeks at No.1"
-  },
-  {
-    "id": 32,
-    "term": "Merry Christmas",
-    "definition": "Ed Sheeran & Elton John",
-    "example": "December 2021 · 3 weeks at No.1"
-  },
-  {
-    "id": 33,
-    "term": "Sausage Rolls for Everyone",
-    "definition": "LadBaby Feat. Ed Sheeran & Elton John",
-    "example": "December 2021 · 1 week at No.1"
-  },
-  {
-    "id": 34,
-    "term": "Abcdefu",
-    "definition": "Gayle",
-    "example": "January 2022 · 1 week at No.1"
-  },
-  {
-    "id": 35,
-    "term": "We Don't Talk About Bruno",
-    "definition": "Carolina Gaitán, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & The Encanto Cast",
-    "example": "January 2022 · 7 weeks at No.1"
-  },
-  {
-    "id": 36,
-    "term": "Starlight",
-    "definition": "Dave",
-    "example": "March 2022 · 4 weeks at No.1"
-  },
-  {
-    "id": 37,
-    "term": "As It Was",
-    "definition": "Harry Styles",
-    "example": "April 2022 · 10 weeks at No.1"
-  },
-  {
-    "id": 38,
-    "term": "Running Up That Hill",
-    "definition": "Kate Bush",
-    "example": "June 2022 · 3 weeks at No.1"
-  },
-  {
-    "id": 39,
-    "term": "Afraid to Feel",
-    "definition": "LF System",
-    "example": "July 2022 · 8 weeks at No.1"
-  },
-  {
-    "id": 40,
-    "term": "B.O.T.A. (Baddest of Them All)",
-    "definition": "Eliza Rose & Interplanetary Criminal",
-    "example": "September 2022 · 2 weeks at No.1"
-  },
-  {
-    "id": 41,
-    "term": "Forget Me",
-    "definition": "Lewis Capaldi",
-    "example": "September 2022 · 1 week at No.1"
-  },
-  {
-    "id": 42,
-    "term": "I'm Good (Blue)",
-    "definition": "David Guetta & Bebe Rexha",
-    "example": "September 2022 · 1 week at No.1"
-  },
-  {
-    "id": 43,
-    "term": "Unholy",
-    "definition": "Sam Smith & Kim Petras",
-    "example": "October 2022 · 4 weeks at No.1"
-  },
-  {
-    "id": 44,
-    "term": "Anti-Hero",
-    "definition": "Taylor Swift",
-    "example": "November 2022 · 6 weeks at No.1"
-  },
-  {
-    "id": 45,
-    "term": "Food Aid",
-    "definition": "Ladbaby",
-    "example": "December 2022 · 1 week at No.1"
-  },
-  {
-    "id": 46,
-    "term": "Escapism",
-    "definition": "Raye ft 070 Shake",
-    "example": "January 2023 · 1 week at No.1"
-  },
-  {
-    "id": 47,
-    "term": "Pointless",
-    "definition": "Lewis Capaldi",
-    "example": "January 2023 · 1 week at No.1"
-  },
-  {
-    "id": 48,
-    "term": "Flowers",
-    "definition": "Miley Cyrus",
-    "example": "January 2023 · 10 weeks at No.1"
-  },
-  {
-    "id": 49,
-    "term": "Eyes Closed",
-    "definition": "Ed Sheeran",
-    "example": "April 2023 · 1 week at No.1"
-  },
-  {
-    "id": 50,
-    "term": "Miracle",
-    "definition": "Calvin Harris Feat. Ellie Goulding",
-    "example": "April 2023 · 8 weeks at No.1"
-  },
-  {
-    "id": 51,
-    "term": "Wish You the Best",
-    "definition": "Lewis Capaldi",
-    "example": "April 2023 · 1 week at No.1"
-  },
-  {
-    "id": 52,
-    "term": "Sprinter",
-    "definition": "Dave & Central Cee",
-    "example": "June 2023 · 10 weeks at No.1"
-  },
-  {
-    "id": 53,
-    "term": "What Was I Made for",
-    "definition": "Billie Eilish",
-    "example": "August 2023 · 1 week at No.1"
-  },
-  {
-    "id": 54,
-    "term": "Dance the Night (From Barbie the Album)",
-    "definition": "Dua Lipa",
-    "example": "August 2023 · 1 week at No.1"
-  },
-  {
-    "id": 55,
-    "term": "Vampire",
-    "definition": "Olivia Rodrigo",
-    "example": "September 2023 · 1 week at No.1"
-  },
-  {
-    "id": 56,
-    "term": "Paint the Town Red",
-    "definition": "Doja Cat",
-    "example": "September 2023 · 5 weeks at No.1"
-  },
-  {
-    "id": 57,
-    "term": "Strangers",
-    "definition": "Kenya Grace",
-    "example": "October 2023 · 3 weeks at No.1"
-  },
-  {
-    "id": 58,
-    "term": "Is It Over Now (Taylor's Version)",
-    "definition": "Taylor Swift",
-    "example": "November 2023 · 1 week at No.1"
-  },
-  {
-    "id": 59,
-    "term": "Now and Then",
-    "definition": "The Beatles",
-    "example": "November 2023 · 1 week at No.1"
-  },
-  {
-    "id": 60,
-    "term": "Lovin on Me",
-    "definition": "Jack Harlow",
-    "example": "November 2023 · 3 weeks at No.1"
-  },
-  {
-    "id": 61,
-    "term": "Stick Season",
-    "definition": "Noah Kahan",
-    "example": "January 2024 · 7 weeks at No.1"
-  },
-  {
-    "id": 62,
-    "term": "Texas Hold 'Em",
-    "definition": "Beyonce",
-    "example": "February 2024 · 5 weeks at No.1"
-  },
-  {
-    "id": 63,
-    "term": "Beautiful Things",
-    "definition": "Benson Boone",
-    "example": "March 2024 · 2 weeks at No.1"
-  },
-  {
-    "id": 64,
-    "term": "Too Sweet",
-    "definition": "Hozier",
-    "example": "April 2024 · 2 weeks at No.1"
-  },
-  {
-    "id": 65,
-    "term": "Fortnight",
-    "definition": "Taylor Swift ft Post Malone",
-    "example": "May 2024 · 1 week at No.1"
-  },
-  {
-    "id": 66,
-    "term": "Espresso",
-    "definition": "Sabrina Carpenter",
-    "example": "May 2024 · 7 weeks at No.1"
-  },
-  {
-    "id": 67,
-    "term": "Houdini",
-    "definition": "Eminem",
-    "example": "June 2024 · 2 weeks at No.1"
-  },
-  {
-    "id": 68,
-    "term": "Please Please Please",
-    "definition": "Sabrina Carpenter",
-    "example": "June 2024 · 5 weeks at No.1"
-  },
-  {
-    "id": 69,
-    "term": "Guess",
-    "definition": "Charli Xcx ft Billie Eilish",
-    "example": "August 2024 · 1 week at No.1"
-  },
-  {
-    "id": 70,
-    "term": "Backbone",
-    "definition": "Chase & Status & Stormzy",
-    "example": "August 2024 · 2 weeks at No.1"
-  },
-  {
-    "id": 71,
-    "term": "Taste",
-    "definition": "Sabrina Carpenter",
-    "example": "September 2024 · 9 weeks at No.1"
-  },
-  {
-    "id": 72,
-    "term": "Sailor Song",
-    "definition": "Gigi Perez",
-    "example": "November 2024 · 1 week at No.1"
-  },
-  {
-    "id": 73,
-    "term": "That's So True",
-    "definition": "Gracie Abrams",
-    "example": "November 2024 · 8 weeks at No.1"
-  },
-  {
-    "id": 74,
-    "term": "Messy",
-    "definition": "Lola Young",
-    "example": "January 2025 · 4 weeks at No.1"
-  },
-  {
-    "id": 75,
-    "term": "Not Like Us",
-    "definition": "Kendrick Lamar",
-    "example": "February 2025 · 2 weeks at No.1"
-  },
-  {
-    "id": 76,
-    "term": "Pink Pony Club",
-    "definition": "Chappell Roan",
-    "example": "March 2025 · 2 weeks at No.1"
-  },
-  {
-    "id": 77,
-    "term": "Ordinary",
-    "definition": "Alex Warren",
-    "example": "March 2025 · 13 weeks at No.1"
-  },
-  {
-    "id": 78,
-    "term": "Manchild",
-    "definition": "Sabrina Carpenter",
-    "example": "June 2025 · 2 weeks at No.1"
-  },
-  {
-    "id": 79,
-    "term": "Survive",
-    "definition": "Lewis Capaldi",
-    "example": "July 2025 · 1 week at No.1"
-  },
-  {
-    "id": 80,
-    "term": "Dior",
-    "definition": "MK ft Chrystal",
-    "example": "July 2025 · 2 weeks at No.1"
-  },
-  {
-    "id": 81,
-    "term": "Daisies",
-    "definition": "Justin Bieber",
-    "example": "July 2025 · 1 week at No.1"
-  },
-  {
-    "id": 82,
-    "term": "Golden",
-    "definition": "Huntr/X: Ejae, Audrey Nuna & Rei Ami",
-    "example": "August 2025 · 10 weeks at No.1"
-  },
-  {
-    "id": 83,
-    "term": "The Subway",
-    "definition": "Chappell Roan",
-    "example": "August 2025 · 1 week at No.1"
-  },
-  {
-    "id": 84,
-    "term": "Man I Need",
-    "definition": "Olivia Dean",
-    "example": "October 2025 · 1 week at No.1"
-  },
-  {
-    "id": 85,
-    "term": "The Fate of Ophelia",
-    "definition": "Taylor Swift",
-    "example": "October 2025 · 7 weeks at No.1"
-  },
-  {
-    "id": 86,
-    "term": "Xmas",
-    "definition": "Kylie Minogue",
-    "example": "December 2025 · 1 week at No.1"
-  },
-  {
-    "id": 87,
-    "term": "Where Is My Husband",
-    "definition": "Raye",
-    "example": "January 2026 · 1 week at No.1"
-  },
-  {
-    "id": 88,
-    "term": "End of Beginning",
-    "definition": "Djo",
-    "example": "January 2026 · 2 weeks at No.1"
-  },
-  {
-    "id": 89,
-    "term": "Raindance",
-    "definition": "Dave & Tems",
-    "example": "January 2026 · 2 weeks at No.1"
-  },
-  {
-    "id": 90,
-    "term": "Aperture",
-    "definition": "Harry Styles",
-    "example": "February 2026 · 1 week at No.1"
-  },
-  {
-    "id": 91,
-    "term": "Opalite",
-    "definition": "Taylor Swift",
-    "example": "February 2026 · 1 week at No.1"
-  },
-  {
-    "id": 92,
-    "term": "Rein Me in",
-    "definition": "Sam Fender & Olivia Dean",
-    "example": "February 2026 · 13 weeks at No.1"
-  },
-  {
-    "id": 93,
-    "term": "American Girls",
-    "definition": "Harry Styles",
-    "example": "March 2026 · 1 week at No.1"
-  },
-  {
-    "id": 94,
-    "term": "Drop Dead",
-    "definition": "Olivia Rodrigo",
-    "example": "April 2026 · 1 week at No.1"
-  },
-  {
-    "id": 95,
-    "term": "Hate That I Made You Love Me",
-    "definition": "Ariana Grande",
-    "example": "June 2026 · 1 week at No.1"
-  },
-  {
-    "id": 96,
-    "term": "I Knew It I Knew You",
-    "definition": "Taylor Swift",
-    "example": "June 2026 · 2 weeks at No.1"
-  }
-];
-window.QM_NO2S5263_DATA = [
-  {
-    "id": "id_no2s5263_1",
-    "term": "Feet Up (Pat Him on the Po-Po)",
-    "definition": "Guy Mitchell",
-    "example": "November 1952 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_2",
-    "term": "Pretty Little Black Eyed Susie",
-    "definition": "Guy Mitchell",
-    "example": "May 1953 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_3",
-    "term": "Pretend",
-    "definition": "Nat King Cole",
-    "example": "May 1953 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_4",
-    "term": "Terry's Theme From 'Limelight'",
-    "definition": "Frank Chacksfield",
-    "example": "June 1953 — 8 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_5",
-    "term": "Where the Winds Blow",
-    "definition": "Frankie Laine",
-    "example": "October 1953 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_6",
-    "term": "Swedish Rhapsody",
-    "definition": "Mantovani",
-    "example": "December 1953 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_7",
-    "term": "Poppa Piccolino",
-    "definition": "Diana Decker",
-    "example": "December 1953 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_8",
-    "term": "Blowing Wild",
-    "definition": "Frankie Laine",
-    "example": "January 1954 — 6 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_9",
-    "term": "That's Amore",
-    "definition": "Dean Martin",
-    "example": "February 1954 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_10",
-    "term": "The Happy Wanderer",
-    "definition": "Obernkirchen Children's Choir",
-    "example": "March 1954 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_11",
-    "term": "Smile",
-    "definition": "Nat King Cole",
-    "example": "October 1954 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_12",
-    "term": "Santo Natale",
-    "definition": "David Whitfield",
-    "example": "December 1954 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_13",
-    "term": "Unchained Melody",
-    "definition": "Al Hibbler",
-    "example": "June 1955 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_14",
-    "term": "Cool Water",
-    "definition": "Frankie Laine With the Mellomen",
-    "example": "August 1955 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_15",
-    "term": "Learnin' the Blues",
-    "definition": "Frank Sinatra",
-    "example": "August 1955 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_16",
-    "term": "Blue Star (the Medic Theme)",
-    "definition": "Cyril Stapleton Orchestra With Julie Dawn",
-    "example": "October 1955 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_17",
-    "term": "The Yellow Rose of Texas",
-    "definition": "Mitch Miller",
-    "example": "October 1955 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_18",
-    "term": "Love Is a Many Splendored Thing",
-    "definition": "Four Aces",
-    "example": "November 1955 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_19",
-    "term": "Meet Me on the Corner",
-    "definition": "Max Bygraves",
-    "example": "January 1956 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_20",
-    "term": "The Ballad of Davy Crockett",
-    "definition": "Bill Hayes",
-    "example": "January 1956 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_21",
-    "term": "(Love Is) the Tender Trap",
-    "definition": "Frank Sinatra",
-    "example": "February 1956 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_22",
-    "term": "Zambesi",
-    "definition": "Lou Busch",
-    "example": "February 1956 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_23",
-    "term": "A Tear Fell",
-    "definition": "Teresa Brewer",
-    "example": "May 1956 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_24",
-    "term": "Lost John/Stewball",
-    "definition": "Lonnie Donegan",
-    "example": "June 1956 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_25",
-    "term": "Heartbreak Hotel",
-    "definition": "Elvis Presley",
-    "example": "June 1956 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_26",
-    "term": "All Star Hit Parade (EP)",
-    "definition": "Various Artists",
-    "example": "July 1956 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_27",
-    "term": "Walk Hand in Hand",
-    "definition": "Tony Martin",
-    "example": "August 1956 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_28",
-    "term": "Hound Dog",
-    "definition": "Elvis Presley",
-    "example": "October 1956 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_29",
-    "term": "The Green Door",
-    "definition": "Frankie Vaughan",
-    "example": "December 1956 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_30",
-    "term": "Don't Forbid Me",
-    "definition": "Pat Boone",
-    "example": "March 1957 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_31",
-    "term": "The Banana Boat Song",
-    "definition": "Harry Belafonte",
-    "example": "April 1957 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_32",
-    "term": "When I Fall In Love",
-    "definition": "Nat King Cole",
-    "example": "June 1957 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_33",
-    "term": "We Will Make Love",
-    "definition": "Russ Hamilton",
-    "example": "August 1957 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_34",
-    "term": "Love Letters In The Sand",
-    "definition": "Pat Boone",
-    "example": "August 1957 — 7 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_35",
-    "term": "Last Train To San Fernando",
-    "definition": "Johnny Duncan And The Blue Grass Boys",
-    "example": "September 1957 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_36",
-    "term": "Party",
-    "definition": "Elvis Presley",
-    "example": "October 1957 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_37",
-    "term": "Tammy",
-    "definition": "Debbie Reynolds",
-    "example": "November 1957 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_38",
-    "term": "Be My Girl",
-    "definition": "Jim Dale",
-    "example": "November 1957 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_39",
-    "term": "Wake Up Little Susie",
-    "definition": "The Everly Brothers",
-    "example": "December 1957 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_40",
-    "term": "Ma He's Making Eyes At Me",
-    "definition": "Johnny Otis And His Orchestra With Marie Adams",
-    "example": "December 1957 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_41",
-    "term": "Don't",
-    "definition": "Elvis Presley",
-    "example": "March 1958 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_42",
-    "term": "A Wonderful Time Up There",
-    "definition": "Pat Boone",
-    "example": "May 1958 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_43",
-    "term": "Tom Hark",
-    "definition": "Elias And His Zigzag Jive Flutes",
-    "example": "May 1958 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_44",
-    "term": "Lollipop",
-    "definition": "Mudlarks",
-    "example": "May 1958 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_45",
-    "term": "Big Man",
-    "definition": "Four Preps",
-    "example": "July 1958 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_46",
-    "term": "Hard Headed Woman",
-    "definition": "Elvis Presley",
-    "example": "August 1958 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_47",
-    "term": "Return To Me",
-    "definition": "Dean Martin",
-    "example": "September 1958 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_48",
-    "term": "Volare",
-    "definition": "Dean Martin",
-    "example": "September 1958 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_49",
-    "term": "King Creole",
-    "definition": "Elvis Presley",
-    "example": "October 1958 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_50",
-    "term": "Come Prima",
-    "definition": "Marino Marini And His Quartet",
-    "example": "October 1958 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_51",
-    "term": "Bird Dog",
-    "definition": "The Everly Brothers",
-    "example": "November 1958 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_52",
-    "term": "Baby Face",
-    "definition": "Little Richard",
-    "example": "January 1959 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_53",
-    "term": "To Know Him Is To Love Him",
-    "definition": "Teddy Bears",
-    "example": "January 1959 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_54",
-    "term": "A Teenager in Love",
-    "definition": "Marty Wilde",
-    "example": "July 1959 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_55",
-    "term": "Battle Of New Orleans",
-    "definition": "Lonnie Donegan",
-    "example": "July 1959 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_56",
-    "term": "('Til) I Kissed You",
-    "definition": "The Everly Brothers",
-    "example": "October 1959 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_57",
-    "term": "Voice in the Wilderness",
-    "definition": "Cliff Richard and The Shadows",
-    "example": "February 1960 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_58",
-    "term": "Theme From 'A Summer Place'",
-    "definition": "Percy Faith",
-    "example": "March 1960 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_59",
-    "term": "Fall In Love With You",
-    "definition": "Cliff Richard and The Shadows",
-    "example": "April 1960 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_60",
-    "term": "Someone Else's Baby",
-    "definition": "Adam Faith",
-    "example": "May 1960 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_61",
-    "term": "Cradle Of Love",
-    "definition": "Johnny Preston",
-    "example": "May 1960 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_62",
-    "term": "Mama/Robot Man",
-    "definition": "Connie Francis",
-    "example": "June 1960 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_63",
-    "term": "Because They're Young",
-    "definition": "Duane Eddy",
-    "example": "September 1960 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_64",
-    "term": "A Mess Of Blues",
-    "definition": "Elvis Presley",
-    "example": "September 1960 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_65",
-    "term": "As Long As He Needs Me",
-    "definition": "Shirley Bassey",
-    "example": "October 1960 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_66",
-    "term": "Save The Last Dance For Me",
-    "definition": "The Drifters",
-    "example": "December 1960 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_67",
-    "term": "Pepe",
-    "definition": "Duane Eddy",
-    "example": "February 1961 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_68",
-    "term": "Are You Sure",
-    "definition": "Allisons",
-    "example": "March 1961 — 6 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_69",
-    "term": "Lazy River",
-    "definition": "Bobby Darin",
-    "example": "April 1961 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_70",
-    "term": "Hello Mary Lou/Travelin' Man",
-    "definition": "Ricky Nelson",
-    "example": "July 1961 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_71",
-    "term": "Jealousy",
-    "definition": "Billy Fury",
-    "example": "October 1961 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_72",
-    "term": "Wild Wind",
-    "definition": "John Leyton",
-    "example": "October 1961 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_73",
-    "term": "Big Bad John",
-    "definition": "Jimmy Dean",
-    "example": "November 1961 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_74",
-    "term": "Midnight In Moscow",
-    "definition": "Kenny Ball and His Jazzmen",
-    "example": "January 1962 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_75",
-    "term": "Stranger On The Shore",
-    "definition": "Mr. Acker Bilk",
-    "example": "January 1962 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_76",
-    "term": "Let's Twist Again",
-    "definition": "Chubby Checker",
-    "example": "February 1962 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_77",
-    "term": "Tell Me What He Said",
-    "definition": "Helen Shapiro",
-    "example": "March 1962 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_78",
-    "term": "Dream Baby",
-    "definition": "Roy Orbison",
-    "example": "April 1962 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_79",
-    "term": "Hey! Baby",
-    "definition": "Bruce Channel",
-    "example": "April 1962 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_80",
-    "term": "Hey! Little Girl",
-    "definition": "Del Shannon",
-    "example": "May 1962 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_81",
-    "term": "Do You Want To Dance/I'm Looking Out The Window",
-    "definition": "Cliff Richard",
-    "example": "June 1962 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_82",
-    "term": "A Picture Of You",
-    "definition": "Joe Brown",
-    "example": "June 1962 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_83",
-    "term": "Speedy Gonzales",
-    "definition": "Pat Boone",
-    "example": "August 1962 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_84",
-    "term": "Things",
-    "definition": "Bobby Darin",
-    "example": "September 1962 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_85",
-    "term": "It'll Be Me",
-    "definition": "Cliff Richard",
-    "example": "September 1962 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_86",
-    "term": "The Loco-Motion",
-    "definition": "Little Eva",
-    "example": "October 1962 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_87",
-    "term": "Let's Dance",
-    "definition": "Chris Montez",
-    "example": "November 1962 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_88",
-    "term": "Swiss Maid",
-    "definition": "Del Shannon",
-    "example": "December 1962 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_89",
-    "term": "Please Please Me",
-    "definition": "The Beatles",
-    "example": "February 1963 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_90",
-    "term": "From A Jack To A King",
-    "definition": "Ned Miller",
-    "example": "April 1963 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_91",
-    "term": "Can't Get Used To Losing You",
-    "definition": "Andy Williams",
-    "example": "May 1963 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_92",
-    "term": "Scarlett O'Hara",
-    "definition": "Jet Harris and Tony Meehan",
-    "example": "May 1963 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_93",
-    "term": "Do You Want To Know A Secret?",
-    "definition": "Billy J Kramer And The Dakotas",
-    "example": "June 1963 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_94",
-    "term": "Atlantis",
-    "definition": "The Shadows",
-    "example": "June 1963 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_95",
-    "term": "I'm Telling You Now",
-    "definition": "Freddie and the Dreamers",
-    "example": "August 1963 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_96",
-    "term": "It's All In The Game",
-    "definition": "Cliff Richard",
-    "example": "September 1963 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_97",
-    "term": "Then He Kissed Me",
-    "definition": "The Crystals",
-    "example": "October 1963 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s5263_98",
-    "term": "Sugar And Spice",
-    "definition": "The Searchers",
-    "example": "November 1963 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s5263_99",
-    "term": "Don't Talk To Him",
-    "definition": "Cliff Richard",
-    "example": "December 1963 — 1 week at No.2"
-  }
-];
-window.QM_NO2S6469_DATA = [
-  {
-    "id": "id_no2s6469_1",
-    "term": "Hippy Hippy Shake",
-    "definition": "Swinging Blue Jeans",
-    "example": "January 1964 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_2",
-    "term": "I'm The One",
-    "definition": "Gerry and the Pacemakers",
-    "example": "February 1964 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_3",
-    "term": "Bits And Pieces",
-    "definition": "The Dave Clark Five",
-    "example": "March 1964 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_4",
-    "term": "Just One Look",
-    "definition": "The Hollies",
-    "example": "March 1964 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_5",
-    "term": "I Believe",
-    "definition": "The Bachelors",
-    "example": "May 1964 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_6",
-    "term": "My Boy Lollipop",
-    "definition": "Millie",
-    "example": "May 1964 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_7",
-    "term": "Someone, Someone",
-    "definition": "Brian Poole And The Tremeloes",
-    "example": "June 1964 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_8",
-    "term": "Rag Doll",
-    "definition": "The Four Seasons",
-    "example": "September 1964 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_9",
-    "term": "All Day And All Of The Night",
-    "definition": "The Kinks",
-    "example": "November 1964 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_10",
-    "term": "I'm Gonna Be Strong",
-    "definition": "Gene Pitney",
-    "example": "December 1964 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_11",
-    "term": "Downtown",
-    "definition": "Petula Clark",
-    "example": "December 1964 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_12",
-    "term": "You've Lost That Lovin' Feelin'",
-    "definition": "Cilla Black",
-    "example": "January 1965 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_13",
-    "term": "Game Of Love",
-    "definition": "Wayne Fontana and the Mindbenders",
-    "example": "February 1965 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_14",
-    "term": "Here Comes The Night",
-    "definition": "Them",
-    "example": "April 1965 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_15",
-    "term": "True Love Ways",
-    "definition": "Peter And Gordon",
-    "example": "May 1965 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_16",
-    "term": "The Price Of Love",
-    "definition": "The Everly Brothers",
-    "example": "June 1965 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_17",
-    "term": "Heart Full Of Soul",
-    "definition": "The Yardbirds",
-    "example": "July 1965 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_18",
-    "term": "We Gotta Get Out Of This Place",
-    "definition": "The Animals",
-    "example": "August 1965 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_19",
-    "term": "You've Got Your Troubles",
-    "definition": "The Fortunes",
-    "example": "August 1965 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_20",
-    "term": "If You Gotta Go, Go Now",
-    "definition": "Manfred Mann",
-    "example": "October 1965 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_21",
-    "term": "Almost There",
-    "definition": "Andy Williams",
-    "example": "October 1965 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_22",
-    "term": "My Generation",
-    "definition": "The Who",
-    "example": "November 1965 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_23",
-    "term": "Wind Me Up (Let Me Go)",
-    "definition": "Cliff Richard",
-    "example": "December 1965 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_24",
-    "term": "You Were On My Mind",
-    "definition": "Crispian St. Peters",
-    "example": "February 1966 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_25",
-    "term": "Nineteenth Nervous Breakdown",
-    "definition": "The Rolling Stones",
-    "example": "February 1966 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_26",
-    "term": "A Groovy Kind Of Love",
-    "definition": "Mindbenders",
-    "example": "March 1966 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_27",
-    "term": "I Can't Let Go",
-    "definition": "The Hollies",
-    "example": "March 1966 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_28",
-    "term": "Daydream",
-    "definition": "The Lovin' Spoonful",
-    "example": "May 1966 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_29",
-    "term": "Sloop John B",
-    "definition": "The Beach Boys",
-    "example": "May 1966 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_30",
-    "term": "Wild Thing",
-    "definition": "The Troggs",
-    "example": "May 1966 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_31",
-    "term": "Nobody Needs Your Love",
-    "definition": "Gene Pitney",
-    "example": "July 1966 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_32",
-    "term": "Black Is Black",
-    "definition": "Los Bravos",
-    "example": "July 1966 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_33",
-    "term": "God Only Knows",
-    "definition": "The Beach Boys",
-    "example": "August 1966 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_34",
-    "term": "I'm A Boy",
-    "definition": "The Who",
-    "example": "October 1966 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_35",
-    "term": "Bend It!",
-    "definition": "Dave Dee, Dozy, Beaky, Mick and Tich",
-    "example": "October 1966 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_36",
-    "term": "I Can't Control Myself",
-    "definition": "The Troggs",
-    "example": "October 1966 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_37",
-    "term": "Stop Stop Stop",
-    "definition": "The Hollies",
-    "example": "November 1966 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_38",
-    "term": "Semi-Detached Suburban Mr James",
-    "definition": "Manfred Mann",
-    "example": "November 1966 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_39",
-    "term": "Gimme Some Loving",
-    "definition": "The Spencer Davis Group",
-    "example": "November 1966 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_40",
-    "term": "What Would I Be",
-    "definition": "Val Doonican",
-    "example": "December 1966 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_41",
-    "term": "Morningtown Ride",
-    "definition": "The Seekers",
-    "example": "December 1966 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_42",
-    "term": "Sunshine Superman",
-    "definition": "Donovan",
-    "example": "December 1966 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_43",
-    "term": "Night Of Fear",
-    "definition": "The Move",
-    "example": "January 1967 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_44",
-    "term": "Matthew And Son",
-    "definition": "Cat Stevens",
-    "example": "February 1967 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_45",
-    "term": "Penny Lane/Strawberry Fields Forever",
-    "definition": "The Beatles",
-    "example": "March 1967 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_46",
-    "term": "Edelweiss",
-    "definition": "Vince Hill",
-    "example": "March 1967 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_47",
-    "term": "This Is My Song",
-    "definition": "Harry Secombe",
-    "example": "April 1967 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_48",
-    "term": "Dedicated To The One I Love",
-    "definition": "The Mamas And The Papas",
-    "example": "May 1967 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_49",
-    "term": "Waterloo Sunset",
-    "definition": "The Kinks",
-    "example": "May 1967 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_50",
-    "term": "There Goes My Everything",
-    "definition": "Engelbert Humperdinck",
-    "example": "June 1967 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_51",
-    "term": "Alternate Title",
-    "definition": "The Monkees",
-    "example": "July 1967 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_52",
-    "term": "It Must Be Him (Seul Sur Son Etoile)",
-    "definition": "Vikki Carr",
-    "example": "July 1967 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_53",
-    "term": "I'll Never Fall In Love Again",
-    "definition": "Tom Jones",
-    "example": "August 1967 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_54",
-    "term": "Excerpt From 'A Teenage Opera'",
-    "definition": "Keith West",
-    "example": "September 1967 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_55",
-    "term": "Flowers In The Rain",
-    "definition": "The Move",
-    "example": "October 1967 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_56",
-    "term": "Hole In My Shoe",
-    "definition": "Traffic",
-    "example": "October 1967 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_57",
-    "term": "Everybody Knows",
-    "definition": "The Dave Clark Five",
-    "example": "December 1967 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_58",
-    "term": "I'm Coming Home",
-    "definition": "Tom Jones",
-    "example": "December 1967 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_59",
-    "term": "Magical Mystery Tour (EP)",
-    "definition": "The Beatles",
-    "example": "December 1967 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_60",
-    "term": "Delilah",
-    "definition": "Tom Jones",
-    "example": "March 1968 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_61",
-    "term": "Simon Says",
-    "definition": "1910 Fruitgum Company",
-    "example": "May 1968 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_62",
-    "term": "Lazy Sunday",
-    "definition": "The Small Faces",
-    "example": "May 1968 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_63",
-    "term": "A Man Without Love",
-    "definition": "Engelbert Humperdinck",
-    "example": "May 1968 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_64",
-    "term": "Honey",
-    "definition": "Bobby Goldsboro",
-    "example": "June 1968 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_65",
-    "term": "Son Of Hickory Holler's Tramp",
-    "definition": "O.C. Smith",
-    "example": "July 1968 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_66",
-    "term": "Little Arrows",
-    "definition": "Leapy Lee",
-    "example": "October 1968 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_67",
-    "term": "Jesamine",
-    "definition": "The Casuals",
-    "example": "October 1968 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_68",
-    "term": "Eloise",
-    "definition": "Barry Ryan",
-    "example": "November 1968 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_69",
-    "term": "Ain't Got No-I Got Life/Do What You Gotta Do",
-    "definition": "Nina Simone",
-    "example": "December 1968 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_70",
-    "term": "Build Me Up Buttercup",
-    "definition": "The Foundations",
-    "example": "December 1968 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_71",
-    "term": "Gentle On My Mind",
-    "definition": "Dean Martin",
-    "example": "April 1969 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_72",
-    "term": "Boom Bang-A-Bang",
-    "definition": "Lulu",
-    "example": "April 1969 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_73",
-    "term": "Goodbye",
-    "definition": "Mary Hopkin",
-    "example": "April 1969 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_74",
-    "term": "My Sentimental Friend",
-    "definition": "Herman's Hermits",
-    "example": "May 1969 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_75",
-    "term": "Man Of The World",
-    "definition": "Fleetwood Mac",
-    "example": "May 1969 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_76",
-    "term": "Oh, Happy Day",
-    "definition": "The Edwin Hawkins Singers",
-    "example": "June 1969 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_77",
-    "term": "In The Ghetto",
-    "definition": "Elvis Presley",
-    "example": "July 1969 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_78",
-    "term": "Give Peace A Chance",
-    "definition": "Plastic Ono Band",
-    "example": "July 1969 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_79",
-    "term": "Saved By The Bell",
-    "definition": "Robin Gibb",
-    "example": "August 1969 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_80",
-    "term": "Don't Forget To Remember",
-    "definition": "The Bee Gees",
-    "example": "September 1969 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_81",
-    "term": "Je T'Aime... Moi Non Plus",
-    "definition": "Jane Birkin and Serge Gainsbourg",
-    "example": "September 1969 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_82",
-    "term": "I'm Gonna Make You Mine",
-    "definition": "Lou Christie",
-    "example": "November 1969 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_83",
-    "term": "Oh Well",
-    "definition": "Fleetwood Mac",
-    "example": "November 1969 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_84",
-    "term": "(Call Me) Number One",
-    "definition": "The Tremeloes",
-    "example": "November 1969 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s6469_85",
-    "term": "Yester-Me, Yester-You, Yesterday",
-    "definition": "Stevie Wonder",
-    "example": "December 1969 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s6469_86",
-    "term": "Ruby Don't Take Your Love To Town",
-    "definition": "Kenny Rogers And The First Edition",
-    "example": "December 1969 — 6 weeks at No.2"
-  }
-];
-window.QM_NO2S7075_DATA = [
-  {
-    "id": "id_no2s7075_1",
-    "term": "Suspicious Minds",
-    "definition": "Elvis Presley",
-    "example": "January 1970 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_2",
-    "term": "Leavin' On A Jet Plane",
-    "definition": "Peter, Paul And Mary",
-    "example": "February 1970 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_3",
-    "term": "Let's Work Together",
-    "definition": "Canned Heat",
-    "example": "February 1970 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_4",
-    "term": "I Want You Back",
-    "definition": "The Jackson 5",
-    "example": "March 1970 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_5",
-    "term": "Let It Be",
-    "definition": "The Beatles",
-    "example": "March 1970 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_6",
-    "term": "Knock, Knock Who's There?",
-    "definition": "Mary Hopkin",
-    "example": "April 1970 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_7",
-    "term": "Question",
-    "definition": "The Moody Blues",
-    "example": "May 1970 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_8",
-    "term": "Groovin' With Mr. Bloe",
-    "definition": "Mr. Bloe",
-    "example": "June 1970 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_9",
-    "term": "All Right Now",
-    "definition": "Free",
-    "example": "July 1970 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_10",
-    "term": "Lola",
-    "definition": "The Kinks",
-    "example": "August 1970 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_11",
-    "term": "Neanderthal Man",
-    "definition": "Hotlegs",
-    "example": "August 1970 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_12",
-    "term": "You Can Get It If You Really Want",
-    "definition": "Desmond Dekker",
-    "example": "October 1970 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_13",
-    "term": "Black Night",
-    "definition": "Deep Purple",
-    "example": "October 1970 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_14",
-    "term": "Patches",
-    "definition": "Clarence Carter",
-    "example": "October 1970 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_15",
-    "term": "When I'm Dead And Gone",
-    "definition": "McGuinness Flint",
-    "example": "December 1970 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_16",
-    "term": "Ride A White Swan",
-    "definition": "T. Rex",
-    "example": "January 1971 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_17",
-    "term": "Pushbike Song",
-    "definition": "Mixtures",
-    "example": "February 1971 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_18",
-    "term": "Another Day",
-    "definition": "Paul McCartney",
-    "example": "March 1971 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_19",
-    "term": "Bridget The Midget (The Queen Of The Blues)",
-    "definition": "Ray Stevens",
-    "example": "April 1971 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_20",
-    "term": "Brown Sugar/Bitch/Let It Rock",
-    "definition": "The Rolling Stones",
-    "example": "May 1971 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_21",
-    "term": "Indiana Wants Me",
-    "definition": "R. Dean Taylor",
-    "example": "June 1971 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_22",
-    "term": "I Did What I Did For Maria",
-    "definition": "Tony Christie",
-    "example": "June 1971 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_23",
-    "term": "Don't Let It Die",
-    "definition": "Hurricane Smith",
-    "example": "July 1971 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_24",
-    "term": "Co-Co",
-    "definition": "The Sweet",
-    "example": "July 1971 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_25",
-    "term": "Never Ending Song Of Love",
-    "definition": "The New Seekers",
-    "example": "August 1971 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_26",
-    "term": "Did You Ever",
-    "definition": "Nancy Sinatra and Lee Hazlewood",
-    "example": "September 1971 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_27",
-    "term": "Tweedle Dee, Tweedle Dum",
-    "definition": "Middle of the road",
-    "example": "October 1971 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_28",
-    "term": "The Witch Queen Of New Orleans",
-    "definition": "Redbone",
-    "example": "October 1971 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_29",
-    "term": "Till",
-    "definition": "Tom Jones",
-    "example": "November 1971 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_30",
-    "term": "Jeepster",
-    "definition": "T. Rex",
-    "example": "November 1971 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_31",
-    "term": "Mother Of Mine",
-    "definition": "Neil Reid",
-    "example": "January 1972 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_32",
-    "term": "American Pie",
-    "definition": "Don McLean",
-    "example": "March 1972 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_33",
-    "term": "Beg, Steal Or Borrow",
-    "definition": "The New Seekers",
-    "example": "March 1972 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_34",
-    "term": "Back Off Boogaloo",
-    "definition": "Ringo Starr",
-    "example": "April 1972 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_35",
-    "term": "Come What May",
-    "definition": "Vicky Leandros",
-    "example": "May 1972 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_36",
-    "term": "Could It Be Forever/Cherish",
-    "definition": "David Cassidy",
-    "example": "May 1972 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_37",
-    "term": "Rocket Man",
-    "definition": "Elton John",
-    "example": "June 1972 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_38",
-    "term": "Rock And Roll Parts 1 And 2",
-    "definition": "Gary Glitter",
-    "example": "July 1972 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_39",
-    "term": "Sylvia's Mother",
-    "definition": "Dr Hook And The Medicine Show",
-    "example": "July 1972 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_40",
-    "term": "Sea Side Shuffle",
-    "definition": "Terry Dactyl And The Dinosaurs",
-    "example": "August 1972 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_41",
-    "term": "Children Of The Revolution",
-    "definition": "T. Rex",
-    "example": "September 1972 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_42",
-    "term": "Donna",
-    "definition": "10cc",
-    "example": "October 1972 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_43",
-    "term": "Crazy Horses",
-    "definition": "The Osmonds",
-    "example": "November 1972 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_44",
-    "term": "GudBuy T'Jane",
-    "definition": "Slade",
-    "example": "December 1972 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_45",
-    "term": "Solid Gold Easy Action",
-    "definition": "T. Rex",
-    "example": "January 1973 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_46",
-    "term": "The Jean Genie",
-    "definition": "David Bowie",
-    "example": "January 1973 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_47",
-    "term": "Do You Wanna Touch Me? (Oh Yeah!)",
-    "definition": "Gary Glitter",
-    "example": "February 1973 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_48",
-    "term": "Part Of The Union",
-    "definition": "Strawbs",
-    "example": "February 1973 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_49",
-    "term": "Cindy Incidentally",
-    "definition": "The Faces",
-    "example": "March 1973 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_50",
-    "term": "Hello! Hello! I'm Back Again",
-    "definition": "Gary Glitter",
-    "example": "April 1973 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_51",
-    "term": "Hell Raiser",
-    "definition": "The Sweet",
-    "example": "May 1973 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_52",
-    "term": "Albatross",
-    "definition": "Fleetwood Mac",
-    "example": "June 1973 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_53",
-    "term": "Yesterday Once More",
-    "definition": "The Carpenters",
-    "example": "August 1973 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_54",
-    "term": "Dancing On A Saturday Night",
-    "definition": "Barry Blue",
-    "example": "September 1973 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_55",
-    "term": "Ballroom Blitz",
-    "definition": "The Sweet",
-    "example": "September 1973 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_56",
-    "term": "My Friend Stan",
-    "definition": "Slade",
-    "example": "October 1973 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_57",
-    "term": "Let Me In",
-    "definition": "The Osmonds",
-    "example": "November 1973 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_58",
-    "term": "My Coo-Ca-Choo",
-    "definition": "Alvin Stardust",
-    "example": "December 1973 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_59",
-    "term": "Paper Roses",
-    "definition": "Marie Osmond",
-    "example": "December 1973 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_60",
-    "term": "The Show Must Go On",
-    "definition": "Leo Sayer",
-    "example": "January 1974 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_61",
-    "term": "Teenage Rampage",
-    "definition": "The Sweet",
-    "example": "January 1974 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_62",
-    "term": "The Air That I Breathe",
-    "definition": "The Hollies",
-    "example": "March 1974 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_63",
-    "term": "The Most Beautiful Girl",
-    "definition": "Charlie Rich",
-    "example": "March 1974 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_64",
-    "term": "The Cat Crept In",
-    "definition": "Mud",
-    "example": "April 1974 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_65",
-    "term": "Shang-A-Lang",
-    "definition": "Bay City Rollers",
-    "example": "May 1974 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_66",
-    "term": "This Town Ain't Big Enough For Both Of Us",
-    "definition": "Sparks",
-    "example": "June 1974 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_67",
-    "term": "Hey Rock And Roll",
-    "definition": "Showaddywaddy",
-    "example": "June 1974 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_68",
-    "term": "Kissin' In The Back Row",
-    "definition": "The Drifters",
-    "example": "July 1974 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_69",
-    "term": "Born With A Smile On My Face",
-    "definition": "Stephanie De Sykes And Rain",
-    "example": "August 1974 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_70",
-    "term": "You Make Me Feel Brand New",
-    "definition": "The Stylistics",
-    "example": "August 1974 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_71",
-    "term": "I'm Leaving It All Up To You",
-    "definition": "Donny & Marie Osmond",
-    "example": "September 1974 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_72",
-    "term": "Rock Me Gently",
-    "definition": "Andy Kim",
-    "example": "October 1974 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_73",
-    "term": "Far Far Away",
-    "definition": "Slade",
-    "example": "October 1974 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_74",
-    "term": "Killer Queen",
-    "definition": "Queen",
-    "example": "November 1974 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_75",
-    "term": "Oh Yes! You're Beautiful",
-    "definition": "Gary Glitter",
-    "example": "December 1974 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_76",
-    "term": "You Ain't Seen Nothing Yet",
-    "definition": "Bachman-Turner Overdrive",
-    "example": "December 1974 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_77",
-    "term": "Wombling Merry Christmas",
-    "definition": "Wombles",
-    "example": "January 1975 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_78",
-    "term": "Streets Of London",
-    "definition": "Ralph McTell",
-    "example": "January 1975 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_79",
-    "term": "Never Can Say Goodbye",
-    "definition": "Gloria Gaynor",
-    "example": "January 1975 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_80",
-    "term": "Goodbye My Love",
-    "definition": "Glitter Band",
-    "example": "February 1975 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_81",
-    "term": "Please Mr Postman",
-    "definition": "The Carpenters",
-    "example": "February 1975 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_82",
-    "term": "There's A Whole Lot Of Loving",
-    "definition": "Guys And Dolls",
-    "example": "March 1975 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_83",
-    "term": "Fox On The Run",
-    "definition": "The Sweet",
-    "example": "April 1975 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_84",
-    "term": "Honey",
-    "definition": "Bobby Goldsboro",
-    "example": "April 1975 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_85",
-    "term": "Lovin' You",
-    "definition": "Minnie Riperton",
-    "example": "May 1975 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_86",
-    "term": "Three Steps To Heaven",
-    "definition": "Showaddywaddy",
-    "example": "June 1975 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_87",
-    "term": "Misty",
-    "definition": "Ray Stevens",
-    "example": "July 1975 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_88",
-    "term": "The Last Farewell",
-    "definition": "Roger Whittaker",
-    "example": "September 1975 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_89",
-    "term": "Moonlighting",
-    "definition": "Leo Sayer",
-    "example": "September 1975 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_90",
-    "term": "Love Is The Drug",
-    "definition": "Roxy Music",
-    "example": "November 1975 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7075_91",
-    "term": "You Sexy Thing",
-    "definition": "Hot Chocolate",
-    "example": "November 1975 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_92",
-    "term": "The Trail Of The Lonesome Pine",
-    "definition": "Laurel And Hardy With The Avalon Boys featuring Chill Wills",
-    "example": "December 1975 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7075_93",
-    "term": "I Believe In Father Christmas",
-    "definition": "Greg Lake",
-    "example": "December 1975 — 2 weeks at No.2"
-  }
-];
-window.QM_NO2S7682_DATA = [
-  {
-    "id": "id_no2s7682_1",
-    "term": "Glass Of Champagne",
-    "definition": "Sailor",
-    "example": "January 1976 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_2",
-    "term": "Convoy",
-    "definition": "C. W. McCall",
-    "example": "March 1976 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_3",
-    "term": "Love Really Hurts Without You",
-    "definition": "Billy Ocean",
-    "example": "March 1976 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_4",
-    "term": "You See The Trouble With Me",
-    "definition": "Barry White",
-    "example": "April 1976 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_5",
-    "term": "Silly Love Songs",
-    "definition": "Wings",
-    "example": "June 1976 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_6",
-    "term": "You Just Might See Me Cry",
-    "definition": "Our Kid",
-    "example": "July 1976 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_7",
-    "term": "Young Hearts Run Free",
-    "definition": "Candi Staton",
-    "example": "July 1976 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_8",
-    "term": "A Little Bit More",
-    "definition": "Dr. Hook",
-    "example": "July 1976 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_9",
-    "term": "Let 'Em In",
-    "definition": "Wings",
-    "example": "August 1976 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_10",
-    "term": "The Killing Of Georgie",
-    "definition": "Rod Stewart",
-    "example": "September 1976 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_11",
-    "term": "Can't Get By Without You",
-    "definition": "Real Thing",
-    "example": "September 1976 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_12",
-    "term": "When Forever Has Gone",
-    "definition": "Demis Roussos",
-    "example": "October 1976 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_13",
-    "term": "You Make Me Feel Like Dancing",
-    "definition": "Leo Sayer",
-    "example": "November 1976 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_14",
-    "term": "Somebody To Love",
-    "definition": "Queen",
-    "example": "December 1976 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_15",
-    "term": "Boogie Nights",
-    "definition": "Heatwave",
-    "example": "March 1977 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_16",
-    "term": "Going In With My Eyes Open",
-    "definition": "David Soul",
-    "example": "April 1977 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_17",
-    "term": "Red Light Spells Danger",
-    "definition": "Billy Ocean",
-    "example": "April 1977 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_18",
-    "term": "Sir Duke",
-    "definition": "Stevie Wonder",
-    "example": "May 1977 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_19",
-    "term": "Ain't Gonna Bump No More",
-    "definition": "Joe Tex",
-    "example": "May 1977 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_20",
-    "term": "God Save The Queen",
-    "definition": "The Sex Pistols",
-    "example": "June 1977 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_21",
-    "term": "Fanfare For The Common Man",
-    "definition": "Emerson Lake & Palmer",
-    "example": "July 1977 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_22",
-    "term": "Ma Baker",
-    "definition": "Boney M",
-    "example": "July 1977 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_23",
-    "term": "You Got What It Takes",
-    "definition": "Showaddywaddy",
-    "example": "August 1977 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_24",
-    "term": "Magic Fly",
-    "definition": "Space {1977}",
-    "example": "September 1977 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_25",
-    "term": "Black Is Black",
-    "definition": "La Belle Epoque",
-    "example": "October 1977 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_26",
-    "term": "We Are The Champions",
-    "definition": "Queen",
-    "example": "November 1977 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_27",
-    "term": "Floral Dance",
-    "definition": "Brighouse and Rastrick Brass Band",
-    "example": "December 1977 — 6 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_28",
-    "term": "Come Back My Love",
-    "definition": "Darts",
-    "example": "March 1978 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_29",
-    "term": "Denis",
-    "definition": "Blondie",
-    "example": "March 1978 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_30",
-    "term": "I Wonder Why",
-    "definition": "Showaddywaddy",
-    "example": "April 1978 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_31",
-    "term": "The Boy From New York City",
-    "definition": "Darts",
-    "example": "June 1978 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_32",
-    "term": "The Smurf Song",
-    "definition": "Father Abraham And The Smurfs",
-    "example": "June 1978 — 6 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_33",
-    "term": "Substitute",
-    "definition": "Clout",
-    "example": "August 1978 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_34",
-    "term": "It's Raining",
-    "definition": "Darts",
-    "example": "September 1978 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_35",
-    "term": "Love Don't Live Here Anymore",
-    "definition": "Rose Royce",
-    "example": "October 1978 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_36",
-    "term": "Rasputin",
-    "definition": "Boney M",
-    "example": "October 1978 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_37",
-    "term": "Sandy",
-    "definition": "John Travolta",
-    "example": "November 1978 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_38",
-    "term": "Hopelessly Devoted To You",
-    "definition": "Olivia Newton-John",
-    "example": "November 1978 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_39",
-    "term": "Chiquitita",
-    "definition": "ABBA",
-    "example": "February 1979 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_40",
-    "term": "Oliver's Army",
-    "definition": "Elvis Costello and the Attractions",
-    "example": "March 1979 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_41",
-    "term": "In The Navy",
-    "definition": "The Village People",
-    "example": "March 1979 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_42",
-    "term": "Cool For Cats",
-    "definition": "Squeeze",
-    "example": "April 1979 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_43",
-    "term": "Some Girls",
-    "definition": "Racey",
-    "example": "April 1979 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_44",
-    "term": "Pop Muzik",
-    "definition": "M",
-    "example": "May 1979 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_45",
-    "term": "Dance Away",
-    "definition": "Roxy Music",
-    "example": "May 1979 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_46",
-    "term": "Up The Junction",
-    "definition": "Squeeze",
-    "example": "July 1979 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_47",
-    "term": "Silly Games",
-    "definition": "Janet Kay",
-    "example": "July 1979 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_48",
-    "term": "Can't Stand Losing You",
-    "definition": "The Police",
-    "example": "August 1979 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_49",
-    "term": "Bang Bang",
-    "definition": "BA Robertson",
-    "example": "September 1979 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_50",
-    "term": "Dreaming",
-    "definition": "Blondie",
-    "example": "October 1979 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_51",
-    "term": "Crazy Little Thing Called Love",
-    "definition": "Queen",
-    "example": "November 1979 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_52",
-    "term": "I Have A Dream",
-    "definition": "ABBA",
-    "example": "December 1979 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_53",
-    "term": "With You I'm Born Again",
-    "definition": "Billy Preston And Syreeta",
-    "example": "January 1980 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_54",
-    "term": "And The Beat Goes On",
-    "definition": "The Whispers",
-    "example": "February 1980 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_55",
-    "term": "Dance Yourself Dizzy",
-    "definition": "Liquid Gold",
-    "example": "April 1980 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_56",
-    "term": "Coming Up",
-    "definition": "Paul McCartney",
-    "example": "May 1980 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_57",
-    "term": "No Doubt About It",
-    "definition": "Hot Chocolate",
-    "example": "May 1980 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_58",
-    "term": "Funkytown",
-    "definition": "Lipps Inc",
-    "example": "June 1980 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_59",
-    "term": "More Than I Can Say",
-    "definition": "Leo Sayer",
-    "example": "August 1980 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_60",
-    "term": "Upside Down",
-    "definition": "Diana Ross",
-    "example": "August 1980 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_61",
-    "term": "One Day I'll Fly Away",
-    "definition": "Randy Crawford",
-    "example": "September 1980 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_62",
-    "term": "Masterblaster (Jammin')",
-    "definition": "Stevie Wonder",
-    "example": "October 1980 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_63",
-    "term": "D.I.S.C.O.",
-    "definition": "Ottawan",
-    "example": "October 1980 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_64",
-    "term": "What You're Proposing",
-    "definition": "Status Quo",
-    "example": "November 1980 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_65",
-    "term": "Happy Xmas (War Is Over)",
-    "definition": "John And Yoko And The Plastic Ono Band With The Harlem Community Choir",
-    "example": "January 1981 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_66",
-    "term": "Antmusic",
-    "definition": "Adam and the Ants",
-    "example": "January 1981 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_67",
-    "term": "In The Air Tonight",
-    "definition": "Phil Collins",
-    "example": "February 1981 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_68",
-    "term": "Vienna",
-    "definition": "Ultravox",
-    "example": "February 1981 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_69",
-    "term": "Kings Of The Wild Frontier",
-    "definition": "Adam and the Ants",
-    "example": "March 1981 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_70",
-    "term": "Kids In America",
-    "definition": "Kim Wilde",
-    "example": "March 1981 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_71",
-    "term": "Chi Mai (Theme From 'Life And Times Of David Lloyd George')",
-    "definition": "Ennio Morricone",
-    "example": "April 1981 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_72",
-    "term": "Stars On 45",
-    "definition": "Star Sound",
-    "example": "May 1981 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_73",
-    "term": "You Drive Me Crazy",
-    "definition": "Shakin' Stevens",
-    "example": "May 1981 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_74",
-    "term": "More Than In Love",
-    "definition": "Kate Robbins And Beyond",
-    "example": "June 1981 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_75",
-    "term": "Stars On 45 (Volume 2)",
-    "definition": "Starsound",
-    "example": "July 1981 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_76",
-    "term": "Happy Birthday",
-    "definition": "Stevie Wonder / Altered Images",
-    "example": "August 1981, 1 week at No.2 & October 1981, 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_77",
-    "term": "Hooked On Classics",
-    "definition": "Royal Philharmonic Orchestra",
-    "example": "August 1981 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_78",
-    "term": "Invisible Sun",
-    "definition": "The Police",
-    "example": "October 1981 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_79",
-    "term": "The Birdie Song (Birdie Dance)",
-    "definition": "Tweets",
-    "example": "October 1981 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_80",
-    "term": "O Superman",
-    "definition": "Laurie Anderson",
-    "example": "October 1981 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_81",
-    "term": "Daddy's Home",
-    "definition": "Cliff Richard",
-    "example": "December 1981 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_82",
-    "term": "Golden Brown",
-    "definition": "The Stranglers",
-    "example": "February 1982 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_83",
-    "term": "Mickey",
-    "definition": "Toni Basil",
-    "example": "March 1982 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_84",
-    "term": "Just An Illusion",
-    "definition": "Imagination",
-    "example": "April 1982 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_85",
-    "term": "Ain't No Pleasing You",
-    "definition": "Chas and Dave",
-    "example": "April 1982 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_86",
-    "term": "One Step Further",
-    "definition": "Bardo",
-    "example": "May 1982 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_87",
-    "term": "This Time (We'll Get It Right)",
-    "definition": "England World Cup Squad",
-    "example": "May 1982 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_88",
-    "term": "Only You",
-    "definition": "Yazoo",
-    "example": "May 1982 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_89",
-    "term": "Torch",
-    "definition": "Soft Cell",
-    "example": "June 1982 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_90",
-    "term": "Abracadabra",
-    "definition": "The Steve Miller Band",
-    "example": "July 1982 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_91",
-    "term": "Da Da Da",
-    "definition": "Trio",
-    "example": "July 1982 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_92",
-    "term": "Save A Prayer",
-    "definition": "Duran Duran",
-    "example": "September 1982 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_93",
-    "term": "Private Investigations",
-    "definition": "Dire Straits",
-    "example": "September 1982 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_94",
-    "term": "The Bitterest Pill (I Ever Had To Swallow)",
-    "definition": "The Jam",
-    "example": "September 1982 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_95",
-    "term": "Zoom",
-    "definition": "Fat Larry's Band",
-    "example": "October 1982 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_96",
-    "term": "Annie, I'm Not Your Daddy",
-    "definition": "Kid Creole and the Coconuts",
-    "example": "October 1982 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s7682_97",
-    "term": "Heartbreaker",
-    "definition": "Dionne Warwick",
-    "example": "November 1982 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_98",
-    "term": "Mirror Man",
-    "definition": "The Human League",
-    "example": "November 1982 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s7682_99",
-    "term": "The Shakin' Stevens EP",
-    "definition": "Shakin' Stevens",
-    "example": "December 1982 — 2 weeks at No.2"
-  }
-];
-window.QM_NO2S8388_DATA = [
-  {
-    "id": "id_no2s8388_1",
-    "term": "A Winter's Tale",
-    "definition": "David Essex",
-    "example": "January 1983 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_2",
-    "term": "Electric Avenue",
-    "definition": "Eddy Grant",
-    "example": "February 1983 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_3",
-    "term": "Sweet Dreams (Are Made Of This)",
-    "definition": "Eurythmics",
-    "example": "March 1983 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_4",
-    "term": "Church Of The Poison Mind",
-    "definition": "Culture Club",
-    "example": "April 1983 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_5",
-    "term": "Words",
-    "definition": "F.R. David",
-    "example": "April 1983 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_6",
-    "term": "(Keep Feeling) Fascination",
-    "definition": "The Human League",
-    "example": "May 1983 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_7",
-    "term": "Temptation",
-    "definition": "Heaven 17",
-    "example": "May 1983 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_8",
-    "term": "Bad Boys",
-    "definition": "Wham!",
-    "example": "June 1983 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_9",
-    "term": "China Girl",
-    "definition": "David Bowie",
-    "example": "June 1983 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_10",
-    "term": "Flashdance... What a Feeling",
-    "definition": "Irene Cara",
-    "example": "July 1983 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_11",
-    "term": "I.O.U.",
-    "definition": "Freeez",
-    "example": "July 1983 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_12",
-    "term": "Gold",
-    "definition": "Spandau Ballet",
-    "example": "August 1983 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_13",
-    "term": "Wings Of A Dove",
-    "definition": "Madness",
-    "example": "September 1983 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_14",
-    "term": "Tonight I Celebrate My Love",
-    "definition": "Peabo Bryson And Roberta Flack",
-    "example": "September 1983 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_15",
-    "term": "Modern Love",
-    "definition": "David Bowie",
-    "example": "October 1983 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_16",
-    "term": "They Don't Know",
-    "definition": "Tracey Ullman",
-    "example": "October 1983 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_17",
-    "term": "All Night Long (All Night)",
-    "definition": "Lionel Richie",
-    "example": "October 1983 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_18",
-    "term": "Say Say Say",
-    "definition": "Paul McCartney And Michael Jackson",
-    "example": "November 1983 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_19",
-    "term": "Love Of The Common People",
-    "definition": "Paul Young",
-    "example": "December 1983 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_20",
-    "term": "My Oh My",
-    "definition": "Slade",
-    "example": "December 1983 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_21",
-    "term": "What Is Love?",
-    "definition": "Howard Jones",
-    "example": "January 1984 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_22",
-    "term": "Girls Just Want To Have Fun",
-    "definition": "Cyndi Lauper",
-    "example": "February 1984 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_23",
-    "term": "Radio Ga Ga",
-    "definition": "Queen",
-    "example": "February 1984 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_24",
-    "term": "Joanna/Tonight",
-    "definition": "Kool & the Gang",
-    "example": "March 1984 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_25",
-    "term": "It's Raining Men",
-    "definition": "Weather Girls",
-    "example": "March 1984 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_26",
-    "term": "A Love Worth Waiting For",
-    "definition": "Shakin' Stevens",
-    "example": "April 1984 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_27",
-    "term": "You Take Me Up",
-    "definition": "The Thompson Twins",
-    "example": "April 1984 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_28",
-    "term": "Against All Odds (Take A Look At Me Now)",
-    "definition": "Phil Collins",
-    "example": "April 1984 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_29",
-    "term": "Automatic",
-    "definition": "The Pointer Sisters",
-    "example": "May 1984 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_30",
-    "term": "Let's Hear It For The Boy",
-    "definition": "Deniece Williams",
-    "example": "June 1984 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_31",
-    "term": "I Won't Let The Sun Go Down On Me",
-    "definition": "Nik Kershaw",
-    "example": "June 1984 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_32",
-    "term": "Hole In My Shoe",
-    "definition": "Neil",
-    "example": "July 1984 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_33",
-    "term": "Agadoo",
-    "definition": "Black Lace",
-    "example": "August 1984 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_34",
-    "term": "Ghostbusters",
-    "definition": "Ray Parker Jr",
-    "example": "September 1984 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_35",
-    "term": "The War Song",
-    "definition": "Culture Club",
-    "example": "October 1984 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_36",
-    "term": "No More Lonely Nights (Ballad)",
-    "definition": "Paul McCartney",
-    "example": "October 1984 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_37",
-    "term": "The Wild Boys",
-    "definition": "Duran Duran",
-    "example": "November 1984 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_38",
-    "term": "Last Christmas/Everything She Wants",
-    "definition": "Wham!",
-    "example": "December 1984 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_39",
-    "term": "1999/Little Red Corvette",
-    "definition": "Prince",
-    "example": "January 1985 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_40",
-    "term": "Love And Pride",
-    "definition": "King",
-    "example": "February 1985 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_41",
-    "term": "That Ole Devil Called Love",
-    "definition": "Alison Moyet",
-    "example": "March 1985 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_42",
-    "term": "Welcome to the Pleasuredome",
-    "definition": "Frankie Goes to Hollywood",
-    "example": "April 1985 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_43",
-    "term": "Everybody Wants to Rule the World",
-    "definition": "Tears for Fears",
-    "example": "April 1985 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_44",
-    "term": "A View To A Kill",
-    "definition": "Duran Duran",
-    "example": "May 1985 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_45",
-    "term": "Kayleigh",
-    "definition": "Marillion",
-    "example": "June 1985 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_46",
-    "term": "Crazy For You",
-    "definition": "Madonna",
-    "example": "June 1985 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_47",
-    "term": "Axel F",
-    "definition": "Harold Faltermeyer",
-    "example": "July 1985 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_48",
-    "term": "Holiday",
-    "definition": "Madonna",
-    "example": "August 1985 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_49",
-    "term": "Holding Out For A Hero",
-    "definition": "Bonnie Tyler",
-    "example": "September 1985 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_50",
-    "term": "Take on Me",
-    "definition": "A-ha",
-    "example": "October 1985 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_51",
-    "term": "Walk Of Life",
-    "definition": "Dire Straits",
-    "example": "January 1986 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_52",
-    "term": "Only Love",
-    "definition": "Nana Mouskouri",
-    "example": "February 1986 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_53",
-    "term": "Borderline",
-    "definition": "Madonna",
-    "example": "February 1986 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_54",
-    "term": "Starting Together",
-    "definition": "Su Pollard",
-    "example": "February 1986 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_55",
-    "term": "Manic Monday",
-    "definition": "The Bangles",
-    "example": "March 1986 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_56",
-    "term": "Absolute Beginners",
-    "definition": "David Bowie",
-    "example": "March 1986 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_57",
-    "term": "Wonderful World",
-    "definition": "Sam Cooke",
-    "example": "April 1986 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_58",
-    "term": "Live To Tell",
-    "definition": "Madonna",
-    "example": "May 1986 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_59",
-    "term": "On My Own",
-    "definition": "Patti LaBelle And Michael McDonald",
-    "example": "May 1986 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_60",
-    "term": "Holding Back The Years",
-    "definition": "Simply Red",
-    "example": "June 1986 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_61",
-    "term": "I Can't Wait",
-    "definition": "Nu Shooz",
-    "example": "June 1986 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_62",
-    "term": "Every Beat Of My Heart",
-    "definition": "Rod Stewart",
-    "example": "July 1986 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_63",
-    "term": "So Macho/Cruising",
-    "definition": "Sinitta",
-    "example": "August 1986 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_64",
-    "term": "We Don't Have To Take Our Clothes Off",
-    "definition": "Jermaine Stewart",
-    "example": "September 1986 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_65",
-    "term": "Rain Or Shine",
-    "definition": "Five Star",
-    "example": "October 1986 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_66",
-    "term": "In The Army Now",
-    "definition": "Status Quo",
-    "example": "November 1986 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_67",
-    "term": "You Keep Me Hangin' On",
-    "definition": "Kim Wilde",
-    "example": "November 1986 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_68",
-    "term": "Sometimes",
-    "definition": "Erasure",
-    "example": "December 1986 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_69",
-    "term": "Heartache",
-    "definition": "Pepsi And Shirlie",
-    "example": "February 1987 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_70",
-    "term": "When A Man Loves A Woman",
-    "definition": "Percy Sledge",
-    "example": "February 1987 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_71",
-    "term": "Can't Be With You Tonight",
-    "definition": "Judy Boucher",
-    "example": "April 1987 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_72",
-    "term": "A Boy From Nowhere",
-    "definition": "Tom Jones",
-    "example": "May 1987 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_73",
-    "term": "Hold Me Now",
-    "definition": "Johnny Logan",
-    "example": "June 1987 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_74",
-    "term": "Under The Boardwalk",
-    "definition": "Bruce Willis",
-    "example": "July 1987 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_75",
-    "term": "Call Me",
-    "definition": "Spagna",
-    "example": "August 1987 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_76",
-    "term": "What Have I Done To Deserve This",
-    "definition": "The Pet Shop Boys And Dusty Springfield",
-    "example": "August 1987 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_77",
-    "term": "Wipeout",
-    "definition": "The Fat Boys And The Beach Boys",
-    "example": "September 1987 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_78",
-    "term": "Full Metal Jacket (I Wanna Be Your Drill Instructor)",
-    "definition": "Abigail Mead And Nigel Goulding",
-    "example": "October 1987 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_79",
-    "term": "Crockett's Theme",
-    "definition": "Jan Hammer",
-    "example": "October 1987 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_80",
-    "term": "Faith",
-    "definition": "George Michael",
-    "example": "October 1987 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_81",
-    "term": "Got My Mind Set On You",
-    "definition": "George Harrison",
-    "example": "November 1987 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_82",
-    "term": "When I Fall In Love",
-    "definition": "Rick Astley",
-    "example": "December 1987 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_83",
-    "term": "Fairytale of New York",
-    "definition": "The Pogues ft Kirsty MacColl",
-    "example": "December 1987 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_84",
-    "term": "Sign Your Name",
-    "definition": "Terence Trent D'Arby",
-    "example": "January 1988 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_85",
-    "term": "When Will I Be Famous?",
-    "definition": "Bros",
-    "example": "February 1988 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_86",
-    "term": "Beat Dis",
-    "definition": "Bomb the Bass",
-    "example": "February 1988 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_87",
-    "term": "Together Forever",
-    "definition": "Rick Astley",
-    "example": "March 1988 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_88",
-    "term": "Drop The Boy",
-    "definition": "Bros",
-    "example": "March 1988 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_89",
-    "term": "Love Changes (Everything)",
-    "definition": "Climie Fisher",
-    "example": "April 1988 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_90",
-    "term": "Got To Be Certain",
-    "definition": "Kylie Minogue",
-    "example": "May 1988 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_91",
-    "term": "The Twist (Yo, Twist)",
-    "definition": "The Fat Boys With Chubby Checker",
-    "example": "July 1988 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_92",
-    "term": "Push It/Tramp",
-    "definition": "Salt-N-Pepa",
-    "example": "July 1988 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_93",
-    "term": "The Loco-Motion",
-    "definition": "Kylie Minogue",
-    "example": "August 1988 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_94",
-    "term": "The Harder I Try",
-    "definition": "Brother Beyond",
-    "example": "September 1988 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_95",
-    "term": "Don't Worry Be Happy",
-    "definition": "Bobby McFerrin",
-    "example": "October 1988 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_96",
-    "term": "Je Ne Sais Pas Pourquoi",
-    "definition": "Kylie Minogue",
-    "example": "October 1988 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8388_97",
-    "term": "Stand Up For Your Love Rights",
-    "definition": "Yazz",
-    "example": "November 1988 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_98",
-    "term": "Need You Tonight",
-    "definition": "INXS",
-    "example": "November 1988 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8388_99",
-    "term": "Cat Among The Pigeons/Silent Night",
-    "definition": "Bros",
-    "example": "December 1988 — 1 week at No.2"
-  }
-];
-window.QM_NO2S8993_DATA = [
-  {
-    "id": "id_no2s8993_1",
-    "term": "Crackers International (EP)",
-    "definition": "Erasure",
-    "example": "January 1989 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_2",
-    "term": "The Living Years",
-    "definition": "Mike + the Mechanics",
-    "example": "January 1989 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_3",
-    "term": "Love Changes Everything",
-    "definition": "Michael Ball",
-    "example": "February 1989 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_4",
-    "term": "Leave Me Alone",
-    "definition": "Michael Jackson",
-    "example": "March 1989 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_5",
-    "term": "If You Don't Know Me By Now",
-    "definition": "Simply Red",
-    "example": "April 1989 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_6",
-    "term": "Miss You Like Crazy",
-    "definition": "Natalie Cole",
-    "example": "June 1989 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_7",
-    "term": "The Best Of Me",
-    "definition": "Cliff Richard",
-    "example": "June 1989 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_8",
-    "term": "Batdance",
-    "definition": "Prince",
-    "example": "July 1989 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_9",
-    "term": "Song For Whoever",
-    "definition": "The Beautiful South",
-    "example": "July 1989 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_10",
-    "term": "London Nights",
-    "definition": "London Boys",
-    "example": "July 1989 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_11",
-    "term": "Too Much",
-    "definition": "Bros",
-    "example": "July 1989 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_12",
-    "term": "Wouldn't Change A Thing",
-    "definition": "Kylie Minogue",
-    "example": "August 1989 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_13",
-    "term": "French Kiss",
-    "definition": "Lil' Louis",
-    "example": "August 1989 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_14",
-    "term": "Poison",
-    "definition": "Alice Cooper",
-    "example": "August 1989 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_15",
-    "term": "Every Day (I Love You More)",
-    "definition": "Jason Donovan",
-    "example": "September 1989 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_16",
-    "term": "Right Here Waiting",
-    "definition": "Richard Marx",
-    "example": "September 1989 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_17",
-    "term": "Pump Up The Jam",
-    "definition": "Technotronic featuring Felly",
-    "example": "October 1989 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_18",
-    "term": "Girl I'm Gonna Miss You",
-    "definition": "Milli Vanilli",
-    "example": "October 1989 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_19",
-    "term": "Another Day In Paradise",
-    "definition": "Phil Collins",
-    "example": "November 1989 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_20",
-    "term": "Don't Know Much",
-    "definition": "Linda Ronstadt And Aaron Neville",
-    "example": "December 1989 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_21",
-    "term": "When You Come Back To Me",
-    "definition": "Jason Donovan",
-    "example": "December 1989 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_22",
-    "term": "Get Up (Before The Night Is Over)",
-    "definition": "Technotronic featuring Ya Kid K",
-    "example": "February 1990 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_23",
-    "term": "The Brits 1990",
-    "definition": "Various Artists",
-    "example": "March 1990 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_24",
-    "term": "Love Shack",
-    "definition": "The B-52s",
-    "example": "March 1990 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_25",
-    "term": "Black Velvet",
-    "definition": "Alannah Myles",
-    "example": "April 1990 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_26",
-    "term": "Opposites Attract",
-    "definition": "Paula Abdul With the Wild Pair",
-    "example": "May 1990 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_27",
-    "term": "Dirty Cash",
-    "definition": "The Adventures Of Stevie V",
-    "example": "May 1990 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_28",
-    "term": "Better The Devil You Know",
-    "definition": "Kylie Minogue",
-    "example": "May 1990 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_29",
-    "term": "Step By Step",
-    "definition": "New Kids on the Block",
-    "example": "June 1990 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_30",
-    "term": "Nessun Dorma",
-    "definition": "Luciano Pavarotti",
-    "example": "June 1990 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_31",
-    "term": "Mona",
-    "definition": "Craig McLachlan And Check 1-2",
-    "example": "July 1990 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_32",
-    "term": "Hanky Panky",
-    "definition": "Madonna",
-    "example": "August 1990 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_33",
-    "term": "Tom's Diner",
-    "definition": "DNA featuring Suzanne Vega",
-    "example": "August 1990 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_34",
-    "term": "Four Bacharach And David Songs (EP)",
-    "definition": "Deacon Blue",
-    "example": "September 1990 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_35",
-    "term": "Groove Is in the Heart/What Is Love?",
-    "definition": "Deee-Lite",
-    "example": "September 1990 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_36",
-    "term": "I've Been Thinking About You",
-    "definition": "Londonbeat",
-    "example": "October 1990 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_37",
-    "term": "Blue Velvet",
-    "definition": "Bobby Vinton",
-    "example": "October 1990 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_38",
-    "term": "The Anniversary Waltz - Part One",
-    "definition": "Status Quo",
-    "example": "October 1990 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_39",
-    "term": "Fog On The Tyne (Revisited)",
-    "definition": "Gazza And Lindisfarne",
-    "example": "November 1990 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_40",
-    "term": "Don't Worry",
-    "definition": "Kim Appleby",
-    "example": "November 1990 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_41",
-    "term": "Justify My Love",
-    "definition": "Madonna",
-    "example": "December 1990 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_42",
-    "term": "Crazy",
-    "definition": "Seal",
-    "example": "January 1991 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_43",
-    "term": "(I Wanna Give You) Devotion",
-    "definition": "Nomad featuring MC Mikee Freedom",
-    "example": "February 1991 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_44",
-    "term": "Crazy For You",
-    "definition": "Madonna",
-    "example": "March 1991 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_45",
-    "term": "Sit Down",
-    "definition": "James",
-    "example": "April 1991 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_46",
-    "term": "Last Train To Trancentral",
-    "definition": "KLF featuring The Children Of The Revolution",
-    "example": "May 1991 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_47",
-    "term": "Gypsy Woman (La Da Dee)",
-    "definition": "Crystal Waters",
-    "example": "May 1991 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_48",
-    "term": "Baby Baby",
-    "definition": "Amy Grant",
-    "example": "June 1991 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_49",
-    "term": "Now That We've Found Love",
-    "definition": "Heavy D and the Boyz",
-    "example": "July 1991 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_50",
-    "term": "More Than Words",
-    "definition": "Extreme",
-    "example": "August 1991 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_51",
-    "term": "I'm Too Sexy",
-    "definition": "Right Said Fred",
-    "example": "August 1991 — 6 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_52",
-    "term": "Let's Talk About Sex",
-    "definition": "Salt-N-Pepa",
-    "example": "September 1991 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_53",
-    "term": "Wind Of Change",
-    "definition": "The Scorpions",
-    "example": "October 1991 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_54",
-    "term": "Get Ready For This",
-    "definition": "2 Unlimited",
-    "example": "October 1991 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_55",
-    "term": "When You Tell Me That You Love Me",
-    "definition": "Diana Ross",
-    "example": "December 1991 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_56",
-    "term": "Justified And Ancient",
-    "definition": "KLF featuring Tammy Wynette",
-    "example": "January 1992 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_57",
-    "term": "Everybody In The Place (EP)",
-    "definition": "The Prodigy",
-    "example": "January 1992 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_58",
-    "term": "Give Me Just A Little More Time",
-    "definition": "Kylie Minogue",
-    "example": "February 1992 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_59",
-    "term": "Twilight Zone",
-    "definition": "2 Unlimited",
-    "example": "February 1992 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_60",
-    "term": "My Girl",
-    "definition": "The Temptations",
-    "example": "February 1992 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_61",
-    "term": "I Love Your Smile",
-    "definition": "Shanice",
-    "example": "March 1992 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_62",
-    "term": "Finally",
-    "definition": "Ce Ce Peniston",
-    "example": "March 1992 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_63",
-    "term": "Let's Get Rocked",
-    "definition": "Def Leppard",
-    "example": "April 1992 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_64",
-    "term": "Be Quick Or Be Dead",
-    "definition": "Iron Maiden",
-    "example": "April 1992 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_65",
-    "term": "On A Ragga Tip",
-    "definition": "SL2",
-    "example": "May 1992 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_66",
-    "term": "Knockin' On Heaven's Door",
-    "definition": "Guns N' Roses",
-    "example": "May 1992 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_67",
-    "term": "Raving I'm Raving",
-    "definition": "Shut Up and Dance",
-    "example": "May 1992 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_68",
-    "term": "Jump",
-    "definition": "Kris Kross",
-    "example": "June 1992 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_69",
-    "term": "Heartbeat",
-    "definition": "Nick Berry",
-    "example": "June 1992 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_70",
-    "term": "I'll Be There",
-    "definition": "Mariah Carey",
-    "example": "July 1992 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_71",
-    "term": "Sesame's Treet",
-    "definition": "Smart E's",
-    "example": "July 1992 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_72",
-    "term": "Barcelona",
-    "definition": "Freddie Mercury and Montserrat Caballe",
-    "example": "August 1992 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_73",
-    "term": "The Best Things In Life Are Free",
-    "definition": "Luther Vandross And Janet Jackson",
-    "example": "August 1992 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_74",
-    "term": "Baker Street",
-    "definition": "Undercover",
-    "example": "September 1992 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_75",
-    "term": "It's My Life",
-    "definition": "Dr. Alban",
-    "example": "September 1992 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_76",
-    "term": "People Everyday",
-    "definition": "Arrested Development",
-    "example": "November 1992 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_77",
-    "term": "Heal The World",
-    "definition": "Michael Jackson",
-    "example": "December 1992 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_78",
-    "term": "Exterminate!",
-    "definition": "Snap! ft Niki Haris",
-    "example": "January 1993 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_79",
-    "term": "Why Can't I Wake Up With You",
-    "definition": "Take That",
-    "example": "February 1993 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_80",
-    "term": "Give In To Me",
-    "definition": "Michael Jackson",
-    "example": "March 1993 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_81",
-    "term": "Informer",
-    "definition": "Snow",
-    "example": "March 1993 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_82",
-    "term": "That's The Way Love Goes",
-    "definition": "Janet Jackson",
-    "example": "May 1993 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_83",
-    "term": "What Is Love",
-    "definition": "Haddaway",
-    "example": "July 1993 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_84",
-    "term": "What's Up",
-    "definition": "4 Non Blondes",
-    "example": "July 1993 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_85",
-    "term": "The Key the Secret",
-    "definition": "Urban Cookie Collective",
-    "example": "August 1993 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_86",
-    "term": "It Keeps Rainin' (Tears From My Eyes)",
-    "definition": "Bitty McLean",
-    "example": "September 1993 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_87",
-    "term": "Go West",
-    "definition": "Pet Shop Boys",
-    "example": "September 1993 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_88",
-    "term": "Moving On Up",
-    "definition": "M People",
-    "example": "October 1993 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_89",
-    "term": "U Got 2 Let The Music",
-    "definition": "Cappella",
-    "example": "October 1993 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s8993_90",
-    "term": "Please Forgive Me",
-    "definition": "Bryan Adams",
-    "example": "November 1993 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s8993_91",
-    "term": "True Love",
-    "definition": "Elton John and Kiki Dee",
-    "example": "November 1993 — 2 weeks at No.2"
-  }
-];
-window.QM_NO2S9498_DATA = [
-  {
-    "id": "id_no2s9498_1",
-    "term": "All For Love",
-    "definition": "Bryan Adams, Rod Stewart & Sting",
-    "example": "January 1994 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_2",
-    "term": "Breathe Again",
-    "definition": "Toni Braxton",
-    "example": "February 1994 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_3",
-    "term": "The Sign",
-    "definition": "Ace of Base",
-    "example": "March 1994 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_4",
-    "term": "Streets Of Philadelphia",
-    "definition": "Bruce Springsteen",
-    "example": "April 1994 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_5",
-    "term": "Mmm Mmm Mmm Mmm",
-    "definition": "Crash Test Dummies",
-    "example": "April 1994 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_6",
-    "term": "Baby I Love Your Way",
-    "definition": "Big Mountain",
-    "example": "June 1994 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_7",
-    "term": "I Swear",
-    "definition": "All-4-One",
-    "example": "July 1994 — 7 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_8",
-    "term": "Crazy for You",
-    "definition": "Let Loose",
-    "example": "August 1994 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_9",
-    "term": "Compliments On Your Kiss",
-    "definition": "Red Dragon With Brian and Tony",
-    "example": "September 1994 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_10",
-    "term": "Confide In Me",
-    "definition": "Kylie Minogue",
-    "example": "September 1994 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_11",
-    "term": "The Rhythm Of The Night",
-    "definition": "Corona",
-    "example": "September 1994 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_12",
-    "term": "Always",
-    "definition": "Bon Jovi",
-    "example": "October 1994 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_13",
-    "term": "Another Night",
-    "definition": "(MC Sar &) The Real McCoy",
-    "example": "November 1994 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_14",
-    "term": "Love Spreads",
-    "definition": "The Stone Roses",
-    "example": "December 1994 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_15",
-    "term": "Love Me For A Reason",
-    "definition": "Boyzone",
-    "example": "January 1995 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_16",
-    "term": "Set You Free",
-    "definition": "N-Trance",
-    "example": "February 1995 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_17",
-    "term": "No More 'I Love You's'",
-    "definition": "Annie Lennox",
-    "example": "February 1995 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_18",
-    "term": "I've Got A Little Something For You",
-    "definition": "MN8",
-    "example": "March 1995 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_19",
-    "term": "Don't Give Me Your Life",
-    "definition": "Alex Party",
-    "example": "March 1995 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_20",
-    "term": "Guaglione",
-    "definition": "Perez Prado And His Orchestra",
-    "example": "May 1995 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_21",
-    "term": "Common People",
-    "definition": "Pulp",
-    "example": "June 1995 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_22",
-    "term": "Hold Me, Thrill Me, Kiss Me, Kill Me",
-    "definition": "U2",
-    "example": "June 1995 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_23",
-    "term": "Alright/Time",
-    "definition": "Supergrass",
-    "example": "July 1995 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_24",
-    "term": "Shy Guy",
-    "definition": "Diana King",
-    "example": "July 1995 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_25",
-    "term": "I Luv U Baby",
-    "definition": "The Original",
-    "example": "August 1995 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_26",
-    "term": "Roll With It",
-    "definition": "Oasis",
-    "example": "August 1995 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_27",
-    "term": "Stayin' Alive",
-    "definition": "N-Trance ft Ricardo Da Force",
-    "example": "September 1995 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_28",
-    "term": "Mis-Shapes/Sorted for E's & Wizz",
-    "definition": "Pulp",
-    "example": "October 1995 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_29",
-    "term": "When Love & Hate Collide",
-    "definition": "Def Leppard",
-    "example": "October 1995 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_30",
-    "term": "I'd Lie For You (And That's The Truth)",
-    "definition": "Meat Loaf",
-    "example": "October 1995 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_31",
-    "term": "Heaven For Everyone",
-    "definition": "Queen",
-    "example": "November 1995 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_32",
-    "term": "Wonderwall",
-    "definition": "Oasis / Mike Flowers Pops",
-    "example": "November 1995, 1 week at No.2 & December 1995, 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_33",
-    "term": "Free As a Bird",
-    "definition": "The Beatles",
-    "example": "December 1995 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_34",
-    "term": "Father And Son",
-    "definition": "Boyzone",
-    "example": "December 1995 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_35",
-    "term": "Slight Return",
-    "definition": "The Bluetones",
-    "example": "February 1996 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_36",
-    "term": "Anything",
-    "definition": "3T",
-    "example": "February 1996 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_37",
-    "term": "Children",
-    "definition": "Robert Miles",
-    "example": "March 1996 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_38",
-    "term": "The X Files",
-    "definition": "Mark Snow",
-    "example": "March 1996 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_39",
-    "term": "A Design For Life",
-    "definition": "Manic Street Preachers",
-    "example": "April 1996 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_40",
-    "term": "Mysterious Girl",
-    "definition": "Peter Andre ft Bubbler Ranx",
-    "example": "June 1996 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_41",
-    "term": "Born Slippy",
-    "definition": "Underworld",
-    "example": "July 1996 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_42",
-    "term": "Freedom",
-    "definition": "Robbie Williams",
-    "example": "August 1996 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_43",
-    "term": "Macarena",
-    "definition": "Los Del Rio",
-    "example": "August 1996 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_44",
-    "term": "Why",
-    "definition": "3T featuring Michael Jackson",
-    "example": "August 1996 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_45",
-    "term": "Spinning The Wheel",
-    "definition": "George Michael",
-    "example": "August 1996 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_46",
-    "term": "Hey Dude",
-    "definition": "Kula Shaker",
-    "example": "September 1996 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_47",
-    "term": "If You Ever",
-    "definition": "East 17 featuring Gabrielle",
-    "example": "November 1996 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_48",
-    "term": "What's Love Got To Do With It",
-    "definition": "Warren G Feat Adina Howard",
-    "example": "November 1996 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_49",
-    "term": "No Woman, No Cry",
-    "definition": "Fugees",
-    "example": "November 1996 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_50",
-    "term": "Un-Break My Heart",
-    "definition": "Toni Braxton",
-    "example": "December 1996 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_51",
-    "term": "Quit Playing Games [with My Heart]",
-    "definition": "Backstreet Boys",
-    "example": "January 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_52",
-    "term": "Where Do You Go",
-    "definition": "No Mercy",
-    "example": "February 1997 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_53",
-    "term": "I Shot The Sheriff",
-    "definition": "Warren G",
-    "example": "February 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_54",
-    "term": "Encore Une Fois",
-    "definition": "Sash!",
-    "example": "March 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_55",
-    "term": "Hush",
-    "definition": "Kula Shaker",
-    "example": "March 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_56",
-    "term": "Isn't It A Wonder",
-    "definition": "Boyzone",
-    "example": "March 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_57",
-    "term": "Richard III",
-    "definition": "Supergrass",
-    "example": "April 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_58",
-    "term": "Song 2",
-    "definition": "Blur",
-    "example": "April 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_59",
-    "term": "Old Before I Die",
-    "definition": "Robbie Williams",
-    "example": "April 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_60",
-    "term": "Star People '97",
-    "definition": "George Michael",
-    "example": "May 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_61",
-    "term": "Lovefool",
-    "definition": "The Cardigans",
-    "example": "May 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_62",
-    "term": "Time To Say Goodbye (Con Te Partiro)",
-    "definition": "Sarah Brightman & Andrea Bocelli",
-    "example": "May 1997 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_63",
-    "term": "Bitter Sweet Symphony",
-    "definition": "The Verve",
-    "example": "June 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_64",
-    "term": "Ecuador",
-    "definition": "Sash! ft Rodriguez",
-    "example": "July 1997 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_65",
-    "term": "Picture Of You",
-    "definition": "Boyzone",
-    "example": "August 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_66",
-    "term": "Freed From Desire",
-    "definition": "Gala",
-    "example": "August 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_67",
-    "term": "Tubthumping",
-    "definition": "Chumbawamba",
-    "example": "August 1997 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_68",
-    "term": "You Have Been Loved EP",
-    "definition": "George Michael",
-    "example": "September 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_69",
-    "term": "Sunchyme",
-    "definition": "Dario G",
-    "example": "September 1997 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_70",
-    "term": "Stand by Me",
-    "definition": "Oasis",
-    "example": "October 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_71",
-    "term": "Stay",
-    "definition": "Sash! ft La Trec",
-    "example": "October 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_72",
-    "term": "Torn",
-    "definition": "Natalie Imbruglia",
-    "example": "November 1997 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_73",
-    "term": "Baby Can I Hold You/Shooting Star",
-    "definition": "Boyzone",
-    "example": "December 1997 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_74",
-    "term": "Bamboogie",
-    "definition": "Bamboo",
-    "example": "January 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_75",
-    "term": "All I Have To Give",
-    "definition": "Backstreet Boys",
-    "example": "February 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_76",
-    "term": "Big Mistake",
-    "definition": "Natalie Imbruglia",
-    "example": "March 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_77",
-    "term": "Stop",
-    "definition": "Spice Girls",
-    "example": "March 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_78",
-    "term": "Turn It Up/Fire It Up",
-    "definition": "Busta Rhymes",
-    "example": "April 1998 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_79",
-    "term": "Ray Of Light",
-    "definition": "Madonna",
-    "example": "May 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_80",
-    "term": "The Boy Is Mine",
-    "definition": "Brandy & Monica",
-    "example": "June 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_81",
-    "term": "Horny",
-    "definition": "Mousse T vs Hot 'N' Juicy",
-    "example": "June 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_82",
-    "term": "Vindaloo",
-    "definition": "Fat Les",
-    "example": "June 1998 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_83",
-    "term": "Ghetto Supastar [that Is What You Are]",
-    "definition": "Pras Michel ft ODB & Mya",
-    "example": "July 1998 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_84",
-    "term": "Just The Two Of Us",
-    "definition": "Will Smith",
-    "example": "August 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_85",
-    "term": "Come With Me",
-    "definition": "Puff Daddy ft Jimmy Page",
-    "example": "August 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_86",
-    "term": "Mysterious Times",
-    "definition": "Sash! ft Tina Cousins",
-    "example": "August 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_87",
-    "term": "Music Sounds Better With You",
-    "definition": "Stardust",
-    "example": "August 1998 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_88",
-    "term": "One For Sorrow",
-    "definition": "Steps",
-    "example": "September 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_89",
-    "term": "Everybody Get Up",
-    "definition": "Five",
-    "example": "September 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_90",
-    "term": "Sex On The Beach",
-    "definition": "T-Spoon",
-    "example": "September 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_91",
-    "term": "Perfect 10",
-    "definition": "The Beautiful South",
-    "example": "October 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_92",
-    "term": "Top Of The World",
-    "definition": "Brandy ft Mase",
-    "example": "October 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_93",
-    "term": "More Than A Woman",
-    "definition": "911",
-    "example": "October 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_94",
-    "term": "Outside",
-    "definition": "George Michael",
-    "example": "October 1998 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9498_95",
-    "term": "Each Time",
-    "definition": "E-17",
-    "example": "November 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_96",
-    "term": "I Love The Way You Love Me",
-    "definition": "Boyzone",
-    "example": "November 1998 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9498_97",
-    "term": "Hard Knock Life (Ghetto Anthem)",
-    "definition": "Jay-Z",
-    "example": "December 1998 — 1 week at No.2"
-  }
-];
-window.QM_NO2S9902_DATA = [
-  {
-    "id": "id_no2s9902_1",
-    "term": "I Want You For Myself",
-    "definition": "Another Level Featuring Ghostface Killah",
-    "example": "January 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_2",
-    "term": "Tequila",
-    "definition": "Terrorvision",
-    "example": "January 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_3",
-    "term": "Runaway",
-    "definition": "The Corrs",
-    "example": "February 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_4",
-    "term": "Tender",
-    "definition": "Blur",
-    "example": "March 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_5",
-    "term": "Better Best Forgotten",
-    "definition": "Steps",
-    "example": "March 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_6",
-    "term": "Witch Doctor",
-    "definition": "Cartoons",
-    "example": "April 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_7",
-    "term": "My Name Is",
-    "definition": "Eminem",
-    "example": "April 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_8",
-    "term": "Turn Around",
-    "definition": "Phats & Small",
-    "example": "April 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_9",
-    "term": "Right Here Right Now",
-    "definition": "Fatboy Slim",
-    "example": "May 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_10",
-    "term": "Why Don't You Get A Job?",
-    "definition": "The Offspring",
-    "example": "May 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_11",
-    "term": "Look At Me",
-    "definition": "Geri Halliwell",
-    "example": "May 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_12",
-    "term": "Ooh La La",
-    "definition": "Wiseguys",
-    "example": "June 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_13",
-    "term": "Beautiful Stranger",
-    "definition": "Madonna",
-    "example": "June 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_14",
-    "term": "My Love Is Your Love",
-    "definition": "Whitney Houston",
-    "example": "July 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_15",
-    "term": "Wild Wild West",
-    "definition": "Will Smith",
-    "example": "July 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_16",
-    "term": "Love's Got A Hold On My Heart",
-    "definition": "Steps",
-    "example": "July 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_17",
-    "term": "If Ya Gettin' Down",
-    "definition": "Five",
-    "example": "July 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_18",
-    "term": "Better Off Alone",
-    "definition": "Alice Deejay",
-    "example": "August 1999 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_19",
-    "term": "(Mucho Mambo) Sway",
-    "definition": "Shaft",
-    "example": "September 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_20",
-    "term": "The Launch",
-    "definition": "DJ Jean",
-    "example": "September 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_21",
-    "term": "S Club Party",
-    "definition": "S Club 7",
-    "example": "October 1999 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_22",
-    "term": "2 Times",
-    "definition": "Ann Lee",
-    "example": "October 1999 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_23",
-    "term": "If I Could Turn Back The Hands Of Time",
-    "definition": "R. Kelly",
-    "example": "November 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_24",
-    "term": "What I Am",
-    "definition": "Tin Tin Out ft Emma Bunton",
-    "example": "November 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_25",
-    "term": "Will 2K",
-    "definition": "Will Smith",
-    "example": "November 1999 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_26",
-    "term": "Re-Rewind The Crowd Say Bo Selecta",
-    "definition": "Artful Dodger ft Craig David",
-    "example": "December 1999 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_27",
-    "term": "Two In A Million/You're My Number One",
-    "definition": "S Club 7",
-    "example": "January 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_28",
-    "term": "U Know What's Up",
-    "definition": "Donnell Jones",
-    "example": "January 2000 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_29",
-    "term": "Adelante",
-    "definition": "Sash!",
-    "example": "February 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_30",
-    "term": "Movin Too Fast",
-    "definition": "Artful Dodger & Romina Johnson",
-    "example": "March 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_31",
-    "term": "All The Small Things",
-    "definition": "Blink 182",
-    "example": "March 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_32",
-    "term": "The Time Is Now",
-    "definition": "Moloko",
-    "example": "April 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_33",
-    "term": "Flowers",
-    "definition": "Sweet Female Attitude",
-    "example": "April 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_34",
-    "term": "Reach",
-    "definition": "S Club 7",
-    "example": "June 2000 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_35",
-    "term": "Gotta Tell You",
-    "definition": "Samantha Mumba",
-    "example": "July 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_36",
-    "term": "Freestyler",
-    "definition": "Bomfunk MC's",
-    "example": "August 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_37",
-    "term": "Out Of Your Mind",
-    "definition": "True Steppers And Dane Bowers Featuring Victoria Beckham",
-    "example": "August 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_38",
-    "term": "Sky",
-    "definition": "Sonique",
-    "example": "September 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_39",
-    "term": "On A Night Like This",
-    "definition": "Kylie Minogue",
-    "example": "September 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_40",
-    "term": "Kernkraft 400",
-    "definition": "Zombie Nation",
-    "example": "September 2000 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_41",
-    "term": "Kids",
-    "definition": "Robbie Williams & Kylie Minogue",
-    "example": "October 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_42",
-    "term": "Who Let The Dogs Out",
-    "definition": "Baha Men",
-    "example": "October 2000 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_43",
-    "term": "I'm Over You",
-    "definition": "Martine McCutcheon",
-    "example": "November 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_44",
-    "term": "One More Time",
-    "definition": "Daft Punk",
-    "example": "November 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_45",
-    "term": "What Makes A Man",
-    "definition": "Westlife",
-    "example": "December 2000 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_46",
-    "term": "The Way You Make Me Feel",
-    "definition": "Steps",
-    "example": "January 2001 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_47",
-    "term": "Pop Ya Collar",
-    "definition": "Usher",
-    "example": "February 2001 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_48",
-    "term": "Stuck In A Moment You Can't Get Out Of",
-    "definition": "U2",
-    "example": "February 2001 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_49",
-    "term": "Teenage Dirtbag",
-    "definition": "Wheatus",
-    "example": "February 2001 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_50",
-    "term": "Ms Jackson",
-    "definition": "Outkast",
-    "example": "March 2001 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_51",
-    "term": "Lovin' Each Day",
-    "definition": "Ronan Keating",
-    "example": "April 2001 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_52",
-    "term": "All I Want",
-    "definition": "Mis-Teeq",
-    "example": "June 2001 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_53",
-    "term": "Purple Pills",
-    "definition": "D12",
-    "example": "July 2001 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_54",
-    "term": "Bootylicious",
-    "definition": "Destiny's Child",
-    "example": "August 2001 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_55",
-    "term": "Take Me Home",
-    "definition": "Sophie Ellis-Bextor",
-    "example": "August 2001 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_56",
-    "term": "Starlight",
-    "definition": "The Supermen Lovers Featuring Mani Hoffman",
-    "example": "September 2001 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_57",
-    "term": "Chain Reaction/One For Sorrow",
-    "definition": "Steps",
-    "example": "October 2001 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_58",
-    "term": "You Rock My World",
-    "definition": "Michael Jackson",
-    "example": "October 2001 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_59",
-    "term": "Rapture",
-    "definition": "IIO",
-    "example": "November 2001 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_60",
-    "term": "Murder On The Dancefloor",
-    "definition": "Sophie Ellis-Bextor",
-    "example": "December 2001 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_61",
-    "term": "How Wonderful You Are",
-    "definition": "Gordon Haskell",
-    "example": "December 2001 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_62",
-    "term": "Addicted To Bass",
-    "definition": "Puretone",
-    "example": "January 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_63",
-    "term": "Get The Party Started",
-    "definition": "Pink",
-    "example": "January 2002 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_64",
-    "term": "Caught In The Middle",
-    "definition": "A1",
-    "example": "February 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_65",
-    "term": "Hey Baby",
-    "definition": "No Doubt",
-    "example": "February 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_66",
-    "term": "You",
-    "definition": "S Club 7",
-    "example": "February 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_67",
-    "term": "Whenever Wherever",
-    "definition": "Shakira",
-    "example": "March 2002 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_68",
-    "term": "Me Julie",
-    "definition": "Ali G And Shaggy",
-    "example": "March 2002 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_69",
-    "term": "I'm Not a Girl Not Yet a Woman",
-    "definition": "Britney Spears",
-    "example": "April 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_70",
-    "term": "Lazy",
-    "definition": "X-Press 2 ft David Byrne",
-    "example": "April 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_71",
-    "term": "Girlfriend",
-    "definition": "'N Sync",
-    "example": "April 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_72",
-    "term": "One Step Closer",
-    "definition": "S Club Juniors",
-    "example": "May 2002 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_73",
-    "term": "Love At First Sight",
-    "definition": "Kylie Minogue",
-    "example": "June 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_74",
-    "term": "Stop Crying Your Heart Out",
-    "definition": "Oasis",
-    "example": "June 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_75",
-    "term": "The Logical Song",
-    "definition": "Scooter",
-    "example": "July 2002 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_76",
-    "term": "By The Way",
-    "definition": "Red Hot Chili Peppers",
-    "example": "July 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_77",
-    "term": "Automatic High",
-    "definition": "S Club Juniors",
-    "example": "August 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_78",
-    "term": "In My Place",
-    "definition": "Coldplay",
-    "example": "August 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_79",
-    "term": "Fantasy",
-    "definition": "Appleton",
-    "example": "September 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_80",
-    "term": "Got To Have Your Love",
-    "definition": "Liberty X",
-    "example": "September 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_81",
-    "term": "Little By Little/She Is Love",
-    "definition": "Oasis",
-    "example": "October 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_82",
-    "term": "Down Boy",
-    "definition": "Holly Valance",
-    "example": "October 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_83",
-    "term": "New Direction",
-    "definition": "S Club Juniors",
-    "example": "October 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_84",
-    "term": "Like I Love You",
-    "definition": "Justin Timberlake",
-    "example": "November 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_85",
-    "term": "Don't Let Me Down/You And I",
-    "definition": "Will Young",
-    "example": "November 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_86",
-    "term": "Last Goodbye/Be With You",
-    "definition": "Atomic Kitten",
-    "example": "December 2002 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s9902_87",
-    "term": "Cheeky Song (Touch My Bum)",
-    "definition": "Cheeky Girls",
-    "example": "December 2002 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s9902_88",
-    "term": "Sacred Trust/After You're Gone",
-    "definition": "One True Voice",
-    "example": "December 2002 — 1 week at No.2"
-  }
-];
-window.QM_NO2S0306_DATA = [
-  {
-    "id": "id_no2s0306_1",
-    "term": "Danger High Voltage",
-    "definition": "Electric Six",
-    "example": "January 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_2",
-    "term": "Year 3000",
-    "definition": "Busted",
-    "example": "January 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_3",
-    "term": "03 Bonnie & Clyde",
-    "definition": "Jay-Z ft Beyonce Knowles",
-    "example": "February 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_4",
-    "term": "Stole",
-    "definition": "Kelly Rowland",
-    "example": "February 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_5",
-    "term": "Cry Me A River",
-    "definition": "Justin Timberlake",
-    "example": "February 2003 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_6",
-    "term": "I Can't Break Down",
-    "definition": "Sinead Quinn",
-    "example": "February 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_7",
-    "term": "The Boys of Summer",
-    "definition": "DJ Sammy",
-    "example": "March 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_8",
-    "term": "I Begin To Wonder",
-    "definition": "Dannii Minogue",
-    "example": "March 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_9",
-    "term": "All I Have",
-    "definition": "Jennifer Lopez ft Ll Cool J",
-    "example": "March 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_10",
-    "term": "Scandalous",
-    "definition": "Mis-Teeq",
-    "example": "March 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_11",
-    "term": "Cry",
-    "definition": "Kym Marsh",
-    "example": "April 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_12",
-    "term": "American Life",
-    "definition": "Madonna",
-    "example": "April 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_13",
-    "term": "All Over",
-    "definition": "Lisa Maffia",
-    "example": "May 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_14",
-    "term": "Rise & Fall",
-    "definition": "Craig David ft Sting",
-    "example": "May 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_15",
-    "term": "Favourite Things",
-    "definition": "Big Brovaz",
-    "example": "May 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_16",
-    "term": "No Good Advice",
-    "definition": "Girls Aloud",
-    "example": "May 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_17",
-    "term": "Rock Your Body",
-    "definition": "Justin Timberlake",
-    "example": "May 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_18",
-    "term": "Say Goodbye/Love Ain't Gonna Wait for You",
-    "definition": "S Club",
-    "example": "June 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_19",
-    "term": "Fast Food Song",
-    "definition": "Fast Food Rockers",
-    "example": "June 2003 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_20",
-    "term": "Hollywood",
-    "definition": "Madonna",
-    "example": "July 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_21",
-    "term": "Satisfaction",
-    "definition": "Benny Benassi Pts the Biz",
-    "example": "July 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_22",
-    "term": "Never Leave You (Uh Oooh Uh Oooh)",
-    "definition": "Lumidee",
-    "example": "August 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_23",
-    "term": "Pretty Green Eyes",
-    "definition": "Ultrabeat",
-    "example": "August 2003 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_24",
-    "term": "Dance (With U)",
-    "definition": "Lemar",
-    "example": "August 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_25",
-    "term": "White Flag",
-    "definition": "Dido",
-    "example": "September 2003 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_26",
-    "term": "Sweet Dreams My LA Ex",
-    "definition": "Rachel Stevens",
-    "example": "September 2003 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_27",
-    "term": "I Believe In A Thing Called Love",
-    "definition": "The Darkness",
-    "example": "October 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_28",
-    "term": "Baby Boy",
-    "definition": "Beyonce ft Sean Paul",
-    "example": "October 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_29",
-    "term": "Turn Me On",
-    "definition": "Kevin Lyttle",
-    "example": "October 2003 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_30",
-    "term": "Guilty",
-    "definition": "Blue",
-    "example": "November 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_31",
-    "term": "Flip Reverse",
-    "definition": "Blazin' Squad",
-    "example": "November 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_32",
-    "term": "Me Against The Music",
-    "definition": "Britney Spears ft Madonna",
-    "example": "November 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_33",
-    "term": "Jump",
-    "definition": "Girls Aloud",
-    "example": "November 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_34",
-    "term": "I'm Your Man",
-    "definition": "Shane Richie",
-    "example": "December 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_35",
-    "term": "Shut Up",
-    "definition": "Black Eyed Peas",
-    "example": "December 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_36",
-    "term": "Christmas Time (Don't Let the Bells End)",
-    "definition": "The Darkness",
-    "example": "December 2003 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_37",
-    "term": "Milkshake",
-    "definition": "Kelis",
-    "example": "January 2004 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_38",
-    "term": "She Believes (In Me)",
-    "definition": "Ronan Keating",
-    "example": "February 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_39",
-    "term": "Thank You",
-    "definition": "Jamelia",
-    "example": "March 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_40",
-    "term": "My Band",
-    "definition": "D12",
-    "example": "April 2004 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_41",
-    "term": "Air Hostess",
-    "definition": "Busted",
-    "example": "May 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_42",
-    "term": "Dip it Low",
-    "definition": "Christina Milian",
-    "example": "May 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_43",
-    "term": "Trick Me",
-    "definition": "Kelis",
-    "example": "June 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_44",
-    "term": "Come On England",
-    "definition": "4-4-2",
-    "example": "June 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_45",
-    "term": "The Show",
-    "definition": "Girls Aloud",
-    "example": "July 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_46",
-    "term": "Some Girls",
-    "definition": "Rachel Stevens",
-    "example": "July 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_47",
-    "term": "Can't Stand Me Now",
-    "definition": "Libertines",
-    "example": "August 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_48",
-    "term": "Leave (Get Out)",
-    "definition": "Jojo",
-    "example": "September 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_49",
-    "term": "Love Machine",
-    "definition": "Girls Aloud",
-    "example": "September 2004 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_50",
-    "term": "I Hope You Dance",
-    "definition": "Ronan Keating",
-    "example": "October 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_51",
-    "term": "I Believe My Heart",
-    "definition": "Duncan James & Keedie",
-    "example": "October 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_52",
-    "term": "The Love Of Richard Nixon",
-    "definition": "Manic Street Preachers",
-    "example": "October 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_53",
-    "term": "Lose my breath",
-    "definition": "Destiny's Child",
-    "example": "November 2004 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_54",
-    "term": "You Can Do It",
-    "definition": "Ice Cube ft Mack 10 & Ms Toi",
-    "example": "December 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_55",
-    "term": "I Believe In You",
-    "definition": "Kylie Minogue",
-    "example": "December 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_56",
-    "term": "Father and Son",
-    "definition": "Ronan Keating ft Yusuf",
-    "example": "December 2004 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_57",
-    "term": "Empty Souls",
-    "definition": "Manic Street Preachers",
-    "example": "January 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_58",
-    "term": "A Fool Such As I",
-    "definition": "Elvis Presley",
-    "example": "January 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_59",
-    "term": "Only U",
-    "definition": "Ashanti",
-    "example": "February 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_60",
-    "term": "Let Me Love You",
-    "definition": "Mario",
-    "example": "April 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_61",
-    "term": "(You're the) Devil in Disguise",
-    "definition": "Elvis Presley",
-    "example": "April 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_62",
-    "term": "Somewhere Else",
-    "definition": "Razorlight",
-    "example": "April 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_63",
-    "term": "Signs",
-    "definition": "Snoop Dogg Feat Charlie Wilson And Justin Timberlake",
-    "example": "May 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_64",
-    "term": "Feel Good Inc",
-    "definition": "Gorillaz",
-    "example": "May 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_65",
-    "term": "Speed Of Sound",
-    "definition": "Coldplay",
-    "example": "June 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_66",
-    "term": "City Of Blinding Lights",
-    "definition": "U2",
-    "example": "June 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_67",
-    "term": "Crazy Chick",
-    "definition": "CMC",
-    "example": "July 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_68",
-    "term": "We Belong Together",
-    "definition": "Mariah Carey",
-    "example": "July 2005 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_69",
-    "term": "Bad Day",
-    "definition": "Daniel Powter",
-    "example": "August 2005 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_70",
-    "term": "Pon De Replay",
-    "definition": "Rihanna",
-    "example": "September 2005 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_71",
-    "term": "We Be Burnin'",
-    "definition": "Sean Paul",
-    "example": "September 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_72",
-    "term": "Gold Digger",
-    "definition": "Kanye West ft Jamie Foxx",
-    "example": "October 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_73",
-    "term": "Tripping",
-    "definition": "Robbie Williams",
-    "example": "October 2005 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_74",
-    "term": "Let There Be Love",
-    "definition": "Oasis",
-    "example": "December 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_75",
-    "term": "When You Tell Me That You Love Me",
-    "definition": "Westlife ft Diana Ross",
-    "example": "December 2005 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_76",
-    "term": "Run It",
-    "definition": "Chris Brown ft Juelz Santana",
-    "example": "February 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_77",
-    "term": "Put Your Records On",
-    "definition": "Corinne Bailey Rae",
-    "example": "March 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_78",
-    "term": "Beep",
-    "definition": "The Pussycat Dolls ft Will.i.am",
-    "example": "March 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_79",
-    "term": "Nature's Law",
-    "definition": "Embrace",
-    "example": "April 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_80",
-    "term": "One",
-    "definition": "Mary J Blige & U2",
-    "example": "April 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_81",
-    "term": "No Promises",
-    "definition": "Shayne Ward",
-    "example": "April 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_82",
-    "term": "SOS",
-    "definition": "Rihanna",
-    "example": "April 2006 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_83",
-    "term": "Dani California",
-    "definition": "Red Hot Chili Peppers",
-    "example": "May 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_84",
-    "term": "Control Myself",
-    "definition": "LL Cool J ft Jennifer Lopez",
-    "example": "May 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_85",
-    "term": "From Paris To Berlin",
-    "definition": "Infernal",
-    "example": "May 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_86",
-    "term": "Unfaithful",
-    "definition": "Rihanna",
-    "example": "July 2006 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_87",
-    "term": "Ain't No Other Man",
-    "definition": "Christina Aguilera",
-    "example": "August 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_88",
-    "term": "Everytime We Touch",
-    "definition": "Cascada",
-    "example": "August 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_89",
-    "term": "Ridin'",
-    "definition": "Chamillionaire ft Krayzie Bone",
-    "example": "August 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_90",
-    "term": "When You Were Young",
-    "definition": "The Killers",
-    "example": "September 2006 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0306_91",
-    "term": "Yeah Yeah",
-    "definition": "Bodyrox ft Luciana",
-    "example": "November 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_92",
-    "term": "The Saints Are Coming",
-    "definition": "U2 & Green Day",
-    "example": "November 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_93",
-    "term": "My Love",
-    "definition": "Justin Timberlake ft T.I.",
-    "example": "November 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_94",
-    "term": "Boogie 2Nite",
-    "definition": "Booty Luv",
-    "example": "December 2006 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0306_95",
-    "term": "21st Century Christmas/Move It",
-    "definition": "Cliff Richard",
-    "example": "December 2006 — 1 week at No.2"
-  }
-];
-window.QM_NO2S0712_DATA = [
-  {
-    "id": "id_no2s0712_1",
-    "term": "Proper Education",
-    "definition": "Eric Prydz vs Floyd",
-    "example": "January 2007 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_2",
-    "term": "Starz In Their Eyes",
-    "definition": "Just Jack",
-    "example": "January 2007 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_3",
-    "term": "This Ain't a Scene It's an Arms Race",
-    "definition": "Fall Out Boy",
-    "example": "February 2007 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_4",
-    "term": "The Sweet Escape",
-    "definition": "Gwen Stefani ft Akon",
-    "example": "March 2007 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_5",
-    "term": "Girlfriend",
-    "definition": "Avril Lavigne",
-    "example": "April 2007 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_6",
-    "term": "Stop Me",
-    "definition": "Mark Ronson ft Daniel Merriweather",
-    "example": "April 2007 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_7",
-    "term": "Brianstorm",
-    "definition": "Arctic Monkeys",
-    "example": "April 2007 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_8",
-    "term": "Your Love Alone Is Not Enough",
-    "definition": "Manic Street Preachers",
-    "example": "May 2007 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_9",
-    "term": "Makes Me Wonder",
-    "definition": "Maroon 5",
-    "example": "May 2007 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_10",
-    "term": "Real Girl",
-    "definition": "Mutya Buena",
-    "example": "June 2007 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_11",
-    "term": "Icky Thump",
-    "definition": "The White Stripes",
-    "example": "June 2007 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_12",
-    "term": "Any Dream Will Do",
-    "definition": "Lee Mead",
-    "example": "June 2007 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_13",
-    "term": "Foundations",
-    "definition": "Kate Nash",
-    "example": "July 2007 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_14",
-    "term": "Big Girls Don't Cry",
-    "definition": "Fergie",
-    "example": "July 2007 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_15",
-    "term": "Hey There Delilah",
-    "definition": "Plain White T's",
-    "example": "September 2007 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_16",
-    "term": "Ayo Technology",
-    "definition": "50 Cent Featuring Justin Timberlake & Timbaland",
-    "example": "September 2007 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_17",
-    "term": "No U Hang Up/If That's Ok With You",
-    "definition": "Shayne Ward",
-    "example": "October 2007 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_18",
-    "term": "Let Me Think About It",
-    "definition": "Ida Corr vs Fedde Le Grand",
-    "example": "October 2007 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_19",
-    "term": "Valerie",
-    "definition": "Mark Ronson ft Amy Winehouse",
-    "example": "October 2007 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_20",
-    "term": "Rule The World",
-    "definition": "Take That",
-    "example": "November 2007 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_21",
-    "term": "Heartbroken",
-    "definition": "T2 ft Jodie Aysha",
-    "example": "December 2007 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_22",
-    "term": "Crank That (Soulja Boy)",
-    "definition": "Soulja Boy Tell Em",
-    "example": "January 2008 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_23",
-    "term": "Piece Of Me",
-    "definition": "Britney Spears",
-    "example": "January 2008 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_24",
-    "term": "Chasing Pavements",
-    "definition": "Adele",
-    "example": "January 2008 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_25",
-    "term": "Rockstar",
-    "definition": "Nickelback / Dappy ft Brian May",
-    "example": "February 2008, 2 weeks at No.2 & March 2012, 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_26",
-    "term": "What's It Gonna Be",
-    "definition": "H Two O ft Platnum",
-    "example": "March 2008 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_27",
-    "term": "Better in Time/Footprints in the Sand",
-    "definition": "Leona Lewis",
-    "example": "March 2008 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_28",
-    "term": "Low",
-    "definition": "Flo Rida ft T-Pain",
-    "example": "April 2008 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_29",
-    "term": "Black & Gold",
-    "definition": "Sam Sparro",
-    "example": "April 2008 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_30",
-    "term": "Wearing My Rolex",
-    "definition": "Wiley",
-    "example": "May 2008 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_31",
-    "term": "All I Ever Wanted",
-    "definition": "Basshunter",
-    "example": "July 2008 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_32",
-    "term": "One For The Radio",
-    "definition": "McFly",
-    "example": "July 2008 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_33",
-    "term": "The Man Who Can't Be Moved",
-    "definition": "The Script",
-    "example": "August 2008 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_34",
-    "term": "Pjanoo",
-    "definition": "Eric Prydz",
-    "example": "September 2008 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_35",
-    "term": "The Winners Song",
-    "definition": "Geraldine",
-    "example": "October 2008 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_36",
-    "term": "Live Your Life",
-    "definition": "T.I. ft Rihanna",
-    "example": "November 2008 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_37",
-    "term": "Use Somebody",
-    "definition": "Kings of Leon",
-    "example": "December 2008 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_38",
-    "term": "Hallelujah",
-    "definition": "Jeff Buckley",
-    "example": "December 2008 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_39",
-    "term": "Broken Strings",
-    "definition": "James Morrison",
-    "example": "January 2009 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_40",
-    "term": "Day 'n' Nite",
-    "definition": "Kid Cudi vs Crookers",
-    "example": "January 2009 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_41",
-    "term": "Love Story",
-    "definition": "Taylor Swift",
-    "example": "March 2009 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_42",
-    "term": "Just Can't Get Enough",
-    "definition": "The Saturdays",
-    "example": "March 2009 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_43",
-    "term": "Don't Upset The Rhythm (Go Baby Go)",
-    "definition": "Noisettes",
-    "example": "April 2009 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_44",
-    "term": "In For The Kill",
-    "definition": "La Roux",
-    "example": "April 2009 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_45",
-    "term": "Man In The Mirror",
-    "definition": "Michael Jackson",
-    "example": "July 2009 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_46",
-    "term": "Supernova",
-    "definition": "Mr Hudson ft Kanye West",
-    "example": "August 2009 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_47",
-    "term": "Get Sexy",
-    "definition": "Sugababes",
-    "example": "September 2009 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_48",
-    "term": "Empire State Of Mind",
-    "definition": "Jay-Z ft Alicia Keys",
-    "example": "October 2009 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_49",
-    "term": "Forever Is Over",
-    "definition": "The Saturdays",
-    "example": "October 2009 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_50",
-    "term": "Bodies",
-    "definition": "Robbie Williams",
-    "example": "October 2009 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_51",
-    "term": "What About Now",
-    "definition": "Westlife",
-    "example": "November 2009 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_52",
-    "term": "Happy",
-    "definition": "Leona Lewis",
-    "example": "November 2009 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_53",
-    "term": "Russian Roulette",
-    "definition": "Rihanna",
-    "example": "December 2009 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_54",
-    "term": "Riverside (Let's Go)",
-    "definition": "Sidney Samson ft Wizard Sleeve",
-    "example": "January 2010 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_55",
-    "term": "Don't Stop Believin'",
-    "definition": "Glee Cast",
-    "example": "February 2010 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_56",
-    "term": "Under Pressure (Ice Ice Baby)",
-    "definition": "Jedward ft Vanilla Ice",
-    "example": "February 2010 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_57",
-    "term": "You Got The Dirtee Love",
-    "definition": "Florence & The Machine And Dizzee Rascal",
-    "example": "February 2010 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_58",
-    "term": "Rude Boy",
-    "definition": "Rihanna",
-    "example": "March 2010 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_59",
-    "term": "Ridin' Solo",
-    "definition": "Jason Derulo",
-    "example": "May 2010 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_60",
-    "term": "Frisky",
-    "definition": "Tinie Tempah ft Labrinth",
-    "example": "June 2010 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_61",
-    "term": "Wavin' Flag",
-    "definition": "K'naan",
-    "example": "June 2010 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_62",
-    "term": "Love The Way You Lie",
-    "definition": "Eminem ft Rihanna",
-    "example": "July 2010 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_63",
-    "term": "Teenage Dream",
-    "definition": "Katy Perry",
-    "example": "September 2010 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_64",
-    "term": "Shame",
-    "definition": "Robbie Williams & Gary Barlow",
-    "example": "October 2010 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_65",
-    "term": "Heart Vacancy",
-    "definition": "The Wanted",
-    "example": "October 2010 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_66",
-    "term": "The Flood",
-    "definition": "Take That",
-    "example": "November 2010 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_67",
-    "term": "Your Song",
-    "definition": "Ellie Goulding",
-    "example": "December 2010 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_68",
-    "term": "Whip My Hair",
-    "definition": "Willow",
-    "example": "December 2010 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_69",
-    "term": "Do It Like A Dude",
-    "definition": "Jessie J",
-    "example": "January 2011 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_70",
-    "term": "Rolling In The Deep",
-    "definition": "Adele",
-    "example": "January 2011 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_71",
-    "term": "Champion",
-    "definition": "Chipmunk ft Chris Brown",
-    "example": "February 2011 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_72",
-    "term": "Unorthodox",
-    "definition": "Wretch 32 ft Example",
-    "example": "April 2011 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_73",
-    "term": "I Need A Dollar",
-    "definition": "Aloe Blacc",
-    "example": "June 2011 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_74",
-    "term": "Bounce",
-    "definition": "Calvin Harris ft Kelis",
-    "example": "June 2011 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_75",
-    "term": "How We Roll",
-    "definition": "Loick Essien ft Tanya Lacey",
-    "example": "July 2011 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_76",
-    "term": "Heaven",
-    "definition": "Emeli Sande",
-    "example": "August 2011 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_77",
-    "term": "Feel So Close",
-    "definition": "Calvin Harris",
-    "example": "September 2011 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_78",
-    "term": "Moves Like Jagger",
-    "definition": "Maroon 5 ft Christina Aguilera",
-    "example": "September 2011 — 7 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_79",
-    "term": "Lightning",
-    "definition": "The Wanted",
-    "example": "October 2011 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_80",
-    "term": "Earthquake",
-    "definition": "Labrinth ft Tinie Tempah",
-    "example": "November 2011 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_81",
-    "term": "Take A Chance On Me",
-    "definition": "JLS",
-    "example": "November 2011 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_82",
-    "term": "Mama Do The Hump",
-    "definition": "Rizzle Kicks",
-    "example": "January 2012 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_83",
-    "term": "Alone Again",
-    "definition": "Alyssa Reid ft Jump Smokers",
-    "example": "February 2012 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_84",
-    "term": "Next To Me",
-    "definition": "Emeli Sande",
-    "example": "February 2012 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_85",
-    "term": "Starships",
-    "definition": "Nicki Minaj",
-    "example": "March 2012 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_86",
-    "term": "She Doesn't Mind",
-    "definition": "Sean Paul",
-    "example": "March 2012 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_87",
-    "term": "Boyfriend",
-    "definition": "Justin Bieber",
-    "example": "April 2012 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_88",
-    "term": "Can't Say No",
-    "definition": "Conor Maynard",
-    "example": "April 2012 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_89",
-    "term": "Let's Go",
-    "definition": "Calvin Harris ft Ne-Yo",
-    "example": "May 2012 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_90",
-    "term": "Chasing The Sun",
-    "definition": "The Wanted",
-    "example": "June 2012 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_91",
-    "term": "Whistle",
-    "definition": "Flo Rida",
-    "example": "June 2012 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_92",
-    "term": "Don't Wake Me Up",
-    "definition": "Chris Brown",
-    "example": "July 2012 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_93",
-    "term": "We'll Be Coming Back",
-    "definition": "Calvin Harris ft Example",
-    "example": "August 2012 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_94",
-    "term": "You Bring Me Joy",
-    "definition": "Amelia Lily",
-    "example": "September 2012 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_95",
-    "term": "Say Nothing",
-    "definition": "Example",
-    "example": "September 2012 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_96",
-    "term": "Skyfall",
-    "definition": "Adele",
-    "example": "October 2012 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s0712_97",
-    "term": "Locked Out of Heaven",
-    "definition": "Bruno Mars",
-    "example": "November 2012 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s0712_98",
-    "term": "Something New",
-    "definition": "Girls Aloud",
-    "example": "December 2012 — 1 week at No.2"
-  }
-];
-window.QM_NO2S1318_DATA = [
-  {
-    "id": "id_no2s1318_1",
-    "term": "I Knew You Were Trouble",
-    "definition": "Taylor Swift",
-    "example": "January 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_2",
-    "term": "My Life",
-    "definition": "50 Cent Feat. Eminem & Adam Levine",
-    "example": "January 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_3",
-    "term": "White Noise",
-    "definition": "Disclosure Feat. AlunaGeorge",
-    "example": "February 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_4",
-    "term": "Pompeii",
-    "definition": "Bastille",
-    "example": "March 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_5",
-    "term": "When I Was Your Man",
-    "definition": "Bruno Mars",
-    "example": "March 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_6",
-    "term": "Just Give Me a Reason",
-    "definition": "Pink ft Nate Ruess",
-    "example": "April 2013 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_7",
-    "term": "Ding-Dong the Witch Is Dead",
-    "definition": "Wizard of Oz Film Cast",
-    "example": "April 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_8",
-    "term": "Thatpower",
-    "definition": "Will.i.am ft Justin Bieber",
-    "example": "April 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_9",
-    "term": "So Good to Me",
-    "definition": "Chris Malinchak",
-    "example": "May 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_10",
-    "term": "Let Her Go",
-    "definition": "Passenger",
-    "example": "May 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_11",
-    "term": "The Other Side",
-    "definition": "Jason Derulo",
-    "example": "June 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_12",
-    "term": "Best Song Ever",
-    "definition": "One Direction",
-    "example": "August 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_13",
-    "term": "Can We Dance",
-    "definition": "Vamps",
-    "example": "October 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_14",
-    "term": "Berzerk",
-    "definition": "Eminem",
-    "example": "October 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_15",
-    "term": "You're Nobody 'Til Somebody Loves You",
-    "definition": "James Arthur",
-    "example": "November 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_16",
-    "term": "Of the Night",
-    "definition": "Bastille",
-    "example": "November 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_17",
-    "term": "Let Me Go",
-    "definition": "Gary Barlow",
-    "example": "December 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_18",
-    "term": "Story of My Life",
-    "definition": "One Direction",
-    "example": "December 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_19",
-    "term": "Hey Brother",
-    "definition": "Avicii",
-    "example": "December 2013 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_20",
-    "term": "Feelin' Myself",
-    "definition": "Will.i.am Feat. Miley Cyrus, Wiz Khalifa, French Montana & DJ Mustard",
-    "example": "February 2014 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_21",
-    "term": "Stay the Night",
-    "definition": "Zedd ft Hayley Williams",
-    "example": "February 2014 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_22",
-    "term": "All of Me",
-    "definition": "John Legend",
-    "example": "April 2014 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_23",
-    "term": "Last Night",
-    "definition": "Vamps",
-    "example": "April 2014 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_24",
-    "term": "Don't Stop",
-    "definition": "5 Seconds of Summer",
-    "example": "June 2014 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_25",
-    "term": "Maps",
-    "definition": "Maroon 5",
-    "example": "September 2014 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_26",
-    "term": "Won't Look Back",
-    "definition": "Duke Dumont",
-    "example": "September 2014 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_27",
-    "term": "Shake It Off",
-    "definition": "Taylor Swift",
-    "example": "October 2014 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_28",
-    "term": "Real Love",
-    "definition": "Clean Bandit ft Jess Glynne",
-    "example": "November 2014 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_29",
-    "term": "You Got It All",
-    "definition": "Union J",
-    "example": "December 2014 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_30",
-    "term": "Wish You Were Mine",
-    "definition": "Philip George",
-    "example": "January 2015 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_31",
-    "term": "Lips Are Movin",
-    "definition": "Meghan Trainor",
-    "example": "January 2015 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_32",
-    "term": "Take Me to Church",
-    "definition": "Hozier",
-    "example": "February 2015 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_33",
-    "term": "Hold Back the River",
-    "definition": "James Bay",
-    "example": "April 2015 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_34",
-    "term": "Bloodstream",
-    "definition": "Ed Sheeran",
-    "example": "April 2015 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_35",
-    "term": "Jealous",
-    "definition": "Nick Jonas",
-    "example": "April 2015 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_36",
-    "term": "Bills",
-    "definition": "Lunchmoney Lewis",
-    "example": "May 2015 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_37",
-    "term": "Somebody",
-    "definition": "Natalie La Rose ft Jeremih",
-    "example": "June 2015 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_38",
-    "term": "Lean on",
-    "definition": "Major Lazer ft Mo & DJ Snake",
-    "example": "June 2015 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_39",
-    "term": "Shine",
-    "definition": "Years & Years",
-    "example": "July 2015 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_40",
-    "term": "How Deep Is Your Love",
-    "definition": "Calvin Harris & Disciples",
-    "example": "August 2015 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_41",
-    "term": "Ain't Nobody (Loves Me Better)",
-    "definition": "Felix Jaehn ft Jasmine Thompson",
-    "example": "September 2015 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_42",
-    "term": "Locked Away",
-    "definition": "R City ft Adam Levine",
-    "example": "October 2015 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_43",
-    "term": "Perfect",
-    "definition": "One Direction",
-    "example": "October 2015 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_44",
-    "term": "Fast Car",
-    "definition": "Jonas Blue & Dakota",
-    "example": "February 2016 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_45",
-    "term": "Work",
-    "definition": "Rihanna ft Drake",
-    "example": "March 2016 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_46",
-    "term": "Work From Home",
-    "definition": "Fifth Harmony ft Ty Dolla Sign",
-    "example": "April 2016 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_47",
-    "term": "Cheap Thrills",
-    "definition": "Sia",
-    "example": "April 2016 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_48",
-    "term": "This Is What You Came for",
-    "definition": "Calvin Harris ft Rihanna",
-    "example": "May 2016 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_49",
-    "term": "Can't Stop the Feeling",
-    "definition": "Justin Timberlake",
-    "example": "May 2016 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_50",
-    "term": "This Girl",
-    "definition": "Kungs vs Cookin' on 3 Burners",
-    "example": "June 2016 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_51",
-    "term": "Don't Let Me Down",
-    "definition": "The Chainsmokers ft Daya",
-    "example": "July 2016 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_52",
-    "term": "Perfect Strangers",
-    "definition": "Jonas Blue ft Jp Cooper",
-    "example": "July 2016 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_53",
-    "term": "Dancing on My Own",
-    "definition": "Calum Scott",
-    "example": "August 2016 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_54",
-    "term": "Let Me Love You",
-    "definition": "DJ Snake ft Justin Bieber",
-    "example": "August 2016 — 6 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_55",
-    "term": "Starboy",
-    "definition": "The Weeknd ft Daft Punk",
-    "example": "October 2016 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_56",
-    "term": "Black Beatles",
-    "definition": "Rae Sremmurd ft Gucci Mane",
-    "example": "December 2016 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_57",
-    "term": "Just Hold on",
-    "definition": "Louis Tomlinson & Steve Aoki",
-    "example": "December 2016 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_58",
-    "term": "Human",
-    "definition": "Rag'n'bone Man",
-    "example": "December 2016 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_59",
-    "term": "I Would Like",
-    "definition": "Zara Larsson",
-    "example": "January 2017 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_60",
-    "term": "Castle on the Hill",
-    "definition": "Ed Sheeran",
-    "example": "January 2017 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_61",
-    "term": "How Would You Feel (Paean)",
-    "definition": "Ed Sheeran",
-    "example": "March 2017 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_62",
-    "term": "Something Just Like This",
-    "definition": "The Chainsmokers & Coldplay",
-    "example": "March 2017 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_63",
-    "term": "Galway Girl",
-    "definition": "Ed Sheeran",
-    "example": "March 2017 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_64",
-    "term": "One Last Time",
-    "definition": "Ariana Grande",
-    "example": "June 2017 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_65",
-    "term": "Unforgettable",
-    "definition": "French Montana ft Swae Lee",
-    "example": "August 2017 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_66",
-    "term": "Friends",
-    "definition": "Justin Bieber & Bloodpop",
-    "example": "August 2017 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_67",
-    "term": "Anywhere",
-    "definition": "Rita Ora",
-    "example": "November 2017 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_68",
-    "term": "Dimelo",
-    "definition": "Rak-Su Featuring Wyclef Jean & Naughty Boy",
-    "example": "December 2017 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_69",
-    "term": "Barking",
-    "definition": "Ramz",
-    "example": "January 2018 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_70",
-    "term": "Paradise",
-    "definition": "George Ezra",
-    "example": "April 2018 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_71",
-    "term": "No Tears Left to Cry",
-    "definition": "Ariana Grande",
-    "example": "May 2018 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1318_72",
-    "term": "Don't Matter to Me",
-    "definition": "Drake ft Michael Jackson",
-    "example": "July 2018 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_73",
-    "term": "Happier",
-    "definition": "Marshmello ft Bastille",
-    "example": "October 2018 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1318_74",
-    "term": "Woman Like Me",
-    "definition": "Little Mix ft Nicki Minaj",
-    "example": "November 2018 — 3 weeks at No.2"
-  }
-];
-window.QM_NO2S1926_DATA = [
-  {
-    "id": "id_no2s1926_1",
-    "term": "Nothing Breaks Like a Heart",
-    "definition": "Mark Ronson ft Miley Cyrus",
-    "example": "January 2019 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_2",
-    "term": "Giant",
-    "definition": "Calvin Harris & Rag'n'bone Man",
-    "example": "March 2019 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_3",
-    "term": "Bad Guy",
-    "definition": "Billie Eilish",
-    "example": "April 2019 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_4",
-    "term": "Piece of Your Heart",
-    "definition": "Meduza ft Goodboys",
-    "example": "May 2019 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_5",
-    "term": "Higher Love",
-    "definition": "Kygo & Whitney Houston",
-    "example": "September 2019 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_6",
-    "term": "Taste (Make It Shake)",
-    "definition": "Aitch",
-    "example": "September 2019 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_7",
-    "term": "Don't Call Me Angel (Charlie's Angels)",
-    "definition": "Ariana Grande, Miley Cyrus & Lana Del Rey",
-    "example": "September 2019 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_8",
-    "term": "Ride It",
-    "definition": "Regard",
-    "example": "October 2019 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_9",
-    "term": "Highest in the Room",
-    "definition": "Travis Scott",
-    "example": "October 2019 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_10",
-    "term": "Don't Start Now",
-    "definition": "Dua Lipa",
-    "example": "November 2019 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_11",
-    "term": "The Box",
-    "definition": "Roddy Ricch",
-    "example": "January 2020 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_12",
-    "term": "Say So",
-    "definition": "Doja Cat",
-    "example": "May 2020 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_13",
-    "term": "Ain't It Different",
-    "definition": "Headie One Feat. AJ Tracey & Stormzy",
-    "example": "October 2020 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_14",
-    "term": "Therefore I Am",
-    "definition": "Billie Eilish",
-    "example": "November 2020 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_15",
-    "term": "Afterglow",
-    "definition": "Ed Sheeran",
-    "example": "January 2021 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_16",
-    "term": "Don't Play",
-    "definition": "Anne-Marie X KSI X Digital Farm Animals",
-    "example": "January 2021 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_17",
-    "term": "Without You",
-    "definition": "The Kid LAROI",
-    "example": "February 2021 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_18",
-    "term": "Calling My Phone",
-    "definition": "Lil Tjay & 6LACK",
-    "example": "February 2021 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_19",
-    "term": "Latest Trends",
-    "definition": "A1 & J1",
-    "example": "March 2021 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_20",
-    "term": "Peaches",
-    "definition": "Justin Bieber Feat. Daniel Caesar & Giveon",
-    "example": "April 2021 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_21",
-    "term": "Save Your Tears",
-    "definition": "The Weeknd",
-    "example": "June 2021 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_22",
-    "term": "Holiday",
-    "definition": "KSI",
-    "example": "July 2021 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_23",
-    "term": "Stay",
-    "definition": "The Kid LAROI & Justin Bieber",
-    "example": "July 2021 — 6 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_24",
-    "term": "Clash",
-    "definition": "Dave ft Stormzy",
-    "example": "August 2021 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_25",
-    "term": "Girls Want Girls",
-    "definition": "Drake ft Lil Baby",
-    "example": "September 2021 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_26",
-    "term": "Oh My God",
-    "definition": "Adele",
-    "example": "December 2021 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_27",
-    "term": "Peru",
-    "definition": "Fireboy Dml & Ed Sheeran",
-    "example": "February 2022 — 6 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_28",
-    "term": "The Joker and the Queen",
-    "definition": "Ed Sheeran",
-    "example": "February 2022 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_29",
-    "term": "Baby",
-    "definition": "Aitch Feat. Ashanti",
-    "example": "March 2022 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_30",
-    "term": "First Class",
-    "definition": "Jack Harlow",
-    "example": "April 2022 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_31",
-    "term": "Space Man",
-    "definition": "Sam Ryder",
-    "example": "May 2022 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_32",
-    "term": "Late Night Talking",
-    "definition": "Harry Styles",
-    "example": "June 2022 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_33",
-    "term": "Go",
-    "definition": "Cat Burns",
-    "example": "June 2022 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_34",
-    "term": "Doja",
-    "definition": "Central Cee",
-    "example": "August 2022 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_35",
-    "term": "Break My Soul",
-    "definition": "Beyonce",
-    "example": "August 2022 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_36",
-    "term": "Made You Look",
-    "definition": "Meghan Trainor",
-    "example": "December 2022 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_37",
-    "term": "Boy's a Liar",
-    "definition": "Pinkpantheress",
-    "example": "March 2023 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_38",
-    "term": "People",
-    "definition": "Libianca",
-    "example": "April 2023 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_39",
-    "term": "Daylight",
-    "definition": "David Kushner",
-    "example": "May 2023 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_40",
-    "term": "Tattoo",
-    "definition": "Loreen",
-    "example": "May 2023 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_41",
-    "term": "Who Told You",
-    "definition": "J Hus ft Drake",
-    "example": "June 2023 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_42",
-    "term": "Cruel Summer",
-    "definition": "Taylor Swift",
-    "example": "September 2023 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_43",
-    "term": "Prada",
-    "definition": "cassö, RAYE & D-Block Europe",
-    "example": "October 2023 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_44",
-    "term": "Now That We Don't Talk (Taylor's Version)",
-    "definition": "Taylor Swift",
-    "example": "November 2023 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_45",
-    "term": "Houdini",
-    "definition": "Dua Lipa",
-    "example": "November 2023 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_46",
-    "term": "You're Christmas to Me",
-    "definition": "Sam Ryder",
-    "example": "December 2023 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_47",
-    "term": "Murder on the Dancefloor",
-    "definition": "Sophie Ellis-Bextor",
-    "example": "January 2024 — 5 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_48",
-    "term": "Yes and",
-    "definition": "Ariana Grande",
-    "example": "January 2024 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_49",
-    "term": "Lose Control",
-    "definition": "Teddy Swims",
-    "example": "March 2024 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_50",
-    "term": "We Can't Be Friends (Wait for Your Love)",
-    "definition": "Ariana Grande",
-    "example": "March 2024 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_51",
-    "term": "I Had Some Help",
-    "definition": "Post Malone Feat. Morgan Wallen",
-    "example": "May 2024 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_52",
-    "term": "Lunch",
-    "definition": "Billie Eilish",
-    "example": "May 2024 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_53",
-    "term": "Birds of a Feather",
-    "definition": "Billie Eilish",
-    "example": "August 2024 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_54",
-    "term": "Good Luck Babe",
-    "definition": "Chappell Roan",
-    "example": "August 2024 — 6 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_55",
-    "term": "Die With a Smile",
-    "definition": "Lady Gaga & Bruno Mars",
-    "example": "October 2024 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_56",
-    "term": "Apt",
-    "definition": "Rosé & Bruno Mars",
-    "example": "November 2024 — 7 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_57",
-    "term": "The Giver",
-    "definition": "Chappell Roan",
-    "example": "March 2025 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_58",
-    "term": "Love Me Not",
-    "definition": "Ravyn Lenae",
-    "example": "May 2025 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_59",
-    "term": "No Broke Boys",
-    "definition": "Disco Lines & Tinashe",
-    "example": "August 2025 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_60",
-    "term": "So Easy (to Fall in Love)",
-    "definition": "Olivia Dean",
-    "example": "February 2026 — 2 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_61",
-    "term": "Iloveitiloveitiloveit",
-    "definition": "Bella Kay",
-    "example": "March 2026 — 4 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_62",
-    "term": "Swim",
-    "definition": "BTS",
-    "example": "April 2026 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_63",
-    "term": "Dracula",
-    "definition": "Tame Impala",
-    "example": "April 2026 — 3 weeks at No.2"
-  },
-  {
-    "id": "id_no2s1926_64",
-    "term": "Janice Stfu",
-    "definition": "Drake",
-    "example": "May 2026 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_65",
-    "term": "The Cure",
-    "definition": "Olivia Rodrigo",
-    "example": "June 2026 — 1 week at No.2"
-  },
-  {
-    "id": "id_no2s1926_66",
-    "term": "Stupid Song",
-    "definition": "Olivia Rodrigo",
-    "example": "June 2026 — 1 week at No.2"
-  }
-];
 window.QM_NO3S5262_DATA = [
   {
     "id": "id_no3s5262_1",
@@ -98591,5 +83406,15301 @@ window.QM_NO5S1626_DATA = [
     "term": "Babydoll",
     "definition": "Dominic Fike",
     "example": "April 2026 — 1 week at No.5"
+  }
+];
+window.QM_NO2S5263_DATA = [
+  {
+    "id": "id_no2s5263_1",
+    "term": "Feet Up (Pat Him on the Po-Po)",
+    "definition": "Guy Mitchell",
+    "example": "November 1952 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_2",
+    "term": "Pretty Little Black Eyed Susie",
+    "definition": "Guy Mitchell",
+    "example": "May 1953 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_3",
+    "term": "Pretend",
+    "definition": "Nat King Cole",
+    "example": "May 1953 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_4",
+    "term": "Terry's Theme From 'Limelight'",
+    "definition": "Frank Chacksfield",
+    "example": "June 1953 — 8 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_5",
+    "term": "Where the Winds Blow",
+    "definition": "Frankie Laine",
+    "example": "October 1953 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_6",
+    "term": "Swedish Rhapsody",
+    "definition": "Mantovani",
+    "example": "December 1953 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_7",
+    "term": "Poppa Piccolino",
+    "definition": "Diana Decker",
+    "example": "December 1953 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_8",
+    "term": "Blowing Wild",
+    "definition": "Frankie Laine",
+    "example": "January 1954 — 6 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_9",
+    "term": "That's Amore",
+    "definition": "Dean Martin",
+    "example": "February 1954 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_10",
+    "term": "The Happy Wanderer",
+    "definition": "Obernkirchen Children's Choir",
+    "example": "March 1954 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_11",
+    "term": "Smile",
+    "definition": "Nat King Cole",
+    "example": "October 1954 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_12",
+    "term": "Santo Natale",
+    "definition": "David Whitfield",
+    "example": "December 1954 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_13",
+    "term": "Unchained Melody",
+    "definition": "Al Hibbler",
+    "example": "June 1955 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_14",
+    "term": "Cool Water",
+    "definition": "Frankie Laine With the Mellomen",
+    "example": "August 1955 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_15",
+    "term": "Learnin' the Blues",
+    "definition": "Frank Sinatra",
+    "example": "August 1955 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_16",
+    "term": "Blue Star (the Medic Theme)",
+    "definition": "Cyril Stapleton Orchestra With Julie Dawn",
+    "example": "October 1955 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_17",
+    "term": "The Yellow Rose of Texas",
+    "definition": "Mitch Miller",
+    "example": "October 1955 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_18",
+    "term": "Love Is a Many Splendored Thing",
+    "definition": "Four Aces",
+    "example": "November 1955 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_19",
+    "term": "Meet Me on the Corner",
+    "definition": "Max Bygraves",
+    "example": "January 1956 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_20",
+    "term": "The Ballad of Davy Crockett",
+    "definition": "Bill Hayes",
+    "example": "January 1956 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_21",
+    "term": "(Love Is) the Tender Trap",
+    "definition": "Frank Sinatra",
+    "example": "February 1956 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_22",
+    "term": "Zambesi",
+    "definition": "Lou Busch",
+    "example": "February 1956 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_23",
+    "term": "A Tear Fell",
+    "definition": "Teresa Brewer",
+    "example": "May 1956 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_24",
+    "term": "Lost John/Stewball",
+    "definition": "Lonnie Donegan",
+    "example": "June 1956 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_25",
+    "term": "Heartbreak Hotel",
+    "definition": "Elvis Presley",
+    "example": "June 1956 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_26",
+    "term": "All Star Hit Parade (EP)",
+    "definition": "Various Artists",
+    "example": "July 1956 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_27",
+    "term": "Walk Hand in Hand",
+    "definition": "Tony Martin",
+    "example": "August 1956 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_28",
+    "term": "Hound Dog",
+    "definition": "Elvis Presley",
+    "example": "October 1956 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_29",
+    "term": "The Green Door",
+    "definition": "Frankie Vaughan",
+    "example": "December 1956 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_30",
+    "term": "Don't Forbid Me",
+    "definition": "Pat Boone",
+    "example": "March 1957 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_31",
+    "term": "The Banana Boat Song",
+    "definition": "Harry Belafonte",
+    "example": "April 1957 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_32",
+    "term": "When I Fall In Love",
+    "definition": "Nat King Cole",
+    "example": "June 1957 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_33",
+    "term": "We Will Make Love",
+    "definition": "Russ Hamilton",
+    "example": "August 1957 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_34",
+    "term": "Love Letters In The Sand",
+    "definition": "Pat Boone",
+    "example": "August 1957 — 7 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_35",
+    "term": "Last Train To San Fernando",
+    "definition": "Johnny Duncan And The Blue Grass Boys",
+    "example": "September 1957 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_36",
+    "term": "Party",
+    "definition": "Elvis Presley",
+    "example": "October 1957 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_37",
+    "term": "Tammy",
+    "definition": "Debbie Reynolds",
+    "example": "November 1957 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_38",
+    "term": "Be My Girl",
+    "definition": "Jim Dale",
+    "example": "November 1957 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_39",
+    "term": "Wake Up Little Susie",
+    "definition": "The Everly Brothers",
+    "example": "December 1957 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_40",
+    "term": "Ma He's Making Eyes At Me",
+    "definition": "Johnny Otis And His Orchestra With Marie Adams",
+    "example": "December 1957 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_41",
+    "term": "Don't",
+    "definition": "Elvis Presley",
+    "example": "March 1958 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_42",
+    "term": "A Wonderful Time Up There",
+    "definition": "Pat Boone",
+    "example": "May 1958 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_43",
+    "term": "Tom Hark",
+    "definition": "Elias And His Zigzag Jive Flutes",
+    "example": "May 1958 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_44",
+    "term": "Lollipop",
+    "definition": "Mudlarks",
+    "example": "May 1958 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_45",
+    "term": "Big Man",
+    "definition": "Four Preps",
+    "example": "July 1958 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_46",
+    "term": "Hard Headed Woman",
+    "definition": "Elvis Presley",
+    "example": "August 1958 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_47",
+    "term": "Return To Me",
+    "definition": "Dean Martin",
+    "example": "September 1958 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_48",
+    "term": "Volare",
+    "definition": "Dean Martin",
+    "example": "September 1958 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_49",
+    "term": "King Creole",
+    "definition": "Elvis Presley",
+    "example": "October 1958 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_50",
+    "term": "Come Prima",
+    "definition": "Marino Marini And His Quartet",
+    "example": "October 1958 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_51",
+    "term": "Bird Dog",
+    "definition": "The Everly Brothers",
+    "example": "November 1958 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_52",
+    "term": "Baby Face",
+    "definition": "Little Richard",
+    "example": "January 1959 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_53",
+    "term": "To Know Him Is To Love Him",
+    "definition": "Teddy Bears",
+    "example": "January 1959 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_54",
+    "term": "A Teenager in Love",
+    "definition": "Marty Wilde",
+    "example": "July 1959 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_55",
+    "term": "Battle Of New Orleans",
+    "definition": "Lonnie Donegan",
+    "example": "July 1959 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_56",
+    "term": "('Til) I Kissed You",
+    "definition": "The Everly Brothers",
+    "example": "October 1959 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_57",
+    "term": "Voice in the Wilderness",
+    "definition": "Cliff Richard and The Shadows",
+    "example": "February 1960 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_58",
+    "term": "Theme From 'A Summer Place'",
+    "definition": "Percy Faith",
+    "example": "March 1960 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_59",
+    "term": "Fall In Love With You",
+    "definition": "Cliff Richard and The Shadows",
+    "example": "April 1960 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_60",
+    "term": "Someone Else's Baby",
+    "definition": "Adam Faith",
+    "example": "May 1960 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_61",
+    "term": "Cradle Of Love",
+    "definition": "Johnny Preston",
+    "example": "May 1960 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_62",
+    "term": "Mama/Robot Man",
+    "definition": "Connie Francis",
+    "example": "June 1960 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_63",
+    "term": "Because They're Young",
+    "definition": "Duane Eddy",
+    "example": "September 1960 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_64",
+    "term": "A Mess Of Blues",
+    "definition": "Elvis Presley",
+    "example": "September 1960 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_65",
+    "term": "As Long As He Needs Me",
+    "definition": "Shirley Bassey",
+    "example": "October 1960 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_66",
+    "term": "Save The Last Dance For Me",
+    "definition": "The Drifters",
+    "example": "December 1960 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_67",
+    "term": "Pepe",
+    "definition": "Duane Eddy",
+    "example": "February 1961 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_68",
+    "term": "Are You Sure",
+    "definition": "Allisons",
+    "example": "March 1961 — 6 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_69",
+    "term": "Lazy River",
+    "definition": "Bobby Darin",
+    "example": "April 1961 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_70",
+    "term": "Hello Mary Lou/Travelin' Man",
+    "definition": "Ricky Nelson",
+    "example": "July 1961 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_71",
+    "term": "Jealousy",
+    "definition": "Billy Fury",
+    "example": "October 1961 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_72",
+    "term": "Wild Wind",
+    "definition": "John Leyton",
+    "example": "October 1961 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_73",
+    "term": "Big Bad John",
+    "definition": "Jimmy Dean",
+    "example": "November 1961 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_74",
+    "term": "Midnight In Moscow",
+    "definition": "Kenny Ball and His Jazzmen",
+    "example": "January 1962 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_75",
+    "term": "Stranger On The Shore",
+    "definition": "Mr. Acker Bilk",
+    "example": "January 1962 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_76",
+    "term": "Let's Twist Again",
+    "definition": "Chubby Checker",
+    "example": "February 1962 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_77",
+    "term": "Tell Me What He Said",
+    "definition": "Helen Shapiro",
+    "example": "March 1962 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_78",
+    "term": "Dream Baby",
+    "definition": "Roy Orbison",
+    "example": "April 1962 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_79",
+    "term": "Hey! Baby",
+    "definition": "Bruce Channel",
+    "example": "April 1962 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_80",
+    "term": "Hey! Little Girl",
+    "definition": "Del Shannon",
+    "example": "May 1962 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_81",
+    "term": "Do You Want To Dance/I'm Looking Out The Window",
+    "definition": "Cliff Richard",
+    "example": "June 1962 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_82",
+    "term": "A Picture Of You",
+    "definition": "Joe Brown",
+    "example": "June 1962 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_83",
+    "term": "Speedy Gonzales",
+    "definition": "Pat Boone",
+    "example": "August 1962 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_84",
+    "term": "Things",
+    "definition": "Bobby Darin",
+    "example": "September 1962 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_85",
+    "term": "It'll Be Me",
+    "definition": "Cliff Richard",
+    "example": "September 1962 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_86",
+    "term": "The Loco-Motion",
+    "definition": "Little Eva",
+    "example": "October 1962 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_87",
+    "term": "Let's Dance",
+    "definition": "Chris Montez",
+    "example": "November 1962 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_88",
+    "term": "Swiss Maid",
+    "definition": "Del Shannon",
+    "example": "December 1962 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_89",
+    "term": "Please Please Me",
+    "definition": "The Beatles",
+    "example": "February 1963 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_90",
+    "term": "From A Jack To A King",
+    "definition": "Ned Miller",
+    "example": "April 1963 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_91",
+    "term": "Can't Get Used To Losing You",
+    "definition": "Andy Williams",
+    "example": "May 1963 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_92",
+    "term": "Scarlett O'Hara",
+    "definition": "Jet Harris and Tony Meehan",
+    "example": "May 1963 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_93",
+    "term": "Do You Want To Know A Secret?",
+    "definition": "Billy J Kramer And The Dakotas",
+    "example": "June 1963 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_94",
+    "term": "Atlantis",
+    "definition": "The Shadows",
+    "example": "June 1963 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_95",
+    "term": "I'm Telling You Now",
+    "definition": "Freddie and the Dreamers",
+    "example": "August 1963 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_96",
+    "term": "It's All In The Game",
+    "definition": "Cliff Richard",
+    "example": "September 1963 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_97",
+    "term": "Then He Kissed Me",
+    "definition": "The Crystals",
+    "example": "October 1963 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s5263_98",
+    "term": "Sugar And Spice",
+    "definition": "The Searchers",
+    "example": "November 1963 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s5263_99",
+    "term": "Don't Talk To Him",
+    "definition": "Cliff Richard",
+    "example": "December 1963 — 1 week at No.2"
+  }
+];
+window.QM_NO2S6469_DATA = [
+  {
+    "id": "id_no2s6469_1",
+    "term": "Hippy Hippy Shake",
+    "definition": "Swinging Blue Jeans",
+    "example": "January 1964 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_2",
+    "term": "I'm The One",
+    "definition": "Gerry and the Pacemakers",
+    "example": "February 1964 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_3",
+    "term": "Bits And Pieces",
+    "definition": "The Dave Clark Five",
+    "example": "March 1964 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_4",
+    "term": "Just One Look",
+    "definition": "The Hollies",
+    "example": "March 1964 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_5",
+    "term": "I Believe",
+    "definition": "The Bachelors",
+    "example": "May 1964 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_6",
+    "term": "My Boy Lollipop",
+    "definition": "Millie",
+    "example": "May 1964 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_7",
+    "term": "Someone, Someone",
+    "definition": "Brian Poole And The Tremeloes",
+    "example": "June 1964 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_8",
+    "term": "Rag Doll",
+    "definition": "The Four Seasons",
+    "example": "September 1964 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_9",
+    "term": "All Day And All Of The Night",
+    "definition": "The Kinks",
+    "example": "November 1964 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_10",
+    "term": "I'm Gonna Be Strong",
+    "definition": "Gene Pitney",
+    "example": "December 1964 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_11",
+    "term": "Downtown",
+    "definition": "Petula Clark",
+    "example": "December 1964 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_12",
+    "term": "You've Lost That Lovin' Feelin'",
+    "definition": "Cilla Black",
+    "example": "January 1965 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_13",
+    "term": "Game Of Love",
+    "definition": "Wayne Fontana and the Mindbenders",
+    "example": "February 1965 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_14",
+    "term": "Here Comes The Night",
+    "definition": "Them",
+    "example": "April 1965 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_15",
+    "term": "True Love Ways",
+    "definition": "Peter And Gordon",
+    "example": "May 1965 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_16",
+    "term": "The Price Of Love",
+    "definition": "The Everly Brothers",
+    "example": "June 1965 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_17",
+    "term": "Heart Full Of Soul",
+    "definition": "The Yardbirds",
+    "example": "July 1965 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_18",
+    "term": "We Gotta Get Out Of This Place",
+    "definition": "The Animals",
+    "example": "August 1965 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_19",
+    "term": "You've Got Your Troubles",
+    "definition": "The Fortunes",
+    "example": "August 1965 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_20",
+    "term": "If You Gotta Go, Go Now",
+    "definition": "Manfred Mann",
+    "example": "October 1965 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_21",
+    "term": "Almost There",
+    "definition": "Andy Williams",
+    "example": "October 1965 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_22",
+    "term": "My Generation",
+    "definition": "The Who",
+    "example": "November 1965 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_23",
+    "term": "Wind Me Up (Let Me Go)",
+    "definition": "Cliff Richard",
+    "example": "December 1965 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_24",
+    "term": "You Were On My Mind",
+    "definition": "Crispian St. Peters",
+    "example": "February 1966 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_25",
+    "term": "Nineteenth Nervous Breakdown",
+    "definition": "The Rolling Stones",
+    "example": "February 1966 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_26",
+    "term": "A Groovy Kind Of Love",
+    "definition": "Mindbenders",
+    "example": "March 1966 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_27",
+    "term": "I Can't Let Go",
+    "definition": "The Hollies",
+    "example": "March 1966 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_28",
+    "term": "Daydream",
+    "definition": "The Lovin' Spoonful",
+    "example": "May 1966 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_29",
+    "term": "Sloop John B",
+    "definition": "The Beach Boys",
+    "example": "May 1966 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_30",
+    "term": "Wild Thing",
+    "definition": "The Troggs",
+    "example": "May 1966 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_31",
+    "term": "Nobody Needs Your Love",
+    "definition": "Gene Pitney",
+    "example": "July 1966 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_32",
+    "term": "Black Is Black",
+    "definition": "Los Bravos",
+    "example": "July 1966 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_33",
+    "term": "God Only Knows",
+    "definition": "The Beach Boys",
+    "example": "August 1966 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_34",
+    "term": "I'm A Boy",
+    "definition": "The Who",
+    "example": "October 1966 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_35",
+    "term": "Bend It!",
+    "definition": "Dave Dee, Dozy, Beaky, Mick and Tich",
+    "example": "October 1966 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_36",
+    "term": "I Can't Control Myself",
+    "definition": "The Troggs",
+    "example": "October 1966 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_37",
+    "term": "Stop Stop Stop",
+    "definition": "The Hollies",
+    "example": "November 1966 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_38",
+    "term": "Semi-Detached Suburban Mr James",
+    "definition": "Manfred Mann",
+    "example": "November 1966 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_39",
+    "term": "Gimme Some Loving",
+    "definition": "The Spencer Davis Group",
+    "example": "November 1966 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_40",
+    "term": "What Would I Be",
+    "definition": "Val Doonican",
+    "example": "December 1966 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_41",
+    "term": "Morningtown Ride",
+    "definition": "The Seekers",
+    "example": "December 1966 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_42",
+    "term": "Sunshine Superman",
+    "definition": "Donovan",
+    "example": "December 1966 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_43",
+    "term": "Night Of Fear",
+    "definition": "The Move",
+    "example": "January 1967 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_44",
+    "term": "Matthew And Son",
+    "definition": "Cat Stevens",
+    "example": "February 1967 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_45",
+    "term": "Penny Lane/Strawberry Fields Forever",
+    "definition": "The Beatles",
+    "example": "March 1967 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_46",
+    "term": "Edelweiss",
+    "definition": "Vince Hill",
+    "example": "March 1967 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_47",
+    "term": "This Is My Song",
+    "definition": "Harry Secombe",
+    "example": "April 1967 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_48",
+    "term": "Dedicated To The One I Love",
+    "definition": "The Mamas And The Papas",
+    "example": "May 1967 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_49",
+    "term": "Waterloo Sunset",
+    "definition": "The Kinks",
+    "example": "May 1967 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_50",
+    "term": "There Goes My Everything",
+    "definition": "Engelbert Humperdinck",
+    "example": "June 1967 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_51",
+    "term": "Alternate Title",
+    "definition": "The Monkees",
+    "example": "July 1967 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_52",
+    "term": "It Must Be Him (Seul Sur Son Etoile)",
+    "definition": "Vikki Carr",
+    "example": "July 1967 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_53",
+    "term": "I'll Never Fall In Love Again",
+    "definition": "Tom Jones",
+    "example": "August 1967 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_54",
+    "term": "Excerpt From 'A Teenage Opera'",
+    "definition": "Keith West",
+    "example": "September 1967 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_55",
+    "term": "Flowers In The Rain",
+    "definition": "The Move",
+    "example": "October 1967 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_56",
+    "term": "Hole In My Shoe",
+    "definition": "Traffic",
+    "example": "October 1967 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_57",
+    "term": "Everybody Knows",
+    "definition": "The Dave Clark Five",
+    "example": "December 1967 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_58",
+    "term": "I'm Coming Home",
+    "definition": "Tom Jones",
+    "example": "December 1967 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_59",
+    "term": "Magical Mystery Tour (EP)",
+    "definition": "The Beatles",
+    "example": "December 1967 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_60",
+    "term": "Delilah",
+    "definition": "Tom Jones",
+    "example": "March 1968 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_61",
+    "term": "Simon Says",
+    "definition": "1910 Fruitgum Company",
+    "example": "May 1968 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_62",
+    "term": "Lazy Sunday",
+    "definition": "The Small Faces",
+    "example": "May 1968 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_63",
+    "term": "A Man Without Love",
+    "definition": "Engelbert Humperdinck",
+    "example": "May 1968 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_64",
+    "term": "Honey",
+    "definition": "Bobby Goldsboro",
+    "example": "June 1968 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_65",
+    "term": "Son Of Hickory Holler's Tramp",
+    "definition": "O.C. Smith",
+    "example": "July 1968 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_66",
+    "term": "Little Arrows",
+    "definition": "Leapy Lee",
+    "example": "October 1968 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_67",
+    "term": "Jesamine",
+    "definition": "The Casuals",
+    "example": "October 1968 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_68",
+    "term": "Eloise",
+    "definition": "Barry Ryan",
+    "example": "November 1968 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_69",
+    "term": "Ain't Got No-I Got Life/Do What You Gotta Do",
+    "definition": "Nina Simone",
+    "example": "December 1968 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_70",
+    "term": "Build Me Up Buttercup",
+    "definition": "The Foundations",
+    "example": "December 1968 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_71",
+    "term": "Gentle On My Mind",
+    "definition": "Dean Martin",
+    "example": "April 1969 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_72",
+    "term": "Boom Bang-A-Bang",
+    "definition": "Lulu",
+    "example": "April 1969 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_73",
+    "term": "Goodbye",
+    "definition": "Mary Hopkin",
+    "example": "April 1969 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_74",
+    "term": "My Sentimental Friend",
+    "definition": "Herman's Hermits",
+    "example": "May 1969 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_75",
+    "term": "Man Of The World",
+    "definition": "Fleetwood Mac",
+    "example": "May 1969 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_76",
+    "term": "Oh, Happy Day",
+    "definition": "The Edwin Hawkins Singers",
+    "example": "June 1969 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_77",
+    "term": "In The Ghetto",
+    "definition": "Elvis Presley",
+    "example": "July 1969 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_78",
+    "term": "Give Peace A Chance",
+    "definition": "Plastic Ono Band",
+    "example": "July 1969 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_79",
+    "term": "Saved By The Bell",
+    "definition": "Robin Gibb",
+    "example": "August 1969 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_80",
+    "term": "Don't Forget To Remember",
+    "definition": "The Bee Gees",
+    "example": "September 1969 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_81",
+    "term": "Je T'Aime... Moi Non Plus",
+    "definition": "Jane Birkin and Serge Gainsbourg",
+    "example": "September 1969 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_82",
+    "term": "I'm Gonna Make You Mine",
+    "definition": "Lou Christie",
+    "example": "November 1969 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_83",
+    "term": "Oh Well",
+    "definition": "Fleetwood Mac",
+    "example": "November 1969 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_84",
+    "term": "(Call Me) Number One",
+    "definition": "The Tremeloes",
+    "example": "November 1969 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s6469_85",
+    "term": "Yester-Me, Yester-You, Yesterday",
+    "definition": "Stevie Wonder",
+    "example": "December 1969 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s6469_86",
+    "term": "Ruby Don't Take Your Love To Town",
+    "definition": "Kenny Rogers And The First Edition",
+    "example": "December 1969 — 6 weeks at No.2"
+  }
+];
+window.QM_NO2S7075_DATA = [
+  {
+    "id": "id_no2s7075_1",
+    "term": "Suspicious Minds",
+    "definition": "Elvis Presley",
+    "example": "January 1970 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_2",
+    "term": "Leavin' On A Jet Plane",
+    "definition": "Peter, Paul And Mary",
+    "example": "February 1970 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_3",
+    "term": "Let's Work Together",
+    "definition": "Canned Heat",
+    "example": "February 1970 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_4",
+    "term": "I Want You Back",
+    "definition": "The Jackson 5",
+    "example": "March 1970 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_5",
+    "term": "Let It Be",
+    "definition": "The Beatles",
+    "example": "March 1970 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_6",
+    "term": "Knock, Knock Who's There?",
+    "definition": "Mary Hopkin",
+    "example": "April 1970 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_7",
+    "term": "Question",
+    "definition": "The Moody Blues",
+    "example": "May 1970 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_8",
+    "term": "Groovin' With Mr. Bloe",
+    "definition": "Mr. Bloe",
+    "example": "June 1970 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_9",
+    "term": "All Right Now",
+    "definition": "Free",
+    "example": "July 1970 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_10",
+    "term": "Lola",
+    "definition": "The Kinks",
+    "example": "August 1970 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_11",
+    "term": "Neanderthal Man",
+    "definition": "Hotlegs",
+    "example": "August 1970 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_12",
+    "term": "You Can Get It If You Really Want",
+    "definition": "Desmond Dekker",
+    "example": "October 1970 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_13",
+    "term": "Black Night",
+    "definition": "Deep Purple",
+    "example": "October 1970 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_14",
+    "term": "Patches",
+    "definition": "Clarence Carter",
+    "example": "October 1970 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_15",
+    "term": "When I'm Dead And Gone",
+    "definition": "McGuinness Flint",
+    "example": "December 1970 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_16",
+    "term": "Ride A White Swan",
+    "definition": "T. Rex",
+    "example": "January 1971 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_17",
+    "term": "Pushbike Song",
+    "definition": "Mixtures",
+    "example": "February 1971 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_18",
+    "term": "Another Day",
+    "definition": "Paul McCartney",
+    "example": "March 1971 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_19",
+    "term": "Bridget The Midget (The Queen Of The Blues)",
+    "definition": "Ray Stevens",
+    "example": "April 1971 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_20",
+    "term": "Brown Sugar/Bitch/Let It Rock",
+    "definition": "The Rolling Stones",
+    "example": "May 1971 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_21",
+    "term": "Indiana Wants Me",
+    "definition": "R. Dean Taylor",
+    "example": "June 1971 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_22",
+    "term": "I Did What I Did For Maria",
+    "definition": "Tony Christie",
+    "example": "June 1971 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_23",
+    "term": "Don't Let It Die",
+    "definition": "Hurricane Smith",
+    "example": "July 1971 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_24",
+    "term": "Co-Co",
+    "definition": "The Sweet",
+    "example": "July 1971 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_25",
+    "term": "Never Ending Song Of Love",
+    "definition": "The New Seekers",
+    "example": "August 1971 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_26",
+    "term": "Did You Ever",
+    "definition": "Nancy Sinatra and Lee Hazlewood",
+    "example": "September 1971 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_27",
+    "term": "Tweedle Dee, Tweedle Dum",
+    "definition": "Middle of the road",
+    "example": "October 1971 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_28",
+    "term": "The Witch Queen Of New Orleans",
+    "definition": "Redbone",
+    "example": "October 1971 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_29",
+    "term": "Till",
+    "definition": "Tom Jones",
+    "example": "November 1971 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_30",
+    "term": "Jeepster",
+    "definition": "T. Rex",
+    "example": "November 1971 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_31",
+    "term": "Mother Of Mine",
+    "definition": "Neil Reid",
+    "example": "January 1972 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_32",
+    "term": "American Pie",
+    "definition": "Don McLean",
+    "example": "March 1972 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_33",
+    "term": "Beg, Steal Or Borrow",
+    "definition": "The New Seekers",
+    "example": "March 1972 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_34",
+    "term": "Back Off Boogaloo",
+    "definition": "Ringo Starr",
+    "example": "April 1972 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_35",
+    "term": "Come What May",
+    "definition": "Vicky Leandros",
+    "example": "May 1972 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_36",
+    "term": "Could It Be Forever/Cherish",
+    "definition": "David Cassidy",
+    "example": "May 1972 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_37",
+    "term": "Rocket Man",
+    "definition": "Elton John",
+    "example": "June 1972 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_38",
+    "term": "Rock And Roll Parts 1 And 2",
+    "definition": "Gary Glitter",
+    "example": "July 1972 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_39",
+    "term": "Sylvia's Mother",
+    "definition": "Dr Hook And The Medicine Show",
+    "example": "July 1972 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_40",
+    "term": "Sea Side Shuffle",
+    "definition": "Terry Dactyl And The Dinosaurs",
+    "example": "August 1972 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_41",
+    "term": "Children Of The Revolution",
+    "definition": "T. Rex",
+    "example": "September 1972 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_42",
+    "term": "Donna",
+    "definition": "10cc",
+    "example": "October 1972 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_43",
+    "term": "Crazy Horses",
+    "definition": "The Osmonds",
+    "example": "November 1972 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_44",
+    "term": "GudBuy T'Jane",
+    "definition": "Slade",
+    "example": "December 1972 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_45",
+    "term": "Solid Gold Easy Action",
+    "definition": "T. Rex",
+    "example": "January 1973 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_46",
+    "term": "The Jean Genie",
+    "definition": "David Bowie",
+    "example": "January 1973 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_47",
+    "term": "Do You Wanna Touch Me? (Oh Yeah!)",
+    "definition": "Gary Glitter",
+    "example": "February 1973 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_48",
+    "term": "Part Of The Union",
+    "definition": "Strawbs",
+    "example": "February 1973 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_49",
+    "term": "Cindy Incidentally",
+    "definition": "The Faces",
+    "example": "March 1973 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_50",
+    "term": "Hello! Hello! I'm Back Again",
+    "definition": "Gary Glitter",
+    "example": "April 1973 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_51",
+    "term": "Hell Raiser",
+    "definition": "The Sweet",
+    "example": "May 1973 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_52",
+    "term": "Albatross",
+    "definition": "Fleetwood Mac",
+    "example": "June 1973 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_53",
+    "term": "Yesterday Once More",
+    "definition": "The Carpenters",
+    "example": "August 1973 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_54",
+    "term": "Dancing On A Saturday Night",
+    "definition": "Barry Blue",
+    "example": "September 1973 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_55",
+    "term": "Ballroom Blitz",
+    "definition": "The Sweet",
+    "example": "September 1973 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_56",
+    "term": "My Friend Stan",
+    "definition": "Slade",
+    "example": "October 1973 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_57",
+    "term": "Let Me In",
+    "definition": "The Osmonds",
+    "example": "November 1973 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_58",
+    "term": "My Coo-Ca-Choo",
+    "definition": "Alvin Stardust",
+    "example": "December 1973 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_59",
+    "term": "Paper Roses",
+    "definition": "Marie Osmond",
+    "example": "December 1973 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_60",
+    "term": "The Show Must Go On",
+    "definition": "Leo Sayer",
+    "example": "January 1974 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_61",
+    "term": "Teenage Rampage",
+    "definition": "The Sweet",
+    "example": "January 1974 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_62",
+    "term": "The Air That I Breathe",
+    "definition": "The Hollies",
+    "example": "March 1974 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_63",
+    "term": "The Most Beautiful Girl",
+    "definition": "Charlie Rich",
+    "example": "March 1974 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_64",
+    "term": "The Cat Crept In",
+    "definition": "Mud",
+    "example": "April 1974 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_65",
+    "term": "Shang-A-Lang",
+    "definition": "Bay City Rollers",
+    "example": "May 1974 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_66",
+    "term": "This Town Ain't Big Enough For Both Of Us",
+    "definition": "Sparks",
+    "example": "June 1974 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_67",
+    "term": "Hey Rock And Roll",
+    "definition": "Showaddywaddy",
+    "example": "June 1974 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_68",
+    "term": "Kissin' In The Back Row",
+    "definition": "The Drifters",
+    "example": "July 1974 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_69",
+    "term": "Born With A Smile On My Face",
+    "definition": "Stephanie De Sykes And Rain",
+    "example": "August 1974 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_70",
+    "term": "You Make Me Feel Brand New",
+    "definition": "The Stylistics",
+    "example": "August 1974 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_71",
+    "term": "I'm Leaving It All Up To You",
+    "definition": "Donny & Marie Osmond",
+    "example": "September 1974 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_72",
+    "term": "Rock Me Gently",
+    "definition": "Andy Kim",
+    "example": "October 1974 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_73",
+    "term": "Far Far Away",
+    "definition": "Slade",
+    "example": "October 1974 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_74",
+    "term": "Killer Queen",
+    "definition": "Queen",
+    "example": "November 1974 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_75",
+    "term": "Oh Yes! You're Beautiful",
+    "definition": "Gary Glitter",
+    "example": "December 1974 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_76",
+    "term": "You Ain't Seen Nothing Yet",
+    "definition": "Bachman-Turner Overdrive",
+    "example": "December 1974 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_77",
+    "term": "Wombling Merry Christmas",
+    "definition": "Wombles",
+    "example": "January 1975 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_78",
+    "term": "Streets Of London",
+    "definition": "Ralph McTell",
+    "example": "January 1975 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_79",
+    "term": "Never Can Say Goodbye",
+    "definition": "Gloria Gaynor",
+    "example": "January 1975 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_80",
+    "term": "Goodbye My Love",
+    "definition": "Glitter Band",
+    "example": "February 1975 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_81",
+    "term": "Please Mr Postman",
+    "definition": "The Carpenters",
+    "example": "February 1975 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_82",
+    "term": "There's A Whole Lot Of Loving",
+    "definition": "Guys And Dolls",
+    "example": "March 1975 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_83",
+    "term": "Fox On The Run",
+    "definition": "The Sweet",
+    "example": "April 1975 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_84",
+    "term": "Honey",
+    "definition": "Bobby Goldsboro",
+    "example": "April 1975 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_85",
+    "term": "Lovin' You",
+    "definition": "Minnie Riperton",
+    "example": "May 1975 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_86",
+    "term": "Three Steps To Heaven",
+    "definition": "Showaddywaddy",
+    "example": "June 1975 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_87",
+    "term": "Misty",
+    "definition": "Ray Stevens",
+    "example": "July 1975 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_88",
+    "term": "The Last Farewell",
+    "definition": "Roger Whittaker",
+    "example": "September 1975 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_89",
+    "term": "Moonlighting",
+    "definition": "Leo Sayer",
+    "example": "September 1975 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_90",
+    "term": "Love Is The Drug",
+    "definition": "Roxy Music",
+    "example": "November 1975 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7075_91",
+    "term": "You Sexy Thing",
+    "definition": "Hot Chocolate",
+    "example": "November 1975 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_92",
+    "term": "The Trail Of The Lonesome Pine",
+    "definition": "Laurel And Hardy With The Avalon Boys featuring Chill Wills",
+    "example": "December 1975 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7075_93",
+    "term": "I Believe In Father Christmas",
+    "definition": "Greg Lake",
+    "example": "December 1975 — 2 weeks at No.2"
+  }
+];
+window.QM_NO2S7682_DATA = [
+  {
+    "id": "id_no2s7682_1",
+    "term": "Glass Of Champagne",
+    "definition": "Sailor",
+    "example": "January 1976 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_2",
+    "term": "Convoy",
+    "definition": "C. W. McCall",
+    "example": "March 1976 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_3",
+    "term": "Love Really Hurts Without You",
+    "definition": "Billy Ocean",
+    "example": "March 1976 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_4",
+    "term": "You See The Trouble With Me",
+    "definition": "Barry White",
+    "example": "April 1976 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_5",
+    "term": "Silly Love Songs",
+    "definition": "Wings",
+    "example": "June 1976 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_6",
+    "term": "You Just Might See Me Cry",
+    "definition": "Our Kid",
+    "example": "July 1976 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_7",
+    "term": "Young Hearts Run Free",
+    "definition": "Candi Staton",
+    "example": "July 1976 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_8",
+    "term": "A Little Bit More",
+    "definition": "Dr. Hook",
+    "example": "July 1976 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_9",
+    "term": "Let 'Em In",
+    "definition": "Wings",
+    "example": "August 1976 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_10",
+    "term": "The Killing Of Georgie",
+    "definition": "Rod Stewart",
+    "example": "September 1976 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_11",
+    "term": "Can't Get By Without You",
+    "definition": "Real Thing",
+    "example": "September 1976 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_12",
+    "term": "When Forever Has Gone",
+    "definition": "Demis Roussos",
+    "example": "October 1976 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_13",
+    "term": "You Make Me Feel Like Dancing",
+    "definition": "Leo Sayer",
+    "example": "November 1976 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_14",
+    "term": "Somebody To Love",
+    "definition": "Queen",
+    "example": "December 1976 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_15",
+    "term": "Boogie Nights",
+    "definition": "Heatwave",
+    "example": "March 1977 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_16",
+    "term": "Going In With My Eyes Open",
+    "definition": "David Soul",
+    "example": "April 1977 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_17",
+    "term": "Red Light Spells Danger",
+    "definition": "Billy Ocean",
+    "example": "April 1977 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_18",
+    "term": "Sir Duke",
+    "definition": "Stevie Wonder",
+    "example": "May 1977 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_19",
+    "term": "Ain't Gonna Bump No More",
+    "definition": "Joe Tex",
+    "example": "May 1977 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_20",
+    "term": "God Save The Queen",
+    "definition": "The Sex Pistols",
+    "example": "June 1977 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_21",
+    "term": "Fanfare For The Common Man",
+    "definition": "Emerson Lake & Palmer",
+    "example": "July 1977 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_22",
+    "term": "Ma Baker",
+    "definition": "Boney M",
+    "example": "July 1977 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_23",
+    "term": "You Got What It Takes",
+    "definition": "Showaddywaddy",
+    "example": "August 1977 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_24",
+    "term": "Magic Fly",
+    "definition": "Space {1977}",
+    "example": "September 1977 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_25",
+    "term": "Black Is Black",
+    "definition": "La Belle Epoque",
+    "example": "October 1977 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_26",
+    "term": "We Are The Champions",
+    "definition": "Queen",
+    "example": "November 1977 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_27",
+    "term": "Floral Dance",
+    "definition": "Brighouse and Rastrick Brass Band",
+    "example": "December 1977 — 6 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_28",
+    "term": "Come Back My Love",
+    "definition": "Darts",
+    "example": "March 1978 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_29",
+    "term": "Denis",
+    "definition": "Blondie",
+    "example": "March 1978 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_30",
+    "term": "I Wonder Why",
+    "definition": "Showaddywaddy",
+    "example": "April 1978 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_31",
+    "term": "The Boy From New York City",
+    "definition": "Darts",
+    "example": "June 1978 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_32",
+    "term": "The Smurf Song",
+    "definition": "Father Abraham And The Smurfs",
+    "example": "June 1978 — 6 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_33",
+    "term": "Substitute",
+    "definition": "Clout",
+    "example": "August 1978 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_34",
+    "term": "It's Raining",
+    "definition": "Darts",
+    "example": "September 1978 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_35",
+    "term": "Love Don't Live Here Anymore",
+    "definition": "Rose Royce",
+    "example": "October 1978 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_36",
+    "term": "Rasputin",
+    "definition": "Boney M",
+    "example": "October 1978 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_37",
+    "term": "Sandy",
+    "definition": "John Travolta",
+    "example": "November 1978 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_38",
+    "term": "Hopelessly Devoted To You",
+    "definition": "Olivia Newton-John",
+    "example": "November 1978 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_39",
+    "term": "Chiquitita",
+    "definition": "ABBA",
+    "example": "February 1979 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_40",
+    "term": "Oliver's Army",
+    "definition": "Elvis Costello and the Attractions",
+    "example": "March 1979 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_41",
+    "term": "In The Navy",
+    "definition": "The Village People",
+    "example": "March 1979 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_42",
+    "term": "Cool For Cats",
+    "definition": "Squeeze",
+    "example": "April 1979 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_43",
+    "term": "Some Girls",
+    "definition": "Racey",
+    "example": "April 1979 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_44",
+    "term": "Pop Muzik",
+    "definition": "M",
+    "example": "May 1979 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_45",
+    "term": "Dance Away",
+    "definition": "Roxy Music",
+    "example": "May 1979 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_46",
+    "term": "Up The Junction",
+    "definition": "Squeeze",
+    "example": "July 1979 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_47",
+    "term": "Silly Games",
+    "definition": "Janet Kay",
+    "example": "July 1979 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_48",
+    "term": "Can't Stand Losing You",
+    "definition": "The Police",
+    "example": "August 1979 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_49",
+    "term": "Bang Bang",
+    "definition": "BA Robertson",
+    "example": "September 1979 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_50",
+    "term": "Dreaming",
+    "definition": "Blondie",
+    "example": "October 1979 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_51",
+    "term": "Crazy Little Thing Called Love",
+    "definition": "Queen",
+    "example": "November 1979 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_52",
+    "term": "I Have A Dream",
+    "definition": "ABBA",
+    "example": "December 1979 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_53",
+    "term": "With You I'm Born Again",
+    "definition": "Billy Preston And Syreeta",
+    "example": "January 1980 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_54",
+    "term": "And The Beat Goes On",
+    "definition": "The Whispers",
+    "example": "February 1980 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_55",
+    "term": "Dance Yourself Dizzy",
+    "definition": "Liquid Gold",
+    "example": "April 1980 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_56",
+    "term": "Coming Up",
+    "definition": "Paul McCartney",
+    "example": "May 1980 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_57",
+    "term": "No Doubt About It",
+    "definition": "Hot Chocolate",
+    "example": "May 1980 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_58",
+    "term": "Funkytown",
+    "definition": "Lipps Inc",
+    "example": "June 1980 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_59",
+    "term": "More Than I Can Say",
+    "definition": "Leo Sayer",
+    "example": "August 1980 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_60",
+    "term": "Upside Down",
+    "definition": "Diana Ross",
+    "example": "August 1980 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_61",
+    "term": "One Day I'll Fly Away",
+    "definition": "Randy Crawford",
+    "example": "September 1980 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_62",
+    "term": "Masterblaster (Jammin')",
+    "definition": "Stevie Wonder",
+    "example": "October 1980 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_63",
+    "term": "D.I.S.C.O.",
+    "definition": "Ottawan",
+    "example": "October 1980 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_64",
+    "term": "What You're Proposing",
+    "definition": "Status Quo",
+    "example": "November 1980 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_65",
+    "term": "Happy Xmas (War Is Over)",
+    "definition": "John And Yoko And The Plastic Ono Band With The Harlem Community Choir",
+    "example": "January 1981 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_66",
+    "term": "Antmusic",
+    "definition": "Adam and the Ants",
+    "example": "January 1981 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_67",
+    "term": "In The Air Tonight",
+    "definition": "Phil Collins",
+    "example": "February 1981 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_68",
+    "term": "Vienna",
+    "definition": "Ultravox",
+    "example": "February 1981 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_69",
+    "term": "Kings Of The Wild Frontier",
+    "definition": "Adam and the Ants",
+    "example": "March 1981 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_70",
+    "term": "Kids In America",
+    "definition": "Kim Wilde",
+    "example": "March 1981 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_71",
+    "term": "Chi Mai (Theme From 'Life And Times Of David Lloyd George')",
+    "definition": "Ennio Morricone",
+    "example": "April 1981 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_72",
+    "term": "Stars On 45",
+    "definition": "Star Sound",
+    "example": "May 1981 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_73",
+    "term": "You Drive Me Crazy",
+    "definition": "Shakin' Stevens",
+    "example": "May 1981 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_74",
+    "term": "More Than In Love",
+    "definition": "Kate Robbins And Beyond",
+    "example": "June 1981 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_75",
+    "term": "Stars On 45 (Volume 2)",
+    "definition": "Starsound",
+    "example": "July 1981 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_76",
+    "term": "Happy Birthday",
+    "definition": "Stevie Wonder / Altered Images",
+    "example": "August 1981, 1 week at No.2 & October 1981, 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_77",
+    "term": "Hooked On Classics",
+    "definition": "Royal Philharmonic Orchestra",
+    "example": "August 1981 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_78",
+    "term": "Invisible Sun",
+    "definition": "The Police",
+    "example": "October 1981 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_79",
+    "term": "The Birdie Song (Birdie Dance)",
+    "definition": "Tweets",
+    "example": "October 1981 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_80",
+    "term": "O Superman",
+    "definition": "Laurie Anderson",
+    "example": "October 1981 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_81",
+    "term": "Daddy's Home",
+    "definition": "Cliff Richard",
+    "example": "December 1981 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_82",
+    "term": "Golden Brown",
+    "definition": "The Stranglers",
+    "example": "February 1982 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_83",
+    "term": "Mickey",
+    "definition": "Toni Basil",
+    "example": "March 1982 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_84",
+    "term": "Just An Illusion",
+    "definition": "Imagination",
+    "example": "April 1982 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_85",
+    "term": "Ain't No Pleasing You",
+    "definition": "Chas and Dave",
+    "example": "April 1982 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_86",
+    "term": "One Step Further",
+    "definition": "Bardo",
+    "example": "May 1982 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_87",
+    "term": "This Time (We'll Get It Right)",
+    "definition": "England World Cup Squad",
+    "example": "May 1982 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_88",
+    "term": "Only You",
+    "definition": "Yazoo",
+    "example": "May 1982 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_89",
+    "term": "Torch",
+    "definition": "Soft Cell",
+    "example": "June 1982 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_90",
+    "term": "Abracadabra",
+    "definition": "The Steve Miller Band",
+    "example": "July 1982 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_91",
+    "term": "Da Da Da",
+    "definition": "Trio",
+    "example": "July 1982 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_92",
+    "term": "Save A Prayer",
+    "definition": "Duran Duran",
+    "example": "September 1982 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_93",
+    "term": "Private Investigations",
+    "definition": "Dire Straits",
+    "example": "September 1982 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_94",
+    "term": "The Bitterest Pill (I Ever Had To Swallow)",
+    "definition": "The Jam",
+    "example": "September 1982 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_95",
+    "term": "Zoom",
+    "definition": "Fat Larry's Band",
+    "example": "October 1982 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_96",
+    "term": "Annie, I'm Not Your Daddy",
+    "definition": "Kid Creole and the Coconuts",
+    "example": "October 1982 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s7682_97",
+    "term": "Heartbreaker",
+    "definition": "Dionne Warwick",
+    "example": "November 1982 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_98",
+    "term": "Mirror Man",
+    "definition": "The Human League",
+    "example": "November 1982 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s7682_99",
+    "term": "The Shakin' Stevens EP",
+    "definition": "Shakin' Stevens",
+    "example": "December 1982 — 2 weeks at No.2"
+  }
+];
+window.QM_NO2S8388_DATA = [
+  {
+    "id": "id_no2s8388_1",
+    "term": "A Winter's Tale",
+    "definition": "David Essex",
+    "example": "January 1983 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_2",
+    "term": "Electric Avenue",
+    "definition": "Eddy Grant",
+    "example": "February 1983 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_3",
+    "term": "Sweet Dreams (Are Made Of This)",
+    "definition": "Eurythmics",
+    "example": "March 1983 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_4",
+    "term": "Church Of The Poison Mind",
+    "definition": "Culture Club",
+    "example": "April 1983 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_5",
+    "term": "Words",
+    "definition": "F.R. David",
+    "example": "April 1983 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_6",
+    "term": "(Keep Feeling) Fascination",
+    "definition": "The Human League",
+    "example": "May 1983 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_7",
+    "term": "Temptation",
+    "definition": "Heaven 17",
+    "example": "May 1983 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_8",
+    "term": "Bad Boys",
+    "definition": "Wham!",
+    "example": "June 1983 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_9",
+    "term": "China Girl",
+    "definition": "David Bowie",
+    "example": "June 1983 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_10",
+    "term": "Flashdance... What a Feeling",
+    "definition": "Irene Cara",
+    "example": "July 1983 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_11",
+    "term": "I.O.U.",
+    "definition": "Freeez",
+    "example": "July 1983 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_12",
+    "term": "Gold",
+    "definition": "Spandau Ballet",
+    "example": "August 1983 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_13",
+    "term": "Wings Of A Dove",
+    "definition": "Madness",
+    "example": "September 1983 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_14",
+    "term": "Tonight I Celebrate My Love",
+    "definition": "Peabo Bryson And Roberta Flack",
+    "example": "September 1983 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_15",
+    "term": "Modern Love",
+    "definition": "David Bowie",
+    "example": "October 1983 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_16",
+    "term": "They Don't Know",
+    "definition": "Tracey Ullman",
+    "example": "October 1983 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_17",
+    "term": "All Night Long (All Night)",
+    "definition": "Lionel Richie",
+    "example": "October 1983 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_18",
+    "term": "Say Say Say",
+    "definition": "Paul McCartney And Michael Jackson",
+    "example": "November 1983 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_19",
+    "term": "Love Of The Common People",
+    "definition": "Paul Young",
+    "example": "December 1983 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_20",
+    "term": "My Oh My",
+    "definition": "Slade",
+    "example": "December 1983 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_21",
+    "term": "What Is Love?",
+    "definition": "Howard Jones",
+    "example": "January 1984 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_22",
+    "term": "Girls Just Want To Have Fun",
+    "definition": "Cyndi Lauper",
+    "example": "February 1984 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_23",
+    "term": "Radio Ga Ga",
+    "definition": "Queen",
+    "example": "February 1984 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_24",
+    "term": "Joanna/Tonight",
+    "definition": "Kool & the Gang",
+    "example": "March 1984 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_25",
+    "term": "It's Raining Men",
+    "definition": "Weather Girls",
+    "example": "March 1984 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_26",
+    "term": "A Love Worth Waiting For",
+    "definition": "Shakin' Stevens",
+    "example": "April 1984 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_27",
+    "term": "You Take Me Up",
+    "definition": "The Thompson Twins",
+    "example": "April 1984 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_28",
+    "term": "Against All Odds (Take A Look At Me Now)",
+    "definition": "Phil Collins",
+    "example": "April 1984 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_29",
+    "term": "Automatic",
+    "definition": "The Pointer Sisters",
+    "example": "May 1984 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_30",
+    "term": "Let's Hear It For The Boy",
+    "definition": "Deniece Williams",
+    "example": "June 1984 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_31",
+    "term": "I Won't Let The Sun Go Down On Me",
+    "definition": "Nik Kershaw",
+    "example": "June 1984 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_32",
+    "term": "Hole In My Shoe",
+    "definition": "Neil",
+    "example": "July 1984 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_33",
+    "term": "Agadoo",
+    "definition": "Black Lace",
+    "example": "August 1984 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_34",
+    "term": "Ghostbusters",
+    "definition": "Ray Parker Jr",
+    "example": "September 1984 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_35",
+    "term": "The War Song",
+    "definition": "Culture Club",
+    "example": "October 1984 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_36",
+    "term": "No More Lonely Nights (Ballad)",
+    "definition": "Paul McCartney",
+    "example": "October 1984 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_37",
+    "term": "The Wild Boys",
+    "definition": "Duran Duran",
+    "example": "November 1984 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_38",
+    "term": "Last Christmas/Everything She Wants",
+    "definition": "Wham!",
+    "example": "December 1984 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_39",
+    "term": "1999/Little Red Corvette",
+    "definition": "Prince",
+    "example": "January 1985 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_40",
+    "term": "Love And Pride",
+    "definition": "King",
+    "example": "February 1985 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_41",
+    "term": "That Ole Devil Called Love",
+    "definition": "Alison Moyet",
+    "example": "March 1985 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_42",
+    "term": "Welcome to the Pleasuredome",
+    "definition": "Frankie Goes to Hollywood",
+    "example": "April 1985 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_43",
+    "term": "Everybody Wants to Rule the World",
+    "definition": "Tears for Fears",
+    "example": "April 1985 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_44",
+    "term": "A View To A Kill",
+    "definition": "Duran Duran",
+    "example": "May 1985 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_45",
+    "term": "Kayleigh",
+    "definition": "Marillion",
+    "example": "June 1985 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_46",
+    "term": "Crazy For You",
+    "definition": "Madonna",
+    "example": "June 1985 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_47",
+    "term": "Axel F",
+    "definition": "Harold Faltermeyer",
+    "example": "July 1985 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_48",
+    "term": "Holiday",
+    "definition": "Madonna",
+    "example": "August 1985 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_49",
+    "term": "Holding Out For A Hero",
+    "definition": "Bonnie Tyler",
+    "example": "September 1985 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_50",
+    "term": "Take on Me",
+    "definition": "A-ha",
+    "example": "October 1985 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_51",
+    "term": "Walk Of Life",
+    "definition": "Dire Straits",
+    "example": "January 1986 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_52",
+    "term": "Only Love",
+    "definition": "Nana Mouskouri",
+    "example": "February 1986 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_53",
+    "term": "Borderline",
+    "definition": "Madonna",
+    "example": "February 1986 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_54",
+    "term": "Starting Together",
+    "definition": "Su Pollard",
+    "example": "February 1986 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_55",
+    "term": "Manic Monday",
+    "definition": "The Bangles",
+    "example": "March 1986 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_56",
+    "term": "Absolute Beginners",
+    "definition": "David Bowie",
+    "example": "March 1986 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_57",
+    "term": "Wonderful World",
+    "definition": "Sam Cooke",
+    "example": "April 1986 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_58",
+    "term": "Live To Tell",
+    "definition": "Madonna",
+    "example": "May 1986 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_59",
+    "term": "On My Own",
+    "definition": "Patti LaBelle And Michael McDonald",
+    "example": "May 1986 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_60",
+    "term": "Holding Back The Years",
+    "definition": "Simply Red",
+    "example": "June 1986 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_61",
+    "term": "I Can't Wait",
+    "definition": "Nu Shooz",
+    "example": "June 1986 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_62",
+    "term": "Every Beat Of My Heart",
+    "definition": "Rod Stewart",
+    "example": "July 1986 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_63",
+    "term": "So Macho/Cruising",
+    "definition": "Sinitta",
+    "example": "August 1986 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_64",
+    "term": "We Don't Have To Take Our Clothes Off",
+    "definition": "Jermaine Stewart",
+    "example": "September 1986 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_65",
+    "term": "Rain Or Shine",
+    "definition": "Five Star",
+    "example": "October 1986 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_66",
+    "term": "In The Army Now",
+    "definition": "Status Quo",
+    "example": "November 1986 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_67",
+    "term": "You Keep Me Hangin' On",
+    "definition": "Kim Wilde",
+    "example": "November 1986 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_68",
+    "term": "Sometimes",
+    "definition": "Erasure",
+    "example": "December 1986 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_69",
+    "term": "Heartache",
+    "definition": "Pepsi And Shirlie",
+    "example": "February 1987 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_70",
+    "term": "When A Man Loves A Woman",
+    "definition": "Percy Sledge",
+    "example": "February 1987 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_71",
+    "term": "Can't Be With You Tonight",
+    "definition": "Judy Boucher",
+    "example": "April 1987 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_72",
+    "term": "A Boy From Nowhere",
+    "definition": "Tom Jones",
+    "example": "May 1987 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_73",
+    "term": "Hold Me Now",
+    "definition": "Johnny Logan",
+    "example": "June 1987 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_74",
+    "term": "Under The Boardwalk",
+    "definition": "Bruce Willis",
+    "example": "July 1987 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_75",
+    "term": "Call Me",
+    "definition": "Spagna",
+    "example": "August 1987 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_76",
+    "term": "What Have I Done To Deserve This",
+    "definition": "The Pet Shop Boys And Dusty Springfield",
+    "example": "August 1987 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_77",
+    "term": "Wipeout",
+    "definition": "The Fat Boys And The Beach Boys",
+    "example": "September 1987 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_78",
+    "term": "Full Metal Jacket (I Wanna Be Your Drill Instructor)",
+    "definition": "Abigail Mead And Nigel Goulding",
+    "example": "October 1987 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_79",
+    "term": "Crockett's Theme",
+    "definition": "Jan Hammer",
+    "example": "October 1987 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_80",
+    "term": "Faith",
+    "definition": "George Michael",
+    "example": "October 1987 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_81",
+    "term": "Got My Mind Set On You",
+    "definition": "George Harrison",
+    "example": "November 1987 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_82",
+    "term": "When I Fall In Love",
+    "definition": "Rick Astley",
+    "example": "December 1987 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_83",
+    "term": "Fairytale of New York",
+    "definition": "The Pogues ft Kirsty MacColl",
+    "example": "December 1987 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_84",
+    "term": "Sign Your Name",
+    "definition": "Terence Trent D'Arby",
+    "example": "January 1988 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_85",
+    "term": "When Will I Be Famous?",
+    "definition": "Bros",
+    "example": "February 1988 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_86",
+    "term": "Beat Dis",
+    "definition": "Bomb the Bass",
+    "example": "February 1988 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_87",
+    "term": "Together Forever",
+    "definition": "Rick Astley",
+    "example": "March 1988 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_88",
+    "term": "Drop The Boy",
+    "definition": "Bros",
+    "example": "March 1988 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_89",
+    "term": "Love Changes (Everything)",
+    "definition": "Climie Fisher",
+    "example": "April 1988 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_90",
+    "term": "Got To Be Certain",
+    "definition": "Kylie Minogue",
+    "example": "May 1988 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_91",
+    "term": "The Twist (Yo, Twist)",
+    "definition": "The Fat Boys With Chubby Checker",
+    "example": "July 1988 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_92",
+    "term": "Push It/Tramp",
+    "definition": "Salt-N-Pepa",
+    "example": "July 1988 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_93",
+    "term": "The Loco-Motion",
+    "definition": "Kylie Minogue",
+    "example": "August 1988 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_94",
+    "term": "The Harder I Try",
+    "definition": "Brother Beyond",
+    "example": "September 1988 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_95",
+    "term": "Don't Worry Be Happy",
+    "definition": "Bobby McFerrin",
+    "example": "October 1988 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_96",
+    "term": "Je Ne Sais Pas Pourquoi",
+    "definition": "Kylie Minogue",
+    "example": "October 1988 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8388_97",
+    "term": "Stand Up For Your Love Rights",
+    "definition": "Yazz",
+    "example": "November 1988 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_98",
+    "term": "Need You Tonight",
+    "definition": "INXS",
+    "example": "November 1988 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8388_99",
+    "term": "Cat Among The Pigeons/Silent Night",
+    "definition": "Bros",
+    "example": "December 1988 — 1 week at No.2"
+  }
+];
+window.QM_NO2S8993_DATA = [
+  {
+    "id": "id_no2s8993_1",
+    "term": "Crackers International (EP)",
+    "definition": "Erasure",
+    "example": "January 1989 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_2",
+    "term": "The Living Years",
+    "definition": "Mike + the Mechanics",
+    "example": "January 1989 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_3",
+    "term": "Love Changes Everything",
+    "definition": "Michael Ball",
+    "example": "February 1989 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_4",
+    "term": "Leave Me Alone",
+    "definition": "Michael Jackson",
+    "example": "March 1989 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_5",
+    "term": "If You Don't Know Me By Now",
+    "definition": "Simply Red",
+    "example": "April 1989 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_6",
+    "term": "Miss You Like Crazy",
+    "definition": "Natalie Cole",
+    "example": "June 1989 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_7",
+    "term": "The Best Of Me",
+    "definition": "Cliff Richard",
+    "example": "June 1989 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_8",
+    "term": "Batdance",
+    "definition": "Prince",
+    "example": "July 1989 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_9",
+    "term": "Song For Whoever",
+    "definition": "The Beautiful South",
+    "example": "July 1989 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_10",
+    "term": "London Nights",
+    "definition": "London Boys",
+    "example": "July 1989 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_11",
+    "term": "Too Much",
+    "definition": "Bros",
+    "example": "July 1989 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_12",
+    "term": "Wouldn't Change A Thing",
+    "definition": "Kylie Minogue",
+    "example": "August 1989 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_13",
+    "term": "French Kiss",
+    "definition": "Lil' Louis",
+    "example": "August 1989 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_14",
+    "term": "Poison",
+    "definition": "Alice Cooper",
+    "example": "August 1989 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_15",
+    "term": "Every Day (I Love You More)",
+    "definition": "Jason Donovan",
+    "example": "September 1989 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_16",
+    "term": "Right Here Waiting",
+    "definition": "Richard Marx",
+    "example": "September 1989 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_17",
+    "term": "Pump Up The Jam",
+    "definition": "Technotronic featuring Felly",
+    "example": "October 1989 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_18",
+    "term": "Girl I'm Gonna Miss You",
+    "definition": "Milli Vanilli",
+    "example": "October 1989 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_19",
+    "term": "Another Day In Paradise",
+    "definition": "Phil Collins",
+    "example": "November 1989 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_20",
+    "term": "Don't Know Much",
+    "definition": "Linda Ronstadt And Aaron Neville",
+    "example": "December 1989 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_21",
+    "term": "When You Come Back To Me",
+    "definition": "Jason Donovan",
+    "example": "December 1989 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_22",
+    "term": "Get Up (Before The Night Is Over)",
+    "definition": "Technotronic featuring Ya Kid K",
+    "example": "February 1990 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_23",
+    "term": "The Brits 1990",
+    "definition": "Various Artists",
+    "example": "March 1990 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_24",
+    "term": "Love Shack",
+    "definition": "The B-52s",
+    "example": "March 1990 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_25",
+    "term": "Black Velvet",
+    "definition": "Alannah Myles",
+    "example": "April 1990 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_26",
+    "term": "Opposites Attract",
+    "definition": "Paula Abdul With the Wild Pair",
+    "example": "May 1990 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_27",
+    "term": "Dirty Cash",
+    "definition": "The Adventures Of Stevie V",
+    "example": "May 1990 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_28",
+    "term": "Better The Devil You Know",
+    "definition": "Kylie Minogue",
+    "example": "May 1990 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_29",
+    "term": "Step By Step",
+    "definition": "New Kids on the Block",
+    "example": "June 1990 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_30",
+    "term": "Nessun Dorma",
+    "definition": "Luciano Pavarotti",
+    "example": "June 1990 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_31",
+    "term": "Mona",
+    "definition": "Craig McLachlan And Check 1-2",
+    "example": "July 1990 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_32",
+    "term": "Hanky Panky",
+    "definition": "Madonna",
+    "example": "August 1990 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_33",
+    "term": "Tom's Diner",
+    "definition": "DNA featuring Suzanne Vega",
+    "example": "August 1990 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_34",
+    "term": "Four Bacharach And David Songs (EP)",
+    "definition": "Deacon Blue",
+    "example": "September 1990 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_35",
+    "term": "Groove Is in the Heart/What Is Love?",
+    "definition": "Deee-Lite",
+    "example": "September 1990 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_36",
+    "term": "I've Been Thinking About You",
+    "definition": "Londonbeat",
+    "example": "October 1990 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_37",
+    "term": "Blue Velvet",
+    "definition": "Bobby Vinton",
+    "example": "October 1990 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_38",
+    "term": "The Anniversary Waltz - Part One",
+    "definition": "Status Quo",
+    "example": "October 1990 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_39",
+    "term": "Fog On The Tyne (Revisited)",
+    "definition": "Gazza And Lindisfarne",
+    "example": "November 1990 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_40",
+    "term": "Don't Worry",
+    "definition": "Kim Appleby",
+    "example": "November 1990 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_41",
+    "term": "Justify My Love",
+    "definition": "Madonna",
+    "example": "December 1990 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_42",
+    "term": "Crazy",
+    "definition": "Seal",
+    "example": "January 1991 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_43",
+    "term": "(I Wanna Give You) Devotion",
+    "definition": "Nomad featuring MC Mikee Freedom",
+    "example": "February 1991 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_44",
+    "term": "Crazy For You",
+    "definition": "Madonna",
+    "example": "March 1991 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_45",
+    "term": "Sit Down",
+    "definition": "James",
+    "example": "April 1991 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_46",
+    "term": "Last Train To Trancentral",
+    "definition": "KLF featuring The Children Of The Revolution",
+    "example": "May 1991 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_47",
+    "term": "Gypsy Woman (La Da Dee)",
+    "definition": "Crystal Waters",
+    "example": "May 1991 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_48",
+    "term": "Baby Baby",
+    "definition": "Amy Grant",
+    "example": "June 1991 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_49",
+    "term": "Now That We've Found Love",
+    "definition": "Heavy D and the Boyz",
+    "example": "July 1991 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_50",
+    "term": "More Than Words",
+    "definition": "Extreme",
+    "example": "August 1991 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_51",
+    "term": "I'm Too Sexy",
+    "definition": "Right Said Fred",
+    "example": "August 1991 — 6 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_52",
+    "term": "Let's Talk About Sex",
+    "definition": "Salt-N-Pepa",
+    "example": "September 1991 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_53",
+    "term": "Wind Of Change",
+    "definition": "The Scorpions",
+    "example": "October 1991 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_54",
+    "term": "Get Ready For This",
+    "definition": "2 Unlimited",
+    "example": "October 1991 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_55",
+    "term": "When You Tell Me That You Love Me",
+    "definition": "Diana Ross",
+    "example": "December 1991 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_56",
+    "term": "Justified And Ancient",
+    "definition": "KLF featuring Tammy Wynette",
+    "example": "January 1992 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_57",
+    "term": "Everybody In The Place (EP)",
+    "definition": "The Prodigy",
+    "example": "January 1992 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_58",
+    "term": "Give Me Just A Little More Time",
+    "definition": "Kylie Minogue",
+    "example": "February 1992 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_59",
+    "term": "Twilight Zone",
+    "definition": "2 Unlimited",
+    "example": "February 1992 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_60",
+    "term": "My Girl",
+    "definition": "The Temptations",
+    "example": "February 1992 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_61",
+    "term": "I Love Your Smile",
+    "definition": "Shanice",
+    "example": "March 1992 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_62",
+    "term": "Finally",
+    "definition": "Ce Ce Peniston",
+    "example": "March 1992 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_63",
+    "term": "Let's Get Rocked",
+    "definition": "Def Leppard",
+    "example": "April 1992 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_64",
+    "term": "Be Quick Or Be Dead",
+    "definition": "Iron Maiden",
+    "example": "April 1992 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_65",
+    "term": "On A Ragga Tip",
+    "definition": "SL2",
+    "example": "May 1992 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_66",
+    "term": "Knockin' On Heaven's Door",
+    "definition": "Guns N' Roses",
+    "example": "May 1992 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_67",
+    "term": "Raving I'm Raving",
+    "definition": "Shut Up and Dance",
+    "example": "May 1992 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_68",
+    "term": "Jump",
+    "definition": "Kris Kross",
+    "example": "June 1992 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_69",
+    "term": "Heartbeat",
+    "definition": "Nick Berry",
+    "example": "June 1992 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_70",
+    "term": "I'll Be There",
+    "definition": "Mariah Carey",
+    "example": "July 1992 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_71",
+    "term": "Sesame's Treet",
+    "definition": "Smart E's",
+    "example": "July 1992 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_72",
+    "term": "Barcelona",
+    "definition": "Freddie Mercury and Montserrat Caballe",
+    "example": "August 1992 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_73",
+    "term": "The Best Things In Life Are Free",
+    "definition": "Luther Vandross And Janet Jackson",
+    "example": "August 1992 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_74",
+    "term": "Baker Street",
+    "definition": "Undercover",
+    "example": "September 1992 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_75",
+    "term": "It's My Life",
+    "definition": "Dr. Alban",
+    "example": "September 1992 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_76",
+    "term": "People Everyday",
+    "definition": "Arrested Development",
+    "example": "November 1992 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_77",
+    "term": "Heal The World",
+    "definition": "Michael Jackson",
+    "example": "December 1992 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_78",
+    "term": "Exterminate!",
+    "definition": "Snap! ft Niki Haris",
+    "example": "January 1993 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_79",
+    "term": "Why Can't I Wake Up With You",
+    "definition": "Take That",
+    "example": "February 1993 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_80",
+    "term": "Give In To Me",
+    "definition": "Michael Jackson",
+    "example": "March 1993 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_81",
+    "term": "Informer",
+    "definition": "Snow",
+    "example": "March 1993 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_82",
+    "term": "That's The Way Love Goes",
+    "definition": "Janet Jackson",
+    "example": "May 1993 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_83",
+    "term": "What Is Love",
+    "definition": "Haddaway",
+    "example": "July 1993 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_84",
+    "term": "What's Up",
+    "definition": "4 Non Blondes",
+    "example": "July 1993 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_85",
+    "term": "The Key the Secret",
+    "definition": "Urban Cookie Collective",
+    "example": "August 1993 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_86",
+    "term": "It Keeps Rainin' (Tears From My Eyes)",
+    "definition": "Bitty McLean",
+    "example": "September 1993 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_87",
+    "term": "Go West",
+    "definition": "Pet Shop Boys",
+    "example": "September 1993 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_88",
+    "term": "Moving On Up",
+    "definition": "M People",
+    "example": "October 1993 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_89",
+    "term": "U Got 2 Let The Music",
+    "definition": "Cappella",
+    "example": "October 1993 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s8993_90",
+    "term": "Please Forgive Me",
+    "definition": "Bryan Adams",
+    "example": "November 1993 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s8993_91",
+    "term": "True Love",
+    "definition": "Elton John and Kiki Dee",
+    "example": "November 1993 — 2 weeks at No.2"
+  }
+];
+window.QM_NO2S9498_DATA = [
+  {
+    "id": "id_no2s9498_1",
+    "term": "All For Love",
+    "definition": "Bryan Adams, Rod Stewart & Sting",
+    "example": "January 1994 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_2",
+    "term": "Breathe Again",
+    "definition": "Toni Braxton",
+    "example": "February 1994 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_3",
+    "term": "The Sign",
+    "definition": "Ace of Base",
+    "example": "March 1994 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_4",
+    "term": "Streets Of Philadelphia",
+    "definition": "Bruce Springsteen",
+    "example": "April 1994 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_5",
+    "term": "Mmm Mmm Mmm Mmm",
+    "definition": "Crash Test Dummies",
+    "example": "April 1994 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_6",
+    "term": "Baby I Love Your Way",
+    "definition": "Big Mountain",
+    "example": "June 1994 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_7",
+    "term": "I Swear",
+    "definition": "All-4-One",
+    "example": "July 1994 — 7 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_8",
+    "term": "Crazy for You",
+    "definition": "Let Loose",
+    "example": "August 1994 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_9",
+    "term": "Compliments On Your Kiss",
+    "definition": "Red Dragon With Brian and Tony",
+    "example": "September 1994 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_10",
+    "term": "Confide In Me",
+    "definition": "Kylie Minogue",
+    "example": "September 1994 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_11",
+    "term": "The Rhythm Of The Night",
+    "definition": "Corona",
+    "example": "September 1994 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_12",
+    "term": "Always",
+    "definition": "Bon Jovi",
+    "example": "October 1994 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_13",
+    "term": "Another Night",
+    "definition": "(MC Sar &) The Real McCoy",
+    "example": "November 1994 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_14",
+    "term": "Love Spreads",
+    "definition": "The Stone Roses",
+    "example": "December 1994 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_15",
+    "term": "Love Me For A Reason",
+    "definition": "Boyzone",
+    "example": "January 1995 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_16",
+    "term": "Set You Free",
+    "definition": "N-Trance",
+    "example": "February 1995 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_17",
+    "term": "No More 'I Love You's'",
+    "definition": "Annie Lennox",
+    "example": "February 1995 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_18",
+    "term": "I've Got A Little Something For You",
+    "definition": "MN8",
+    "example": "March 1995 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_19",
+    "term": "Don't Give Me Your Life",
+    "definition": "Alex Party",
+    "example": "March 1995 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_20",
+    "term": "Guaglione",
+    "definition": "Perez Prado And His Orchestra",
+    "example": "May 1995 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_21",
+    "term": "Common People",
+    "definition": "Pulp",
+    "example": "June 1995 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_22",
+    "term": "Hold Me, Thrill Me, Kiss Me, Kill Me",
+    "definition": "U2",
+    "example": "June 1995 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_23",
+    "term": "Alright/Time",
+    "definition": "Supergrass",
+    "example": "July 1995 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_24",
+    "term": "Shy Guy",
+    "definition": "Diana King",
+    "example": "July 1995 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_25",
+    "term": "I Luv U Baby",
+    "definition": "The Original",
+    "example": "August 1995 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_26",
+    "term": "Roll With It",
+    "definition": "Oasis",
+    "example": "August 1995 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_27",
+    "term": "Stayin' Alive",
+    "definition": "N-Trance ft Ricardo Da Force",
+    "example": "September 1995 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_28",
+    "term": "Mis-Shapes/Sorted for E's & Wizz",
+    "definition": "Pulp",
+    "example": "October 1995 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_29",
+    "term": "When Love & Hate Collide",
+    "definition": "Def Leppard",
+    "example": "October 1995 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_30",
+    "term": "I'd Lie For You (And That's The Truth)",
+    "definition": "Meat Loaf",
+    "example": "October 1995 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_31",
+    "term": "Heaven For Everyone",
+    "definition": "Queen",
+    "example": "November 1995 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_32",
+    "term": "Wonderwall",
+    "definition": "Oasis / Mike Flowers Pops",
+    "example": "November 1995, 1 week at No.2 & December 1995, 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_33",
+    "term": "Free As a Bird",
+    "definition": "The Beatles",
+    "example": "December 1995 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_34",
+    "term": "Father And Son",
+    "definition": "Boyzone",
+    "example": "December 1995 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_35",
+    "term": "Slight Return",
+    "definition": "The Bluetones",
+    "example": "February 1996 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_36",
+    "term": "Anything",
+    "definition": "3T",
+    "example": "February 1996 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_37",
+    "term": "Children",
+    "definition": "Robert Miles",
+    "example": "March 1996 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_38",
+    "term": "The X Files",
+    "definition": "Mark Snow",
+    "example": "March 1996 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_39",
+    "term": "A Design For Life",
+    "definition": "Manic Street Preachers",
+    "example": "April 1996 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_40",
+    "term": "Mysterious Girl",
+    "definition": "Peter Andre ft Bubbler Ranx",
+    "example": "June 1996 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_41",
+    "term": "Born Slippy",
+    "definition": "Underworld",
+    "example": "July 1996 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_42",
+    "term": "Freedom",
+    "definition": "Robbie Williams",
+    "example": "August 1996 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_43",
+    "term": "Macarena",
+    "definition": "Los Del Rio",
+    "example": "August 1996 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_44",
+    "term": "Why",
+    "definition": "3T featuring Michael Jackson",
+    "example": "August 1996 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_45",
+    "term": "Spinning The Wheel",
+    "definition": "George Michael",
+    "example": "August 1996 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_46",
+    "term": "Hey Dude",
+    "definition": "Kula Shaker",
+    "example": "September 1996 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_47",
+    "term": "If You Ever",
+    "definition": "East 17 featuring Gabrielle",
+    "example": "November 1996 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_48",
+    "term": "What's Love Got To Do With It",
+    "definition": "Warren G Feat Adina Howard",
+    "example": "November 1996 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_49",
+    "term": "No Woman, No Cry",
+    "definition": "Fugees",
+    "example": "November 1996 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_50",
+    "term": "Un-Break My Heart",
+    "definition": "Toni Braxton",
+    "example": "December 1996 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_51",
+    "term": "Quit Playing Games [with My Heart]",
+    "definition": "Backstreet Boys",
+    "example": "January 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_52",
+    "term": "Where Do You Go",
+    "definition": "No Mercy",
+    "example": "February 1997 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_53",
+    "term": "I Shot The Sheriff",
+    "definition": "Warren G",
+    "example": "February 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_54",
+    "term": "Encore Une Fois",
+    "definition": "Sash!",
+    "example": "March 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_55",
+    "term": "Hush",
+    "definition": "Kula Shaker",
+    "example": "March 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_56",
+    "term": "Isn't It A Wonder",
+    "definition": "Boyzone",
+    "example": "March 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_57",
+    "term": "Richard III",
+    "definition": "Supergrass",
+    "example": "April 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_58",
+    "term": "Song 2",
+    "definition": "Blur",
+    "example": "April 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_59",
+    "term": "Old Before I Die",
+    "definition": "Robbie Williams",
+    "example": "April 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_60",
+    "term": "Star People '97",
+    "definition": "George Michael",
+    "example": "May 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_61",
+    "term": "Lovefool",
+    "definition": "The Cardigans",
+    "example": "May 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_62",
+    "term": "Time To Say Goodbye (Con Te Partiro)",
+    "definition": "Sarah Brightman & Andrea Bocelli",
+    "example": "May 1997 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_63",
+    "term": "Bitter Sweet Symphony",
+    "definition": "The Verve",
+    "example": "June 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_64",
+    "term": "Ecuador",
+    "definition": "Sash! ft Rodriguez",
+    "example": "July 1997 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_65",
+    "term": "Picture Of You",
+    "definition": "Boyzone",
+    "example": "August 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_66",
+    "term": "Freed From Desire",
+    "definition": "Gala",
+    "example": "August 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_67",
+    "term": "Tubthumping",
+    "definition": "Chumbawamba",
+    "example": "August 1997 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_68",
+    "term": "You Have Been Loved EP",
+    "definition": "George Michael",
+    "example": "September 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_69",
+    "term": "Sunchyme",
+    "definition": "Dario G",
+    "example": "September 1997 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_70",
+    "term": "Stand by Me",
+    "definition": "Oasis",
+    "example": "October 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_71",
+    "term": "Stay",
+    "definition": "Sash! ft La Trec",
+    "example": "October 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_72",
+    "term": "Torn",
+    "definition": "Natalie Imbruglia",
+    "example": "November 1997 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_73",
+    "term": "Baby Can I Hold You/Shooting Star",
+    "definition": "Boyzone",
+    "example": "December 1997 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_74",
+    "term": "Bamboogie",
+    "definition": "Bamboo",
+    "example": "January 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_75",
+    "term": "All I Have To Give",
+    "definition": "Backstreet Boys",
+    "example": "February 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_76",
+    "term": "Big Mistake",
+    "definition": "Natalie Imbruglia",
+    "example": "March 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_77",
+    "term": "Stop",
+    "definition": "Spice Girls",
+    "example": "March 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_78",
+    "term": "Turn It Up/Fire It Up",
+    "definition": "Busta Rhymes",
+    "example": "April 1998 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_79",
+    "term": "Ray Of Light",
+    "definition": "Madonna",
+    "example": "May 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_80",
+    "term": "The Boy Is Mine",
+    "definition": "Brandy & Monica",
+    "example": "June 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_81",
+    "term": "Horny",
+    "definition": "Mousse T vs Hot 'N' Juicy",
+    "example": "June 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_82",
+    "term": "Vindaloo",
+    "definition": "Fat Les",
+    "example": "June 1998 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_83",
+    "term": "Ghetto Supastar [that Is What You Are]",
+    "definition": "Pras Michel ft ODB & Mya",
+    "example": "July 1998 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_84",
+    "term": "Just The Two Of Us",
+    "definition": "Will Smith",
+    "example": "August 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_85",
+    "term": "Come With Me",
+    "definition": "Puff Daddy ft Jimmy Page",
+    "example": "August 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_86",
+    "term": "Mysterious Times",
+    "definition": "Sash! ft Tina Cousins",
+    "example": "August 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_87",
+    "term": "Music Sounds Better With You",
+    "definition": "Stardust",
+    "example": "August 1998 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_88",
+    "term": "One For Sorrow",
+    "definition": "Steps",
+    "example": "September 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_89",
+    "term": "Everybody Get Up",
+    "definition": "Five",
+    "example": "September 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_90",
+    "term": "Sex On The Beach",
+    "definition": "T-Spoon",
+    "example": "September 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_91",
+    "term": "Perfect 10",
+    "definition": "The Beautiful South",
+    "example": "October 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_92",
+    "term": "Top Of The World",
+    "definition": "Brandy ft Mase",
+    "example": "October 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_93",
+    "term": "More Than A Woman",
+    "definition": "911",
+    "example": "October 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_94",
+    "term": "Outside",
+    "definition": "George Michael",
+    "example": "October 1998 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9498_95",
+    "term": "Each Time",
+    "definition": "E-17",
+    "example": "November 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_96",
+    "term": "I Love The Way You Love Me",
+    "definition": "Boyzone",
+    "example": "November 1998 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9498_97",
+    "term": "Hard Knock Life (Ghetto Anthem)",
+    "definition": "Jay-Z",
+    "example": "December 1998 — 1 week at No.2"
+  }
+];
+window.QM_NO2S9902_DATA = [
+  {
+    "id": "id_no2s9902_1",
+    "term": "I Want You For Myself",
+    "definition": "Another Level Featuring Ghostface Killah",
+    "example": "January 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_2",
+    "term": "Tequila",
+    "definition": "Terrorvision",
+    "example": "January 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_3",
+    "term": "Runaway",
+    "definition": "The Corrs",
+    "example": "February 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_4",
+    "term": "Tender",
+    "definition": "Blur",
+    "example": "March 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_5",
+    "term": "Better Best Forgotten",
+    "definition": "Steps",
+    "example": "March 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_6",
+    "term": "Witch Doctor",
+    "definition": "Cartoons",
+    "example": "April 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_7",
+    "term": "My Name Is",
+    "definition": "Eminem",
+    "example": "April 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_8",
+    "term": "Turn Around",
+    "definition": "Phats & Small",
+    "example": "April 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_9",
+    "term": "Right Here Right Now",
+    "definition": "Fatboy Slim",
+    "example": "May 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_10",
+    "term": "Why Don't You Get A Job?",
+    "definition": "The Offspring",
+    "example": "May 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_11",
+    "term": "Look At Me",
+    "definition": "Geri Halliwell",
+    "example": "May 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_12",
+    "term": "Ooh La La",
+    "definition": "Wiseguys",
+    "example": "June 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_13",
+    "term": "Beautiful Stranger",
+    "definition": "Madonna",
+    "example": "June 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_14",
+    "term": "My Love Is Your Love",
+    "definition": "Whitney Houston",
+    "example": "July 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_15",
+    "term": "Wild Wild West",
+    "definition": "Will Smith",
+    "example": "July 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_16",
+    "term": "Love's Got A Hold On My Heart",
+    "definition": "Steps",
+    "example": "July 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_17",
+    "term": "If Ya Gettin' Down",
+    "definition": "Five",
+    "example": "July 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_18",
+    "term": "Better Off Alone",
+    "definition": "Alice Deejay",
+    "example": "August 1999 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_19",
+    "term": "(Mucho Mambo) Sway",
+    "definition": "Shaft",
+    "example": "September 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_20",
+    "term": "The Launch",
+    "definition": "DJ Jean",
+    "example": "September 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_21",
+    "term": "S Club Party",
+    "definition": "S Club 7",
+    "example": "October 1999 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_22",
+    "term": "2 Times",
+    "definition": "Ann Lee",
+    "example": "October 1999 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_23",
+    "term": "If I Could Turn Back The Hands Of Time",
+    "definition": "R. Kelly",
+    "example": "November 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_24",
+    "term": "What I Am",
+    "definition": "Tin Tin Out ft Emma Bunton",
+    "example": "November 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_25",
+    "term": "Will 2K",
+    "definition": "Will Smith",
+    "example": "November 1999 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_26",
+    "term": "Re-Rewind The Crowd Say Bo Selecta",
+    "definition": "Artful Dodger ft Craig David",
+    "example": "December 1999 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_27",
+    "term": "Two In A Million/You're My Number One",
+    "definition": "S Club 7",
+    "example": "January 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_28",
+    "term": "U Know What's Up",
+    "definition": "Donnell Jones",
+    "example": "January 2000 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_29",
+    "term": "Adelante",
+    "definition": "Sash!",
+    "example": "February 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_30",
+    "term": "Movin Too Fast",
+    "definition": "Artful Dodger & Romina Johnson",
+    "example": "March 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_31",
+    "term": "All The Small Things",
+    "definition": "Blink 182",
+    "example": "March 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_32",
+    "term": "The Time Is Now",
+    "definition": "Moloko",
+    "example": "April 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_33",
+    "term": "Flowers",
+    "definition": "Sweet Female Attitude",
+    "example": "April 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_34",
+    "term": "Reach",
+    "definition": "S Club 7",
+    "example": "June 2000 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_35",
+    "term": "Gotta Tell You",
+    "definition": "Samantha Mumba",
+    "example": "July 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_36",
+    "term": "Freestyler",
+    "definition": "Bomfunk MC's",
+    "example": "August 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_37",
+    "term": "Out Of Your Mind",
+    "definition": "True Steppers And Dane Bowers Featuring Victoria Beckham",
+    "example": "August 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_38",
+    "term": "Sky",
+    "definition": "Sonique",
+    "example": "September 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_39",
+    "term": "On A Night Like This",
+    "definition": "Kylie Minogue",
+    "example": "September 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_40",
+    "term": "Kernkraft 400",
+    "definition": "Zombie Nation",
+    "example": "September 2000 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_41",
+    "term": "Kids",
+    "definition": "Robbie Williams & Kylie Minogue",
+    "example": "October 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_42",
+    "term": "Who Let The Dogs Out",
+    "definition": "Baha Men",
+    "example": "October 2000 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_43",
+    "term": "I'm Over You",
+    "definition": "Martine McCutcheon",
+    "example": "November 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_44",
+    "term": "One More Time",
+    "definition": "Daft Punk",
+    "example": "November 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_45",
+    "term": "What Makes A Man",
+    "definition": "Westlife",
+    "example": "December 2000 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_46",
+    "term": "The Way You Make Me Feel",
+    "definition": "Steps",
+    "example": "January 2001 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_47",
+    "term": "Pop Ya Collar",
+    "definition": "Usher",
+    "example": "February 2001 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_48",
+    "term": "Stuck In A Moment You Can't Get Out Of",
+    "definition": "U2",
+    "example": "February 2001 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_49",
+    "term": "Teenage Dirtbag",
+    "definition": "Wheatus",
+    "example": "February 2001 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_50",
+    "term": "Ms Jackson",
+    "definition": "Outkast",
+    "example": "March 2001 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_51",
+    "term": "Lovin' Each Day",
+    "definition": "Ronan Keating",
+    "example": "April 2001 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_52",
+    "term": "All I Want",
+    "definition": "Mis-Teeq",
+    "example": "June 2001 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_53",
+    "term": "Purple Pills",
+    "definition": "D12",
+    "example": "July 2001 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_54",
+    "term": "Bootylicious",
+    "definition": "Destiny's Child",
+    "example": "August 2001 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_55",
+    "term": "Take Me Home",
+    "definition": "Sophie Ellis-Bextor",
+    "example": "August 2001 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_56",
+    "term": "Starlight",
+    "definition": "The Supermen Lovers Featuring Mani Hoffman",
+    "example": "September 2001 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_57",
+    "term": "Chain Reaction/One For Sorrow",
+    "definition": "Steps",
+    "example": "October 2001 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_58",
+    "term": "You Rock My World",
+    "definition": "Michael Jackson",
+    "example": "October 2001 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_59",
+    "term": "Rapture",
+    "definition": "IIO",
+    "example": "November 2001 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_60",
+    "term": "Murder On The Dancefloor",
+    "definition": "Sophie Ellis-Bextor",
+    "example": "December 2001 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_61",
+    "term": "How Wonderful You Are",
+    "definition": "Gordon Haskell",
+    "example": "December 2001 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_62",
+    "term": "Addicted To Bass",
+    "definition": "Puretone",
+    "example": "January 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_63",
+    "term": "Get The Party Started",
+    "definition": "Pink",
+    "example": "January 2002 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_64",
+    "term": "Caught In The Middle",
+    "definition": "A1",
+    "example": "February 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_65",
+    "term": "Hey Baby",
+    "definition": "No Doubt",
+    "example": "February 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_66",
+    "term": "You",
+    "definition": "S Club 7",
+    "example": "February 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_67",
+    "term": "Whenever Wherever",
+    "definition": "Shakira",
+    "example": "March 2002 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_68",
+    "term": "Me Julie",
+    "definition": "Ali G And Shaggy",
+    "example": "March 2002 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_69",
+    "term": "I'm Not a Girl Not Yet a Woman",
+    "definition": "Britney Spears",
+    "example": "April 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_70",
+    "term": "Lazy",
+    "definition": "X-Press 2 ft David Byrne",
+    "example": "April 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_71",
+    "term": "Girlfriend",
+    "definition": "'N Sync",
+    "example": "April 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_72",
+    "term": "One Step Closer",
+    "definition": "S Club Juniors",
+    "example": "May 2002 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_73",
+    "term": "Love At First Sight",
+    "definition": "Kylie Minogue",
+    "example": "June 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_74",
+    "term": "Stop Crying Your Heart Out",
+    "definition": "Oasis",
+    "example": "June 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_75",
+    "term": "The Logical Song",
+    "definition": "Scooter",
+    "example": "July 2002 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_76",
+    "term": "By The Way",
+    "definition": "Red Hot Chili Peppers",
+    "example": "July 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_77",
+    "term": "Automatic High",
+    "definition": "S Club Juniors",
+    "example": "August 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_78",
+    "term": "In My Place",
+    "definition": "Coldplay",
+    "example": "August 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_79",
+    "term": "Fantasy",
+    "definition": "Appleton",
+    "example": "September 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_80",
+    "term": "Got To Have Your Love",
+    "definition": "Liberty X",
+    "example": "September 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_81",
+    "term": "Little By Little/She Is Love",
+    "definition": "Oasis",
+    "example": "October 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_82",
+    "term": "Down Boy",
+    "definition": "Holly Valance",
+    "example": "October 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_83",
+    "term": "New Direction",
+    "definition": "S Club Juniors",
+    "example": "October 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_84",
+    "term": "Like I Love You",
+    "definition": "Justin Timberlake",
+    "example": "November 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_85",
+    "term": "Don't Let Me Down/You And I",
+    "definition": "Will Young",
+    "example": "November 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_86",
+    "term": "Last Goodbye/Be With You",
+    "definition": "Atomic Kitten",
+    "example": "December 2002 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s9902_87",
+    "term": "Cheeky Song (Touch My Bum)",
+    "definition": "Cheeky Girls",
+    "example": "December 2002 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s9902_88",
+    "term": "Sacred Trust/After You're Gone",
+    "definition": "One True Voice",
+    "example": "December 2002 — 1 week at No.2"
+  }
+];
+window.QM_NO2S0306_DATA = [
+  {
+    "id": "id_no2s0306_1",
+    "term": "Danger High Voltage",
+    "definition": "Electric Six",
+    "example": "January 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_2",
+    "term": "Year 3000",
+    "definition": "Busted",
+    "example": "January 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_3",
+    "term": "03 Bonnie & Clyde",
+    "definition": "Jay-Z ft Beyonce Knowles",
+    "example": "February 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_4",
+    "term": "Stole",
+    "definition": "Kelly Rowland",
+    "example": "February 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_5",
+    "term": "Cry Me A River",
+    "definition": "Justin Timberlake",
+    "example": "February 2003 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_6",
+    "term": "I Can't Break Down",
+    "definition": "Sinead Quinn",
+    "example": "February 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_7",
+    "term": "The Boys of Summer",
+    "definition": "DJ Sammy",
+    "example": "March 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_8",
+    "term": "I Begin To Wonder",
+    "definition": "Dannii Minogue",
+    "example": "March 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_9",
+    "term": "All I Have",
+    "definition": "Jennifer Lopez ft Ll Cool J",
+    "example": "March 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_10",
+    "term": "Scandalous",
+    "definition": "Mis-Teeq",
+    "example": "March 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_11",
+    "term": "Cry",
+    "definition": "Kym Marsh",
+    "example": "April 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_12",
+    "term": "American Life",
+    "definition": "Madonna",
+    "example": "April 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_13",
+    "term": "All Over",
+    "definition": "Lisa Maffia",
+    "example": "May 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_14",
+    "term": "Rise & Fall",
+    "definition": "Craig David ft Sting",
+    "example": "May 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_15",
+    "term": "Favourite Things",
+    "definition": "Big Brovaz",
+    "example": "May 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_16",
+    "term": "No Good Advice",
+    "definition": "Girls Aloud",
+    "example": "May 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_17",
+    "term": "Rock Your Body",
+    "definition": "Justin Timberlake",
+    "example": "May 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_18",
+    "term": "Say Goodbye/Love Ain't Gonna Wait for You",
+    "definition": "S Club",
+    "example": "June 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_19",
+    "term": "Fast Food Song",
+    "definition": "Fast Food Rockers",
+    "example": "June 2003 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_20",
+    "term": "Hollywood",
+    "definition": "Madonna",
+    "example": "July 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_21",
+    "term": "Satisfaction",
+    "definition": "Benny Benassi Pts the Biz",
+    "example": "July 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_22",
+    "term": "Never Leave You (Uh Oooh Uh Oooh)",
+    "definition": "Lumidee",
+    "example": "August 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_23",
+    "term": "Pretty Green Eyes",
+    "definition": "Ultrabeat",
+    "example": "August 2003 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_24",
+    "term": "Dance (With U)",
+    "definition": "Lemar",
+    "example": "August 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_25",
+    "term": "White Flag",
+    "definition": "Dido",
+    "example": "September 2003 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_26",
+    "term": "Sweet Dreams My LA Ex",
+    "definition": "Rachel Stevens",
+    "example": "September 2003 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_27",
+    "term": "I Believe In A Thing Called Love",
+    "definition": "The Darkness",
+    "example": "October 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_28",
+    "term": "Baby Boy",
+    "definition": "Beyonce ft Sean Paul",
+    "example": "October 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_29",
+    "term": "Turn Me On",
+    "definition": "Kevin Lyttle",
+    "example": "October 2003 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_30",
+    "term": "Guilty",
+    "definition": "Blue",
+    "example": "November 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_31",
+    "term": "Flip Reverse",
+    "definition": "Blazin' Squad",
+    "example": "November 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_32",
+    "term": "Me Against The Music",
+    "definition": "Britney Spears ft Madonna",
+    "example": "November 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_33",
+    "term": "Jump",
+    "definition": "Girls Aloud",
+    "example": "November 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_34",
+    "term": "I'm Your Man",
+    "definition": "Shane Richie",
+    "example": "December 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_35",
+    "term": "Shut Up",
+    "definition": "Black Eyed Peas",
+    "example": "December 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_36",
+    "term": "Christmas Time (Don't Let the Bells End)",
+    "definition": "The Darkness",
+    "example": "December 2003 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_37",
+    "term": "Milkshake",
+    "definition": "Kelis",
+    "example": "January 2004 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_38",
+    "term": "She Believes (In Me)",
+    "definition": "Ronan Keating",
+    "example": "February 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_39",
+    "term": "Thank You",
+    "definition": "Jamelia",
+    "example": "March 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_40",
+    "term": "My Band",
+    "definition": "D12",
+    "example": "April 2004 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_41",
+    "term": "Air Hostess",
+    "definition": "Busted",
+    "example": "May 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_42",
+    "term": "Dip it Low",
+    "definition": "Christina Milian",
+    "example": "May 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_43",
+    "term": "Trick Me",
+    "definition": "Kelis",
+    "example": "June 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_44",
+    "term": "Come On England",
+    "definition": "4-4-2",
+    "example": "June 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_45",
+    "term": "The Show",
+    "definition": "Girls Aloud",
+    "example": "July 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_46",
+    "term": "Some Girls",
+    "definition": "Rachel Stevens",
+    "example": "July 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_47",
+    "term": "Can't Stand Me Now",
+    "definition": "Libertines",
+    "example": "August 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_48",
+    "term": "Leave (Get Out)",
+    "definition": "Jojo",
+    "example": "September 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_49",
+    "term": "Love Machine",
+    "definition": "Girls Aloud",
+    "example": "September 2004 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_50",
+    "term": "I Hope You Dance",
+    "definition": "Ronan Keating",
+    "example": "October 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_51",
+    "term": "I Believe My Heart",
+    "definition": "Duncan James & Keedie",
+    "example": "October 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_52",
+    "term": "The Love Of Richard Nixon",
+    "definition": "Manic Street Preachers",
+    "example": "October 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_53",
+    "term": "Lose my breath",
+    "definition": "Destiny's Child",
+    "example": "November 2004 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_54",
+    "term": "You Can Do It",
+    "definition": "Ice Cube ft Mack 10 & Ms Toi",
+    "example": "December 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_55",
+    "term": "I Believe In You",
+    "definition": "Kylie Minogue",
+    "example": "December 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_56",
+    "term": "Father and Son",
+    "definition": "Ronan Keating ft Yusuf",
+    "example": "December 2004 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_57",
+    "term": "Empty Souls",
+    "definition": "Manic Street Preachers",
+    "example": "January 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_58",
+    "term": "A Fool Such As I",
+    "definition": "Elvis Presley",
+    "example": "January 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_59",
+    "term": "Only U",
+    "definition": "Ashanti",
+    "example": "February 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_60",
+    "term": "Let Me Love You",
+    "definition": "Mario",
+    "example": "April 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_61",
+    "term": "(You're the) Devil in Disguise",
+    "definition": "Elvis Presley",
+    "example": "April 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_62",
+    "term": "Somewhere Else",
+    "definition": "Razorlight",
+    "example": "April 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_63",
+    "term": "Signs",
+    "definition": "Snoop Dogg Feat Charlie Wilson And Justin Timberlake",
+    "example": "May 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_64",
+    "term": "Feel Good Inc",
+    "definition": "Gorillaz",
+    "example": "May 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_65",
+    "term": "Speed Of Sound",
+    "definition": "Coldplay",
+    "example": "June 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_66",
+    "term": "City Of Blinding Lights",
+    "definition": "U2",
+    "example": "June 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_67",
+    "term": "Crazy Chick",
+    "definition": "CMC",
+    "example": "July 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_68",
+    "term": "We Belong Together",
+    "definition": "Mariah Carey",
+    "example": "July 2005 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_69",
+    "term": "Bad Day",
+    "definition": "Daniel Powter",
+    "example": "August 2005 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_70",
+    "term": "Pon De Replay",
+    "definition": "Rihanna",
+    "example": "September 2005 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_71",
+    "term": "We Be Burnin'",
+    "definition": "Sean Paul",
+    "example": "September 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_72",
+    "term": "Gold Digger",
+    "definition": "Kanye West ft Jamie Foxx",
+    "example": "October 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_73",
+    "term": "Tripping",
+    "definition": "Robbie Williams",
+    "example": "October 2005 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_74",
+    "term": "Let There Be Love",
+    "definition": "Oasis",
+    "example": "December 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_75",
+    "term": "When You Tell Me That You Love Me",
+    "definition": "Westlife ft Diana Ross",
+    "example": "December 2005 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_76",
+    "term": "Run It",
+    "definition": "Chris Brown ft Juelz Santana",
+    "example": "February 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_77",
+    "term": "Put Your Records On",
+    "definition": "Corinne Bailey Rae",
+    "example": "March 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_78",
+    "term": "Beep",
+    "definition": "The Pussycat Dolls ft Will.i.am",
+    "example": "March 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_79",
+    "term": "Nature's Law",
+    "definition": "Embrace",
+    "example": "April 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_80",
+    "term": "One",
+    "definition": "Mary J Blige & U2",
+    "example": "April 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_81",
+    "term": "No Promises",
+    "definition": "Shayne Ward",
+    "example": "April 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_82",
+    "term": "SOS",
+    "definition": "Rihanna",
+    "example": "April 2006 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_83",
+    "term": "Dani California",
+    "definition": "Red Hot Chili Peppers",
+    "example": "May 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_84",
+    "term": "Control Myself",
+    "definition": "LL Cool J ft Jennifer Lopez",
+    "example": "May 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_85",
+    "term": "From Paris To Berlin",
+    "definition": "Infernal",
+    "example": "May 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_86",
+    "term": "Unfaithful",
+    "definition": "Rihanna",
+    "example": "July 2006 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_87",
+    "term": "Ain't No Other Man",
+    "definition": "Christina Aguilera",
+    "example": "August 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_88",
+    "term": "Everytime We Touch",
+    "definition": "Cascada",
+    "example": "August 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_89",
+    "term": "Ridin'",
+    "definition": "Chamillionaire ft Krayzie Bone",
+    "example": "August 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_90",
+    "term": "When You Were Young",
+    "definition": "The Killers",
+    "example": "September 2006 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0306_91",
+    "term": "Yeah Yeah",
+    "definition": "Bodyrox ft Luciana",
+    "example": "November 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_92",
+    "term": "The Saints Are Coming",
+    "definition": "U2 & Green Day",
+    "example": "November 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_93",
+    "term": "My Love",
+    "definition": "Justin Timberlake ft T.I.",
+    "example": "November 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_94",
+    "term": "Boogie 2Nite",
+    "definition": "Booty Luv",
+    "example": "December 2006 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0306_95",
+    "term": "21st Century Christmas/Move It",
+    "definition": "Cliff Richard",
+    "example": "December 2006 — 1 week at No.2"
+  }
+];
+window.QM_NO2S0712_DATA = [
+  {
+    "id": "id_no2s0712_1",
+    "term": "Proper Education",
+    "definition": "Eric Prydz vs Floyd",
+    "example": "January 2007 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_2",
+    "term": "Starz In Their Eyes",
+    "definition": "Just Jack",
+    "example": "January 2007 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_3",
+    "term": "This Ain't a Scene It's an Arms Race",
+    "definition": "Fall Out Boy",
+    "example": "February 2007 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_4",
+    "term": "The Sweet Escape",
+    "definition": "Gwen Stefani ft Akon",
+    "example": "March 2007 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_5",
+    "term": "Girlfriend",
+    "definition": "Avril Lavigne",
+    "example": "April 2007 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_6",
+    "term": "Stop Me",
+    "definition": "Mark Ronson ft Daniel Merriweather",
+    "example": "April 2007 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_7",
+    "term": "Brianstorm",
+    "definition": "Arctic Monkeys",
+    "example": "April 2007 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_8",
+    "term": "Your Love Alone Is Not Enough",
+    "definition": "Manic Street Preachers",
+    "example": "May 2007 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_9",
+    "term": "Makes Me Wonder",
+    "definition": "Maroon 5",
+    "example": "May 2007 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_10",
+    "term": "Real Girl",
+    "definition": "Mutya Buena",
+    "example": "June 2007 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_11",
+    "term": "Icky Thump",
+    "definition": "The White Stripes",
+    "example": "June 2007 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_12",
+    "term": "Any Dream Will Do",
+    "definition": "Lee Mead",
+    "example": "June 2007 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_13",
+    "term": "Foundations",
+    "definition": "Kate Nash",
+    "example": "July 2007 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_14",
+    "term": "Big Girls Don't Cry",
+    "definition": "Fergie",
+    "example": "July 2007 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_15",
+    "term": "Hey There Delilah",
+    "definition": "Plain White T's",
+    "example": "September 2007 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_16",
+    "term": "Ayo Technology",
+    "definition": "50 Cent Featuring Justin Timberlake & Timbaland",
+    "example": "September 2007 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_17",
+    "term": "No U Hang Up/If That's Ok With You",
+    "definition": "Shayne Ward",
+    "example": "October 2007 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_18",
+    "term": "Let Me Think About It",
+    "definition": "Ida Corr vs Fedde Le Grand",
+    "example": "October 2007 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_19",
+    "term": "Valerie",
+    "definition": "Mark Ronson ft Amy Winehouse",
+    "example": "October 2007 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_20",
+    "term": "Rule The World",
+    "definition": "Take That",
+    "example": "November 2007 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_21",
+    "term": "Heartbroken",
+    "definition": "T2 ft Jodie Aysha",
+    "example": "December 2007 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_22",
+    "term": "Crank That (Soulja Boy)",
+    "definition": "Soulja Boy Tell Em",
+    "example": "January 2008 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_23",
+    "term": "Piece Of Me",
+    "definition": "Britney Spears",
+    "example": "January 2008 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_24",
+    "term": "Chasing Pavements",
+    "definition": "Adele",
+    "example": "January 2008 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_25",
+    "term": "Rockstar",
+    "definition": "Nickelback / Dappy ft Brian May",
+    "example": "February 2008, 2 weeks at No.2 & March 2012, 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_26",
+    "term": "What's It Gonna Be",
+    "definition": "H Two O ft Platnum",
+    "example": "March 2008 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_27",
+    "term": "Better in Time/Footprints in the Sand",
+    "definition": "Leona Lewis",
+    "example": "March 2008 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_28",
+    "term": "Low",
+    "definition": "Flo Rida ft T-Pain",
+    "example": "April 2008 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_29",
+    "term": "Black & Gold",
+    "definition": "Sam Sparro",
+    "example": "April 2008 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_30",
+    "term": "Wearing My Rolex",
+    "definition": "Wiley",
+    "example": "May 2008 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_31",
+    "term": "All I Ever Wanted",
+    "definition": "Basshunter",
+    "example": "July 2008 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_32",
+    "term": "One For The Radio",
+    "definition": "McFly",
+    "example": "July 2008 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_33",
+    "term": "The Man Who Can't Be Moved",
+    "definition": "The Script",
+    "example": "August 2008 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_34",
+    "term": "Pjanoo",
+    "definition": "Eric Prydz",
+    "example": "September 2008 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_35",
+    "term": "The Winners Song",
+    "definition": "Geraldine",
+    "example": "October 2008 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_36",
+    "term": "Live Your Life",
+    "definition": "T.I. ft Rihanna",
+    "example": "November 2008 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_37",
+    "term": "Use Somebody",
+    "definition": "Kings of Leon",
+    "example": "December 2008 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_38",
+    "term": "Hallelujah",
+    "definition": "Jeff Buckley",
+    "example": "December 2008 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_39",
+    "term": "Broken Strings",
+    "definition": "James Morrison",
+    "example": "January 2009 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_40",
+    "term": "Day 'n' Nite",
+    "definition": "Kid Cudi vs Crookers",
+    "example": "January 2009 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_41",
+    "term": "Love Story",
+    "definition": "Taylor Swift",
+    "example": "March 2009 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_42",
+    "term": "Just Can't Get Enough",
+    "definition": "The Saturdays",
+    "example": "March 2009 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_43",
+    "term": "Don't Upset The Rhythm (Go Baby Go)",
+    "definition": "Noisettes",
+    "example": "April 2009 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_44",
+    "term": "In For The Kill",
+    "definition": "La Roux",
+    "example": "April 2009 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_45",
+    "term": "Man In The Mirror",
+    "definition": "Michael Jackson",
+    "example": "July 2009 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_46",
+    "term": "Supernova",
+    "definition": "Mr Hudson ft Kanye West",
+    "example": "August 2009 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_47",
+    "term": "Get Sexy",
+    "definition": "Sugababes",
+    "example": "September 2009 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_48",
+    "term": "Empire State Of Mind",
+    "definition": "Jay-Z ft Alicia Keys",
+    "example": "October 2009 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_49",
+    "term": "Forever Is Over",
+    "definition": "The Saturdays",
+    "example": "October 2009 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_50",
+    "term": "Bodies",
+    "definition": "Robbie Williams",
+    "example": "October 2009 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_51",
+    "term": "What About Now",
+    "definition": "Westlife",
+    "example": "November 2009 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_52",
+    "term": "Happy",
+    "definition": "Leona Lewis",
+    "example": "November 2009 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_53",
+    "term": "Russian Roulette",
+    "definition": "Rihanna",
+    "example": "December 2009 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_54",
+    "term": "Riverside (Let's Go)",
+    "definition": "Sidney Samson ft Wizard Sleeve",
+    "example": "January 2010 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_55",
+    "term": "Don't Stop Believin'",
+    "definition": "Glee Cast",
+    "example": "February 2010 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_56",
+    "term": "Under Pressure (Ice Ice Baby)",
+    "definition": "Jedward ft Vanilla Ice",
+    "example": "February 2010 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_57",
+    "term": "You Got The Dirtee Love",
+    "definition": "Florence & The Machine And Dizzee Rascal",
+    "example": "February 2010 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_58",
+    "term": "Rude Boy",
+    "definition": "Rihanna",
+    "example": "March 2010 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_59",
+    "term": "Ridin' Solo",
+    "definition": "Jason Derulo",
+    "example": "May 2010 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_60",
+    "term": "Frisky",
+    "definition": "Tinie Tempah ft Labrinth",
+    "example": "June 2010 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_61",
+    "term": "Wavin' Flag",
+    "definition": "K'naan",
+    "example": "June 2010 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_62",
+    "term": "Love The Way You Lie",
+    "definition": "Eminem ft Rihanna",
+    "example": "July 2010 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_63",
+    "term": "Teenage Dream",
+    "definition": "Katy Perry",
+    "example": "September 2010 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_64",
+    "term": "Shame",
+    "definition": "Robbie Williams & Gary Barlow",
+    "example": "October 2010 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_65",
+    "term": "Heart Vacancy",
+    "definition": "The Wanted",
+    "example": "October 2010 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_66",
+    "term": "The Flood",
+    "definition": "Take That",
+    "example": "November 2010 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_67",
+    "term": "Your Song",
+    "definition": "Ellie Goulding",
+    "example": "December 2010 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_68",
+    "term": "Whip My Hair",
+    "definition": "Willow",
+    "example": "December 2010 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_69",
+    "term": "Do It Like A Dude",
+    "definition": "Jessie J",
+    "example": "January 2011 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_70",
+    "term": "Rolling In The Deep",
+    "definition": "Adele",
+    "example": "January 2011 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_71",
+    "term": "Champion",
+    "definition": "Chipmunk ft Chris Brown",
+    "example": "February 2011 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_72",
+    "term": "Unorthodox",
+    "definition": "Wretch 32 ft Example",
+    "example": "April 2011 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_73",
+    "term": "I Need A Dollar",
+    "definition": "Aloe Blacc",
+    "example": "June 2011 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_74",
+    "term": "Bounce",
+    "definition": "Calvin Harris ft Kelis",
+    "example": "June 2011 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_75",
+    "term": "How We Roll",
+    "definition": "Loick Essien ft Tanya Lacey",
+    "example": "July 2011 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_76",
+    "term": "Heaven",
+    "definition": "Emeli Sande",
+    "example": "August 2011 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_77",
+    "term": "Feel So Close",
+    "definition": "Calvin Harris",
+    "example": "September 2011 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_78",
+    "term": "Moves Like Jagger",
+    "definition": "Maroon 5 ft Christina Aguilera",
+    "example": "September 2011 — 7 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_79",
+    "term": "Lightning",
+    "definition": "The Wanted",
+    "example": "October 2011 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_80",
+    "term": "Earthquake",
+    "definition": "Labrinth ft Tinie Tempah",
+    "example": "November 2011 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_81",
+    "term": "Take A Chance On Me",
+    "definition": "JLS",
+    "example": "November 2011 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_82",
+    "term": "Mama Do The Hump",
+    "definition": "Rizzle Kicks",
+    "example": "January 2012 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_83",
+    "term": "Alone Again",
+    "definition": "Alyssa Reid ft Jump Smokers",
+    "example": "February 2012 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_84",
+    "term": "Next To Me",
+    "definition": "Emeli Sande",
+    "example": "February 2012 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_85",
+    "term": "Starships",
+    "definition": "Nicki Minaj",
+    "example": "March 2012 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_86",
+    "term": "She Doesn't Mind",
+    "definition": "Sean Paul",
+    "example": "March 2012 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_87",
+    "term": "Boyfriend",
+    "definition": "Justin Bieber",
+    "example": "April 2012 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_88",
+    "term": "Can't Say No",
+    "definition": "Conor Maynard",
+    "example": "April 2012 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_89",
+    "term": "Let's Go",
+    "definition": "Calvin Harris ft Ne-Yo",
+    "example": "May 2012 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_90",
+    "term": "Chasing The Sun",
+    "definition": "The Wanted",
+    "example": "June 2012 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_91",
+    "term": "Whistle",
+    "definition": "Flo Rida",
+    "example": "June 2012 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_92",
+    "term": "Don't Wake Me Up",
+    "definition": "Chris Brown",
+    "example": "July 2012 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_93",
+    "term": "We'll Be Coming Back",
+    "definition": "Calvin Harris ft Example",
+    "example": "August 2012 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_94",
+    "term": "You Bring Me Joy",
+    "definition": "Amelia Lily",
+    "example": "September 2012 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_95",
+    "term": "Say Nothing",
+    "definition": "Example",
+    "example": "September 2012 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_96",
+    "term": "Skyfall",
+    "definition": "Adele",
+    "example": "October 2012 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s0712_97",
+    "term": "Locked Out of Heaven",
+    "definition": "Bruno Mars",
+    "example": "November 2012 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s0712_98",
+    "term": "Something New",
+    "definition": "Girls Aloud",
+    "example": "December 2012 — 1 week at No.2"
+  }
+];
+window.QM_NO2S1318_DATA = [
+  {
+    "id": "id_no2s1318_1",
+    "term": "I Knew You Were Trouble",
+    "definition": "Taylor Swift",
+    "example": "January 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_2",
+    "term": "My Life",
+    "definition": "50 Cent Feat. Eminem & Adam Levine",
+    "example": "January 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_3",
+    "term": "White Noise",
+    "definition": "Disclosure Feat. AlunaGeorge",
+    "example": "February 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_4",
+    "term": "Pompeii",
+    "definition": "Bastille",
+    "example": "March 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_5",
+    "term": "When I Was Your Man",
+    "definition": "Bruno Mars",
+    "example": "March 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_6",
+    "term": "Just Give Me a Reason",
+    "definition": "Pink ft Nate Ruess",
+    "example": "April 2013 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_7",
+    "term": "Ding-Dong the Witch Is Dead",
+    "definition": "Wizard of Oz Film Cast",
+    "example": "April 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_8",
+    "term": "Thatpower",
+    "definition": "Will.i.am ft Justin Bieber",
+    "example": "April 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_9",
+    "term": "So Good to Me",
+    "definition": "Chris Malinchak",
+    "example": "May 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_10",
+    "term": "Let Her Go",
+    "definition": "Passenger",
+    "example": "May 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_11",
+    "term": "The Other Side",
+    "definition": "Jason Derulo",
+    "example": "June 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_12",
+    "term": "Best Song Ever",
+    "definition": "One Direction",
+    "example": "August 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_13",
+    "term": "Can We Dance",
+    "definition": "Vamps",
+    "example": "October 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_14",
+    "term": "Berzerk",
+    "definition": "Eminem",
+    "example": "October 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_15",
+    "term": "You're Nobody 'Til Somebody Loves You",
+    "definition": "James Arthur",
+    "example": "November 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_16",
+    "term": "Of the Night",
+    "definition": "Bastille",
+    "example": "November 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_17",
+    "term": "Let Me Go",
+    "definition": "Gary Barlow",
+    "example": "December 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_18",
+    "term": "Story of My Life",
+    "definition": "One Direction",
+    "example": "December 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_19",
+    "term": "Hey Brother",
+    "definition": "Avicii",
+    "example": "December 2013 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_20",
+    "term": "Feelin' Myself",
+    "definition": "Will.i.am Feat. Miley Cyrus, Wiz Khalifa, French Montana & DJ Mustard",
+    "example": "February 2014 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_21",
+    "term": "Stay the Night",
+    "definition": "Zedd ft Hayley Williams",
+    "example": "February 2014 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_22",
+    "term": "All of Me",
+    "definition": "John Legend",
+    "example": "April 2014 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_23",
+    "term": "Last Night",
+    "definition": "Vamps",
+    "example": "April 2014 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_24",
+    "term": "Don't Stop",
+    "definition": "5 Seconds of Summer",
+    "example": "June 2014 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_25",
+    "term": "Maps",
+    "definition": "Maroon 5",
+    "example": "September 2014 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_26",
+    "term": "Won't Look Back",
+    "definition": "Duke Dumont",
+    "example": "September 2014 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_27",
+    "term": "Shake It Off",
+    "definition": "Taylor Swift",
+    "example": "October 2014 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_28",
+    "term": "Real Love",
+    "definition": "Clean Bandit ft Jess Glynne",
+    "example": "November 2014 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_29",
+    "term": "You Got It All",
+    "definition": "Union J",
+    "example": "December 2014 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_30",
+    "term": "Wish You Were Mine",
+    "definition": "Philip George",
+    "example": "January 2015 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_31",
+    "term": "Lips Are Movin",
+    "definition": "Meghan Trainor",
+    "example": "January 2015 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_32",
+    "term": "Take Me to Church",
+    "definition": "Hozier",
+    "example": "February 2015 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_33",
+    "term": "Hold Back the River",
+    "definition": "James Bay",
+    "example": "April 2015 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_34",
+    "term": "Bloodstream",
+    "definition": "Ed Sheeran",
+    "example": "April 2015 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_35",
+    "term": "Jealous",
+    "definition": "Nick Jonas",
+    "example": "April 2015 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_36",
+    "term": "Bills",
+    "definition": "Lunchmoney Lewis",
+    "example": "May 2015 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_37",
+    "term": "Somebody",
+    "definition": "Natalie La Rose ft Jeremih",
+    "example": "June 2015 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_38",
+    "term": "Lean on",
+    "definition": "Major Lazer ft Mo & DJ Snake",
+    "example": "June 2015 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_39",
+    "term": "Shine",
+    "definition": "Years & Years",
+    "example": "July 2015 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_40",
+    "term": "How Deep Is Your Love",
+    "definition": "Calvin Harris & Disciples",
+    "example": "August 2015 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_41",
+    "term": "Ain't Nobody (Loves Me Better)",
+    "definition": "Felix Jaehn ft Jasmine Thompson",
+    "example": "September 2015 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_42",
+    "term": "Locked Away",
+    "definition": "R City ft Adam Levine",
+    "example": "October 2015 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_43",
+    "term": "Perfect",
+    "definition": "One Direction",
+    "example": "October 2015 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_44",
+    "term": "Fast Car",
+    "definition": "Jonas Blue & Dakota",
+    "example": "February 2016 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_45",
+    "term": "Work",
+    "definition": "Rihanna ft Drake",
+    "example": "March 2016 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_46",
+    "term": "Work From Home",
+    "definition": "Fifth Harmony ft Ty Dolla Sign",
+    "example": "April 2016 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_47",
+    "term": "Cheap Thrills",
+    "definition": "Sia",
+    "example": "April 2016 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_48",
+    "term": "This Is What You Came for",
+    "definition": "Calvin Harris ft Rihanna",
+    "example": "May 2016 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_49",
+    "term": "Can't Stop the Feeling",
+    "definition": "Justin Timberlake",
+    "example": "May 2016 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_50",
+    "term": "This Girl",
+    "definition": "Kungs vs Cookin' on 3 Burners",
+    "example": "June 2016 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_51",
+    "term": "Don't Let Me Down",
+    "definition": "The Chainsmokers ft Daya",
+    "example": "July 2016 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_52",
+    "term": "Perfect Strangers",
+    "definition": "Jonas Blue ft Jp Cooper",
+    "example": "July 2016 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_53",
+    "term": "Dancing on My Own",
+    "definition": "Calum Scott",
+    "example": "August 2016 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_54",
+    "term": "Let Me Love You",
+    "definition": "DJ Snake ft Justin Bieber",
+    "example": "August 2016 — 6 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_55",
+    "term": "Starboy",
+    "definition": "The Weeknd ft Daft Punk",
+    "example": "October 2016 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_56",
+    "term": "Black Beatles",
+    "definition": "Rae Sremmurd ft Gucci Mane",
+    "example": "December 2016 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_57",
+    "term": "Just Hold on",
+    "definition": "Louis Tomlinson & Steve Aoki",
+    "example": "December 2016 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_58",
+    "term": "Human",
+    "definition": "Rag'n'bone Man",
+    "example": "December 2016 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_59",
+    "term": "I Would Like",
+    "definition": "Zara Larsson",
+    "example": "January 2017 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_60",
+    "term": "Castle on the Hill",
+    "definition": "Ed Sheeran",
+    "example": "January 2017 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_61",
+    "term": "How Would You Feel (Paean)",
+    "definition": "Ed Sheeran",
+    "example": "March 2017 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_62",
+    "term": "Something Just Like This",
+    "definition": "The Chainsmokers & Coldplay",
+    "example": "March 2017 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_63",
+    "term": "Galway Girl",
+    "definition": "Ed Sheeran",
+    "example": "March 2017 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_64",
+    "term": "One Last Time",
+    "definition": "Ariana Grande",
+    "example": "June 2017 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_65",
+    "term": "Unforgettable",
+    "definition": "French Montana ft Swae Lee",
+    "example": "August 2017 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_66",
+    "term": "Friends",
+    "definition": "Justin Bieber & Bloodpop",
+    "example": "August 2017 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_67",
+    "term": "Anywhere",
+    "definition": "Rita Ora",
+    "example": "November 2017 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_68",
+    "term": "Dimelo",
+    "definition": "Rak-Su Featuring Wyclef Jean & Naughty Boy",
+    "example": "December 2017 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_69",
+    "term": "Barking",
+    "definition": "Ramz",
+    "example": "January 2018 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_70",
+    "term": "Paradise",
+    "definition": "George Ezra",
+    "example": "April 2018 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_71",
+    "term": "No Tears Left to Cry",
+    "definition": "Ariana Grande",
+    "example": "May 2018 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1318_72",
+    "term": "Don't Matter to Me",
+    "definition": "Drake ft Michael Jackson",
+    "example": "July 2018 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_73",
+    "term": "Happier",
+    "definition": "Marshmello ft Bastille",
+    "example": "October 2018 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1318_74",
+    "term": "Woman Like Me",
+    "definition": "Little Mix ft Nicki Minaj",
+    "example": "November 2018 — 3 weeks at No.2"
+  }
+];
+window.QM_NO2S1926_DATA = [
+  {
+    "id": "id_no2s1926_1",
+    "term": "Nothing Breaks Like a Heart",
+    "definition": "Mark Ronson ft Miley Cyrus",
+    "example": "January 2019 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_2",
+    "term": "Giant",
+    "definition": "Calvin Harris & Rag'n'bone Man",
+    "example": "March 2019 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_3",
+    "term": "Bad Guy",
+    "definition": "Billie Eilish",
+    "example": "April 2019 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_4",
+    "term": "Piece of Your Heart",
+    "definition": "Meduza ft Goodboys",
+    "example": "May 2019 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_5",
+    "term": "Higher Love",
+    "definition": "Kygo & Whitney Houston",
+    "example": "September 2019 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_6",
+    "term": "Taste (Make It Shake)",
+    "definition": "Aitch",
+    "example": "September 2019 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_7",
+    "term": "Don't Call Me Angel (Charlie's Angels)",
+    "definition": "Ariana Grande, Miley Cyrus & Lana Del Rey",
+    "example": "September 2019 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_8",
+    "term": "Ride It",
+    "definition": "Regard",
+    "example": "October 2019 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_9",
+    "term": "Highest in the Room",
+    "definition": "Travis Scott",
+    "example": "October 2019 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_10",
+    "term": "Don't Start Now",
+    "definition": "Dua Lipa",
+    "example": "November 2019 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_11",
+    "term": "The Box",
+    "definition": "Roddy Ricch",
+    "example": "January 2020 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_12",
+    "term": "Say So",
+    "definition": "Doja Cat",
+    "example": "May 2020 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_13",
+    "term": "Ain't It Different",
+    "definition": "Headie One Feat. AJ Tracey & Stormzy",
+    "example": "October 2020 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_14",
+    "term": "Therefore I Am",
+    "definition": "Billie Eilish",
+    "example": "November 2020 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_15",
+    "term": "Afterglow",
+    "definition": "Ed Sheeran",
+    "example": "January 2021 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_16",
+    "term": "Don't Play",
+    "definition": "Anne-Marie X KSI X Digital Farm Animals",
+    "example": "January 2021 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_17",
+    "term": "Without You",
+    "definition": "The Kid LAROI",
+    "example": "February 2021 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_18",
+    "term": "Calling My Phone",
+    "definition": "Lil Tjay & 6LACK",
+    "example": "February 2021 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_19",
+    "term": "Latest Trends",
+    "definition": "A1 & J1",
+    "example": "March 2021 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_20",
+    "term": "Peaches",
+    "definition": "Justin Bieber Feat. Daniel Caesar & Giveon",
+    "example": "April 2021 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_21",
+    "term": "Save Your Tears",
+    "definition": "The Weeknd",
+    "example": "June 2021 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_22",
+    "term": "Holiday",
+    "definition": "KSI",
+    "example": "July 2021 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_23",
+    "term": "Stay",
+    "definition": "The Kid LAROI & Justin Bieber",
+    "example": "July 2021 — 6 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_24",
+    "term": "Clash",
+    "definition": "Dave ft Stormzy",
+    "example": "August 2021 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_25",
+    "term": "Girls Want Girls",
+    "definition": "Drake ft Lil Baby",
+    "example": "September 2021 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_26",
+    "term": "Oh My God",
+    "definition": "Adele",
+    "example": "December 2021 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_27",
+    "term": "Peru",
+    "definition": "Fireboy Dml & Ed Sheeran",
+    "example": "February 2022 — 6 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_28",
+    "term": "The Joker and the Queen",
+    "definition": "Ed Sheeran",
+    "example": "February 2022 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_29",
+    "term": "Baby",
+    "definition": "Aitch Feat. Ashanti",
+    "example": "March 2022 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_30",
+    "term": "First Class",
+    "definition": "Jack Harlow",
+    "example": "April 2022 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_31",
+    "term": "Space Man",
+    "definition": "Sam Ryder",
+    "example": "May 2022 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_32",
+    "term": "Late Night Talking",
+    "definition": "Harry Styles",
+    "example": "June 2022 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_33",
+    "term": "Go",
+    "definition": "Cat Burns",
+    "example": "June 2022 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_34",
+    "term": "Doja",
+    "definition": "Central Cee",
+    "example": "August 2022 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_35",
+    "term": "Break My Soul",
+    "definition": "Beyonce",
+    "example": "August 2022 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_36",
+    "term": "Made You Look",
+    "definition": "Meghan Trainor",
+    "example": "December 2022 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_37",
+    "term": "Boy's a Liar",
+    "definition": "Pinkpantheress",
+    "example": "March 2023 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_38",
+    "term": "People",
+    "definition": "Libianca",
+    "example": "April 2023 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_39",
+    "term": "Daylight",
+    "definition": "David Kushner",
+    "example": "May 2023 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_40",
+    "term": "Tattoo",
+    "definition": "Loreen",
+    "example": "May 2023 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_41",
+    "term": "Who Told You",
+    "definition": "J Hus ft Drake",
+    "example": "June 2023 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_42",
+    "term": "Cruel Summer",
+    "definition": "Taylor Swift",
+    "example": "September 2023 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_43",
+    "term": "Prada",
+    "definition": "cassö, RAYE & D-Block Europe",
+    "example": "October 2023 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_44",
+    "term": "Now That We Don't Talk (Taylor's Version)",
+    "definition": "Taylor Swift",
+    "example": "November 2023 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_45",
+    "term": "Houdini",
+    "definition": "Dua Lipa",
+    "example": "November 2023 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_46",
+    "term": "You're Christmas to Me",
+    "definition": "Sam Ryder",
+    "example": "December 2023 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_47",
+    "term": "Murder on the Dancefloor",
+    "definition": "Sophie Ellis-Bextor",
+    "example": "January 2024 — 5 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_48",
+    "term": "Yes and",
+    "definition": "Ariana Grande",
+    "example": "January 2024 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_49",
+    "term": "Lose Control",
+    "definition": "Teddy Swims",
+    "example": "March 2024 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_50",
+    "term": "We Can't Be Friends (Wait for Your Love)",
+    "definition": "Ariana Grande",
+    "example": "March 2024 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_51",
+    "term": "I Had Some Help",
+    "definition": "Post Malone Feat. Morgan Wallen",
+    "example": "May 2024 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_52",
+    "term": "Lunch",
+    "definition": "Billie Eilish",
+    "example": "May 2024 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_53",
+    "term": "Birds of a Feather",
+    "definition": "Billie Eilish",
+    "example": "August 2024 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_54",
+    "term": "Good Luck Babe",
+    "definition": "Chappell Roan",
+    "example": "August 2024 — 6 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_55",
+    "term": "Die With a Smile",
+    "definition": "Lady Gaga & Bruno Mars",
+    "example": "October 2024 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_56",
+    "term": "Apt",
+    "definition": "Rosé & Bruno Mars",
+    "example": "November 2024 — 7 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_57",
+    "term": "The Giver",
+    "definition": "Chappell Roan",
+    "example": "March 2025 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_58",
+    "term": "Love Me Not",
+    "definition": "Ravyn Lenae",
+    "example": "May 2025 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_59",
+    "term": "No Broke Boys",
+    "definition": "Disco Lines & Tinashe",
+    "example": "August 2025 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_60",
+    "term": "So Easy (to Fall in Love)",
+    "definition": "Olivia Dean",
+    "example": "February 2026 — 2 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_61",
+    "term": "Iloveitiloveitiloveit",
+    "definition": "Bella Kay",
+    "example": "March 2026 — 4 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_62",
+    "term": "Swim",
+    "definition": "BTS",
+    "example": "April 2026 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_63",
+    "term": "Dracula",
+    "definition": "Tame Impala",
+    "example": "April 2026 — 3 weeks at No.2"
+  },
+  {
+    "id": "id_no2s1926_64",
+    "term": "Janice Stfu",
+    "definition": "Drake",
+    "example": "May 2026 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_65",
+    "term": "The Cure",
+    "definition": "Olivia Rodrigo",
+    "example": "June 2026 — 1 week at No.2"
+  },
+  {
+    "id": "id_no2s1926_66",
+    "term": "Stupid Song",
+    "definition": "Olivia Rodrigo",
+    "example": "June 2026 — 1 week at No.2"
+  }
+];
+window.QM_NO1S5259_DATA = [
+  {
+    "id": 1,
+    "term": "Here in My Heart",
+    "definition": "Al Martino",
+    "example": "November 1952 · 9 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "You Belong to Me",
+    "definition": "Jo Stafford",
+    "example": "January 1953 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Comes A-Long A-Love",
+    "definition": "Kay Starr",
+    "example": "January 1953 · 1 week at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Outside of Heaven",
+    "definition": "Eddie Fisher",
+    "example": "January 1953 · 1 week at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Don't Let the Stars Get in Your Eyes",
+    "definition": "Perry Como and the Ramblers",
+    "example": "February 1953 · 5 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "She Wears Red Feathers",
+    "definition": "Guy Mitchell",
+    "example": "March 1953 · 4 weeks at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Broken Wings",
+    "definition": "Stargazers",
+    "example": "April 1953 · 1 week at No.1"
+  },
+  {
+    "id": 8,
+    "term": "(How Much Is) That Doggie in the Window",
+    "definition": "Lita Roza",
+    "example": "April 1953 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "I Believe",
+    "definition": "Frankie Laine",
+    "example": "April 1953 · 18 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "I'm Walking Behind You",
+    "definition": "Eddie Fisher With Sally Sweetland",
+    "example": "June 1953 · 1 week at No.1"
+  },
+  {
+    "id": 11,
+    "term": "The Song From the Moulin Rouge",
+    "definition": "Mantovani",
+    "example": "August 1953 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Look at That Girl",
+    "definition": "Guy Mitchell",
+    "example": "September 1953 · 6 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Hey Joe",
+    "definition": "Frankie Laine",
+    "example": "October 1953 · 2 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Answer Me",
+    "definition": "David Whitfield / Frankie Laine",
+    "example": "November 1953 · 2 versions at No.1 (1 week and 8 weeks)"
+  },
+  {
+    "id": 15,
+    "term": "Oh Mein Papa",
+    "definition": "Eddie Calvert",
+    "example": "January 1954 · 9 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "I See the Moon",
+    "definition": "Stargazers",
+    "example": "March 1954 · 6 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Secret Love",
+    "definition": "Doris Day",
+    "example": "April 1954 · 9 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Such a Night",
+    "definition": "Johnnie Ray",
+    "example": "May 1954 · 1 week at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Cara Mia",
+    "definition": "David Whitfield With Mantovani and His Orchestra",
+    "example": "July 1954 · 10 weeks at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Little Things Mean a Lot",
+    "definition": "Kitty Kallen",
+    "example": "September 1954 · 1 week at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Three Coins in the Fountain",
+    "definition": "Frank Sinatra",
+    "example": "September 1954 · 3 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Hold My Hand",
+    "definition": "Don Cornell",
+    "example": "October 1954 · 5 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "My Son My Son",
+    "definition": "Vera Lynn",
+    "example": "November 1954 · 2 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "This Ole House",
+    "definition": "Rosemary Clooney",
+    "example": "November 1954 · 1 week at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Let's Have Another Party",
+    "definition": "Winifred Atwell",
+    "example": "December 1954 · 5 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "The Finger of Suspicion",
+    "definition": "Dickie Valentine With the Stargazers",
+    "example": "January 1955 · 3 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Mambo Italiano",
+    "definition": "Rosemary Clooney and the Mellomen",
+    "example": "January 1955 · 3 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Softly Softly",
+    "definition": "Ruby Murray",
+    "example": "February 1955 · 3 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Give Me Your Word",
+    "definition": "Tennessee Ernie Ford",
+    "example": "March 1955 · 7 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Cherry Pink and Apple Blossom White",
+    "definition": "Perez Prado And His Orchestra / Eddie Calvert",
+    "example": "April 1955 and May 1955 · 2 versions at No.1 (2 weeks and 4 weeks)"
+  },
+  {
+    "id": 31,
+    "term": "Stranger in Paradise",
+    "definition": "Tony Bennett",
+    "example": "May 1955 · 2 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Unchained Melody",
+    "definition": "Jimmy Young",
+    "example": "June 1955 · 3 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Dreamboat",
+    "definition": "Alma Cogan",
+    "example": "July 1955 · 2 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Rose Marie",
+    "definition": "Slim Whitman",
+    "example": "July 1955 · 11 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "The Man From Laramie",
+    "definition": "Jimmy Young",
+    "example": "October 1955 · 4 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Hernando's Hideaway",
+    "definition": "Johnston Brothers",
+    "example": "November 1955 · 2 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Rock Around the Clock",
+    "definition": "Bill Haley and His Comets",
+    "example": "November 1955 · 5 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Christmas Alphabet",
+    "definition": "Dickie Valentine",
+    "example": "December 1955 · 3 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Sixteen Tons",
+    "definition": "Tennessee Ernie Ford",
+    "example": "January 1956 · 4 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Memories Are Made of This",
+    "definition": "Dean Martin",
+    "example": "February 1956 · 4 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "It's Almost Tomorrow",
+    "definition": "Dreamweavers",
+    "example": "March 1956 · 3 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Rock and Roll Waltz",
+    "definition": "Kay Starr",
+    "example": "March 1956 · 1 week at No.1"
+  },
+  {
+    "id": 43,
+    "term": "The Poor People of Paris",
+    "definition": "Winifred Atwell",
+    "example": "April 1956 · 3 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "No Other Love",
+    "definition": "Ronnie Hilton",
+    "example": "May 1956 · 6 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "I'll Be Home",
+    "definition": "Pat Boone",
+    "example": "June 1956 · 5 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Why Do Fools Fall in Love",
+    "definition": "Teenagers Featuring Frankie Lymon",
+    "example": "July 1956 · 3 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Whatever Will Be Will Be (Que Sera Sera)",
+    "definition": "Doris Day",
+    "example": "August 1956 · 6 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Lay Down Your Arms",
+    "definition": "Anne Shelton",
+    "example": "September 1956 · 4 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "A Woman in Love",
+    "definition": "Frankie Laine",
+    "example": "October 1956 · 4 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Just Walkin' in the Rain",
+    "definition": "Johnnie Ray",
+    "example": "November 1956 · 7 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Singing the Blues",
+    "definition": "Guy Mitchell / Tommy Steele and the Steelmen",
+    "example": "January 1957 · 2 versions at No.1 (2 weeks and 1 week)"
+  },
+  {
+    "id": 52,
+    "term": "The Garden Of Eden",
+    "definition": "Frankie Vaughan",
+    "example": "January 1957 · 4 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Young Love",
+    "definition": "Tab Hunter",
+    "example": "February 1957 · 7 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Cumberland Gap",
+    "definition": "Lonnie Donegan",
+    "example": "April 1957 · 5 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Rock-A-Billy",
+    "definition": "Guy Mitchell",
+    "example": "May 1957 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Butterfly",
+    "definition": "Andy Williams",
+    "example": "May 1957 · 2 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Yes Tonight Josephine",
+    "definition": "Johnnie Ray",
+    "example": "June 1957 · 3 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Gamblin' Man / Puttin' On The Style",
+    "definition": "Lonnie Donegan",
+    "example": "June 1957 · 2 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "All Shook Up",
+    "definition": "Elvis Presley",
+    "example": "July 1957 · 7 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Diana",
+    "definition": "Paul Anka",
+    "example": "August 1957 · 9 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "That'll Be The Day",
+    "definition": "The Crickets",
+    "example": "November 1957 · 3 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Mary's Boy Child",
+    "definition": "Harry Belafonte",
+    "example": "November 1957 · 7 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Great Balls Of Fire",
+    "definition": "Jerry Lee Lewis",
+    "example": "January 1958 · 2 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Jailhouse Rock",
+    "definition": "Elvis Presley",
+    "example": "January 1958 · 3 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "The Story Of My Life",
+    "definition": "Michael Holliday",
+    "example": "February 1958 · 2 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Magic Moments",
+    "definition": "Perry Como",
+    "example": "March 1958 · 8 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Whole Lotta Woman",
+    "definition": "Marvin Rainwater",
+    "example": "April 1958 · 3 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Who's Sorry Now",
+    "definition": "Connie Francis",
+    "example": "May 1958 · 6 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "On The Street Where You Live",
+    "definition": "Vic Damone",
+    "example": "June 1958 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "All I Have To Do Is Dream / Claudette",
+    "definition": "The Everly Brothers",
+    "example": "July 1958 · 7 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "When",
+    "definition": "Kalin Twins",
+    "example": "August 1958 · 5 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Stupid Cupid / Carolina Moon",
+    "definition": "Connie Francis",
+    "example": "September 1958 · 6 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "It's All In The Game",
+    "definition": "Tommy Edwards",
+    "example": "November 1958 · 3 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Hoots Mon",
+    "definition": "Lord Rockingham's XI",
+    "example": "November 1958 · 3 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "It's Only Make Believe",
+    "definition": "Conway Twitty",
+    "example": "December 1958 · 5 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "The Day The Rains Came",
+    "definition": "Jane Morgan",
+    "example": "January 1959 · 1 week at No.1"
+  },
+  {
+    "id": 77,
+    "term": "One Night / I Got Stung",
+    "definition": "Elvis Presley",
+    "example": "January 1959 · 3 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "As I Love You",
+    "definition": "Shirley Bassey",
+    "example": "February 1959 · 4 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Smoke Gets In Your Eyes",
+    "definition": "The Platters",
+    "example": "March 1959 · 1 week at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Side Saddle",
+    "definition": "Russ Conway",
+    "example": "March 1959 · 4 weeks at No.1"
+  },
+  {
+    "id": 81,
+    "term": "It Doesn't Matter Anymore",
+    "definition": "Buddy Holly",
+    "example": "April 1959 · 3 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "A Fool Such As I / I Need Your Love Tonight",
+    "definition": "Elvis Presley",
+    "example": "May 1959 · 5 weeks at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Roulette",
+    "definition": "Russ Conway",
+    "example": "June 1959 · 2 weeks at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Dream Lover",
+    "definition": "Bobby Darin",
+    "example": "July 1959 · 4 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Living Doll",
+    "definition": "Cliff Richard and the Drifters",
+    "example": "August 1959 · 6 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "Only Sixteen",
+    "definition": "Craig Douglas",
+    "example": "September 1959 · 4 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Here Comes Summer",
+    "definition": "Jerry Keller",
+    "example": "October 1959 · 1 week at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Mack The Knife",
+    "definition": "Bobby Darin",
+    "example": "October 1959 · 2 weeks at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Travellin' Light",
+    "definition": "Cliff Richard and The Shadows",
+    "example": "October 1959 · 5 weeks at No.1"
+  },
+  {
+    "id": 90,
+    "term": "What Do You Want?",
+    "definition": "Adam Faith",
+    "example": "December 1959 · 3 weeks at No.1"
+  },
+  {
+    "id": 91,
+    "term": "What Do You Want to Make Those Eyes at Me For?",
+    "definition": "Emile Ford and the Checkmates",
+    "example": "December 1959 · 6 weeks at No.1"
+  }
+];
+window.QM_NO1S6064_DATA = [
+  {
+    "id": 1,
+    "term": "Starry Eyed",
+    "definition": "Michael Holliday",
+    "example": "January 1960 · 1 week at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Why",
+    "definition": "Anthony Newley",
+    "example": "February 1960 · 4 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Poor Me",
+    "definition": "Adam Faith",
+    "example": "March 1960 · 2 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Running Bear",
+    "definition": "Johnny Preston",
+    "example": "March 1960 · 2 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "My Old Man's A Dustman",
+    "definition": "Lonnie Donegan",
+    "example": "April 1960 · 4 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Do You Mind?",
+    "definition": "Anthony Newley",
+    "example": "April 1960 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Cathy's Clown",
+    "definition": "The Everly Brothers",
+    "example": "May 1960 · 7 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Three Steps To Heaven",
+    "definition": "Eddie Cochran",
+    "example": "June 1960 · 2 weeks at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Good Timin'",
+    "definition": "Jimmy Jones",
+    "example": "July 1960 · 3 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Please Don't Tease",
+    "definition": "Cliff Richard",
+    "example": "July 1960 · 3 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Shakin' All Over",
+    "definition": "Johnny Kidd & the Pirates",
+    "example": "August 1960 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Apache",
+    "definition": "The Shadows",
+    "example": "August 1960 · 5 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Tell Laura I Love Her",
+    "definition": "Ricky Valance",
+    "example": "October 1960 · 3 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Only The Lonely",
+    "definition": "Roy Orbison",
+    "example": "October 1960 · 2 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "It's Now or Never",
+    "definition": "Elvis Presley",
+    "example": "November 1960 · 8 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "I Love You",
+    "definition": "Cliff Richard",
+    "example": "December 1960 · 2 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Poetry In Motion",
+    "definition": "Johnny Tillotson",
+    "example": "January 1961 · 2 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Are You Lonesome Tonight?",
+    "definition": "Elvis Presley",
+    "example": "January 1961 · 4 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Sailor",
+    "definition": "Petula Clark",
+    "example": "February 1961 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Walk Right Back / Ebony Eyes",
+    "definition": "The Everly Brothers",
+    "example": "March 1961 · 3 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Wooden Heart",
+    "definition": "Elvis Presley",
+    "example": "March 1961 · 6 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Blue Moon",
+    "definition": "Marcels",
+    "example": "May 1961 · 2 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "On The Rebound",
+    "definition": "Floyd Cramer",
+    "example": "May 1961 · 1 week at No.1"
+  },
+  {
+    "id": 24,
+    "term": "You're Driving Me Crazy",
+    "definition": "Temperance Seven",
+    "example": "May 1961 · 1 week at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Surrender",
+    "definition": "Elvis Presley",
+    "example": "June 1961 · 4 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Runaway",
+    "definition": "Del Shannon",
+    "example": "July 1961 · 3 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Temptation",
+    "definition": "The Everly Brothers",
+    "example": "July 1961 · 2 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Well I Ask You",
+    "definition": "Eden Kane",
+    "example": "August 1961 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "You Don't Know",
+    "definition": "Helen Shapiro",
+    "example": "August 1961 · 3 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Johnny Remember Me",
+    "definition": "John Leyton",
+    "example": "September 1961 · 4 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Reach For The Stars / Climb Ev'ry Mountain",
+    "definition": "Shirley Bassey",
+    "example": "September 1961 · 1 week at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Kon-Tiki",
+    "definition": "The Shadows",
+    "example": "October 1961 · 1 week at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Michael",
+    "definition": "Highwaymen",
+    "example": "October 1961 · 1 week at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Walkin' Back To Happiness",
+    "definition": "Helen Shapiro",
+    "example": "October 1961 · 3 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "His Latest Flame / Little Sister",
+    "definition": "Elvis Presley",
+    "example": "November 1961 · 4 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Tower Of Strength",
+    "definition": "Frankie Vaughan",
+    "example": "December 1961 · 3 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Moon River",
+    "definition": "Danny Williams",
+    "example": "December 1961 · 2 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "The Young Ones",
+    "definition": "Cliff Richard",
+    "example": "January 1962 · 6 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Can't Help Falling In Love / Rock-A-Hula Baby",
+    "definition": "Elvis Presley",
+    "example": "February 1962 · 4 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Wonderful Land",
+    "definition": "The Shadows",
+    "example": "March 1962 · 8 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Nut Rocker",
+    "definition": "B Bumble and the Stingers",
+    "example": "May 1962 · 1 week at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Good Luck Charm",
+    "definition": "Elvis Presley",
+    "example": "May 1962 · 5 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Come Outside",
+    "definition": "Mike Sarne With Wendy Richard",
+    "example": "June 1962 · 2 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "I Can't Stop Loving You",
+    "definition": "Ray Charles",
+    "example": "July 1962 · 2 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "I Remember You",
+    "definition": "Frank Ifield",
+    "example": "July 1962 · 7 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "She's Not You",
+    "definition": "Elvis Presley",
+    "example": "September 1962 · 3 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Telstar",
+    "definition": "The Tornados",
+    "example": "October 1962 · 5 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Lovesick Blues",
+    "definition": "Frank Ifield",
+    "example": "November 1962 · 5 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Return To Sender",
+    "definition": "Elvis Presley",
+    "example": "December 1962 · 3 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "The Next Time / Bachelor Boy",
+    "definition": "Cliff Richard",
+    "example": "January 1963 · 3 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Dance On!",
+    "definition": "The Shadows",
+    "example": "January 1963 · 1 week at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Diamonds",
+    "definition": "Jet Harris and Tony Meehan",
+    "example": "February 1963 · 3 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "The Wayward Wind",
+    "definition": "Frank Ifield",
+    "example": "February 1963 · 3 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Summer Holiday",
+    "definition": "Cliff Richard",
+    "example": "March 1963 · 3 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Foot Tapper",
+    "definition": "The Shadows",
+    "example": "March 1963 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "How Do You Do It?",
+    "definition": "Gerry and the Pacemakers",
+    "example": "April 1963 · 3 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "From Me To You",
+    "definition": "The Beatles",
+    "example": "May 1963 · 7 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "I Like It",
+    "definition": "Gerry and the Pacemakers",
+    "example": "June 1963 · 4 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Confessin'",
+    "definition": "Frank Ifield",
+    "example": "July 1963 · 2 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "(You're The) Devil In Disguise",
+    "definition": "Elvis Presley",
+    "example": "August 1963 · 1 week at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Sweets For My Sweet",
+    "definition": "The Searchers",
+    "example": "August 1963 · 2 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Bad To Me",
+    "definition": "Billy J Kramer And The Dakotas",
+    "example": "August 1963 · 3 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "She Loves You",
+    "definition": "The Beatles",
+    "example": "September 1963 · 6 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Do You Love Me?",
+    "definition": "Brian Poole And The Tremeloes",
+    "example": "October 1963 · 3 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "You'll Never Walk Alone",
+    "definition": "Gerry and the Pacemakers",
+    "example": "November 1963 · 4 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "I Want To Hold Your Hand",
+    "definition": "The Beatles",
+    "example": "December 1963 · 5 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Glad All Over",
+    "definition": "The Dave Clark Five",
+    "example": "January 1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Needles And Pins",
+    "definition": "The Searchers",
+    "example": "February 1964 · 3 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Diane",
+    "definition": "The Bachelors",
+    "example": "February 1964 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Anyone Who Had A Heart",
+    "definition": "Cilla Black",
+    "example": "February 1964 · 3 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Little Children",
+    "definition": "Billy J Kramer And The Dakotas",
+    "example": "March 1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Can't Buy Me Love",
+    "definition": "The Beatles",
+    "example": "April 1964 · 3 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "A World Without Love",
+    "definition": "Peter And Gordon",
+    "example": "April 1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Don't Throw Your Love Away",
+    "definition": "The Searchers",
+    "example": "May 1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Juliet",
+    "definition": "The Four Pennies",
+    "example": "May 1964 · 1 week at No.1"
+  },
+  {
+    "id": 76,
+    "term": "You're My World",
+    "definition": "Cilla Black",
+    "example": "May 1964 · 4 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "It's Over",
+    "definition": "Roy Orbison",
+    "example": "June 1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "The House of the Rising Sun",
+    "definition": "The Animals",
+    "example": "July 1964 · 1 week at No.1"
+  },
+  {
+    "id": 79,
+    "term": "It's All Over Now",
+    "definition": "The Rolling Stones",
+    "example": "July 1964 · 1 week at No.1"
+  },
+  {
+    "id": 80,
+    "term": "A Hard Day's Night",
+    "definition": "The Beatles",
+    "example": "July 1964 · 3 weeks at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Do Wah Diddy Diddy",
+    "definition": "Manfred Mann",
+    "example": "August 1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Have I The Right?",
+    "definition": "Honeycombs",
+    "example": "August 1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 83,
+    "term": "You Really Got Me",
+    "definition": "The Kinks",
+    "example": "September 1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 84,
+    "term": "I'm Into Something Good",
+    "definition": "Herman's Hermits",
+    "example": "September 1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Oh, Pretty Woman",
+    "definition": "Roy Orbison",
+    "example": "October 1964 · 3 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "(There's) Always Something There To Remind Me",
+    "definition": "Sandie Shaw",
+    "example": "October 1964 · 3 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Baby Love",
+    "definition": "The Supremes",
+    "example": "November 1964 · 2 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Little Red Rooster",
+    "definition": "The Rolling Stones",
+    "example": "December 1964 · 1 week at No.1"
+  },
+  {
+    "id": 89,
+    "term": "I Feel Fine",
+    "definition": "The Beatles",
+    "example": "December 1964 · 5 weeks at No.1"
+  }
+];
+window.QM_NO1S6569_DATA = [
+  {
+    "id": 1,
+    "term": "Yeh Yeh",
+    "definition": "Georgie Fame",
+    "example": "January 1965 · 2 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Go Now",
+    "definition": "The Moody Blues",
+    "example": "January 1965 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "You've Lost That Lovin' Feelin'",
+    "definition": "The Righteous Brothers",
+    "example": "February 1965 · 2 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Tired Of Waiting For You",
+    "definition": "The Kinks",
+    "example": "February 1965 · 1 week at No.1"
+  },
+  {
+    "id": 5,
+    "term": "I'll Never Find Another You",
+    "definition": "The Seekers",
+    "example": "February 1965 · 2 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "It's Not Unusual",
+    "definition": "Tom Jones",
+    "example": "March 1965 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "The Last Time",
+    "definition": "The Rolling Stones",
+    "example": "March 1965 · 3 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Concrete And Clay",
+    "definition": "Unit Four Plus Two",
+    "example": "April 1965 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "The Minute You're Gone",
+    "definition": "Cliff Richard",
+    "example": "April 1965 · 1 week at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Ticket To Ride",
+    "definition": "The Beatles",
+    "example": "April 1965 · 3 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "King Of The Road",
+    "definition": "Roger Miller",
+    "example": "May 1965 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Where Are You Now (My Love)",
+    "definition": "Jackie Trent",
+    "example": "May 1965 · 1 week at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Long Live Love",
+    "definition": "Sandie Shaw",
+    "example": "May 1965 · 3 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Crying In The Chapel",
+    "definition": "Elvis Presley",
+    "example": "June 1965 · 2 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "I'm Alive",
+    "definition": "The Hollies",
+    "example": "June 1965 · 3 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Mr Tambourine Man",
+    "definition": "The Byrds",
+    "example": "July 1965 · 2 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Help!",
+    "definition": "The Beatles",
+    "example": "August 1965 · 3 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "I Got You Babe",
+    "definition": "Sonny And Cher",
+    "example": "August 1965 · 2 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "(I Can't Get No) Satisfaction",
+    "definition": "The Rolling Stones",
+    "example": "September 1965 · 2 weeks at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Make It Easy On Yourself",
+    "definition": "The Walker Brothers",
+    "example": "September 1965 · 1 week at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Tears",
+    "definition": "Ken Dodd",
+    "example": "October 1965 · 5 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Get Off Of My Cloud",
+    "definition": "The Rolling Stones",
+    "example": "November 1965 · 3 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "The Carnival Is Over",
+    "definition": "The Seekers",
+    "example": "November 1965 · 3 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Day Tripper / We Can Work It Out",
+    "definition": "The Beatles",
+    "example": "December 1965 · 5 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Keep On Running",
+    "definition": "The Spencer Davis Group",
+    "example": "January 1966 · 1 week at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Michelle",
+    "definition": "Overlanders",
+    "example": "January 1966 · 3 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "These Boots Are Made For Walkin'",
+    "definition": "Nancy Sinatra",
+    "example": "February 1966 · 4 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "The Sun Ain't Gonna Shine Anymore",
+    "definition": "The Walker Brothers",
+    "example": "March 1966 · 4 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Somebody Help Me",
+    "definition": "The Spencer Davis Group",
+    "example": "April 1966 · 2 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "You Don't Have To Say You Love Me",
+    "definition": "Dusty Springfield",
+    "example": "April 1966 · 1 week at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Pretty Flamingo",
+    "definition": "Manfred Mann",
+    "example": "May 1966 · 3 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Paint It Black",
+    "definition": "The Rolling Stones",
+    "example": "May 1966 · 1 week at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Strangers In The Night",
+    "definition": "Frank Sinatra",
+    "example": "June 1966 · 3 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Paperback Writer",
+    "definition": "The Beatles",
+    "example": "June 1966 · 2 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Sunny Afternoon",
+    "definition": "The Kinks",
+    "example": "July 1966 · 2 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Getaway",
+    "definition": "Georgie Fame And The Blue Flames",
+    "example": "July 1966 · 1 week at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Out Of Time",
+    "definition": "Chris Farlowe",
+    "example": "July 1966 · 1 week at No.1"
+  },
+  {
+    "id": 38,
+    "term": "With A Girl Like You",
+    "definition": "The Troggs",
+    "example": "August 1966 · 2 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Yellow Submarine / Eleanor Rigby",
+    "definition": "The Beatles",
+    "example": "August 1966 · 4 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "All Or Nothing",
+    "definition": "The Small Faces",
+    "example": "September 1966 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Distant Drums",
+    "definition": "Jim Reeves",
+    "example": "September 1966 · 5 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Reach Out I'll Be There",
+    "definition": "The Four Tops",
+    "example": "October 1966 · 3 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Good Vibrations",
+    "definition": "The Beach Boys",
+    "example": "November 1966 · 2 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Green Green Grass Of Home",
+    "definition": "Tom Jones",
+    "example": "December 1966 · 7 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "I'm a Believer",
+    "definition": "The Monkees",
+    "example": "January 1967 · 4 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "This Is My Song",
+    "definition": "Petula Clark",
+    "example": "February 1967 · 2 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Release Me",
+    "definition": "Engelbert Humperdinck",
+    "example": "March 1967 · 6 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Somethin' Stupid",
+    "definition": "Nancy Sinatra And Frank Sinatra",
+    "example": "April 1967 · 2 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Puppet On A String",
+    "definition": "Sandie Shaw",
+    "example": "April 1967 · 3 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Silence Is Golden",
+    "definition": "The Tremeloes",
+    "example": "May 1967 · 3 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "A Whiter Shade Of Pale",
+    "definition": "Procol Harum",
+    "example": "June 1967 · 6 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "All You Need Is Love",
+    "definition": "The Beatles",
+    "example": "July 1967 · 3 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "San Francisco (Be Sure To Wear Some Flowers In Your Hair)",
+    "definition": "Scott McKenzie",
+    "example": "August 1967 · 4 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "The Last Waltz",
+    "definition": "Engelbert Humperdinck",
+    "example": "September 1967 · 5 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Massachusetts",
+    "definition": "The Bee Gees",
+    "example": "October 1967 · 4 weeks at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Baby Now That I've Found You",
+    "definition": "The Foundations",
+    "example": "November 1967 · 2 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Let The Heartaches Begin",
+    "definition": "Long John Baldry",
+    "example": "November 1967 · 2 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Hello Goodbye",
+    "definition": "The Beatles",
+    "example": "December 1967 · 7 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "The Ballad Of Bonnie And Clyde",
+    "definition": "Georgie Fame",
+    "example": "January 1968 · 1 week at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Everlasting Love",
+    "definition": "Love Affair",
+    "example": "February 1968 · 2 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "The Mighty Quinn",
+    "definition": "Manfred Mann",
+    "example": "February 1968 · 2 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Cinderella Rockefella",
+    "definition": "Esther and Abi Ofarim",
+    "example": "March 1968 · 3 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "The Legend Of Xanadu",
+    "definition": "Dave Dee, Dozy, Beaky, Mick and Tich",
+    "example": "March 1968 · 1 week at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Lady Madonna",
+    "definition": "The Beatles",
+    "example": "March 1968 · 2 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Congratulations",
+    "definition": "Cliff Richard",
+    "example": "April 1968 · 2 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "What A Wonderful World / Cabaret",
+    "definition": "Louis Armstrong",
+    "example": "April 1968 · 4 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Young Girl",
+    "definition": "Gary Puckett And The Union Gap",
+    "example": "May 1968 · 4 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Jumpin' Jack Flash",
+    "definition": "The Rolling Stones",
+    "example": "June 1968 · 2 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Baby Come Back",
+    "definition": "The Equals",
+    "example": "July 1968 · 3 weeks at No.1"
+  },
+  {
+    "id": 70,
+    "term": "I Pretend",
+    "definition": "Des O'Connor",
+    "example": "July 1968 · 1 week at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Mony Mony",
+    "definition": "Tommy James And The Shondells",
+    "example": "August 1968 · 3 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Fire!",
+    "definition": "Crazy World Of Arthur Brown",
+    "example": "August 1968 · 1 week at No.1"
+  },
+  {
+    "id": 73,
+    "term": "Do It Again",
+    "definition": "The Beach Boys",
+    "example": "August 1968 · 1 week at No.1"
+  },
+  {
+    "id": 74,
+    "term": "I've Gotta Get A Message To You",
+    "definition": "The Bee Gees",
+    "example": "September 1968 · 1 week at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Hey Jude",
+    "definition": "The Beatles",
+    "example": "September 1968 · 2 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Those Were The Days",
+    "definition": "Mary Hopkin",
+    "example": "September 1968 · 6 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "With A Little Help From My Friends",
+    "definition": "Joe Cocker",
+    "example": "November 1968 · 1 week at No.1"
+  },
+  {
+    "id": 78,
+    "term": "The Good the Bad and the Ugly",
+    "definition": "Hugo Montenegro",
+    "example": "November 1968 · 4 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Lily The Pink",
+    "definition": "The Scaffold",
+    "example": "December 1968 · 4 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Ob-La-Di Ob-La-Da",
+    "definition": "Marmalade",
+    "example": "January 1969 · 3 weeks at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Albatross",
+    "definition": "Fleetwood Mac",
+    "example": "February 1969 · 1 week at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Blackberry Way",
+    "definition": "The Move",
+    "example": "February 1969 · 1 week at No.1"
+  },
+  {
+    "id": 83,
+    "term": "(If Paradise Is) Half As Nice",
+    "definition": "Amen Corner",
+    "example": "February 1969 · 2 weeks at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Where Do You Go To (My Lovely)",
+    "definition": "Peter Sarstedt",
+    "example": "March 1969 · 4 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "I Heard It Through The Grapevine",
+    "definition": "Marvin Gaye",
+    "example": "March 1969 · 3 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "The Israelites",
+    "definition": "Desmond Dekker And The Aces",
+    "example": "April 1969 · 1 week at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Get Back",
+    "definition": "Beatles With Billy Preston",
+    "example": "April 1969 · 6 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Dizzy",
+    "definition": "Tommy Roe",
+    "example": "June 1969 · 1 week at No.1"
+  },
+  {
+    "id": 89,
+    "term": "The Ballad Of John And Yoko",
+    "definition": "The Beatles",
+    "example": "June 1969 · 3 weeks at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Something In The Air",
+    "definition": "Thunderclap Newman",
+    "example": "July 1969 · 3 weeks at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Honky Tonk Women",
+    "definition": "The Rolling Stones",
+    "example": "July 1969 · 5 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "In The Year 2525",
+    "definition": "Zager And Evans",
+    "example": "August 1969 · 3 weeks at No.1"
+  },
+  {
+    "id": 93,
+    "term": "Bad Moon Rising",
+    "definition": "Creedence Clearwater Revival",
+    "example": "September 1969 · 3 weeks at No.1"
+  },
+  {
+    "id": 94,
+    "term": "Je T'aime... Moi Non Plus",
+    "definition": "Jane Birkin and Serge Gainsbourg",
+    "example": "October 1969 · 1 week at No.1"
+  },
+  {
+    "id": 95,
+    "term": "I'll Never Fall In Love Again",
+    "definition": "Bobbie Gentry",
+    "example": "October 1969 · 1 week at No.1"
+  },
+  {
+    "id": 96,
+    "term": "Sugar, Sugar",
+    "definition": "The Archies",
+    "example": "October 1969 · 8 weeks at No.1"
+  },
+  {
+    "id": 97,
+    "term": "Two Little Boys",
+    "definition": "Rolf Harris",
+    "example": "December 1969 · 6 weeks at No.1"
+  }
+];
+window.QM_NO1S7074_DATA = [
+  {
+    "id": 1,
+    "term": "Love Grows (Where My Rosemary Goes)",
+    "definition": "Edison Lighthouse",
+    "example": "January 1970 · 5 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Wand'rin' Star",
+    "definition": "Lee Marvin",
+    "example": "March 1970 · 3 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Bridge Over Troubled Water",
+    "definition": "Simon And Garfunkel",
+    "example": "March 1970 · 3 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "All Kinds Of Everything",
+    "definition": "Dana",
+    "example": "April 1970 · 2 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Spirit In The Sky",
+    "definition": "Norman Greenbaum",
+    "example": "May 1970 · 2 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Back Home",
+    "definition": "England World Cup Squad",
+    "example": "May 1970 · 3 weeks at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Yellow River",
+    "definition": "Christie",
+    "example": "June 1970 · 1 week at No.1"
+  },
+  {
+    "id": 8,
+    "term": "In The Summertime",
+    "definition": "Mungo Jerry",
+    "example": "June 1970 · 7 weeks at No.1"
+  },
+  {
+    "id": 9,
+    "term": "The Wonder Of You",
+    "definition": "Elvis Presley",
+    "example": "August 1970 · 6 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "The Tears Of A Clown",
+    "definition": "Smokey Robinson And The Miracles",
+    "example": "September 1970 · 1 week at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Band Of Gold",
+    "definition": "Freda Payne",
+    "example": "September 1970 · 6 weeks at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Woodstock",
+    "definition": "Matthews Southern Comfort",
+    "example": "October 1970 · 3 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Voodoo Chile",
+    "definition": "The Jimi Hendrix Experience",
+    "example": "November 1970 · 1 week at No.1"
+  },
+  {
+    "id": 14,
+    "term": "I Hear You Knocking",
+    "definition": "Dave Edmunds",
+    "example": "November 1970 · 6 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Grandad",
+    "definition": "Clive Dunn",
+    "example": "January 1971 · 3 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "My Sweet Lord",
+    "definition": "George Harrison",
+    "example": "January 1971 · 5 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Baby Jump",
+    "definition": "Mungo Jerry",
+    "example": "March 1971 · 2 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Hot Love",
+    "definition": "T. Rex",
+    "example": "March 1971 · 6 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Double Barrel",
+    "definition": "Dave And Ansel Collins",
+    "example": "May 1971 · 2 weeks at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Knock Three Times",
+    "definition": "Dawn",
+    "example": "May 1971 · 5 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Chirpy Chirpy Cheep Cheep",
+    "definition": "Middle of the road",
+    "example": "June 1971 · 5 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Get It On",
+    "definition": "T. Rex",
+    "example": "July 1971 · 4 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "I'm Still Waiting",
+    "definition": "Diana Ross",
+    "example": "August 1971 · 4 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Hey Girl Don't Bother Me",
+    "definition": "The Tams",
+    "example": "September 1971 · 3 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Maggie May / Reason To Believe",
+    "definition": "Rod Stewart",
+    "example": "October 1971 · 5 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Coz I Luv You",
+    "definition": "Slade",
+    "example": "November 1971 · 4 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Ernie (The Fastest Milkman In The West)",
+    "definition": "Benny Hill",
+    "example": "December 1971 · 4 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "I'd Like To Teach The World To Sing (In Perfect Harmony)",
+    "definition": "The New Seekers",
+    "example": "January 1972 · 4 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Telegram Sam",
+    "definition": "T. Rex",
+    "example": "February 1972 · 2 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Son Of My Father",
+    "definition": "Chicory Tip",
+    "example": "February 1972 · 3 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Without You",
+    "definition": "Nilsson",
+    "example": "March 1972 · 5 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Amazing Grace",
+    "definition": "Pipes And Drums And The Military Band Of The Royal Scots Dragoon Guard",
+    "example": "April 1972 · 5 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Metal Guru",
+    "definition": "T. Rex",
+    "example": "May 1972 · 4 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Vincent",
+    "definition": "Don McLean",
+    "example": "June 1972 · 2 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Take Me Bak 'Ome",
+    "definition": "Slade",
+    "example": "July 1972 · 1 week at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Puppy Love",
+    "definition": "Donny Osmond",
+    "example": "July 1972 · 5 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "School's Out",
+    "definition": "Alice Cooper",
+    "example": "August 1972 · 3 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "You Wear It Well",
+    "definition": "Rod Stewart",
+    "example": "September 1972 · 1 week at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Mama Weer All Crazee Now",
+    "definition": "Slade",
+    "example": "September 1972 · 3 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "How Can I Be Sure",
+    "definition": "David Cassidy",
+    "example": "September 1972 · 2 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Mouldy Old Dough",
+    "definition": "Lieutenant Pigeon",
+    "example": "October 1972 · 4 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Clair",
+    "definition": "Gilbert O'Sullivan",
+    "example": "November 1972 · 2 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "My Ding-A-Ling",
+    "definition": "Chuck Berry",
+    "example": "November 1972 · 4 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Long Haired Lover From Liverpool",
+    "definition": "Little Jimmy Osmond",
+    "example": "December 1972 · 5 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Blockbuster",
+    "definition": "The Sweet",
+    "example": "January 1973 · 5 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Cum On Feel The Noize",
+    "definition": "Slade",
+    "example": "March 1973 · 4 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "The Twelfth Of Never",
+    "definition": "Donny Osmond",
+    "example": "March 1973 · 1 week at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Get Down",
+    "definition": "Gilbert O'Sullivan",
+    "example": "April 1973 · 2 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Tie A Yellow Ribbon Round The Ole Oak Tree",
+    "definition": "Dawn featuring Tony Orlando",
+    "example": "April 1973 · 4 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "See My Baby Jive",
+    "definition": "Wizzard",
+    "example": "May 1973 · 4 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Can The Can",
+    "definition": "Suzi Quatro",
+    "example": "June 1973 · 1 week at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Rubber Bullets",
+    "definition": "10cc",
+    "example": "June 1973 · 1 week at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Skweeze Me Pleeze Me",
+    "definition": "Slade",
+    "example": "June 1973 · 3 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Welcome Home",
+    "definition": "Peters and Lee",
+    "example": "July 1973 · 1 week at No.1"
+  },
+  {
+    "id": 55,
+    "term": "I'm the Leader of the Gang (I Am!)",
+    "definition": "Gary Glitter",
+    "example": "July 1973 · 4 weeks at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Young Love",
+    "definition": "Donny Osmond",
+    "example": "August 1973 · 4 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Angel Fingers",
+    "definition": "Wizzard",
+    "example": "September 1973 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Eye Level",
+    "definition": "Simon Park Orchestra",
+    "example": "September 1973 · 4 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Daydreamer / The Puppy Song",
+    "definition": "David Cassidy",
+    "example": "October 1973 · 3 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "I Love You Love Me Love",
+    "definition": "Gary Glitter",
+    "example": "November 1973 · 4 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Merry Xmas Everybody",
+    "definition": "Slade",
+    "example": "December 1973 · 5 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "You Won't Find Another Fool Like Me",
+    "definition": "The New Seekers ft. Lyn Paul",
+    "example": "January 1974 · 1 week at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Tiger Feet",
+    "definition": "Mud",
+    "example": "January 1974 · 4 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Devil Gate Drive",
+    "definition": "Suzi Quatro",
+    "example": "February 1974 · 2 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Jealous Mind",
+    "definition": "Alvin Stardust",
+    "example": "March 1974 · 1 week at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Billy - Don't Be a Hero",
+    "definition": "Paper Lace",
+    "example": "March 1974 · 3 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Seasons In The Sun",
+    "definition": "Terry Jacks",
+    "example": "April 1974 · 4 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Waterloo",
+    "definition": "ABBA",
+    "example": "May 1974 · 2 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Sugar Baby Love",
+    "definition": "The Rubettes",
+    "example": "May 1974 · 4 weeks at No.1"
+  },
+  {
+    "id": 70,
+    "term": "The Streak",
+    "definition": "Ray Stevens",
+    "example": "June 1974 · 1 week at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Always Yours",
+    "definition": "Gary Glitter",
+    "example": "June 1974 · 1 week at No.1"
+  },
+  {
+    "id": 72,
+    "term": "She",
+    "definition": "Charles Aznavour",
+    "example": "June 1974 · 4 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "Rock Your Baby",
+    "definition": "George McCrae",
+    "example": "July 1974 · 3 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "When Will I See You Again",
+    "definition": "The Three Degrees",
+    "example": "August 1974 · 2 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Love Me For A Reason",
+    "definition": "The Osmonds",
+    "example": "August 1974 · 3 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Kung Fu Fighting",
+    "definition": "Carl Douglas",
+    "example": "September 1974 · 3 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Annie's Song",
+    "definition": "John Denver",
+    "example": "October 1974 · 1 week at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Sad Sweet Dreamer",
+    "definition": "Sweet Sensation",
+    "example": "October 1974 · 1 week at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Everything I Own",
+    "definition": "Ken Boothe",
+    "example": "October 1974 · 3 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Gonna Make You A Star",
+    "definition": "David Essex",
+    "example": "November 1974 · 3 weeks at No.1"
+  },
+  {
+    "id": 81,
+    "term": "You're The First, The Last, My Everything",
+    "definition": "Barry White",
+    "example": "December 1974 · 2 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Lonely This Christmas",
+    "definition": "Mud",
+    "example": "December 1974 · 4 weeks at No.1"
+  }
+];
+window.QM_NO1S7579_DATA = [
+  {
+    "id": 1,
+    "term": "Down Down",
+    "definition": "Status Quo",
+    "example": "January 1975 · 1 week at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Ms. Grace",
+    "definition": "The Tymes",
+    "example": "January 1975 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "January",
+    "definition": "Pilot",
+    "example": "February 1975 · 3 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Make Me Smile (Come Up and See Me)",
+    "definition": "Steve Harley & Cockney Rebel",
+    "example": "February 1975 · 2 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "If",
+    "definition": "Telly Savalas",
+    "example": "March 1975 · 2 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Bye Bye Baby",
+    "definition": "Bay City Rollers",
+    "example": "March 1975 · 6 weeks at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Oh Boy",
+    "definition": "Mud",
+    "example": "May 1975 · 2 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Stand By Your Man",
+    "definition": "Tammy Wynette",
+    "example": "May 1975 · 3 weeks at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Whispering Grass",
+    "definition": "Windsor Davies And Don Estelle",
+    "example": "June 1975 · 3 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "I'm Not In Love",
+    "definition": "10cc",
+    "example": "June 1975 · 2 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Tears On My Pillow",
+    "definition": "Johnny Nash",
+    "example": "July 1975 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Give A Little Love",
+    "definition": "Bay City Rollers",
+    "example": "July 1975 · 3 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Barbados",
+    "definition": "Typically Tropical",
+    "example": "August 1975 · 1 week at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Can't Give You Anything (But My Love)",
+    "definition": "The Stylistics",
+    "example": "August 1975 · 3 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Sailing",
+    "definition": "Rod Stewart",
+    "example": "September 1975 · 4 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Hold Me Close",
+    "definition": "David Essex",
+    "example": "October 1975 · 3 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "I Only Have Eyes For You",
+    "definition": "Art Garfunkel",
+    "example": "October 1975 · 2 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Space Oddity",
+    "definition": "David Bowie",
+    "example": "November 1975 · 2 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "D.I.V.O.R.C.E.",
+    "definition": "Billy Connolly",
+    "example": "November 1975 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Bohemian Rhapsody",
+    "definition": "Queen",
+    "example": "November 1975 · 9 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Mamma Mia",
+    "definition": "ABBA",
+    "example": "January 1976 · 2 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Forever And Ever",
+    "definition": "Slik",
+    "example": "February 1976 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "December '63 (Oh What A Night)",
+    "definition": "The Four Seasons",
+    "example": "February 1976 · 2 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "I Love To Love (But My Baby Loves To Dance)",
+    "definition": "Tina Charles",
+    "example": "March 1976 · 3 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Save Your Kisses For Me",
+    "definition": "Brotherhood Of Man",
+    "example": "March 1976 · 6 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Fernando",
+    "definition": "ABBA",
+    "example": "May 1976 · 4 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "No Charge",
+    "definition": "J.J. Barrie",
+    "example": "June 1976 · 1 week at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Combine Harvester",
+    "definition": "The Wurzels",
+    "example": "June 1976 · 2 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "You To Me Are Everything",
+    "definition": "Real Thing",
+    "example": "June 1976 · 3 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "The Roussos Phenomenon (EP)",
+    "definition": "Demis Roussos",
+    "example": "July 1976 · 1 week at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Don't Go Breaking My Heart",
+    "definition": "Elton John and Kiki Dee",
+    "example": "July 1976 · 6 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Dancing Queen",
+    "definition": "ABBA",
+    "example": "September 1976 · 6 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Mississippi",
+    "definition": "Pussycat",
+    "example": "October 1976 · 4 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "If You Leave Me Now",
+    "definition": "Chicago",
+    "example": "November 1976 · 3 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Under The Moon Of Love",
+    "definition": "Showaddywaddy",
+    "example": "December 1976 · 3 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "When A Child Is Born (Soleado)",
+    "definition": "Johnny Mathis",
+    "example": "December 1976 · 3 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Don't Give Up On Us",
+    "definition": "David Soul",
+    "example": "January 1977 · 4 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Don't Cry For Me Argentina",
+    "definition": "Julie Covington",
+    "example": "February 1977 · 1 week at No.1"
+  },
+  {
+    "id": 39,
+    "term": "When I Need You",
+    "definition": "Leo Sayer",
+    "example": "February 1977 · 3 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Chanson D'Amour",
+    "definition": "The Manhattan Transfer",
+    "example": "March 1977 · 3 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Knowing Me, Knowing You",
+    "definition": "ABBA",
+    "example": "April 1977 · 5 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Free",
+    "definition": "Deniece Williams",
+    "example": "May 1977 · 2 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "I Don't Want To Talk About It / First Cut Is The Deepest",
+    "definition": "Rod Stewart",
+    "example": "May 1977 · 4 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Lucille",
+    "definition": "Kenny Rogers",
+    "example": "June 1977 · 1 week at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Show You The Way To Go",
+    "definition": "The Jacksons",
+    "example": "June 1977 · 1 week at No.1"
+  },
+  {
+    "id": 46,
+    "term": "So You Win Again",
+    "definition": "Hot Chocolate",
+    "example": "July 1977 · 3 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "I Feel Love",
+    "definition": "Donna Summer",
+    "example": "July 1977 · 4 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Angelo",
+    "definition": "Brotherhood Of Man",
+    "example": "August 1977 · 1 week at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Float On",
+    "definition": "The Floaters",
+    "example": "August 1977 · 1 week at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Way Down",
+    "definition": "Elvis Presley",
+    "example": "September 1977 · 5 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Silver Lady",
+    "definition": "David Soul",
+    "example": "October 1977 · 3 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Yes Sir I Can Boogie",
+    "definition": "Baccara",
+    "example": "October 1977 · 1 week at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Name Of The Game",
+    "definition": "ABBA",
+    "example": "November 1977 · 4 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Mull of Kintyre / Girls' School",
+    "definition": "Wings",
+    "example": "December 1977 · 9 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Uptown Top Ranking",
+    "definition": "Althia And Donna",
+    "example": "February 1978 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Figaro",
+    "definition": "Brotherhood Of Man",
+    "example": "February 1978 · 1 week at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Take A Chance On Me",
+    "definition": "ABBA",
+    "example": "February 1978 · 3 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Wuthering Heights",
+    "definition": "Kate Bush",
+    "example": "March 1978 · 4 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Matchstalk Men And Matchstalk Cats And Dogs",
+    "definition": "Brian And Michael",
+    "example": "April 1978 · 3 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Night Fever",
+    "definition": "The Bee Gees",
+    "example": "April 1978 · 2 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Rivers Of Babylon / Brown Girl In The Ring",
+    "definition": "Boney M",
+    "example": "May 1978 · 5 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "You're The One That I Want",
+    "definition": "John Travolta And Olivia Newton-John",
+    "example": "June 1978 · 9 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Three Times A Lady",
+    "definition": "The Commodores",
+    "example": "August 1978 · 5 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Dreadlock Holiday",
+    "definition": "10cc",
+    "example": "September 1978 · 1 week at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Summer Nights",
+    "definition": "John Travolta And Olivia Newton-John",
+    "example": "September 1978 · 7 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Rat Trap",
+    "definition": "The Boomtown Rats",
+    "example": "November 1978 · 2 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Da 'Ya' Think I'm Sexy?",
+    "definition": "Rod Stewart",
+    "example": "December 1978 · 1 week at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Mary's Boy Child",
+    "definition": "Boney M",
+    "example": "December 1978 · 4 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Y.M.C.A.",
+    "definition": "The Village People",
+    "example": "January 1979 · 3 weeks at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Hit Me With Your Rhythm Stick",
+    "definition": "Ian And The Blockheads",
+    "example": "January 1979 · 1 week at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Heart Of Glass",
+    "definition": "Blondie",
+    "example": "February 1979 · 4 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Tragedy",
+    "definition": "The Bee Gees",
+    "example": "March 1979 · 2 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "I Will Survive",
+    "definition": "Gloria Gaynor",
+    "example": "March 1979 · 4 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Bright Eyes",
+    "definition": "Art Garfunkel",
+    "example": "April 1979 · 6 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Sunday Girl",
+    "definition": "Blondie",
+    "example": "May 1979 · 3 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Ring My Bell",
+    "definition": "Anita Ward",
+    "example": "June 1979 · 2 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Are 'Friends' Electric?",
+    "definition": "Tubeway Army",
+    "example": "June 1979 · 4 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "I Don't Like Mondays",
+    "definition": "The Boomtown Rats",
+    "example": "July 1979 · 4 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "We Don't Talk Anymore",
+    "definition": "Cliff Richard",
+    "example": "August 1979 · 4 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Cars",
+    "definition": "Gary Numan",
+    "example": "September 1979 · 1 week at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Message In A Bottle",
+    "definition": "The Police",
+    "example": "September 1979 · 3 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Video Killed The Radio Star",
+    "definition": "The Buggles",
+    "example": "October 1979 · 1 week at No.1"
+  },
+  {
+    "id": 83,
+    "term": "One Day At A Time",
+    "definition": "Lena Martell",
+    "example": "October 1979 · 3 weeks at No.1"
+  },
+  {
+    "id": 84,
+    "term": "When You're In Love With A Beautiful Woman",
+    "definition": "Dr. Hook",
+    "example": "November 1979 · 3 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Walking On The Moon",
+    "definition": "The Police",
+    "example": "December 1979 · 1 week at No.1"
+  },
+  {
+    "id": 86,
+    "term": "Another Brick In The Wall (Part II)",
+    "definition": "Pink Floyd",
+    "example": "December 1979 · 5 weeks at No.1"
+  }
+];
+window.QM_NO1S8084_DATA = [
+  {
+    "id": 1,
+    "term": "Brass In Pocket",
+    "definition": "The Pretenders",
+    "example": "January 1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Too Much Too Young (The Special AKA Live! EP)",
+    "definition": "The Specials",
+    "example": "February 1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Coward Of The County",
+    "definition": "Kenny Rogers",
+    "example": "February 1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Atomic",
+    "definition": "Blondie",
+    "example": "March 1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Together We Are Beautiful",
+    "definition": "Fern Kinney",
+    "example": "March 1980 · 1 week at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Going Underground / Dreams Of Children",
+    "definition": "The Jam",
+    "example": "March 1980 · 3 weeks at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Working My Way Back To You / Forgive Me Girl",
+    "definition": "Detroit Spinners",
+    "example": "April 1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Call Me",
+    "definition": "Blondie",
+    "example": "April 1980 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Geno",
+    "definition": "Dexy's Midnight Runners",
+    "example": "May 1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "What's Another Year",
+    "definition": "Johnny Logan",
+    "example": "May 1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Theme From M*a*s*h (Suicide Is Painless)",
+    "definition": "MASH",
+    "example": "May 1980 · 3 weeks at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Crying",
+    "definition": "Don McLean",
+    "example": "June 1980 · 3 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Xanadu",
+    "definition": "Olivia Newton-John And Electric Light Orchestra",
+    "example": "July 1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Use It Up And Wear It Out",
+    "definition": "Odyssey",
+    "example": "July 1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "The Winner Takes It All",
+    "definition": "ABBA",
+    "example": "August 1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Ashes To Ashes",
+    "definition": "David Bowie",
+    "example": "August 1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Start",
+    "definition": "The Jam",
+    "example": "September 1980 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Feels Like I'm In Love",
+    "definition": "Kelly Marie",
+    "example": "September 1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Don't Stand So Close To Me",
+    "definition": "The Police",
+    "example": "September 1980 · 4 weeks at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Woman In Love",
+    "definition": "Barbra Streisand",
+    "example": "October 1980 · 3 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "The Tide Is High",
+    "definition": "Blondie",
+    "example": "November 1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Super Trouper",
+    "definition": "ABBA",
+    "example": "November 1980 · 3 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "(Just Like) Starting Over",
+    "definition": "John Lennon",
+    "example": "December 1980 · 1 week at No.1"
+  },
+  {
+    "id": 24,
+    "term": "There's No One Quite Like Grandma",
+    "definition": "St. Winifred's School Choir",
+    "example": "December 1980 · 2 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Imagine",
+    "definition": "John Lennon",
+    "example": "January 1981 · 4 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Woman",
+    "definition": "John Lennon",
+    "example": "February 1981 · 2 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Shaddap You Face",
+    "definition": "Joe Dolce Music Theatre",
+    "example": "February 1981 · 3 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Jealous Guy",
+    "definition": "Roxy Music",
+    "example": "March 1981 · 2 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "This Ole House",
+    "definition": "Shakin' Stevens",
+    "example": "March 1981 · 3 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Making Your Mind Up",
+    "definition": "Bucks Fizz",
+    "example": "April 1981 · 3 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Stand And Deliver",
+    "definition": "Adam and the Ants",
+    "example": "May 1981 · 5 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Being With You",
+    "definition": "Smokey Robinson",
+    "example": "June 1981 · 2 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "One Day In Your Life",
+    "definition": "Michael Jackson",
+    "example": "June 1981 · 2 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Ghost Town",
+    "definition": "The Specials",
+    "example": "July 1981 · 3 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Green Door",
+    "definition": "Shakin' Stevens",
+    "example": "August 1981 · 4 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Japanese Boy",
+    "definition": "Aneka",
+    "example": "August 1981 · 1 week at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Tainted Love",
+    "definition": "Soft Cell",
+    "example": "September 1981 · 2 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Prince Charming",
+    "definition": "Adam and the Ants",
+    "example": "September 1981 · 4 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "It's My Party",
+    "definition": "Dave Stewart With Barbara Gaskin",
+    "example": "October 1981 · 4 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Every Little Thing She Does Is Magic",
+    "definition": "The Police",
+    "example": "November 1981 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Under Pressure",
+    "definition": "Queen & David Bowie",
+    "example": "November 1981 · 2 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Begin The Beguine (Volver A Empezar)",
+    "definition": "Julio Iglesias",
+    "example": "December 1981 · 1 week at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Don't You Want Me",
+    "definition": "The Human League",
+    "example": "December 1981 · 5 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "The Land Of Make Believe",
+    "definition": "Bucks Fizz",
+    "example": "January 1982 · 2 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Oh Julie",
+    "definition": "Shakin' Stevens",
+    "example": "January 1982 · 1 week at No.1"
+  },
+  {
+    "id": 46,
+    "term": "The Model / Computer Love",
+    "definition": "Kraftwerk",
+    "example": "February 1982 · 1 week at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Town Called Malice / Precious",
+    "definition": "The Jam",
+    "example": "February 1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "The Lion Sleeps Tonight",
+    "definition": "Tight Fit",
+    "example": "March 1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Seven Tears",
+    "definition": "Goombay Dance Band",
+    "example": "March 1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "My Camera Never Lies",
+    "definition": "Bucks Fizz",
+    "example": "April 1982 · 1 week at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Ebony And Ivory",
+    "definition": "Paul McCartney And Stevie Wonder",
+    "example": "April 1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "A Little Peace",
+    "definition": "Nicole",
+    "example": "May 1982 · 2 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "House Of Fun",
+    "definition": "Madness",
+    "example": "May 1982 · 2 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Goody Two Shoes",
+    "definition": "Adam Ant",
+    "example": "June 1982 · 2 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "I've Never Been To Me",
+    "definition": "Charlene",
+    "example": "June 1982 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Happy Talk",
+    "definition": "Captain Sensible",
+    "example": "July 1982 · 2 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Fame",
+    "definition": "Irene Cara",
+    "example": "July 1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Come On Eileen",
+    "definition": "Dexy's Midnight Runners With The Emerald Express",
+    "example": "August 1982 · 4 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Eye Of The Tiger",
+    "definition": "Survivor",
+    "example": "September 1982 · 4 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Pass The Dutchie",
+    "definition": "Musical Youth",
+    "example": "October 1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Do You Really Want to Hurt Me",
+    "definition": "Culture Club",
+    "example": "October 1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "I Don't Wanna Dance",
+    "definition": "Eddy Grant",
+    "example": "November 1982 · 3 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Beat Surrender",
+    "definition": "The Jam",
+    "example": "December 1982 · 2 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Save Your Love",
+    "definition": "Renée and Renato",
+    "example": "December 1982 · 4 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "You Can't Hurry Love",
+    "definition": "Phil Collins",
+    "example": "January 1983 · 2 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Down Under",
+    "definition": "Men At Work",
+    "example": "January 1983 · 3 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Too Shy",
+    "definition": "Kajagoogoo",
+    "example": "February 1983 · 2 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Billie Jean",
+    "definition": "Michael Jackson",
+    "example": "March 1983 · 1 week at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Total Eclipse Of The Heart",
+    "definition": "Bonnie Tyler",
+    "example": "March 1983 · 2 weeks at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Is There Something I Should Know?",
+    "definition": "Duran Duran",
+    "example": "March 1983 · 2 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Let's Dance",
+    "definition": "David Bowie",
+    "example": "April 1983 · 3 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "True",
+    "definition": "Spandau Ballet",
+    "example": "April 1983 · 4 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "Candy Girl",
+    "definition": "New Edition",
+    "example": "May 1983 · 1 week at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Every Breath You Take",
+    "definition": "The Police",
+    "example": "June 1983 · 4 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Baby Jane",
+    "definition": "Rod Stewart",
+    "example": "July 1983 · 3 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Wherever I Lay My Hat (That's My Home)",
+    "definition": "Paul Young",
+    "example": "July 1983 · 3 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Give It Up",
+    "definition": "KC And The Sunshine Band",
+    "example": "August 1983 · 3 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Red Red Wine",
+    "definition": "UB40",
+    "example": "September 1983 · 3 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Karma Chameleon",
+    "definition": "Culture Club",
+    "example": "September 1983 · 6 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Uptown Girl",
+    "definition": "Billy Joel",
+    "example": "November 1983 · 5 weeks at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Only You",
+    "definition": "The Flying Pickets",
+    "example": "December 1983 · 5 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Pipes Of Peace",
+    "definition": "Paul McCartney",
+    "example": "January 1984 · 2 weeks at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Relax",
+    "definition": "Frankie Goes to Hollywood",
+    "example": "January 1984 · 5 weeks at No.1"
+  },
+  {
+    "id": 84,
+    "term": "99 Red Balloons",
+    "definition": "Nena",
+    "example": "March 1984 · 3 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Hello",
+    "definition": "Lionel Richie",
+    "example": "March 1984 · 6 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "The Reflex",
+    "definition": "Duran Duran",
+    "example": "May 1984 · 4 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Wake Me Up Before You Go Go",
+    "definition": "Wham!",
+    "example": "June 1984 · 2 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Two Tribes",
+    "definition": "Frankie Goes to Hollywood",
+    "example": "June 1984 · 9 weeks at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Careless Whisper",
+    "definition": "George Michael",
+    "example": "August 1984 · 3 weeks at No.1"
+  },
+  {
+    "id": 90,
+    "term": "I Just Called To Say I Love You",
+    "definition": "Stevie Wonder",
+    "example": "September 1984 · 6 weeks at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Freedom",
+    "definition": "Wham!",
+    "example": "October 1984 · 3 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "I Feel For You",
+    "definition": "Chaka Khan",
+    "example": "November 1984 · 3 weeks at No.1"
+  },
+  {
+    "id": 93,
+    "term": "I Should Have Known Better",
+    "definition": "Jim Diamond",
+    "example": "December 1984 · 1 week at No.1"
+  },
+  {
+    "id": 94,
+    "term": "The Power of Love",
+    "definition": "Frankie Goes to Hollywood",
+    "example": "December 1984 · 1 week at No.1"
+  },
+  {
+    "id": 95,
+    "term": "Do They Know It's Christmas",
+    "definition": "Band Aid",
+    "example": "December 1984 · 5 weeks at No.1"
+  }
+];
+window.QM_NO1S8589_DATA = [
+  {
+    "id": 1,
+    "term": "I Want To Know What Love Is",
+    "definition": "Foreigner",
+    "example": "January 1985 · 3 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "I Know Him So Well",
+    "definition": "Elaine Paige And Barbara Dickson",
+    "example": "February 1985 · 4 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "You Spin Me Round (Like A Record)",
+    "definition": "Dead or Alive",
+    "example": "March 1985 · 2 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Easy Lover",
+    "definition": "Philip Bailey With Phil Collins",
+    "example": "March 1985 · 4 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "We Are the World",
+    "definition": "USA for Africa",
+    "example": "April 1985 · 2 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Move Closer",
+    "definition": "Phyllis Nelson",
+    "example": "May 1985 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "19",
+    "definition": "Paul Hardcastle",
+    "example": "May 1985 · 5 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "You'll Never Walk Alone",
+    "definition": "The Crowd",
+    "example": "June 1985 · 2 weeks at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Frankie",
+    "definition": "Sister Sledge",
+    "example": "June 1985 · 4 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "There Must Be An Angel (Playing With My Heart)",
+    "definition": "Eurythmics",
+    "example": "July 1985 · 1 week at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Into The Groove",
+    "definition": "Madonna",
+    "example": "August 1985 · 4 weeks at No.1"
+  },
+  {
+    "id": 12,
+    "term": "I Got You Babe",
+    "definition": "UB40 featuring Chrissie Hynde",
+    "example": "August 1985 · 1 week at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Dancing in the Street",
+    "definition": "David Bowie And Mick Jagger",
+    "example": "September 1985 · 4 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "If I Was",
+    "definition": "Midge Ure",
+    "example": "October 1985 · 1 week at No.1"
+  },
+  {
+    "id": 15,
+    "term": "The Power of Love",
+    "definition": "Jennifer Rush",
+    "example": "October 1985 · 5 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "A Good Heart",
+    "definition": "Feargal Sharkey",
+    "example": "November 1985 · 2 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "I'm Your Man",
+    "definition": "Wham!",
+    "example": "November 1985 · 2 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Saving All My Love For You",
+    "definition": "Whitney Houston",
+    "example": "December 1985 · 2 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Merry Christmas Everyone",
+    "definition": "Shakin' Stevens",
+    "example": "December 1985 · 2 weeks at No.1"
+  },
+  {
+    "id": 20,
+    "term": "West End Girls",
+    "definition": "Pet Shop Boys",
+    "example": "January 1986 · 2 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "The Sun Always Shines On TV",
+    "definition": "A-ha",
+    "example": "January 1986 · 2 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "When the Going Gets Tough, the Tough Get Going",
+    "definition": "Billy Ocean",
+    "example": "February 1986 · 4 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Chain Reaction",
+    "definition": "Diana Ross",
+    "example": "March 1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Living Doll",
+    "definition": "Cliff Richard And The Young Ones",
+    "example": "March 1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "A Different Corner",
+    "definition": "George Michael",
+    "example": "April 1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Rock Me Amadeus",
+    "definition": "Falco",
+    "example": "May 1986 · 1 week at No.1"
+  },
+  {
+    "id": 27,
+    "term": "The Chicken Song",
+    "definition": "Spitting Image",
+    "example": "May 1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Spirit In The Sky",
+    "definition": "Doctor And The Medics",
+    "example": "June 1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "The Edge Of Heaven",
+    "definition": "Wham!",
+    "example": "June 1986 · 2 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Papa Don't Preach",
+    "definition": "Madonna",
+    "example": "July 1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "The Lady In Red",
+    "definition": "Chris De Burgh",
+    "example": "August 1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "I Want To Wake Up With You",
+    "definition": "Boris Gardiner",
+    "example": "August 1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Don't Leave Me This Way",
+    "definition": "The Communards",
+    "example": "September 1986 · 4 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "True Blue",
+    "definition": "Madonna",
+    "example": "October 1986 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Every Loser Wins",
+    "definition": "Nick Berry",
+    "example": "October 1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Take My Breath Away (Love Theme From 'Top Gun')",
+    "definition": "Berlin",
+    "example": "November 1986 · 4 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "The Final Countdown",
+    "definition": "Europe",
+    "example": "December 1986 · 2 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Caravan Of Love",
+    "definition": "The Housemartins",
+    "example": "December 1986 · 1 week at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Reet Petite",
+    "definition": "Jackie Wilson",
+    "example": "December 1986 · 3 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Reet Petite (The Sweetest Girl In Town)",
+    "definition": "Jackie Wilson",
+    "example": "January 1987 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Jack Your Body",
+    "definition": "Steve 'Silk' Hurley",
+    "example": "January 1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "I Knew You Were Waiting (For Me)",
+    "definition": "George Michael And Aretha Franklin",
+    "example": "February 1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Stand By Me",
+    "definition": "Ben E King",
+    "example": "February 1987 · 3 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Everything I Own",
+    "definition": "Boy George",
+    "example": "March 1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Respectable",
+    "definition": "Mel And Kim",
+    "example": "March 1987 · 1 week at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Let It Be",
+    "definition": "Ferry Aid",
+    "example": "April 1987 · 3 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "La Isla Bonita",
+    "definition": "Madonna",
+    "example": "April 1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Nothing's Gonna Stop Us Now",
+    "definition": "Starship",
+    "example": "May 1987 · 4 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "I Wanna Dance With Somebody (Who Loves Me)",
+    "definition": "Whitney Houston",
+    "example": "June 1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Star Trekkin'",
+    "definition": "The Firm",
+    "example": "June 1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "It's A Sin",
+    "definition": "Pet Shop Boys",
+    "example": "July 1987 · 3 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Who's That Girl",
+    "definition": "Madonna",
+    "example": "July 1987 · 1 week at No.1"
+  },
+  {
+    "id": 53,
+    "term": "La Bamba",
+    "definition": "Los Lobos",
+    "example": "August 1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "I Just Can't Stop Loving You",
+    "definition": "Michael Jackson With Siedah Garrett",
+    "example": "August 1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Never Gonna Give You Up",
+    "definition": "Rick Astley",
+    "example": "August 1987 · 5 weeks at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Pump Up The Volume / Anitina (The First Time I See She Dance)",
+    "definition": "M/A/R/R/S",
+    "example": "October 1987 · 2 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "You Win Again",
+    "definition": "The Bee Gees",
+    "example": "October 1987 · 4 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "China in Your Hand",
+    "definition": "T'Pau",
+    "example": "November 1987 · 5 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Always On My Mind",
+    "definition": "Pet Shop Boys",
+    "example": "December 1987 · 4 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Heaven Is A Place On Earth",
+    "definition": "Belinda Carlisle",
+    "example": "January 1988 · 2 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "I Think We're Alone Now",
+    "definition": "Tiffany",
+    "example": "January 1988 · 3 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "I Should Be So Lucky",
+    "definition": "Kylie Minogue",
+    "example": "February 1988 · 5 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Don't Turn Around",
+    "definition": "Aswad",
+    "example": "March 1988 · 2 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Heart",
+    "definition": "Pet Shop Boys",
+    "example": "April 1988 · 3 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Theme From S-Express",
+    "definition": "S-Express",
+    "example": "April 1988 · 2 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Perfect",
+    "definition": "Fairground Attraction",
+    "example": "May 1988 · 1 week at No.1"
+  },
+  {
+    "id": 67,
+    "term": "With A Little Help From My Friends / She's Leaving Home",
+    "definition": "Wet Wet Wet / Billy Bragg With Cara Tivey",
+    "example": "May 1988 · 4 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Doctorin' The Tardis",
+    "definition": "Timelords",
+    "example": "June 1988 · 1 week at No.1"
+  },
+  {
+    "id": 69,
+    "term": "I Owe You Nothing",
+    "definition": "Bros",
+    "example": "June 1988 · 2 weeks at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Nothing's Gonna Change My Love For You",
+    "definition": "Glenn Medeiros",
+    "example": "July 1988 · 4 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "The Only Way Is Up",
+    "definition": "Yazz And The Plastic Population",
+    "example": "August 1988 · 5 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "A Groovy Kind Of Love",
+    "definition": "Phil Collins",
+    "example": "September 1988 · 2 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "He Ain't Heavy, He's My Brother",
+    "definition": "The Hollies",
+    "example": "September 1988 · 2 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Desire",
+    "definition": "U2",
+    "example": "October 1988 · 1 week at No.1"
+  },
+  {
+    "id": 75,
+    "term": "One Moment In Time",
+    "definition": "Whitney Houston",
+    "example": "October 1988 · 2 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Orinoco Flow",
+    "definition": "Enya",
+    "example": "October 1988 · 3 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "First Time",
+    "definition": "Robin Beck",
+    "example": "November 1988 · 3 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Mistletoe and Wine",
+    "definition": "Cliff Richard",
+    "example": "December 1988 · 4 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Especially for You",
+    "definition": "Kylie and Jason",
+    "example": "January 1989 · 3 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Something's Gotten Hold Of My Heart",
+    "definition": "Marc Almond featuring Gene Pitney",
+    "example": "January 1989 · 4 weeks at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Belfast Child",
+    "definition": "Simple Minds",
+    "example": "February 1989 · 2 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Too Many Broken Hearts",
+    "definition": "Jason Donovan",
+    "example": "March 1989 · 2 weeks at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Like A Prayer",
+    "definition": "Madonna",
+    "example": "March 1989 · 3 weeks at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Eternal Flame",
+    "definition": "The Bangles",
+    "example": "April 1989 · 4 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Hand On Your Heart",
+    "definition": "Kylie Minogue",
+    "example": "May 1989 · 1 week at No.1"
+  },
+  {
+    "id": 86,
+    "term": "Ferry Cross the Mersey",
+    "definition": "Gerry Marsden, Paul McCartney, Holly Johnson and the Christians",
+    "example": "May 1989 · 3 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Sealed With A Kiss",
+    "definition": "Jason Donovan",
+    "example": "June 1989 · 2 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Back To Life (However Do You Want Me)",
+    "definition": "Soul II Soul",
+    "example": "June 1989 · 4 weeks at No.1"
+  },
+  {
+    "id": 89,
+    "term": "You'll Never Stop Me Loving You",
+    "definition": "Sonia",
+    "example": "July 1989 · 2 weeks at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Swing The Mood",
+    "definition": "Jive Bunny And The Mastermixers",
+    "example": "August 1989 · 5 weeks at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Ride On Time",
+    "definition": "Black Box",
+    "example": "September 1989 · 6 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "That's What I Like",
+    "definition": "Jive Bunny And The Mastermixers",
+    "example": "October 1989 · 3 weeks at No.1"
+  },
+  {
+    "id": 93,
+    "term": "All Around The World",
+    "definition": "Lisa Stansfield",
+    "example": "November 1989 · 2 weeks at No.1"
+  },
+  {
+    "id": 94,
+    "term": "You Got It (The Right Stuff)",
+    "definition": "New Kids on the Block",
+    "example": "November 1989 · 3 weeks at No.1"
+  },
+  {
+    "id": 95,
+    "term": "Let's Party",
+    "definition": "Jive Bunny And The Mastermixers",
+    "example": "December 1989 · 1 week at No.1"
+  },
+  {
+    "id": 96,
+    "term": "Do They Know It's Christmas?",
+    "definition": "Band Aid II",
+    "example": "December 1989 · 3 weeks at No.1"
+  }
+];
+window.QM_NO1S9095_DATA = [
+  {
+    "id": 1,
+    "term": "Hangin' Tough",
+    "definition": "New Kids on the Block",
+    "example": "January 1990 · 2 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Tears On My Pillow",
+    "definition": "Kylie Minogue",
+    "example": "January 1990 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Nothing Compares 2 U",
+    "definition": "Sinead O'Connor",
+    "example": "February 1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Dub Be Good To Me",
+    "definition": "Beats International featuring Lindy Layton",
+    "example": "March 1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "The Power",
+    "definition": "Snap!",
+    "example": "March 1990 · 2 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Vogue",
+    "definition": "Madonna",
+    "example": "April 1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Killer",
+    "definition": "Adamski",
+    "example": "May 1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "World in Motion...",
+    "definition": "Englandneworder",
+    "example": "June 1990 · 2 weeks at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Sacrifice / Healing Hands",
+    "definition": "Elton John",
+    "example": "June 1990 · 5 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Turtle Power",
+    "definition": "Partners In Kryme",
+    "example": "July 1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini",
+    "definition": "Bombalurina",
+    "example": "August 1990 · 3 weeks at No.1"
+  },
+  {
+    "id": 12,
+    "term": "The Joker",
+    "definition": "The Steve Miller Band",
+    "example": "September 1990 · 2 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Show Me Heaven",
+    "definition": "Maria McKee",
+    "example": "September 1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "A Little Time",
+    "definition": "The Beautiful South",
+    "example": "October 1990 · 1 week at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Unchained Melody",
+    "definition": "The Righteous Brothers",
+    "example": "November 1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Ice Ice Baby",
+    "definition": "Vanilla Ice",
+    "example": "December 1990 · 4 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Saviour's Day",
+    "definition": "Cliff Richard",
+    "example": "December 1990 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Bring Your Daughter... To The Slaughter",
+    "definition": "Iron Maiden",
+    "example": "January 1991 · 2 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Sadeness Part 1",
+    "definition": "Enigma",
+    "example": "January 1991 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Innuendo",
+    "definition": "Queen",
+    "example": "January 1991 · 1 week at No.1"
+  },
+  {
+    "id": 21,
+    "term": "3AM Eternal",
+    "definition": "KLF featuring The Children Of The Revolution",
+    "example": "February 1991 · 2 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Do The Bartman",
+    "definition": "Simpsons",
+    "example": "February 1991 · 3 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Should I Stay Or Should I Go",
+    "definition": "The Clash",
+    "example": "March 1991 · 2 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "The Stonk",
+    "definition": "Hale And Pace And The Stonkers",
+    "example": "March 1991 · 1 week at No.1"
+  },
+  {
+    "id": 25,
+    "term": "The One And Only",
+    "definition": "Chesney Hawkes",
+    "example": "March 1991 · 5 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "The Shoop Shoop Song (It's In His Kiss)",
+    "definition": "Cher",
+    "example": "May 1991 · 5 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "I Wanna Sex You Up",
+    "definition": "Color Me Badd",
+    "example": "June 1991 · 3 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Any Dream Will Do",
+    "definition": "Jason Donovan",
+    "example": "June 1991 · 2 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "(Everything I Do) I Do It For You",
+    "definition": "Bryan Adams",
+    "example": "July 1991 · 16 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "The Fly",
+    "definition": "U2",
+    "example": "November 1991 · 1 week at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Dizzy",
+    "definition": "Vic Reeves And The Wonder Stuff",
+    "example": "November 1991 · 2 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Black Or White",
+    "definition": "Michael Jackson",
+    "example": "November 1991 · 2 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Don't Let The Sun Go Down On Me",
+    "definition": "George Michael And Elton John",
+    "example": "December 1991 · 2 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Bohemian Rhapsody / These Are The Days Of Our Lives",
+    "definition": "Queen",
+    "example": "December 1991 · 5 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Goodnight Girl",
+    "definition": "Wet Wet Wet",
+    "example": "January 1992 · 4 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Stay",
+    "definition": "Shakespears Sister",
+    "example": "February 1992 · 8 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Deeply Dippy",
+    "definition": "Right Said Fred",
+    "example": "April 1992 · 3 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Please Don't Go / Game Boy",
+    "definition": "KWS",
+    "example": "May 1992 · 5 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Abba-esque (EP)",
+    "definition": "Erasure",
+    "example": "June 1992 · 5 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Ain't No Doubt",
+    "definition": "Jimmy Nail",
+    "example": "July 1992 · 3 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Rhythm Is A Dancer",
+    "definition": "Snap!",
+    "example": "August 1992 · 6 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Ebeneezer Goode",
+    "definition": "The Shamen",
+    "example": "September 1992 · 4 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Sleeping Satellite",
+    "definition": "Tasmin Archer",
+    "example": "October 1992 · 2 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "End Of The Road",
+    "definition": "Boyz II Men",
+    "example": "October 1992 · 3 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Would I Lie to You",
+    "definition": "Charles & Eddie",
+    "example": "November 1992 · 2 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "I Will Always Love You",
+    "definition": "Whitney Houston",
+    "example": "December 1992 · 10 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "No Limit",
+    "definition": "2 Unlimited",
+    "example": "February 1993 · 5 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Oh Carolina",
+    "definition": "Shaggy",
+    "example": "March 1993 · 2 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Young At Heart",
+    "definition": "The Bluebells",
+    "example": "April 1993 · 4 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Five Live (EP)",
+    "definition": "George Michael And Queen With Lisa Stansfield",
+    "example": "May 1993 · 3 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "All That She Wants",
+    "definition": "Ace of Base",
+    "example": "May 1993 · 3 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "(I Can't Help) Falling In Love With You",
+    "definition": "UB40",
+    "example": "June 1993 · 2 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Dreams",
+    "definition": "Gabrielle",
+    "example": "June 1993 · 3 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Pray",
+    "definition": "Take That",
+    "example": "July 1993 · 4 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Living On My Own",
+    "definition": "Freddie Mercury",
+    "example": "August 1993 · 2 weeks at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Mr. Vain",
+    "definition": "Culture Beat",
+    "example": "August 1993 · 4 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Boom! Shake The Room",
+    "definition": "DJ Jazzy Jeff & the Fresh Prince",
+    "example": "September 1993 · 2 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Relight My Fire",
+    "definition": "Take That featuring Lulu",
+    "example": "October 1993 · 2 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "I'd Do Anything for Love (But I Won't Do That)",
+    "definition": "Meat Loaf",
+    "example": "October 1993 · 7 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Mr. Blobby",
+    "definition": "Mr Blobby",
+    "example": "December 1993 · 3 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Babe",
+    "definition": "Take That",
+    "example": "December 1993 · 1 week at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Twist and Shout",
+    "definition": "Chaka Demus & Pliers featuring Jack Radics and Taxi Gang",
+    "example": "January 1994 · 2 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Things Can Only Get Better",
+    "definition": "D:Ream",
+    "example": "January 1994 · 4 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Without You",
+    "definition": "Mariah Carey",
+    "example": "February 1994 · 4 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Doop",
+    "definition": "Doop",
+    "example": "March 1994 · 3 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Everything Changes",
+    "definition": "Take That",
+    "example": "April 1994 · 2 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "The Most Beautiful Girl In The World",
+    "definition": "Prince",
+    "example": "April 1994 · 2 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "The Real Thing",
+    "definition": "Tony Di Bart",
+    "example": "May 1994 · 1 week at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Inside",
+    "definition": "Stiltskin",
+    "example": "May 1994 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Come On You Reds",
+    "definition": "Manchester Utd Football Squad",
+    "example": "May 1994 · 2 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Love Is All Around",
+    "definition": "Wet Wet Wet",
+    "example": "June 1994 · 15 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Saturday Night",
+    "definition": "Whigfield",
+    "example": "September 1994 · 4 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "Sure",
+    "definition": "Take That",
+    "example": "October 1994 · 2 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Baby Come Back",
+    "definition": "Pato Banton",
+    "example": "October 1994 · 4 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Let Me Be Your Fantasy",
+    "definition": "Baby D",
+    "example": "November 1994 · 2 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Stay Another Day",
+    "definition": "East 17",
+    "example": "December 1994 · 5 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Cotton Eye Joe",
+    "definition": "Rednex",
+    "example": "January 1995 · 3 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Think Twice",
+    "definition": "Celine Dion",
+    "example": "February 1995 · 7 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Love Can Build A Bridge",
+    "definition": "Cher, Chrissie Hynde & Neneh Cherry With Eric Clapton",
+    "example": "March 1995 · 1 week at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Don't Stop (Wiggle Wiggle)",
+    "definition": "The Outhere Brothers",
+    "example": "April 1995 · 1 week at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Back For Good",
+    "definition": "Take That",
+    "example": "April 1995 · 4 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Some Might Say",
+    "definition": "Oasis",
+    "example": "May 1995 · 1 week at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Dreamer",
+    "definition": "Livin' Joy",
+    "example": "May 1995 · 1 week at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Unchained Melody / White Cliffs Of Dover",
+    "definition": "Robson & Jerome",
+    "example": "May 1995 · 7 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Boom Boom Boom",
+    "definition": "The Outhere Brothers",
+    "example": "July 1995 · 4 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "Never Forget",
+    "definition": "Take That",
+    "example": "August 1995 · 3 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Country House",
+    "definition": "Blur",
+    "example": "August 1995 · 2 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "You Are Not Alone",
+    "definition": "Michael Jackson",
+    "example": "September 1995 · 2 weeks at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Boombastic",
+    "definition": "Shaggy",
+    "example": "September 1995 · 1 week at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Fairground",
+    "definition": "Simply Red",
+    "example": "September 1995 · 4 weeks at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Gangsta's Paradise",
+    "definition": "Coolio feat. L.V.",
+    "example": "October 1995 · 2 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "I Believe / Up On The Roof",
+    "definition": "Robson & Jerome",
+    "example": "November 1995 · 4 weeks at No.1"
+  },
+  {
+    "id": 93,
+    "term": "Earth Song",
+    "definition": "Michael Jackson",
+    "example": "December 1995 · 6 weeks at No.1"
+  }
+];
+window.QM_NO1S9699_DATA = [
+  {
+    "id": 1,
+    "term": "Jesus To A Child",
+    "definition": "George Michael",
+    "example": "January 1996 · 1 week at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Spaceman",
+    "definition": "Babylon Zoo",
+    "example": "January 1996 · 5 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Don't Look Back in Anger",
+    "definition": "Oasis",
+    "example": "March 1996 · 1 week at No.1"
+  },
+  {
+    "id": 4,
+    "term": "How Deep Is Your Love",
+    "definition": "Take That",
+    "example": "March 1996 · 3 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Firestarter",
+    "definition": "The Prodigy",
+    "example": "March 1996 · 3 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Return Of The Mack",
+    "definition": "Mark Morrison",
+    "example": "April 1996 · 2 weeks at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Fastlove",
+    "definition": "George Michael",
+    "example": "May 1996 · 3 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Ooh Aah...just a Little Bit",
+    "definition": "Gina G",
+    "example": "May 1996 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Three Lions",
+    "definition": "Baddiel & Skinner & Lightning Seeds",
+    "example": "June 1996 · 2 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Killing Me Softly",
+    "definition": "Fugees",
+    "example": "June 1996 · 5 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Forever Love",
+    "definition": "Gary Barlow",
+    "example": "July 1996 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Wannabe",
+    "definition": "Spice Girls",
+    "example": "July 1996 · 7 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Flava",
+    "definition": "Peter Andre",
+    "example": "September 1996 · 1 week at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Ready Or Not",
+    "definition": "Fugees",
+    "example": "September 1996 · 2 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Breakfast At Tiffany's",
+    "definition": "Deep Blue Something",
+    "example": "October 1996 · 1 week at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Setting Sun",
+    "definition": "The Chemical Brothers",
+    "example": "October 1996 · 1 week at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Words",
+    "definition": "Boyzone",
+    "example": "October 1996 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Say You'll Be There",
+    "definition": "Spice Girls",
+    "example": "October 1996 · 2 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "What Becomes of the Broken Hearted",
+    "definition": "Robson & Jerome",
+    "example": "November 1996 · 2 weeks at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Breathe",
+    "definition": "The Prodigy",
+    "example": "November 1996 · 2 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "I Feel You",
+    "definition": "Peter Andre",
+    "example": "December 1996 · 1 week at No.1"
+  },
+  {
+    "id": 22,
+    "term": "A Different Beat",
+    "definition": "Boyzone",
+    "example": "December 1996 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Knockin' on Heaven's Door / Throw These Guns Away",
+    "definition": "Dunblane",
+    "example": "December 1996 · 1 week at No.1"
+  },
+  {
+    "id": 24,
+    "term": "2 Become 1",
+    "definition": "Spice Girls",
+    "example": "December 1996 · 3 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Professional Widow (It's Got To Be Big)",
+    "definition": "Tori Amos",
+    "example": "January 1997 · 1 week at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Your Woman",
+    "definition": "White Town",
+    "example": "January 1997 · 1 week at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Beetlebum",
+    "definition": "Blur",
+    "example": "February 1997 · 1 week at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Ain't Nobody",
+    "definition": "LL Cool J",
+    "example": "February 1997 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Discotheque",
+    "definition": "U2",
+    "example": "February 1997 · 1 week at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Don't Speak",
+    "definition": "No Doubt",
+    "example": "February 1997 · 3 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Mama / Who Do You Think You Are",
+    "definition": "Spice Girls",
+    "example": "March 1997 · 3 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Block Rockin' Beats",
+    "definition": "The Chemical Brothers",
+    "example": "April 1997 · 1 week at No.1"
+  },
+  {
+    "id": 33,
+    "term": "I Believe I Can Fly",
+    "definition": "R. Kelly",
+    "example": "April 1997 · 3 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Blood on the Dance Floor",
+    "definition": "Michael Jackson",
+    "example": "May 1997 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Love Wont Wait",
+    "definition": "Gary Barlow",
+    "example": "May 1997 · 1 week at No.1"
+  },
+  {
+    "id": 36,
+    "term": "You're Not Alone",
+    "definition": "Olive",
+    "example": "May 1997 · 2 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "I Wanna Be The Only One",
+    "definition": "Eternal featuring BeBe Winans",
+    "example": "May 1997 · 1 week at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Mmm Bop",
+    "definition": "Hanson",
+    "example": "June 1997 · 3 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "I'll Be Missing You",
+    "definition": "Puff Daddy And Faith Evans ft 112",
+    "example": "June 1997 · 6 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "D'You Know What I Mean?",
+    "definition": "Oasis",
+    "example": "July 1997 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Men In Black",
+    "definition": "Will Smith",
+    "example": "August 1997 · 4 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "The Drugs Don't Work",
+    "definition": "The Verve",
+    "example": "September 1997 · 1 week at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Something About The Way You Look Tonight",
+    "definition": "Elton John",
+    "example": "September 1997 · 5 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Spice Up Your Life",
+    "definition": "Spice Girls",
+    "example": "October 1997 · 1 week at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Barbie Girl",
+    "definition": "Aqua",
+    "example": "November 1997 · 4 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Perfect Day",
+    "definition": "Various Artists",
+    "example": "November 1997 · 3 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Teletubbies Say Eh-Oh!",
+    "definition": "The Teletubbies",
+    "example": "December 1997 · 2 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Too Much",
+    "definition": "Spice Girls",
+    "example": "December 1997 · 2 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Never Ever",
+    "definition": "All Saints",
+    "example": "January 1998 · 1 week at No.1"
+  },
+  {
+    "id": 50,
+    "term": "All Around The World",
+    "definition": "Oasis",
+    "example": "January 1998 · 1 week at No.1"
+  },
+  {
+    "id": 51,
+    "term": "You Make Me Wanna...",
+    "definition": "Usher",
+    "example": "January 1998 · 1 week at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Doctor Jones",
+    "definition": "Aqua",
+    "example": "February 1998 · 2 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "My Heart Will Go On",
+    "definition": "Celine Dion",
+    "example": "February 1998 · 2 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Brimful of Asha",
+    "definition": "Cornershop",
+    "example": "February 1998 · 1 week at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Frozen",
+    "definition": "Madonna",
+    "example": "March 1998 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "It's Like That",
+    "definition": "Run-DMC vs Jason Nevins",
+    "example": "March 1998 · 6 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "All That I Need",
+    "definition": "Boyzone",
+    "example": "May 1998 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Under The Bridge / Lady Marmalade",
+    "definition": "All Saints",
+    "example": "May 1998 · 2 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Turn Back Time",
+    "definition": "Aqua",
+    "example": "May 1998 · 1 week at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Feel It",
+    "definition": "The Tamperer feat. Maya",
+    "example": "May 1998 · 1 week at No.1"
+  },
+  {
+    "id": 61,
+    "term": "C'est La Vie",
+    "definition": "B*Witched",
+    "example": "June 1998 · 2 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "3 Lions '98",
+    "definition": "Baddiel & Skinner & Lightning Seeds",
+    "example": "June 1998 · 3 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Because We Want To",
+    "definition": "Billie",
+    "example": "July 1998 · 1 week at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Freak Me",
+    "definition": "Another Level",
+    "example": "July 1998 · 1 week at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Deeper Underground",
+    "definition": "Jamiroquai",
+    "example": "July 1998 · 1 week at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Viva Forever",
+    "definition": "Spice Girls",
+    "example": "August 1998 · 2 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "No Matter What",
+    "definition": "Boyzone",
+    "example": "August 1998 · 3 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "If You Tolerate This Your Children Will Be Next",
+    "definition": "Manic Street Preachers",
+    "example": "September 1998 · 1 week at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Bootie Call",
+    "definition": "All Saints",
+    "example": "September 1998 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Millennium",
+    "definition": "Robbie Williams",
+    "example": "September 1998 · 1 week at No.1"
+  },
+  {
+    "id": 71,
+    "term": "I Want You Back",
+    "definition": "Melanie B ft Missy Elliott",
+    "example": "September 1998 · 1 week at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Rollercoaster",
+    "definition": "B*Witched",
+    "example": "October 1998 · 2 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "Girlfriend",
+    "definition": "Billie",
+    "example": "October 1998 · 1 week at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Gym And Tonic",
+    "definition": "Spacedust",
+    "example": "October 1998 · 1 week at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Believe",
+    "definition": "Cher",
+    "example": "October 1998 · 6 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "To You I Belong",
+    "definition": "B*Witched",
+    "example": "December 1998 · 1 week at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Goodbye",
+    "definition": "Spice Girls",
+    "example": "December 1998 · 1 week at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Chocolate Salty Balls",
+    "definition": "Chef",
+    "example": "December 1998 · 1 week at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Heartbeat / Tragedy",
+    "definition": "Steps",
+    "example": "January 1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Praise You",
+    "definition": "Fatboy Slim",
+    "example": "January 1999 · 1 week at No.1"
+  },
+  {
+    "id": 81,
+    "term": "A Little Bit More",
+    "definition": "911",
+    "example": "January 1999 · 1 week at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Pretty Fly (For A White Guy)",
+    "definition": "The Offspring",
+    "example": "January 1999 · 1 week at No.1"
+  },
+  {
+    "id": 83,
+    "term": "You Don't Know Me",
+    "definition": "Armand Van Helden Featuring Duane Harden",
+    "example": "February 1999 · 1 week at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Maria",
+    "definition": "Blondie",
+    "example": "February 1999 · 1 week at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Fly Away",
+    "definition": "Lenny Kravitz",
+    "example": "February 1999 · 1 week at No.1"
+  },
+  {
+    "id": 86,
+    "term": "...Baby One More Time",
+    "definition": "Britney Spears",
+    "example": "February 1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "When The Going Gets Tough",
+    "definition": "Boyzone",
+    "example": "March 1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Blame It On The Weatherman",
+    "definition": "B*Witched",
+    "example": "March 1999 · 1 week at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Flat Beat",
+    "definition": "Mr. Oizo",
+    "example": "April 1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Perfect Moment",
+    "definition": "Martine McCutcheon",
+    "example": "April 1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Swear It Again",
+    "definition": "Westlife",
+    "example": "May 1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "I Want It That Way",
+    "definition": "Backstreet Boys",
+    "example": "May 1999 · 1 week at No.1"
+  },
+  {
+    "id": 93,
+    "term": "You Needed Me",
+    "definition": "Boyzone",
+    "example": "May 1999 · 1 week at No.1"
+  },
+  {
+    "id": 94,
+    "term": "Sweet Like Chocolate",
+    "definition": "Shanks & Bigfoot",
+    "example": "May 1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 95,
+    "term": "Everybody's Free (To Wear Sunscreen)",
+    "definition": "Baz Luhrmann",
+    "example": "June 1999 · 1 week at No.1"
+  },
+  {
+    "id": 96,
+    "term": "Bring It All Back",
+    "definition": "S Club 7",
+    "example": "June 1999 · 1 week at No.1"
+  },
+  {
+    "id": 97,
+    "term": "Boom,boom,boom,boom!!",
+    "definition": "Vengaboys",
+    "example": "June 1999 · 1 week at No.1"
+  },
+  {
+    "id": 98,
+    "term": "9PM (Till I Come)",
+    "definition": "ATB",
+    "example": "July 1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 99,
+    "term": "Livin' La Vida Loca",
+    "definition": "Ricky Martin",
+    "example": "July 1999 · 3 weeks at No.1"
+  },
+  {
+    "id": 100,
+    "term": "When You Say Nothing At All",
+    "definition": "Ronan Keating",
+    "example": "August 1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 101,
+    "term": "If I Let You Go",
+    "definition": "Westlife",
+    "example": "August 1999 · 1 week at No.1"
+  },
+  {
+    "id": 102,
+    "term": "Mi Chico Latino",
+    "definition": "Geri Halliwell",
+    "example": "August 1999 · 1 week at No.1"
+  },
+  {
+    "id": 103,
+    "term": "Mambo No.5 (A Little Bit Of...)",
+    "definition": "Lou Bega",
+    "example": "September 1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 104,
+    "term": "We're Going To Ibiza!",
+    "definition": "Vengaboys",
+    "example": "September 1999 · 1 week at No.1"
+  },
+  {
+    "id": 105,
+    "term": "Blue (Da Ba Dee)",
+    "definition": "Eiffel 65",
+    "example": "September 1999 · 3 weeks at No.1"
+  },
+  {
+    "id": 106,
+    "term": "Genie In A Bottle",
+    "definition": "Christina Aguilera",
+    "example": "October 1999 · 2 weeks at No.1"
+  },
+  {
+    "id": 107,
+    "term": "Flying Without Wings",
+    "definition": "Westlife",
+    "example": "October 1999 · 1 week at No.1"
+  },
+  {
+    "id": 108,
+    "term": "Keep On Movin'",
+    "definition": "Five",
+    "example": "November 1999 · 1 week at No.1"
+  },
+  {
+    "id": 109,
+    "term": "Lift Me Up",
+    "definition": "Geri Halliwell",
+    "example": "November 1999 · 1 week at No.1"
+  },
+  {
+    "id": 110,
+    "term": "She's The One / It's Only Us",
+    "definition": "Robbie Williams",
+    "example": "November 1999 · 1 week at No.1"
+  },
+  {
+    "id": 111,
+    "term": "King Of My Castle",
+    "definition": "Wamdue Project",
+    "example": "November 1999 · 1 week at No.1"
+  },
+  {
+    "id": 112,
+    "term": "The Millennium Prayer",
+    "definition": "Cliff Richard",
+    "example": "December 1999 · 3 weeks at No.1"
+  },
+  {
+    "id": 113,
+    "term": "I Have A Dream / Seasons In The Sun",
+    "definition": "Westlife",
+    "example": "December 1999 · 4 weeks at No.1"
+  }
+];
+window.QM_NO1S0002_DATA = [
+  {
+    "id": 1,
+    "term": "The Masses Against The Classes",
+    "definition": "Manic Street Preachers",
+    "example": "January 2000 · 1 week at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Born To Make You Happy",
+    "definition": "Britney Spears",
+    "example": "January 2000 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Rise",
+    "definition": "Gabrielle",
+    "example": "February 2000 · 2 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Go Let It Out",
+    "definition": "Oasis",
+    "example": "February 2000 · 1 week at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Pure Shores",
+    "definition": "All Saints",
+    "example": "February 2000 · 2 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "American Pie",
+    "definition": "Madonna",
+    "example": "March 2000 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Don't Give Up",
+    "definition": "Chicane ft Bryan Adams",
+    "example": "March 2000 · 1 week at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Bag It Up",
+    "definition": "Geri Halliwell",
+    "example": "March 2000 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Never Be The Same Again",
+    "definition": "Melanie C Featuring Lisa 'Left Eye' Lopes",
+    "example": "April 2000 · 1 week at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Fool Again",
+    "definition": "Westlife",
+    "example": "April 2000 · 1 week at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Fill Me In",
+    "definition": "Craig David",
+    "example": "April 2000 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Toca's Miracle",
+    "definition": "Coco vs Fragma",
+    "example": "April 2000 · 2 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Bound 4 Da Reload (Casualty)",
+    "definition": "Oxide & Neutrino",
+    "example": "May 2000 · 1 week at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Oops! I Did It Again",
+    "definition": "Britney Spears",
+    "example": "May 2000 · 1 week at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Don't Call Me Baby",
+    "definition": "Madison Avenue",
+    "example": "May 2000 · 1 week at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Day & Night",
+    "definition": "Billie Piper",
+    "example": "May 2000 · 1 week at No.1"
+  },
+  {
+    "id": 17,
+    "term": "It Feels So Good",
+    "definition": "Sonique",
+    "example": "June 2000 · 3 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "You See The Trouble With Me",
+    "definition": "Black Legend",
+    "example": "June 2000 · 1 week at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Spinning Around",
+    "definition": "Kylie Minogue",
+    "example": "July 2000 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "The Real Slim Shady",
+    "definition": "Eminem",
+    "example": "July 2000 · 1 week at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Breathless",
+    "definition": "The Corrs",
+    "example": "July 2000 · 1 week at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Life Is A Rollercoaster",
+    "definition": "Ronan Keating",
+    "example": "July 2000 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "We Will Rock You",
+    "definition": "Five & Queen",
+    "example": "July 2000 · 1 week at No.1"
+  },
+  {
+    "id": 24,
+    "term": "7 Days",
+    "definition": "Craig David",
+    "example": "August 2000 · 1 week at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Rock DJ",
+    "definition": "Robbie Williams",
+    "example": "August 2000 · 1 week at No.1"
+  },
+  {
+    "id": 26,
+    "term": "I Turn To You",
+    "definition": "Melanie C",
+    "example": "August 2000 · 1 week at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Groovejet (If This Ain't Love)",
+    "definition": "Spiller",
+    "example": "August 2000 · 1 week at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Music",
+    "definition": "Madonna",
+    "example": "September 2000 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Take on Me",
+    "definition": "A1",
+    "example": "September 2000 · 1 week at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Lady (Hear Me Tonight)",
+    "definition": "Modjo",
+    "example": "September 2000 · 2 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Against All Odds",
+    "definition": "Mariah Carey ft Westlife",
+    "example": "September 2000 · 2 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Black Coffee",
+    "definition": "All Saints",
+    "example": "October 2000 · 1 week at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Beautiful Day",
+    "definition": "U2",
+    "example": "October 2000 · 1 week at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Stomp",
+    "definition": "Steps",
+    "example": "October 2000 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Holler / Let Love Lead The Way",
+    "definition": "Spice Girls",
+    "example": "November 2000 · 1 week at No.1"
+  },
+  {
+    "id": 36,
+    "term": "My Love",
+    "definition": "Westlife",
+    "example": "November 2000 · 1 week at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Same Old Brand New You",
+    "definition": "A1",
+    "example": "November 2000 · 1 week at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Can't Fight The Moonlight",
+    "definition": "Leann Rimes",
+    "example": "November 2000 · 1 week at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Independent Women Part I",
+    "definition": "Destiny's Child",
+    "example": "December 2000 · 1 week at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Never Had A Dream Come True",
+    "definition": "S Club 7",
+    "example": "December 2000 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Stan",
+    "definition": "Eminem",
+    "example": "December 2000 · 1 week at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Can We Fix It",
+    "definition": "Bob the Builder",
+    "example": "December 2000 · 3 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Touch Me",
+    "definition": "Rui Da Silva ft Cassandra",
+    "example": "January 2001 · 1 week at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Love Don't Cost A Thing",
+    "definition": "Jennifer Lopez",
+    "example": "January 2001 · 1 week at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Rollin'",
+    "definition": "Limp Bizkit",
+    "example": "January 2001 · 2 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Whole Again",
+    "definition": "Atomic Kitten",
+    "example": "February 2001 · 4 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "It Wasn't Me",
+    "definition": "Shaggy ft Rikrok",
+    "example": "March 2001 · 1 week at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Uptown Girl",
+    "definition": "Westlife",
+    "example": "March 2001 · 1 week at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Pure And Simple",
+    "definition": "Hearsay",
+    "example": "March 2001 · 3 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "What Took You So Long",
+    "definition": "Emma Bunton",
+    "example": "April 2001 · 2 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Survivor",
+    "definition": "Destiny's Child",
+    "example": "April 2001 · 1 week at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Don't Stop Movin'",
+    "definition": "S Club 7",
+    "example": "May 2001 · 2 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "It's Raining Men",
+    "definition": "Geri Halliwell",
+    "example": "May 2001 · 2 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Do You Really Like It",
+    "definition": "DJ Pied Piper & The Masters Of Ceremonies",
+    "example": "June 2001 · 1 week at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Angel",
+    "definition": "Shaggy feat. Rayvon",
+    "example": "June 2001 · 3 weeks at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Lady Marmalade",
+    "definition": "Christina Aguilera, Lil' Kim, Mya & Pink",
+    "example": "June 2001 · 1 week at No.1"
+  },
+  {
+    "id": 57,
+    "term": "The Way To Your Love",
+    "definition": "Hearsay",
+    "example": "July 2001 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Another Chance",
+    "definition": "Roger Sanchez",
+    "example": "July 2001 · 1 week at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Eternity / The Road To Mandalay",
+    "definition": "Robbie Williams",
+    "example": "July 2001 · 2 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Eternal Flame",
+    "definition": "Atomic Kitten",
+    "example": "August 2001 · 2 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "21 Seconds",
+    "definition": "So Solid Crew",
+    "example": "August 2001 · 1 week at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Let's Dance",
+    "definition": "Five",
+    "example": "August 2001 · 2 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Too Close",
+    "definition": "Blue",
+    "example": "September 2001 · 1 week at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Mambo No 5",
+    "definition": "Bob the Builder",
+    "example": "September 2001 · 1 week at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Hey Baby",
+    "definition": "DJ Otzi",
+    "example": "September 2001 · 1 week at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Can't Get You Out Of My Head",
+    "definition": "Kylie Minogue",
+    "example": "September 2001 · 4 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Because I Got High",
+    "definition": "Afroman",
+    "example": "October 2001 · 3 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Queen Of My Heart",
+    "definition": "Westlife",
+    "example": "November 2001 · 1 week at No.1"
+  },
+  {
+    "id": 69,
+    "term": "If You Come Back",
+    "definition": "Blue",
+    "example": "November 2001 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Have You Ever",
+    "definition": "S Club 7",
+    "example": "December 2001 · 1 week at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Gotta Get Thru This",
+    "definition": "Daniel Bedingfield",
+    "example": "December 2001 · 3 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Somethin' Stupid",
+    "definition": "Robbie Williams And Nicole Kidman",
+    "example": "December 2001 · 3 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "More Than A Woman",
+    "definition": "Aaliyah",
+    "example": "January 2002 · 1 week at No.1"
+  },
+  {
+    "id": 74,
+    "term": "My Sweet Lord",
+    "definition": "George Harrison",
+    "example": "January 2002 · 1 week at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Hero",
+    "definition": "Enrique Iglesias",
+    "example": "February 2002 · 4 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "World Of Our Own",
+    "definition": "Westlife",
+    "example": "March 2002 · 1 week at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Anything Is Possible / Evergreen",
+    "definition": "Will Young",
+    "example": "March 2002 · 3 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Unchained Melody",
+    "definition": "Gareth Gates",
+    "example": "March 2002 · 4 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "The Hindu Times",
+    "definition": "Oasis",
+    "example": "April 2002 · 1 week at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Freak Like Me",
+    "definition": "Sugababes",
+    "example": "May 2002 · 1 week at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Kiss Kiss",
+    "definition": "Holly Valance",
+    "example": "May 2002 · 1 week at No.1"
+  },
+  {
+    "id": 82,
+    "term": "If Tomorrow Never Comes",
+    "definition": "Ronan Keating",
+    "example": "May 2002 · 1 week at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Just A Little",
+    "definition": "Liberty X",
+    "example": "May 2002 · 1 week at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Without Me",
+    "definition": "Eminem",
+    "example": "June 2002 · 1 week at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Light My Fire",
+    "definition": "Will Young",
+    "example": "June 2002 · 2 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "A Little Less Conversation",
+    "definition": "Elvis Presley",
+    "example": "June 2002 · 4 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Anyone Of Us (Stupid Mistake)",
+    "definition": "Gareth Gates",
+    "example": "July 2002 · 3 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Colourblind",
+    "definition": "Darius",
+    "example": "August 2002 · 2 weeks at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Round Round",
+    "definition": "Sugababes",
+    "example": "August 2002 · 1 week at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Crossroads",
+    "definition": "Blazin' Squad",
+    "example": "August 2002 · 1 week at No.1"
+  },
+  {
+    "id": 91,
+    "term": "The Tide Is High (Get The Feeling)",
+    "definition": "Atomic Kitten",
+    "example": "September 2002 · 3 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "Just Like A Pill",
+    "definition": "Pink",
+    "example": "September 2002 · 1 week at No.1"
+  },
+  {
+    "id": 93,
+    "term": "The Long and Winding Road / Suspicious Minds",
+    "definition": "Will Young & Gareth Gates",
+    "example": "October 2002 · 2 weeks at No.1"
+  },
+  {
+    "id": 94,
+    "term": "The Ketchup Song (Asereje)",
+    "definition": "Las Ketchup",
+    "example": "October 2002 · 1 week at No.1"
+  },
+  {
+    "id": 95,
+    "term": "Dilemma",
+    "definition": "Nelly ft Kelly Rowland",
+    "example": "October 2002 · 2 weeks at No.1"
+  },
+  {
+    "id": 96,
+    "term": "Heaven",
+    "definition": "DJ Sammy & Yanou ft Do",
+    "example": "November 2002 · 1 week at No.1"
+  },
+  {
+    "id": 97,
+    "term": "Unbreakable",
+    "definition": "Westlife",
+    "example": "November 2002 · 1 week at No.1"
+  },
+  {
+    "id": 98,
+    "term": "Dirrty",
+    "definition": "Christina Aguilera ft Redman",
+    "example": "November 2002 · 2 weeks at No.1"
+  },
+  {
+    "id": 99,
+    "term": "If You're Not The One",
+    "definition": "Daniel Bedingfield",
+    "example": "December 2002 · 1 week at No.1"
+  },
+  {
+    "id": 100,
+    "term": "Lose Yourself",
+    "definition": "Eminem",
+    "example": "December 2002 · 1 week at No.1"
+  },
+  {
+    "id": 101,
+    "term": "Sorry Seems To Be The Hardest Word",
+    "definition": "Blue ft Elton John",
+    "example": "December 2002 · 1 week at No.1"
+  },
+  {
+    "id": 102,
+    "term": "Sound Of The Underground",
+    "definition": "Girls Aloud",
+    "example": "December 2002 · 4 weeks at No.1"
+  }
+];
+window.QM_NO1S0306_DATA = [
+  {
+    "id": 1,
+    "term": "Stop Living The Lie",
+    "definition": "David Sneddon",
+    "example": "January 2003 · 2 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "All The Things She Said",
+    "definition": "Tatu",
+    "example": "February 2003 · 4 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Beautiful",
+    "definition": "Christina Aguilera",
+    "example": "March 2003 · 2 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Spirit In The Sky",
+    "definition": "Gareth Gates ft the Kumars",
+    "example": "March 2003 · 2 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Make Luv",
+    "definition": "Room 5 ft Oliver Cheatham",
+    "example": "April 2003 · 4 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "You Said No",
+    "definition": "Busted",
+    "example": "May 2003 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Loneliness",
+    "definition": "Tomcraft",
+    "example": "May 2003 · 1 week at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Ignition Remix",
+    "definition": "R. Kelly",
+    "example": "May 2003 · 4 weeks at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Bring Me To Life",
+    "definition": "Evanescence",
+    "example": "June 2003 · 4 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Crazy In Love",
+    "definition": "Beyonce",
+    "example": "July 2003 · 3 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Never Gonna Leave Your Side",
+    "definition": "Daniel Bedingfield",
+    "example": "August 2003 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Breathe",
+    "definition": "Blu Cantrell ft Sean Paul",
+    "example": "August 2003 · 4 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Are You Ready for Love",
+    "definition": "Elton John",
+    "example": "September 2003 · 1 week at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Where Is the Love",
+    "definition": "Black Eyed Peas",
+    "example": "September 2003 · 6 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Hole In The Head",
+    "definition": "Sugababes",
+    "example": "October 2003 · 1 week at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Be Faithful",
+    "definition": "Fatman Scoop & Crooklyn Clan",
+    "example": "November 2003 · 2 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Slow",
+    "definition": "Kylie Minogue",
+    "example": "November 2003 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Crashed The Wedding",
+    "definition": "Busted",
+    "example": "November 2003 · 1 week at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Mandy",
+    "definition": "Westlife",
+    "example": "November 2003 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Leave Right Now",
+    "definition": "Will Young",
+    "example": "December 2003 · 2 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Changes",
+    "definition": "Ozzy & Kelly Osbourne",
+    "example": "December 2003 · 1 week at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Mad World",
+    "definition": "Michael Andrews ft Gary Jules",
+    "example": "December 2003 · 3 weeks at No.1"
+  },
+  {
+    "id": 23,
+    "term": "All This Time",
+    "definition": "Michelle",
+    "example": "January 2004 · 3 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Take Me to the Clouds Above",
+    "definition": "LMC vs U2",
+    "example": "February 2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "With a Little Help From My Friends",
+    "definition": "Sam & Mark",
+    "example": "February 2004 · 1 week at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Who's David",
+    "definition": "Busted",
+    "example": "February 2004 · 1 week at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Mysterious Girl",
+    "definition": "Peter Andre",
+    "example": "March 2004 · 1 week at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Toxic",
+    "definition": "Britney Spears",
+    "example": "March 2004 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Cha Cha Slide",
+    "definition": "DJ Casper",
+    "example": "March 2004 · 1 week at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Yeah",
+    "definition": "Usher ft Lil' Jon & Ludacris",
+    "example": "March 2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "5 Colours In Her Hair",
+    "definition": "McFly",
+    "example": "April 2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "F**k It (I Don't Want You Back)",
+    "definition": "Eamon",
+    "example": "April 2004 · 4 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "F.U.R.B. (F U Right Back)",
+    "definition": "Frankee",
+    "example": "May 2004 · 3 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "I Don't Wanna Know",
+    "definition": "Mario Winans ft Enya & P.diddy",
+    "example": "June 2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Everytime",
+    "definition": "Britney Spears",
+    "example": "June 2004 · 1 week at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Obviously",
+    "definition": "McFly",
+    "example": "July 2004 · 1 week at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Burn",
+    "definition": "Usher",
+    "example": "July 2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Lola's Theme",
+    "definition": "Shapeshifters",
+    "example": "July 2004 · 1 week at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Dry Your Eyes",
+    "definition": "The Streets",
+    "example": "July 2004 · 1 week at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Thunderbirds / 3AM",
+    "definition": "Busted",
+    "example": "August 2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Baby Cakes",
+    "definition": "3 of a Kind",
+    "example": "August 2004 · 1 week at No.1"
+  },
+  {
+    "id": 42,
+    "term": "These Words",
+    "definition": "Natasha Bedingfield",
+    "example": "August 2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "My Place / Flap Your Wings",
+    "definition": "Nelly",
+    "example": "September 2004 · 1 week at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Real To Me",
+    "definition": "Brian McFadden",
+    "example": "September 2004 · 1 week at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Call On Me",
+    "definition": "Eric Prydz",
+    "example": "September 2004 · 5 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Radio",
+    "definition": "Robbie Williams",
+    "example": "October 2004 · 1 week at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Wonderful",
+    "definition": "Ja Rule ft R. Kelly & Ashanti",
+    "example": "November 2004 · 1 week at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Just Lose It",
+    "definition": "Eminem",
+    "example": "November 2004 · 1 week at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Vertigo",
+    "definition": "U2",
+    "example": "November 2004 · 1 week at No.1"
+  },
+  {
+    "id": 50,
+    "term": "I'll Stand By You",
+    "definition": "Girls Aloud",
+    "example": "November 2004 · 2 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Do They Know It's Christmas",
+    "definition": "Band Aid 20",
+    "example": "December 2004 · 4 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Against All Odds",
+    "definition": "Steve Brookstein",
+    "example": "January 2005 · 1 week at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Jailhouse Rock",
+    "definition": "Elvis Presley",
+    "example": "January 2005 · 1 week at No.1"
+  },
+  {
+    "id": 54,
+    "term": "One Night / I Got Stung",
+    "definition": "Elvis Presley",
+    "example": "January 2005 · 1 week at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Goodies",
+    "definition": "Ciara ft Petey Pablo",
+    "example": "January 2005 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "It's Now or Never",
+    "definition": "Elvis Presley",
+    "example": "February 2005 · 1 week at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Like Toy Soldiers",
+    "definition": "Eminem",
+    "example": "February 2005 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Sometimes You Can't Make It On Your Own",
+    "definition": "U2",
+    "example": "February 2005 · 1 week at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Get Right",
+    "definition": "Jennifer Lopez",
+    "example": "February 2005 · 1 week at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Over and Over",
+    "definition": "Nelly ft Tim McGraw",
+    "example": "March 2005 · 1 week at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Dakota",
+    "definition": "Stereophonics",
+    "example": "March 2005 · 1 week at No.1"
+  },
+  {
+    "id": 62,
+    "term": "All About You / You've Got A Friend",
+    "definition": "McFly",
+    "example": "March 2005 · 1 week at No.1"
+  },
+  {
+    "id": 63,
+    "term": "(Is This The Way To) Amarillo",
+    "definition": "Tony Christie ft Peter Kay",
+    "example": "March 2005 · 7 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Lonely",
+    "definition": "Akon",
+    "example": "May 2005 · 2 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Lyla",
+    "definition": "Oasis",
+    "example": "May 2005 · 1 week at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Axel F",
+    "definition": "Crazy Frog",
+    "example": "June 2005 · 4 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Ghetto Gospel",
+    "definition": "2PAC ft Elton John",
+    "example": "July 2005 · 3 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "You're Beautiful",
+    "definition": "James Blunt",
+    "example": "July 2005 · 5 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "I'll Be OK",
+    "definition": "McFly",
+    "example": "August 2005 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "The Importance Of Being Idle",
+    "definition": "Oasis",
+    "example": "September 2005 · 1 week at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Dare",
+    "definition": "Gorillaz",
+    "example": "September 2005 · 1 week at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Don't Cha",
+    "definition": "The Pussycat Dolls ft Busta Rhymes",
+    "example": "September 2005 · 3 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "Push The Button",
+    "definition": "Sugababes",
+    "example": "October 2005 · 3 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "I Bet You Look Good On The Dancefloor",
+    "definition": "Arctic Monkeys",
+    "example": "October 2005 · 1 week at No.1"
+  },
+  {
+    "id": 75,
+    "term": "You Raise Me Up",
+    "definition": "Westlife",
+    "example": "November 2005 · 2 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Hung Up",
+    "definition": "Madonna",
+    "example": "November 2005 · 3 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Stickwitu",
+    "definition": "The Pussycat Dolls",
+    "example": "December 2005 · 2 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "JCB Song",
+    "definition": "Nizlopi",
+    "example": "December 2005 · 1 week at No.1"
+  },
+  {
+    "id": 79,
+    "term": "That's My Goal",
+    "definition": "Shayne Ward",
+    "example": "December 2005 · 4 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "When The Sun Goes Down",
+    "definition": "Arctic Monkeys",
+    "example": "January 2006 · 1 week at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Nasty Girl",
+    "definition": "The Notorious B.I.G. Feat. Diddy, Nelly, Jagged Edge & Avery Storm",
+    "example": "February 2006 · 2 weeks at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Thunder In My Heart Again",
+    "definition": "Meck ft Leo Sayer",
+    "example": "February 2006 · 2 weeks at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Sorry",
+    "definition": "Madonna",
+    "example": "March 2006 · 1 week at No.1"
+  },
+  {
+    "id": 84,
+    "term": "It's Chico Time",
+    "definition": "Chico",
+    "example": "March 2006 · 2 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "No Tomorrow",
+    "definition": "Orson",
+    "example": "March 2006 · 1 week at No.1"
+  },
+  {
+    "id": 86,
+    "term": "So Sick",
+    "definition": "Ne-Yo",
+    "example": "April 2006 · 1 week at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Crazy",
+    "definition": "Gnarls Barkley",
+    "example": "April 2006 · 9 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "I Wish I Was a Punk Rocker (With Flowers in My Hair)",
+    "definition": "Sandi Thom",
+    "example": "June 2006 · 1 week at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Maneater",
+    "definition": "Nelly Furtado",
+    "example": "June 2006 · 3 weeks at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Hips Don't Lie",
+    "definition": "Shakira ft Wyclef Jean",
+    "example": "July 2006 · 5 weeks at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Smile",
+    "definition": "Lily Allen",
+    "example": "July 2006 · 2 weeks at No.1"
+  },
+  {
+    "id": 92,
+    "term": "Don't Stop Me Now / Please, Please",
+    "definition": "McFly",
+    "example": "July 2006 · 1 week at No.1"
+  },
+  {
+    "id": 93,
+    "term": "Deja Vu",
+    "definition": "Beyonce ft Jay-Z",
+    "example": "September 2006 · 1 week at No.1"
+  },
+  {
+    "id": 94,
+    "term": "SexyBack",
+    "definition": "Justin Timberlake",
+    "example": "September 2006 · 1 week at No.1"
+  },
+  {
+    "id": 95,
+    "term": "I Don't Feel Like Dancin'",
+    "definition": "Scissor Sisters",
+    "example": "September 2006 · 4 weeks at No.1"
+  },
+  {
+    "id": 96,
+    "term": "America",
+    "definition": "Razorlight",
+    "example": "October 2006 · 1 week at No.1"
+  },
+  {
+    "id": 97,
+    "term": "Welcome To The Black Parade",
+    "definition": "My Chemical Romance",
+    "example": "October 2006 · 2 weeks at No.1"
+  },
+  {
+    "id": 98,
+    "term": "Star Girl",
+    "definition": "McFly",
+    "example": "November 2006 · 1 week at No.1"
+  },
+  {
+    "id": 99,
+    "term": "Put Your Hands Up for Detroit",
+    "definition": "Fedde Le Grand",
+    "example": "November 2006 · 1 week at No.1"
+  },
+  {
+    "id": 100,
+    "term": "The Rose",
+    "definition": "Westlife",
+    "example": "November 2006 · 1 week at No.1"
+  },
+  {
+    "id": 101,
+    "term": "Smack That",
+    "definition": "Akon ft Eminem",
+    "example": "November 2006 · 1 week at No.1"
+  },
+  {
+    "id": 102,
+    "term": "Patience",
+    "definition": "Take That",
+    "example": "December 2006 · 4 weeks at No.1"
+  },
+  {
+    "id": 103,
+    "term": "A Moment Like This",
+    "definition": "Leona Lewis",
+    "example": "December 2006 · 4 weeks at No.1"
+  }
+];
+window.QM_NO1S0710_DATA = [
+  {
+    "id": 1,
+    "term": "Grace Kelly",
+    "definition": "Mika",
+    "example": "January 2007 · 5 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Ruby",
+    "definition": "Kaiser Chiefs",
+    "example": "March 2007 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Shine",
+    "definition": "Take That",
+    "example": "March 2007 · 2 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Walk This Way",
+    "definition": "Sugababes vs Girls Aloud",
+    "example": "March 2007 · 1 week at No.1"
+  },
+  {
+    "id": 5,
+    "term": "(I'm Gonna Be) 500 Miles",
+    "definition": "Proclaimers, Brian Potter & Andy Pipkin",
+    "example": "March 2007 · 3 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Give It To Me",
+    "definition": "Timbaland Featuring Nelly Furtado & Justin Timberlake",
+    "example": "April 2007 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Beautiful Liar",
+    "definition": "Beyonce & Shakira",
+    "example": "April 2007 · 3 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Baby's Coming Back / Transylvania",
+    "definition": "McFly",
+    "example": "May 2007 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Umbrella",
+    "definition": "Rihanna ft Jay-Z",
+    "example": "May 2007 · 10 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "The Way I Are",
+    "definition": "Timbaland ft Keri Hilson",
+    "example": "August 2007 · 2 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "With Every Heartbeat",
+    "definition": "Robyn With Kleerup",
+    "example": "August 2007 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Stronger",
+    "definition": "Kanye West",
+    "example": "August 2007 · 2 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Beautiful Girls",
+    "definition": "Sean Kingston",
+    "example": "September 2007 · 4 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "About You Now",
+    "definition": "Sugababes",
+    "example": "October 2007 · 4 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Bleeding Love",
+    "definition": "Leona Lewis",
+    "example": "November 2007 · 7 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "What A Wonderful World",
+    "definition": "Eva Cassidy & Katie Melua",
+    "example": "December 2007 · 1 week at No.1"
+  },
+  {
+    "id": 17,
+    "term": "When You Believe",
+    "definition": "Leon Jackson",
+    "example": "December 2007 · 3 weeks at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Now You're Gone",
+    "definition": "Basshunter ft DJ Mental Theo's Bazzheadz",
+    "example": "January 2008 · 5 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Mercy",
+    "definition": "Duffy",
+    "example": "February 2008 · 5 weeks at No.1"
+  },
+  {
+    "id": 20,
+    "term": "American Boy",
+    "definition": "Estelle ft Kanye West",
+    "example": "March 2008 · 4 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "4 Minutes",
+    "definition": "Madonna ft Justin Timberlake",
+    "example": "April 2008 · 4 weeks at No.1"
+  },
+  {
+    "id": 22,
+    "term": "That's Not My Name",
+    "definition": "Ting Tings",
+    "example": "May 2008 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Take A Bow",
+    "definition": "Rihanna",
+    "example": "May 2008 · 2 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Singin' In The Rain",
+    "definition": "Mint Royale",
+    "example": "June 2008 · 2 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Viva La Vida",
+    "definition": "Coldplay",
+    "example": "June 2008 · 1 week at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Closer",
+    "definition": "Ne-Yo",
+    "example": "July 2008 · 1 week at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Dance Wiv Me",
+    "definition": "Dizzee Rascal Featuring Calvin Harris And Chrome",
+    "example": "July 2008 · 4 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "All Summer Long",
+    "definition": "Kid Rock",
+    "example": "August 2008 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "I Kissed A Girl",
+    "definition": "Katy Perry",
+    "example": "August 2008 · 5 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Sex on Fire",
+    "definition": "Kings of Leon",
+    "example": "September 2008 · 3 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "So What",
+    "definition": "Pink",
+    "example": "October 2008 · 3 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "The Promise",
+    "definition": "Girls Aloud",
+    "example": "November 2008 · 1 week at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Hero",
+    "definition": "X Factor Finalists",
+    "example": "November 2008 · 3 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "If I Were A Boy",
+    "definition": "Beyonce",
+    "example": "November 2008 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Greatest Day",
+    "definition": "Take That",
+    "example": "December 2008 · 1 week at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Run",
+    "definition": "Leona Lewis",
+    "example": "December 2008 · 2 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Hallelujah",
+    "definition": "Alexandra Burke",
+    "example": "December 2008 · 3 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Just Dance",
+    "definition": "Lady Gaga ft Colby O'Donis",
+    "example": "January 2009 · 3 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "The Fear",
+    "definition": "Lily Allen",
+    "example": "February 2009 · 4 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "My Life Would Suck Without You",
+    "definition": "Kelly Clarkson",
+    "example": "March 2009 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Right Round",
+    "definition": "Flo Rida ft Kesha",
+    "example": "March 2009 · 1 week at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Islands In The Stream",
+    "definition": "Vanessa Jenkins And Bryn West Featuring Sir Tom Jones And Robin Gibb",
+    "example": "March 2009 · 1 week at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Poker Face",
+    "definition": "Lady Gaga",
+    "example": "March 2009 · 3 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "I'm Not Alone",
+    "definition": "Calvin Harris",
+    "example": "April 2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Number 1",
+    "definition": "Tinchy Stryder ft N-Dubz",
+    "example": "May 2009 · 3 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Boom Boom Pow",
+    "definition": "Black Eyed Peas",
+    "example": "May 2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Bonkers",
+    "definition": "Dizzee Rascal & Armand Van Helden",
+    "example": "May 2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Mama Do (Uh Oh, Uh Oh)",
+    "definition": "Pixie Lott",
+    "example": "June 2009 · 1 week at No.1"
+  },
+  {
+    "id": 49,
+    "term": "When Love Takes Over",
+    "definition": "David Guetta ft Kelly Rowland",
+    "example": "June 2009 · 1 week at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Bulletproof",
+    "definition": "La Roux",
+    "example": "July 2009 · 1 week at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Evacuate The Dancefloor",
+    "definition": "Cascada",
+    "example": "July 2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Beat Again",
+    "definition": "JLS",
+    "example": "July 2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "I Gotta Feeling",
+    "definition": "Black Eyed Peas",
+    "example": "August 2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Never Leave You",
+    "definition": "Tinchy Stryder ft Amelle",
+    "example": "August 2009 · 1 week at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Sexy Chick",
+    "definition": "David Guetta ft Akon",
+    "example": "August 2009 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Holiday",
+    "definition": "Dizzee Rascal",
+    "example": "September 2009 · 1 week at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Run This Town",
+    "definition": "Jay-Z ft Rihanna & Kanye West",
+    "example": "September 2009 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Boys & Girls",
+    "definition": "Pixie Lott",
+    "example": "September 2009 · 1 week at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Break Your Heart",
+    "definition": "Taio Cruz",
+    "example": "September 2009 · 3 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Oopsy Daisy",
+    "definition": "Chipmunk",
+    "example": "October 2009 · 1 week at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Bad Boys",
+    "definition": "Alexandra Burke ft Flo Rida",
+    "example": "October 2009 · 1 week at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Fight For This Love",
+    "definition": "Cheryl Cole",
+    "example": "October 2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Everybody In Love",
+    "definition": "JLS",
+    "example": "November 2009 · 1 week at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Meet Me Halfway",
+    "definition": "Black Eyed Peas",
+    "example": "November 2009 · 1 week at No.1"
+  },
+  {
+    "id": 65,
+    "term": "You Are Not Alone",
+    "definition": "X Factor Finalists 2009",
+    "example": "November 2009 · 1 week at No.1"
+  },
+  {
+    "id": 66,
+    "term": "The Official BBC Children In Need Medley",
+    "definition": "Peter Kay's Animated All Star Band",
+    "example": "December 2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Bad Romance",
+    "definition": "Lady Gaga",
+    "example": "December 2009 · 2 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Killing in the Name",
+    "definition": "Rage Against the Machine",
+    "example": "December 2009 · 1 week at No.1"
+  },
+  {
+    "id": 69,
+    "term": "The Climb",
+    "definition": "Joe McElderry",
+    "example": "January 2010 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Replay",
+    "definition": "Iyaz",
+    "example": "January 2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Fireflies",
+    "definition": "Owl City",
+    "example": "January 2010 · 3 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Everybody Hurts",
+    "definition": "Helping Haiti",
+    "example": "February 2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "In My Head",
+    "definition": "Jason Derulo",
+    "example": "March 2010 · 1 week at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Pass Out",
+    "definition": "Tinie Tempah",
+    "example": "March 2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Telephone",
+    "definition": "Lady Gaga ft Beyonce",
+    "example": "March 2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "This Ain't A Love Song",
+    "definition": "Scouting for Girls",
+    "example": "April 2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "OMG",
+    "definition": "Usher ft Will.i.am",
+    "example": "April 2010 · 1 week at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Once",
+    "definition": "Diana Vickers",
+    "example": "May 2010 · 1 week at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Good Times",
+    "definition": "Roll Deep",
+    "example": "May 2010 · 3 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Nothin' On You",
+    "definition": "B.o.B ft Bruno Mars",
+    "example": "May 2010 · 1 week at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Dirtee Disco",
+    "definition": "Dizzee Rascal",
+    "example": "June 2010 · 1 week at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Gettin' Over You",
+    "definition": "David Guetta ft Chris Willis",
+    "example": "June 2010 · 1 week at No.1"
+  },
+  {
+    "id": 83,
+    "term": "Shout",
+    "definition": "Shout ft Dizzee & James Corden",
+    "example": "June 2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 84,
+    "term": "California Gurls",
+    "definition": "Katy Perry ft Snoop Dogg",
+    "example": "July 2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "The Club Is Alive",
+    "definition": "JLS",
+    "example": "July 2010 · 1 week at No.1"
+  },
+  {
+    "id": 86,
+    "term": "Airplanes",
+    "definition": "B.o.B ft Hayley Williams",
+    "example": "July 2010 · 1 week at No.1"
+  },
+  {
+    "id": 87,
+    "term": "We No Speak Americano",
+    "definition": "Yolanda Be Cool vs D Cup",
+    "example": "July 2010 · 1 week at No.1"
+  },
+  {
+    "id": 88,
+    "term": "All Time Low",
+    "definition": "The Wanted",
+    "example": "August 2010 · 1 week at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Beautiful Monster",
+    "definition": "Ne-Yo",
+    "example": "August 2010 · 1 week at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Club Can't Handle Me",
+    "definition": "Flo Rida ft David Guetta",
+    "example": "August 2010 · 1 week at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Green Light",
+    "definition": "Roll Deep",
+    "example": "August 2010 · 1 week at No.1"
+  },
+  {
+    "id": 92,
+    "term": "Dynamite",
+    "definition": "Taio Cruz",
+    "example": "September 2010 · 1 week at No.1"
+  },
+  {
+    "id": 93,
+    "term": "Please Don't Let Me Go",
+    "definition": "Olly Murs",
+    "example": "September 2010 · 1 week at No.1"
+  },
+  {
+    "id": 94,
+    "term": "Start Without You",
+    "definition": "Alexandra Burke ft Laza Morgan",
+    "example": "September 2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 95,
+    "term": "Just The Way You Are (Amazing)",
+    "definition": "Bruno Mars",
+    "example": "October 2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 96,
+    "term": "Written In The Stars",
+    "definition": "Tinie Tempah ft Eric Turner",
+    "example": "October 2010 · 1 week at No.1"
+  },
+  {
+    "id": 97,
+    "term": "Forget You",
+    "definition": "Cee Lo Green",
+    "example": "October 2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 98,
+    "term": "Promise This",
+    "definition": "Cheryl Cole",
+    "example": "November 2010 · 1 week at No.1"
+  },
+  {
+    "id": 99,
+    "term": "Only Girl (In The World)",
+    "definition": "Rihanna",
+    "example": "November 2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 100,
+    "term": "Love You More",
+    "definition": "JLS",
+    "example": "November 2010 · 1 week at No.1"
+  },
+  {
+    "id": 101,
+    "term": "Heroes",
+    "definition": "X Factor Finalists 2010",
+    "example": "December 2010 · 2 weeks at No.1"
+  },
+  {
+    "id": 102,
+    "term": "The Time (Dirty Bit)",
+    "definition": "Black Eyed Peas",
+    "example": "December 2010 · 1 week at No.1"
+  },
+  {
+    "id": 103,
+    "term": "When We Collide",
+    "definition": "Matt Cardle",
+    "example": "December 2010 · 3 weeks at No.1"
+  }
+];
+window.QM_NO1S1113_DATA = [
+  {
+    "id": 1,
+    "term": "What's My Name",
+    "definition": "Rihanna ft Drake",
+    "example": "January 2011 · 1 week at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Grenade",
+    "definition": "Bruno Mars",
+    "example": "January 2011 · 2 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "We R Who We R",
+    "definition": "Kesha",
+    "example": "February 2011 · 1 week at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Price Tag",
+    "definition": "Jessie J ft Bob",
+    "example": "February 2011 · 2 weeks at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Someone Like You",
+    "definition": "Adele",
+    "example": "February 2011 · 5 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Don't Hold Your Breath",
+    "definition": "Nicole Scherzinger",
+    "example": "March 2011 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "On The Floor",
+    "definition": "Jennifer Lopez ft Pitbull",
+    "example": "April 2011 · 2 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Party Rock Anthem",
+    "definition": "LMFAO Featuring Lauren Bennett And GoonRock",
+    "example": "April 2011 · 4 weeks at No.1"
+  },
+  {
+    "id": 9,
+    "term": "The Lazy Song",
+    "definition": "Bruno Mars",
+    "example": "May 2011 · 1 week at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Give Me Everything",
+    "definition": "Pitbull Feat. Ne-Yo, Afrojack & Nayer",
+    "example": "May 2011 · 3 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Changed The Way You Kiss Me",
+    "definition": "Example",
+    "example": "June 2011 · 2 weeks at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Don't Wanna Go Home",
+    "definition": "Jason Derulo",
+    "example": "July 2011 · 2 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Louder",
+    "definition": "DJ Fresh ft Sian Evans",
+    "example": "July 2011 · 1 week at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Glad You Came",
+    "definition": "The Wanted",
+    "example": "July 2011 · 2 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "She Makes Me Wanna",
+    "definition": "JLS ft Dev",
+    "example": "August 2011 · 1 week at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Swagger Jagger",
+    "definition": "Cher Lloyd",
+    "example": "August 2011 · 1 week at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Promises",
+    "definition": "Nero",
+    "example": "August 2011 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Don't Go",
+    "definition": "Wretch 32 ft Josh Kumra",
+    "example": "August 2011 · 1 week at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Heart Skips A Beat",
+    "definition": "Olly Murs ft Rizzle Kicks",
+    "example": "September 2011 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Stay Awake",
+    "definition": "Example",
+    "example": "September 2011 · 1 week at No.1"
+  },
+  {
+    "id": 21,
+    "term": "All About Tonight",
+    "definition": "Pixie Lott",
+    "example": "September 2011 · 1 week at No.1"
+  },
+  {
+    "id": 22,
+    "term": "What Makes You Beautiful",
+    "definition": "One Direction",
+    "example": "September 2011 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "No Regrets",
+    "definition": "Dappy",
+    "example": "October 2011 · 1 week at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Loca People",
+    "definition": "Sak Noel",
+    "example": "October 2011 · 1 week at No.1"
+  },
+  {
+    "id": 25,
+    "term": "We Found Love",
+    "definition": "Rihanna ft Calvin Harris",
+    "example": "October 2011 · 6 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Read All About It",
+    "definition": "Professor Green ft Emeli Sande",
+    "example": "November 2011 · 2 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Wishing On A Star",
+    "definition": "X Factor Finalists 2011",
+    "example": "December 2011 · 1 week at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Dance With Me Tonight",
+    "definition": "Olly Murs",
+    "example": "December 2011 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Cannonball",
+    "definition": "Little Mix",
+    "example": "December 2011 · 1 week at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Wherever You Are",
+    "definition": "Military Wives With Gareth Malone",
+    "example": "December 2011 · 1 week at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Paradise",
+    "definition": "Coldplay",
+    "example": "January 2012 · 1 week at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Good Feeling",
+    "definition": "Flo Rida",
+    "example": "January 2012 · 1 week at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Domino",
+    "definition": "Jessie J",
+    "example": "January 2012 · 2 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Twilight",
+    "definition": "Cover Drive",
+    "example": "February 2012 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Titanium",
+    "definition": "David Guetta ft Sia",
+    "example": "February 2012 · 1 week at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Somebody That I Used To Know",
+    "definition": "Gotye ft Kimbra",
+    "example": "February 2012 · 5 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Hot Right Now",
+    "definition": "DJ Fresh ft Rita Ora",
+    "example": "February 2012 · 1 week at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Part Of Me",
+    "definition": "Katy Perry",
+    "example": "March 2012 · 1 week at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Turn Up The Music",
+    "definition": "Chris Brown",
+    "example": "April 2012 · 1 week at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Call Me Maybe",
+    "definition": "Carly Rae Jepsen",
+    "example": "April 2012 · 4 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Young",
+    "definition": "Tulisa",
+    "example": "May 2012 · 1 week at No.1"
+  },
+  {
+    "id": 42,
+    "term": "R.I.P.",
+    "definition": "Rita Ora ft Tinie Tempah",
+    "example": "May 2012 · 2 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "We Are Young",
+    "definition": "Fun ft Janelle Monae",
+    "example": "June 2012 · 1 week at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Feel the Love",
+    "definition": "Rudimental ft John Newman",
+    "example": "June 2012 · 1 week at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Sing",
+    "definition": "Gary Barlow & The Commonwealth Band",
+    "example": "June 2012 · 1 week at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Call My Name",
+    "definition": "Cheryl",
+    "example": "June 2012 · 1 week at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Payphone",
+    "definition": "Maroon 5 ft Wiz Khalifa",
+    "example": "June 2012 · 2 weeks at No.1"
+  },
+  {
+    "id": 48,
+    "term": "This Is Love",
+    "definition": "Will.i.am ft Eva Simons",
+    "example": "July 2012 · 1 week at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Spectrum (Say My Name)",
+    "definition": "Florence & the Machine",
+    "example": "July 2012 · 3 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Heatwave",
+    "definition": "Wiley ft Ms D",
+    "example": "August 2012 · 2 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "How We Do (Party)",
+    "definition": "Rita Ora",
+    "example": "August 2012 · 1 week at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Bom Bom",
+    "definition": "Sam and the Womp",
+    "example": "September 2012 · 1 week at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Wings",
+    "definition": "Little Mix",
+    "example": "September 2012 · 1 week at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Let Me Love You (Until You Learn to Love Yourself)",
+    "definition": "Ne-Yo",
+    "example": "September 2012 · 1 week at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Hall of Fame",
+    "definition": "Script ft Will.i.am",
+    "example": "September 2012 · 2 weeks at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Gangnam Style",
+    "definition": "Psy",
+    "example": "October 2012 · 1 week at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Diamonds",
+    "definition": "Rihanna",
+    "example": "October 2012 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Don't You Worry Child",
+    "definition": "Swedish House Mafia Feat. John Martin",
+    "example": "October 2012 · 1 week at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Sweet Nothing",
+    "definition": "Calvin Harris Feat. Florence Welch",
+    "example": "October 2012 · 1 week at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Beneath Your Beautiful",
+    "definition": "Labrinth ft Emeli Sande",
+    "example": "November 2012 · 1 week at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Candy",
+    "definition": "Robbie Williams",
+    "example": "November 2012 · 2 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Little Things",
+    "definition": "One Direction",
+    "example": "November 2012 · 1 week at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Troublemaker",
+    "definition": "Olly Murs ft Flo Rida",
+    "example": "December 2012 · 2 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "The Power of Love",
+    "definition": "Gabrielle Aplin",
+    "example": "December 2012 · 1 week at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Impossible",
+    "definition": "James Arthur",
+    "example": "December 2012 · 3 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "He Ain't Heavy He's My Brother",
+    "definition": "Justice Collective",
+    "example": "December 2012 · 1 week at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Scream & Shout",
+    "definition": "Will.i.am ft Britney Spears",
+    "example": "January 2013 · 2 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Get Up (Rattle)",
+    "definition": "Bingo Players ft Far East",
+    "example": "February 2013 · 2 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Thrift Shop",
+    "definition": "Macklemore & Ryan Lewis Feat. Wanz",
+    "example": "February 2013 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "I Could Be the One",
+    "definition": "Avicii vs Nicky Romero",
+    "example": "February 2013 · 1 week at No.1"
+  },
+  {
+    "id": 71,
+    "term": "One Way or Another (Teenage Kicks)",
+    "definition": "One Direction",
+    "example": "March 2013 · 1 week at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Mirrors",
+    "definition": "Justin Timberlake",
+    "example": "March 2013 · 3 weeks at No.1"
+  },
+  {
+    "id": 73,
+    "term": "What About Us",
+    "definition": "Saturdays ft Sean Paul",
+    "example": "March 2013 · 1 week at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Let's Get Ready To Rhumble",
+    "definition": "PJ & Duncan",
+    "example": "April 2013 · 1 week at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Need U (100 Percent)",
+    "definition": "Duke Dumont ft Ame",
+    "example": "April 2013 · 2 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Waiting All Night",
+    "definition": "Rudimental ft Ella Eyre",
+    "example": "April 2013 · 1 week at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Get Lucky",
+    "definition": "Daft Punk ft Pharrell Williams",
+    "example": "May 2013 · 4 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "La La La",
+    "definition": "Naughty Boy ft Sam Smith",
+    "example": "June 2013 · 1 week at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Blurred Lines",
+    "definition": "Robin Thicke Feat. T.I. + Pharrell",
+    "example": "June 2013 · 5 weeks at No.1"
+  },
+  {
+    "id": 80,
+    "term": "I Love It",
+    "definition": "Icona Pop ft Charli Xcx",
+    "example": "July 2013 · 1 week at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Love Me Again",
+    "definition": "John Newman",
+    "example": "July 2013 · 1 week at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Wake Me Up",
+    "definition": "Avicii",
+    "example": "July 2013 · 3 weeks at No.1"
+  },
+  {
+    "id": 83,
+    "term": "We Can't Stop",
+    "definition": "Miley Cyrus",
+    "example": "August 2013 · 1 week at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Burn",
+    "definition": "Ellie Goulding",
+    "example": "August 2013 · 3 weeks at No.1"
+  },
+  {
+    "id": 85,
+    "term": "Roar",
+    "definition": "Katy Perry",
+    "example": "September 2013 · 2 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "Talk Dirty",
+    "definition": "Jason Derulo ft 2 Chainz",
+    "example": "September 2013 · 2 weeks at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Counting Stars",
+    "definition": "OneRepublic",
+    "example": "October 2013 · 2 weeks at No.1"
+  },
+  {
+    "id": 88,
+    "term": "Wrecking Ball",
+    "definition": "Miley Cyrus",
+    "example": "October 2013 · 1 week at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Royals",
+    "definition": "Lorde",
+    "example": "November 2013 · 1 week at No.1"
+  },
+  {
+    "id": 90,
+    "term": "The Monster",
+    "definition": "Eminem ft Rihanna",
+    "example": "November 2013 · 1 week at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Look Right Through",
+    "definition": "Storm Queen",
+    "example": "November 2013 · 1 week at No.1"
+  },
+  {
+    "id": 92,
+    "term": "Animals",
+    "definition": "Martin Garrix",
+    "example": "November 2013 · 1 week at No.1"
+  },
+  {
+    "id": 93,
+    "term": "Somewhere Only We Know",
+    "definition": "Lily Allen",
+    "example": "November 2013 · 3 weeks at No.1"
+  },
+  {
+    "id": 94,
+    "term": "Under Control",
+    "definition": "Calvin Harris & Alesso Feat. Hurts",
+    "example": "December 2013 · 1 week at No.1"
+  },
+  {
+    "id": 95,
+    "term": "Skyscraper",
+    "definition": "Sam Bailey",
+    "example": "December 2013 · 1 week at No.1"
+  }
+];
+window.QM_NO1S1416_DATA = [
+  {
+    "id": 1,
+    "term": "Happy",
+    "definition": "Pharrell Williams",
+    "example": "January 2014 · 4 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Timber",
+    "definition": "Pitbull ft Kesha",
+    "example": "January 2014 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Rather Be",
+    "definition": "Clean Bandit ft Jess Glynne",
+    "example": "February 2014 · 4 weeks at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Money on My Mind",
+    "definition": "Sam Smith",
+    "example": "March 2014 · 1 week at No.1"
+  },
+  {
+    "id": 5,
+    "term": "My Love",
+    "definition": "Route 94 ft Jess Glynne",
+    "example": "March 2014 · 1 week at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Tsunami (Jump)",
+    "definition": "DVBBS & Borgeous Feat. Tinie Tempah",
+    "example": "March 2014 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "I Got U",
+    "definition": "Duke Dumont ft Jax Jones",
+    "example": "March 2014 · 1 week at No.1"
+  },
+  {
+    "id": 8,
+    "term": "She Looks So Perfect",
+    "definition": "5 Seconds of Summer",
+    "example": "April 2014 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "The Man",
+    "definition": "Aloe Blacc",
+    "example": "April 2014 · 1 week at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Nobody to Love",
+    "definition": "Sigma",
+    "example": "April 2014 · 1 week at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Hideaway",
+    "definition": "Kiesza",
+    "example": "April 2014 · 1 week at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Waves",
+    "definition": "Mr Probz",
+    "example": "May 2014 · 2 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Summer",
+    "definition": "Calvin Harris",
+    "example": "May 2014 · 1 week at No.1"
+  },
+  {
+    "id": 14,
+    "term": "I Will Never Let You Down",
+    "definition": "Rita Ora",
+    "example": "May 2014 · 1 week at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Stay With Me",
+    "definition": "Sam Smith",
+    "example": "May 2014 · 1 week at No.1"
+  },
+  {
+    "id": 16,
+    "term": "I Wanna Feel",
+    "definition": "Secondcity",
+    "example": "June 2014 · 1 week at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Sing",
+    "definition": "Ed Sheeran",
+    "example": "June 2014 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Ghost",
+    "definition": "Ella Henderson",
+    "example": "June 2014 · 2 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Gecko (Overdrive)",
+    "definition": "Oliver Heldens & Becky Hill",
+    "example": "July 2014 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "Problem",
+    "definition": "Ariana Grande ft Iggy Azalea",
+    "example": "July 2014 · 1 week at No.1"
+  },
+  {
+    "id": 21,
+    "term": "It's My Birthday",
+    "definition": "Will.i.am ft Cody Wise",
+    "example": "July 2014 · 1 week at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Me and My Broken Heart",
+    "definition": "Rixton",
+    "example": "July 2014 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Crazy Stupid Love",
+    "definition": "Cheryl Cole ft Tinie Tempah",
+    "example": "August 2014 · 1 week at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Rude",
+    "definition": "Magic",
+    "example": "August 2014 · 1 week at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Am I Wrong",
+    "definition": "Nico & Vinz",
+    "example": "August 2014 · 2 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Lovers on the Sun",
+    "definition": "David Guetta ft Sam Martin",
+    "example": "August 2014 · 1 week at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Prayer in C",
+    "definition": "Lilly Wood & Robin Schulz",
+    "example": "September 2014 · 2 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Blame",
+    "definition": "Calvin Harris ft John Newman",
+    "example": "September 2014 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Changing",
+    "definition": "Sigma ft Paloma Faith",
+    "example": "September 2014 · 1 week at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Bang Bang",
+    "definition": "Jessie J, Ariana Grande & Nicki Minaj",
+    "example": "October 2014 · 1 week at No.1"
+  },
+  {
+    "id": 31,
+    "term": "All About That Bass",
+    "definition": "Meghan Trainor",
+    "example": "October 2014 · 4 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Thinking Out Loud",
+    "definition": "Ed Sheeran",
+    "example": "November 2014 · 2 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "I Don't Care",
+    "definition": "Cheryl",
+    "example": "November 2014 · 1 week at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Wake Me Up",
+    "definition": "Gareth Malone's All Star Choir",
+    "example": "November 2014 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Do They Know It's Christmas",
+    "definition": "Band Aid 30",
+    "example": "November 2014 · 1 week at No.1"
+  },
+  {
+    "id": 36,
+    "term": "These Days",
+    "definition": "Take That",
+    "example": "December 2014 · 1 week at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Uptown Funk",
+    "definition": "Mark Ronson ft Bruno Mars",
+    "example": "December 2014 · 7 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Something I Need",
+    "definition": "Ben Haenow",
+    "example": "December 2014 · 1 week at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Love Me Like You Do",
+    "definition": "Ellie Goulding",
+    "example": "February 2015 · 4 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "King",
+    "definition": "Years & Years",
+    "example": "March 2015 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Lay Me Down",
+    "definition": "Sam Smith ft John Legend",
+    "example": "March 2015 · 2 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Hold My Hand",
+    "definition": "Jess Glynne",
+    "example": "April 2015 · 3 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "See You Again",
+    "definition": "Wiz Khalifa ft Charlie Puth",
+    "example": "April 2015 · 2 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Cheerleader (Felix Jaehn Remix)",
+    "definition": "Omi",
+    "example": "May 2015 · 4 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Want to Want Me",
+    "definition": "Jason Derulo",
+    "example": "June 2015 · 4 weeks at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Not Letting Go",
+    "definition": "Tinie Tempah ft Jess Glynne",
+    "example": "July 2015 · 1 week at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Are You With Me",
+    "definition": "Lost Frequencies",
+    "example": "July 2015 · 1 week at No.1"
+  },
+  {
+    "id": 48,
+    "term": "House Every Weekend",
+    "definition": "David Zowie",
+    "example": "July 2015 · 1 week at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Black Magic",
+    "definition": "Little Mix",
+    "example": "July 2015 · 3 weeks at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Drag Me Down",
+    "definition": "One Direction",
+    "example": "August 2015 · 1 week at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Marvin Gaye",
+    "definition": "Charlie Puth ft Meghan Trainor",
+    "example": "August 2015 · 1 week at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Don't Be So Hard on Yourself",
+    "definition": "Jess Glynne",
+    "example": "August 2015 · 1 week at No.1"
+  },
+  {
+    "id": 53,
+    "term": "Fight Song",
+    "definition": "Rachel Platten",
+    "example": "September 2015 · 1 week at No.1"
+  },
+  {
+    "id": 54,
+    "term": "What Do You Mean",
+    "definition": "Justin Bieber",
+    "example": "September 2015 · 5 weeks at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Easy Love",
+    "definition": "Sigala",
+    "example": "September 2015 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Writing's on the Wall",
+    "definition": "Sam Smith",
+    "example": "October 2015 · 1 week at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Turn the Music Louder (Rumble)",
+    "definition": "KDA ft Tinie Tempah & Katy B",
+    "example": "October 2015 · 1 week at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Hello",
+    "definition": "Adele",
+    "example": "November 2015 · 3 weeks at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Sorry",
+    "definition": "Justin Bieber",
+    "example": "November 2015 · 2 weeks at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Love Yourself",
+    "definition": "Justin Bieber",
+    "example": "December 2015 · 6 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "A Bridge Over You",
+    "definition": "Lewisham & Greenwich NHS Choir",
+    "example": "December 2015 · 1 week at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Stitches",
+    "definition": "Shawn Mendes",
+    "example": "January 2016 · 2 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Pillowtalk",
+    "definition": "Zayn",
+    "example": "February 2016 · 1 week at No.1"
+  },
+  {
+    "id": 64,
+    "term": "7 Years",
+    "definition": "Lukas Graham",
+    "example": "February 2016 · 5 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "I Took a Pill in Ibiza",
+    "definition": "Mike Posner",
+    "example": "March 2016 · 4 weeks at No.1"
+  },
+  {
+    "id": 66,
+    "term": "One Dance",
+    "definition": "Drake ft Wizkid & Kyla",
+    "example": "April 2016 · 15 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Cold Water",
+    "definition": "Major Lazer Feat. Justin Bieber & MØ",
+    "example": "August 2016 · 5 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Closer",
+    "definition": "The Chainsmokers ft Halsey",
+    "example": "September 2016 · 4 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Say You Won't Let Go",
+    "definition": "James Arthur",
+    "example": "October 2016 · 3 weeks at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Shout Out to My Ex",
+    "definition": "Little Mix",
+    "example": "October 2016 · 3 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Rockabye",
+    "definition": "Clean Bandit",
+    "example": "November 2016 · 9 weeks at No.1"
+  }
+];
+window.QM_NO1S1719_DATA = [
+  {
+    "id": 1,
+    "term": "Shape of You",
+    "definition": "Ed Sheeran",
+    "example": "January 2017 · 14 weeks at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Sign of the Times",
+    "definition": "Harry Styles",
+    "example": "April 2017 · 1 week at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Symphony",
+    "definition": "Clean Bandit ft Zara Larsson",
+    "example": "May 2017 · 1 week at No.1"
+  },
+  {
+    "id": 4,
+    "term": "I'm the One",
+    "definition": "DJ Khaled Feat. Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
+    "example": "May 2017 · 1 week at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Despacito (Remix)",
+    "definition": "Luis Fonsi & Daddy Yankee Feat. Justin Bieber",
+    "example": "May 2017 · 11 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "Bridge Over Troubled Water",
+    "definition": "Artists for Grenfell",
+    "example": "June 2017 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Wild Thoughts",
+    "definition": "DJ Khaled Feat. Rihanna & Bryson Tiller",
+    "example": "July 2017 · 1 week at No.1"
+  },
+  {
+    "id": 8,
+    "term": "Feels",
+    "definition": "Calvin Harris Feat. Pharrell Williams, Katy Perry & Big Sean",
+    "example": "August 2017 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "New Rules",
+    "definition": "Dua Lipa",
+    "example": "August 2017 · 2 weeks at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Look What You Made Me Do",
+    "definition": "Taylor Swift",
+    "example": "September 2017 · 2 weeks at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Too Good at Goodbyes",
+    "definition": "Sam Smith",
+    "example": "September 2017 · 3 weeks at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Rockstar",
+    "definition": "Post Malone ft 21 Savage",
+    "example": "October 2017 · 4 weeks at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Havana",
+    "definition": "Camila Cabello ft Young Thug",
+    "example": "November 2017 · 5 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Perfect",
+    "definition": "Ed Sheeran",
+    "example": "December 2017 · 6 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "River",
+    "definition": "Eminem ft Ed Sheeran",
+    "example": "January 2018 · 1 week at No.1"
+  },
+  {
+    "id": 16,
+    "term": "God's Plan",
+    "definition": "Drake",
+    "example": "February 2018 · 9 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "These Days",
+    "definition": "Rudimental Feat. Jess Glynne, Macklemore & Dan Caplen",
+    "example": "April 2018 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Freaky Friday",
+    "definition": "Lil Dicky ft Chris Brown",
+    "example": "April 2018 · 1 week at No.1"
+  },
+  {
+    "id": 19,
+    "term": "Nice for What",
+    "definition": "Drake",
+    "example": "April 2018 · 1 week at No.1"
+  },
+  {
+    "id": 20,
+    "term": "One Kiss",
+    "definition": "Calvin Harris & Dua Lipa",
+    "example": "April 2018 · 8 weeks at No.1"
+  },
+  {
+    "id": 21,
+    "term": "I'll Be There",
+    "definition": "Jess Glynne",
+    "example": "June 2018 · 1 week at No.1"
+  },
+  {
+    "id": 22,
+    "term": "Solo",
+    "definition": "Clean Bandit ft Demi Lovato",
+    "example": "June 2018 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Shotgun",
+    "definition": "George Ezra",
+    "example": "July 2018 · 4 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "3 Lions",
+    "definition": "Baddiel & Skinner & Lightning Seeds",
+    "example": "July 2018 · 1 week at No.1"
+  },
+  {
+    "id": 25,
+    "term": "In My Feelings",
+    "definition": "Drake",
+    "example": "July 2018 · 4 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Eastside",
+    "definition": "Benny Blanco Feat. Halsey & Khalid",
+    "example": "September 2018 · 1 week at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Promises",
+    "definition": "Calvin Harris & Sam Smith",
+    "example": "September 2018 · 6 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Funky Friday",
+    "definition": "Dave ft Fredo",
+    "example": "October 2018 · 1 week at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Shallow",
+    "definition": "Lady Gaga & Bradley Cooper",
+    "example": "November 2018 · 2 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Thank U Next",
+    "definition": "Ariana Grande",
+    "example": "November 2018 · 6 weeks at No.1"
+  },
+  {
+    "id": 31,
+    "term": "We Built This City",
+    "definition": "Ladbaby",
+    "example": "December 2018 · 1 week at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Sweet but Psycho",
+    "definition": "Ava Max",
+    "example": "January 2019 · 4 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "7 Rings",
+    "definition": "Ariana Grande",
+    "example": "January 2019 · 4 weeks at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Break Up With Your Girlfriend I'm Bored",
+    "definition": "Ariana Grande",
+    "example": "February 2019 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "Someone You Loved",
+    "definition": "Lewis Capaldi",
+    "example": "March 2019 · 7 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Old Town Road",
+    "definition": "Lil Nas X",
+    "example": "April 2019 · 2 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "Vossi Bop",
+    "definition": "Stormzy",
+    "example": "May 2019 · 2 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "I Don't Care",
+    "definition": "Ed Sheeran & Justin Bieber",
+    "example": "May 2019 · 8 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Senorita",
+    "definition": "Shawn Mendes & Camila Cabello",
+    "example": "July 2019 · 6 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "Beautiful People",
+    "definition": "Ed Sheeran ft Khalid",
+    "example": "July 2019 · 1 week at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Take Me Back to London",
+    "definition": "Ed Sheeran ft Stormzy",
+    "example": "September 2019 · 5 weeks at No.1"
+  },
+  {
+    "id": 42,
+    "term": "Dance Monkey",
+    "definition": "Tones & I",
+    "example": "October 2019 · 11 weeks at No.1"
+  },
+  {
+    "id": 43,
+    "term": "I Love Sausage Rolls",
+    "definition": "Ladbaby",
+    "example": "December 2019 · 1 week at No.1"
+  }
+];
+window.QM_NO1S2026_DATA = [
+  {
+    "id": 1,
+    "term": "River",
+    "definition": "Ellie Goulding",
+    "example": "January 2020 · 1 week at No.1"
+  },
+  {
+    "id": 2,
+    "term": "Own It",
+    "definition": "Stormzy Feat. Ed Sheeran & Burna Boy",
+    "example": "January 2020 · 3 weeks at No.1"
+  },
+  {
+    "id": 3,
+    "term": "Godzilla",
+    "definition": "Eminem ft Juice Wrld",
+    "example": "January 2020 · 1 week at No.1"
+  },
+  {
+    "id": 4,
+    "term": "Before You Go",
+    "definition": "Lewis Capaldi",
+    "example": "February 2020 · 1 week at No.1"
+  },
+  {
+    "id": 5,
+    "term": "Blinding Lights",
+    "definition": "The Weeknd",
+    "example": "February 2020 · 8 weeks at No.1"
+  },
+  {
+    "id": 6,
+    "term": "No Time to Die",
+    "definition": "Billie Eilish",
+    "example": "February 2020 · 1 week at No.1"
+  },
+  {
+    "id": 7,
+    "term": "Roses",
+    "definition": "SAINt JHN",
+    "example": "March 2020 · 2 weeks at No.1"
+  },
+  {
+    "id": 8,
+    "term": "You'll Never Walk Alone",
+    "definition": "Michael Ball & Captain Tom Moore With The NHS Voices Of Care Choir",
+    "example": "April 2020 · 1 week at No.1"
+  },
+  {
+    "id": 9,
+    "term": "Times Like These (BBC Radio 1 Stay Home)",
+    "definition": "Live Lounge Allstars",
+    "example": "May 2020 · 1 week at No.1"
+  },
+  {
+    "id": 10,
+    "term": "Toosie Slide",
+    "definition": "Drake",
+    "example": "May 2020 · 1 week at No.1"
+  },
+  {
+    "id": 11,
+    "term": "Rockstar",
+    "definition": "Dababy ft Roddy Ricch",
+    "example": "May 2020 · 6 weeks at No.1"
+  },
+  {
+    "id": 12,
+    "term": "Rain on Me",
+    "definition": "Lady Gaga & Ariana Grande",
+    "example": "June 2020 · 1 week at No.1"
+  },
+  {
+    "id": 13,
+    "term": "Savage Love (Laxed - Siren Beat)",
+    "definition": "Jawsh 685 & Jason Derulo",
+    "example": "July 2020 · 3 weeks at No.1"
+  },
+  {
+    "id": 14,
+    "term": "Head & Heart",
+    "definition": "Joel Corry ft MNEK",
+    "example": "July 2020 · 6 weeks at No.1"
+  },
+  {
+    "id": 15,
+    "term": "Wap",
+    "definition": "Cardi B ft Megan Thee Stallion",
+    "example": "September 2020 · 3 weeks at No.1"
+  },
+  {
+    "id": 16,
+    "term": "Mood",
+    "definition": "24kgoldn ft Iann Dior",
+    "example": "October 2020 · 4 weeks at No.1"
+  },
+  {
+    "id": 17,
+    "term": "Lemonade",
+    "definition": "Internet Money Feat. Gunna, Don Toliver & NAV",
+    "example": "October 2020 · 1 week at No.1"
+  },
+  {
+    "id": 18,
+    "term": "Positions",
+    "definition": "Ariana Grande",
+    "example": "November 2020 · 6 weeks at No.1"
+  },
+  {
+    "id": 19,
+    "term": "All I Want for Christmas Is You",
+    "definition": "Mariah Carey",
+    "example": "December 2020 and December 2022 · 3 weeks at No.1 in total"
+  },
+  {
+    "id": 20,
+    "term": "Don't Stop Me Eatin'",
+    "definition": "Ladbaby",
+    "example": "December 2020 · 1 week at No.1"
+  },
+  {
+    "id": 21,
+    "term": "Last Christmas",
+    "definition": "Wham!",
+    "example": "January 2021, December 2022, December 2023, December 2024 and December 2025 · 12 weeks at No.1 in total"
+  },
+  {
+    "id": 22,
+    "term": "Sweet Melody",
+    "definition": "Little Mix",
+    "example": "January 2021 · 1 week at No.1"
+  },
+  {
+    "id": 23,
+    "term": "Drivers License",
+    "definition": "Olivia Rodrigo",
+    "example": "January 2021 · 9 weeks at No.1"
+  },
+  {
+    "id": 24,
+    "term": "Wellerman",
+    "definition": "Nathan Evans, 220 KID & Billen Ted",
+    "example": "March 2021 · 2 weeks at No.1"
+  },
+  {
+    "id": 25,
+    "term": "Montero (Call Me by Your Name)",
+    "definition": "Lil Nas X",
+    "example": "April 2021 · 5 weeks at No.1"
+  },
+  {
+    "id": 26,
+    "term": "Body",
+    "definition": "Tion Wayne & Russ Millions",
+    "example": "May 2021 · 3 weeks at No.1"
+  },
+  {
+    "id": 27,
+    "term": "Good 4 U",
+    "definition": "Olivia Rodrigo",
+    "example": "June 2021 · 5 weeks at No.1"
+  },
+  {
+    "id": 28,
+    "term": "Bad Habits",
+    "definition": "Ed Sheeran",
+    "example": "July 2021 · 11 weeks at No.1"
+  },
+  {
+    "id": 29,
+    "term": "Shivers",
+    "definition": "Ed Sheeran",
+    "example": "September 2021 · 4 weeks at No.1"
+  },
+  {
+    "id": 30,
+    "term": "Cold Heart (PNAU Remix)",
+    "definition": "Elton John & Dua Lipa",
+    "example": "October 2021 · 1 week at No.1"
+  },
+  {
+    "id": 31,
+    "term": "Easy on Me",
+    "definition": "Adele",
+    "example": "October 2021 · 8 weeks at No.1"
+  },
+  {
+    "id": 32,
+    "term": "Merry Christmas",
+    "definition": "Ed Sheeran & Elton John",
+    "example": "December 2021 · 3 weeks at No.1"
+  },
+  {
+    "id": 33,
+    "term": "Sausage Rolls for Everyone",
+    "definition": "LadBaby Feat. Ed Sheeran & Elton John",
+    "example": "December 2021 · 1 week at No.1"
+  },
+  {
+    "id": 34,
+    "term": "Abcdefu",
+    "definition": "Gayle",
+    "example": "January 2022 · 1 week at No.1"
+  },
+  {
+    "id": 35,
+    "term": "We Don't Talk About Bruno",
+    "definition": "Carolina Gaitán, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & The Encanto Cast",
+    "example": "January 2022 · 7 weeks at No.1"
+  },
+  {
+    "id": 36,
+    "term": "Starlight",
+    "definition": "Dave",
+    "example": "March 2022 · 4 weeks at No.1"
+  },
+  {
+    "id": 37,
+    "term": "As It Was",
+    "definition": "Harry Styles",
+    "example": "April 2022 · 10 weeks at No.1"
+  },
+  {
+    "id": 38,
+    "term": "Running Up That Hill",
+    "definition": "Kate Bush",
+    "example": "June 2022 · 3 weeks at No.1"
+  },
+  {
+    "id": 39,
+    "term": "Afraid to Feel",
+    "definition": "LF System",
+    "example": "July 2022 · 8 weeks at No.1"
+  },
+  {
+    "id": 40,
+    "term": "B.O.T.A. (Baddest of Them All)",
+    "definition": "Eliza Rose & Interplanetary Criminal",
+    "example": "September 2022 · 2 weeks at No.1"
+  },
+  {
+    "id": 41,
+    "term": "Forget Me",
+    "definition": "Lewis Capaldi",
+    "example": "September 2022 · 1 week at No.1"
+  },
+  {
+    "id": 42,
+    "term": "I'm Good (Blue)",
+    "definition": "David Guetta & Bebe Rexha",
+    "example": "September 2022 · 1 week at No.1"
+  },
+  {
+    "id": 43,
+    "term": "Unholy",
+    "definition": "Sam Smith & Kim Petras",
+    "example": "October 2022 · 4 weeks at No.1"
+  },
+  {
+    "id": 44,
+    "term": "Anti-Hero",
+    "definition": "Taylor Swift",
+    "example": "November 2022 · 6 weeks at No.1"
+  },
+  {
+    "id": 45,
+    "term": "Food Aid",
+    "definition": "Ladbaby",
+    "example": "December 2022 · 1 week at No.1"
+  },
+  {
+    "id": 46,
+    "term": "Escapism",
+    "definition": "Raye ft 070 Shake",
+    "example": "January 2023 · 1 week at No.1"
+  },
+  {
+    "id": 47,
+    "term": "Pointless",
+    "definition": "Lewis Capaldi",
+    "example": "January 2023 · 1 week at No.1"
+  },
+  {
+    "id": 48,
+    "term": "Flowers",
+    "definition": "Miley Cyrus",
+    "example": "January 2023 · 10 weeks at No.1"
+  },
+  {
+    "id": 49,
+    "term": "Eyes Closed",
+    "definition": "Ed Sheeran",
+    "example": "April 2023 · 1 week at No.1"
+  },
+  {
+    "id": 50,
+    "term": "Miracle",
+    "definition": "Calvin Harris Feat. Ellie Goulding",
+    "example": "April 2023 · 8 weeks at No.1"
+  },
+  {
+    "id": 51,
+    "term": "Wish You the Best",
+    "definition": "Lewis Capaldi",
+    "example": "April 2023 · 1 week at No.1"
+  },
+  {
+    "id": 52,
+    "term": "Sprinter",
+    "definition": "Dave & Central Cee",
+    "example": "June 2023 · 10 weeks at No.1"
+  },
+  {
+    "id": 53,
+    "term": "What Was I Made for",
+    "definition": "Billie Eilish",
+    "example": "August 2023 · 1 week at No.1"
+  },
+  {
+    "id": 54,
+    "term": "Dance the Night (From Barbie the Album)",
+    "definition": "Dua Lipa",
+    "example": "August 2023 · 1 week at No.1"
+  },
+  {
+    "id": 55,
+    "term": "Vampire",
+    "definition": "Olivia Rodrigo",
+    "example": "September 2023 · 1 week at No.1"
+  },
+  {
+    "id": 56,
+    "term": "Paint the Town Red",
+    "definition": "Doja Cat",
+    "example": "September 2023 · 5 weeks at No.1"
+  },
+  {
+    "id": 57,
+    "term": "Strangers",
+    "definition": "Kenya Grace",
+    "example": "October 2023 · 3 weeks at No.1"
+  },
+  {
+    "id": 58,
+    "term": "Is It Over Now (Taylor's Version)",
+    "definition": "Taylor Swift",
+    "example": "November 2023 · 1 week at No.1"
+  },
+  {
+    "id": 59,
+    "term": "Now and Then",
+    "definition": "The Beatles",
+    "example": "November 2023 · 1 week at No.1"
+  },
+  {
+    "id": 60,
+    "term": "Lovin on Me",
+    "definition": "Jack Harlow",
+    "example": "November 2023 · 3 weeks at No.1"
+  },
+  {
+    "id": 61,
+    "term": "Stick Season",
+    "definition": "Noah Kahan",
+    "example": "January 2024 · 7 weeks at No.1"
+  },
+  {
+    "id": 62,
+    "term": "Texas Hold 'Em",
+    "definition": "Beyonce",
+    "example": "February 2024 · 5 weeks at No.1"
+  },
+  {
+    "id": 63,
+    "term": "Beautiful Things",
+    "definition": "Benson Boone",
+    "example": "March 2024 · 2 weeks at No.1"
+  },
+  {
+    "id": 64,
+    "term": "Too Sweet",
+    "definition": "Hozier",
+    "example": "April 2024 · 2 weeks at No.1"
+  },
+  {
+    "id": 65,
+    "term": "Fortnight",
+    "definition": "Taylor Swift ft Post Malone",
+    "example": "May 2024 · 1 week at No.1"
+  },
+  {
+    "id": 66,
+    "term": "Espresso",
+    "definition": "Sabrina Carpenter",
+    "example": "May 2024 · 7 weeks at No.1"
+  },
+  {
+    "id": 67,
+    "term": "Houdini",
+    "definition": "Eminem",
+    "example": "June 2024 · 2 weeks at No.1"
+  },
+  {
+    "id": 68,
+    "term": "Please Please Please",
+    "definition": "Sabrina Carpenter",
+    "example": "June 2024 · 5 weeks at No.1"
+  },
+  {
+    "id": 69,
+    "term": "Guess",
+    "definition": "Charli Xcx ft Billie Eilish",
+    "example": "August 2024 · 1 week at No.1"
+  },
+  {
+    "id": 70,
+    "term": "Backbone",
+    "definition": "Chase & Status & Stormzy",
+    "example": "August 2024 · 2 weeks at No.1"
+  },
+  {
+    "id": 71,
+    "term": "Taste",
+    "definition": "Sabrina Carpenter",
+    "example": "September 2024 · 9 weeks at No.1"
+  },
+  {
+    "id": 72,
+    "term": "Sailor Song",
+    "definition": "Gigi Perez",
+    "example": "November 2024 · 1 week at No.1"
+  },
+  {
+    "id": 73,
+    "term": "That's So True",
+    "definition": "Gracie Abrams",
+    "example": "November 2024 · 8 weeks at No.1"
+  },
+  {
+    "id": 74,
+    "term": "Messy",
+    "definition": "Lola Young",
+    "example": "January 2025 · 4 weeks at No.1"
+  },
+  {
+    "id": 75,
+    "term": "Not Like Us",
+    "definition": "Kendrick Lamar",
+    "example": "February 2025 · 2 weeks at No.1"
+  },
+  {
+    "id": 76,
+    "term": "Pink Pony Club",
+    "definition": "Chappell Roan",
+    "example": "March 2025 · 2 weeks at No.1"
+  },
+  {
+    "id": 77,
+    "term": "Ordinary",
+    "definition": "Alex Warren",
+    "example": "March 2025 · 13 weeks at No.1"
+  },
+  {
+    "id": 78,
+    "term": "Manchild",
+    "definition": "Sabrina Carpenter",
+    "example": "June 2025 · 2 weeks at No.1"
+  },
+  {
+    "id": 79,
+    "term": "Survive",
+    "definition": "Lewis Capaldi",
+    "example": "July 2025 · 1 week at No.1"
+  },
+  {
+    "id": 80,
+    "term": "Dior",
+    "definition": "MK ft Chrystal",
+    "example": "July 2025 · 2 weeks at No.1"
+  },
+  {
+    "id": 81,
+    "term": "Daisies",
+    "definition": "Justin Bieber",
+    "example": "July 2025 · 1 week at No.1"
+  },
+  {
+    "id": 82,
+    "term": "Golden",
+    "definition": "Huntr/X: Ejae, Audrey Nuna & Rei Ami",
+    "example": "August 2025 · 10 weeks at No.1"
+  },
+  {
+    "id": 83,
+    "term": "The Subway",
+    "definition": "Chappell Roan",
+    "example": "August 2025 · 1 week at No.1"
+  },
+  {
+    "id": 84,
+    "term": "Man I Need",
+    "definition": "Olivia Dean",
+    "example": "October 2025 · 1 week at No.1"
+  },
+  {
+    "id": 85,
+    "term": "The Fate of Ophelia",
+    "definition": "Taylor Swift",
+    "example": "October 2025 · 7 weeks at No.1"
+  },
+  {
+    "id": 86,
+    "term": "Xmas",
+    "definition": "Kylie Minogue",
+    "example": "December 2025 · 1 week at No.1"
+  },
+  {
+    "id": 87,
+    "term": "Where Is My Husband",
+    "definition": "Raye",
+    "example": "January 2026 · 1 week at No.1"
+  },
+  {
+    "id": 88,
+    "term": "End of Beginning",
+    "definition": "Djo",
+    "example": "January 2026 · 2 weeks at No.1"
+  },
+  {
+    "id": 89,
+    "term": "Raindance",
+    "definition": "Dave & Tems",
+    "example": "January 2026 · 2 weeks at No.1"
+  },
+  {
+    "id": 90,
+    "term": "Aperture",
+    "definition": "Harry Styles",
+    "example": "February 2026 · 1 week at No.1"
+  },
+  {
+    "id": 91,
+    "term": "Opalite",
+    "definition": "Taylor Swift",
+    "example": "February 2026 · 1 week at No.1"
+  },
+  {
+    "id": 92,
+    "term": "Rein Me in",
+    "definition": "Sam Fender & Olivia Dean",
+    "example": "February 2026 · 13 weeks at No.1"
+  },
+  {
+    "id": 93,
+    "term": "American Girls",
+    "definition": "Harry Styles",
+    "example": "March 2026 · 1 week at No.1"
+  },
+  {
+    "id": 94,
+    "term": "Drop Dead",
+    "definition": "Olivia Rodrigo",
+    "example": "April 2026 · 1 week at No.1"
+  },
+  {
+    "id": 95,
+    "term": "Hate That I Made You Love Me",
+    "definition": "Ariana Grande",
+    "example": "June 2026 · 1 week at No.1"
+  },
+  {
+    "id": 96,
+    "term": "I Knew It I Knew You",
+    "definition": "Taylor Swift",
+    "example": "June 2026 · 2 weeks at No.1"
   }
 ];
