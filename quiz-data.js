@@ -2543,7 +2543,6 @@ window.QM_HIDDEN_QUIZZES = [
   "male80s",
   "irishCounties",
   "africaMap",
-  "male00s",
   "female00s",
   "scottishCounties",
   "welshCounties",
