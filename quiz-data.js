@@ -2543,7 +2543,6 @@ window.QM_HIDDEN_QUIZZES = [
   "male80s",
   "irishCounties",
   "africaMap",
-  "female00s",
   "scottishCounties",
   "welshCounties",
   "monarchs",
@@ -7526,7 +7525,7 @@ window.QM_FEMALE00S_DATA = [
     "name": "Brandy",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/brandy.jpg",
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 18.000000000000004,
     "zoom": 1
   }
 ];
