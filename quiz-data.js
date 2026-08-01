@@ -7532,10 +7532,13 @@ window.QM_FEMALE00S_DATA = [
     "id": "id_female00s_kttunstall",
     "name": "KT Tunstall",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/kt-tunstall.jpg",
-    "brightness": 1,
+    "brightness": 1.1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "focalX": 56.26839647415868,
+    "focalY": 4.987607473046228,
+    "zoom": 2.65
   }
 ];
 window.QM_MALE80S_DATA = [
