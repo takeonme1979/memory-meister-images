@@ -7434,52 +7434,78 @@ window.QM_FEMALE00S_DATA = [
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 44.85445415466931,
     "zoom": 1,
     "id": "id_1783819098206_u6ihcokc8q",
     "name": "Janet Jackson",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/janet-jackson-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/janet-jackson-00s.jpg",
+    "brightness": 1.15,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783819098206_iw16ya47zu",
     "name": "Louise",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/louise.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/louise.jpg",
+    "focalX": 49.40099471654651,
+    "focalY": 0,
+    "zoom": 1.2,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 24.34811689268868,
     "zoom": 1,
     "id": "id_1783819098206_ddzfcl111b",
     "name": "Adele",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/adele-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/adele-00s.webp",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 47.134750391941644,
+    "focalY": 0,
+    "zoom": 1.45,
     "id": "id_1783819098206_4mevipavyu",
     "name": "Dannii Minogue",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/dannii-minogue-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/dannii-minogue-00s.jpg",
+    "brightness": 1.04,
+    "contrast": 1,
+    "saturation": 1.02,
+    "gamma": 1
   },
   {
     "id": "id_1783819098206_17qbj3hqc4",
     "name": "Victoria Beckham (Spice Girls)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/victoria-beckham-00s.jpg?v=1784296789989"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/victoria-beckham-00s.webp",
+    "focalX": 44.77159035264504,
+    "focalY": 6.699012942909453,
+    "zoom": 1.3,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783876338044_kerihilson",
     "name": "Keri Hilson",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/keri-hilson.jpg",
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 6.00918291199882,
     "zoom": 1
   },
   {
     "id": "id_1783876338044_amywinehouse",
     "name": "Amy Winehouse",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/amy-winehouse.jpg",
-    "focalX": 50,
-    "focalY": 18,
+    "focalX": 51.87004879437793,
+    "focalY": 50,
     "zoom": 1
   },
   {
@@ -7492,7 +7518,7 @@ window.QM_FEMALE00S_DATA = [
     "name": "Kesha",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/kesha.jpg",
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 21.044060198529742,
     "zoom": 1
   },
   {
