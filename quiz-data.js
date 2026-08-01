@@ -6018,7 +6018,7 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783709881387_bsfddgxwqp",
     "name": "Jay-Z",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/jay-z.webp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/jay-z.jpg",
     "focalX": 50,
     "focalY": 50,
     "zoom": 1,
@@ -6075,7 +6075,7 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783709881387_dapn35s25d",
     "name": "will.i.am",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/william.webp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/william.jpg",
     "focalX": 85.14335100316431,
     "focalY": 50,
     "zoom": 1,
@@ -6107,7 +6107,7 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783709881388_hivd2hktep",
     "name": "Taio Cruz",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/taio-cruz.webp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/taio-cruz.jpg",
     "focalX": 66.7744954427083,
     "focalY": 2.5142063166929147,
     "zoom": 1.05,
@@ -6134,7 +6134,7 @@ window.QM_MALE00S_DATA = [
     "zoom": 1.1500000000000001,
     "id": "id_1783709881388_qdezegoma7",
     "name": "Gareth Gates",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/gareth-gates.png",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/gareth-gates.jpg",
     "brightness": 1.13,
     "contrast": 1,
     "saturation": 1,
@@ -6158,7 +6158,7 @@ window.QM_MALE00S_DATA = [
     "zoom": 1.1500000000000001,
     "id": "id_1783709881388_0lj6anj6e8",
     "name": "Tony Christie",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/tony-christie.png",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/tony-christie.jpg",
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
@@ -6352,7 +6352,7 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783819098206_umo6t5eerv",
     "name": "Michael Jackson",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/michael-jackson.webp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/michael-jackson.jpg",
     "focalX": 50,
     "focalY": 9.877389941108943,
     "zoom": 1,
@@ -6464,7 +6464,7 @@ window.QM_MALE00S_DATA = [
   {
     "id": "id_1783819098206_hd1zpwzqoc",
     "name": "Eric Prydz",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/eric-prydz.webp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-00s/eric-prydz.jpg",
     "focalX": 77.56994628906249,
     "focalY": 50,
     "zoom": 1,
