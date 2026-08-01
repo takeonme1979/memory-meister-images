@@ -7392,12 +7392,16 @@ window.QM_FEMALE00S_DATA = [
     "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 50.70375352063478,
+    "focalY": 0,
+    "zoom": 1.35,
     "id": "id_1783819098206_m9nyb9dofx",
     "name": "Cheryl Cole (Girls Aloud)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/cheryl-cole-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/cheryl-cole-00s.jpg",
+    "brightness": 1.19,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
@@ -7405,7 +7409,11 @@ window.QM_FEMALE00S_DATA = [
     "zoom": 1,
     "id": "id_1783819098206_hfa5oiaezy",
     "name": "Aaliyah",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/aaliyah-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/aaliyah-00s.webp",
+    "brightness": 1.15,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783819098206_c9g3td2k5r",
@@ -7414,8 +7422,15 @@ window.QM_FEMALE00S_DATA = [
   },
   {
     "id": "id_1783819098206_bpzkxjvarh",
-    "name": "Michelle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/michelle.jpg"
+    "name": "Michelle (McManus)",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/michelle.jpg",
+    "focalX": 50.503677094054076,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
