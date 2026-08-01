@@ -6715,7 +6715,7 @@ window.QM_FEMALE00S_DATA = [
     "name": "Britney Spears",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/britney-spears-period.jpg?v=1784296789989",
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 5.374655383058002,
     "zoom": 1
   },
   {
@@ -6724,9 +6724,9 @@ window.QM_FEMALE00S_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/christina-aguilera.jpg?v=1784296789989"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 52.76766439879431,
+    "focalY": 7.3054804907925295,
+    "zoom": 1.18,
     "id": "id_1783709881388_s641i9tqqt",
     "name": "Beyoncé",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/beyonce.jpg"
@@ -6734,41 +6734,70 @@ window.QM_FEMALE00S_DATA = [
   {
     "id": "id_1783709881388_op270j8vfw",
     "name": "Shakira",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/shakira.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/shakira.jpg",
+    "zoom": 1,
+    "focalX": 50,
+    "focalY": 11.809149675308518,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881388_4qjkccxaup",
     "name": "Avril Lavigne",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/avril-lavigne.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/avril-lavigne.jpg",
+    "zoom": 1.2,
+    "focalX": 38.01823151417268,
+    "focalY": 0,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783709881388_m3otp36qmd",
     "name": "Pink",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/pink.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/pink.webp",
+    "zoom": 1.2,
+    "focalX": 73.13222746427795,
+    "focalY": 48.86592606188378,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 0,
+    "focalY": 0,
+    "zoom": 1.1,
     "id": "id_1783709881388_p4fsgdc4t8",
     "name": "Kelly Clarkson",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/kelly-clarkson.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/kelly-clarkson.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 78.75616611578522,
+    "focalY": 5.948227289609449,
+    "zoom": 1.05,
     "id": "id_1783709881389_i8h6rafpif",
     "name": "Rihanna",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/rihanna.png"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 92.53534170297478,
+    "focalY": 15.953028718776324,
+    "zoom": 1.2,
     "id": "id_1783709881389_czs8cqquso",
     "name": "Dido",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/dido.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/dido.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
@@ -6776,143 +6805,203 @@ window.QM_FEMALE00S_DATA = [
     "zoom": 1,
     "id": "id_1783709881389_4yxm094hmj",
     "name": "Alicia Keys",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/alicia-keys.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/alicia-keys.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalY": 50,
+    "zoom": 1.2,
     "id": "id_1783709881389_ouz170b142",
     "name": "Duffy",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/duffy.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/duffy.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 0,
     "zoom": 1,
     "id": "id_1783709881389_kro3kba7j6",
     "name": "Leona Lewis",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/leona-lewis.jpg"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 49.17778565498173,
+    "focalY": 21.451735268809692,
+    "zoom": 1.95,
     "id": "id_1783709881389_q9gyxxhcfe",
     "name": "Katie Melua",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/katie-melua.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/katie-melua.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 41.61275227864585,
+    "focalY": 15.612713419374527,
+    "zoom": 1.1,
     "id": "id_1783709881389_yuvznt5xc2",
     "name": "Estelle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/estelle.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/estelle.jpg",
+    "brightness": 1.12,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 82.65038514748596,
+    "focalY": 3.1145109865076073,
+    "zoom": 1.4000000000000001,
     "id": "id_1783709881389_6mzvtafcl6",
     "name": "Ashanti",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/ashanti.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/ashanti.webp",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 39.08327108095174,
+    "focalY": 9.746377791352803,
+    "zoom": 1.45,
     "id": "id_1783709881389_os5grk9g9r",
     "name": "Ciara",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/ciara.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/ciara.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 0.4870490151233774,
     "zoom": 1,
     "id": "id_1783709881389_3febe7pc9y",
     "name": "Nelly Furtado",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/nelly-furtado.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/nelly-furtado.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 45.533174492513,
+    "focalY": 0,
+    "zoom": 1.3,
     "id": "id_1783709881389_bu7y5i1d6m",
     "name": "Natasha Bedingfield",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/natasha-bedingfield.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/natasha-bedingfield.webp",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 31.91344030987695,
+    "focalY": 0,
+    "zoom": 1.05,
     "id": "id_1783709881389_o71lopm465",
     "name": "Fergie (The Black Eyed Peas)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/fergie.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/fergie.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 31.68737015382405,
     "zoom": 1,
     "id": "id_1783709881389_ujlvfiyad6",
     "name": "Corinne Bailey Rae",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/corinne-bailey-rae.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/corinne-bailey-rae.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 47.59521484375,
+    "focalY": 40.3775758878298,
+    "zoom": 1.1500000000000001,
     "id": "id_1783709881389_7rj4djqwh1",
     "name": "Kate Nash",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/kate-nash.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/kate-nash.webp",
+    "brightness": 1.06,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 55.99083533653847,
+    "focalY": 13.147330540937721,
+    "zoom": 1.1,
     "id": "id_1783709881389_bb9k43iy0k",
     "name": "JoJo",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/jojo.jpg"
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 12.931671932152794,
     "zoom": 1,
     "id": "id_1783709881389_1qcb8denvh",
     "name": "Jamelia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/jamelia.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/jamelia.jpg",
+    "brightness": 1.06,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalY": 0,
+    "zoom": 1.2,
     "id": "id_1783709881389_o89rm0lk83",
     "name": "Emma Bunton (Spice Girls)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/emma-bunton.png"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 29.802114186269467,
+    "focalY": 16.889710873143862,
+    "zoom": 1.35,
     "id": "id_1783709881390_81vr9rfv0h",
     "name": "Rachel Stevens",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/rachel-stevens.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/rachel-stevens.webp",
+    "brightness": 1.1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 75.76084626026642,
+    "focalY": 1.1104913263310128,
+    "zoom": 1.2,
     "id": "id_1783709881390_cf2a9m15c6",
     "name": "Alesha Dixon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/alesha-dixon.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/alesha-dixon.webp",
+    "brightness": 1.06,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 35.68384934976896,
+    "focalY": 16.08094911317573,
+    "zoom": 1.2,
     "id": "id_1783709881390_dat4ln1uyp",
     "name": "Sophie Ellis-Bextor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/sophie-ellis-bextor.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/sophie-ellis-bextor.webp",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
@@ -6920,23 +7009,35 @@ window.QM_FEMALE00S_DATA = [
     "zoom": 1,
     "id": "id_1783709881392_ipf0usyl6x",
     "name": "Kylie Minogue",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/kylie-minogue.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/kylie-minogue.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 46.23432089557578,
+    "focalY": 10.845915913732657,
+    "zoom": 1.4000000000000001,
     "id": "id_1783709881385_q2gj53xoh2",
     "name": "Shania Twain",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/shania-twain.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/shania-twain.jpg",
+    "brightness": 1.06,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 5.9834531314031905,
     "zoom": 1,
     "id": "id_1783709881385_990hx5p7ru",
     "name": "Mary J. Blige",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/mary-j-blige.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/mary-j-blige.webp",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
@@ -6944,7 +7045,11 @@ window.QM_FEMALE00S_DATA = [
     "zoom": 1,
     "id": "id_1783709881385_dtmrcpvae9",
     "name": "Gwen Stefani (No Doubt)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/gwen-stefani.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/gwen-stefani.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
