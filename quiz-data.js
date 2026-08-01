@@ -7052,36 +7052,52 @@ window.QM_FEMALE00S_DATA = [
     "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 17.649215306991174,
+    "focalY": 8.100344649178274,
+    "zoom": 1.1,
     "id": "id_1783709881386_a1mj1upr14",
     "name": "Melanie C (Spice Girls)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/melanie-c.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/melanie-c.webp",
+    "brightness": 1.1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 2.9255236220305005,
     "zoom": 1,
     "id": "id_1783819098206_wghmw22i4x",
     "name": "Madonna",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/madonna-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/madonna-00s.jpg",
+    "brightness": 1.13,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 40.893867688301285,
+    "focalY": 5.701135706018518,
+    "zoom": 1.25,
     "id": "id_1783819098206_6cpa886ib0",
     "name": "Jennifer Lopez",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/jennifer-lopez-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/jennifer-lopez-00s.webp",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 53.08351081413889,
+    "focalY": 0,
+    "zoom": 1.25,
     "id": "id_1783819098206_3xtp2tedbx",
     "name": "Nicole Scherzinger (The Pussycat Dolls)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/nicole-scherzinger-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/nicole-scherzinger-00s.jpg",
+    "brightness": 1.21,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783819098206_ijm5m1gwt7",
