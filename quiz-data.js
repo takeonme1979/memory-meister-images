@@ -7102,62 +7102,106 @@ window.QM_FEMALE00S_DATA = [
   {
     "id": "id_1783819098206_ijm5m1gwt7",
     "name": "Lady Gaga",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/lady-gaga-00s.jpg?v=1784296789989"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/lady-gaga-00s.jpg",
+    "focalX": 47.53452309712433,
+    "focalY": 11.029141105740235,
+    "zoom": 1.4000000000000001,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783819098206_fvp4ur8ii6",
     "name": "Mariah Carey",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/mariah-carey.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/mariah-carey.jpg",
+    "focalX": 35.96414978250916,
+    "focalY": 6.199858575082376,
+    "zoom": 1.0999999999999999,
+    "brightness": 1.07,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 51.56848469714975,
+    "focalY": 29.896010973804678,
+    "zoom": 1.2,
     "id": "id_1783819098206_e806j2abmh",
     "name": "Lily Allen",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/lily-allen-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/lily-allen-00s.webp",
+    "brightness": 1.07,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 40.72063444043388,
+    "focalY": 0,
+    "zoom": 1.3,
     "id": "id_1783819098206_og4n1wyvom",
     "name": "Kelis",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/kelis-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/kelis-00s.webp",
+    "brightness": 1.08,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 74.15120984393351,
+    "focalY": 34.604137130992605,
+    "zoom": 1.1500000000000001,
     "id": "id_1783819098206_bbwys49spf",
     "name": "Cascada",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/cascada-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/cascada-00s.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 57.2559506200488,
+    "focalY": 16.80258968161801,
+    "zoom": 1.2,
     "id": "id_1783819098206_q71a485k6h",
     "name": "Katy Perry",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/katy-perry-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/katy-perry-00s.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783819098206_78v2vpxw9v",
     "name": "La Roux",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/la-roux.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/la-roux.jpg",
+    "focalX": 50,
+    "focalY": 12.633987645783492,
+    "zoom": 1
   },
   {
     "id": "id_1783819098206_246u2o6el3",
     "name": "Geri Halliwell",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/geri-halliwell.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/geri-halliwell.webp",
+    "focalX": 29.431347969250783,
+    "focalY": 1.7069134879351566,
+    "zoom": 1.3,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 37.87101416309853,
+    "focalY": 0,
+    "zoom": 1.2,
     "id": "id_1783819098206_m2r38k0682",
     "name": "Gabrielle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/gabrielle-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/gabrielle-00s.webp",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
@@ -7165,31 +7209,47 @@ window.QM_FEMALE00S_DATA = [
     "zoom": 1,
     "id": "id_1783819098206_tjq14iz7pi",
     "name": "Amy Lee (Evanescence)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/amy-lee-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/amy-lee-00s.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 19.13817764715832,
     "zoom": 1,
     "id": "id_1783819098206_evt9fyqove",
     "name": "Samantha Mumba",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/samantha-mumba-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/samantha-mumba-00s.jpg",
+    "brightness": 1.18,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 58.300059922541166,
+    "focalY": 0,
+    "zoom": 1.1500000000000001,
     "id": "id_1783819098206_cqnot5414m",
     "name": "Anastacia",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/anastacia-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/anastacia-00s.jpg",
+    "brightness": 1.14,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 3.198007925757901,
     "zoom": 1,
     "id": "id_1783819098206_h6yn0f5ijx",
     "name": "Alexandra Burke",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/alexandra-burke-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/alexandra-burke-00s.jpg",
+    "brightness": 1.13,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
@@ -7197,7 +7257,11 @@ window.QM_FEMALE00S_DATA = [
     "zoom": 1,
     "id": "id_1783819098206_l2tgq3bra8",
     "name": "Sonique",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/sonique-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/sonique-00s.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
@@ -7205,87 +7269,127 @@ window.QM_FEMALE00S_DATA = [
     "zoom": 1,
     "id": "id_1783819098206_lnuht8d1ru",
     "name": "Christina Milian",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/christina-milian-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/christina-milian-00s.jpg",
+    "brightness": 1.15,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 30.299785627152698,
+    "focalY": 40.85866960012468,
+    "zoom": 1.3,
     "id": "id_1783819098206_yoqrpvgytd",
     "name": "Kelly Rowland (Destiny's Child)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/kelly-rowland-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/kelly-rowland-00s.jpg",
+    "brightness": 1.06,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
+    "focalX": 48.74750077450891,
+    "focalY": 50,
     "zoom": 1,
     "id": "id_1783819098206_pzolhb1b9s",
     "name": "Missy Elliott",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/missy-elliott-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/missy-elliott-00s.webp",
+    "brightness": 1.16,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 21.24370346721425,
+    "focalY": 15.381995514774768,
+    "zoom": 1.1500000000000001,
     "id": "id_1783819098206_ve7ak9a911",
     "name": "Pixie Lott",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/pixie-lott-00s.jpg"
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 51.99694511217948,
+    "focalY": 8.054954122879007,
+    "zoom": 1.3,
     "id": "id_1783819098206_dppa2acunn",
     "name": "Holly Valance",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/holly-valance-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/holly-valance-00s.jpg",
+    "brightness": 1.12,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 55.99083533653847,
+    "focalY": 6.659682176458581,
+    "zoom": 1.1,
     "id": "id_1783819098206_pr5ygz8iy1",
     "name": "Blu Cantrell",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/blu-cantrell-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/blu-cantrell-00s.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
-    "focalY": 18,
+    "focalY": 15.591516675815464,
     "zoom": 1,
     "id": "id_1783819098206_mrtf8rjbw4",
     "name": "Jordin Sparks",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/jordin-sparks-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/jordin-sparks-00s.webp",
+    "brightness": 1.12,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 38.81276502011802,
+    "focalY": 0,
+    "zoom": 1.45,
     "id": "id_1783819098206_skrcjgl88",
     "name": "Leann Rimes",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/leann-rimes-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/leann-rimes-00s.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
+    "focalX": 44.37687695856546,
+    "focalY": 50,
     "zoom": 1,
     "id": "id_1783819098206_9r9a2wklde",
     "name": "Robyn",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/robyn-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/robyn-00s.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
+    "focalX": 99.74974949370967,
+    "focalY": 50,
     "zoom": 1,
     "id": "id_1783819098206_ts3zeod40o",
     "name": "Sandi Thom",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/sandi-thom-00s.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/sandi-thom-00s.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 48.559403485711314,
+    "focalY": 0,
+    "zoom": 1.4000000000000001,
     "id": "id_1783819098206_7qllypnzn6",
     "name": "Andrea Corr (The Corrs)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/andrea-corr-00s.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/andrea-corr-00s.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "focalX": 50,
