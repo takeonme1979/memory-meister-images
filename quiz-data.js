@@ -7527,6 +7527,15 @@ window.QM_FEMALE00S_DATA = [
     "focalX": 50,
     "focalY": 18.000000000000004,
     "zoom": 1
+  },
+  {
+    "id": "id_female00s_kttunstall",
+    "name": "KT Tunstall",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/female-00s/kt-tunstall.jpg",
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   }
 ];
 window.QM_MALE80S_DATA = [
