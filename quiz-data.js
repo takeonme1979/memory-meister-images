@@ -20054,9 +20054,9 @@ window.QM_OSCARACTOR00_DATA = [
     "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 2.3462235451493365,
-    "zoom": 1,
+    "focalX": 83.56784918369392,
+    "focalY": 8.231835585851131,
+    "zoom": 1.35,
     "id": "id_oscar_oscarActor00_2006",
     "name": "Forest Whitaker (The Last King of Scotland, 2006)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/film/oscarActor00/forest-whitaker.jpg",
