@@ -19982,9 +19982,9 @@ window.QM_CARLOGOS_DATA = [
 ];
 window.QM_OSCARACTOR00_DATA = [
   {
-    "focalX": 40.8140133588742,
-    "focalY": 9.40481739494675,
-    "zoom": 1.25,
+    "focalX": 50,
+    "focalY": 3.768572294476563,
+    "zoom": 1,
     "id": "id_oscar_oscarActor00_2000",
     "name": "Russell Crowe (Gladiator, 2000)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/film/oscarActor00/russell-crowe.jpg",
