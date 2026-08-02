@@ -7555,12 +7555,12 @@ window.QM_MALE80S_DATA = [
     "gamma": 1
   },
   {
-    "focalX": 56.320769970842356,
-    "focalY": 12.41455133555864,
-    "zoom": 1.72,
+    "focalX": 30.534404215720244,
+    "focalY": 10.359202499095087,
+    "zoom": 1.5,
     "id": "id_1783716276549_f3sadykv4j",
     "name": "Phil Collins (Genesis)",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Xjrp3GbKQj7y4hEW3qBEzlymDsQn9Kbt-KD1gx_uQg&s=10",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/phil-collins-genesis-2.jpg",
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
@@ -7974,7 +7974,14 @@ window.QM_MALE80S_DATA = [
   {
     "id": "id_1783813717017_eeen29tt2c",
     "name": "Phil Oakey (The Human League)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/phil-oakey.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/phil-oakey.jpg",
+    "focalX": 35.62172131660659,
+    "focalY": 12.762929563263054,
+    "zoom": 1.1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_l45ajz4x4x",
@@ -7983,7 +7990,10 @@ window.QM_MALE80S_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1
   },
   {
     "id": "id_1783813717017_etufgfkm1j",
@@ -7992,27 +8002,58 @@ window.QM_MALE80S_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "focalX": 68.49308325138405,
+    "focalY": 75.56605300596702,
+    "zoom": 1.55
   },
   {
     "id": "id_1783813717017_qaes8zq2eh",
     "name": "Bono (U2)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/bono.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/bono.webp",
+    "focalX": 100,
+    "focalY": 56.25406095890858,
+    "zoom": 1.1,
+    "brightness": 1.12,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_za0u27fj25",
     "name": "Rod Stewart",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/rod-stewart.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/rod-stewart.jpg",
+    "focalX": 100,
+    "focalY": 9.072781040548412,
+    "zoom": 1.15,
+    "brightness": 1.09,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_pmhl0pnnpz",
     "name": "Kevin Rowland (Dexy's Midnight Runners)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/kevin-rowland.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/kevin-rowland.png",
+    "focalX": 77.0398966321802,
+    "focalY": 0,
+    "zoom": 1.1,
+    "brightness": 1.16,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_xeb0rrl3dh",
     "name": "Billy Ocean",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/billy-ocean.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/billy-ocean.jpg",
+    "focalX": 41.99789255352776,
+    "focalY": 0,
+    "zoom": 1.5,
+    "brightness": 1.29,
+    "contrast": 1,
+    "saturation": 0.93,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_e5ciz7uzh8",
@@ -8021,140 +8062,299 @@ window.QM_MALE80S_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "focalX": 53.03821773319455,
+    "focalY": 9.824853794300875,
+    "zoom": 1.4000000000000001
   },
   {
     "id": "id_1783813717017_jhelv85dsn",
     "name": "Terry Hall (The Specials)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/terry-hall.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/terry-hall.jpg",
+    "focalX": 50,
+    "focalY": 12.998486699006175,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_lbyzv0qdm4",
     "name": "Andy McCluskey (Orchestral Manoeuvres in the Dark)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/andy-mccluskey.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/andy-mccluskey.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1.15,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_4l2cbtogv5",
     "name": "Tom Bailey (The Thompson Twins)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/tom-bailey.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/tom-bailey.jpg",
+    "focalX": 49.54784762474798,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "id_1783813717017_9y6vkf9ajk",
     "name": "Eddy Grant",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/eddy-grant.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/eddy-grant.jpg",
+    "focalX": 66.7744954427083,
+    "focalY": 44.316075431796506,
+    "zoom": 1.1,
+    "brightness": 1.32,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_tghicgdaj0",
     "name": "Mark Knopfler (Dire Straits)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/mark-knopfler.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/mark-knopfler.jpg",
+    "focalX": 19.64616041917068,
+    "focalY": 0,
+    "zoom": 1.3,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_bg03zpkbtq",
     "name": "Bruce Dickinson (Iron Maiden)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/bruce-dickinson.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/bruce-dickinson.jpg",
+    "focalX": 17.83911550146901,
+    "focalY": 10.645031967100447,
+    "zoom": 1.3,
+    "brightness": 0.98,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_n5sf7ad77i",
     "name": "Buster Bloodvessel (Bad Manners)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/buster-bloodvessel.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/buster-bloodvessel.jpg",
+    "focalX": 100,
+    "focalY": 0,
+    "zoom": 1.15,
+    "brightness": 1.09,
+    "contrast": 1,
+    "saturation": 0.79,
+    "gamma": 0.99
   },
   {
     "id": "id_1783813717017_6k9r4vhlsw",
     "name": "Errol Brown (Hot Chocolate)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/errol-brown.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/errol-brown.jpg",
+    "focalX": 62.16708934401224,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 0.99,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_s5yxefj710",
     "name": "Bernard Sumner (New Order)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/bernard-sumner.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/bernard-sumner.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1.08,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_4iuz7o7nwz",
     "name": "Mick Hucknall (Simply Red)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/mick-hucknall.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/mick-hucknall.jpg",
+    "focalX": 46.40544663127671,
+    "focalY": 10.893700458514738,
+    "zoom": 1.3
   },
   {
     "id": "id_1783813717017_ph5rb7w6yy",
     "name": "Julio Iglesias",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/julio-iglesias.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/julio-iglesias.jpg",
+    "focalX": 50,
+    "focalY": 6.932386599331252,
+    "zoom": 1
   },
   {
     "id": "id_1783813717017_kd2i5ig9wc",
     "name": "Fish (Marillion)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/fish.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/fish.jpg",
+    "focalX": 50,
+    "focalY": 0,
+    "zoom": 1
   },
   {
     "id": "id_1783813717017_faatuihxoz",
     "name": "Johnny Logan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/johnny-logan.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/johnny-logan.jpg",
+    "focalX": 100,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_ck5vgvk2jx",
     "name": "Pete Burns (Dead or Alive)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/pete-burns.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/pete-burns.jpg",
+    "focalX": 50,
+    "focalY": 33.30571953457486,
+    "zoom": 1,
+    "brightness": 1.02,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_v3qbivxniv",
     "name": "Lou Gramm (Foreigner)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/lou-gramm.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/lou-gramm.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_09y2fybt4p",
     "name": "Martin Fry (ABC)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/martin-fry.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/martin-fry.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_x7bnrpjwpd",
     "name": "Noddy Holder (Slade)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/noddy-holder.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/noddy-holder.webp",
+    "focalX": 72.8798160556967,
+    "focalY": 0,
+    "zoom": 1.05,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_74jnt3ioj1",
     "name": "David Essex",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/david-essex.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/david-essex.jpg",
+    "focalX": 50,
+    "focalY": 24.502690974158963,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_igzpnqa1g7",
     "name": "Ali Campbell (UB40)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/ali-campbell.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/ali-campbell.jpg",
+    "focalX": 50,
+    "focalY": 22.153522005354244,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_1wlvbati2i",
     "name": "Freddie Mercury (Queen)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/freddie-mercury.png"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/freddie-mercury.png",
+    "focalX": 50,
+    "focalY": 39.929095325888106,
+    "zoom": 1,
+    "brightness": 1.14,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_yi58kqc07u",
     "name": "Paul Hardcastle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/paul-hardcastle.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/paul-hardcastle.jpg",
+    "focalX": 83.54899088541667,
+    "focalY": 32.6247599979363,
+    "zoom": 1.2,
+    "brightness": 1.2,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783813717017_3x6yypoelq",
     "name": "Andy Bell (Erasure)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/andy-bell.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/andy-bell.jpg",
+    "focalX": 0,
+    "focalY": 1.2902700017796542,
+    "zoom": 1.2,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783876338044_mickjagger80s",
     "name": "Mick Jagger (The Rolling Stones)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/mick-jagger.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/mick-jagger.webp",
+    "focalX": 51.0200712771484,
+    "focalY": 19.587255903173876,
+    "zoom": 1.55,
+    "brightness": 1.17,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783876338044_kennyrogers",
     "name": "Kenny Rogers",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/kenny-rogers.jpg",
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1
+    "focalX": 66.77515815359797,
+    "focalY": 0,
+    "zoom": 1.2,
+    "brightness": 1.06,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "id_1783876338044_robertsmith",
     "name": "Robert Smith (The Cure)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/robert-smith.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/robert-smith.jpg",
+    "focalX": 100,
+    "focalY": 10.411151447414706,
+    "zoom": 1.05,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 27.23466922075324,
+    "focalY": 9.185310582081678,
+    "zoom": 1.1,
     "id": "id_1783716276549_billyidol",
     "name": "Billy Idol",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/billy-idol.jpg",
@@ -8164,12 +8364,12 @@ window.QM_MALE80S_DATA = [
     "gamma": 1
   },
   {
-    "focalX": 50,
-    "focalY": 18,
-    "zoom": 1,
+    "focalX": 12.856586162860632,
+    "focalY": 0,
+    "zoom": 1.1,
     "id": "id_1783716276549_robertpalm",
     "name": "Robert Palmer",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/robert-palmer.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/robert-palmer.png",
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
