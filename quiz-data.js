@@ -2552,7 +2552,6 @@ window.QM_HIDDEN_QUIZZES = [
   "rhuAdjectives",
   "rroAdjectives",
   "rltAdjectives",
-  "oscarActor70",
   "oscarActor40",
   "oscarActress70",
   "oscarActress40",
