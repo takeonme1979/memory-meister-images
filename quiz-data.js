@@ -20913,7 +20913,7 @@ window.QM_OSCARACTRESS00_DATA = [
   },
   {
     "focalX": 50,
-    "focalY": 0,
+    "focalY": 4.132020517915139,
     "zoom": 1,
     "id": "id_oscarActress00_2001",
     "name": "Halle Berry (Monster's Ball, 2001)",
@@ -20925,7 +20925,7 @@ window.QM_OSCARACTRESS00_DATA = [
   },
   {
     "focalX": 50,
-    "focalY": 20.28410087632065,
+    "focalY": 44.34560464036112,
     "zoom": 1,
     "id": "id_oscarActress00_2002",
     "name": "Nicole Kidman (The Hours, 2002)",
@@ -20949,7 +20949,7 @@ window.QM_OSCARACTRESS00_DATA = [
   },
   {
     "focalX": 50,
-    "focalY": 15.795435351891584,
+    "focalY": 8.704772957754718,
     "zoom": 1,
     "id": "id_oscarActress00_2004",
     "name": "Hilary Swank (Million Dollar Baby, 2004)",
@@ -21080,8 +21080,8 @@ window.QM_OSCARACTRESS00_DATA = [
     "gamma": 1
   },
   {
-    "focalX": 52.42277116237748,
-    "focalY": 50,
+    "focalX": 50,
+    "focalY": 13.899997550496343,
     "zoom": 1,
     "id": "id_oscarActress00_2015",
     "name": "Brie Larson (Room, 2015)",
@@ -21164,9 +21164,9 @@ window.QM_OSCARACTRESS00_DATA = [
     "gamma": 1
   },
   {
-    "focalX": 53.99394239115919,
-    "focalY": 3.0563947642997733,
-    "zoom": 1.3,
+    "focalX": 59.71168385536253,
+    "focalY": 0,
+    "zoom": 1,
     "id": "id_oscarActress00_2024",
     "name": "Mikey Madison (Anora, 2024)",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/film/oscarActress00/mikey-madison.jpg",
