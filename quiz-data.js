@@ -7548,7 +7548,7 @@ window.QM_MALE80S_DATA = [
     "zoom": 1.2,
     "id": "id_1783716276549_pcm1b0s8oe",
     "name": "David Bowie",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpKNNXRUThcdE6lI94JZ-5k-eUNYOWPZnT9Q6kXB_Iw&s=10",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-80s/david-bowie.jpg",
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
