@@ -20537,8 +20537,8 @@ window.QM_OSCARACTOR70_DATA = [
     "gamma": 1
   },
   {
-    "focalX": 65.74751745650182,
-    "focalY": 7.675028890532927,
+    "focalX": 65.40517283009957,
+    "focalY": 5.9419594806701195,
     "zoom": 1.35,
     "id": "id_oscarActor70_1999",
     "name": "Kevin Spacey (American Beauty, 1999)",
