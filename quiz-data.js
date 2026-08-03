@@ -56602,26 +56602,6 @@ window.QM_VOCAB_SPACE_DATA = [
     "zoom": 1
   },
   {
-    "id": "mars-rover",
-    "english": "Mars rover",
-    "it": "il rover marziano",
-    "pl": "łazik marsjański",
-    "fr": "le rover martien",
-    "de": "der Marsrover",
-    "es": "el rover marciano",
-    "pt": "o rover marciano",
-    "nl": "de marsrover",
-    "hu": "marsjáró",
-    "ro": "rover marțian",
-    "lt": "marsaeigis",
-    "uk": "марсохід",
-    "cs": "marsovské vozítko",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-mars-rover.jpg",
-    "focalX": 50,
-    "focalY": 50,
-    "zoom": 1
-  },
-  {
     "id": "telescope",
     "english": "Telescope",
     "it": "il telescopio",
