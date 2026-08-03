@@ -55896,10 +55896,14 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "visata",
     "uk": "всесвіт",
     "cs": "vesmír",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-universe.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-universe.png",
     "focalX": 50,
-    "focalY": 50,
-    "zoom": 1
+    "focalY": 0,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "galaxy",
@@ -55938,8 +55942,12 @@ window.QM_VOCAB_SPACE_DATA = [
     "cs": "Mléčná dráha",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-milky-way.jpg",
     "focalX": 50,
-    "focalY": 50,
-    "zoom": 1
+    "focalY": 55.051997323656195,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "sun",
@@ -55998,7 +56006,7 @@ window.QM_VOCAB_SPACE_DATA = [
     "cs": "planeta",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-planet.jpg",
     "focalX": 50,
-    "focalY": 50,
+    "focalY": 66.84887004348467,
     "zoom": 1
   },
   {
@@ -56196,10 +56204,14 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "žvaigždė",
     "uk": "зірка",
     "cs": "hvězda",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-star.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-star.webp",
     "focalX": 50,
-    "focalY": 50,
-    "zoom": 1
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "constellation",
@@ -56216,10 +56228,14 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "žvaigždynas",
     "uk": "сузір'я",
     "cs": "souhvězdí",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-constellation.jpg",
-    "focalX": 50,
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-constellation.png",
+    "focalX": 49.74816145297296,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "nebula",
@@ -56238,7 +56254,7 @@ window.QM_VOCAB_SPACE_DATA = [
     "cs": "mlhovina",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-nebula.jpg",
     "focalX": 50,
-    "focalY": 50,
+    "focalY": 100,
     "zoom": 1
   },
   {
@@ -56297,9 +56313,9 @@ window.QM_VOCAB_SPACE_DATA = [
     "uk": "комета",
     "cs": "kometa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-comet.jpg",
-    "focalX": 50,
-    "focalY": 50,
-    "zoom": 1
+    "focalX": 55.43878084946863,
+    "focalY": 100,
+    "zoom": 1.55
   },
   {
     "id": "asteroid",
@@ -56317,7 +56333,7 @@ window.QM_VOCAB_SPACE_DATA = [
     "uk": "астероїд",
     "cs": "asteroid",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-asteroid.jpg",
-    "focalX": 50,
+    "focalX": 0,
     "focalY": 50,
     "zoom": 1
   },
@@ -56376,10 +56392,14 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "krateris",
     "uk": "кратер",
     "cs": "kráter",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-crater.jpg",
-    "focalX": 50,
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-crater.webp",
+    "focalX": 53.625212068173944,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "solar-eclipse",
@@ -56417,7 +56437,7 @@ window.QM_VOCAB_SPACE_DATA = [
     "uk": "полярне сяйво",
     "cs": "polární záře",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-aurora.jpg",
-    "focalX": 50,
+    "focalX": 100,
     "focalY": 50,
     "zoom": 1
   },
@@ -56437,7 +56457,7 @@ window.QM_VOCAB_SPACE_DATA = [
     "uk": "сонячний спалах",
     "cs": "sluneční erupce",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-solar-flare.jpg",
-    "focalX": 50,
+    "focalX": 6.181079613234472,
     "focalY": 50,
     "zoom": 1
   },
@@ -56477,9 +56497,9 @@ window.QM_VOCAB_SPACE_DATA = [
     "uk": "вихід у відкритий космос",
     "cs": "výstup do vesmíru",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-spacewalk.jpg",
-    "focalX": 50,
-    "focalY": 50,
-    "zoom": 1
+    "focalX": 77.49750035502521,
+    "focalY": 100,
+    "zoom": 1.4000000000000001
   },
   {
     "id": "spacesuit",
@@ -56498,7 +56518,7 @@ window.QM_VOCAB_SPACE_DATA = [
     "cs": "skafandr",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-spacesuit.jpg",
     "focalX": 50,
-    "focalY": 50,
+    "focalY": 14.02259916392766,
     "zoom": 1
   },
   {
@@ -56517,7 +56537,7 @@ window.QM_VOCAB_SPACE_DATA = [
     "uk": "ракета",
     "cs": "raketa",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-rocket.jpg",
-    "focalX": 50,
+    "focalX": 49.51062320878862,
     "focalY": 50,
     "zoom": 1
   },
@@ -56597,7 +56617,7 @@ window.QM_VOCAB_SPACE_DATA = [
     "uk": "космічний зонд",
     "cs": "kosmická sonda",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-space-probe.jpg",
-    "focalX": 50,
+    "focalX": 0,
     "focalY": 50,
     "zoom": 1
   },
@@ -56616,10 +56636,14 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "teleskopas",
     "uk": "телескоп",
     "cs": "dalekohled",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-telescope.jpg",
-    "focalX": 50,
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-telescope.webp",
+    "focalX": 20.041407000240074,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "brightness": 1.13,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "observatory",
@@ -56637,9 +56661,9 @@ window.QM_VOCAB_SPACE_DATA = [
     "uk": "обсерваторія",
     "cs": "hvězdárna",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-observatory.jpg",
-    "focalX": 50,
-    "focalY": 50,
-    "zoom": 1
+    "focalX": 44.08033676645228,
+    "focalY": 100,
+    "zoom": 1.25
   },
   {
     "id": "moon-landing",
@@ -56657,9 +56681,9 @@ window.QM_VOCAB_SPACE_DATA = [
     "uk": "висадка на Місяць",
     "cs": "přistání na Měsíci",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-moon-landing.jpg",
-    "focalX": 50,
-    "focalY": 50,
-    "zoom": 1
+    "focalX": 48.4023917434562,
+    "focalY": 0,
+    "zoom": 1.3
   }
 ];
 window.QM_DOGBREEDS_DATA = [
