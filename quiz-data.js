@@ -2564,9 +2564,7 @@ window.QM_HIDDEN_QUIZZES = [
   "oscarDirector00",
   "oscarDirector70"
 ];
-window.QM_HIDDEN_VOCAB_CATS = [
-  "space"
-];
+window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
   "male90s": {
     "title": "Male Artists (90s)",
@@ -56199,6 +56197,26 @@ window.QM_VOCAB_SPACE_DATA = [
     "uk": "зірка",
     "cs": "hvězda",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-star.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "constellation",
+    "english": "Constellation",
+    "it": "la costellazione",
+    "pl": "gwiazdozbiór",
+    "fr": "la constellation",
+    "de": "das Sternbild",
+    "es": "la constelación",
+    "pt": "a constelação",
+    "nl": "het sterrenbeeld",
+    "hu": "csillagkép",
+    "ro": "constelație",
+    "lt": "žvaigždynas",
+    "uk": "сузір'я",
+    "cs": "souhvězdí",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-constellation.jpg",
     "focalX": 50,
     "focalY": 50,
     "zoom": 1
