@@ -55882,6 +55882,46 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
 ];
 window.QM_VOCAB_SPACE_DATA = [
   {
+    "id": "space",
+    "english": "Space",
+    "it": "lo spazio",
+    "pl": "kosmos",
+    "fr": "l'espace",
+    "de": "der Weltraum",
+    "es": "el espacio",
+    "pt": "o espaço",
+    "nl": "de ruimte",
+    "hu": "űr",
+    "ro": "spațiu",
+    "lt": "kosmosas",
+    "uk": "космос",
+    "cs": "kosmos",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-space.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
+    "id": "astronomy",
+    "english": "Astronomy",
+    "it": "l'astronomia",
+    "pl": "astronomia",
+    "fr": "l'astronomie",
+    "de": "die Astronomie",
+    "es": "la astronomía",
+    "pt": "a astronomia",
+    "nl": "de astronomie",
+    "hu": "csillagászat",
+    "ro": "astronomie",
+    "lt": "astronomija",
+    "uk": "астрономія",
+    "cs": "astronomie",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-astronomy.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
+  },
+  {
     "id": "universe",
     "english": "Universe",
     "it": "l'universo",
@@ -55899,11 +55939,7 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-universe.png",
     "focalX": 50,
     "focalY": 0,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
+    "zoom": 1
   },
   {
     "id": "galaxy",
@@ -55943,11 +55979,7 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-milky-way.jpg",
     "focalX": 50,
     "focalY": 55.051997323656195,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
+    "zoom": 1
   },
   {
     "id": "sun",
@@ -56207,11 +56239,7 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-star.webp",
     "focalX": 50,
     "focalY": 18,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
+    "zoom": 1
   },
   {
     "id": "constellation",
@@ -56231,11 +56259,7 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-constellation.png",
     "focalX": 49.74816145297296,
     "focalY": 50,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
+    "zoom": 1
   },
   {
     "id": "nebula",
@@ -56395,11 +56419,7 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-crater.webp",
     "focalX": 53.625212068173944,
     "focalY": 50,
-    "zoom": 1,
-    "brightness": 1,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
+    "zoom": 1
   },
   {
     "id": "solar-eclipse",
@@ -56639,11 +56659,7 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-telescope.webp",
     "focalX": 20.041407000240074,
     "focalY": 50,
-    "zoom": 1,
-    "brightness": 1.13,
-    "contrast": 1,
-    "saturation": 1,
-    "gamma": 1
+    "zoom": 1
   },
   {
     "id": "observatory",
