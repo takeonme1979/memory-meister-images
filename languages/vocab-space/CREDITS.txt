@@ -1,0 +1,42 @@
+Space vocabulary photos — source file on Wikimedia Commons for each entry.
+Look a title up at https://commons.wikimedia.org/wiki/File:<name> for its author and licence.
+
+Universe ....... NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg
+Galaxy ......... NGC_4414_(NASA-med).jpg
+Milky Way ...... Laser Towards Milky Ways Centre.jpg
+Sun ............ White light, October 13th 1989 (noao-5008).jpg
+Moon ........... 1920px-FullMoon2010.jpg
+Planet ......... 1920px-Planet_collage_to_scale.jpg
+Mercury ........ Mercury Globe-MESSENGER mosaic centered at 0degN-0degE.jpg
+Venus .......... PIA23791-Venus-RealAndEnhancedContrastViews-20200608 (cropped).jpg
+Earth .......... Africa and Europe from a Million Miles Away.png
+Mars ........... Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png
+Jupiter ........ Jupiter_OPAL_2024.png
+Saturn ......... 1920px-Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png
+Uranus ......... Uranus2.jpg
+Neptune ........ Neptune from Voyager 2 (5278071676).jpg
+Pluto .......... 1920px-Pluto_in_True_Color_-_High-Res.png
+Star ........... Starsinthesky.jpg
+Constellation .. Big Dipper Constellation Over Dunes (38836718054).jpg
+Nebula ......... EmissionNebula NGC6357.jpg
+Black hole ..... 1920px-Black_hole_-_Messier_87_crop_max_res.jpg
+Supernova ...... Cas A (NIRCam image) (weic2330a).jpg
+Comet .......... Comet_Hale-Bopp_1995O1.jpg
+Asteroid ....... 243_ida_crop.jpg
+Meteor ......... 1920px-Perseid_Meteor_Shower_at_Mojave_National_Preserve_(51374983157)_(cropped).jpg
+Meteorite ...... 1920px-Namibie_Hoba_Meteorite_05.JPG
+Crater ......... Copernicus (LRO) 2.png
+Solar eclipse .. Total eclipse of the Sun.jpg
+Aurora ......... 1920px-Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska.jpg
+Solar flare .... Magnificent CME Erupts on the Sun - August 31.jpg
+Astronaut ...... NASA astronaut Chris Williams participates in spacewalk training (jsc2024e055523).jpg
+Spacewalk ...... STS-116 spacewalk 1.jpg
+Spacesuit ...... Chinese IVA space suit at NMC 02.jpg
+Rocket ......... 2016 Falcon 9 at Vandenberg Air Force Base.jpg
+Space shuttle .. Enterprise free flight.jpg
+Space station .. STS-134 International Space Station after undocking.jpg
+Satellite ...... Iridium satellite.jpg
+Space probe .... Voyager_spacecraft_model.png
+Telescope ...... Astronomy_Amateur_3_V2.jpg
+Observatory .... Custer Astronomical Observatory - Southold New York USA - Dome and Radio Telescope.jpg
+Moon landing ... A Man on the Moon, AS11-40-5903 (cropped).jpg
