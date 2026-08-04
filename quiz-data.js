@@ -55897,9 +55897,13 @@ window.QM_VOCAB_SPACE_DATA = [
     "uk": "космос",
     "cs": "kosmos",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-space.jpg",
-    "focalX": 50,
+    "focalX": 52.01466725971884,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "astronomy",
@@ -55917,9 +55921,13 @@ window.QM_VOCAB_SPACE_DATA = [
     "uk": "астрономія",
     "cs": "astronomie",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-astronomy.jpg",
-    "focalX": 50,
+    "focalX": 51.38054029794296,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "universe",
