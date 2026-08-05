@@ -2562,7 +2562,27 @@ window.QM_HIDDEN_QUIZZES = [
   "oscarSupActress70",
   "oscarSupActress40",
   "oscarDirector00",
-  "oscarDirector70"
+  "oscarDirector70",
+  "frSentences",
+  "rfrSentences",
+  "deSentences",
+  "rdeSentences",
+  "esSentences",
+  "resSentences",
+  "ptSentences",
+  "rptSentences",
+  "nlSentences",
+  "rnlSentences",
+  "csSentences",
+  "rcsSentences",
+  "ukSentences",
+  "rukSentences",
+  "roSentences",
+  "rroSentences",
+  "ltSentences",
+  "rltSentences",
+  "huSentences",
+  "rhuSentences"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -100539,5 +100559,9637 @@ window.QM_NO1S2326_DATA = [
     "term": "I Knew It I Knew You",
     "definition": "Taylor Swift",
     "example": "June 2026 · 2 weeks at No.1"
+  }
+];
+window.QM_SENTENCES_PL_DATA = [
+  {
+    "id": 1,
+    "term": "I am a teacher.",
+    "definition": "Jestem nauczycielem.",
+    "example": "być + instrumental for a role: nauczyciel → nauczycielem"
+  },
+  {
+    "id": 2,
+    "term": "I am a woman.",
+    "definition": "Jestem kobietą.",
+    "example": "instrumental, feminine: -a → -ą (kobieta → kobietą)"
+  },
+  {
+    "id": 3,
+    "term": "You are a good friend.",
+    "definition": "Jesteś dobrym przyjacielem.",
+    "example": "adjective agrees with the instrumental noun: dobry → dobrym"
+  },
+  {
+    "id": 4,
+    "term": "He is a doctor.",
+    "definition": "On jest lekarzem.",
+    "example": "3rd person pronoun 'on' + instrumental: lekarz → lekarzem"
+  },
+  {
+    "id": 5,
+    "term": "She is a nurse.",
+    "definition": "Ona jest pielęgniarką.",
+    "example": "instrumental, feminine: pielęgniarka → pielęgniarką"
+  },
+  {
+    "id": 6,
+    "term": "We are friends.",
+    "definition": "Jesteśmy przyjaciółmi.",
+    "example": "plural instrumental, irregular noun: przyjaciel → przyjaciółmi"
+  },
+  {
+    "id": 7,
+    "term": "You (plural) are students.",
+    "definition": "Jesteście studentami.",
+    "example": "plural instrumental: student → studentami"
+  },
+  {
+    "id": 8,
+    "term": "They are teachers. (mixed or male group)",
+    "definition": "Oni są nauczycielami.",
+    "example": "'oni' for a mixed/male group; instrumental plural: nauczycielami"
+  },
+  {
+    "id": 9,
+    "term": "They are teachers. (all-female group)",
+    "definition": "One są nauczycielkami.",
+    "example": "'one' for an all-female group — a separate pronoun from 'oni'"
+  },
+  {
+    "id": 10,
+    "term": "I am not a teacher.",
+    "definition": "Nie jestem nauczycielem.",
+    "example": "negation: 'nie' before the verb, case stays the same"
+  },
+  {
+    "id": 11,
+    "term": "This is a book.",
+    "definition": "To jest książka.",
+    "example": "'to' (this/it) + jest, noun stays in the nominative — no case change"
+  },
+  {
+    "id": 12,
+    "term": "This is my house.",
+    "definition": "To jest mój dom.",
+    "example": "possessive agrees with a masculine noun: mój dom"
+  },
+  {
+    "id": 13,
+    "term": "This is my car.",
+    "definition": "To jest moje auto.",
+    "example": "possessive agrees with a neuter noun: moje auto"
+  },
+  {
+    "id": 14,
+    "term": "This is my sister.",
+    "definition": "To jest moja siostra.",
+    "example": "possessive agrees with a feminine noun: moja siostra"
+  },
+  {
+    "id": 15,
+    "term": "This is your dog.",
+    "definition": "To jest twój pies.",
+    "example": "'twój' (your, singular informal) + masculine noun"
+  },
+  {
+    "id": 16,
+    "term": "This is his cat.",
+    "definition": "To jest jego kot.",
+    "example": "'jego' (his) never changes, whatever the noun's gender"
+  },
+  {
+    "id": 17,
+    "term": "This is her book.",
+    "definition": "To jest jej książka.",
+    "example": "'jej' (her) never changes either"
+  },
+  {
+    "id": 18,
+    "term": "This is our house.",
+    "definition": "To jest nasz dom.",
+    "example": "'nasz' (our) + masculine noun"
+  },
+  {
+    "id": 19,
+    "term": "This is your (plural) apartment.",
+    "definition": "To jest wasze mieszkanie.",
+    "example": "'wasze' (your, plural) + neuter noun"
+  },
+  {
+    "id": 20,
+    "term": "This is their car.",
+    "definition": "To jest ich samochód.",
+    "example": "'ich' (their) never changes"
+  },
+  {
+    "id": 21,
+    "term": "The big house is beautiful.",
+    "definition": "Duży dom jest piękny.",
+    "example": "two adjectives agree with a masculine noun: duży, piękny"
+  },
+  {
+    "id": 22,
+    "term": "I have a dog.",
+    "definition": "Mam psa.",
+    "example": "accusative, animate masculine: pies → psa"
+  },
+  {
+    "id": 23,
+    "term": "I have a car.",
+    "definition": "Mam samochód.",
+    "example": "accusative, inanimate masculine looks like the nominative: samochód"
+  },
+  {
+    "id": 24,
+    "term": "I have a sister.",
+    "definition": "Mam siostrę.",
+    "example": "accusative, feminine: siostra → siostrę"
+  },
+  {
+    "id": 25,
+    "term": "I have a book.",
+    "definition": "Mam książkę.",
+    "example": "accusative, feminine: książka → książkę"
+  },
+  {
+    "id": 26,
+    "term": "Do you have time?",
+    "definition": "Czy masz czas?",
+    "example": "'czy' opens a yes/no question; word order otherwise unchanged"
+  },
+  {
+    "id": 27,
+    "term": "He has a new phone.",
+    "definition": "On ma nowy telefon.",
+    "example": "3rd person singular of mieć: ma; accusative adjective + noun"
+  },
+  {
+    "id": 28,
+    "term": "We have two children.",
+    "definition": "Mamy dwoje dzieci.",
+    "example": "collective numeral 'dwoje' for children + genitive plural: dzieci"
+  },
+  {
+    "id": 29,
+    "term": "They have a big house.",
+    "definition": "Oni mają duży dom.",
+    "example": "3rd person plural of mieć: mają"
+  },
+  {
+    "id": 30,
+    "term": "I don't have a car.",
+    "definition": "Nie mam samochodu.",
+    "example": "negation flips the object to genitive: samochód → samochodu"
+  },
+  {
+    "id": 31,
+    "term": "I don't have time.",
+    "definition": "Nie mam czasu.",
+    "example": "genitive after negation: czas → czasu"
+  },
+  {
+    "id": 32,
+    "term": "I don't have a sister.",
+    "definition": "Nie mam siostry.",
+    "example": "genitive, feminine after negation: siostra → siostry"
+  },
+  {
+    "id": 33,
+    "term": "She doesn't have a book.",
+    "definition": "Ona nie ma książki.",
+    "example": "genitive after negation: książka → książki"
+  },
+  {
+    "id": 34,
+    "term": "We don't have money.",
+    "definition": "Nie mamy pieniędzy.",
+    "example": "genitive plural, irregular: pieniądze → pieniędzy"
+  },
+  {
+    "id": 35,
+    "term": "There is no water.",
+    "definition": "Nie ma wody.",
+    "example": "impersonal 'nie ma' (there isn't) always takes the genitive: woda → wody"
+  },
+  {
+    "id": 36,
+    "term": "There is no problem.",
+    "definition": "Nie ma problemu.",
+    "example": "impersonal 'nie ma' + genitive: problem → problemu"
+  },
+  {
+    "id": 37,
+    "term": "I don't know.",
+    "definition": "Nie wiem.",
+    "example": "a verb with no object just negates plainly — no case shift to worry about"
+  },
+  {
+    "id": 38,
+    "term": "I don't understand.",
+    "definition": "Nie rozumiem.",
+    "example": "same pattern: 'nie' + the verb, nothing else changes"
+  },
+  {
+    "id": 39,
+    "term": "I don't like coffee.",
+    "definition": "Nie lubię kawy.",
+    "example": "'lubić' takes the accusative (lubię kawę), but negation shifts it to genitive: kawy"
+  },
+  {
+    "id": 40,
+    "term": "I live in Warsaw.",
+    "definition": "Mieszkam w Warszawie.",
+    "example": "'w' (in) + locative: Warszawa → Warszawie"
+  },
+  {
+    "id": 41,
+    "term": "The book is on the table.",
+    "definition": "Książka jest na stole.",
+    "example": "'na' (on) + locative: stół → stole"
+  },
+  {
+    "id": 42,
+    "term": "I am going to the store.",
+    "definition": "Idę do sklepu.",
+    "example": "'do' (to) always takes the genitive: sklep → sklepu"
+  },
+  {
+    "id": 43,
+    "term": "She is coming back from school.",
+    "definition": "Ona wraca ze szkoły.",
+    "example": "'z' (from) + genitive: szkoła → szkoły ('z' becomes 'ze' for easier pronunciation)"
+  },
+  {
+    "id": 44,
+    "term": "I am talking with my friend.",
+    "definition": "Rozmawiam z przyjacielem.",
+    "example": "'z' (with) here takes the instrumental instead: przyjaciel → przyjacielem"
+  },
+  {
+    "id": 45,
+    "term": "This gift is for you.",
+    "definition": "Ten prezent jest dla ciebie.",
+    "example": "'dla' (for) + genitive pronoun: ty → ciebie"
+  },
+  {
+    "id": 46,
+    "term": "We are walking through the park.",
+    "definition": "Idziemy przez park.",
+    "example": "'przez' (through) + accusative: park (unchanged, masculine inanimate)"
+  },
+  {
+    "id": 47,
+    "term": "The cat is under the table.",
+    "definition": "Kot jest pod stołem.",
+    "example": "'pod' (under) + instrumental: stół → stołem"
+  },
+  {
+    "id": 48,
+    "term": "The lamp is above the table.",
+    "definition": "Lampa jest nad stołem.",
+    "example": "'nad' (above) also takes the instrumental"
+  },
+  {
+    "id": 49,
+    "term": "I am waiting for the bus.",
+    "definition": "Czekam na autobus.",
+    "example": "'czekać na' (wait for) + accusative: autobus"
+  },
+  {
+    "id": 50,
+    "term": "He works at the university.",
+    "definition": "On pracuje na uniwersytecie.",
+    "example": "'na' (at) + locative: uniwersytet → uniwersytecie"
+  },
+  {
+    "id": 51,
+    "term": "I am thinking about you.",
+    "definition": "Myślę o tobie.",
+    "example": "'o' (about) + locative pronoun: ty → tobie"
+  },
+  {
+    "id": 52,
+    "term": "Between the house and the garden.",
+    "definition": "Między domem a ogrodem.",
+    "example": "'między' (between) + instrumental twice: dom → domem, ogród → ogrodem"
+  },
+  {
+    "id": 53,
+    "term": "I am going home.",
+    "definition": "Idę do domu.",
+    "example": "fixed phrase: 'do domu' (home) — genitive, like any 'do' + noun"
+  },
+  {
+    "id": 54,
+    "term": "The keys are in my bag.",
+    "definition": "Klucze są w mojej torbie.",
+    "example": "'w' + locative, and the possessive agrees too: moja → mojej, torba → torbie"
+  },
+  {
+    "id": 55,
+    "term": "She is standing next to the window.",
+    "definition": "Ona stoi obok okna.",
+    "example": "'obok' (next to) + genitive: okno → okna"
+  },
+  {
+    "id": 56,
+    "term": "After the meeting, we will go home.",
+    "definition": "Po spotkaniu pójdziemy do domu.",
+    "example": "'po' (after) + locative: spotkanie → spotkaniu"
+  },
+  {
+    "id": 57,
+    "term": "I read books every day.",
+    "definition": "Codziennie czytam książki.",
+    "example": "1st person singular present: czytam"
+  },
+  {
+    "id": 58,
+    "term": "You read a lot.",
+    "definition": "Dużo czytasz.",
+    "example": "2nd person singular present: czytasz"
+  },
+  {
+    "id": 59,
+    "term": "He writes letters.",
+    "definition": "On pisze listy.",
+    "example": "3rd person singular present: pisze"
+  },
+  {
+    "id": 60,
+    "term": "We speak Polish.",
+    "definition": "Mówimy po polsku.",
+    "example": "1st person plural present: mówimy; 'po polsku' is the fixed way to say 'in Polish'"
+  },
+  {
+    "id": 61,
+    "term": "You (plural) watch TV.",
+    "definition": "Oglądacie telewizję.",
+    "example": "2nd person plural present: oglądacie"
+  },
+  {
+    "id": 62,
+    "term": "They play football.",
+    "definition": "Oni grają w piłkę nożną.",
+    "example": "'grać w' (play) + accusative: piłka nożna → piłkę nożną"
+  },
+  {
+    "id": 63,
+    "term": "I wake up at seven.",
+    "definition": "Budzę się o siódmej.",
+    "example": "reflexive verb: budzić się; clock time uses the locative: o siódmej"
+  },
+  {
+    "id": 64,
+    "term": "She gets dressed quickly.",
+    "definition": "Ona szybko się ubiera.",
+    "example": "reflexive verb: ubierać się, 'się' can sit before the verb"
+  },
+  {
+    "id": 65,
+    "term": "We are learning Polish.",
+    "definition": "Uczymy się polskiego.",
+    "example": "'uczyć się' (learn) + genitive of the thing learned: polskiego"
+  },
+  {
+    "id": 66,
+    "term": "I am not afraid.",
+    "definition": "Nie boję się.",
+    "example": "reflexive verb negated: bać się, 'nie' still goes right before the verb"
+  },
+  {
+    "id": 67,
+    "term": "I was tired. (a man speaking)",
+    "definition": "Byłem zmęczony.",
+    "example": "past tense of być is gendered: byłem (masculine 'I was')"
+  },
+  {
+    "id": 68,
+    "term": "I was tired. (a woman speaking)",
+    "definition": "Byłam zmęczona.",
+    "example": "the feminine form: byłam, and the adjective agrees too: zmęczona"
+  },
+  {
+    "id": 69,
+    "term": "You were at home. (to a man)",
+    "definition": "Byłeś w domu.",
+    "example": "past tense, 2nd person masculine: byłeś"
+  },
+  {
+    "id": 70,
+    "term": "He was happy.",
+    "definition": "On był szczęśliwy.",
+    "example": "past tense, 3rd person masculine: był"
+  },
+  {
+    "id": 71,
+    "term": "She was happy.",
+    "definition": "Ona była szczęśliwa.",
+    "example": "past tense, 3rd person feminine: była"
+  },
+  {
+    "id": 72,
+    "term": "We were in Poland last year.",
+    "definition": "Byliśmy w Polsce w zeszłym roku.",
+    "example": "past plural: byliśmy; 'w zeszłym roku' (last year) is locative too"
+  },
+  {
+    "id": 73,
+    "term": "I read that book. (and finished it)",
+    "definition": "Przeczytałem tę książkę.",
+    "example": "the prefix prze- marks a completed action: czytać → przeczytać"
+  },
+  {
+    "id": 74,
+    "term": "She wrote a letter.",
+    "definition": "Napisała list.",
+    "example": "completed-action (perfective) past, feminine: napisała"
+  },
+  {
+    "id": 75,
+    "term": "We ate dinner.",
+    "definition": "Zjedliśmy kolację.",
+    "example": "completed-action past, plural: zjedliśmy"
+  },
+  {
+    "id": 76,
+    "term": "They didn't come.",
+    "definition": "Oni nie przyszli.",
+    "example": "past tense negation: 'nie' still goes right before the verb"
+  },
+  {
+    "id": 77,
+    "term": "I will be happy.",
+    "definition": "Będę szczęśliwy.",
+    "example": "future of być (będę) + an adjective, same as with jestem"
+  },
+  {
+    "id": 78,
+    "term": "I will read this book. (and finish it)",
+    "definition": "Przeczytam tę książkę.",
+    "example": "completed-action verbs make their own future with no auxiliary: przeczytam"
+  },
+  {
+    "id": 79,
+    "term": "I will be reading tomorrow.",
+    "definition": "Będę czytać jutro.",
+    "example": "ongoing-action future needs będę + infinitive: będę czytać"
+  },
+  {
+    "id": 80,
+    "term": "We will go to the cinema.",
+    "definition": "Pójdziemy do kina.",
+    "example": "future of pójść (go); 'do' + genitive: kino → kina"
+  },
+  {
+    "id": 81,
+    "term": "She will call you tomorrow.",
+    "definition": "Ona zadzwoni do ciebie jutro.",
+    "example": "'dzwonić do' (call) + genitive: zadzwoni do ciebie"
+  },
+  {
+    "id": 82,
+    "term": "They will not come.",
+    "definition": "Oni nie przyjdą.",
+    "example": "future negation, same pattern as the past"
+  },
+  {
+    "id": 83,
+    "term": "I will help you.",
+    "definition": "Pomogę ci.",
+    "example": "'pomóc' (help) takes the dative, not the accusative: ty → ci"
+  },
+  {
+    "id": 84,
+    "term": "Where do you live?",
+    "definition": "Gdzie mieszkasz?",
+    "example": "question word 'gdzie' (where) simply opens the sentence"
+  },
+  {
+    "id": 85,
+    "term": "What is your name?",
+    "definition": "Jak masz na imię?",
+    "example": "the idiomatic way to ask a name: literally 'how do you have for a name'"
+  },
+  {
+    "id": 86,
+    "term": "How old are you?",
+    "definition": "Ile masz lat?",
+    "example": "idiomatic: literally 'how many years do you have'; lat is genitive plural"
+  },
+  {
+    "id": 87,
+    "term": "Why are you sad?",
+    "definition": "Dlaczego jesteś smutny?",
+    "example": "question word 'dlaczego' (why)"
+  },
+  {
+    "id": 88,
+    "term": "When does the train leave?",
+    "definition": "Kiedy odjeżdża pociąg?",
+    "example": "question word 'kiedy' (when)"
+  },
+  {
+    "id": 89,
+    "term": "Who is this?",
+    "definition": "Kto to jest?",
+    "example": "question word 'kto' (who)"
+  },
+  {
+    "id": 90,
+    "term": "What are you doing?",
+    "definition": "Co robisz?",
+    "example": "question word 'co' (what)"
+  },
+  {
+    "id": 91,
+    "term": "Do you speak English?",
+    "definition": "Czy mówisz po angielsku?",
+    "example": "another 'czy' yes/no question, same shape as #26"
+  },
+  {
+    "id": 92,
+    "term": "I have one brother.",
+    "definition": "Mam jednego brata.",
+    "example": "'jeden' (one) agrees like an adjective + accusative animate: brat → brata"
+  },
+  {
+    "id": 93,
+    "term": "I have two brothers.",
+    "definition": "Mam dwóch braci.",
+    "example": "2–4 with people needs the special 'virile' form: dwóch + genitive plural braci"
+  },
+  {
+    "id": 94,
+    "term": "I have five brothers.",
+    "definition": "Mam pięciu braci.",
+    "example": "5 and up with people: pięciu, still + genitive plural braci"
+  },
+  {
+    "id": 95,
+    "term": "I see two cats.",
+    "definition": "Widzę dwa koty.",
+    "example": "2–4 with animals/objects is simpler: dwa + the ordinary plural koty"
+  },
+  {
+    "id": 96,
+    "term": "I see five cats.",
+    "definition": "Widzę pięć kotów.",
+    "example": "5 and up always takes the genitive plural, even for animals: kotów"
+  },
+  {
+    "id": 97,
+    "term": "This book is bigger than that one.",
+    "definition": "Ta książka jest większa niż tamta.",
+    "example": "comparative adjective: duża → większa, comparison with 'niż'"
+  },
+  {
+    "id": 98,
+    "term": "She is the tallest in the class.",
+    "definition": "Ona jest najwyższa w klasie.",
+    "example": "superlative: naj- prefix on the comparative, najwyższa"
+  },
+  {
+    "id": 99,
+    "term": "I like tea more than coffee.",
+    "definition": "Bardziej lubię herbatę niż kawę.",
+    "example": "some words comparativize with 'bardziej' (more) instead of an ending"
+  },
+  {
+    "id": 100,
+    "term": "It's the best day of my life.",
+    "definition": "To jest najlepszy dzień mojego życia.",
+    "example": "irregular superlative: dobry → najlepszy; 'of my life' is genitive: mojego życia"
+  }
+];
+window.QM_SENTENCES_PL_LOWERINT_DATA = [
+  {
+    "id": 1,
+    "term": "I want to learn Polish.",
+    "definition": "Chcę nauczyć się polskiego.",
+    "example": "modal 'chcieć' + infinitive; the language learned is genitive: polskiego"
+  },
+  {
+    "id": 2,
+    "term": "I can help you tomorrow.",
+    "definition": "Mogę ci pomóc jutro.",
+    "example": "'móc' for possibility/permission (contrast 'umieć' for a learned skill)"
+  },
+  {
+    "id": 3,
+    "term": "I must go now.",
+    "definition": "Muszę już iść.",
+    "example": "'musieć' (must) + infinitive"
+  },
+  {
+    "id": 4,
+    "term": "You should rest.",
+    "definition": "Powinieneś odpocząć.",
+    "example": "'powinieneś' (you should, said to a man) + infinitive"
+  },
+  {
+    "id": 5,
+    "term": "She should call her mother.",
+    "definition": "Ona powinna zadzwonić do swojej matki.",
+    "example": "'swojej' — the reflexive possessive, used because the owner is the subject"
+  },
+  {
+    "id": 6,
+    "term": "We want to visit Krakow.",
+    "definition": "Chcemy odwiedzić Kraków.",
+    "example": "'chcieć' plural + infinitive; Kraków stays the same in the accusative"
+  },
+  {
+    "id": 7,
+    "term": "They can't come today.",
+    "definition": "Oni nie mogą dzisiaj przyjść.",
+    "example": "negated modal: 'nie' still goes right before 'mogą'"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to eat now.",
+    "definition": "Nie chcę teraz jeść.",
+    "example": "negated 'chcieć' + infinitive"
+  },
+  {
+    "id": 9,
+    "term": "Do you want some tea?",
+    "definition": "Czy chcesz herbaty?",
+    "example": "partitive genitive — 'some tea' rather than 'the tea', so herbata → herbaty"
+  },
+  {
+    "id": 10,
+    "term": "I would like to order a coffee.",
+    "definition": "Chciałbym zamówić kawę.",
+    "example": "the conditional 'by' turns 'chcę' into the polite 'chciałbym' (I would like)"
+  },
+  {
+    "id": 11,
+    "term": "You have to be careful.",
+    "definition": "Musisz uważać.",
+    "example": "'musieć' 2nd person singular + infinitive"
+  },
+  {
+    "id": 12,
+    "term": "It's necessary to buy bread.",
+    "definition": "Trzeba kupić chleb.",
+    "example": "impersonal 'trzeba' (one must/it's necessary) + infinitive"
+  },
+  {
+    "id": 13,
+    "term": "You can smoke here.",
+    "definition": "Tutaj można palić.",
+    "example": "impersonal 'można' (one may/it's allowed) — no subject at all"
+  },
+  {
+    "id": 14,
+    "term": "You can't park here.",
+    "definition": "Tutaj nie można parkować.",
+    "example": "negated impersonal 'można'"
+  },
+  {
+    "id": 15,
+    "term": "It's worth trying this soup.",
+    "definition": "Warto spróbować tej zupy.",
+    "example": "'spróbować' (try/taste) takes the genitive: zupa → zupy"
+  },
+  {
+    "id": 16,
+    "term": "It's not necessary to hurry.",
+    "definition": "Nie trzeba się spieszyć.",
+    "example": "negated 'trzeba' + a reflexive infinitive: spieszyć się"
+  },
+  {
+    "id": 17,
+    "term": "You shouldn't smoke.",
+    "definition": "Nie powinno się palić.",
+    "example": "the impersonal form of 'powinien': powinno się + infinitive"
+  },
+  {
+    "id": 18,
+    "term": "One has to work hard.",
+    "definition": "Trzeba dużo pracować.",
+    "example": "'trzeba' + an adverb + infinitive"
+  },
+  {
+    "id": 19,
+    "term": "Everyone must follow the rules.",
+    "definition": "Każdy musi przestrzegać zasad.",
+    "example": "'przestrzegać' (follow/observe) takes the genitive: zasady → zasad"
+  },
+  {
+    "id": 20,
+    "term": "I have to finish this today.",
+    "definition": "Muszę to dzisiaj skończyć.",
+    "example": "'musieć' + accusative pronoun 'to' + infinitive"
+  },
+  {
+    "id": 21,
+    "term": "I like this song.",
+    "definition": "Podoba mi się ta piosenka.",
+    "example": "'podobać się' (be pleasing) — the thing liked is the subject, the person is dative: mi"
+  },
+  {
+    "id": 22,
+    "term": "Do you like this city?",
+    "definition": "Czy podoba ci się to miasto?",
+    "example": "same construction, dative: ci (to/for you)"
+  },
+  {
+    "id": 23,
+    "term": "We like this restaurant.",
+    "definition": "Podoba nam się ta restauracja.",
+    "example": "dative plural: nam (to/for us)"
+  },
+  {
+    "id": 24,
+    "term": "They don't like this idea.",
+    "definition": "Nie podoba im się ten pomysł.",
+    "example": "dative: im (to/for them), negated"
+  },
+  {
+    "id": 25,
+    "term": "My head hurts.",
+    "definition": "Boli mnie głowa.",
+    "example": "'boleć' — the body part is the subject, the person is accusative: mnie"
+  },
+  {
+    "id": 26,
+    "term": "My legs hurt.",
+    "definition": "Bolą mnie nogi.",
+    "example": "plural subject, plural verb: bolą (not boli)"
+  },
+  {
+    "id": 27,
+    "term": "Does your stomach hurt?",
+    "definition": "Czy boli cię brzuch?",
+    "example": "accusative: cię (you)"
+  },
+  {
+    "id": 28,
+    "term": "I feel sick.",
+    "definition": "Jest mi niedobrze.",
+    "example": "impersonal 'jest mi' + adverb — the experiencer is dative, there's no real subject"
+  },
+  {
+    "id": 29,
+    "term": "I am cold.",
+    "definition": "Jest mi zimno.",
+    "example": "same pattern: jest mi + zimno (cold), not 'jestem zimny'"
+  },
+  {
+    "id": 30,
+    "term": "Are you hungry?",
+    "definition": "Czy jesteś głodny?",
+    "example": "a plain adjective this time — no dative needed, contrast with #28/29"
+  },
+  {
+    "id": 31,
+    "term": "The more you practice, the better you speak.",
+    "definition": "Im więcej ćwiczysz, tym lepiej mówisz.",
+    "example": "'im...tym...' pairs two comparatives together"
+  },
+  {
+    "id": 32,
+    "term": "The sooner, the better.",
+    "definition": "Im szybciej, tym lepiej.",
+    "example": "'im...tym' with adverbs instead of full clauses"
+  },
+  {
+    "id": 33,
+    "term": "Both my sister and my brother live in Warsaw.",
+    "definition": "Zarówno moja siostra, jak i mój brat mieszkają w Warszawie.",
+    "example": "'zarówno...jak i' = 'both...and'"
+  },
+  {
+    "id": 34,
+    "term": "I like neither tea nor coffee.",
+    "definition": "Nie lubię ani herbaty, ani kawy.",
+    "example": "'ani...ani' = 'neither...nor'; genitive because the verb is negated"
+  },
+  {
+    "id": 35,
+    "term": "This is the most beautiful city in Poland.",
+    "definition": "To jest najpiękniejsze miasto w Polsce.",
+    "example": "superlative: naj- + comparative, agreeing neuter: najpiękniejsze"
+  },
+  {
+    "id": 36,
+    "term": "He is older than me.",
+    "definition": "On jest starszy ode mnie.",
+    "example": "comparative + 'od' (than) + genitive: ja → mnie ('od' becomes 'ode' before it)"
+  },
+  {
+    "id": 37,
+    "term": "This is worse than I thought.",
+    "definition": "To jest gorsze, niż myślałem.",
+    "example": "irregular comparative: zły (bad) → gorszy/gorsze, not 'bardziej zły'"
+  },
+  {
+    "id": 38,
+    "term": "She sings better than he does.",
+    "definition": "Ona śpiewa lepiej niż on.",
+    "example": "comparative adverb: dobrze → lepiej (irregular, like English good/better)"
+  },
+  {
+    "id": 39,
+    "term": "This task is easier than that one.",
+    "definition": "To zadanie jest łatwiejsze niż tamto.",
+    "example": "regular comparative: łatwy → łatwiejszy"
+  },
+  {
+    "id": 40,
+    "term": "He runs the fastest in our team.",
+    "definition": "On biega najszybciej w naszej drużynie.",
+    "example": "superlative adverb: szybko → najszybciej"
+  },
+  {
+    "id": 41,
+    "term": "I think that this is a good idea.",
+    "definition": "Myślę, że to dobry pomysł.",
+    "example": "'że' introduces a that-clause, same as English"
+  },
+  {
+    "id": 42,
+    "term": "I know that you are right.",
+    "definition": "Wiem, że masz rację.",
+    "example": "idiom: 'mieć rację' = to be right (literally 'to have reason')"
+  },
+  {
+    "id": 43,
+    "term": "I hope that the weather will be nice.",
+    "definition": "Mam nadzieję, że pogoda będzie ładna.",
+    "example": "'mieć nadzieję' (to hope) + że-clause in the future"
+  },
+  {
+    "id": 44,
+    "term": "I am glad that you came.",
+    "definition": "Cieszę się, że przyszedłeś.",
+    "example": "'cieszyć się' (be glad) + że-clause in the past"
+  },
+  {
+    "id": 45,
+    "term": "I don't think that it's true.",
+    "definition": "Nie sądzę, że to prawda.",
+    "example": "'sądzić' (to think/believe) negated + że-clause"
+  },
+  {
+    "id": 46,
+    "term": "I am learning Polish because I want to live in Poland.",
+    "definition": "Uczę się polskiego, ponieważ chcę mieszkać w Polsce.",
+    "example": "'ponieważ' = 'because', a little more formal than 'bo'"
+  },
+  {
+    "id": 47,
+    "term": "I can't come because I am sick.",
+    "definition": "Nie mogę przyjść, bo jestem chory.",
+    "example": "'bo' — the everyday, spoken word for 'because'"
+  },
+  {
+    "id": 48,
+    "term": "I am studying so that I can pass the exam.",
+    "definition": "Uczę się, żeby zdać egzamin.",
+    "example": "'żeby' + infinitive states the purpose, when the subject doesn't change"
+  },
+  {
+    "id": 49,
+    "term": "Call me when you arrive.",
+    "definition": "Zadzwoń do mnie, kiedy przyjedziesz.",
+    "example": "'kiedy' (when) takes the future here, same as English"
+  },
+  {
+    "id": 50,
+    "term": "If it rains, we will stay home.",
+    "definition": "Jeśli będzie padać, zostaniemy w domu.",
+    "example": "unlike English, Polish uses the future in the 'if' clause too, not just the result"
+  },
+  {
+    "id": 51,
+    "term": "The woman who lives next door is a doctor.",
+    "definition": "Kobieta, która mieszka obok, jest lekarką.",
+    "example": "relative pronoun agrees with its noun: która for a feminine subject"
+  },
+  {
+    "id": 52,
+    "term": "The man who called yesterday is my uncle.",
+    "definition": "Mężczyzna, który zadzwonił wczoraj, jest moim wujkiem.",
+    "example": "masculine relative pronoun: który"
+  },
+  {
+    "id": 53,
+    "term": "The book that I am reading is very interesting.",
+    "definition": "Książka, którą czytam, jest bardzo ciekawa.",
+    "example": "relative pronoun in the accusative (it's the object of 'czytam'): którą"
+  },
+  {
+    "id": 54,
+    "term": "The children who play in the park are our neighbors.",
+    "definition": "Dzieci, które bawią się w parku, są naszymi sąsiadami.",
+    "example": "plural relative pronoun: które"
+  },
+  {
+    "id": 55,
+    "term": "This is the house in which I grew up.",
+    "definition": "To jest dom, w którym się wychowałem.",
+    "example": "'w' + locative relative pronoun: w którym"
+  },
+  {
+    "id": 56,
+    "term": "I don't remember the name of the street where we met.",
+    "definition": "Nie pamiętam nazwy ulicy, na której się spotkaliśmy.",
+    "example": "'nazwę' would be accusative, but negation shifts it to genitive: nazwy"
+  },
+  {
+    "id": 57,
+    "term": "The people whom I met were very friendly.",
+    "definition": "Ludzie, których poznałem, byli bardzo mili.",
+    "example": "for a group of people, the accusative relative pronoun looks like the genitive: których"
+  },
+  {
+    "id": 58,
+    "term": "This is the reason why I am late.",
+    "definition": "To jest powód, dla którego się spóźniłem.",
+    "example": "'dla którego' = 'for which' — a set way to say 'why' with a noun clause"
+  },
+  {
+    "id": 59,
+    "term": "The car that broke down is mine.",
+    "definition": "Samochód, który się zepsuł, jest mój.",
+    "example": "reflexive verb inside a relative clause: który się zepsuł"
+  },
+  {
+    "id": 60,
+    "term": "I found the keys that I lost.",
+    "definition": "Znalazłem klucze, które zgubiłem.",
+    "example": "plural relative pronoun as an object: które"
+  },
+  {
+    "id": 61,
+    "term": "The meeting starts at three o'clock.",
+    "definition": "Spotkanie zaczyna się o trzeciej.",
+    "example": "clock time takes the locative: trzecia → o trzeciej"
+  },
+  {
+    "id": 62,
+    "term": "I usually wake up before seven.",
+    "definition": "Zazwyczaj budzę się przed siódmą.",
+    "example": "'przed' (before) + instrumental time: siódma → siódmą"
+  },
+  {
+    "id": 63,
+    "term": "We will meet after the concert.",
+    "definition": "Spotkamy się po koncercie.",
+    "example": "'po' (after) + locative: koncert → koncercie"
+  },
+  {
+    "id": 64,
+    "term": "The shop is open from nine to six.",
+    "definition": "Sklep jest otwarty od dziewiątej do szóstej.",
+    "example": "'od...do' (from...to) both take the genitive"
+  },
+  {
+    "id": 65,
+    "term": "I lived in Poland for three years.",
+    "definition": "Mieszkałem w Polsce przez trzy lata.",
+    "example": "'przez' (for, duration) + accusative: trzy lata"
+  },
+  {
+    "id": 66,
+    "term": "I haven't seen him since last year.",
+    "definition": "Nie widziałem go od zeszłego roku.",
+    "example": "'od' (since) + genitive: zeszły rok → zeszłego roku"
+  },
+  {
+    "id": 67,
+    "term": "During the summer, we travel a lot.",
+    "definition": "Latem dużo podróżujemy.",
+    "example": "'latem' (in summer) — a season turned into its own adverb"
+  },
+  {
+    "id": 68,
+    "term": "On Mondays, I go to the gym.",
+    "definition": "W poniedziałki chodzę na siłownię.",
+    "example": "a repeated day of the week: 'w' + accusative plural, poniedziałki"
+  },
+  {
+    "id": 69,
+    "term": "Next week, I am going on vacation.",
+    "definition": "W przyszłym tygodniu jadę na wakacje.",
+    "example": "'w' + locative: przyszły tydzień → przyszłym tygodniu"
+  },
+  {
+    "id": 70,
+    "term": "Two years ago, I visited Poland.",
+    "definition": "Dwa lata temu odwiedziłem Polskę.",
+    "example": "'temu' (ago) comes right after the amount of time"
+  },
+  {
+    "id": 71,
+    "term": "There are a lot of people here.",
+    "definition": "Tutaj jest dużo ludzi.",
+    "example": "'dużo' (a lot of) + genitive plural: ludzie → ludzi"
+  },
+  {
+    "id": 72,
+    "term": "I have little time.",
+    "definition": "Mam mało czasu.",
+    "example": "'mało' (little) + genitive: czas → czasu"
+  },
+  {
+    "id": 73,
+    "term": "I have a few questions.",
+    "definition": "Mam kilka pytań.",
+    "example": "'kilka' (a few) + genitive plural: pytania → pytań"
+  },
+  {
+    "id": 74,
+    "term": "There are many opportunities here.",
+    "definition": "Tutaj jest wiele możliwości.",
+    "example": "'wiele' (many) + genitive plural: możliwości"
+  },
+  {
+    "id": 75,
+    "term": "I have several friends in Poland.",
+    "definition": "Mam kilkunastu przyjaciół w Polsce.",
+    "example": "'kilkunastu' (a dozen-odd, for people) + genitive plural: przyjaciół"
+  },
+  {
+    "id": 76,
+    "term": "Not many people know about this.",
+    "definition": "Niewiele osób o tym wie.",
+    "example": "'niewiele' (not many) + genitive plural: osoba → osób"
+  },
+  {
+    "id": 77,
+    "term": "I need a bit more time.",
+    "definition": "Potrzebuję trochę więcej czasu.",
+    "example": "'trochę więcej' (a bit more) + genitive: czasu"
+  },
+  {
+    "id": 78,
+    "term": "Most people agree with this.",
+    "definition": "Większość ludzi się z tym zgadza.",
+    "example": "'większość' (majority) + genitive: ludzi; 'zgadzać się z' + instrumental"
+  },
+  {
+    "id": 79,
+    "term": "I bought a lot of books.",
+    "definition": "Kupiłem dużo książek.",
+    "example": "'dużo' + genitive plural: książki → książek"
+  },
+  {
+    "id": 80,
+    "term": "There isn't enough bread.",
+    "definition": "Nie ma wystarczająco chleba.",
+    "example": "'nie ma' always takes the genitive, quantity word or not: chleb → chleba"
+  },
+  {
+    "id": 81,
+    "term": "Sit down, please.",
+    "definition": "Usiądź, proszę.",
+    "example": "singular imperative: usiądź"
+  },
+  {
+    "id": 82,
+    "term": "Wait for me!",
+    "definition": "Poczekaj na mnie!",
+    "example": "singular imperative: poczekaj"
+  },
+  {
+    "id": 83,
+    "term": "Don't worry.",
+    "definition": "Nie martw się.",
+    "example": "negated imperative of a reflexive verb: martwić się"
+  },
+  {
+    "id": 84,
+    "term": "Close the door, please.",
+    "definition": "Zamknij drzwi, proszę.",
+    "example": "singular imperative: zamknij"
+  },
+  {
+    "id": 85,
+    "term": "Let's go!",
+    "definition": "Chodźmy!",
+    "example": "the '-my' ending makes a 1st person plural imperative: 'let's...'"
+  },
+  {
+    "id": 86,
+    "term": "Let's eat something.",
+    "definition": "Zjedzmy coś.",
+    "example": "same '-my' pattern: zjedzmy"
+  },
+  {
+    "id": 87,
+    "term": "Be careful!",
+    "definition": "Uważaj!",
+    "example": "singular imperative: uważaj"
+  },
+  {
+    "id": 88,
+    "term": "Don't be afraid.",
+    "definition": "Nie bój się.",
+    "example": "negated imperative of the reflexive 'bać się'"
+  },
+  {
+    "id": 89,
+    "term": "Help me, please.",
+    "definition": "Pomóż mi, proszę.",
+    "example": "imperative + dative pronoun: pomóc governs the dative, mi"
+  },
+  {
+    "id": 90,
+    "term": "Listen to me!",
+    "definition": "Posłuchaj mnie!",
+    "example": "imperative + genitive pronoun: posłuchać governs the genitive, mnie"
+  },
+  {
+    "id": 91,
+    "term": "I don't know where he lives.",
+    "definition": "Nie wiem, gdzie on mieszka.",
+    "example": "an indirect question — 'gdzie' works the same tucked inside a sentence"
+  },
+  {
+    "id": 92,
+    "term": "I don't know what time it is.",
+    "definition": "Nie wiem, która jest godzina.",
+    "example": "idiomatic: literally 'which is the hour'"
+  },
+  {
+    "id": 93,
+    "term": "Tell me why you are sad.",
+    "definition": "Powiedz mi, dlaczego jesteś smutny.",
+    "example": "indirect question with 'dlaczego'"
+  },
+  {
+    "id": 94,
+    "term": "I wonder who called.",
+    "definition": "Zastanawiam się, kto dzwonił.",
+    "example": "'zastanawiać się' (wonder) + indirect question with 'kto'"
+  },
+  {
+    "id": 95,
+    "term": "I am not sure if he is coming.",
+    "definition": "Nie jestem pewien, czy on przyjdzie.",
+    "example": "'czy' also opens an indirect yes/no question, not just a direct one"
+  },
+  {
+    "id": 96,
+    "term": "She said that she was tired.",
+    "definition": "Powiedziała, że jest zmęczona.",
+    "example": "Polish keeps the ORIGINAL tense in reported speech — 'jest', not shifted back like English 'was'"
+  },
+  {
+    "id": 97,
+    "term": "He asked if I spoke Polish.",
+    "definition": "Zapytał, czy mówię po polsku.",
+    "example": "same principle: 'mówię' stays present, matching what was actually asked"
+  },
+  {
+    "id": 98,
+    "term": "If I had more time, I would learn Italian too.",
+    "definition": "Gdybym miał więcej czasu, nauczyłbym się też włoskiego.",
+    "example": "the hypothetical 'gdybym' + conditional 'nauczyłbym się' — a genuine 'if I had...' scenario"
+  },
+  {
+    "id": 99,
+    "term": "If I were you, I would rest.",
+    "definition": "Na twoim miejscu odpocząłbym.",
+    "example": "idiom: 'na twoim miejscu' (in your place) replaces 'if I were you' entirely"
+  },
+  {
+    "id": 100,
+    "term": "I would be very happy if you came.",
+    "definition": "Byłbym bardzo szczęśliwy, gdybyś przyszedł.",
+    "example": "conditional in both halves: byłbym... gdybyś przyszedł"
+  }
+];
+window.QM_SENTENCES_PL_INTERMEDIATE_DATA = [
+  {
+    "id": 1,
+    "term": "I walk to work every day.",
+    "definition": "Codziennie chodzę do pracy.",
+    "example": "'chodzić' — the habitual/repeated verb of motion, for a regular routine"
+  },
+  {
+    "id": 2,
+    "term": "I am walking to the store right now.",
+    "definition": "Teraz idę do sklepu.",
+    "example": "'iść' — one specific trip, happening right now"
+  },
+  {
+    "id": 3,
+    "term": "She often goes to the cinema.",
+    "definition": "Ona często chodzi do kina.",
+    "example": "'chodzić' again — repeated, not one trip"
+  },
+  {
+    "id": 4,
+    "term": "We are going to the park.",
+    "definition": "Idziemy do parku.",
+    "example": "'iść' — one trip, in progress"
+  },
+  {
+    "id": 5,
+    "term": "He drives to work by car.",
+    "definition": "On jeździ do pracy samochodem.",
+    "example": "'jeździć' — the habitual counterpart of 'jechać', for driving as routine"
+  },
+  {
+    "id": 6,
+    "term": "We are driving to Krakow tomorrow.",
+    "definition": "Jedziemy jutro do Krakowa.",
+    "example": "'jechać' — one specific, planned trip"
+  },
+  {
+    "id": 7,
+    "term": "I fly to Poland twice a year.",
+    "definition": "Latam do Polski dwa razy w roku.",
+    "example": "'latać' — the habitual counterpart of 'lecieć', for flying as routine"
+  },
+  {
+    "id": 8,
+    "term": "The plane is flying to London now.",
+    "definition": "Samolot leci teraz do Londynu.",
+    "example": "'lecieć' — one specific flight, happening right now"
+  },
+  {
+    "id": 9,
+    "term": "Children like to run in the park.",
+    "definition": "Dzieci lubią biegać w parku.",
+    "example": "'biegać' — running in general, as an activity"
+  },
+  {
+    "id": 10,
+    "term": "Look, he is running to the bus!",
+    "definition": "Patrz, on biegnie do autobusu!",
+    "example": "'biec/biegnie' — one specific dash, happening right now"
+  },
+  {
+    "id": 11,
+    "term": "I used to read a lot as a child.",
+    "definition": "Jako dziecko dużo czytałem.",
+    "example": "imperfective past for a habit stretched over time: czytałem"
+  },
+  {
+    "id": 12,
+    "term": "Yesterday I read that whole book.",
+    "definition": "Wczoraj przeczytałem całą tę książkę.",
+    "example": "perfective past for one completed action: przeczytałem"
+  },
+  {
+    "id": 13,
+    "term": "I always drank coffee in the morning.",
+    "definition": "Zawsze piłem kawę rano.",
+    "example": "imperfective, habitual: piłem"
+  },
+  {
+    "id": 14,
+    "term": "This morning I drank two cups of coffee.",
+    "definition": "Dziś rano wypiłem dwie filiżanki kawy.",
+    "example": "perfective, a specific completed amount: wypiłem"
+  },
+  {
+    "id": 15,
+    "term": "She was writing a letter when I called.",
+    "definition": "Ona pisała list, kiedy zadzwoniłem.",
+    "example": "imperfective for an action in progress, interrupted: pisała"
+  },
+  {
+    "id": 16,
+    "term": "She wrote the letter and sent it.",
+    "definition": "Napisała list i wysłała go.",
+    "example": "perfective for a finished sequence: napisała, wysłała"
+  },
+  {
+    "id": 17,
+    "term": "We were watching a movie all evening.",
+    "definition": "Oglądaliśmy film cały wieczór.",
+    "example": "imperfective for duration: oglądaliśmy"
+  },
+  {
+    "id": 18,
+    "term": "We watched the whole movie in one sitting.",
+    "definition": "Obejrzeliśmy cały film za jednym razem.",
+    "example": "perfective for the completed whole: obejrzeliśmy"
+  },
+  {
+    "id": 19,
+    "term": "I was learning Polish for two years before I moved here.",
+    "definition": "Uczyłem się polskiego przez dwa lata, zanim się tu przeprowadziłem.",
+    "example": "imperfective for the ongoing stretch, then 'zanim' (before) + perfective for the one-off move"
+  },
+  {
+    "id": 20,
+    "term": "I finally learned all the irregular verbs.",
+    "definition": "W końcu nauczyłem się wszystkich nieregularnych czasowników.",
+    "example": "perfective 'nauczyć się' — the moment it finally clicked; genitive plural object"
+  },
+  {
+    "id": 21,
+    "term": "This book was written by a famous author.",
+    "definition": "Ta książka została napisana przez znanego autora.",
+    "example": "passive: 'zostać' + past participle, 'przez' (by) + accusative"
+  },
+  {
+    "id": 22,
+    "term": "The house was built in 1920.",
+    "definition": "Dom został zbudowany w 1920 roku.",
+    "example": "same passive pattern, no agent named this time"
+  },
+  {
+    "id": 23,
+    "term": "The letter is being written now.",
+    "definition": "List jest teraz pisany.",
+    "example": "an ongoing passive uses 'być' + the imperfective participle, not 'zostać'"
+  },
+  {
+    "id": 24,
+    "term": "The doors are closed at nine.",
+    "definition": "Drzwi są zamykane o dziewiątej.",
+    "example": "habitual passive: 'być' + imperfective participle"
+  },
+  {
+    "id": 25,
+    "term": "The problem will be solved soon.",
+    "definition": "Problem zostanie wkrótce rozwiązany.",
+    "example": "future passive: 'zostać' in the future tense"
+  },
+  {
+    "id": 26,
+    "term": "The bridge was destroyed during the war.",
+    "definition": "Most został zniszczony podczas wojny.",
+    "example": "passive past, resultative — the bridge ended up destroyed"
+  },
+  {
+    "id": 27,
+    "term": "This song is known all over the world.",
+    "definition": "Ta piosenka jest znana na całym świecie.",
+    "example": "a participle used as a plain adjective: znana (well-known)"
+  },
+  {
+    "id": 28,
+    "term": "The cake was eaten by the children.",
+    "definition": "Ciasto zostało zjedzone przez dzieci.",
+    "example": "passive, neuter subject: ciasto...zostało...zjedzone"
+  },
+  {
+    "id": 29,
+    "term": "New rules were introduced last year.",
+    "definition": "Nowe zasady zostały wprowadzone w zeszłym roku.",
+    "example": "passive, plural subject: zostały (not został)"
+  },
+  {
+    "id": 30,
+    "term": "The window was broken by the storm.",
+    "definition": "Okno zostało rozbite przez burzę.",
+    "example": "passive, neuter: okno...zostało...rozbite"
+  },
+  {
+    "id": 31,
+    "term": "It's said that he is very talented.",
+    "definition": "Mówi się, że jest bardzo utalentowany.",
+    "example": "impersonal 'się' — 'mówi się' with no subject at all, like English 'it's said'"
+  },
+  {
+    "id": 32,
+    "term": "It's getting dark.",
+    "definition": "Robi się ciemno.",
+    "example": "'robić się' + adjective — a change happening with no one causing it"
+  },
+  {
+    "id": 33,
+    "term": "It's getting cold outside.",
+    "definition": "Robi się zimno na dworze.",
+    "example": "same impersonal pattern"
+  },
+  {
+    "id": 34,
+    "term": "How do you say this in Polish?",
+    "definition": "Jak się to mówi po polsku?",
+    "example": "impersonal 'się' inside a question"
+  },
+  {
+    "id": 35,
+    "term": "One eats dinner at six here.",
+    "definition": "Tutaj je się kolację o szóstej.",
+    "example": "impersonal 'się' for a general custom"
+  },
+  {
+    "id": 36,
+    "term": "You can't smoke here.",
+    "definition": "Tutaj się nie pali.",
+    "example": "a colloquial impersonal alternative to 'nie można palić'"
+  },
+  {
+    "id": 37,
+    "term": "It's not done that way.",
+    "definition": "Tak się nie robi.",
+    "example": "impersonal 'się', negated"
+  },
+  {
+    "id": 38,
+    "term": "People say all sorts of things.",
+    "definition": "Mówi się różne rzeczy.",
+    "example": "impersonal 'się' again, this time with an object"
+  },
+  {
+    "id": 39,
+    "term": "This word is used often.",
+    "definition": "Tego słowa używa się często.",
+    "example": "'używać' governs the genitive even here: słowo → słowa"
+  },
+  {
+    "id": 40,
+    "term": "This is how the game is played.",
+    "definition": "Tak się gra w tę grę.",
+    "example": "impersonal 'się' + 'grać w' (play) + accusative"
+  },
+  {
+    "id": 41,
+    "term": "I told him to come.",
+    "definition": "Powiedziałem mu, żeby przyszedł.",
+    "example": "'żeby' + a past-tense-shaped verb reports a command when the subject changes"
+  },
+  {
+    "id": 42,
+    "term": "She asked me to help her.",
+    "definition": "Poprosiła mnie, żebym jej pomógł.",
+    "example": "'żebym' — the 1st-person form, since 'I' am the one being asked to act"
+  },
+  {
+    "id": 43,
+    "term": "The teacher told us to be quiet.",
+    "definition": "Nauczyciel powiedział nam, żebyśmy byli cicho.",
+    "example": "'żebyśmy' — 1st-person plural"
+  },
+  {
+    "id": 44,
+    "term": "I want you to call me.",
+    "definition": "Chcę, żebyś do mnie zadzwonił.",
+    "example": "'żebyś' — 2nd-person singular"
+  },
+  {
+    "id": 45,
+    "term": "My mother told me not to be late.",
+    "definition": "Mama powiedziała mi, żebym się nie spóźnił.",
+    "example": "negated 'żebym' clause: żebym się nie spóźnił"
+  },
+  {
+    "id": 46,
+    "term": "He asked us to wait outside.",
+    "definition": "Poprosił nas, żebyśmy poczekali na zewnątrz.",
+    "example": "'żebyśmy' again, different verb"
+  },
+  {
+    "id": 47,
+    "term": "I told them to stop.",
+    "definition": "Powiedziałem im, żeby przestali.",
+    "example": "'żeby' + 3rd-person plural: przestali"
+  },
+  {
+    "id": 48,
+    "term": "She wants me to visit her.",
+    "definition": "Ona chce, żebym ją odwiedził.",
+    "example": "'żebym' + accusative pronoun: ją"
+  },
+  {
+    "id": 49,
+    "term": "The boss ordered us to finish the project.",
+    "definition": "Szef kazał nam skończyć projekt.",
+    "example": "'kazać' + dative + infinitive — simpler than 'żeby' when the meaning is a direct order"
+  },
+  {
+    "id": 50,
+    "term": "I asked her to be patient.",
+    "definition": "Poprosiłem ją, żeby była cierpliwa.",
+    "example": "'żeby' + 3rd-person singular feminine: była"
+  },
+  {
+    "id": 51,
+    "term": "Although it was raining, we went for a walk.",
+    "definition": "Chociaż padało, poszliśmy na spacer.",
+    "example": "'chociaż' = although"
+  },
+  {
+    "id": 52,
+    "term": "Even though he is tired, he keeps working.",
+    "definition": "Mimo że jest zmęczony, dalej pracuje.",
+    "example": "'mimo że' = even though, before a full clause"
+  },
+  {
+    "id": 53,
+    "term": "Despite the cold, we went outside.",
+    "definition": "Mimo zimna, wyszliśmy na zewnątrz.",
+    "example": "'mimo' + genitive noun (no 'że') = despite"
+  },
+  {
+    "id": 54,
+    "term": "It's raining, but we're going out anyway.",
+    "definition": "Pada, ale i tak wychodzimy.",
+    "example": "'ale i tak' = but...anyway"
+  },
+  {
+    "id": 55,
+    "term": "I like her, even though she's sometimes difficult.",
+    "definition": "Lubię ją, chociaż czasami jest trudna.",
+    "example": "'chociaż' again, inside a longer sentence"
+  },
+  {
+    "id": 56,
+    "term": "He passed the exam despite not studying much.",
+    "definition": "Zdał egzamin, mimo że niewiele się uczył.",
+    "example": "'mimo że' + a negative-ish quantity: niewiele"
+  },
+  {
+    "id": 57,
+    "term": "It was cheap, yet good quality.",
+    "definition": "Było tanie, a jednak dobrej jakości.",
+    "example": "'a jednak' = yet/and still"
+  },
+  {
+    "id": 58,
+    "term": "Nevertheless, I think we should try.",
+    "definition": "Mimo to, myślę, że powinniśmy spróbować.",
+    "example": "'mimo to' = nevertheless, standing alone (not 'mimo że')"
+  },
+  {
+    "id": 59,
+    "term": "Although I disagree, I'll help you.",
+    "definition": "Chociaż się nie zgadzam, pomogę ci.",
+    "example": "'chociaż' + a negated reflexive verb"
+  },
+  {
+    "id": 60,
+    "term": "We won, although it wasn't easy.",
+    "definition": "Wygraliśmy, chociaż nie było łatwo.",
+    "example": "'chociaż' + an impersonal adverb clause"
+  },
+  {
+    "id": 61,
+    "term": "Stay here until I come back.",
+    "definition": "Zostań tu, dopóki nie wrócę.",
+    "example": "'dopóki...nie' = until — the 'nie' is required even though nothing is really negated"
+  },
+  {
+    "id": 62,
+    "term": "I'll wait as long as you need.",
+    "definition": "Będę czekać, dopóki będziesz potrzebować.",
+    "example": "'dopóki' without 'nie' means 'as long as', not 'until'"
+  },
+  {
+    "id": 63,
+    "term": "Before you leave, call me.",
+    "definition": "Zanim wyjedziesz, zadzwoń do mnie.",
+    "example": "'zanim' = before"
+  },
+  {
+    "id": 64,
+    "term": "I checked everything before I left.",
+    "definition": "Sprawdziłem wszystko, zanim wyjechałem.",
+    "example": "'zanim' + past tense"
+  },
+  {
+    "id": 65,
+    "term": "I've known her since I was a child.",
+    "definition": "Znam ją, odkąd byłem dzieckiem.",
+    "example": "'odkąd' = since; 'dzieckiem' is instrumental after 'być'"
+  },
+  {
+    "id": 66,
+    "term": "Since he moved here, he's been much happier.",
+    "definition": "Odkąd się tu przeprowadził, jest dużo szczęśliwszy.",
+    "example": "'odkąd' + a reflexive past-tense move"
+  },
+  {
+    "id": 67,
+    "term": "Wait until the light turns green.",
+    "definition": "Poczekaj, aż światło zmieni się na zielone.",
+    "example": "'aż' — another way to say 'until'"
+  },
+  {
+    "id": 68,
+    "term": "I won't leave until you answer me.",
+    "definition": "Nie wyjdę, dopóki mi nie odpowiesz.",
+    "example": "'dopóki...nie' again, with a dative object: odpowiedzieć komuś"
+  },
+  {
+    "id": 69,
+    "term": "As soon as I get home, I'll call you.",
+    "definition": "Jak tylko wrócę do domu, zadzwonię do ciebie.",
+    "example": "'jak tylko' = as soon as"
+  },
+  {
+    "id": 70,
+    "term": "The moment I saw her, I knew.",
+    "definition": "W chwili, gdy ją zobaczyłem, wiedziałem.",
+    "example": "'w chwili, gdy' = the moment that"
+  },
+  {
+    "id": 71,
+    "term": "Instead of coffee, I'll have tea.",
+    "definition": "Zamiast kawy, wezmę herbatę.",
+    "example": "'zamiast' (instead of) + genitive: kawa → kawy"
+  },
+  {
+    "id": 72,
+    "term": "Instead of complaining, do something.",
+    "definition": "Zamiast narzekać, zrób coś.",
+    "example": "'zamiast' + infinitive, when what follows is an action"
+  },
+  {
+    "id": 73,
+    "term": "Reading books is my favorite hobby.",
+    "definition": "Czytanie książek to moje ulubione hobby.",
+    "example": "a verbal noun (gerund): czytać → czytanie, declines like any neuter noun"
+  },
+  {
+    "id": 74,
+    "term": "Learning languages takes time.",
+    "definition": "Nauka języków zajmuje czas.",
+    "example": "'nauka' — the everyday word for 'learning/study', more natural here than a literal '-nie' gerund"
+  },
+  {
+    "id": 75,
+    "term": "Swimming is good for your health.",
+    "definition": "Pływanie jest dobre dla zdrowia.",
+    "example": "verbal noun: pływać → pływanie"
+  },
+  {
+    "id": 76,
+    "term": "Cooking dinner takes an hour.",
+    "definition": "Gotowanie obiadu zajmuje godzinę.",
+    "example": "verbal noun: gotować → gotowanie"
+  },
+  {
+    "id": 77,
+    "term": "Smoking is bad for you.",
+    "definition": "Palenie jest szkodliwe.",
+    "example": "verbal noun: palić → palenie"
+  },
+  {
+    "id": 78,
+    "term": "Waiting is the hardest part.",
+    "definition": "Czekanie jest najtrudniejsze.",
+    "example": "verbal noun as subject, with a superlative: najtrudniejsze"
+  },
+  {
+    "id": 79,
+    "term": "Thank you for coming.",
+    "definition": "Dziękuję za przyjście.",
+    "example": "'za' + accusative verbal noun: przyjście"
+  },
+  {
+    "id": 80,
+    "term": "I'm tired of waiting.",
+    "definition": "Jestem zmęczony czekaniem.",
+    "example": "'zmęczony' takes the instrumental: czekanie → czekaniem"
+  },
+  {
+    "id": 81,
+    "term": "If I had known, I would have come.",
+    "definition": "Gdybym wiedział, przyszedłbym.",
+    "example": "a hypothetical about the past — both halves in the conditional"
+  },
+  {
+    "id": 82,
+    "term": "If you had called me, I would have helped.",
+    "definition": "Gdybyś do mnie zadzwonił, pomógłbym ci.",
+    "example": "same pattern, 2nd person: gdybyś"
+  },
+  {
+    "id": 83,
+    "term": "She would have passed if she had studied more.",
+    "definition": "Zdałaby, gdyby więcej się uczyła.",
+    "example": "conditional first, then the 'gdyby' clause — order can flip either way"
+  },
+  {
+    "id": 84,
+    "term": "We wouldn't have been late if we had left earlier.",
+    "definition": "Nie spóźnilibyśmy się, gdybyśmy wyszli wcześniej.",
+    "example": "plural conditional: spóźnilibyśmy się, gdybyśmy"
+  },
+  {
+    "id": 85,
+    "term": "I have twenty-two books on this shelf.",
+    "definition": "Mam dwadzieścia dwie książki na tej półce.",
+    "example": "in a compound number, the LAST word decides the noun's form — 'dwie' (2) keeps 'książki' plain, not genitive"
+  },
+  {
+    "id": 86,
+    "term": "There are thirty-five students in this class.",
+    "definition": "W tej klasie jest trzydziestu pięciu uczniów.",
+    "example": "'pięciu' (ending in 5) forces the genitive plural: uczniów — and 'jest', not 'są'"
+  },
+  {
+    "id": 87,
+    "term": "I have been living here for eleven years.",
+    "definition": "Mieszkam tu od jedenastu lat.",
+    "example": "11–19 always take the genitive plural, whatever the last digit looks like: jedenastu lat"
+  },
+  {
+    "id": 88,
+    "term": "The building has one hundred rooms.",
+    "definition": "Ten budynek ma sto pokoi.",
+    "example": "'sto' (100) + genitive plural: pokoi"
+  },
+  {
+    "id": 89,
+    "term": "I paid two hundred zloty for this.",
+    "definition": "Zapłaciłem za to dwieście złotych.",
+    "example": "'dwieście' (200) + genitive plural: złotych"
+  },
+  {
+    "id": 90,
+    "term": "Only one person answered correctly.",
+    "definition": "Tylko jedna osoba odpowiedziała poprawnie.",
+    "example": "'jedna' behaves like a normal adjective, not a special numeral form"
+  },
+  {
+    "id": 91,
+    "term": "He passed the exam, which made his parents happy.",
+    "definition": "Zdał egzamin, co ucieszyło jego rodziców.",
+    "example": "'co' here refers to the whole fact of passing, not to a specific noun"
+  },
+  {
+    "id": 92,
+    "term": "She was late, which annoyed the teacher.",
+    "definition": "Spóźniła się, co zdenerwowało nauczyciela.",
+    "example": "same clause-referring 'co'"
+  },
+  {
+    "id": 93,
+    "term": "This is the best restaurant of all the ones I know.",
+    "definition": "To jest najlepsza restauracja ze wszystkich, jakie znam.",
+    "example": "'ze wszystkich, jakie' = 'of all that' — 'jakie' picks up the plural noun"
+  },
+  {
+    "id": 94,
+    "term": "He is the smartest of all my friends.",
+    "definition": "On jest najmądrzejszy ze wszystkich moich przyjaciół.",
+    "example": "'ze wszystkich' + genitive plural: przyjaciół"
+  },
+  {
+    "id": 95,
+    "term": "To be honest, I don't understand this.",
+    "definition": "Szczerze mówiąc, nie rozumiem tego.",
+    "example": "'szczerze mówiąc' — an adverbial participle, like English '-ly speaking'"
+  },
+  {
+    "id": 96,
+    "term": "Generally speaking, the weather here is nice.",
+    "definition": "Ogólnie rzecz biorąc, pogoda tutaj jest ładna.",
+    "example": "a fixed phrase: 'ogólnie rzecz biorąc' = generally speaking"
+  },
+  {
+    "id": 97,
+    "term": "As far as I know, the shop is closed today.",
+    "definition": "O ile wiem, sklep jest dzisiaj zamknięty.",
+    "example": "'o ile wiem' = as far as I know"
+  },
+  {
+    "id": 98,
+    "term": "In my opinion, this is the right decision.",
+    "definition": "Moim zdaniem, to jest właściwa decyzja.",
+    "example": "'moim zdaniem' = in my opinion — a fixed instrumental phrase"
+  },
+  {
+    "id": 99,
+    "term": "All things considered, it went well.",
+    "definition": "Biorąc wszystko pod uwagę, poszło dobrze.",
+    "example": "'biorąc pod uwagę' = taking into consideration"
+  },
+  {
+    "id": 100,
+    "term": "In the end, everything turned out fine.",
+    "definition": "Ostatecznie wszystko dobrze się skończyło.",
+    "example": "'ostatecznie' = in the end/ultimately"
+  }
+];
+window.QM_SENTENCES_IT_DATA = [
+  {
+    "id": 1,
+    "term": "I am a teacher.",
+    "definition": "Sono insegnante.",
+    "example": "no article before an unmodified profession after 'essere' — unlike English 'a teacher'"
+  },
+  {
+    "id": 2,
+    "term": "I am a woman.",
+    "definition": "Sono una donna.",
+    "example": "'donna' isn't a profession, so the article is back: una donna"
+  },
+  {
+    "id": 3,
+    "term": "You are a good friend.",
+    "definition": "Sei un buon amico.",
+    "example": "'buono' shortens to 'buon' right before a masculine singular noun"
+  },
+  {
+    "id": 4,
+    "term": "He is a doctor.",
+    "definition": "Lui è medico.",
+    "example": "profession again, still no article"
+  },
+  {
+    "id": 5,
+    "term": "She is a nurse.",
+    "definition": "Lei è infermiera.",
+    "example": "feminine profession noun, still no article"
+  },
+  {
+    "id": 6,
+    "term": "We are friends.",
+    "definition": "Siamo amici.",
+    "example": "plural of amico: -co → -ci"
+  },
+  {
+    "id": 7,
+    "term": "You (plural) are students.",
+    "definition": "Siete studenti.",
+    "example": "2nd person plural of essere: siete"
+  },
+  {
+    "id": 8,
+    "term": "They are teachers. (all men, or mixed)",
+    "definition": "Loro sono maestri.",
+    "example": "'loro' doesn't show gender — the NOUN does: maestro → maestri"
+  },
+  {
+    "id": 9,
+    "term": "They are teachers. (all women)",
+    "definition": "Loro sono maestre.",
+    "example": "same pronoun 'loro' either way; the feminine plural noun: maestra → maestre"
+  },
+  {
+    "id": 10,
+    "term": "I am not a teacher.",
+    "definition": "Non sono insegnante.",
+    "example": "negation: 'non' right before the verb — no other change needed"
+  },
+  {
+    "id": 11,
+    "term": "This is a book.",
+    "definition": "Questo è un libro.",
+    "example": "'questo' agrees masculine with 'libro'"
+  },
+  {
+    "id": 12,
+    "term": "This is my house.",
+    "definition": "Questa è la mia casa.",
+    "example": "feminine 'casa'; note the ARTICLE stays with the possessive: la mia"
+  },
+  {
+    "id": 13,
+    "term": "This is my car.",
+    "definition": "Questa è la mia macchina.",
+    "example": "same pattern, feminine noun: la mia macchina"
+  },
+  {
+    "id": 14,
+    "term": "This is my sister.",
+    "definition": "Questa è mia sorella.",
+    "example": "close family members DROP the article with a singular possessive: mia sorella, not la mia sorella"
+  },
+  {
+    "id": 15,
+    "term": "This is your dog.",
+    "definition": "Questo è il tuo cane.",
+    "example": "masculine noun, articled possessive: il tuo"
+  },
+  {
+    "id": 16,
+    "term": "This is his cat.",
+    "definition": "Questo è il suo gatto.",
+    "example": "'suo' doesn't distinguish the owner's gender like English his/her does"
+  },
+  {
+    "id": 17,
+    "term": "This is her book.",
+    "definition": "Questo è il suo libro.",
+    "example": "same word 'suo' as #16 — Italian only cares what's owned, not who owns it"
+  },
+  {
+    "id": 18,
+    "term": "This is our house.",
+    "definition": "Questa è la nostra casa.",
+    "example": "'nostra' (our) agrees feminine with casa"
+  },
+  {
+    "id": 19,
+    "term": "This is your (plural) apartment.",
+    "definition": "Questo è il vostro appartamento.",
+    "example": "'vostro' (your, plural) agrees masculine"
+  },
+  {
+    "id": 20,
+    "term": "This is their car.",
+    "definition": "Questa è la loro macchina.",
+    "example": "'loro' (their) never changes form"
+  },
+  {
+    "id": 21,
+    "term": "The big house is beautiful.",
+    "definition": "La casa grande è bella.",
+    "example": "'grande' looks the same for any gender; 'bella' agrees feminine"
+  },
+  {
+    "id": 22,
+    "term": "I have a dog.",
+    "definition": "Ho un cane.",
+    "example": "avere (to have), 1st person: ho"
+  },
+  {
+    "id": 23,
+    "term": "I have a car.",
+    "definition": "Ho una macchina.",
+    "example": "feminine indefinite article: una"
+  },
+  {
+    "id": 24,
+    "term": "I have a sister.",
+    "definition": "Ho una sorella.",
+    "example": "with 'avere' the article stays, unlike 'mia sorella' in #14"
+  },
+  {
+    "id": 25,
+    "term": "I have a book.",
+    "definition": "Ho un libro.",
+    "example": "masculine indefinite article: un"
+  },
+  {
+    "id": 26,
+    "term": "Do you have time?",
+    "definition": "Hai tempo?",
+    "example": "no extra word needed for a question — word order (or just intonation) does it"
+  },
+  {
+    "id": 27,
+    "term": "He has a new phone.",
+    "definition": "Ha un nuovo telefono.",
+    "example": "some adjectives, like 'nuovo', often sit before the noun"
+  },
+  {
+    "id": 28,
+    "term": "We have two children.",
+    "definition": "Abbiamo due figli.",
+    "example": "'figli' covers a mixed-gender group of children"
+  },
+  {
+    "id": 29,
+    "term": "They have a big house.",
+    "definition": "Hanno una casa grande.",
+    "example": "here 'grande' follows the noun — position can shift the feel, not just the meaning"
+  },
+  {
+    "id": 30,
+    "term": "I don't have a car.",
+    "definition": "Non ho una macchina.",
+    "example": "just 'non' + the verb — no case shift like some other languages"
+  },
+  {
+    "id": 31,
+    "term": "I don't have time.",
+    "definition": "Non ho tempo.",
+    "example": "same simple pattern"
+  },
+  {
+    "id": 32,
+    "term": "I don't have a sister.",
+    "definition": "Non ho una sorella.",
+    "example": "'non' + avere, nothing else changes"
+  },
+  {
+    "id": 33,
+    "term": "She doesn't have a book.",
+    "definition": "Lei non ha un libro.",
+    "example": "'non' goes right before 'ha'"
+  },
+  {
+    "id": 34,
+    "term": "We don't have money.",
+    "definition": "Non abbiamo soldi.",
+    "example": "'soldi' (money) is a plural-only noun in Italian"
+  },
+  {
+    "id": 35,
+    "term": "There is no water.",
+    "definition": "Non c'è acqua.",
+    "example": "'c'è' (there is) negated: non c'è"
+  },
+  {
+    "id": 36,
+    "term": "There is no problem.",
+    "definition": "Non c'è problema.",
+    "example": "same 'non c'è' pattern, a very common fixed phrase"
+  },
+  {
+    "id": 37,
+    "term": "I don't know.",
+    "definition": "Non lo so.",
+    "example": "'sapere' (to know) is usually said with the object pronoun 'lo' even with nothing specific in mind"
+  },
+  {
+    "id": 38,
+    "term": "I don't understand.",
+    "definition": "Non capisco.",
+    "example": "plain negation, no object needed"
+  },
+  {
+    "id": 39,
+    "term": "I don't like coffee.",
+    "definition": "Non mi piace il caffè.",
+    "example": "'piacere' works backwards from English: the coffee is the subject, 'mi' (to me) is who likes it"
+  },
+  {
+    "id": 40,
+    "term": "I live in Rome.",
+    "definition": "Vivo a Roma.",
+    "example": "'a' + city name, no article"
+  },
+  {
+    "id": 41,
+    "term": "The book is on the table.",
+    "definition": "Il libro è sul tavolo.",
+    "example": "'su' + 'il' contract into 'sul'"
+  },
+  {
+    "id": 42,
+    "term": "I am going to the store.",
+    "definition": "Vado al negozio.",
+    "example": "'a' + 'il' contract into 'al'"
+  },
+  {
+    "id": 43,
+    "term": "She is coming back from school.",
+    "definition": "Lei torna da scuola.",
+    "example": "'da' = from"
+  },
+  {
+    "id": 44,
+    "term": "I am talking with my friend.",
+    "definition": "Parlo con il mio amico.",
+    "example": "'con' (with) + the articled possessive"
+  },
+  {
+    "id": 45,
+    "term": "This gift is for you.",
+    "definition": "Questo regalo è per te.",
+    "example": "'per' + the standalone pronoun 'te'"
+  },
+  {
+    "id": 46,
+    "term": "We are walking through the park.",
+    "definition": "Camminiamo per il parco.",
+    "example": "'per' can also mean 'through'"
+  },
+  {
+    "id": 47,
+    "term": "The cat is under the table.",
+    "definition": "Il gatto è sotto il tavolo.",
+    "example": "'sotto' (under) needs no contraction here"
+  },
+  {
+    "id": 48,
+    "term": "The lamp is above the table.",
+    "definition": "La lampada è sopra il tavolo.",
+    "example": "'sopra' (above)"
+  },
+  {
+    "id": 49,
+    "term": "I am waiting for the bus.",
+    "definition": "Aspetto l'autobus.",
+    "example": "'aspettare' already means 'wait for' — no preposition needed, unlike English"
+  },
+  {
+    "id": 50,
+    "term": "He works at the university.",
+    "definition": "Lavora all'università.",
+    "example": "'a' + 'la' contract to 'alla', elided to 'all'' before a vowel"
+  },
+  {
+    "id": 51,
+    "term": "I am thinking about you.",
+    "definition": "Penso a te.",
+    "example": "'pensare a' + the standalone pronoun 'te'"
+  },
+  {
+    "id": 52,
+    "term": "Between the house and the garden.",
+    "definition": "Tra la casa e il giardino.",
+    "example": "'tra' (or 'fra') = between"
+  },
+  {
+    "id": 53,
+    "term": "I am going home.",
+    "definition": "Vado a casa.",
+    "example": "fixed phrase: 'a casa' takes no article at all"
+  },
+  {
+    "id": 54,
+    "term": "The keys are in my bag.",
+    "definition": "Le chiavi sono nella mia borsa.",
+    "example": "'in' + 'la' contract into 'nella'"
+  },
+  {
+    "id": 55,
+    "term": "She is standing next to the window.",
+    "definition": "Lei è vicino alla finestra.",
+    "example": "'vicino a' + 'la' → 'vicino alla'"
+  },
+  {
+    "id": 56,
+    "term": "After the meeting, we will go home.",
+    "definition": "Dopo la riunione, andremo a casa.",
+    "example": "'dopo' (after) + noun, then the future tense: andremo"
+  },
+  {
+    "id": 57,
+    "term": "I read books every day.",
+    "definition": "Leggo libri ogni giorno.",
+    "example": "1st person present of leggere: leggo"
+  },
+  {
+    "id": 58,
+    "term": "You read a lot.",
+    "definition": "Leggi molto.",
+    "example": "2nd person present: leggi"
+  },
+  {
+    "id": 59,
+    "term": "He writes letters.",
+    "definition": "Scrive lettere.",
+    "example": "3rd person present of scrivere: scrive"
+  },
+  {
+    "id": 60,
+    "term": "We speak Italian.",
+    "definition": "Parliamo italiano.",
+    "example": "no preposition needed before the language name, unlike some languages"
+  },
+  {
+    "id": 61,
+    "term": "You (plural) watch TV.",
+    "definition": "Guardate la TV.",
+    "example": "2nd person plural: guardate"
+  },
+  {
+    "id": 62,
+    "term": "They play football.",
+    "definition": "Giocano a calcio.",
+    "example": "'giocare a' + sport name"
+  },
+  {
+    "id": 63,
+    "term": "I wake up at seven.",
+    "definition": "Mi sveglio alle sette.",
+    "example": "reflexive 'svegliarsi'; clock time: 'a' + 'le' → 'alle'"
+  },
+  {
+    "id": 64,
+    "term": "She gets dressed quickly.",
+    "definition": "Si veste velocemente.",
+    "example": "reflexive 'vestirsi', 3rd person: si veste"
+  },
+  {
+    "id": 65,
+    "term": "We are learning Italian.",
+    "definition": "Stiamo imparando l'italiano.",
+    "example": "present progressive: stare + the gerund"
+  },
+  {
+    "id": 66,
+    "term": "I am not afraid.",
+    "definition": "Non ho paura.",
+    "example": "idiom: 'avere paura' (to be afraid) is literally 'to have fear'"
+  },
+  {
+    "id": 67,
+    "term": "I was tired.",
+    "definition": "Ero stanco.",
+    "example": "imperfetto of essere: ero"
+  },
+  {
+    "id": 68,
+    "term": "You were at home.",
+    "definition": "Eri a casa.",
+    "example": "imperfetto, 2nd person: eri"
+  },
+  {
+    "id": 69,
+    "term": "He was happy.",
+    "definition": "Era felice.",
+    "example": "imperfetto, 3rd person: era; 'felice' looks the same for any gender"
+  },
+  {
+    "id": 70,
+    "term": "We were in Italy last year.",
+    "definition": "Eravamo in Italia l'anno scorso.",
+    "example": "imperfetto, 1st plural: eravamo"
+  },
+  {
+    "id": 71,
+    "term": "I read that book. (and finished it)",
+    "definition": "Ho letto quel libro.",
+    "example": "passato prossimo with 'avere': ho letto"
+  },
+  {
+    "id": 72,
+    "term": "She wrote a letter.",
+    "definition": "Ha scritto una lettera.",
+    "example": "passato prossimo, 3rd person: ha scritto"
+  },
+  {
+    "id": 73,
+    "term": "We ate dinner.",
+    "definition": "Abbiamo cenato.",
+    "example": "passato prossimo: abbiamo cenato — 'cenare' already means 'to have dinner'"
+  },
+  {
+    "id": 74,
+    "term": "They didn't come.",
+    "definition": "Non sono venuti.",
+    "example": "motion verbs like 'venire' take 'essere', not 'avere' — and the participle agrees: venuti"
+  },
+  {
+    "id": 75,
+    "term": "I will be happy.",
+    "definition": "Sarò felice.",
+    "example": "futuro semplice of essere: sarò"
+  },
+  {
+    "id": 76,
+    "term": "I will read this book.",
+    "definition": "Leggerò questo libro.",
+    "example": "futuro semplice: leggerò"
+  },
+  {
+    "id": 77,
+    "term": "We will go to the cinema.",
+    "definition": "Andremo al cinema.",
+    "example": "futuro of andare: andremo"
+  },
+  {
+    "id": 78,
+    "term": "She will call you tomorrow.",
+    "definition": "Ti chiamerà domani.",
+    "example": "object pronoun 'ti' comes BEFORE the verb"
+  },
+  {
+    "id": 79,
+    "term": "They will not come.",
+    "definition": "Non verranno.",
+    "example": "futuro of venire, irregular stem: verranno"
+  },
+  {
+    "id": 80,
+    "term": "I will help you.",
+    "definition": "Ti aiuterò.",
+    "example": "futuro + the pronoun 'ti' out front"
+  },
+  {
+    "id": 81,
+    "term": "Where do you live?",
+    "definition": "Dove vivi?",
+    "example": "question word 'dove' simply opens the sentence"
+  },
+  {
+    "id": 82,
+    "term": "What is your name?",
+    "definition": "Come ti chiami?",
+    "example": "idiomatic reflexive: 'chiamarsi' (to be called), literally 'how do you call yourself'"
+  },
+  {
+    "id": 83,
+    "term": "How old are you?",
+    "definition": "Quanti anni hai?",
+    "example": "idiomatic: literally 'how many years do you have'"
+  },
+  {
+    "id": 84,
+    "term": "Why are you sad?",
+    "definition": "Perché sei triste?",
+    "example": "question word 'perché' (why)"
+  },
+  {
+    "id": 85,
+    "term": "When does the train leave?",
+    "definition": "Quando parte il treno?",
+    "example": "question word 'quando' (when)"
+  },
+  {
+    "id": 86,
+    "term": "Who is this?",
+    "definition": "Chi è questo?",
+    "example": "question word 'chi' (who)"
+  },
+  {
+    "id": 87,
+    "term": "What are you doing?",
+    "definition": "Cosa stai facendo?",
+    "example": "present progressive again: stare + gerund"
+  },
+  {
+    "id": 88,
+    "term": "Do you speak English?",
+    "definition": "Parli inglese?",
+    "example": "same shape as #26 — no extra question word needed"
+  },
+  {
+    "id": 89,
+    "term": "I have one brother.",
+    "definition": "Ho un fratello.",
+    "example": "'un' before a masculine singular noun"
+  },
+  {
+    "id": 90,
+    "term": "I have two brothers.",
+    "definition": "Ho due fratelli.",
+    "example": "plural: fratello → fratelli"
+  },
+  {
+    "id": 91,
+    "term": "I have five brothers.",
+    "definition": "Ho cinque fratelli.",
+    "example": "same plural form whatever the number — no special rule to learn here"
+  },
+  {
+    "id": 92,
+    "term": "I see two cats.",
+    "definition": "Vedo due gatti.",
+    "example": "plural: gatto → gatti"
+  },
+  {
+    "id": 93,
+    "term": "I see five cats.",
+    "definition": "Vedo cinque gatti.",
+    "example": "again, nothing changes with a bigger number"
+  },
+  {
+    "id": 94,
+    "term": "This book is bigger than that one.",
+    "definition": "Questo libro è più grande di quello.",
+    "example": "comparative: più...di"
+  },
+  {
+    "id": 95,
+    "term": "She is the tallest in the class.",
+    "definition": "È la più alta della classe.",
+    "example": "superlative: la più + 'di' + 'la' contracted to 'della'"
+  },
+  {
+    "id": 96,
+    "term": "I like tea more than coffee.",
+    "definition": "Mi piace il tè più del caffè.",
+    "example": "'più' + 'di' + 'il' contract into 'del'"
+  },
+  {
+    "id": 97,
+    "term": "It's the best day of my life.",
+    "definition": "È il giorno più bello della mia vita.",
+    "example": "'il più bello' for 'the best'; another 'della' contraction"
+  },
+  {
+    "id": 98,
+    "term": "I like cats.",
+    "definition": "Mi piacciono i gatti.",
+    "example": "general statements keep the article in Italian; 'piacciono' is plural to match 'i gatti'"
+  },
+  {
+    "id": 99,
+    "term": "She is my best friend.",
+    "definition": "È la mia migliore amica.",
+    "example": "irregular comparative: buono → migliore ('better/best'), not 'più buona'"
+  },
+  {
+    "id": 100,
+    "term": "I have a headache.",
+    "definition": "Ho mal di testa.",
+    "example": "fixed idiom: 'avere mal di' + body part"
+  }
+];
+window.QM_SENTENCES_FR_DATA = [
+  {
+    "id": 1,
+    "term": "I am a teacher.",
+    "definition": "Je suis professeur.",
+    "example": "no article before an unmodified profession after 'être'"
+  },
+  {
+    "id": 2,
+    "term": "I am a woman.",
+    "definition": "Je suis une femme.",
+    "example": "not a profession, so the article is back: une femme"
+  },
+  {
+    "id": 3,
+    "term": "You are a good friend.",
+    "definition": "Tu es un bon ami.",
+    "example": "'bon' (good) sits before the noun — one of a handful of adjectives that do"
+  },
+  {
+    "id": 4,
+    "term": "He is a doctor.",
+    "definition": "Il est médecin.",
+    "example": "profession again, still no article"
+  },
+  {
+    "id": 5,
+    "term": "She is a nurse.",
+    "definition": "Elle est infirmière.",
+    "example": "feminine profession noun, still no article"
+  },
+  {
+    "id": 6,
+    "term": "We are friends.",
+    "definition": "Nous sommes amis.",
+    "example": "1st person plural of être: sommes"
+  },
+  {
+    "id": 7,
+    "term": "You (plural) are students.",
+    "definition": "Vous êtes étudiants.",
+    "example": "2nd person plural: êtes"
+  },
+  {
+    "id": 8,
+    "term": "They are teachers. (all men, or mixed)",
+    "definition": "Ils sont professeurs.",
+    "example": "'ils' for a mixed or all-male group"
+  },
+  {
+    "id": 9,
+    "term": "They are teachers. (all women)",
+    "definition": "Elles sont professeures.",
+    "example": "'elles' for an all-female group, and the modern feminized noun: professeure"
+  },
+  {
+    "id": 10,
+    "term": "I am not a teacher.",
+    "definition": "Je ne suis pas professeur.",
+    "example": "French negation comes in two parts, wrapped around the verb: ne...pas"
+  },
+  {
+    "id": 11,
+    "term": "This is a book.",
+    "definition": "C'est un livre.",
+    "example": "'c'est' (it/this is) — the all-purpose way to point something out"
+  },
+  {
+    "id": 12,
+    "term": "This is my house.",
+    "definition": "C'est ma maison.",
+    "example": "'ma' agrees feminine with maison"
+  },
+  {
+    "id": 13,
+    "term": "This is my car.",
+    "definition": "C'est ma voiture.",
+    "example": "same feminine possessive: ma"
+  },
+  {
+    "id": 14,
+    "term": "This is my sister.",
+    "definition": "C'est ma sœur.",
+    "example": "no article needed at all with a possessive — French never doubles up like some languages"
+  },
+  {
+    "id": 15,
+    "term": "This is your dog.",
+    "definition": "C'est ton chien.",
+    "example": "'ton' (your, informal) agrees masculine"
+  },
+  {
+    "id": 16,
+    "term": "This is his cat.",
+    "definition": "C'est son chat.",
+    "example": "'son' doesn't reveal the owner's gender — only what's owned"
+  },
+  {
+    "id": 17,
+    "term": "This is her book.",
+    "definition": "C'est son livre.",
+    "example": "same word 'son' as #16 — French only cares about the noun's gender, not the owner's"
+  },
+  {
+    "id": 18,
+    "term": "This is our house.",
+    "definition": "C'est notre maison.",
+    "example": "'notre' (our) is the same for masculine and feminine"
+  },
+  {
+    "id": 19,
+    "term": "This is your (plural) apartment.",
+    "definition": "C'est votre appartement.",
+    "example": "'votre' (your, plural/formal)"
+  },
+  {
+    "id": 20,
+    "term": "This is their car.",
+    "definition": "C'est leur voiture.",
+    "example": "'leur' (their) never changes for gender"
+  },
+  {
+    "id": 21,
+    "term": "The big house is beautiful.",
+    "definition": "La grande maison est belle.",
+    "example": "'grand' (big) is another adjective that comes before the noun; 'belle' agrees after"
+  },
+  {
+    "id": 22,
+    "term": "I have a dog.",
+    "definition": "J'ai un chien.",
+    "example": "avoir (to have), 1st person: j'ai — 'je' elides to j' before a vowel"
+  },
+  {
+    "id": 23,
+    "term": "I have a car.",
+    "definition": "J'ai une voiture.",
+    "example": "feminine indefinite article: une"
+  },
+  {
+    "id": 24,
+    "term": "I have a sister.",
+    "definition": "J'ai une sœur.",
+    "example": "with 'avoir' the article stays — contrast #14's 'ma sœur'"
+  },
+  {
+    "id": 25,
+    "term": "I have a book.",
+    "definition": "J'ai un livre.",
+    "example": "masculine indefinite article: un"
+  },
+  {
+    "id": 26,
+    "term": "Do you have time?",
+    "definition": "Est-ce que tu as le temps?",
+    "example": "'est-ce que' turns any statement into a question, no word order change needed"
+  },
+  {
+    "id": 27,
+    "term": "He has a new phone.",
+    "definition": "Il a un nouveau téléphone.",
+    "example": "'nouveau' (new) also sits before the noun"
+  },
+  {
+    "id": 28,
+    "term": "We have two children.",
+    "definition": "Nous avons deux enfants.",
+    "example": "'enfants' covers a mixed-gender group"
+  },
+  {
+    "id": 29,
+    "term": "They have a big house.",
+    "definition": "Ils ont une grande maison.",
+    "example": "3rd person plural of avoir: ont"
+  },
+  {
+    "id": 30,
+    "term": "I don't have a car.",
+    "definition": "Je n'ai pas de voiture.",
+    "example": "after a negation, indefinite un/une/des all collapse to 'de'"
+  },
+  {
+    "id": 31,
+    "term": "I don't have time.",
+    "definition": "Je n'ai pas le temps.",
+    "example": "a DEFINITE article like 'le' does NOT change under negation — only indefinite ones do (contrast #30)"
+  },
+  {
+    "id": 32,
+    "term": "I don't have a sister.",
+    "definition": "Je n'ai pas de sœur.",
+    "example": "indefinite again, so: de"
+  },
+  {
+    "id": 33,
+    "term": "She doesn't have a book.",
+    "definition": "Elle n'a pas de livre.",
+    "example": "same de-after-negation rule"
+  },
+  {
+    "id": 34,
+    "term": "We don't have money.",
+    "definition": "Nous n'avons pas d'argent.",
+    "example": "'de' elides to 'd'' before a vowel"
+  },
+  {
+    "id": 35,
+    "term": "There is no water.",
+    "definition": "Il n'y a pas d'eau.",
+    "example": "'il y a' (there is), negated: il n'y a pas — then 'de/d'' as usual"
+  },
+  {
+    "id": 36,
+    "term": "There is no problem.",
+    "definition": "Il n'y a pas de problème.",
+    "example": "same 'il n'y a pas de' pattern"
+  },
+  {
+    "id": 37,
+    "term": "I don't know.",
+    "definition": "Je ne sais pas.",
+    "example": "plain ne...pas negation, no object needed"
+  },
+  {
+    "id": 38,
+    "term": "I don't understand.",
+    "definition": "Je ne comprends pas.",
+    "example": "same shape"
+  },
+  {
+    "id": 39,
+    "term": "I don't like coffee.",
+    "definition": "Je n'aime pas le café.",
+    "example": "'aimer' keeps the DEFINITE article for a general like/dislike — 'le café', not 'du café'"
+  },
+  {
+    "id": 40,
+    "term": "I live in Paris.",
+    "definition": "J'habite à Paris.",
+    "example": "'à' + city name, no article"
+  },
+  {
+    "id": 41,
+    "term": "The book is on the table.",
+    "definition": "Le livre est sur la table.",
+    "example": "'sur' (on) needs no contraction here"
+  },
+  {
+    "id": 42,
+    "term": "I am going to the store.",
+    "definition": "Je vais au magasin.",
+    "example": "'à' + 'le' contract into 'au'"
+  },
+  {
+    "id": 43,
+    "term": "She is coming back from school.",
+    "definition": "Elle revient de l'école.",
+    "example": "'de' + 'l'école' elided"
+  },
+  {
+    "id": 44,
+    "term": "I am talking with my friend.",
+    "definition": "Je parle avec mon ami.",
+    "example": "'avec' (with) + the possessive"
+  },
+  {
+    "id": 45,
+    "term": "This gift is for you.",
+    "definition": "Ce cadeau est pour toi.",
+    "example": "'pour' + the standalone pronoun 'toi'"
+  },
+  {
+    "id": 46,
+    "term": "We are walking through the park.",
+    "definition": "Nous marchons dans le parc.",
+    "example": "'dans' can mean 'through' as well as 'in'"
+  },
+  {
+    "id": 47,
+    "term": "The cat is under the table.",
+    "definition": "Le chat est sous la table.",
+    "example": "'sous' (under)"
+  },
+  {
+    "id": 48,
+    "term": "The lamp is above the table.",
+    "definition": "La lampe est au-dessus de la table.",
+    "example": "'au-dessus de' = above"
+  },
+  {
+    "id": 49,
+    "term": "I am waiting for the bus.",
+    "definition": "J'attends le bus.",
+    "example": "'attendre' already means 'wait for' — no extra preposition, unlike English"
+  },
+  {
+    "id": 50,
+    "term": "He works at the university.",
+    "definition": "Il travaille à l'université.",
+    "example": "'à' + 'l'université' elided"
+  },
+  {
+    "id": 51,
+    "term": "I am thinking about you.",
+    "definition": "Je pense à toi.",
+    "example": "'penser à' + the standalone pronoun"
+  },
+  {
+    "id": 52,
+    "term": "Between the house and the garden.",
+    "definition": "Entre la maison et le jardin.",
+    "example": "'entre' (between) needs no contraction"
+  },
+  {
+    "id": 53,
+    "term": "I am going home.",
+    "definition": "Je vais à la maison.",
+    "example": "'à la maison' — home, as a fixed destination phrase"
+  },
+  {
+    "id": 54,
+    "term": "The keys are in my bag.",
+    "definition": "Les clés sont dans mon sac.",
+    "example": "'dans' (in) + the possessive"
+  },
+  {
+    "id": 55,
+    "term": "She is standing next to the window.",
+    "definition": "Elle est à côté de la fenêtre.",
+    "example": "'à côté de' = next to"
+  },
+  {
+    "id": 56,
+    "term": "After the meeting, we will go home.",
+    "definition": "Après la réunion, nous irons à la maison.",
+    "example": "'après' (after) + noun, then the future: irons"
+  },
+  {
+    "id": 57,
+    "term": "I read books every day.",
+    "definition": "Je lis des livres tous les jours.",
+    "example": "'des' — French keeps the plural article where English drops it"
+  },
+  {
+    "id": 58,
+    "term": "You read a lot.",
+    "definition": "Tu lis beaucoup.",
+    "example": "2nd person present of lire: lis"
+  },
+  {
+    "id": 59,
+    "term": "He writes letters.",
+    "definition": "Il écrit des lettres.",
+    "example": "3rd person present of écrire: écrit"
+  },
+  {
+    "id": 60,
+    "term": "We speak French.",
+    "definition": "Nous parlons français.",
+    "example": "no article before the language here — 'parler français' is a fixed phrase"
+  },
+  {
+    "id": 61,
+    "term": "You (plural) watch TV.",
+    "definition": "Vous regardez la télé.",
+    "example": "2nd person plural: regardez"
+  },
+  {
+    "id": 62,
+    "term": "They play football.",
+    "definition": "Ils jouent au football.",
+    "example": "'jouer à' + sport, contracted: au"
+  },
+  {
+    "id": 63,
+    "term": "I wake up at seven.",
+    "definition": "Je me réveille à sept heures.",
+    "example": "reflexive 'se réveiller'; clock time: à + heures"
+  },
+  {
+    "id": 64,
+    "term": "She gets dressed quickly.",
+    "definition": "Elle s'habille rapidement.",
+    "example": "reflexive 's'habiller', 3rd person: s'habille"
+  },
+  {
+    "id": 65,
+    "term": "We are learning French.",
+    "definition": "Nous apprenons le français.",
+    "example": "'apprendre' DOES take the article — contrast 'parler français' in #60"
+  },
+  {
+    "id": 66,
+    "term": "I am not afraid.",
+    "definition": "Je n'ai pas peur.",
+    "example": "idiom: 'avoir peur' (be afraid) is literally 'to have fear'"
+  },
+  {
+    "id": 67,
+    "term": "I was tired.",
+    "definition": "J'étais fatigué.",
+    "example": "imparfait of être: étais"
+  },
+  {
+    "id": 68,
+    "term": "You were at home.",
+    "definition": "Tu étais à la maison.",
+    "example": "imparfait, 2nd person: étais"
+  },
+  {
+    "id": 69,
+    "term": "He was happy.",
+    "definition": "Il était content.",
+    "example": "imparfait, 3rd person: était"
+  },
+  {
+    "id": 70,
+    "term": "We were in France last year.",
+    "definition": "Nous étions en France l'année dernière.",
+    "example": "imparfait plural: étions; 'en' + feminine country name"
+  },
+  {
+    "id": 71,
+    "term": "I read that book. (and finished it)",
+    "definition": "J'ai lu ce livre.",
+    "example": "passé composé with 'avoir': j'ai lu"
+  },
+  {
+    "id": 72,
+    "term": "She wrote a letter.",
+    "definition": "Elle a écrit une lettre.",
+    "example": "passé composé, 3rd person: a écrit"
+  },
+  {
+    "id": 73,
+    "term": "We ate dinner.",
+    "definition": "Nous avons dîné.",
+    "example": "passé composé: avons dîné"
+  },
+  {
+    "id": 74,
+    "term": "They didn't come.",
+    "definition": "Ils ne sont pas venus.",
+    "example": "motion verbs like 'venir' take 'être', not 'avoir' — and the participle agrees: venus"
+  },
+  {
+    "id": 75,
+    "term": "I will be happy.",
+    "definition": "Je serai content.",
+    "example": "futur simple of être: serai"
+  },
+  {
+    "id": 76,
+    "term": "I will read this book.",
+    "definition": "Je lirai ce livre.",
+    "example": "futur simple: lirai"
+  },
+  {
+    "id": 77,
+    "term": "We will go to the cinema.",
+    "definition": "Nous irons au cinéma.",
+    "example": "futur of aller: irons"
+  },
+  {
+    "id": 78,
+    "term": "She will call you tomorrow.",
+    "definition": "Elle t'appellera demain.",
+    "example": "the object pronoun 't'' sits BEFORE the verb"
+  },
+  {
+    "id": 79,
+    "term": "They will not come.",
+    "definition": "Ils ne viendront pas.",
+    "example": "futur wrapped in ne...pas, same as any other tense"
+  },
+  {
+    "id": 80,
+    "term": "I will help you.",
+    "definition": "Je t'aiderai.",
+    "example": "futur + the pronoun 't'' out front"
+  },
+  {
+    "id": 81,
+    "term": "Where do you live?",
+    "definition": "Où habites-tu?",
+    "example": "question by inversion — verb and subject swap places"
+  },
+  {
+    "id": 82,
+    "term": "What is your name?",
+    "definition": "Comment tu t'appelles?",
+    "example": "idiomatic reflexive: s'appeler, literally 'how do you call yourself'"
+  },
+  {
+    "id": 83,
+    "term": "How old are you?",
+    "definition": "Quel âge as-tu?",
+    "example": "idiomatic: literally 'what age do you have', by inversion"
+  },
+  {
+    "id": 84,
+    "term": "Why are you sad?",
+    "definition": "Pourquoi es-tu triste?",
+    "example": "question word 'pourquoi' + inversion"
+  },
+  {
+    "id": 85,
+    "term": "When does the train leave?",
+    "definition": "Quand part le train?",
+    "example": "question word 'quand' (when)"
+  },
+  {
+    "id": 86,
+    "term": "Who is this?",
+    "definition": "Qui est-ce?",
+    "example": "question word 'qui' (who)"
+  },
+  {
+    "id": 87,
+    "term": "What are you doing?",
+    "definition": "Qu'est-ce que tu fais?",
+    "example": "'qu'est-ce que' — the question-word version of est-ce que, for 'what'"
+  },
+  {
+    "id": 88,
+    "term": "Do you speak English?",
+    "definition": "Est-ce que tu parles anglais?",
+    "example": "same shape as #26"
+  },
+  {
+    "id": 89,
+    "term": "I have one brother.",
+    "definition": "J'ai un frère.",
+    "example": "'un' before a masculine singular noun"
+  },
+  {
+    "id": 90,
+    "term": "I have two brothers.",
+    "definition": "J'ai deux frères.",
+    "example": "plural: frère → frères"
+  },
+  {
+    "id": 91,
+    "term": "I have five brothers.",
+    "definition": "J'ai cinq frères.",
+    "example": "same plural form no matter the number"
+  },
+  {
+    "id": 92,
+    "term": "I see two cats.",
+    "definition": "Je vois deux chats.",
+    "example": "plural: chat → chats"
+  },
+  {
+    "id": 93,
+    "term": "I see five cats.",
+    "definition": "Je vois cinq chats.",
+    "example": "again, nothing special happens with a bigger number"
+  },
+  {
+    "id": 94,
+    "term": "This book is bigger than that one.",
+    "definition": "Ce livre est plus grand que celui-là.",
+    "example": "comparative: plus...que; 'celui-là' = that one"
+  },
+  {
+    "id": 95,
+    "term": "She is the tallest in the class.",
+    "definition": "Elle est la plus grande de la classe.",
+    "example": "superlative: la plus"
+  },
+  {
+    "id": 96,
+    "term": "I like tea more than coffee.",
+    "definition": "J'aime le thé plus que le café.",
+    "example": "plus...que again, with two liked things"
+  },
+  {
+    "id": 97,
+    "term": "It's the best day of my life.",
+    "definition": "C'est le plus beau jour de ma vie.",
+    "example": "'le plus beau' for 'the best/most beautiful'"
+  },
+  {
+    "id": 98,
+    "term": "I like cats.",
+    "definition": "J'aime les chats.",
+    "example": "general statements keep the definite article in French, same as #39"
+  },
+  {
+    "id": 99,
+    "term": "She is my best friend.",
+    "definition": "C'est ma meilleure amie.",
+    "example": "irregular comparative: bon → meilleur ('best'), not 'plus bonne'"
+  },
+  {
+    "id": 100,
+    "term": "I have a headache.",
+    "definition": "J'ai mal à la tête.",
+    "example": "fixed idiom: 'avoir mal à' + body part"
+  }
+];
+window.QM_SENTENCES_DE_DATA = [
+  {
+    "id": 1,
+    "term": "I am a teacher.",
+    "definition": "Ich bin Lehrer.",
+    "example": "no article before an unmodified profession after 'sein'"
+  },
+  {
+    "id": 2,
+    "term": "I am a woman.",
+    "definition": "Ich bin eine Frau.",
+    "example": "not a profession, so the indefinite article is needed: eine Frau"
+  },
+  {
+    "id": 3,
+    "term": "You are a good friend.",
+    "definition": "Du bist ein guter Freund.",
+    "example": "adjective before a masculine nominative noun ends in -er: guter"
+  },
+  {
+    "id": 4,
+    "term": "He is a doctor.",
+    "definition": "Er ist Arzt.",
+    "example": "profession again, still no article"
+  },
+  {
+    "id": 5,
+    "term": "She is a nurse.",
+    "definition": "Sie ist Krankenschwester.",
+    "example": "same pattern for a feminine profession"
+  },
+  {
+    "id": 6,
+    "term": "We are friends.",
+    "definition": "Wir sind Freunde.",
+    "example": "1st person plural of sein: sind"
+  },
+  {
+    "id": 7,
+    "term": "You (plural) are students.",
+    "definition": "Ihr seid Studenten.",
+    "example": "2nd person plural: seid"
+  },
+  {
+    "id": 8,
+    "term": "They are teachers. (mixed or male group)",
+    "definition": "Sie sind Lehrer.",
+    "example": "'sie' (they) works for any mix of genders"
+  },
+  {
+    "id": 9,
+    "term": "They are teachers. (all-female group)",
+    "definition": "Sie sind Lehrerinnen.",
+    "example": "the feminine suffix -in (plural -innen) marks an all-female group: Lehrerin → Lehrerinnen"
+  },
+  {
+    "id": 10,
+    "term": "I am not a teacher.",
+    "definition": "Ich bin kein Lehrer.",
+    "example": "German negates a noun with 'kein', not 'nicht'"
+  },
+  {
+    "id": 11,
+    "term": "This is a book.",
+    "definition": "Das ist ein Buch.",
+    "example": "'das ist' (this/that is) is used to point something out, whatever its actual gender"
+  },
+  {
+    "id": 12,
+    "term": "This is my house.",
+    "definition": "Das ist mein Haus.",
+    "example": "'mein' agrees with the neuter noun Haus"
+  },
+  {
+    "id": 13,
+    "term": "This is my car.",
+    "definition": "Das ist mein Auto.",
+    "example": "another neuter noun: mein Auto"
+  },
+  {
+    "id": 14,
+    "term": "This is my sister.",
+    "definition": "Das ist meine Schwester.",
+    "example": "feminine ending: meine"
+  },
+  {
+    "id": 15,
+    "term": "This is your dog.",
+    "definition": "Das ist dein Hund.",
+    "example": "masculine: dein"
+  },
+  {
+    "id": 16,
+    "term": "This is his cat.",
+    "definition": "Das ist seine Katze.",
+    "example": "'sein' (his) + feminine agreement: seine"
+  },
+  {
+    "id": 17,
+    "term": "This is her book.",
+    "definition": "Das ist ihr Buch.",
+    "example": "'ihr' (her) — unlike some languages, German possessives DO track the owner's gender"
+  },
+  {
+    "id": 18,
+    "term": "This is our house.",
+    "definition": "Das ist unser Haus.",
+    "example": "'unser' (our)"
+  },
+  {
+    "id": 19,
+    "term": "This is your (plural) apartment.",
+    "definition": "Das ist eure Wohnung.",
+    "example": "'euer' (your, plural) becomes 'eure' before a feminine noun"
+  },
+  {
+    "id": 20,
+    "term": "This is their car.",
+    "definition": "Das ist ihr Auto.",
+    "example": "same word 'ihr' as #17 — 'her' and 'their' look identical, disambiguated only by context"
+  },
+  {
+    "id": 21,
+    "term": "The big house is beautiful.",
+    "definition": "Das große Haus ist schön.",
+    "example": "adjective after 'das' (neuter definite) ends in -e: große"
+  },
+  {
+    "id": 22,
+    "term": "I have a dog.",
+    "definition": "Ich habe einen Hund.",
+    "example": "'haben' takes the ACCUSATIVE — masculine 'ein' becomes 'einen'"
+  },
+  {
+    "id": 23,
+    "term": "I have a car.",
+    "definition": "Ich habe ein Auto.",
+    "example": "neuter accusative looks the same as nominative: ein"
+  },
+  {
+    "id": 24,
+    "term": "I have a sister.",
+    "definition": "Ich habe eine Schwester.",
+    "example": "feminine accusative also matches nominative: eine"
+  },
+  {
+    "id": 25,
+    "term": "I have a book.",
+    "definition": "Ich habe ein Buch.",
+    "example": "neuter again: ein"
+  },
+  {
+    "id": 26,
+    "term": "Do you have time?",
+    "definition": "Hast du Zeit?",
+    "example": "yes/no questions put the verb FIRST"
+  },
+  {
+    "id": 27,
+    "term": "He has a new phone.",
+    "definition": "Er hat ein neues Telefon.",
+    "example": "neuter accusative adjective ending: neues"
+  },
+  {
+    "id": 28,
+    "term": "We have two children.",
+    "definition": "Wir haben zwei Kinder.",
+    "example": "no article needed once there's a number"
+  },
+  {
+    "id": 29,
+    "term": "They have a big house.",
+    "definition": "Sie haben ein großes Haus.",
+    "example": "neuter accusative adjective: großes"
+  },
+  {
+    "id": 30,
+    "term": "I don't have a car.",
+    "definition": "Ich habe kein Auto.",
+    "example": "'kein' (not 'nicht') negates the indefinite object, agreeing neuter: kein"
+  },
+  {
+    "id": 31,
+    "term": "I don't have time.",
+    "definition": "Ich habe keine Zeit.",
+    "example": "'kein' agrees feminine here: keine"
+  },
+  {
+    "id": 32,
+    "term": "I don't have a sister.",
+    "definition": "Ich habe keine Schwester.",
+    "example": "feminine again: keine"
+  },
+  {
+    "id": 33,
+    "term": "She doesn't have a book.",
+    "definition": "Sie hat kein Buch.",
+    "example": "neuter: kein"
+  },
+  {
+    "id": 34,
+    "term": "We don't have money.",
+    "definition": "Wir haben kein Geld.",
+    "example": "'Geld' is neuter, so: kein"
+  },
+  {
+    "id": 35,
+    "term": "There is no water.",
+    "definition": "Es gibt kein Wasser.",
+    "example": "'es gibt' (there is) + accusative; 'Wasser' is neuter: kein"
+  },
+  {
+    "id": 36,
+    "term": "There is no problem.",
+    "definition": "Es gibt kein Problem.",
+    "example": "same 'es gibt kein' pattern"
+  },
+  {
+    "id": 37,
+    "term": "I don't know.",
+    "definition": "Ich weiß nicht.",
+    "example": "with no object to negate, plain 'nicht' does the job"
+  },
+  {
+    "id": 38,
+    "term": "I don't understand.",
+    "definition": "Ich verstehe nicht.",
+    "example": "same simple negation"
+  },
+  {
+    "id": 39,
+    "term": "I don't like coffee.",
+    "definition": "Ich mag keinen Kaffee.",
+    "example": "'mögen' + accusative object, negated with 'kein': Kaffee (masc) → keinen"
+  },
+  {
+    "id": 40,
+    "term": "I live in Berlin.",
+    "definition": "Ich wohne in Berlin.",
+    "example": "'in' + city name, no article or case ending needed"
+  },
+  {
+    "id": 41,
+    "term": "The book is on the table.",
+    "definition": "Das Buch ist auf dem Tisch.",
+    "example": "'auf' describing a fixed LOCATION takes the DATIVE: der Tisch → dem Tisch"
+  },
+  {
+    "id": 42,
+    "term": "I am going to the store.",
+    "definition": "Ich gehe in den Laden.",
+    "example": "the same preposition 'in' takes the ACCUSATIVE when there's MOTION toward it: den Laden — contrast #41"
+  },
+  {
+    "id": 43,
+    "term": "She is coming back from school.",
+    "definition": "Sie kommt von der Schule zurück.",
+    "example": "'von' always takes the dative: der Schule; the verb 'zurückkommen' splits in a main clause"
+  },
+  {
+    "id": 44,
+    "term": "I am talking with my friend.",
+    "definition": "Ich spreche mit meinem Freund.",
+    "example": "'mit' always takes the dative: meinem Freund"
+  },
+  {
+    "id": 45,
+    "term": "This gift is for you.",
+    "definition": "Dieses Geschenk ist für dich.",
+    "example": "'für' always takes the accusative: dich"
+  },
+  {
+    "id": 46,
+    "term": "We are walking through the park.",
+    "definition": "Wir gehen durch den Park.",
+    "example": "'durch' always takes the accusative: den Park"
+  },
+  {
+    "id": 47,
+    "term": "The cat is under the table.",
+    "definition": "Die Katze ist unter dem Tisch.",
+    "example": "static location again → dative: dem Tisch"
+  },
+  {
+    "id": 48,
+    "term": "The lamp is above the table.",
+    "definition": "Die Lampe ist über dem Tisch.",
+    "example": "'über' (above), also dative for a fixed position"
+  },
+  {
+    "id": 49,
+    "term": "I am waiting for the bus.",
+    "definition": "Ich warte auf den Bus.",
+    "example": "'warten auf' is a fixed pair that always takes the accusative, motion or not"
+  },
+  {
+    "id": 50,
+    "term": "He works at the university.",
+    "definition": "Er arbeitet an der Universität.",
+    "example": "'an' for a fixed location: dative, der Universität"
+  },
+  {
+    "id": 51,
+    "term": "I am thinking about you.",
+    "definition": "Ich denke an dich.",
+    "example": "'denken an' is a fixed pair taking the accusative: dich"
+  },
+  {
+    "id": 52,
+    "term": "Between the house and the garden.",
+    "definition": "Zwischen dem Haus und dem Garten.",
+    "example": "'zwischen' for a static position: dative both times"
+  },
+  {
+    "id": 53,
+    "term": "I am going home.",
+    "definition": "Ich gehe nach Hause.",
+    "example": "fixed idiom for 'home' with motion: nach Hause"
+  },
+  {
+    "id": 54,
+    "term": "The keys are in my bag.",
+    "definition": "Die Schlüssel sind in meiner Tasche.",
+    "example": "static location → dative: meine → meiner"
+  },
+  {
+    "id": 55,
+    "term": "She is standing next to the window.",
+    "definition": "Sie steht neben dem Fenster.",
+    "example": "'neben' (next to), dative for a fixed position"
+  },
+  {
+    "id": 56,
+    "term": "After the meeting, we will go home.",
+    "definition": "Nach dem Meeting gehen wir nach Hause.",
+    "example": "'nach' (after) always takes the dative: dem Meeting"
+  },
+  {
+    "id": 57,
+    "term": "I read books every day.",
+    "definition": "Ich lese jeden Tag Bücher.",
+    "example": "the verb still comes 2nd even though a time phrase opens the sentence"
+  },
+  {
+    "id": 58,
+    "term": "You read a lot.",
+    "definition": "Du liest viel.",
+    "example": "2nd person present, irregular stem vowel: liest"
+  },
+  {
+    "id": 59,
+    "term": "He writes letters.",
+    "definition": "Er schreibt Briefe.",
+    "example": "3rd person present: schreibt"
+  },
+  {
+    "id": 60,
+    "term": "We speak German.",
+    "definition": "Wir sprechen Deutsch.",
+    "example": "no article before the language name"
+  },
+  {
+    "id": 61,
+    "term": "You (plural) watch TV.",
+    "definition": "Ihr schaut fern.",
+    "example": "separable verb 'fernsehen' splits — the prefix 'fern' goes to the end"
+  },
+  {
+    "id": 62,
+    "term": "They play football.",
+    "definition": "Sie spielen Fußball.",
+    "example": "3rd plural present: spielen"
+  },
+  {
+    "id": 63,
+    "term": "I wake up at seven.",
+    "definition": "Ich stehe um sieben Uhr auf.",
+    "example": "another separable verb: aufstehen → stehe...auf"
+  },
+  {
+    "id": 64,
+    "term": "She gets dressed quickly.",
+    "definition": "Sie zieht sich schnell an.",
+    "example": "separable AND reflexive: sich anziehen → zieht sich...an"
+  },
+  {
+    "id": 65,
+    "term": "We are learning German.",
+    "definition": "Wir lernen Deutsch.",
+    "example": "same no-article pattern as #60"
+  },
+  {
+    "id": 66,
+    "term": "I am not afraid.",
+    "definition": "Ich habe keine Angst.",
+    "example": "idiom: 'Angst haben' (be afraid), negated with 'kein': keine"
+  },
+  {
+    "id": 67,
+    "term": "I was tired.",
+    "definition": "Ich war müde.",
+    "example": "simple past of sein: war — Germans favor this over the perfect tense for sein/haben"
+  },
+  {
+    "id": 68,
+    "term": "You were at home.",
+    "definition": "Du warst zu Hause.",
+    "example": "simple past, 2nd person: warst"
+  },
+  {
+    "id": 69,
+    "term": "He was happy.",
+    "definition": "Er war glücklich.",
+    "example": "simple past, 3rd person: war"
+  },
+  {
+    "id": 70,
+    "term": "We were in Germany last year.",
+    "definition": "Wir waren letztes Jahr in Deutschland.",
+    "example": "simple past plural: waren"
+  },
+  {
+    "id": 71,
+    "term": "I read that book. (and finished it)",
+    "definition": "Ich habe dieses Buch gelesen.",
+    "example": "perfect tense: haben + the past participle, pushed to the very end"
+  },
+  {
+    "id": 72,
+    "term": "She wrote a letter.",
+    "definition": "Sie hat einen Brief geschrieben.",
+    "example": "perfect: hat...geschrieben"
+  },
+  {
+    "id": 73,
+    "term": "We ate dinner.",
+    "definition": "Wir haben zu Abend gegessen.",
+    "example": "perfect + the fixed phrase 'zu Abend essen'"
+  },
+  {
+    "id": 74,
+    "term": "They didn't come.",
+    "definition": "Sie sind nicht gekommen.",
+    "example": "a motion verb like 'kommen' takes 'sein' in the perfect, not 'haben' — contrast #71-73"
+  },
+  {
+    "id": 75,
+    "term": "I will be happy.",
+    "definition": "Ich werde glücklich sein.",
+    "example": "future: werden + the infinitive, pushed to the end"
+  },
+  {
+    "id": 76,
+    "term": "I will read this book.",
+    "definition": "Ich werde dieses Buch lesen.",
+    "example": "werde...lesen"
+  },
+  {
+    "id": 77,
+    "term": "We will go to the cinema.",
+    "definition": "Wir werden ins Kino gehen.",
+    "example": "'ins' = in + das, accusative for motion"
+  },
+  {
+    "id": 78,
+    "term": "She will call you tomorrow.",
+    "definition": "Sie wird dich morgen anrufen.",
+    "example": "a separable verb stays joined in the infinitive: anrufen"
+  },
+  {
+    "id": 79,
+    "term": "They will not come.",
+    "definition": "Sie werden nicht kommen.",
+    "example": "future negated the same simple way: nicht"
+  },
+  {
+    "id": 80,
+    "term": "I will help you.",
+    "definition": "Ich werde dir helfen.",
+    "example": "'helfen' governs the DATIVE, not the accusative you might expect: dir"
+  },
+  {
+    "id": 81,
+    "term": "Where do you live?",
+    "definition": "Wo wohnst du?",
+    "example": "question word 'wo' (where), verb stays 2nd"
+  },
+  {
+    "id": 82,
+    "term": "What is your name?",
+    "definition": "Wie heißt du?",
+    "example": "idiomatic: 'heißen' (to be named)"
+  },
+  {
+    "id": 83,
+    "term": "How old are you?",
+    "definition": "Wie alt bist du?",
+    "example": "German uses 'sein' (to be) here, not 'haben' like some other languages"
+  },
+  {
+    "id": 84,
+    "term": "Why are you sad?",
+    "definition": "Warum bist du traurig?",
+    "example": "question word 'warum' (why)"
+  },
+  {
+    "id": 85,
+    "term": "When does the train leave?",
+    "definition": "Wann fährt der Zug ab?",
+    "example": "another separable verb: abfahren → fährt...ab"
+  },
+  {
+    "id": 86,
+    "term": "Who is this?",
+    "definition": "Wer ist das?",
+    "example": "question word 'wer' (who)"
+  },
+  {
+    "id": 87,
+    "term": "What are you doing?",
+    "definition": "Was machst du?",
+    "example": "question word 'was' (what)"
+  },
+  {
+    "id": 88,
+    "term": "Do you speak English?",
+    "definition": "Sprichst du Englisch?",
+    "example": "verb-first question again, irregular stem: sprichst"
+  },
+  {
+    "id": 89,
+    "term": "I have one brother.",
+    "definition": "Ich habe einen Bruder.",
+    "example": "accusative masculine: einen"
+  },
+  {
+    "id": 90,
+    "term": "I have two brothers.",
+    "definition": "Ich habe zwei Brüder.",
+    "example": "plural with an umlaut: Bruder → Brüder"
+  },
+  {
+    "id": 91,
+    "term": "I have five brothers.",
+    "definition": "Ich habe fünf Brüder.",
+    "example": "no extra change for a bigger number"
+  },
+  {
+    "id": 92,
+    "term": "I see two cats.",
+    "definition": "Ich sehe zwei Katzen.",
+    "example": "plural: Katze → Katzen"
+  },
+  {
+    "id": 93,
+    "term": "I see five cats.",
+    "definition": "Ich sehe fünf Katzen.",
+    "example": "same plural form regardless of the number"
+  },
+  {
+    "id": 94,
+    "term": "This book is bigger than that one.",
+    "definition": "Dieses Buch ist größer als jenes.",
+    "example": "comparative: größer als"
+  },
+  {
+    "id": 95,
+    "term": "She is the tallest in the class.",
+    "definition": "Sie ist die Größte in der Klasse.",
+    "example": "a superlative used as a noun is capitalized: die Größte"
+  },
+  {
+    "id": 96,
+    "term": "I like tea more than coffee.",
+    "definition": "Ich mag Tee lieber als Kaffee.",
+    "example": "'lieber' — the irregular comparative used for preferences"
+  },
+  {
+    "id": 97,
+    "term": "It's the best day of my life.",
+    "definition": "Es ist der beste Tag meines Lebens.",
+    "example": "irregular superlative: gut → beste; 'of my life' is genitive: meines Lebens"
+  },
+  {
+    "id": 98,
+    "term": "I like cats.",
+    "definition": "Ich mag Katzen.",
+    "example": "no article needed for a general plural statement"
+  },
+  {
+    "id": 99,
+    "term": "She is my best friend.",
+    "definition": "Sie ist meine beste Freundin.",
+    "example": "'beste' agrees feminine here"
+  },
+  {
+    "id": 100,
+    "term": "I have a headache.",
+    "definition": "Ich habe Kopfschmerzen.",
+    "example": "idiom: the compound noun 'Kopfschmerzen' (head-pains), plural, no article"
+  }
+];
+window.QM_SENTENCES_ES_DATA = [
+  {
+    "id": 1,
+    "term": "I am a teacher.",
+    "definition": "Soy profesor.",
+    "example": "no article before an unmodified profession after 'ser'"
+  },
+  {
+    "id": 2,
+    "term": "I am a woman.",
+    "definition": "Soy una mujer.",
+    "example": "not a profession, so the article returns: una mujer"
+  },
+  {
+    "id": 3,
+    "term": "You are a good friend.",
+    "definition": "Eres un buen amigo.",
+    "example": "'bueno' shortens to 'buen' right before a masculine singular noun"
+  },
+  {
+    "id": 4,
+    "term": "He is a doctor.",
+    "definition": "Es médico.",
+    "example": "profession again, still no article"
+  },
+  {
+    "id": 5,
+    "term": "She is a nurse.",
+    "definition": "Es enfermera.",
+    "example": "feminine profession noun, still no article"
+  },
+  {
+    "id": 6,
+    "term": "We are friends.",
+    "definition": "Somos amigos.",
+    "example": "1st person plural of ser: somos"
+  },
+  {
+    "id": 7,
+    "term": "You (plural) are students.",
+    "definition": "Sois estudiantes.",
+    "example": "2nd person plural (vosotros): sois"
+  },
+  {
+    "id": 8,
+    "term": "They are teachers. (mixed or male group)",
+    "definition": "Ellos son profesores.",
+    "example": "'ellos' for a mixed or all-male group"
+  },
+  {
+    "id": 9,
+    "term": "They are teachers. (all-female group)",
+    "definition": "Ellas son profesoras.",
+    "example": "'ellas' for an all-female group, and the feminine noun: profesoras"
+  },
+  {
+    "id": 10,
+    "term": "I am not a teacher.",
+    "definition": "No soy profesor.",
+    "example": "negation: 'no' right before the verb — nothing else changes"
+  },
+  {
+    "id": 11,
+    "term": "This is a book.",
+    "definition": "Esto es un libro.",
+    "example": "'esto' (this) points at something without naming its gender yet"
+  },
+  {
+    "id": 12,
+    "term": "This is my house.",
+    "definition": "Esta es mi casa.",
+    "example": "'esta' agrees feminine with 'casa'; 'mi' stays the same either way"
+  },
+  {
+    "id": 13,
+    "term": "This is my car.",
+    "definition": "Este es mi coche.",
+    "example": "'este' agrees masculine with 'coche'"
+  },
+  {
+    "id": 14,
+    "term": "This is my sister.",
+    "definition": "Esta es mi hermana.",
+    "example": "'mi' (my) never changes for gender or number of the owner"
+  },
+  {
+    "id": 15,
+    "term": "This is your dog.",
+    "definition": "Este es tu perro.",
+    "example": "'tu' (your, informal)"
+  },
+  {
+    "id": 16,
+    "term": "This is his cat.",
+    "definition": "Este es su gato.",
+    "example": "'su' doesn't reveal the owner's gender at all"
+  },
+  {
+    "id": 17,
+    "term": "This is her book.",
+    "definition": "Este es su libro.",
+    "example": "same word 'su' as #16 — his, her, and even 'your' (formal) all share it"
+  },
+  {
+    "id": 18,
+    "term": "This is our house.",
+    "definition": "Esta es nuestra casa.",
+    "example": "'nuestra' agrees feminine"
+  },
+  {
+    "id": 19,
+    "term": "This is your (plural) apartment.",
+    "definition": "Este es vuestro apartamento.",
+    "example": "'vuestro' (your, plural informal)"
+  },
+  {
+    "id": 20,
+    "term": "This is their car.",
+    "definition": "Este es su coche.",
+    "example": "'su' again — his/her/their all collapse into one word"
+  },
+  {
+    "id": 21,
+    "term": "The big house is beautiful.",
+    "definition": "La casa grande es bonita.",
+    "example": "'grande' looks the same for any gender; 'bonita' agrees feminine"
+  },
+  {
+    "id": 22,
+    "term": "I have a dog.",
+    "definition": "Tengo un perro.",
+    "example": "tener (to have), 1st person: tengo"
+  },
+  {
+    "id": 23,
+    "term": "I have a car.",
+    "definition": "Tengo un coche.",
+    "example": "masculine indefinite article: un"
+  },
+  {
+    "id": 24,
+    "term": "I have a sister.",
+    "definition": "Tengo una hermana.",
+    "example": "feminine: una"
+  },
+  {
+    "id": 25,
+    "term": "I have a book.",
+    "definition": "Tengo un libro.",
+    "example": "masculine: un"
+  },
+  {
+    "id": 26,
+    "term": "Do you have time?",
+    "definition": "¿Tienes tiempo?",
+    "example": "no extra word needed for a question — just the opening ¿ and rising intonation"
+  },
+  {
+    "id": 27,
+    "term": "He has a new phone.",
+    "definition": "Tiene un teléfono nuevo.",
+    "example": "most adjectives, like 'nuevo', follow the noun in Spanish"
+  },
+  {
+    "id": 28,
+    "term": "We have two children.",
+    "definition": "Tenemos dos hijos.",
+    "example": "'hijos' covers a mixed-gender group of children"
+  },
+  {
+    "id": 29,
+    "term": "They have a big house.",
+    "definition": "Tienen una casa grande.",
+    "example": "3rd person plural of tener: tienen"
+  },
+  {
+    "id": 30,
+    "term": "I don't have a car.",
+    "definition": "No tengo coche.",
+    "example": "Spanish usually drops the article after negation for a generic noun: no article at all"
+  },
+  {
+    "id": 31,
+    "term": "I don't have time.",
+    "definition": "No tengo tiempo.",
+    "example": "same simple pattern"
+  },
+  {
+    "id": 32,
+    "term": "I don't have a sister.",
+    "definition": "No tengo hermana.",
+    "example": "article dropped again, same as #30"
+  },
+  {
+    "id": 33,
+    "term": "She doesn't have a book.",
+    "definition": "No tiene libro.",
+    "example": "article dropped"
+  },
+  {
+    "id": 34,
+    "term": "We don't have money.",
+    "definition": "No tenemos dinero.",
+    "example": "'dinero' needs no article generically anyway"
+  },
+  {
+    "id": 35,
+    "term": "There is no water.",
+    "definition": "No hay agua.",
+    "example": "'hay' (there is), negated: no hay"
+  },
+  {
+    "id": 36,
+    "term": "There is no problem.",
+    "definition": "No hay problema.",
+    "example": "'problema' ends in -a but is actually masculine (el problema) — a classic Spanish exception"
+  },
+  {
+    "id": 37,
+    "term": "I don't know.",
+    "definition": "No sé.",
+    "example": "plain negation, no object needed"
+  },
+  {
+    "id": 38,
+    "term": "I don't understand.",
+    "definition": "No entiendo.",
+    "example": "same shape"
+  },
+  {
+    "id": 39,
+    "term": "I don't like coffee.",
+    "definition": "No me gusta el café.",
+    "example": "'gustar' works backwards from English: coffee is the subject, 'me' (to me) is who likes it"
+  },
+  {
+    "id": 40,
+    "term": "I live in Madrid.",
+    "definition": "Vivo en Madrid.",
+    "example": "'en' + city name, no article"
+  },
+  {
+    "id": 41,
+    "term": "The book is on the table.",
+    "definition": "El libro está en la mesa.",
+    "example": "'estar', not 'ser' — location always uses estar"
+  },
+  {
+    "id": 42,
+    "term": "I am going to the store.",
+    "definition": "Voy a la tienda.",
+    "example": "'a' + feminine 'la' — no contraction needed, unlike masculine 'al'"
+  },
+  {
+    "id": 43,
+    "term": "She is coming back from school.",
+    "definition": "Ella vuelve de la escuela.",
+    "example": "'de la' — again no contraction for a feminine noun"
+  },
+  {
+    "id": 44,
+    "term": "I am talking with my friend.",
+    "definition": "Hablo con mi amigo.",
+    "example": "'con' (with) + possessive"
+  },
+  {
+    "id": 45,
+    "term": "This gift is for you.",
+    "definition": "Este regalo es para ti.",
+    "example": "'para' + the standalone pronoun 'ti'"
+  },
+  {
+    "id": 46,
+    "term": "We are walking through the park.",
+    "definition": "Caminamos por el parque.",
+    "example": "'por' can mean 'through'"
+  },
+  {
+    "id": 47,
+    "term": "The cat is under the table.",
+    "definition": "El gato está debajo de la mesa.",
+    "example": "'estar' for location again; 'debajo de' = under"
+  },
+  {
+    "id": 48,
+    "term": "The lamp is above the table.",
+    "definition": "La lámpara está encima de la mesa.",
+    "example": "'encima de' = above"
+  },
+  {
+    "id": 49,
+    "term": "I am waiting for the bus.",
+    "definition": "Espero el autobús.",
+    "example": "'esperar' already means 'wait for' — no preposition, unlike English"
+  },
+  {
+    "id": 50,
+    "term": "He works at the university.",
+    "definition": "Trabaja en la universidad.",
+    "example": "'en' covers both 'in' and 'at'"
+  },
+  {
+    "id": 51,
+    "term": "I am thinking about you.",
+    "definition": "Pienso en ti.",
+    "example": "'pensar en' + the standalone pronoun"
+  },
+  {
+    "id": 52,
+    "term": "Between the house and the garden.",
+    "definition": "Entre la casa y el jardín.",
+    "example": "'entre' (between) needs no contraction"
+  },
+  {
+    "id": 53,
+    "term": "I am going home.",
+    "definition": "Voy a casa.",
+    "example": "fixed phrase 'a casa' — no article at all"
+  },
+  {
+    "id": 54,
+    "term": "The keys are in my bag.",
+    "definition": "Las llaves están en mi bolso.",
+    "example": "'estar' again — a location, not an identity"
+  },
+  {
+    "id": 55,
+    "term": "She is standing next to the window.",
+    "definition": "Ella está al lado de la ventana.",
+    "example": "'al lado de' = next to; 'a' + 'el' contract to 'al'"
+  },
+  {
+    "id": 56,
+    "term": "After the meeting, we will go home.",
+    "definition": "Después de la reunión, iremos a casa.",
+    "example": "'después de' (after) + noun, then the future: iremos"
+  },
+  {
+    "id": 57,
+    "term": "I read books every day.",
+    "definition": "Leo libros todos los días.",
+    "example": "1st person present of leer: leo"
+  },
+  {
+    "id": 58,
+    "term": "You read a lot.",
+    "definition": "Lees mucho.",
+    "example": "2nd person present: lees"
+  },
+  {
+    "id": 59,
+    "term": "He writes letters.",
+    "definition": "Escribe cartas.",
+    "example": "3rd person present of escribir: escribe"
+  },
+  {
+    "id": 60,
+    "term": "We speak Spanish.",
+    "definition": "Hablamos español.",
+    "example": "no article before the language name"
+  },
+  {
+    "id": 61,
+    "term": "You (plural) watch TV.",
+    "definition": "Veis la tele.",
+    "example": "2nd person plural (vosotros) of ver: veis"
+  },
+  {
+    "id": 62,
+    "term": "They play football.",
+    "definition": "Juegan al fútbol.",
+    "example": "'jugar a' + sport, contracted: al"
+  },
+  {
+    "id": 63,
+    "term": "I wake up at seven.",
+    "definition": "Me despierto a las siete.",
+    "example": "reflexive 'despertarse'; clock time: a las siete"
+  },
+  {
+    "id": 64,
+    "term": "She gets dressed quickly.",
+    "definition": "Se viste rápidamente.",
+    "example": "reflexive 'vestirse', 3rd person: se viste"
+  },
+  {
+    "id": 65,
+    "term": "We are learning Spanish.",
+    "definition": "Estamos aprendiendo español.",
+    "example": "present progressive: estar + the gerundio"
+  },
+  {
+    "id": 66,
+    "term": "I am not afraid.",
+    "definition": "No tengo miedo.",
+    "example": "idiom: 'tener miedo' (be afraid) is literally 'to have fear'"
+  },
+  {
+    "id": 67,
+    "term": "I was tired.",
+    "definition": "Estaba cansado.",
+    "example": "imperfecto of ESTAR — a temporary state, not a permanent trait"
+  },
+  {
+    "id": 68,
+    "term": "You were at home.",
+    "definition": "Estabas en casa.",
+    "example": "imperfecto, 2nd person: estabas — 'estar' again, since it's a location"
+  },
+  {
+    "id": 69,
+    "term": "He was happy.",
+    "definition": "Estaba feliz.",
+    "example": "'estar' for an emotional state too, not 'ser'"
+  },
+  {
+    "id": 70,
+    "term": "We were in Spain last year.",
+    "definition": "Estuvimos en España el año pasado.",
+    "example": "PRETÉRITO here, not imperfecto — 'last year' is a bounded, completed stretch of time"
+  },
+  {
+    "id": 71,
+    "term": "I read that book. (and finished it)",
+    "definition": "Leí ese libro.",
+    "example": "pretérito for one completed action: leí"
+  },
+  {
+    "id": 72,
+    "term": "She wrote a letter.",
+    "definition": "Escribió una carta.",
+    "example": "pretérito, 3rd person: escribió"
+  },
+  {
+    "id": 73,
+    "term": "We ate dinner.",
+    "definition": "Cenamos.",
+    "example": "pretérito — 'cenar' already means 'to have dinner'"
+  },
+  {
+    "id": 74,
+    "term": "They didn't come.",
+    "definition": "No vinieron.",
+    "example": "pretérito of the irregular verb venir, negated"
+  },
+  {
+    "id": 75,
+    "term": "I will be happy.",
+    "definition": "Estaré feliz.",
+    "example": "future of ESTAR, keeping the emotional-state pattern from #67-69"
+  },
+  {
+    "id": 76,
+    "term": "I will read this book.",
+    "definition": "Leeré este libro.",
+    "example": "futuro simple: leeré"
+  },
+  {
+    "id": 77,
+    "term": "We will go to the cinema.",
+    "definition": "Iremos al cine.",
+    "example": "futuro of ir: iremos"
+  },
+  {
+    "id": 78,
+    "term": "She will call you tomorrow.",
+    "definition": "Te llamará mañana.",
+    "example": "object pronoun 'te' comes BEFORE the verb"
+  },
+  {
+    "id": 79,
+    "term": "They will not come.",
+    "definition": "No vendrán.",
+    "example": "futuro of venir, irregular stem: vendrán"
+  },
+  {
+    "id": 80,
+    "term": "I will help you.",
+    "definition": "Te ayudaré.",
+    "example": "futuro + the pronoun 'te' out front"
+  },
+  {
+    "id": 81,
+    "term": "Where do you live?",
+    "definition": "¿Dónde vives?",
+    "example": "question word 'dónde' opens the sentence"
+  },
+  {
+    "id": 82,
+    "term": "What is your name?",
+    "definition": "¿Cómo te llamas?",
+    "example": "idiomatic reflexive: llamarse, literally 'how do you call yourself'"
+  },
+  {
+    "id": 83,
+    "term": "How old are you?",
+    "definition": "¿Cuántos años tienes?",
+    "example": "idiomatic: literally 'how many years do you have'"
+  },
+  {
+    "id": 84,
+    "term": "Why are you sad?",
+    "definition": "¿Por qué estás triste?",
+    "example": "'estar' again — sadness is a temporary state"
+  },
+  {
+    "id": 85,
+    "term": "When does the train leave?",
+    "definition": "¿Cuándo sale el tren?",
+    "example": "question word 'cuándo' (when)"
+  },
+  {
+    "id": 86,
+    "term": "Who is this?",
+    "definition": "¿Quién es este?",
+    "example": "question word 'quién' (who)"
+  },
+  {
+    "id": 87,
+    "term": "What are you doing?",
+    "definition": "¿Qué estás haciendo?",
+    "example": "present progressive again: estar + gerundio"
+  },
+  {
+    "id": 88,
+    "term": "Do you speak English?",
+    "definition": "¿Hablas inglés?",
+    "example": "same shape as #26"
+  },
+  {
+    "id": 89,
+    "term": "I have one brother.",
+    "definition": "Tengo un hermano.",
+    "example": "'un' before a masculine singular noun"
+  },
+  {
+    "id": 90,
+    "term": "I have two brothers.",
+    "definition": "Tengo dos hermanos.",
+    "example": "plural: hermano → hermanos"
+  },
+  {
+    "id": 91,
+    "term": "I have five brothers.",
+    "definition": "Tengo cinco hermanos.",
+    "example": "same plural form whatever the number"
+  },
+  {
+    "id": 92,
+    "term": "I see two cats.",
+    "definition": "Veo dos gatos.",
+    "example": "plural: gato → gatos"
+  },
+  {
+    "id": 93,
+    "term": "I see five cats.",
+    "definition": "Veo cinco gatos.",
+    "example": "again, nothing changes with a bigger number"
+  },
+  {
+    "id": 94,
+    "term": "This book is bigger than that one.",
+    "definition": "Este libro es más grande que ese.",
+    "example": "'ser' here — size is treated as an inherent trait; comparative: más...que"
+  },
+  {
+    "id": 95,
+    "term": "She is the tallest in the class.",
+    "definition": "Es la más alta de la clase.",
+    "example": "superlative: la más"
+  },
+  {
+    "id": 96,
+    "term": "I like tea more than coffee.",
+    "definition": "Me gusta el té más que el café.",
+    "example": "'gustar' + más que, comparing two liked things"
+  },
+  {
+    "id": 97,
+    "term": "It's the best day of my life.",
+    "definition": "Es el mejor día de mi vida.",
+    "example": "irregular superlative: bueno → mejor, not 'más bueno'"
+  },
+  {
+    "id": 98,
+    "term": "I like cats.",
+    "definition": "Me gustan los gatos.",
+    "example": "'gustar' agrees PLURAL here: gustan, to match 'los gatos'"
+  },
+  {
+    "id": 99,
+    "term": "She is my best friend.",
+    "definition": "Es mi mejor amiga.",
+    "example": "'mejor' stays the same for any gender"
+  },
+  {
+    "id": 100,
+    "term": "I have a headache.",
+    "definition": "Tengo dolor de cabeza.",
+    "example": "fixed idiom: 'tener dolor de' + body part"
+  }
+];
+window.QM_SENTENCES_PT_DATA = [
+  {
+    "id": 1,
+    "term": "I am a teacher.",
+    "definition": "Sou professor.",
+    "example": "no article before an unmodified profession after 'ser'"
+  },
+  {
+    "id": 2,
+    "term": "I am a woman.",
+    "definition": "Sou uma mulher.",
+    "example": "not a profession, so the article is back: uma mulher"
+  },
+  {
+    "id": 3,
+    "term": "You are a good friend.",
+    "definition": "És um bom amigo.",
+    "example": "'tu' form of ser: és; 'bom' sits before the noun"
+  },
+  {
+    "id": 4,
+    "term": "He is a doctor.",
+    "definition": "É médico.",
+    "example": "profession again, still no article"
+  },
+  {
+    "id": 5,
+    "term": "She is a nurse.",
+    "definition": "É enfermeira.",
+    "example": "feminine profession noun, still no article"
+  },
+  {
+    "id": 6,
+    "term": "We are friends.",
+    "definition": "Somos amigos.",
+    "example": "1st person plural of ser: somos"
+  },
+  {
+    "id": 7,
+    "term": "You (plural) are students.",
+    "definition": "Vocês são estudantes.",
+    "example": "'vocês' (you all) takes a 3rd-person-plural verb: são"
+  },
+  {
+    "id": 8,
+    "term": "They are teachers. (mixed or male group)",
+    "definition": "Eles são professores.",
+    "example": "'eles' for a mixed or all-male group"
+  },
+  {
+    "id": 9,
+    "term": "They are teachers. (all-female group)",
+    "definition": "Elas são professoras.",
+    "example": "'elas' for an all-female group, and the feminine noun: professoras"
+  },
+  {
+    "id": 10,
+    "term": "I am not a teacher.",
+    "definition": "Não sou professor.",
+    "example": "negation: 'não' right before the verb — nothing else changes"
+  },
+  {
+    "id": 11,
+    "term": "This is a book.",
+    "definition": "Isto é um livro.",
+    "example": "'isto' (this) points at something before naming its gender"
+  },
+  {
+    "id": 12,
+    "term": "This is my house.",
+    "definition": "Esta é a minha casa.",
+    "example": "European Portuguese keeps the article WITH the possessive: a minha"
+  },
+  {
+    "id": 13,
+    "term": "This is my car.",
+    "definition": "Este é o meu carro.",
+    "example": "same pattern, masculine: o meu"
+  },
+  {
+    "id": 14,
+    "term": "This is my sister.",
+    "definition": "Esta é a minha irmã.",
+    "example": "the article stays even for family: a minha irmã"
+  },
+  {
+    "id": 15,
+    "term": "This is your dog.",
+    "definition": "Este é o teu cão.",
+    "example": "'teu' (your, informal)"
+  },
+  {
+    "id": 16,
+    "term": "This is his cat.",
+    "definition": "Este é o seu gato.",
+    "example": "'seu' doesn't reveal the owner's gender at all"
+  },
+  {
+    "id": 17,
+    "term": "This is her book.",
+    "definition": "Este é o seu livro.",
+    "example": "same word 'seu' as #16 — and it can even mean 'your' (formal) too"
+  },
+  {
+    "id": 18,
+    "term": "This is our house.",
+    "definition": "Esta é a nossa casa.",
+    "example": "'nossa' agrees feminine"
+  },
+  {
+    "id": 19,
+    "term": "This is your (plural) apartment.",
+    "definition": "Este é o vosso apartamento.",
+    "example": "'vosso' (your, plural)"
+  },
+  {
+    "id": 20,
+    "term": "This is their car.",
+    "definition": "Este é o carro deles.",
+    "example": "for 'their', 'deles' (of them) is often clearer than the ambiguous 'seu'"
+  },
+  {
+    "id": 21,
+    "term": "The big house is beautiful.",
+    "definition": "A casa grande é bonita.",
+    "example": "'grande' follows the noun here; 'bonita' agrees feminine"
+  },
+  {
+    "id": 22,
+    "term": "I have a dog.",
+    "definition": "Tenho um cão.",
+    "example": "ter (to have), 1st person: tenho"
+  },
+  {
+    "id": 23,
+    "term": "I have a car.",
+    "definition": "Tenho um carro.",
+    "example": "masculine indefinite article: um"
+  },
+  {
+    "id": 24,
+    "term": "I have a sister.",
+    "definition": "Tenho uma irmã.",
+    "example": "feminine: uma"
+  },
+  {
+    "id": 25,
+    "term": "I have a book.",
+    "definition": "Tenho um livro.",
+    "example": "masculine: um"
+  },
+  {
+    "id": 26,
+    "term": "Do you have time?",
+    "definition": "Tens tempo?",
+    "example": "'tu' form, no extra word needed for the question"
+  },
+  {
+    "id": 27,
+    "term": "He has a new phone.",
+    "definition": "Tem um telemóvel novo.",
+    "example": "most adjectives, like 'novo', follow the noun"
+  },
+  {
+    "id": 28,
+    "term": "We have two children.",
+    "definition": "Temos dois filhos.",
+    "example": "'filhos' covers a mixed-gender group of children"
+  },
+  {
+    "id": 29,
+    "term": "They have a big house.",
+    "definition": "Têm uma casa grande.",
+    "example": "3rd person plural of ter: têm"
+  },
+  {
+    "id": 30,
+    "term": "I don't have a car.",
+    "definition": "Não tenho carro.",
+    "example": "the article drops after negation for a generic noun"
+  },
+  {
+    "id": 31,
+    "term": "I don't have time.",
+    "definition": "Não tenho tempo.",
+    "example": "same simple pattern"
+  },
+  {
+    "id": 32,
+    "term": "I don't have a sister.",
+    "definition": "Não tenho irmã.",
+    "example": "article dropped again"
+  },
+  {
+    "id": 33,
+    "term": "She doesn't have a book.",
+    "definition": "Ela não tem livro.",
+    "example": "article dropped"
+  },
+  {
+    "id": 34,
+    "term": "We don't have money.",
+    "definition": "Não temos dinheiro.",
+    "example": "'dinheiro' needs no article generically anyway"
+  },
+  {
+    "id": 35,
+    "term": "There is no water.",
+    "definition": "Não há água.",
+    "example": "'há' (there is), negated: não há"
+  },
+  {
+    "id": 36,
+    "term": "There is no problem.",
+    "definition": "Não há problema.",
+    "example": "same 'não há' pattern"
+  },
+  {
+    "id": 37,
+    "term": "I don't know.",
+    "definition": "Não sei.",
+    "example": "plain negation, no object needed"
+  },
+  {
+    "id": 38,
+    "term": "I don't understand.",
+    "definition": "Não percebo.",
+    "example": "'perceber' — the everyday European word for 'understand'"
+  },
+  {
+    "id": 39,
+    "term": "I don't like coffee.",
+    "definition": "Não gosto de café.",
+    "example": "'gostar de' — unlike Spanish/Italian, Portuguese keeps normal subject-verb order, just add 'de'"
+  },
+  {
+    "id": 40,
+    "term": "I live in Lisbon.",
+    "definition": "Vivo em Lisboa.",
+    "example": "'em' + city name, no article"
+  },
+  {
+    "id": 41,
+    "term": "The book is on the table.",
+    "definition": "O livro está na mesa.",
+    "example": "'estar' for location; 'em' + 'a' contract to 'na'"
+  },
+  {
+    "id": 42,
+    "term": "I am going to the store.",
+    "definition": "Vou à loja.",
+    "example": "'a' + 'a' contract into 'à' (with the accent)"
+  },
+  {
+    "id": 43,
+    "term": "She is coming back from school.",
+    "definition": "Ela volta da escola.",
+    "example": "'de' + 'a' contract into 'da'"
+  },
+  {
+    "id": 44,
+    "term": "I am talking with my friend.",
+    "definition": "Falo com o meu amigo.",
+    "example": "'com' (with) + the articled possessive"
+  },
+  {
+    "id": 45,
+    "term": "This gift is for you.",
+    "definition": "Este presente é para ti.",
+    "example": "'para' + the standalone pronoun 'ti'"
+  },
+  {
+    "id": 46,
+    "term": "We are walking through the park.",
+    "definition": "Caminhamos pelo parque.",
+    "example": "'por' + 'o' contract into 'pelo'"
+  },
+  {
+    "id": 47,
+    "term": "The cat is under the table.",
+    "definition": "O gato está debaixo da mesa.",
+    "example": "'debaixo de' + 'a' → 'debaixo da'"
+  },
+  {
+    "id": 48,
+    "term": "The lamp is above the table.",
+    "definition": "O candeeiro está em cima da mesa.",
+    "example": "'em cima de' = above"
+  },
+  {
+    "id": 49,
+    "term": "I am waiting for the bus.",
+    "definition": "Espero o autocarro.",
+    "example": "'esperar' already means 'wait for' — no preposition needed"
+  },
+  {
+    "id": 50,
+    "term": "He works at the university.",
+    "definition": "Trabalha na universidade.",
+    "example": "'em' + 'a' → 'na'"
+  },
+  {
+    "id": 51,
+    "term": "I am thinking about you.",
+    "definition": "Penso em ti.",
+    "example": "'pensar em' + the standalone pronoun"
+  },
+  {
+    "id": 52,
+    "term": "Between the house and the garden.",
+    "definition": "Entre a casa e o jardim.",
+    "example": "'entre' (between) needs no contraction"
+  },
+  {
+    "id": 53,
+    "term": "I am going home.",
+    "definition": "Vou para casa.",
+    "example": "fixed phrase 'para casa' — no article at all"
+  },
+  {
+    "id": 54,
+    "term": "The keys are in my bag.",
+    "definition": "As chaves estão na minha mala.",
+    "example": "'em' + 'a' → 'na', plus the articled possessive"
+  },
+  {
+    "id": 55,
+    "term": "She is standing next to the window.",
+    "definition": "Ela está ao lado da janela.",
+    "example": "'ao lado de' = next to; two contractions in one phrase: ao, da"
+  },
+  {
+    "id": 56,
+    "term": "After the meeting, we will go home.",
+    "definition": "Depois da reunião, iremos para casa.",
+    "example": "'depois de' + 'a' → 'da'; futuro simples: iremos"
+  },
+  {
+    "id": 57,
+    "term": "I read books every day.",
+    "definition": "Leio livros todos os dias.",
+    "example": "1st person present of ler: leio"
+  },
+  {
+    "id": 58,
+    "term": "You read a lot.",
+    "definition": "Lês muito.",
+    "example": "'tu' form: lês"
+  },
+  {
+    "id": 59,
+    "term": "He writes letters.",
+    "definition": "Escreve cartas.",
+    "example": "3rd person present of escrever: escreve"
+  },
+  {
+    "id": 60,
+    "term": "We speak Portuguese.",
+    "definition": "Falamos português.",
+    "example": "no article before the language name"
+  },
+  {
+    "id": 61,
+    "term": "You (plural) watch TV.",
+    "definition": "Vocês veem televisão.",
+    "example": "'vocês' + 3rd plural: veem"
+  },
+  {
+    "id": 62,
+    "term": "They play football.",
+    "definition": "Eles jogam futebol.",
+    "example": "no preposition needed before the sport, unlike some languages"
+  },
+  {
+    "id": 63,
+    "term": "I wake up at seven.",
+    "definition": "Acordo às sete.",
+    "example": "clock time: 'a' + 'as' contract into 'às'"
+  },
+  {
+    "id": 64,
+    "term": "She gets dressed quickly.",
+    "definition": "Ela veste-se rapidamente.",
+    "example": "reflexive pronoun attaches AFTER the verb in a plain statement: veste-se"
+  },
+  {
+    "id": 65,
+    "term": "We are learning Portuguese.",
+    "definition": "Estamos a aprender português.",
+    "example": "European Portuguese progressive: estar + 'a' + infinitive (not a gerund)"
+  },
+  {
+    "id": 66,
+    "term": "I am not afraid.",
+    "definition": "Não tenho medo.",
+    "example": "idiom: 'ter medo' (be afraid) is literally 'to have fear'"
+  },
+  {
+    "id": 67,
+    "term": "I was tired.",
+    "definition": "Estava cansado.",
+    "example": "imperfeito of estar — a temporary state"
+  },
+  {
+    "id": 68,
+    "term": "You were at home.",
+    "definition": "Estavas em casa.",
+    "example": "imperfeito, 'tu' form: estavas"
+  },
+  {
+    "id": 69,
+    "term": "He was happy.",
+    "definition": "Estava feliz.",
+    "example": "'estar' for an emotional state too"
+  },
+  {
+    "id": 70,
+    "term": "We were in Portugal last year.",
+    "definition": "Estivemos em Portugal no ano passado.",
+    "example": "pretérito perfeito here — a bounded, completed stretch of time"
+  },
+  {
+    "id": 71,
+    "term": "I read that book. (and finished it)",
+    "definition": "Li esse livro.",
+    "example": "pretérito perfeito for one completed action: li"
+  },
+  {
+    "id": 72,
+    "term": "She wrote a letter.",
+    "definition": "Escreveu uma carta.",
+    "example": "pretérito perfeito, 3rd person: escreveu"
+  },
+  {
+    "id": 73,
+    "term": "We ate dinner.",
+    "definition": "Jantámos.",
+    "example": "the accent marks this as past tense — 'jantamos' with no accent would be present"
+  },
+  {
+    "id": 74,
+    "term": "They didn't come.",
+    "definition": "Não vieram.",
+    "example": "pretérito perfeito of the irregular verb vir, negated"
+  },
+  {
+    "id": 75,
+    "term": "I will be happy.",
+    "definition": "Vou estar feliz.",
+    "example": "the everyday future: ir (conjugated) + infinitive"
+  },
+  {
+    "id": 76,
+    "term": "I will read this book.",
+    "definition": "Vou ler este livro.",
+    "example": "same ir + infinitive pattern"
+  },
+  {
+    "id": 77,
+    "term": "We will watch a movie.",
+    "definition": "Vamos ver um filme.",
+    "example": "'vamos' + infinitive — the 1st-person-plural version"
+  },
+  {
+    "id": 78,
+    "term": "She will call you tomorrow.",
+    "definition": "Ela vai ligar-te amanhã.",
+    "example": "the object pronoun attaches to the infinitive: ligar-te"
+  },
+  {
+    "id": 79,
+    "term": "They will not come.",
+    "definition": "Eles não virão amanhã.",
+    "example": "here's the other future form — futuro simples, negated"
+  },
+  {
+    "id": 80,
+    "term": "I will help you.",
+    "definition": "Vou ajudar-te.",
+    "example": "ir + infinitive again, with the pronoun attached: ajudar-te"
+  },
+  {
+    "id": 81,
+    "term": "Where do you live?",
+    "definition": "Onde vives?",
+    "example": "question word 'onde' opens the sentence"
+  },
+  {
+    "id": 82,
+    "term": "What is your name?",
+    "definition": "Como te chamas?",
+    "example": "the question word 'como' pulls the pronoun BEFORE the verb — contrast #64's veste-se"
+  },
+  {
+    "id": 83,
+    "term": "How old are you?",
+    "definition": "Quantos anos tens?",
+    "example": "idiomatic: literally 'how many years do you have'"
+  },
+  {
+    "id": 84,
+    "term": "Why are you sad?",
+    "definition": "Porque estás triste?",
+    "example": "question word 'porque' (why)"
+  },
+  {
+    "id": 85,
+    "term": "When does the train leave?",
+    "definition": "Quando parte o comboio?",
+    "example": "'comboio' — the European word for train"
+  },
+  {
+    "id": 86,
+    "term": "Who is this?",
+    "definition": "Quem é este?",
+    "example": "question word 'quem' (who)"
+  },
+  {
+    "id": 87,
+    "term": "What are you doing?",
+    "definition": "O que estás a fazer?",
+    "example": "progressive again: estás a fazer"
+  },
+  {
+    "id": 88,
+    "term": "Do you speak English?",
+    "definition": "Falas inglês?",
+    "example": "same shape as #26"
+  },
+  {
+    "id": 89,
+    "term": "I have one brother.",
+    "definition": "Tenho um irmão.",
+    "example": "'um' before a masculine singular noun"
+  },
+  {
+    "id": 90,
+    "term": "I have two brothers.",
+    "definition": "Tenho dois irmãos.",
+    "example": "plural: irmão → irmãos"
+  },
+  {
+    "id": 91,
+    "term": "I have five brothers.",
+    "definition": "Tenho cinco irmãos.",
+    "example": "same plural form whatever the number"
+  },
+  {
+    "id": 92,
+    "term": "I see two cats.",
+    "definition": "Vejo dois gatos.",
+    "example": "plural: gato → gatos"
+  },
+  {
+    "id": 93,
+    "term": "I see five cats.",
+    "definition": "Vejo cinco gatos.",
+    "example": "again, nothing changes with a bigger number"
+  },
+  {
+    "id": 94,
+    "term": "This book is bigger than that one.",
+    "definition": "Este livro é maior do que esse.",
+    "example": "comparative: maior do que"
+  },
+  {
+    "id": 95,
+    "term": "She is the tallest in the class.",
+    "definition": "É a mais alta da turma.",
+    "example": "superlative: a mais"
+  },
+  {
+    "id": 96,
+    "term": "I like tea more than coffee.",
+    "definition": "Gosto mais de chá do que de café.",
+    "example": "'gostar de' needs its own 'de' before EACH thing compared"
+  },
+  {
+    "id": 97,
+    "term": "It's the best day of my life.",
+    "definition": "É o melhor dia da minha vida.",
+    "example": "irregular superlative: bom → melhor, not 'mais bom'"
+  },
+  {
+    "id": 98,
+    "term": "I like cats.",
+    "definition": "Gosto de gatos.",
+    "example": "no article needed for a general plural, unlike Spanish/Italian"
+  },
+  {
+    "id": 99,
+    "term": "She is my best friend.",
+    "definition": "É a minha melhor amiga.",
+    "example": "'melhor' stays the same for any gender"
+  },
+  {
+    "id": 100,
+    "term": "I have a headache.",
+    "definition": "Tenho dor de cabeça.",
+    "example": "fixed idiom: 'ter dor de' + body part"
+  }
+];
+window.QM_SENTENCES_NL_DATA = [
+  {
+    "id": 1,
+    "term": "I am a teacher.",
+    "definition": "Ik ben leraar.",
+    "example": "no article before an unmodified profession after 'zijn'"
+  },
+  {
+    "id": 2,
+    "term": "I am a woman.",
+    "definition": "Ik ben een vrouw.",
+    "example": "not a profession, so the article is back: een vrouw"
+  },
+  {
+    "id": 3,
+    "term": "You are a good friend.",
+    "definition": "Je bent een goede vriend.",
+    "example": "'goed' takes an -e ending before a noun here: goede"
+  },
+  {
+    "id": 4,
+    "term": "He is a doctor.",
+    "definition": "Hij is dokter.",
+    "example": "profession again, still no article"
+  },
+  {
+    "id": 5,
+    "term": "She is a nurse.",
+    "definition": "Zij is verpleegster.",
+    "example": "feminine profession noun, still no article"
+  },
+  {
+    "id": 6,
+    "term": "We are friends.",
+    "definition": "Wij zijn vrienden.",
+    "example": "1st person plural of zijn: zijn"
+  },
+  {
+    "id": 7,
+    "term": "You (plural) are students.",
+    "definition": "Jullie zijn studenten.",
+    "example": "'jullie' (you all, informal)"
+  },
+  {
+    "id": 8,
+    "term": "They are teachers. (mixed or male group)",
+    "definition": "Zij zijn leraren.",
+    "example": "'zij' (they) works for any mix of genders"
+  },
+  {
+    "id": 9,
+    "term": "They are teachers. (all-female group)",
+    "definition": "Zij zijn leraressen.",
+    "example": "same pronoun 'zij' either way — the feminine plural NOUN marks it: lerares → leraressen"
+  },
+  {
+    "id": 10,
+    "term": "I am not a teacher.",
+    "definition": "Ik ben geen leraar.",
+    "example": "Dutch negates a noun with 'geen', not 'niet'"
+  },
+  {
+    "id": 11,
+    "term": "This is a book.",
+    "definition": "Dit is een boek.",
+    "example": "'dit' (this) points at something before naming its gender"
+  },
+  {
+    "id": 12,
+    "term": "This is my house.",
+    "definition": "Dit is mijn huis.",
+    "example": "'mijn' never changes form — much simpler than some languages"
+  },
+  {
+    "id": 13,
+    "term": "This is my car.",
+    "definition": "Dit is mijn auto.",
+    "example": "same invariable 'mijn'"
+  },
+  {
+    "id": 14,
+    "term": "This is my sister.",
+    "definition": "Dit is mijn zus.",
+    "example": "'mijn' again, whatever the noun"
+  },
+  {
+    "id": 15,
+    "term": "This is your dog.",
+    "definition": "Dit is jouw hond.",
+    "example": "'jouw' (your, informal)"
+  },
+  {
+    "id": 16,
+    "term": "This is his cat.",
+    "definition": "Dit is zijn kat.",
+    "example": "'zijn' (his)"
+  },
+  {
+    "id": 17,
+    "term": "This is her book.",
+    "definition": "Dit is haar boek.",
+    "example": "'haar' (her) — Dutch does track the owner's gender, unlike some languages"
+  },
+  {
+    "id": 18,
+    "term": "This is our house.",
+    "definition": "Dit is ons huis.",
+    "example": "'onze' becomes 'ons' before a het-word like huis — the one possessive that actually changes form"
+  },
+  {
+    "id": 19,
+    "term": "This is your (plural) apartment.",
+    "definition": "Dit is jullie appartement.",
+    "example": "'jullie' (your, plural) — also invariable"
+  },
+  {
+    "id": 20,
+    "term": "This is their car.",
+    "definition": "Dit is hun auto.",
+    "example": "'hun' (their)"
+  },
+  {
+    "id": 21,
+    "term": "The big house is beautiful.",
+    "definition": "Het grote huis is mooi.",
+    "example": "definite 'het grote huis' takes -e — contrast #29's indefinite 'een groot huis'"
+  },
+  {
+    "id": 22,
+    "term": "I have a dog.",
+    "definition": "Ik heb een hond.",
+    "example": "hebben (to have), 1st person: heb"
+  },
+  {
+    "id": 23,
+    "term": "I have a car.",
+    "definition": "Ik heb een auto.",
+    "example": "'een' — Dutch has just one indefinite article, for any gender"
+  },
+  {
+    "id": 24,
+    "term": "I have a sister.",
+    "definition": "Ik heb een zus.",
+    "example": "same 'een'"
+  },
+  {
+    "id": 25,
+    "term": "I have a book.",
+    "definition": "Ik heb een boek.",
+    "example": "'een' once more"
+  },
+  {
+    "id": 26,
+    "term": "Do you have time?",
+    "definition": "Heb je tijd?",
+    "example": "yes/no questions put the verb FIRST"
+  },
+  {
+    "id": 27,
+    "term": "He has a new phone.",
+    "definition": "Hij heeft een nieuwe telefoon.",
+    "example": "'telefoon' is a de-word, so the adjective always takes -e: nieuwe"
+  },
+  {
+    "id": 28,
+    "term": "We have two children.",
+    "definition": "Wij hebben twee kinderen.",
+    "example": "irregular plural: kind → kinderen"
+  },
+  {
+    "id": 29,
+    "term": "They have a big house.",
+    "definition": "Zij hebben een groot huis.",
+    "example": "indefinite het-word: NO -e here — 'groot', not 'grote' (contrast #21)"
+  },
+  {
+    "id": 30,
+    "term": "I don't have a car.",
+    "definition": "Ik heb geen auto.",
+    "example": "'geen' negates the indefinite object"
+  },
+  {
+    "id": 31,
+    "term": "I don't have time.",
+    "definition": "Ik heb geen tijd.",
+    "example": "same 'geen' pattern"
+  },
+  {
+    "id": 32,
+    "term": "I don't have a sister.",
+    "definition": "Ik heb geen zus.",
+    "example": "'geen' again"
+  },
+  {
+    "id": 33,
+    "term": "She doesn't have a book.",
+    "definition": "Zij heeft geen boek.",
+    "example": "'geen' with a het-word too — it doesn't change"
+  },
+  {
+    "id": 34,
+    "term": "We don't have money.",
+    "definition": "Wij hebben geen geld.",
+    "example": "'geen' + an uncountable noun"
+  },
+  {
+    "id": 35,
+    "term": "There is no water.",
+    "definition": "Er is geen water.",
+    "example": "'er is' (there is), negated with 'geen'"
+  },
+  {
+    "id": 36,
+    "term": "There is no problem.",
+    "definition": "Er is geen probleem.",
+    "example": "same 'er is geen' pattern"
+  },
+  {
+    "id": 37,
+    "term": "I don't know.",
+    "definition": "Ik weet het niet.",
+    "example": "general negation uses 'niet'; 'het' is included in this fixed everyday phrase"
+  },
+  {
+    "id": 38,
+    "term": "I don't understand.",
+    "definition": "Ik begrijp het niet.",
+    "example": "same shape as #37"
+  },
+  {
+    "id": 39,
+    "term": "I don't like coffee.",
+    "definition": "Ik hou niet van koffie.",
+    "example": "'houden van' (to like) — literally 'to hold of'; 'niet' sits before 'van'"
+  },
+  {
+    "id": 40,
+    "term": "I live in Amsterdam.",
+    "definition": "Ik woon in Amsterdam.",
+    "example": "'in' + city name, no article"
+  },
+  {
+    "id": 41,
+    "term": "The book is on the table.",
+    "definition": "Het boek ligt op de tafel.",
+    "example": "Dutch prefers 'liggen' (lie) over 'zijn' for something flat lying on a surface"
+  },
+  {
+    "id": 42,
+    "term": "I am going to the store.",
+    "definition": "Ik ga naar de winkel.",
+    "example": "'naar' (to/toward) for movement to a place"
+  },
+  {
+    "id": 43,
+    "term": "She is coming back from school.",
+    "definition": "Zij komt terug van school.",
+    "example": "'van' = from; the separable verb 'terugkomen' splits"
+  },
+  {
+    "id": 44,
+    "term": "I am talking with my friend.",
+    "definition": "Ik praat met mijn vriend.",
+    "example": "'met' (with) + the possessive"
+  },
+  {
+    "id": 45,
+    "term": "This gift is for you.",
+    "definition": "Dit cadeau is voor jou.",
+    "example": "'voor' + the standalone pronoun 'jou'"
+  },
+  {
+    "id": 46,
+    "term": "We are walking through the park.",
+    "definition": "Wij lopen door het park.",
+    "example": "'door' (through)"
+  },
+  {
+    "id": 47,
+    "term": "The cat is under the table.",
+    "definition": "De kat zit onder de tafel.",
+    "example": "'zitten' (sit) is the natural verb for an animal's position"
+  },
+  {
+    "id": 48,
+    "term": "The lamp is above the table.",
+    "definition": "De lamp hangt boven de tafel.",
+    "example": "'hangen' (hang) — a positional verb, just like #47's 'zitten'"
+  },
+  {
+    "id": 49,
+    "term": "I am waiting for the bus.",
+    "definition": "Ik wacht op de bus.",
+    "example": "'wachten op' — the fixed preposition Dutch pairs with 'wait'"
+  },
+  {
+    "id": 50,
+    "term": "He works at the university.",
+    "definition": "Hij werkt aan de universiteit.",
+    "example": "'aan' for institutions, not 'in' or 'op'"
+  },
+  {
+    "id": 51,
+    "term": "I am thinking about you.",
+    "definition": "Ik denk aan jou.",
+    "example": "'denken aan' + the standalone pronoun"
+  },
+  {
+    "id": 52,
+    "term": "Between the house and the garden.",
+    "definition": "Tussen het huis en de tuin.",
+    "example": "'tussen' (between)"
+  },
+  {
+    "id": 53,
+    "term": "I am going home.",
+    "definition": "Ik ga naar huis.",
+    "example": "fixed phrase 'naar huis' — no article at all"
+  },
+  {
+    "id": 54,
+    "term": "The keys are in my bag.",
+    "definition": "De sleutels zitten in mijn tas.",
+    "example": "'zitten' again, for something contained in a bag"
+  },
+  {
+    "id": 55,
+    "term": "She is standing next to the window.",
+    "definition": "Zij staat naast het raam.",
+    "example": "'staan' (stand), matching what she's actually doing; 'naast' = next to"
+  },
+  {
+    "id": 56,
+    "term": "After the meeting, we will go home.",
+    "definition": "Na de vergadering gaan wij naar huis.",
+    "example": "the verb still comes 2nd even though the sentence opens with 'na de vergadering'"
+  },
+  {
+    "id": 57,
+    "term": "I read books every day.",
+    "definition": "Ik lees elke dag boeken.",
+    "example": "1st person present of lezen: lees"
+  },
+  {
+    "id": 58,
+    "term": "You read a lot.",
+    "definition": "Jij leest veel.",
+    "example": "2nd person present: leest"
+  },
+  {
+    "id": 59,
+    "term": "He writes letters.",
+    "definition": "Hij schrijft brieven.",
+    "example": "3rd person present of schrijven: schrijft"
+  },
+  {
+    "id": 60,
+    "term": "We speak Dutch.",
+    "definition": "Wij spreken Nederlands.",
+    "example": "no article before the language name"
+  },
+  {
+    "id": 61,
+    "term": "You (plural) watch TV.",
+    "definition": "Jullie kijken tv.",
+    "example": "'tv kijken' — a fixed, article-free everyday phrase"
+  },
+  {
+    "id": 62,
+    "term": "They play football.",
+    "definition": "Zij spelen voetbal.",
+    "example": "3rd plural present: spelen"
+  },
+  {
+    "id": 63,
+    "term": "I wake up at seven.",
+    "definition": "Ik word om zeven uur wakker.",
+    "example": "'wakker worden' (become awake) splits like a separable verb: word...wakker"
+  },
+  {
+    "id": 64,
+    "term": "She gets dressed quickly.",
+    "definition": "Zij kleedt zich snel aan.",
+    "example": "separable AND reflexive: zich aankleden → kleedt zich...aan"
+  },
+  {
+    "id": 65,
+    "term": "We are learning Dutch.",
+    "definition": "Wij leren Nederlands.",
+    "example": "same no-article pattern as #60"
+  },
+  {
+    "id": 66,
+    "term": "I am not afraid.",
+    "definition": "Ik ben niet bang.",
+    "example": "'bang' (afraid) is a plain adjective here — just 'niet' negates it"
+  },
+  {
+    "id": 67,
+    "term": "I was tired.",
+    "definition": "Ik was moe.",
+    "example": "simple past of zijn: was"
+  },
+  {
+    "id": 68,
+    "term": "You were at home.",
+    "definition": "Jij was thuis.",
+    "example": "'thuis' — the fixed word for 'at home'"
+  },
+  {
+    "id": 69,
+    "term": "He was happy.",
+    "definition": "Hij was blij.",
+    "example": "simple past, 3rd person: was"
+  },
+  {
+    "id": 70,
+    "term": "We were in the Netherlands last year.",
+    "definition": "Wij waren vorig jaar in Nederland.",
+    "example": "simple past plural: waren"
+  },
+  {
+    "id": 71,
+    "term": "I read that book. (and finished it)",
+    "definition": "Ik heb dat boek gelezen.",
+    "example": "perfect tense: heb + the past participle, pushed to the end"
+  },
+  {
+    "id": 72,
+    "term": "She wrote a letter.",
+    "definition": "Zij heeft een brief geschreven.",
+    "example": "perfect: heeft...geschreven"
+  },
+  {
+    "id": 73,
+    "term": "We ate dinner.",
+    "definition": "Wij hebben gegeten.",
+    "example": "perfect: hebben gegeten"
+  },
+  {
+    "id": 74,
+    "term": "They didn't come.",
+    "definition": "Zij zijn niet gekomen.",
+    "example": "a motion verb like 'komen' takes 'zijn' in the perfect, not 'hebben'"
+  },
+  {
+    "id": 75,
+    "term": "I will be happy.",
+    "definition": "Ik zal blij zijn.",
+    "example": "future: zullen + infinitive, pushed to the end"
+  },
+  {
+    "id": 76,
+    "term": "I will read this book.",
+    "definition": "Ik zal dit boek lezen.",
+    "example": "zal...lezen"
+  },
+  {
+    "id": 77,
+    "term": "We will go to the cinema.",
+    "definition": "Wij zullen naar de bioscoop gaan.",
+    "example": "zullen...gaan"
+  },
+  {
+    "id": 78,
+    "term": "She will call you tomorrow.",
+    "definition": "Zij zal je morgen bellen.",
+    "example": "zal...bellen, with the object pronoun tucked in the middle"
+  },
+  {
+    "id": 79,
+    "term": "They will not come.",
+    "definition": "Zij zullen niet komen.",
+    "example": "future negated the same simple way: niet"
+  },
+  {
+    "id": 80,
+    "term": "I will help you.",
+    "definition": "Ik zal je helpen.",
+    "example": "'helpen' just takes a plain object here — no special case to worry about"
+  },
+  {
+    "id": 81,
+    "term": "Where do you live?",
+    "definition": "Waar woon je?",
+    "example": "question word 'waar' (where), verb stays 2nd"
+  },
+  {
+    "id": 82,
+    "term": "What is your name?",
+    "definition": "Hoe heet je?",
+    "example": "idiomatic: 'heten' (to be named)"
+  },
+  {
+    "id": 83,
+    "term": "How old are you?",
+    "definition": "Hoe oud ben je?",
+    "example": "Dutch uses 'zijn' (to be) here, not 'hebben'"
+  },
+  {
+    "id": 84,
+    "term": "Why are you sad?",
+    "definition": "Waarom ben je verdrietig?",
+    "example": "question word 'waarom' (why)"
+  },
+  {
+    "id": 85,
+    "term": "When does the train leave?",
+    "definition": "Wanneer vertrekt de trein?",
+    "example": "question word 'wanneer' (when)"
+  },
+  {
+    "id": 86,
+    "term": "Who is this?",
+    "definition": "Wie is dit?",
+    "example": "question word 'wie' (who)"
+  },
+  {
+    "id": 87,
+    "term": "What are you doing?",
+    "definition": "Wat doe je?",
+    "example": "question word 'wat' (what)"
+  },
+  {
+    "id": 88,
+    "term": "Do you speak English?",
+    "definition": "Spreek je Engels?",
+    "example": "verb-first question again"
+  },
+  {
+    "id": 89,
+    "term": "I have one brother.",
+    "definition": "Ik heb één broer.",
+    "example": "'één' (one), written with accents to distinguish it from the article 'een'"
+  },
+  {
+    "id": 90,
+    "term": "I have two brothers.",
+    "definition": "Ik heb twee broers.",
+    "example": "plural: broer → broers"
+  },
+  {
+    "id": 91,
+    "term": "I have five brothers.",
+    "definition": "Ik heb vijf broers.",
+    "example": "same plural form whatever the number"
+  },
+  {
+    "id": 92,
+    "term": "I see two cats.",
+    "definition": "Ik zie twee katten.",
+    "example": "plural: kat → katten"
+  },
+  {
+    "id": 93,
+    "term": "I see five cats.",
+    "definition": "Ik zie vijf katten.",
+    "example": "again, nothing changes with a bigger number"
+  },
+  {
+    "id": 94,
+    "term": "This book is bigger than that one.",
+    "definition": "Dit boek is groter dan dat boek.",
+    "example": "comparative: groter dan"
+  },
+  {
+    "id": 95,
+    "term": "She is the tallest in the class.",
+    "definition": "Zij is de langste van de klas.",
+    "example": "superlative: de langste"
+  },
+  {
+    "id": 96,
+    "term": "I like tea more than coffee.",
+    "definition": "Ik hou meer van thee dan van koffie.",
+    "example": "'houden van' needs its own 'van' before EACH thing compared"
+  },
+  {
+    "id": 97,
+    "term": "It's the best day of my life.",
+    "definition": "Het is de beste dag van mijn leven.",
+    "example": "irregular superlative: goed → beste, not 'meest goed'"
+  },
+  {
+    "id": 98,
+    "term": "I like cats.",
+    "definition": "Ik hou van katten.",
+    "example": "no article needed for a general plural"
+  },
+  {
+    "id": 99,
+    "term": "She is my best friend.",
+    "definition": "Zij is mijn beste vriendin.",
+    "example": "'beste' stays the same for any gender"
+  },
+  {
+    "id": 100,
+    "term": "I have a headache.",
+    "definition": "Ik heb hoofdpijn.",
+    "example": "idiom: the compound noun 'hoofdpijn' (head-pain), no article"
+  }
+];
+window.QM_SENTENCES_CS_DATA = [
+  {
+    "id": 1,
+    "term": "I am a teacher.",
+    "definition": "Jsem učitelem.",
+    "example": "a profession after 'být' takes the instrumental: učitel → učitelem"
+  },
+  {
+    "id": 2,
+    "term": "I am a woman.",
+    "definition": "Jsem žena.",
+    "example": "not a role/profession, so it stays in the nominative — contrast #1"
+  },
+  {
+    "id": 3,
+    "term": "You are a good friend.",
+    "definition": "Jsi dobrý přítel.",
+    "example": "also nominative here; adjective agrees masculine: dobrý"
+  },
+  {
+    "id": 4,
+    "term": "He is a doctor.",
+    "definition": "Je lékařem.",
+    "example": "profession again, instrumental: lékař → lékařem"
+  },
+  {
+    "id": 5,
+    "term": "She is a nurse.",
+    "definition": "Je zdravotní sestrou.",
+    "example": "instrumental, feminine: sestra → sestrou"
+  },
+  {
+    "id": 6,
+    "term": "We are friends.",
+    "definition": "Jsme přátelé.",
+    "example": "irregular plural of přítel: přátelé"
+  },
+  {
+    "id": 7,
+    "term": "You (plural) are students.",
+    "definition": "Jste studenti.",
+    "example": "nominative plural: studenti"
+  },
+  {
+    "id": 8,
+    "term": "They are teachers. (mixed or male group)",
+    "definition": "Jsou učiteli.",
+    "example": "instrumental plural: učitelé → učiteli"
+  },
+  {
+    "id": 9,
+    "term": "They are teachers. (all-female group)",
+    "definition": "Jsou učitelkami.",
+    "example": "instrumental plural, feminine: učitelky → učitelkami"
+  },
+  {
+    "id": 10,
+    "term": "I am not a teacher.",
+    "definition": "Nejsem učitelem.",
+    "example": "Czech negates by PREFIXING the verb — 'ne' + 'jsem' fuse into 'nejsem', not a separate word like some languages"
+  },
+  {
+    "id": 11,
+    "term": "This is a book.",
+    "definition": "To je kniha.",
+    "example": "'to je' (this/that is) points at something, whatever its actual gender"
+  },
+  {
+    "id": 12,
+    "term": "This is my house.",
+    "definition": "To je můj dům.",
+    "example": "possessive agrees with a masculine noun: můj dům"
+  },
+  {
+    "id": 13,
+    "term": "This is my car.",
+    "definition": "To je moje auto.",
+    "example": "possessive agrees with a neuter noun: moje auto"
+  },
+  {
+    "id": 14,
+    "term": "This is my sister.",
+    "definition": "To je moje sestra.",
+    "example": "possessive agrees with a feminine noun: moje sestra"
+  },
+  {
+    "id": 15,
+    "term": "This is your dog.",
+    "definition": "To je tvůj pes.",
+    "example": "'tvůj' (your, singular informal) + masculine noun"
+  },
+  {
+    "id": 16,
+    "term": "This is his cat.",
+    "definition": "To je jeho kočka.",
+    "example": "'jeho' (his) never changes, whatever the noun's gender"
+  },
+  {
+    "id": 17,
+    "term": "This is her book.",
+    "definition": "To je její kniha.",
+    "example": "'její' (her) is a different word from 'jeho' — Czech does track the owner's gender"
+  },
+  {
+    "id": 18,
+    "term": "This is our house.",
+    "definition": "To je náš dům.",
+    "example": "'náš' (our) + masculine noun"
+  },
+  {
+    "id": 19,
+    "term": "This is your (plural) apartment.",
+    "definition": "To je váš byt.",
+    "example": "'váš' (your, plural)"
+  },
+  {
+    "id": 20,
+    "term": "This is their car.",
+    "definition": "To je jejich auto.",
+    "example": "'jejich' (their) never changes"
+  },
+  {
+    "id": 21,
+    "term": "The big house is beautiful.",
+    "definition": "Velký dům je krásný.",
+    "example": "two adjectives agree with a masculine noun: velký, krásný"
+  },
+  {
+    "id": 22,
+    "term": "I have a dog.",
+    "definition": "Mám psa.",
+    "example": "accusative, animate masculine: pes → psa"
+  },
+  {
+    "id": 23,
+    "term": "I have a car.",
+    "definition": "Mám auto.",
+    "example": "neuter accusative looks the same as the nominative: auto"
+  },
+  {
+    "id": 24,
+    "term": "I have a sister.",
+    "definition": "Mám sestru.",
+    "example": "accusative, feminine: sestra → sestru"
+  },
+  {
+    "id": 25,
+    "term": "I have a book.",
+    "definition": "Mám knihu.",
+    "example": "accusative, feminine: kniha → knihu"
+  },
+  {
+    "id": 26,
+    "term": "Do you have time?",
+    "definition": "Máš čas?",
+    "example": "no extra word needed for a question — just the word order and a question mark"
+  },
+  {
+    "id": 27,
+    "term": "He has a new phone.",
+    "definition": "Má nový telefon.",
+    "example": "masculine inanimate accusative matches the nominative: nový telefon"
+  },
+  {
+    "id": 28,
+    "term": "We have two children.",
+    "definition": "Máme dvě děti.",
+    "example": "'děti' (children) — a collective plural of dítě"
+  },
+  {
+    "id": 29,
+    "term": "They have a big house.",
+    "definition": "Mají velký dům.",
+    "example": "accusative here also matches nominative: velký dům"
+  },
+  {
+    "id": 30,
+    "term": "I don't have a car.",
+    "definition": "Nemám auto.",
+    "example": "modern Czech KEEPS the accusative under negation — unlike Polish, which always shifts it to genitive"
+  },
+  {
+    "id": 31,
+    "term": "I don't have time.",
+    "definition": "Nemám čas.",
+    "example": "accusative retained: čas, not the older genitive 'času'"
+  },
+  {
+    "id": 32,
+    "term": "I don't have a sister.",
+    "definition": "Nemám sestru.",
+    "example": "accusative retained: sestru"
+  },
+  {
+    "id": 33,
+    "term": "She doesn't have a book.",
+    "definition": "Nemá knihu.",
+    "example": "accusative retained: knihu"
+  },
+  {
+    "id": 34,
+    "term": "We don't have money.",
+    "definition": "Nemáme peníze.",
+    "example": "accusative plural retained: peníze"
+  },
+  {
+    "id": 35,
+    "term": "There is no water.",
+    "definition": "Není voda.",
+    "example": "'voda' is the grammatical SUBJECT of 'není' (isn't), so it stays nominative — this isn't the accusative-under-negation rule at all"
+  },
+  {
+    "id": 36,
+    "term": "There is no problem.",
+    "definition": "Není problém.",
+    "example": "same pattern: problém stays nominative, as the subject"
+  },
+  {
+    "id": 37,
+    "term": "I don't know.",
+    "definition": "Nevím.",
+    "example": "'ne' + 'vím' fuse into one word again"
+  },
+  {
+    "id": 38,
+    "term": "I don't understand.",
+    "definition": "Nerozumím.",
+    "example": "same prefixed negation: ne + rozumím"
+  },
+  {
+    "id": 39,
+    "term": "I don't like coffee.",
+    "definition": "Nemám rád kávu.",
+    "example": "idiom: 'mít rád' (to like) is literally 'to have gladly'; kávu stays accusative"
+  },
+  {
+    "id": 40,
+    "term": "I live in Prague.",
+    "definition": "Bydlím v Praze.",
+    "example": "'v' (in) + locative: Praha → Praze"
+  },
+  {
+    "id": 41,
+    "term": "The book is on the table.",
+    "definition": "Kniha je na stole.",
+    "example": "'na' (on) + locative: stůl → stole"
+  },
+  {
+    "id": 42,
+    "term": "I am going to the store.",
+    "definition": "Jdu do obchodu.",
+    "example": "'do' (to) always takes the genitive: obchod → obchodu"
+  },
+  {
+    "id": 43,
+    "term": "She is coming back from school.",
+    "definition": "Vrací se ze školy.",
+    "example": "'z/ze' (from) + genitive: škola → školy"
+  },
+  {
+    "id": 44,
+    "term": "I am talking with my friend.",
+    "definition": "Mluvím se svým přítelem.",
+    "example": "'s/se' (with) + instrumental: přítel → přítelem"
+  },
+  {
+    "id": 45,
+    "term": "This gift is for you.",
+    "definition": "Tento dárek je pro tebe.",
+    "example": "'pro' (for) + accusative pronoun: ty → tebe"
+  },
+  {
+    "id": 46,
+    "term": "We are walking through the park.",
+    "definition": "Jdeme přes park.",
+    "example": "'přes' (through) + accusative: park (unchanged, masculine inanimate)"
+  },
+  {
+    "id": 47,
+    "term": "The cat is under the table.",
+    "definition": "Kočka je pod stolem.",
+    "example": "'pod' (under) + instrumental: stůl → stolem"
+  },
+  {
+    "id": 48,
+    "term": "The lamp is above the table.",
+    "definition": "Lampa je nad stolem.",
+    "example": "'nad' (above) also takes the instrumental"
+  },
+  {
+    "id": 49,
+    "term": "I am waiting for the bus.",
+    "definition": "Čekám na autobus.",
+    "example": "'čekat na' (wait for) + accusative: autobus"
+  },
+  {
+    "id": 50,
+    "term": "He works at the university.",
+    "definition": "Pracuje na univerzitě.",
+    "example": "'na' (at) + locative: univerzita → univerzitě"
+  },
+  {
+    "id": 51,
+    "term": "I am thinking about you.",
+    "definition": "Myslím na tebe.",
+    "example": "'myslet na' (think about) + accusative: tebe"
+  },
+  {
+    "id": 52,
+    "term": "Between the house and the garden.",
+    "definition": "Mezi domem a zahradou.",
+    "example": "'mezi' (between) + instrumental twice: dům → domem, zahrada → zahradou"
+  },
+  {
+    "id": 53,
+    "term": "I am going home.",
+    "definition": "Jdu domů.",
+    "example": "'domů' (homeward) is its own fixed adverb — not 'do domu'"
+  },
+  {
+    "id": 54,
+    "term": "The keys are in my bag.",
+    "definition": "Klíče jsou v mé tašce.",
+    "example": "'v' + locative + possessive agreement: má → mé, taška → tašce"
+  },
+  {
+    "id": 55,
+    "term": "She is standing next to the window.",
+    "definition": "Stojí vedle okna.",
+    "example": "'vedle' (next to) + genitive: okno → okna"
+  },
+  {
+    "id": 56,
+    "term": "After the meeting, we will go home.",
+    "definition": "Po schůzce půjdeme domů.",
+    "example": "'po' (after) + locative: schůzka → schůzce"
+  },
+  {
+    "id": 57,
+    "term": "I read books every day.",
+    "definition": "Každý den čtu knihy.",
+    "example": "1st person present of číst: čtu"
+  },
+  {
+    "id": 58,
+    "term": "You read a lot.",
+    "definition": "Hodně čteš.",
+    "example": "2nd person present: čteš"
+  },
+  {
+    "id": 59,
+    "term": "He writes letters.",
+    "definition": "Píše dopisy.",
+    "example": "3rd person present of psát: píše"
+  },
+  {
+    "id": 60,
+    "term": "We speak Czech.",
+    "definition": "Mluvíme česky.",
+    "example": "'česky' — the fixed adverbial way to say 'in Czech'"
+  },
+  {
+    "id": 61,
+    "term": "You (plural) watch TV.",
+    "definition": "Díváte se na televizi.",
+    "example": "reflexive 'dívat se na' (watch/look at) + accusative"
+  },
+  {
+    "id": 62,
+    "term": "They play football.",
+    "definition": "Hrají fotbal.",
+    "example": "no preposition needed before the sport — just the accusative object"
+  },
+  {
+    "id": 63,
+    "term": "I wake up at seven.",
+    "definition": "Budím se v sedm hodin.",
+    "example": "reflexive verb: budit se; clock time: v + accusative"
+  },
+  {
+    "id": 64,
+    "term": "She gets dressed quickly.",
+    "definition": "Rychle se obléká.",
+    "example": "reflexive verb: oblékat se"
+  },
+  {
+    "id": 65,
+    "term": "We are learning Czech.",
+    "definition": "Učíme se česky.",
+    "example": "'učit se' (learn) + the same adverb 'česky' as #60"
+  },
+  {
+    "id": 66,
+    "term": "I am not afraid.",
+    "definition": "Nebojím se.",
+    "example": "reflexive verb negated: bát se → nebojím se, prefix fused onto the verb"
+  },
+  {
+    "id": 67,
+    "term": "I was tired.",
+    "definition": "Byl jsem unavený.",
+    "example": "past tense, masculine: byl jsem"
+  },
+  {
+    "id": 68,
+    "term": "You were at home.",
+    "definition": "Byl jsi doma.",
+    "example": "past tense 2nd person masculine: byl jsi; 'doma' = at home"
+  },
+  {
+    "id": 69,
+    "term": "He was happy.",
+    "definition": "Byl šťastný.",
+    "example": "past tense 3rd person masculine: byl"
+  },
+  {
+    "id": 70,
+    "term": "We were in the Czech Republic last year.",
+    "definition": "Byli jsme minulý rok v Česku.",
+    "example": "past tense plural: byli jsme; locative: Česko → Česku"
+  },
+  {
+    "id": 71,
+    "term": "I read that book. (and finished it)",
+    "definition": "Přečetl jsem tu knihu.",
+    "example": "completed-action (perfective) past: přečetl jsem"
+  },
+  {
+    "id": 72,
+    "term": "She wrote a letter.",
+    "definition": "Napsala dopis.",
+    "example": "perfective past, feminine: napsala"
+  },
+  {
+    "id": 73,
+    "term": "We ate dinner.",
+    "definition": "Povečeřeli jsme.",
+    "example": "perfective past, plural: povečeřeli jsme"
+  },
+  {
+    "id": 74,
+    "term": "They didn't come.",
+    "definition": "Nepřišli.",
+    "example": "past tense negation, prefixed: ne + přišli"
+  },
+  {
+    "id": 75,
+    "term": "I will be happy.",
+    "definition": "Budu šťastný.",
+    "example": "future of být: budu"
+  },
+  {
+    "id": 76,
+    "term": "I will read this book. (and finish it)",
+    "definition": "Přečtu tuto knihu.",
+    "example": "completed-action verbs make their own future with no auxiliary: přečtu"
+  },
+  {
+    "id": 77,
+    "term": "We will go to the cinema.",
+    "definition": "Půjdeme do kina.",
+    "example": "future of jít (go); genitive: kino → kina"
+  },
+  {
+    "id": 78,
+    "term": "She will call you tomorrow.",
+    "definition": "Zítra ti zavolá.",
+    "example": "'volat komu' (call someone) takes the dative: ty → ti"
+  },
+  {
+    "id": 79,
+    "term": "They will not come.",
+    "definition": "Nepřijdou.",
+    "example": "future negation, same prefixed pattern"
+  },
+  {
+    "id": 80,
+    "term": "I will help you.",
+    "definition": "Pomůžu ti.",
+    "example": "'pomoct' (help) takes the dative, not the accusative: ty → ti"
+  },
+  {
+    "id": 81,
+    "term": "Where do you live?",
+    "definition": "Kde bydlíš?",
+    "example": "question word 'kde' (where) simply opens the sentence"
+  },
+  {
+    "id": 82,
+    "term": "What is your name?",
+    "definition": "Jak se jmenuješ?",
+    "example": "idiomatic reflexive: jmenovat se, literally 'how do you name yourself'"
+  },
+  {
+    "id": 83,
+    "term": "How old are you?",
+    "definition": "Kolik je ti let?",
+    "example": "idiomatic: literally 'how many years are to you' — dative + genitive plural 'let'"
+  },
+  {
+    "id": 84,
+    "term": "Why are you sad?",
+    "definition": "Proč jsi smutný?",
+    "example": "question word 'proč' (why)"
+  },
+  {
+    "id": 85,
+    "term": "When does the train leave?",
+    "definition": "Kdy odjíždí vlak?",
+    "example": "question word 'kdy' (when)"
+  },
+  {
+    "id": 86,
+    "term": "Who is this?",
+    "definition": "Kdo je to?",
+    "example": "question word 'kdo' (who)"
+  },
+  {
+    "id": 87,
+    "term": "What are you doing?",
+    "definition": "Co děláš?",
+    "example": "question word 'co' (what)"
+  },
+  {
+    "id": 88,
+    "term": "Do you speak English?",
+    "definition": "Mluvíš anglicky?",
+    "example": "same 'anglicky' adverb pattern as 'česky'"
+  },
+  {
+    "id": 89,
+    "term": "I have one brother.",
+    "definition": "Mám jednoho bratra.",
+    "example": "'jeden' (one) agrees like an adjective + accusative animate: bratr → bratra"
+  },
+  {
+    "id": 90,
+    "term": "I have two brothers.",
+    "definition": "Mám dva bratry.",
+    "example": "2–4 pattern: dva + bratry"
+  },
+  {
+    "id": 91,
+    "term": "I have five brothers.",
+    "definition": "Mám pět bratrů.",
+    "example": "5 and up: genitive plural, bratrů"
+  },
+  {
+    "id": 92,
+    "term": "I see two cats.",
+    "definition": "Vidím dvě kočky.",
+    "example": "2–4 pattern, feminine: dvě + kočky"
+  },
+  {
+    "id": 93,
+    "term": "I see five cats.",
+    "definition": "Vidím pět koček.",
+    "example": "5 and up: genitive plural, koček"
+  },
+  {
+    "id": 94,
+    "term": "This book is bigger than that one.",
+    "definition": "Tato kniha je větší než tamta.",
+    "example": "comparative: větší, comparison with 'než'"
+  },
+  {
+    "id": 95,
+    "term": "She is the tallest in the class.",
+    "definition": "Je nejvyšší ve třídě.",
+    "example": "superlative: nej- prefix on the comparative"
+  },
+  {
+    "id": 96,
+    "term": "This is more interesting than that.",
+    "definition": "To je zajímavější než tamto.",
+    "example": "comparative, neuter: zajímavější"
+  },
+  {
+    "id": 97,
+    "term": "I like tea more than coffee.",
+    "definition": "Mám raději čaj než kávu.",
+    "example": "'raději' (more, for preferences) pairs with 'mít rád'"
+  },
+  {
+    "id": 98,
+    "term": "It's the best day of my life.",
+    "definition": "Je to nejlepší den mého života.",
+    "example": "irregular superlative: dobrý → nejlepší; genitive: mého života"
+  },
+  {
+    "id": 99,
+    "term": "I like cats.",
+    "definition": "Mám rád kočky.",
+    "example": "no article needed at all — Czech has none"
+  },
+  {
+    "id": 100,
+    "term": "I have a headache.",
+    "definition": "Bolí mě hlava.",
+    "example": "'bolet' — the body part is the subject, the person is accusative: mě"
+  }
+];
+window.QM_SENTENCES_UK_DATA = [
+  {
+    "id": 1,
+    "term": "I am a teacher.",
+    "definition": "Я вчитель.",
+    "example": "Ukrainian drops 'to be' entirely in the present tense — no verb needed at all"
+  },
+  {
+    "id": 2,
+    "term": "I am a woman.",
+    "definition": "Я жінка.",
+    "example": "same zero-copula pattern: just pronoun + noun"
+  },
+  {
+    "id": 3,
+    "term": "You are a good friend.",
+    "definition": "Ти хороший друг.",
+    "example": "still no verb; adjective agrees masculine: хороший"
+  },
+  {
+    "id": 4,
+    "term": "He is a doctor.",
+    "definition": "Він лікар.",
+    "example": "zero copula again"
+  },
+  {
+    "id": 5,
+    "term": "She is a nurse.",
+    "definition": "Вона медсестра.",
+    "example": "same pattern"
+  },
+  {
+    "id": 6,
+    "term": "We are friends.",
+    "definition": "Ми друзі.",
+    "example": "zero copula, plural"
+  },
+  {
+    "id": 7,
+    "term": "You (plural) are students.",
+    "definition": "Ви студенти.",
+    "example": "zero copula"
+  },
+  {
+    "id": 8,
+    "term": "They are teachers. (mixed or male group)",
+    "definition": "Вони вчителі.",
+    "example": "'вони' (they) works for any mix of genders"
+  },
+  {
+    "id": 9,
+    "term": "They are teachers. (all-female group)",
+    "definition": "Вони вчительки.",
+    "example": "same pronoun 'вони' — the feminine plural NOUN marks it: вчителька → вчительки"
+  },
+  {
+    "id": 10,
+    "term": "I am not a teacher.",
+    "definition": "Я не вчитель.",
+    "example": "with no verb to negate, 'не' just goes right before the noun"
+  },
+  {
+    "id": 11,
+    "term": "This is a book.",
+    "definition": "Це книга.",
+    "example": "'це' (this/it) points at something, whatever its actual gender"
+  },
+  {
+    "id": 12,
+    "term": "This is my house.",
+    "definition": "Це мій будинок.",
+    "example": "possessive agrees with a masculine noun: мій будинок"
+  },
+  {
+    "id": 13,
+    "term": "This is my car.",
+    "definition": "Це моя машина.",
+    "example": "possessive agrees with a feminine noun: моя машина"
+  },
+  {
+    "id": 14,
+    "term": "This is my sister.",
+    "definition": "Це моя сестра.",
+    "example": "same feminine agreement"
+  },
+  {
+    "id": 15,
+    "term": "This is your dog.",
+    "definition": "Це твій собака.",
+    "example": "'твій' (your, informal) + masculine noun"
+  },
+  {
+    "id": 16,
+    "term": "This is his cat.",
+    "definition": "Це його кіт.",
+    "example": "'його' (his) never changes, whatever the noun's gender"
+  },
+  {
+    "id": 17,
+    "term": "This is her book.",
+    "definition": "Це її книга.",
+    "example": "'її' (her) is a different word from 'його' — Ukrainian does track the owner's gender"
+  },
+  {
+    "id": 18,
+    "term": "This is our house.",
+    "definition": "Це наш будинок.",
+    "example": "'наш' (our)"
+  },
+  {
+    "id": 19,
+    "term": "This is your (plural) apartment.",
+    "definition": "Це ваша квартира.",
+    "example": "'ваша' (your, plural) agreeing feminine"
+  },
+  {
+    "id": 20,
+    "term": "This is their car.",
+    "definition": "Це їхня машина.",
+    "example": "'їхня' (their) agreeing feminine"
+  },
+  {
+    "id": 21,
+    "term": "The big house is beautiful.",
+    "definition": "Великий будинок гарний.",
+    "example": "zero copula again; both adjectives agree masculine: великий, гарний"
+  },
+  {
+    "id": 22,
+    "term": "I have a dog.",
+    "definition": "Я маю собаку.",
+    "example": "accusative: собака → собаку"
+  },
+  {
+    "id": 23,
+    "term": "I have a car.",
+    "definition": "Я маю машину.",
+    "example": "accusative, feminine: машина → машину"
+  },
+  {
+    "id": 24,
+    "term": "I have a sister.",
+    "definition": "Я маю сестру.",
+    "example": "accusative: сестра → сестру"
+  },
+  {
+    "id": 25,
+    "term": "I have a book.",
+    "definition": "Я маю книгу.",
+    "example": "accusative: книга → книгу"
+  },
+  {
+    "id": 26,
+    "term": "Do you have time?",
+    "definition": "Ти маєш час?",
+    "example": "2nd person singular of мати: маєш"
+  },
+  {
+    "id": 27,
+    "term": "He has a new phone.",
+    "definition": "Він має новий телефон.",
+    "example": "3rd person singular: має"
+  },
+  {
+    "id": 28,
+    "term": "We have two children.",
+    "definition": "Ми маємо двоє дітей.",
+    "example": "collective numeral 'двоє' for children + genitive plural: дітей"
+  },
+  {
+    "id": 29,
+    "term": "They have a big house.",
+    "definition": "Вони мають великий будинок.",
+    "example": "3rd person plural: мають"
+  },
+  {
+    "id": 30,
+    "term": "I don't have a car.",
+    "definition": "Я не маю машини.",
+    "example": "negation shifts the object to genitive: машину → машини"
+  },
+  {
+    "id": 31,
+    "term": "I don't have time.",
+    "definition": "Я не маю часу.",
+    "example": "genitive after negation: час → часу"
+  },
+  {
+    "id": 32,
+    "term": "I don't have a sister.",
+    "definition": "Я не маю сестри.",
+    "example": "genitive: сестра → сестри"
+  },
+  {
+    "id": 33,
+    "term": "She doesn't have a book.",
+    "definition": "Вона не має книги.",
+    "example": "genitive: книга → книги"
+  },
+  {
+    "id": 34,
+    "term": "We don't have money.",
+    "definition": "Ми не маємо грошей.",
+    "example": "genitive plural: гроші → грошей"
+  },
+  {
+    "id": 35,
+    "term": "There is no water.",
+    "definition": "Немає води.",
+    "example": "impersonal 'немає' (there isn't) always takes the genitive: вода → води"
+  },
+  {
+    "id": 36,
+    "term": "There is no problem.",
+    "definition": "Немає проблеми.",
+    "example": "same 'немає' + genitive pattern"
+  },
+  {
+    "id": 37,
+    "term": "I don't know.",
+    "definition": "Я не знаю.",
+    "example": "plain verb negation, no case change (intransitive)"
+  },
+  {
+    "id": 38,
+    "term": "I don't understand.",
+    "definition": "Я не розумію.",
+    "example": "same simple negation"
+  },
+  {
+    "id": 39,
+    "term": "I don't like coffee.",
+    "definition": "Я не люблю кави.",
+    "example": "'любити' takes the accusative (люблю каву), but negation shifts it to genitive: кави"
+  },
+  {
+    "id": 40,
+    "term": "I live in Kyiv.",
+    "definition": "Я живу в Києві.",
+    "example": "'в' (in) + locative: Київ → Києві"
+  },
+  {
+    "id": 41,
+    "term": "The book is on the table.",
+    "definition": "Книга на столі.",
+    "example": "zero copula; 'на' (on) + locative: стіл → столі"
+  },
+  {
+    "id": 42,
+    "term": "I am going to the store.",
+    "definition": "Я йду до магазину.",
+    "example": "'до' (to) always takes the genitive: магазин → магазину"
+  },
+  {
+    "id": 43,
+    "term": "She is coming back from school.",
+    "definition": "Вона повертається зі школи.",
+    "example": "'з/зі' (from) + genitive: школа → школи"
+  },
+  {
+    "id": 44,
+    "term": "I am talking with my friend.",
+    "definition": "Я розмовляю зі своїм другом.",
+    "example": "'з/зі' (with) here takes the instrumental instead: друг → другом"
+  },
+  {
+    "id": 45,
+    "term": "This gift is for you.",
+    "definition": "Цей подарунок для тебе.",
+    "example": "zero copula; 'для' (for) + genitive pronoun: ти → тебе"
+  },
+  {
+    "id": 46,
+    "term": "We are walking through the park.",
+    "definition": "Ми йдемо через парк.",
+    "example": "'через' (through) + accusative: парк (unchanged)"
+  },
+  {
+    "id": 47,
+    "term": "The cat is under the table.",
+    "definition": "Кіт під столом.",
+    "example": "zero copula; 'під' (under) + instrumental: стіл → столом"
+  },
+  {
+    "id": 48,
+    "term": "The lamp is above the table.",
+    "definition": "Лампа над столом.",
+    "example": "'над' (above) also takes the instrumental"
+  },
+  {
+    "id": 49,
+    "term": "I am waiting for the bus.",
+    "definition": "Я чекаю на автобус.",
+    "example": "'чекати на' (wait for) + accusative: автобус"
+  },
+  {
+    "id": 50,
+    "term": "He works at the university.",
+    "definition": "Він працює в університеті.",
+    "example": "'в' (at) + locative: університет → університеті"
+  },
+  {
+    "id": 51,
+    "term": "I am thinking about you.",
+    "definition": "Я думаю про тебе.",
+    "example": "'думати про' (think about) + accusative: тебе"
+  },
+  {
+    "id": 52,
+    "term": "Between the house and the garden.",
+    "definition": "Між будинком і садом.",
+    "example": "'між' (between) + instrumental twice: будинок → будинком, сад → садом"
+  },
+  {
+    "id": 53,
+    "term": "I am going home.",
+    "definition": "Я йду додому.",
+    "example": "'додому' (homeward) is its own fixed adverb"
+  },
+  {
+    "id": 54,
+    "term": "The keys are in my bag.",
+    "definition": "Ключі в моїй сумці.",
+    "example": "zero copula; 'в' + locative + possessive agreement: моя → моїй, сумка → сумці"
+  },
+  {
+    "id": 55,
+    "term": "She is standing next to the window.",
+    "definition": "Вона стоїть біля вікна.",
+    "example": "'біля' (next to) + genitive: вікно → вікна"
+  },
+  {
+    "id": 56,
+    "term": "After the meeting, we will go home.",
+    "definition": "Після зустрічі ми підемо додому.",
+    "example": "'після' (after) + genitive: зустріч → зустрічі"
+  },
+  {
+    "id": 57,
+    "term": "I read books every day.",
+    "definition": "Я читаю книги щодня.",
+    "example": "1st person present of читати: читаю"
+  },
+  {
+    "id": 58,
+    "term": "You read a lot.",
+    "definition": "Ти багато читаєш.",
+    "example": "2nd person present: читаєш"
+  },
+  {
+    "id": 59,
+    "term": "He writes letters.",
+    "definition": "Він пише листи.",
+    "example": "3rd person present of писати: пише"
+  },
+  {
+    "id": 60,
+    "term": "We speak Ukrainian.",
+    "definition": "Ми розмовляємо українською.",
+    "example": "'in [a language]' takes the INSTRUMENTAL in Ukrainian: українською"
+  },
+  {
+    "id": 61,
+    "term": "You (plural) watch TV.",
+    "definition": "Ви дивитеся телевізор.",
+    "example": "'дивитися' (watch) + accusative object"
+  },
+  {
+    "id": 62,
+    "term": "They play football.",
+    "definition": "Вони грають у футбол.",
+    "example": "'грати у' (play) + accusative: футбол"
+  },
+  {
+    "id": 63,
+    "term": "I wake up at seven.",
+    "definition": "Я прокидаюся о сьомій.",
+    "example": "reflexive verb: прокидатися; clock time: о + locative"
+  },
+  {
+    "id": 64,
+    "term": "She gets dressed quickly.",
+    "definition": "Вона швидко одягається.",
+    "example": "reflexive verb: одягатися"
+  },
+  {
+    "id": 65,
+    "term": "We are learning Ukrainian.",
+    "definition": "Ми вивчаємо українську.",
+    "example": "here the language name is the direct object, so it's accusative instead: українську"
+  },
+  {
+    "id": 66,
+    "term": "I am not afraid.",
+    "definition": "Я не боюся.",
+    "example": "reflexive verb negated: боятися → не боюся"
+  },
+  {
+    "id": 67,
+    "term": "I was tired.",
+    "definition": "Я був втомлений.",
+    "example": "past tense of бути DOES appear (unlike the present): був"
+  },
+  {
+    "id": 68,
+    "term": "You were at home.",
+    "definition": "Ти був удома.",
+    "example": "past tense, masculine: був; 'удома' = at home"
+  },
+  {
+    "id": 69,
+    "term": "He was happy.",
+    "definition": "Він був щасливий.",
+    "example": "past tense: був"
+  },
+  {
+    "id": 70,
+    "term": "We were in Ukraine last year.",
+    "definition": "Ми були в Україні минулого року.",
+    "example": "past tense plural: були; locative: Україна → Україні"
+  },
+  {
+    "id": 71,
+    "term": "I read that book. (and finished it)",
+    "definition": "Я прочитав цю книгу.",
+    "example": "completed-action (perfective) past: прочитав"
+  },
+  {
+    "id": 72,
+    "term": "She wrote a letter.",
+    "definition": "Вона написала лист.",
+    "example": "perfective past, feminine: написала"
+  },
+  {
+    "id": 73,
+    "term": "We ate dinner.",
+    "definition": "Ми повечеряли.",
+    "example": "perfective past, plural: повечеряли"
+  },
+  {
+    "id": 74,
+    "term": "They didn't come.",
+    "definition": "Вони не прийшли.",
+    "example": "past tense negation: не прийшли"
+  },
+  {
+    "id": 75,
+    "term": "I will be happy.",
+    "definition": "Я буду щасливий.",
+    "example": "future of бути DOES exist, even though the present tense doesn't: буду"
+  },
+  {
+    "id": 76,
+    "term": "I will read this book. (and finish it)",
+    "definition": "Я прочитаю цю книгу.",
+    "example": "completed-action verbs make their own future, no auxiliary: прочитаю"
+  },
+  {
+    "id": 77,
+    "term": "We will go to the cinema.",
+    "definition": "Ми підемо в кіно.",
+    "example": "'кіно' is a borrowed, indeclinable noun — it never changes form in any case"
+  },
+  {
+    "id": 78,
+    "term": "She will call you tomorrow.",
+    "definition": "Вона зателефонує тобі завтра.",
+    "example": "'телефонувати' (call) takes the dative: ти → тобі"
+  },
+  {
+    "id": 79,
+    "term": "They will not come.",
+    "definition": "Вони не прийдуть.",
+    "example": "future negation, same simple pattern"
+  },
+  {
+    "id": 80,
+    "term": "I will help you.",
+    "definition": "Я допоможу тобі.",
+    "example": "'допомогти' (help) takes the dative, not the accusative: тобі"
+  },
+  {
+    "id": 81,
+    "term": "Where do you live?",
+    "definition": "Де ти живеш?",
+    "example": "question word 'де' (where)"
+  },
+  {
+    "id": 82,
+    "term": "What is your name?",
+    "definition": "Як тебе звати?",
+    "example": "idiomatic: literally 'how are you called', accusative тебе"
+  },
+  {
+    "id": 83,
+    "term": "How old are you?",
+    "definition": "Скільки тобі років?",
+    "example": "idiomatic: literally 'how many years to you' — dative + genitive plural років"
+  },
+  {
+    "id": 84,
+    "term": "Why are you sad?",
+    "definition": "Чому ти сумний?",
+    "example": "zero copula; question word 'чому' (why)"
+  },
+  {
+    "id": 85,
+    "term": "When does the train leave?",
+    "definition": "Коли відправляється потяг?",
+    "example": "question word 'коли' (when)"
+  },
+  {
+    "id": 86,
+    "term": "Who is this?",
+    "definition": "Хто це?",
+    "example": "zero copula; question word 'хто' (who)"
+  },
+  {
+    "id": 87,
+    "term": "What are you doing?",
+    "definition": "Що ти робиш?",
+    "example": "question word 'що' (what)"
+  },
+  {
+    "id": 88,
+    "term": "Do you speak English?",
+    "definition": "Ти розмовляєш англійською?",
+    "example": "the same instrumental language-adverb as #60: англійською"
+  },
+  {
+    "id": 89,
+    "term": "I have one brother.",
+    "definition": "Я маю одного брата.",
+    "example": "'один' (one) agrees like an adjective + accusative animate: брат → брата"
+  },
+  {
+    "id": 90,
+    "term": "I have two brothers.",
+    "definition": "Я маю двох братів.",
+    "example": "counting people uses the genitive-shaped form: двох + братів"
+  },
+  {
+    "id": 91,
+    "term": "I have five brothers.",
+    "definition": "Я маю п'ять братів.",
+    "example": "5 and up: genitive plural, братів"
+  },
+  {
+    "id": 92,
+    "term": "I see two cats.",
+    "definition": "Я бачу двох котів.",
+    "example": "animate nouns like 'кіт' take this same genitive-shaped form: двох котів"
+  },
+  {
+    "id": 93,
+    "term": "I see five cats.",
+    "definition": "Я бачу п'ять котів.",
+    "example": "5 and up again: genitive plural, котів"
+  },
+  {
+    "id": 94,
+    "term": "This book is bigger than that one.",
+    "definition": "Ця книга більша за ту.",
+    "example": "comparative: більша; 'за' + accusative is a common way to say 'than'"
+  },
+  {
+    "id": 95,
+    "term": "She is the tallest in the class.",
+    "definition": "Вона найвища в класі.",
+    "example": "superlative: 'най-' prefixed onto the comparative"
+  },
+  {
+    "id": 96,
+    "term": "I like tea more than coffee.",
+    "definition": "Мені більше подобається чай, ніж кава.",
+    "example": "'подобатися' works backwards — the thing liked is the subject, 'мені' (to me) is who likes it"
+  },
+  {
+    "id": 97,
+    "term": "It's the best day of my life.",
+    "definition": "Це найкращий день мого життя.",
+    "example": "irregular superlative: найкращий; genitive: мого життя"
+  },
+  {
+    "id": 98,
+    "term": "I like cats.",
+    "definition": "Мені подобаються коти.",
+    "example": "'подобатися' agrees PLURAL here, matching the plural subject: подобаються"
+  },
+  {
+    "id": 99,
+    "term": "She is my best friend.",
+    "definition": "Вона моя найкраща подруга.",
+    "example": "zero copula; 'найкраща' agrees feminine"
+  },
+  {
+    "id": 100,
+    "term": "I have a headache.",
+    "definition": "У мене болить голова.",
+    "example": "'у мене' (at me) + 'болить' (hurts) — the head stays the grammatical subject, unlike some other languages' accusative-person pattern"
+  }
+];
+window.QM_SENTENCES_RO_DATA = [
+  {
+    "id": 1,
+    "term": "I am a teacher.",
+    "definition": "Sunt profesor.",
+    "example": "no article before an unmodified profession after 'a fi'"
+  },
+  {
+    "id": 2,
+    "term": "I am a woman.",
+    "definition": "Sunt o femeie.",
+    "example": "not a profession, so the article is back: o femeie"
+  },
+  {
+    "id": 3,
+    "term": "You are a good friend.",
+    "definition": "Ești un prieten bun.",
+    "example": "'bun' (good) follows the noun, as most Romanian adjectives do"
+  },
+  {
+    "id": 4,
+    "term": "He is a doctor.",
+    "definition": "Este doctor.",
+    "example": "profession again, still no article"
+  },
+  {
+    "id": 5,
+    "term": "She is a nurse.",
+    "definition": "Este asistentă medicală.",
+    "example": "feminine profession phrase, still no article"
+  },
+  {
+    "id": 6,
+    "term": "We are friends.",
+    "definition": "Suntem prieteni.",
+    "example": "1st person plural of a fi: suntem"
+  },
+  {
+    "id": 7,
+    "term": "You (plural) are students.",
+    "definition": "Sunteți studenți.",
+    "example": "2nd person plural: sunteți"
+  },
+  {
+    "id": 8,
+    "term": "They are teachers. (mixed or male group)",
+    "definition": "Ei sunt profesori.",
+    "example": "'ei' for a mixed or all-male group"
+  },
+  {
+    "id": 9,
+    "term": "They are teachers. (all-female group)",
+    "definition": "Ele sunt profesoare.",
+    "example": "'ele' for an all-female group, and the feminine noun: profesoare"
+  },
+  {
+    "id": 10,
+    "term": "I am not a teacher.",
+    "definition": "Nu sunt profesor.",
+    "example": "negation: 'nu' right before the verb — no case shift needed, unlike some languages"
+  },
+  {
+    "id": 11,
+    "term": "This is a book.",
+    "definition": "Aceasta este o carte.",
+    "example": "the demonstrative agrees feminine with 'carte': aceasta"
+  },
+  {
+    "id": 12,
+    "term": "This is my house.",
+    "definition": "Aceasta este casa mea.",
+    "example": "the defining Romanian trick: the ARTICLE ATTACHES TO THE END of the noun — casă → casa (the house), then the possessive follows"
+  },
+  {
+    "id": 13,
+    "term": "This is my car.",
+    "definition": "Aceasta este mașina mea.",
+    "example": "same pattern: mașină → mașina + mea"
+  },
+  {
+    "id": 14,
+    "term": "This is my sister.",
+    "definition": "Aceasta este sora mea.",
+    "example": "soră → sora + mea"
+  },
+  {
+    "id": 15,
+    "term": "This is your dog.",
+    "definition": "Acesta este câinele tău.",
+    "example": "masculine noun, same suffixed-article pattern: câine → câinele"
+  },
+  {
+    "id": 16,
+    "term": "This is his cat.",
+    "definition": "Aceasta este pisica lui.",
+    "example": "'lui' (his) never changes, whatever the noun's gender"
+  },
+  {
+    "id": 17,
+    "term": "This is her book.",
+    "definition": "Aceasta este cartea ei.",
+    "example": "carte → cartea + 'ei' (her)"
+  },
+  {
+    "id": 18,
+    "term": "This is our house.",
+    "definition": "Aceasta este casa noastră.",
+    "example": "'noastră' (our) agrees feminine"
+  },
+  {
+    "id": 19,
+    "term": "This is your (plural) apartment.",
+    "definition": "Acesta este apartamentul vostru.",
+    "example": "apartament → apartamentul + 'vostru' (your, plural)"
+  },
+  {
+    "id": 20,
+    "term": "This is their car.",
+    "definition": "Aceasta este mașina lor.",
+    "example": "'lor' (their) never changes either"
+  },
+  {
+    "id": 21,
+    "term": "The big house is beautiful.",
+    "definition": "Casa mare este frumoasă.",
+    "example": "'mare' (big) follows the noun; 'frumoasă' agrees feminine"
+  },
+  {
+    "id": 22,
+    "term": "I have a dog.",
+    "definition": "Am un câine.",
+    "example": "a avea (to have), 1st person: am"
+  },
+  {
+    "id": 23,
+    "term": "I have a car.",
+    "definition": "Am o mașină.",
+    "example": "feminine indefinite article: o"
+  },
+  {
+    "id": 24,
+    "term": "I have a sister.",
+    "definition": "Am o soră.",
+    "example": "same feminine article: o"
+  },
+  {
+    "id": 25,
+    "term": "I have a book.",
+    "definition": "Am o carte.",
+    "example": "'o' again"
+  },
+  {
+    "id": 26,
+    "term": "Do you have time?",
+    "definition": "Ai timp?",
+    "example": "no extra word needed for a question — just intonation"
+  },
+  {
+    "id": 27,
+    "term": "He has a new phone.",
+    "definition": "Are un telefon nou.",
+    "example": "'nou' (new) follows the noun"
+  },
+  {
+    "id": 28,
+    "term": "We have two children.",
+    "definition": "Avem doi copii.",
+    "example": "'copii' covers a mixed-gender group of children"
+  },
+  {
+    "id": 29,
+    "term": "They have a big house.",
+    "definition": "Au o casă mare.",
+    "example": "3rd person plural of a avea: au"
+  },
+  {
+    "id": 30,
+    "term": "I don't have a car.",
+    "definition": "Nu am mașină.",
+    "example": "the article is usually dropped for a generic negated noun"
+  },
+  {
+    "id": 31,
+    "term": "I don't have time.",
+    "definition": "Nu am timp.",
+    "example": "same simple pattern"
+  },
+  {
+    "id": 32,
+    "term": "I don't have a sister.",
+    "definition": "Nu am soră.",
+    "example": "article dropped again"
+  },
+  {
+    "id": 33,
+    "term": "She doesn't have a book.",
+    "definition": "Nu are carte.",
+    "example": "article dropped"
+  },
+  {
+    "id": 34,
+    "term": "We don't have money.",
+    "definition": "Nu avem bani.",
+    "example": "'bani' (money) is a plural-only noun"
+  },
+  {
+    "id": 35,
+    "term": "There is no water.",
+    "definition": "Nu este apă.",
+    "example": "'nu este' (there isn't), plain negation"
+  },
+  {
+    "id": 36,
+    "term": "There is no problem.",
+    "definition": "Nu e nicio problemă.",
+    "example": "'nicio' (not any) — a stronger, very common way to say 'no...at all'"
+  },
+  {
+    "id": 37,
+    "term": "I don't know.",
+    "definition": "Nu știu.",
+    "example": "plain negation, no object needed"
+  },
+  {
+    "id": 38,
+    "term": "I don't understand.",
+    "definition": "Nu înțeleg.",
+    "example": "same shape"
+  },
+  {
+    "id": 39,
+    "term": "I don't like coffee.",
+    "definition": "Nu îmi place cafeaua.",
+    "example": "'a plăcea' works backwards from English: coffee is the subject, 'îmi' (to me) is who likes it"
+  },
+  {
+    "id": 40,
+    "term": "I live in Bucharest.",
+    "definition": "Locuiesc în București.",
+    "example": "'în' + city name, no article"
+  },
+  {
+    "id": 41,
+    "term": "The book is on the table.",
+    "definition": "Cartea este pe masă.",
+    "example": "'pe' (on) needs no special case ending, unlike many other languages' prepositions"
+  },
+  {
+    "id": 42,
+    "term": "I am going to the store.",
+    "definition": "Merg la magazin.",
+    "example": "'la' (to/at) — one of the most common Romanian prepositions"
+  },
+  {
+    "id": 43,
+    "term": "She is coming back from school.",
+    "definition": "Se întoarce de la școală.",
+    "example": "'de la' = from"
+  },
+  {
+    "id": 44,
+    "term": "I am talking with my friend.",
+    "definition": "Vorbesc cu prietenul meu.",
+    "example": "'cu' (with) + the definite noun and possessive"
+  },
+  {
+    "id": 45,
+    "term": "This gift is for you.",
+    "definition": "Acest cadou este pentru tine.",
+    "example": "'pentru' (for) + the standalone pronoun 'tine'"
+  },
+  {
+    "id": 46,
+    "term": "We are walking through the park.",
+    "definition": "Mergem prin parc.",
+    "example": "'prin' = through"
+  },
+  {
+    "id": 47,
+    "term": "The cat is under the table.",
+    "definition": "Pisica este sub masă.",
+    "example": "'sub' (under) needs no special ending either"
+  },
+  {
+    "id": 48,
+    "term": "The lamp is above the table.",
+    "definition": "Lampa este deasupra mesei.",
+    "example": "'deasupra' is one of the few prepositions that DOES need a case ending: masă → mesei"
+  },
+  {
+    "id": 49,
+    "term": "I am waiting for the bus.",
+    "definition": "Aștept autobuzul.",
+    "example": "'a aștepta' already means 'wait for' — no preposition needed"
+  },
+  {
+    "id": 50,
+    "term": "He works at the university.",
+    "definition": "Lucrează la universitate.",
+    "example": "'la' covers 'at' here too"
+  },
+  {
+    "id": 51,
+    "term": "I am thinking about you.",
+    "definition": "Mă gândesc la tine.",
+    "example": "'a se gândi la' (think about) + the standalone pronoun"
+  },
+  {
+    "id": 52,
+    "term": "Between the house and the garden.",
+    "definition": "Între casă și grădină.",
+    "example": "'între' (between)"
+  },
+  {
+    "id": 53,
+    "term": "I am going home.",
+    "definition": "Merg acasă.",
+    "example": "'acasă' (homeward) is its own fixed word — no preposition at all"
+  },
+  {
+    "id": 54,
+    "term": "The keys are in my bag.",
+    "definition": "Cheile sunt în geanta mea.",
+    "example": "definite plural: cheile; definite + possessive: geanta mea"
+  },
+  {
+    "id": 55,
+    "term": "She is standing next to the window.",
+    "definition": "Stă lângă fereastră.",
+    "example": "'lângă' (next to)"
+  },
+  {
+    "id": 56,
+    "term": "After the meeting, we will go home.",
+    "definition": "După ședință, mergem acasă.",
+    "example": "'după' (after) + noun"
+  },
+  {
+    "id": 57,
+    "term": "I read books every day.",
+    "definition": "Citesc cărți în fiecare zi.",
+    "example": "1st person present of a citi: citesc"
+  },
+  {
+    "id": 58,
+    "term": "You read a lot.",
+    "definition": "Citești mult.",
+    "example": "2nd person present: citești"
+  },
+  {
+    "id": 59,
+    "term": "He writes letters.",
+    "definition": "Scrie scrisori.",
+    "example": "3rd person present of a scrie: scrie"
+  },
+  {
+    "id": 60,
+    "term": "We speak Romanian.",
+    "definition": "Vorbim română.",
+    "example": "no article before the language name"
+  },
+  {
+    "id": 61,
+    "term": "You (plural) watch TV.",
+    "definition": "Voi vă uitați la televizor.",
+    "example": "'a se uita la' (watch/look at) is reflexive"
+  },
+  {
+    "id": 62,
+    "term": "They play football.",
+    "definition": "Ei joacă fotbal.",
+    "example": "3rd plural present: joacă"
+  },
+  {
+    "id": 63,
+    "term": "I wake up at seven.",
+    "definition": "Mă trezesc la ora șapte.",
+    "example": "reflexive verb: a se trezi; clock time: la ora + number"
+  },
+  {
+    "id": 64,
+    "term": "She gets dressed quickly.",
+    "definition": "Se îmbracă repede.",
+    "example": "reflexive verb: a se îmbrăca"
+  },
+  {
+    "id": 65,
+    "term": "We are learning Romanian.",
+    "definition": "Învățăm română.",
+    "example": "same no-article pattern as #60"
+  },
+  {
+    "id": 66,
+    "term": "I am not afraid.",
+    "definition": "Nu mi-e frică.",
+    "example": "idiom: 'mi-e frică' (I'm afraid) is literally 'to me is fear'"
+  },
+  {
+    "id": 67,
+    "term": "I was tired.",
+    "definition": "Eram obosit.",
+    "example": "imperfect of a fi: eram"
+  },
+  {
+    "id": 68,
+    "term": "You were at home.",
+    "definition": "Erai acasă.",
+    "example": "imperfect, 2nd person: erai"
+  },
+  {
+    "id": 69,
+    "term": "He was happy.",
+    "definition": "Era fericit.",
+    "example": "imperfect, 3rd person: era"
+  },
+  {
+    "id": 70,
+    "term": "We were in Romania last year.",
+    "definition": "Anul trecut eram în România.",
+    "example": "imperfect, 1st plural: eram"
+  },
+  {
+    "id": 71,
+    "term": "I read that book. (and finished it)",
+    "definition": "Am citit cartea aceea.",
+    "example": "perfect compus with 'avea': am citit"
+  },
+  {
+    "id": 72,
+    "term": "She wrote a letter.",
+    "definition": "A scris o scrisoare.",
+    "example": "perfect compus, 3rd person: a scris"
+  },
+  {
+    "id": 73,
+    "term": "We ate dinner.",
+    "definition": "Am cinat.",
+    "example": "perfect compus: am cinat"
+  },
+  {
+    "id": 74,
+    "term": "They didn't come.",
+    "definition": "Nu au venit.",
+    "example": "unlike French/Italian, Romanian uses 'avea' for EVERY perfect compus, even motion verbs — no auxiliary switching to worry about"
+  },
+  {
+    "id": 75,
+    "term": "I will be happy.",
+    "definition": "Voi fi fericit.",
+    "example": "future: voi + infinitive"
+  },
+  {
+    "id": 76,
+    "term": "I will read this book.",
+    "definition": "Voi citi această carte.",
+    "example": "voi + infinitive: voi citi"
+  },
+  {
+    "id": 77,
+    "term": "We will go to the cinema.",
+    "definition": "Vom merge la cinema.",
+    "example": "vom + infinitive: vom merge"
+  },
+  {
+    "id": 78,
+    "term": "She will call you tomorrow.",
+    "definition": "Te va suna mâine.",
+    "example": "the object pronoun 'te' comes BEFORE the verb"
+  },
+  {
+    "id": 79,
+    "term": "They will not come.",
+    "definition": "Nu vor veni.",
+    "example": "future negated the same simple way: nu"
+  },
+  {
+    "id": 80,
+    "term": "I will help you.",
+    "definition": "Te voi ajuta.",
+    "example": "voi + infinitive, with the pronoun 'te' out front"
+  },
+  {
+    "id": 81,
+    "term": "Where do you live?",
+    "definition": "Unde locuiești?",
+    "example": "question word 'unde' (where)"
+  },
+  {
+    "id": 82,
+    "term": "What is your name?",
+    "definition": "Cum te cheamă?",
+    "example": "idiomatic: literally 'how does it call you'"
+  },
+  {
+    "id": 83,
+    "term": "How old are you?",
+    "definition": "Câți ani ai?",
+    "example": "idiomatic: 'ai' (have) + years, like several other languages"
+  },
+  {
+    "id": 84,
+    "term": "Why are you sad?",
+    "definition": "De ce ești trist?",
+    "example": "question phrase 'de ce' (why)"
+  },
+  {
+    "id": 85,
+    "term": "When does the train leave?",
+    "definition": "Când pleacă trenul?",
+    "example": "question word 'când' (when)"
+  },
+  {
+    "id": 86,
+    "term": "Who is this?",
+    "definition": "Cine este acesta?",
+    "example": "question word 'cine' (who)"
+  },
+  {
+    "id": 87,
+    "term": "What are you doing?",
+    "definition": "Ce faci?",
+    "example": "question word 'ce' (what)"
+  },
+  {
+    "id": 88,
+    "term": "Do you speak English?",
+    "definition": "Vorbești engleză?",
+    "example": "same shape as #26"
+  },
+  {
+    "id": 89,
+    "term": "I have one brother.",
+    "definition": "Am un frate.",
+    "example": "'un' before a masculine singular noun"
+  },
+  {
+    "id": 90,
+    "term": "I have two brothers.",
+    "definition": "Am doi frați.",
+    "example": "plural: frate → frați"
+  },
+  {
+    "id": 91,
+    "term": "I have five brothers.",
+    "definition": "Am cinci frați.",
+    "example": "same plural form whatever the number — no extra case rule to learn"
+  },
+  {
+    "id": 92,
+    "term": "I see two cats.",
+    "definition": "Văd două pisici.",
+    "example": "plural: pisică → pisici"
+  },
+  {
+    "id": 93,
+    "term": "I see five cats.",
+    "definition": "Văd cinci pisici.",
+    "example": "again, nothing changes with a bigger number"
+  },
+  {
+    "id": 94,
+    "term": "This book is bigger than that one.",
+    "definition": "Această carte este mai mare decât aceea.",
+    "example": "comparative: mai mare decât"
+  },
+  {
+    "id": 95,
+    "term": "She is the tallest in the class.",
+    "definition": "Este cea mai înaltă din clasă.",
+    "example": "superlative: cea mai + adjective"
+  },
+  {
+    "id": 96,
+    "term": "I like tea more than coffee.",
+    "definition": "Îmi place mai mult ceaiul decât cafeaua.",
+    "example": "'a plăcea' + mai mult...decât"
+  },
+  {
+    "id": 97,
+    "term": "It's the best day of my life.",
+    "definition": "Este cea mai bună zi din viața mea.",
+    "example": "unlike several other languages, Romanian's superlative for 'good' is perfectly regular: cea mai bună"
+  },
+  {
+    "id": 98,
+    "term": "I like cats.",
+    "definition": "Îmi plac pisicile.",
+    "example": "'a plăcea' agrees PLURAL here: plac, matching the definite plural subject"
+  },
+  {
+    "id": 99,
+    "term": "She is my best friend.",
+    "definition": "Este cea mai bună prietenă a mea.",
+    "example": "the little linking word 'a' connects a possessive to a noun that already has other modifiers"
+  },
+  {
+    "id": 100,
+    "term": "I have a headache.",
+    "definition": "Mă doare capul.",
+    "example": "'a durea' — literally 'the head hurts me'; the body part takes the definite article: capul"
+  }
+];
+window.QM_SENTENCES_LT_DATA = [
+  {
+    "id": 1,
+    "term": "I am a teacher.",
+    "definition": "Aš esu mokytojas.",
+    "example": "a profession after 'būti' just stays in the nominative — simpler than some related languages"
+  },
+  {
+    "id": 2,
+    "term": "I am a woman.",
+    "definition": "Aš esu moteris.",
+    "example": "same nominative pattern"
+  },
+  {
+    "id": 3,
+    "term": "You are a good friend.",
+    "definition": "Tu esi geras draugas.",
+    "example": "adjective agrees masculine: geras"
+  },
+  {
+    "id": 4,
+    "term": "He is a doctor.",
+    "definition": "Jis yra gydytojas.",
+    "example": "3rd person of būti: yra"
+  },
+  {
+    "id": 5,
+    "term": "She is a nurse.",
+    "definition": "Ji yra slaugytoja.",
+    "example": "feminine profession noun"
+  },
+  {
+    "id": 6,
+    "term": "We are friends.",
+    "definition": "Mes esame draugai.",
+    "example": "1st person plural: esame"
+  },
+  {
+    "id": 7,
+    "term": "You (plural) are students.",
+    "definition": "Jūs esate studentai.",
+    "example": "2nd person plural: esate"
+  },
+  {
+    "id": 8,
+    "term": "They are teachers. (mixed or male group)",
+    "definition": "Jie yra mokytojai.",
+    "example": "'jie' for a mixed or all-male group"
+  },
+  {
+    "id": 9,
+    "term": "They are teachers. (all-female group)",
+    "definition": "Jos yra mokytojos.",
+    "example": "'jos' — a separate word for an all-female 'they', plus the feminine noun: mokytojos"
+  },
+  {
+    "id": 10,
+    "term": "I am not a teacher.",
+    "definition": "Aš nesu mokytojas.",
+    "example": "negation is a PREFIX fused onto the verb: ne + esu → nesu"
+  },
+  {
+    "id": 11,
+    "term": "This is a book.",
+    "definition": "Tai yra knyga.",
+    "example": "'tai' (this/it) points at something, whatever its actual gender"
+  },
+  {
+    "id": 12,
+    "term": "This is my house.",
+    "definition": "Tai mano namas.",
+    "example": "'mano' (my) NEVER changes form, whatever the noun"
+  },
+  {
+    "id": 13,
+    "term": "This is my car.",
+    "definition": "Tai mano automobilis.",
+    "example": "same invariable 'mano'"
+  },
+  {
+    "id": 14,
+    "term": "This is my sister.",
+    "definition": "Tai mano sesuo.",
+    "example": "'mano' again"
+  },
+  {
+    "id": 15,
+    "term": "This is your dog.",
+    "definition": "Tai tavo šuo.",
+    "example": "'tavo' (your, informal) — also invariable"
+  },
+  {
+    "id": 16,
+    "term": "This is his cat.",
+    "definition": "Tai jo katė.",
+    "example": "'jo' (his)"
+  },
+  {
+    "id": 17,
+    "term": "This is her book.",
+    "definition": "Tai jos knyga.",
+    "example": "'jos' (her) — a different word from 'jo'"
+  },
+  {
+    "id": 18,
+    "term": "This is our house.",
+    "definition": "Tai mūsų namas.",
+    "example": "'mūsų' (our), invariable like all the others"
+  },
+  {
+    "id": 19,
+    "term": "This is your (plural) apartment.",
+    "definition": "Tai jūsų butas.",
+    "example": "'jūsų' (your, plural)"
+  },
+  {
+    "id": 20,
+    "term": "This is their car.",
+    "definition": "Tai jų automobilis.",
+    "example": "'jų' (their)"
+  },
+  {
+    "id": 21,
+    "term": "The big house is beautiful.",
+    "definition": "Didelis namas yra gražus.",
+    "example": "two adjectives agree with a masculine noun: didelis, gražus"
+  },
+  {
+    "id": 22,
+    "term": "I have a dog.",
+    "definition": "Aš turiu šunį.",
+    "example": "accusative: šuo → šunį"
+  },
+  {
+    "id": 23,
+    "term": "I have a car.",
+    "definition": "Aš turiu automobilį.",
+    "example": "accusative: automobilis → automobilį"
+  },
+  {
+    "id": 24,
+    "term": "I have a sister.",
+    "definition": "Aš turiu seserį.",
+    "example": "accusative: sesuo → seserį"
+  },
+  {
+    "id": 25,
+    "term": "I have a book.",
+    "definition": "Aš turiu knygą.",
+    "example": "accusative: knyga → knygą"
+  },
+  {
+    "id": 26,
+    "term": "Do you have time?",
+    "definition": "Ar tu turi laiko?",
+    "example": "'laiko' — Lithuanian idiomatically uses the genitive here, even with no negation involved"
+  },
+  {
+    "id": 27,
+    "term": "He has a new phone.",
+    "definition": "Jis turi naują telefoną.",
+    "example": "accusative adjective + noun: naują telefoną"
+  },
+  {
+    "id": 28,
+    "term": "We have two children.",
+    "definition": "Mes turime du vaikus.",
+    "example": "'du' (two) + accusative plural: vaikus"
+  },
+  {
+    "id": 29,
+    "term": "They have a big house.",
+    "definition": "Jie turi didelį namą.",
+    "example": "accusative: didelį namą"
+  },
+  {
+    "id": 30,
+    "term": "I don't have a car.",
+    "definition": "Aš neturiu automobilio.",
+    "example": "negation shifts the object to genitive: automobilį → automobilio"
+  },
+  {
+    "id": 31,
+    "term": "I don't have time.",
+    "definition": "Aš neturiu laiko.",
+    "example": "still genitive, same as the affirmative #26"
+  },
+  {
+    "id": 32,
+    "term": "I don't have a sister.",
+    "definition": "Aš neturiu sesers.",
+    "example": "genitive: sesuo → sesers"
+  },
+  {
+    "id": 33,
+    "term": "She doesn't have a book.",
+    "definition": "Ji neturi knygos.",
+    "example": "genitive: knyga → knygos"
+  },
+  {
+    "id": 34,
+    "term": "We don't have money.",
+    "definition": "Mes neturime pinigų.",
+    "example": "genitive plural: pinigai → pinigų"
+  },
+  {
+    "id": 35,
+    "term": "There is no water.",
+    "definition": "Nėra vandens.",
+    "example": "'nėra' (there isn't) always takes the genitive: vanduo → vandens"
+  },
+  {
+    "id": 36,
+    "term": "There is no problem.",
+    "definition": "Nėra problemos.",
+    "example": "same 'nėra' + genitive pattern"
+  },
+  {
+    "id": 37,
+    "term": "I don't know.",
+    "definition": "Aš nežinau.",
+    "example": "the same prefixed negation: ne + žinau"
+  },
+  {
+    "id": 38,
+    "term": "I don't understand.",
+    "definition": "Aš nesuprantu.",
+    "example": "ne + suprantu"
+  },
+  {
+    "id": 39,
+    "term": "I don't like coffee.",
+    "definition": "Man nepatinka kava.",
+    "example": "'patikti' works backwards — coffee is the subject (stays nominative), 'man' (to me) is who likes it"
+  },
+  {
+    "id": 40,
+    "term": "I live in Vilnius.",
+    "definition": "Aš gyvenu Vilniuje.",
+    "example": "no preposition at all — Lithuanian marks 'in a place' with the bare locative case: Vilnius → Vilniuje"
+  },
+  {
+    "id": 41,
+    "term": "The book is on the table.",
+    "definition": "Knyga yra ant stalo.",
+    "example": "'ant' (on) + genitive: stalas → stalo"
+  },
+  {
+    "id": 42,
+    "term": "I am going to the store.",
+    "definition": "Aš einu į parduotuvę.",
+    "example": "'į' (to/into) + accusative: parduotuvė → parduotuvę"
+  },
+  {
+    "id": 43,
+    "term": "She is coming back from school.",
+    "definition": "Ji grįžta iš mokyklos.",
+    "example": "'iš' (from/out of) + genitive: mokykla → mokyklos"
+  },
+  {
+    "id": 44,
+    "term": "I am talking with my friend.",
+    "definition": "Aš kalbu su savo draugu.",
+    "example": "'su' (with) + instrumental: draugas → draugu"
+  },
+  {
+    "id": 45,
+    "term": "This gift is for you.",
+    "definition": "Ši dovana yra tau.",
+    "example": "the dative pronoun 'tau' can stand in for 'for you' with no preposition"
+  },
+  {
+    "id": 46,
+    "term": "We are walking through the park.",
+    "definition": "Mes einame per parką.",
+    "example": "'per' (through) + accusative: parkas → parką"
+  },
+  {
+    "id": 47,
+    "term": "The cat is under the table.",
+    "definition": "Katė yra po stalu.",
+    "example": "'po' (under), a fixed location: instrumental, stalas → stalu"
+  },
+  {
+    "id": 48,
+    "term": "The lamp is above the table.",
+    "definition": "Lempa yra virš stalo.",
+    "example": "'virš' (above) + genitive: stalas → stalo"
+  },
+  {
+    "id": 49,
+    "term": "I am waiting for the bus.",
+    "definition": "Aš laukiu autobuso.",
+    "example": "'laukti' (wait for) governs the genitive directly — no preposition needed"
+  },
+  {
+    "id": 50,
+    "term": "He works at the university.",
+    "definition": "Jis dirba universitete.",
+    "example": "bare locative again, no preposition: universitetas → universitete"
+  },
+  {
+    "id": 51,
+    "term": "I am thinking about you.",
+    "definition": "Aš galvoju apie tave.",
+    "example": "'apie' (about) + accusative: tu → tave"
+  },
+  {
+    "id": 52,
+    "term": "Between the house and the garden.",
+    "definition": "Tarp namo ir sodo.",
+    "example": "'tarp' (between) + genitive twice: namas → namo, sodas → sodo"
+  },
+  {
+    "id": 53,
+    "term": "I am going home.",
+    "definition": "Aš einu namo.",
+    "example": "'namo' (homeward) is its own special word, different from 'namas' (house)"
+  },
+  {
+    "id": 54,
+    "term": "The keys are in my bag.",
+    "definition": "Raktai yra mano krepšyje.",
+    "example": "bare locative: krepšys → krepšyje"
+  },
+  {
+    "id": 55,
+    "term": "She is standing next to the window.",
+    "definition": "Ji stovi šalia lango.",
+    "example": "'šalia' (next to) + genitive: langas → lango"
+  },
+  {
+    "id": 56,
+    "term": "After the meeting, we will go home.",
+    "definition": "Po susitikimo mes eisime namo.",
+    "example": "'po' meaning 'after' (not 'under') takes the genitive: susitikimas → susitikimo"
+  },
+  {
+    "id": 57,
+    "term": "I read books every day.",
+    "definition": "Aš skaitau knygas kiekvieną dieną.",
+    "example": "1st person present of skaityti: skaitau"
+  },
+  {
+    "id": 58,
+    "term": "You read a lot.",
+    "definition": "Tu skaitai daug.",
+    "example": "2nd person present: skaitai"
+  },
+  {
+    "id": 59,
+    "term": "He writes letters.",
+    "definition": "Jis rašo laiškus.",
+    "example": "3rd person present of rašyti: rašo"
+  },
+  {
+    "id": 60,
+    "term": "We speak Lithuanian.",
+    "definition": "Mes kalbame lietuviškai.",
+    "example": "'lietuviškai' — the fixed adverbial way to say 'in Lithuanian'"
+  },
+  {
+    "id": 61,
+    "term": "You (plural) watch TV.",
+    "definition": "Jūs žiūrite televizorių.",
+    "example": "'žiūrėti' (watch) + accusative object"
+  },
+  {
+    "id": 62,
+    "term": "They play football.",
+    "definition": "Jie žaidžia futbolą.",
+    "example": "no preposition needed before the sport — just the accusative"
+  },
+  {
+    "id": 63,
+    "term": "I wake up at seven.",
+    "definition": "Aš keliuosi septintą valandą.",
+    "example": "reflexive verb: keltis; clock time is accusative here: septintą valandą"
+  },
+  {
+    "id": 64,
+    "term": "She gets dressed quickly.",
+    "definition": "Ji greitai rengiasi.",
+    "example": "reflexive verb: rengtis"
+  },
+  {
+    "id": 65,
+    "term": "We are learning Lithuanian.",
+    "definition": "Mes mokomės lietuvių kalbos.",
+    "example": "reflexive 'mokytis' (learn) + genitive: literally 'of the Lithuanian language'"
+  },
+  {
+    "id": 66,
+    "term": "I am not afraid.",
+    "definition": "Aš nebijau.",
+    "example": "prefixed negation: ne + bijau"
+  },
+  {
+    "id": 67,
+    "term": "I was tired.",
+    "definition": "Aš buvau pavargęs.",
+    "example": "past tense of būti: buvau"
+  },
+  {
+    "id": 68,
+    "term": "You were at home.",
+    "definition": "Tu buvai namie.",
+    "example": "past, 2nd person: buvai; 'namie' = at home"
+  },
+  {
+    "id": 69,
+    "term": "He was happy.",
+    "definition": "Jis buvo laimingas.",
+    "example": "past, 3rd person: buvo"
+  },
+  {
+    "id": 70,
+    "term": "We were in Lithuania last year.",
+    "definition": "Mes buvome Lietuvoje praėjusiais metais.",
+    "example": "past plural: buvome; bare locative again: Lietuva → Lietuvoje"
+  },
+  {
+    "id": 71,
+    "term": "I read that book. (and finished it)",
+    "definition": "Aš perskaičiau tą knygą.",
+    "example": "the prefix 'per-' marks a completed action: skaityti → perskaityti"
+  },
+  {
+    "id": 72,
+    "term": "She wrote a letter.",
+    "definition": "Ji parašė laišką.",
+    "example": "completed-action past, feminine subject: parašė"
+  },
+  {
+    "id": 73,
+    "term": "We ate dinner.",
+    "definition": "Mes pavakarieniavome.",
+    "example": "completed-action past, plural: pavakarieniavome"
+  },
+  {
+    "id": 74,
+    "term": "They didn't come.",
+    "definition": "Jie neatėjo.",
+    "example": "past tense negation, still prefixed: ne + atėjo"
+  },
+  {
+    "id": 75,
+    "term": "I will be happy.",
+    "definition": "Aš būsiu laimingas.",
+    "example": "future of būti: būsiu"
+  },
+  {
+    "id": 76,
+    "term": "I will read this book. (and finish it)",
+    "definition": "Aš perskaitysiu šią knygą.",
+    "example": "future of the completed-action verb: perskaitysiu"
+  },
+  {
+    "id": 77,
+    "term": "We will go to the cinema.",
+    "definition": "Mes eisime į kiną.",
+    "example": "future: eisime; 'į' + accusative: kinas → kiną"
+  },
+  {
+    "id": 78,
+    "term": "She will call you tomorrow.",
+    "definition": "Ji paskambins tau rytoj.",
+    "example": "'skambinti' (call) takes the dative: tau"
+  },
+  {
+    "id": 79,
+    "term": "They will not come.",
+    "definition": "Jie neateis.",
+    "example": "future negation, same prefixed pattern"
+  },
+  {
+    "id": 80,
+    "term": "I will help you.",
+    "definition": "Aš tau padėsiu.",
+    "example": "'padėti' (help) takes the dative, not the accusative: tau"
+  },
+  {
+    "id": 81,
+    "term": "Where do you live?",
+    "definition": "Kur tu gyveni?",
+    "example": "question word 'kur' (where)"
+  },
+  {
+    "id": 82,
+    "term": "What is your name?",
+    "definition": "Koks tavo vardas?",
+    "example": "literally 'what [kind is] your name' — 'koks' agrees masculine with 'vardas'"
+  },
+  {
+    "id": 83,
+    "term": "How old are you?",
+    "definition": "Kiek tau metų?",
+    "example": "idiomatic: literally 'how many years to you' — dative + genitive plural 'metų'"
+  },
+  {
+    "id": 84,
+    "term": "Why are you sad?",
+    "definition": "Kodėl tu liūdnas?",
+    "example": "question word 'kodėl' (why)"
+  },
+  {
+    "id": 85,
+    "term": "When does the train leave?",
+    "definition": "Kada išvyksta traukinys?",
+    "example": "question word 'kada' (when)"
+  },
+  {
+    "id": 86,
+    "term": "Who is this?",
+    "definition": "Kas tai?",
+    "example": "question word 'kas' (who/what)"
+  },
+  {
+    "id": 87,
+    "term": "What are you doing?",
+    "definition": "Ką tu darai?",
+    "example": "'ką' — the accusative form of 'kas', since it's the object here"
+  },
+  {
+    "id": 88,
+    "term": "Do you speak English?",
+    "definition": "Ar tu kalbi angliškai?",
+    "example": "'ar' opens a yes/no question"
+  },
+  {
+    "id": 89,
+    "term": "I have one brother.",
+    "definition": "Aš turiu vieną brolį.",
+    "example": "accusative: vieną brolį"
+  },
+  {
+    "id": 90,
+    "term": "I have two brothers.",
+    "definition": "Aš turiu du brolius.",
+    "example": "'du' (two) + accusative plural: brolius"
+  },
+  {
+    "id": 91,
+    "term": "I have five brothers.",
+    "definition": "Aš turiu penkis brolius.",
+    "example": "unlike Slavic languages, Lithuanian numerals just AGREE with the sentence's case — still accusative plural, no genitive switch"
+  },
+  {
+    "id": 92,
+    "term": "I see two cats.",
+    "definition": "Aš matau dvi kates.",
+    "example": "'dvi' (two, feminine) + accusative plural: kates"
+  },
+  {
+    "id": 93,
+    "term": "I see five cats.",
+    "definition": "Aš matau penkias kates.",
+    "example": "same accusative pattern, whatever the number"
+  },
+  {
+    "id": 94,
+    "term": "This book is bigger than that one.",
+    "definition": "Ši knyga yra didesnė už tą.",
+    "example": "comparative: didesnė; 'už' + accusative for 'than'"
+  },
+  {
+    "id": 95,
+    "term": "She is the tallest in the class.",
+    "definition": "Ji yra aukščiausia klasėje.",
+    "example": "superlative: aukščiausia"
+  },
+  {
+    "id": 96,
+    "term": "I like tea more than coffee.",
+    "definition": "Man labiau patinka arbata nei kava.",
+    "example": "'labiau...nei' = 'more...than', wrapped around the 'patikti' construction"
+  },
+  {
+    "id": 97,
+    "term": "It's the best day of my life.",
+    "definition": "Tai geriausia mano gyvenimo diena.",
+    "example": "irregular superlative: geras → geriausia"
+  },
+  {
+    "id": 98,
+    "term": "I like cats.",
+    "definition": "Man patinka katės.",
+    "example": "'patinka' stays the same form whether the liked thing is singular or plural"
+  },
+  {
+    "id": 99,
+    "term": "She is my best friend.",
+    "definition": "Ji yra mano geriausia draugė.",
+    "example": "'geriausia' agrees feminine"
+  },
+  {
+    "id": 100,
+    "term": "I have a headache.",
+    "definition": "Man skauda galvą.",
+    "example": "'skaudėti' — the person is dative (man), but unlike some related languages, the body part is ACCUSATIVE: galvą"
+  }
+];
+window.QM_SENTENCES_HU_DATA = [
+  {
+    "id": 1,
+    "term": "I am a teacher.",
+    "definition": "Tanár vagyok.",
+    "example": "no article before a profession; 'vagyok' = I am"
+  },
+  {
+    "id": 2,
+    "term": "I am a woman.",
+    "definition": "Nő vagyok.",
+    "example": "same shape as #1"
+  },
+  {
+    "id": 3,
+    "term": "You are a good friend.",
+    "definition": "Jó barát vagy.",
+    "example": "'jó' (good) sits before the noun; 'vagy' = you are (informal)"
+  },
+  {
+    "id": 4,
+    "term": "He is a doctor.",
+    "definition": "Ő orvos.",
+    "example": "Hungarian DROPS 'is' entirely in the 3rd person: no 'van' here at all — and 'ő' covers both he and she, no gender"
+  },
+  {
+    "id": 5,
+    "term": "She is a nurse.",
+    "definition": "Ő nővér.",
+    "example": "same 'ő' as #4 — Hungarian pronouns never show gender"
+  },
+  {
+    "id": 6,
+    "term": "We are friends.",
+    "definition": "Barátok vagyunk.",
+    "example": "'vagyunk' = we are"
+  },
+  {
+    "id": 7,
+    "term": "You (plural) are students.",
+    "definition": "Diákok vagytok.",
+    "example": "'vagytok' = you all are"
+  },
+  {
+    "id": 8,
+    "term": "They are teachers.",
+    "definition": "Ők tanárok.",
+    "example": "zero copula again in the 3rd person plural — no 'vannak' needed for simple identity"
+  },
+  {
+    "id": 9,
+    "term": "The teachers are here.",
+    "definition": "A tanárok itt vannak.",
+    "example": "but 'van/vannak' IS required for location or existence — contrast #8"
+  },
+  {
+    "id": 10,
+    "term": "I am not a teacher.",
+    "definition": "Nem vagyok tanár.",
+    "example": "'nem' (not) simply goes before the verb"
+  },
+  {
+    "id": 11,
+    "term": "This is a book.",
+    "definition": "Ez egy könyv.",
+    "example": "'ez' (this) + 'egy' (a/an)"
+  },
+  {
+    "id": 12,
+    "term": "This is my house.",
+    "definition": "Ez az én házam.",
+    "example": "possession is a SUFFIX on the noun: ház (house) → házam (my house); the pronoun 'az én' is just emphasis"
+  },
+  {
+    "id": 13,
+    "term": "This is my car.",
+    "definition": "Ez az én autóm.",
+    "example": "same suffix pattern: autó → autóm"
+  },
+  {
+    "id": 14,
+    "term": "This is my sister.",
+    "definition": "Ez a nővérem.",
+    "example": "the emphatic pronoun can drop entirely — the suffix alone says 'my': nővér → nővérem"
+  },
+  {
+    "id": 15,
+    "term": "This is your dog.",
+    "definition": "Ez a kutyád.",
+    "example": "'your' is also just a suffix: kutya → kutyád"
+  },
+  {
+    "id": 16,
+    "term": "This is his cat.",
+    "definition": "Ez a macskája.",
+    "example": "'his/her' suffix: macska → macskája"
+  },
+  {
+    "id": 17,
+    "term": "This is her book.",
+    "definition": "Ez a könyve.",
+    "example": "same suffix as #16, könyv → könyve — Hungarian's 3rd-person possessive never shows the owner's gender, because nothing in the language does"
+  },
+  {
+    "id": 18,
+    "term": "This is our house.",
+    "definition": "Ez a házunk.",
+    "example": "'our' suffix: ház → házunk"
+  },
+  {
+    "id": 19,
+    "term": "This is your (plural) apartment.",
+    "definition": "Ez a lakásotok.",
+    "example": "'your (plural)' suffix: lakás → lakásotok"
+  },
+  {
+    "id": 20,
+    "term": "This is their car.",
+    "definition": "Ez az autójuk.",
+    "example": "'their' suffix: autó → autójuk"
+  },
+  {
+    "id": 21,
+    "term": "The big house is beautiful.",
+    "definition": "A nagy ház szép.",
+    "example": "zero copula once more — 'szép' alone is the whole predicate"
+  },
+  {
+    "id": 22,
+    "term": "I have a dog.",
+    "definition": "Van egy kutyám.",
+    "example": "Hungarian has no verb 'to have' at all — 'I have a dog' is literally 'there-is my-dog'"
+  },
+  {
+    "id": 23,
+    "term": "I have a car.",
+    "definition": "Van egy autóm.",
+    "example": "same van + possessive-suffixed noun pattern"
+  },
+  {
+    "id": 24,
+    "term": "I have a sister.",
+    "definition": "Van egy nővérem.",
+    "example": "van + nővérem"
+  },
+  {
+    "id": 25,
+    "term": "I have a book.",
+    "definition": "Van egy könyvem.",
+    "example": "van + könyvem"
+  },
+  {
+    "id": 26,
+    "term": "Do you have time?",
+    "definition": "Van időd?",
+    "example": "van + időd (your-time)"
+  },
+  {
+    "id": 27,
+    "term": "He has a new phone.",
+    "definition": "Van egy új telefonja.",
+    "example": "van + telefonja (his-phone); 'új' (new) precedes the noun"
+  },
+  {
+    "id": 28,
+    "term": "We have two children.",
+    "definition": "Két gyerekünk van.",
+    "example": "with a number, 'van' often moves to the end: 'two our-children there-is'"
+  },
+  {
+    "id": 29,
+    "term": "They have a big house.",
+    "definition": "Nagy házuk van.",
+    "example": "same end-placed 'van'"
+  },
+  {
+    "id": 30,
+    "term": "I don't have a car.",
+    "definition": "Nincs autóm.",
+    "example": "'nincs' is the special negative of 'van' (there isn't) — not 'nem van'"
+  },
+  {
+    "id": 31,
+    "term": "I don't have time.",
+    "definition": "Nincs időm.",
+    "example": "nincs + időm"
+  },
+  {
+    "id": 32,
+    "term": "I don't have a sister.",
+    "definition": "Nincs nővérem.",
+    "example": "nincs + nővérem"
+  },
+  {
+    "id": 33,
+    "term": "She doesn't have a book.",
+    "definition": "Nincs könyve.",
+    "example": "nincs + könyve (her-book)"
+  },
+  {
+    "id": 34,
+    "term": "We don't have money.",
+    "definition": "Nincs pénzünk.",
+    "example": "nincs + pénzünk (our-money)"
+  },
+  {
+    "id": 35,
+    "term": "There is no water.",
+    "definition": "Nincs víz.",
+    "example": "'nincs' alone, no possessive suffix needed here"
+  },
+  {
+    "id": 36,
+    "term": "There is no problem.",
+    "definition": "Nincs probléma.",
+    "example": "same bare 'nincs' pattern"
+  },
+  {
+    "id": 37,
+    "term": "I don't know.",
+    "definition": "Nem tudom.",
+    "example": "one of a handful of verbs Hungarians default to this form for, even with no object stated"
+  },
+  {
+    "id": 38,
+    "term": "I don't understand.",
+    "definition": "Nem értem.",
+    "example": "same everyday pattern as #37"
+  },
+  {
+    "id": 39,
+    "term": "I don't like coffee.",
+    "definition": "Nem szeretem a kávét.",
+    "example": "Hungarian verbs conjugate differently for a DEFINITE object — 'a kávét' (the coffee) triggers this '-em' form"
+  },
+  {
+    "id": 40,
+    "term": "I live in Budapest.",
+    "definition": "Budapesten élek.",
+    "example": "'in Budapest' is a SUFFIX, not a separate word: Budapest → Budapesten"
+  },
+  {
+    "id": 41,
+    "term": "The book is on the table.",
+    "definition": "A könyv az asztalon van.",
+    "example": "'on the table': asztal → asztalon; 'van' is needed here since this is a location"
+  },
+  {
+    "id": 42,
+    "term": "I am going to the store.",
+    "definition": "A boltba megyek.",
+    "example": "'into the store': bolt → boltba"
+  },
+  {
+    "id": 43,
+    "term": "She is coming back from school.",
+    "definition": "Visszajön az iskolából.",
+    "example": "'out of the school': iskola → iskolából"
+  },
+  {
+    "id": 44,
+    "term": "I am talking with my friend.",
+    "definition": "Beszélgetek a barátommal.",
+    "example": "'with my friend' is one more suffix: barátom (my friend) → barátommal"
+  },
+  {
+    "id": 45,
+    "term": "This gift is for you.",
+    "definition": "Ez az ajándék a tiéd.",
+    "example": "most naturally phrased as 'this gift is yours': a tiéd"
+  },
+  {
+    "id": 46,
+    "term": "We are walking through the park.",
+    "definition": "Sétálunk a parkon keresztül.",
+    "example": "'keresztül' (through) follows the suffixed noun: parkon"
+  },
+  {
+    "id": 47,
+    "term": "The cat is under the table.",
+    "definition": "A macska az asztal alatt van.",
+    "example": "'alatt' (under) — a postposition, following the noun instead of preceding it"
+  },
+  {
+    "id": 48,
+    "term": "The lamp is above the table.",
+    "definition": "A lámpa az asztal fölött van.",
+    "example": "'fölött' (above), also a postposition"
+  },
+  {
+    "id": 49,
+    "term": "I am waiting for the bus.",
+    "definition": "Várom a buszt.",
+    "example": "'várni' (wait for) is definite here too: várom, since 'a buszt' is definite"
+  },
+  {
+    "id": 50,
+    "term": "He works at the university.",
+    "definition": "Az egyetemen dolgozik.",
+    "example": "'at the university': egyetem → egyetemen"
+  },
+  {
+    "id": 51,
+    "term": "I am thinking about you.",
+    "definition": "Rád gondolok.",
+    "example": "'about you' fuses into one word: rád"
+  },
+  {
+    "id": 52,
+    "term": "Between the house and the garden.",
+    "definition": "A ház és a kert között.",
+    "example": "'között' (between), another postposition"
+  },
+  {
+    "id": 53,
+    "term": "I am going home.",
+    "definition": "Hazamegyek.",
+    "example": "'haza' (homeward) fuses right onto the verb: hazamegyek"
+  },
+  {
+    "id": 54,
+    "term": "The keys are in my bag.",
+    "definition": "A kulcsok a táskámban vannak.",
+    "example": "'in my bag': táska → táskámban (possessive suffix, then the 'in' suffix on top)"
+  },
+  {
+    "id": 55,
+    "term": "She is standing next to the window.",
+    "definition": "Az ablak mellett áll.",
+    "example": "'mellett' (next to), postposition"
+  },
+  {
+    "id": 56,
+    "term": "After the meeting, we will go home.",
+    "definition": "A megbeszélés után hazamegyünk.",
+    "example": "'után' (after), postposition"
+  },
+  {
+    "id": 57,
+    "term": "I read books every day.",
+    "definition": "Minden nap könyveket olvasok.",
+    "example": "indefinite conjugation here: olvasok — the books aren't a specific, definite set"
+  },
+  {
+    "id": 58,
+    "term": "You read a lot.",
+    "definition": "Sokat olvasol.",
+    "example": "indefinite, 2nd person: olvasol"
+  },
+  {
+    "id": 59,
+    "term": "He writes letters.",
+    "definition": "Leveleket ír.",
+    "example": "indefinite, 3rd person: ír"
+  },
+  {
+    "id": 60,
+    "term": "We speak Hungarian.",
+    "definition": "Magyarul beszélünk.",
+    "example": "'magyarul' — the fixed adverbial way to say 'in Hungarian'"
+  },
+  {
+    "id": 61,
+    "term": "You (plural) watch TV.",
+    "definition": "Tévét néztek.",
+    "example": "indefinite, 2nd plural: néztek"
+  },
+  {
+    "id": 62,
+    "term": "They play football.",
+    "definition": "Focit játszanak.",
+    "example": "indefinite, 3rd plural: játszanak"
+  },
+  {
+    "id": 63,
+    "term": "I wake up at seven.",
+    "definition": "Hétkor felkelek.",
+    "example": "'at seven': hét → hétkor; 'fel-' (up) prefixes the verb: felkelek"
+  },
+  {
+    "id": 64,
+    "term": "She gets dressed quickly.",
+    "definition": "Gyorsan felöltözik.",
+    "example": "another prefixed verb: felöltözni → felöltözik"
+  },
+  {
+    "id": 65,
+    "term": "We are learning Hungarian.",
+    "definition": "Magyarul tanulunk.",
+    "example": "same 'magyarul' as #60"
+  },
+  {
+    "id": 66,
+    "term": "I am not afraid.",
+    "definition": "Nem félek.",
+    "example": "'nem' + félek (I am afraid)"
+  },
+  {
+    "id": 67,
+    "term": "I was tired.",
+    "definition": "Fáradt voltam.",
+    "example": "past tense of van: voltam"
+  },
+  {
+    "id": 68,
+    "term": "You were at home.",
+    "definition": "Otthon voltál.",
+    "example": "past, 2nd person: voltál; 'otthon' = at home"
+  },
+  {
+    "id": 69,
+    "term": "He was happy.",
+    "definition": "Boldog volt.",
+    "example": "past, 3rd person: volt — note this one DOES appear, unlike the present-tense 'van'"
+  },
+  {
+    "id": 70,
+    "term": "We were in Hungary last year.",
+    "definition": "Tavaly Magyarországon voltunk.",
+    "example": "Hungary itself takes '-on', not the usual '-ban/-ben' most other countries take — a well-known exception"
+  },
+  {
+    "id": 71,
+    "term": "I read that book. (and finished it)",
+    "definition": "Elolvastam azt a könyvet.",
+    "example": "'el-' marks a completed action; definite conjugation since the object is definite: olvastam"
+  },
+  {
+    "id": 72,
+    "term": "She wrote a letter.",
+    "definition": "Írt egy levelet.",
+    "example": "INDEFINITE conjugation here — contrast #71 — since 'egy levelet' (a letter) isn't definite"
+  },
+  {
+    "id": 73,
+    "term": "We ate dinner.",
+    "definition": "Megvacsoráztunk.",
+    "example": "'meg-' completive prefix + vacsorázni (have dinner)"
+  },
+  {
+    "id": 74,
+    "term": "They didn't come.",
+    "definition": "Nem jöttek.",
+    "example": "past tense negation, plain 'nem'"
+  },
+  {
+    "id": 75,
+    "term": "I will be happy.",
+    "definition": "Boldog leszek.",
+    "example": "'leszek' — the irregular future of 'van'"
+  },
+  {
+    "id": 76,
+    "term": "I will read this book. (and finish it)",
+    "definition": "El fogom olvasni ezt a könyvet.",
+    "example": "future: fog + infinitive; since the book is definite, 'fog' itself takes the definite form: fogom"
+  },
+  {
+    "id": 77,
+    "term": "We will go to the cinema.",
+    "definition": "Moziba megyünk.",
+    "example": "the plain present tense often does double duty as a near future: megyünk"
+  },
+  {
+    "id": 78,
+    "term": "She will call you tomorrow.",
+    "definition": "Holnap felhív téged.",
+    "example": "present tense again standing in for tomorrow's action"
+  },
+  {
+    "id": 79,
+    "term": "They will not come.",
+    "definition": "Nem fognak jönni.",
+    "example": "'fog' negated: nem fognak + the infinitive"
+  },
+  {
+    "id": 80,
+    "term": "I will help you.",
+    "definition": "Segíteni fogok neked.",
+    "example": "'segíteni' (help) takes the dative, not the accusative: neked"
+  },
+  {
+    "id": 81,
+    "term": "Where do you live?",
+    "definition": "Hol laksz?",
+    "example": "question word 'hol' (where)"
+  },
+  {
+    "id": 82,
+    "term": "What is your name?",
+    "definition": "Hogy hívnak?",
+    "example": "idiomatic: literally 'how do they call [you]' — an impersonal 'they'"
+  },
+  {
+    "id": 83,
+    "term": "How old are you?",
+    "definition": "Hány éves vagy?",
+    "example": "literally 'how many years-old are you' — 'éves' is an adjective, not a noun"
+  },
+  {
+    "id": 84,
+    "term": "Why are you sad?",
+    "definition": "Miért vagy szomorú?",
+    "example": "question word 'miért' (why)"
+  },
+  {
+    "id": 85,
+    "term": "When does the train leave?",
+    "definition": "Mikor indul a vonat?",
+    "example": "question word 'mikor' (when)"
+  },
+  {
+    "id": 86,
+    "term": "Who is this?",
+    "definition": "Ki ez?",
+    "example": "zero copula again; question word 'ki' (who)"
+  },
+  {
+    "id": 87,
+    "term": "What are you doing?",
+    "definition": "Mit csinálsz?",
+    "example": "'mit' — the accusative form of 'mi' (what), since it's the object"
+  },
+  {
+    "id": 88,
+    "term": "Do you speak English?",
+    "definition": "Beszélsz angolul?",
+    "example": "'angolul' = in English"
+  },
+  {
+    "id": 89,
+    "term": "I have one brother.",
+    "definition": "Egy testvérem van.",
+    "example": "'testvér' covers 'brother' or 'sister' — Hungarian doesn't split sibling words by gender"
+  },
+  {
+    "id": 90,
+    "term": "I have two brothers.",
+    "definition": "Két testvérem van.",
+    "example": "the noun stays SINGULAR even after a number — the number itself already says 'plural'"
+  },
+  {
+    "id": 91,
+    "term": "I have five brothers.",
+    "definition": "Öt testvérem van.",
+    "example": "same singular-after-number rule, whatever the number"
+  },
+  {
+    "id": 92,
+    "term": "I see two cats.",
+    "definition": "Két macskát látok.",
+    "example": "same rule again: macskát stays singular-shaped after 'két'"
+  },
+  {
+    "id": 93,
+    "term": "I see five cats.",
+    "definition": "Öt macskát látok.",
+    "example": "no plural marking needed here either"
+  },
+  {
+    "id": 94,
+    "term": "This book is bigger than that one.",
+    "definition": "Ez a könyv nagyobb, mint az.",
+    "example": "comparative: nagyobb; 'mint' = than"
+  },
+  {
+    "id": 95,
+    "term": "She is the tallest in the class.",
+    "definition": "Ő a legmagasabb az osztályban.",
+    "example": "superlative: 'leg-' prefixed onto the comparative"
+  },
+  {
+    "id": 96,
+    "term": "I like tea more than coffee.",
+    "definition": "Jobban szeretem a teát, mint a kávét.",
+    "example": "'jobban' (more) + the definite form of szeretni, since both things are definite"
+  },
+  {
+    "id": 97,
+    "term": "It's the best day of my life.",
+    "definition": "Ez életem legszebb napja.",
+    "example": "a chain of possessive suffixes: életem (my life) ...napja (its day)"
+  },
+  {
+    "id": 98,
+    "term": "I like cats.",
+    "definition": "Szeretem a macskákat.",
+    "example": "general statements take the definite article and definite conjugation in Hungarian too"
+  },
+  {
+    "id": 99,
+    "term": "She is my best friend.",
+    "definition": "Ő a legjobb barátom.",
+    "example": "zero copula; 'legjobb' (best) + barátom (my friend)"
+  },
+  {
+    "id": 100,
+    "term": "I have a headache.",
+    "definition": "Fáj a fejem.",
+    "example": "'fáj' (hurts) + 'a fejem' (my head) — the person is baked right into the possessive suffix, no separate pronoun at all"
+  }
+];
+window.QM_SENTENCES_IT_LOWERINT_DATA = [
+  {
+    "id": 1,
+    "term": "I want to learn Italian.",
+    "definition": "Voglio imparare l'italiano.",
+    "example": "modal 'volere' + infinitive"
+  },
+  {
+    "id": 2,
+    "term": "I can help you tomorrow.",
+    "definition": "Posso aiutarti domani.",
+    "example": "'potere' + infinitive; object pronoun attaches to the infinitive: aiutarti"
+  },
+  {
+    "id": 3,
+    "term": "I must go now.",
+    "definition": "Devo andare adesso.",
+    "example": "'dovere' (must) + infinitive"
+  },
+  {
+    "id": 4,
+    "term": "You should rest.",
+    "definition": "Dovresti riposarti.",
+    "example": "the conditional of 'dovere' softens it into 'should': dovresti"
+  },
+  {
+    "id": 5,
+    "term": "She should call her mother.",
+    "definition": "Dovrebbe chiamare sua madre.",
+    "example": "conditional, 3rd person: dovrebbe"
+  },
+  {
+    "id": 6,
+    "term": "We want to visit Rome.",
+    "definition": "Vogliamo visitare Roma.",
+    "example": "'volere' plural + infinitive"
+  },
+  {
+    "id": 7,
+    "term": "They can't come today.",
+    "definition": "Non possono venire oggi.",
+    "example": "negated modal: non + potere"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to eat now.",
+    "definition": "Non voglio mangiare adesso.",
+    "example": "negated 'volere' + infinitive"
+  },
+  {
+    "id": 9,
+    "term": "Do you want some tea?",
+    "definition": "Vuoi del tè?",
+    "example": "'del' — the partitive article for 'some'"
+  },
+  {
+    "id": 10,
+    "term": "I would like to order a coffee.",
+    "definition": "Vorrei ordinare un caffè.",
+    "example": "'vorrei' — the conditional of volere, the polite way to ask for something"
+  },
+  {
+    "id": 11,
+    "term": "You have to be careful.",
+    "definition": "Devi stare attento.",
+    "example": "'dovere' + the idiom 'stare attento' (be careful)"
+  },
+  {
+    "id": 12,
+    "term": "It's necessary to buy bread.",
+    "definition": "Bisogna comprare il pane.",
+    "example": "impersonal 'bisogna' (one must) + infinitive"
+  },
+  {
+    "id": 13,
+    "term": "You can smoke here.",
+    "definition": "Qui si può fumare.",
+    "example": "impersonal 'si può' (one may/it's allowed)"
+  },
+  {
+    "id": 14,
+    "term": "You can't park here.",
+    "definition": "Qui non si può parcheggiare.",
+    "example": "negated impersonal 'si può'"
+  },
+  {
+    "id": 15,
+    "term": "It's worth trying this soup.",
+    "definition": "Vale la pena provare questa zuppa.",
+    "example": "fixed phrase: 'vale la pena' (it's worth it) + infinitive"
+  },
+  {
+    "id": 16,
+    "term": "It's not necessary to hurry.",
+    "definition": "Non bisogna avere fretta.",
+    "example": "negated 'bisogna' + the idiom 'avere fretta' (be in a hurry)"
+  },
+  {
+    "id": 17,
+    "term": "You shouldn't smoke.",
+    "definition": "Non si dovrebbe fumare.",
+    "example": "the impersonal conditional of dovere: si dovrebbe"
+  },
+  {
+    "id": 18,
+    "term": "One has to work hard.",
+    "definition": "Bisogna lavorare molto.",
+    "example": "'bisogna' + adverb + infinitive"
+  },
+  {
+    "id": 19,
+    "term": "Everyone must follow the rules.",
+    "definition": "Tutti devono rispettare le regole.",
+    "example": "'dovere' 3rd plural: devono"
+  },
+  {
+    "id": 20,
+    "term": "I have to finish this today.",
+    "definition": "Devo finire questo oggi.",
+    "example": "'dovere' + accusative-like direct object 'questo' + infinitive"
+  },
+  {
+    "id": 21,
+    "term": "I miss my family.",
+    "definition": "Mi manca la mia famiglia.",
+    "example": "'mancare' works backwards, like piacere: my family is the subject, 'mi' is who's missing it"
+  },
+  {
+    "id": 22,
+    "term": "Do you miss Italy?",
+    "definition": "Ti manca l'Italia?",
+    "example": "same backwards construction, 'ti' (to you)"
+  },
+  {
+    "id": 23,
+    "term": "We miss our friends.",
+    "definition": "Ci mancano i nostri amici.",
+    "example": "plural subject, plural verb: mancano"
+  },
+  {
+    "id": 24,
+    "term": "My back hurts.",
+    "definition": "Mi fa male la schiena.",
+    "example": "'fare male' (hurt) — another backwards construction, same shape as piacere/mancare"
+  },
+  {
+    "id": 25,
+    "term": "My legs hurt.",
+    "definition": "Mi fanno male le gambe.",
+    "example": "plural: fanno male"
+  },
+  {
+    "id": 26,
+    "term": "Does your throat hurt?",
+    "definition": "Ti fa male la gola?",
+    "example": "'ti' (to you) + fa male"
+  },
+  {
+    "id": 27,
+    "term": "I feel sick.",
+    "definition": "Mi sento male.",
+    "example": "reflexive 'sentirsi' + male (badly)"
+  },
+  {
+    "id": 28,
+    "term": "I am cold.",
+    "definition": "Ho freddo.",
+    "example": "idiom: 'avere freddo' is literally 'to have cold' — no backwards construction this time"
+  },
+  {
+    "id": 29,
+    "term": "Are you hungry?",
+    "definition": "Hai fame?",
+    "example": "'avere fame' — same have-an-idiom pattern"
+  },
+  {
+    "id": 30,
+    "term": "I am thirsty.",
+    "definition": "Ho sete.",
+    "example": "'avere sete'"
+  },
+  {
+    "id": 31,
+    "term": "The more you practice, the better you speak.",
+    "definition": "Più ti eserciti, meglio parli.",
+    "example": "'più...meglio' pairs two comparative ideas"
+  },
+  {
+    "id": 32,
+    "term": "The sooner, the better.",
+    "definition": "Prima è, meglio è.",
+    "example": "the same correlative pattern in a fixed phrase"
+  },
+  {
+    "id": 33,
+    "term": "Both my sister and my brother live in Rome.",
+    "definition": "Sia mia sorella che mio fratello vivono a Roma.",
+    "example": "'sia...che' = 'both...and'"
+  },
+  {
+    "id": 34,
+    "term": "I like neither tea nor coffee.",
+    "definition": "Non mi piace né il tè né il caffè.",
+    "example": "'né...né' = 'neither...nor'"
+  },
+  {
+    "id": 35,
+    "term": "This is the most beautiful city in Italy.",
+    "definition": "Questa è la città più bella d'Italia.",
+    "example": "superlative: la più bella"
+  },
+  {
+    "id": 36,
+    "term": "He is older than me.",
+    "definition": "Lui è più vecchio di me.",
+    "example": "comparative: più...di"
+  },
+  {
+    "id": 37,
+    "term": "This is worse than I thought.",
+    "definition": "Questo è peggio di quello che pensavo.",
+    "example": "irregular comparative: cattivo → peggio, not 'più cattivo'"
+  },
+  {
+    "id": 38,
+    "term": "She sings better than he does.",
+    "definition": "Lei canta meglio di lui.",
+    "example": "irregular adverb comparative: bene → meglio"
+  },
+  {
+    "id": 39,
+    "term": "This task is easier than that one.",
+    "definition": "Questo compito è più facile di quello.",
+    "example": "regular comparative: facile → più facile"
+  },
+  {
+    "id": 40,
+    "term": "He runs the fastest on our team.",
+    "definition": "Lui corre più veloce di tutti nella nostra squadra.",
+    "example": "'più...di tutti' = the fastest of everyone"
+  },
+  {
+    "id": 41,
+    "term": "I think that this is a good idea.",
+    "definition": "Penso che questa sia una buona idea.",
+    "example": "'pensare che' triggers the CONGIUNTIVO (subjunctive): sia"
+  },
+  {
+    "id": 42,
+    "term": "I know that you are right.",
+    "definition": "So che hai ragione.",
+    "example": "'sapere che' is a certainty, so it stays indicative — contrast #41"
+  },
+  {
+    "id": 43,
+    "term": "I hope that the weather will be nice.",
+    "definition": "Spero che il tempo sia bello.",
+    "example": "'sperare che' + congiuntivo: sia"
+  },
+  {
+    "id": 44,
+    "term": "I am glad that you came.",
+    "definition": "Sono contento che tu sia venuto.",
+    "example": "an emotion-verb + che also takes the congiuntivo: sia venuto"
+  },
+  {
+    "id": 45,
+    "term": "I don't think that it's true.",
+    "definition": "Non penso che sia vero.",
+    "example": "negated opinion, still congiuntivo: sia"
+  },
+  {
+    "id": 46,
+    "term": "I am learning Italian because I want to live in Italy.",
+    "definition": "Sto imparando l'italiano perché voglio vivere in Italia.",
+    "example": "'perché' (because) states a fact, so it's indicative"
+  },
+  {
+    "id": 47,
+    "term": "I can't come because I am sick.",
+    "definition": "Non posso venire perché sono malato.",
+    "example": "same fact-stating 'perché'"
+  },
+  {
+    "id": 48,
+    "term": "I am studying so that I can pass the exam.",
+    "definition": "Studio affinché io possa superare l'esame.",
+    "example": "'affinché' (so that) is a purpose clause — always congiuntivo: possa"
+  },
+  {
+    "id": 49,
+    "term": "Call me when you arrive.",
+    "definition": "Chiamami quando arrivi.",
+    "example": "'quando' + present tense, standing in for the future"
+  },
+  {
+    "id": 50,
+    "term": "If it rains, we will stay home.",
+    "definition": "Se piove, resteremo a casa.",
+    "example": "a real future condition: 'se' + present, result in the future"
+  },
+  {
+    "id": 51,
+    "term": "The woman who lives next door is a doctor.",
+    "definition": "La donna che vive accanto è dottoressa.",
+    "example": "'che' — Italian's all-purpose relative pronoun"
+  },
+  {
+    "id": 52,
+    "term": "The man who called yesterday is my uncle.",
+    "definition": "L'uomo che ha chiamato ieri è mio zio.",
+    "example": "same 'che', as subject of the clause"
+  },
+  {
+    "id": 53,
+    "term": "The book that I am reading is very interesting.",
+    "definition": "Il libro che sto leggendo è molto interessante.",
+    "example": "'che' again — the SAME word whether it's subject or object"
+  },
+  {
+    "id": 54,
+    "term": "The children who play in the park are our neighbors.",
+    "definition": "I bambini che giocano nel parco sono i nostri vicini.",
+    "example": "'che', plural subject"
+  },
+  {
+    "id": 55,
+    "term": "This is the house in which I grew up.",
+    "definition": "Questa è la casa in cui sono cresciuto.",
+    "example": "after a preposition, 'che' becomes 'cui': in cui"
+  },
+  {
+    "id": 56,
+    "term": "I don't remember the name of the street where we met.",
+    "definition": "Non ricordo il nome della strada dove ci siamo incontrati.",
+    "example": "'dove' (where) is its own relative word for places"
+  },
+  {
+    "id": 57,
+    "term": "The people whom I met were very friendly.",
+    "definition": "Le persone che ho incontrato erano molto gentili.",
+    "example": "'che' once more, as a direct object"
+  },
+  {
+    "id": 58,
+    "term": "This is the reason why I am late.",
+    "definition": "Questo è il motivo per cui sono in ritardo.",
+    "example": "'per cui' = 'why', literally 'for which'"
+  },
+  {
+    "id": 59,
+    "term": "The car that broke down is mine.",
+    "definition": "La macchina che si è rotta è mia.",
+    "example": "'che' + a reflexive verb inside the clause"
+  },
+  {
+    "id": 60,
+    "term": "I found the keys that I lost.",
+    "definition": "Ho trovato le chiavi che avevo perso.",
+    "example": "'che' + the trapassato prossimo (had lost): avevo perso"
+  },
+  {
+    "id": 61,
+    "term": "The meeting starts at three o'clock.",
+    "definition": "La riunione inizia alle tre.",
+    "example": "clock time: alle tre"
+  },
+  {
+    "id": 62,
+    "term": "I usually wake up before seven.",
+    "definition": "Di solito mi sveglio prima delle sette.",
+    "example": "'prima di' + the article: prima delle sette"
+  },
+  {
+    "id": 63,
+    "term": "We will meet after the concert.",
+    "definition": "Ci vedremo dopo il concerto.",
+    "example": "'dopo' + noun, no special ending needed"
+  },
+  {
+    "id": 64,
+    "term": "The shop is open from nine to six.",
+    "definition": "Il negozio è aperto dalle nove alle sei.",
+    "example": "'dalle...alle' (from...to)"
+  },
+  {
+    "id": 65,
+    "term": "I lived in Italy for three years.",
+    "definition": "Ho vissuto in Italia per tre anni.",
+    "example": "'per' + a length of time"
+  },
+  {
+    "id": 66,
+    "term": "I haven't seen him since last year.",
+    "definition": "Non lo vedo dall'anno scorso.",
+    "example": "Italian uses the PRESENT tense with 'da' for something still going on — not the present perfect like English"
+  },
+  {
+    "id": 67,
+    "term": "During the summer, we travel a lot.",
+    "definition": "D'estate viaggiamo molto.",
+    "example": "'d'estate' — the fixed way to say 'in summer'"
+  },
+  {
+    "id": 68,
+    "term": "On Mondays, I go to the gym.",
+    "definition": "Il lunedì vado in palestra.",
+    "example": "'il' + the day name marks a repeated, habitual day"
+  },
+  {
+    "id": 69,
+    "term": "Next week, I am going on vacation.",
+    "definition": "La settimana prossima vado in vacanza.",
+    "example": "'la settimana prossima' (next week)"
+  },
+  {
+    "id": 70,
+    "term": "Two years ago, I visited Italy.",
+    "definition": "Due anni fa ho visitato l'Italia.",
+    "example": "'fa' (ago) follows the amount of time"
+  },
+  {
+    "id": 71,
+    "term": "There are a lot of people here.",
+    "definition": "Qui c'è molta gente.",
+    "example": "'gente' (people) is singular in Italian, so: molta, not molti"
+  },
+  {
+    "id": 72,
+    "term": "I have little time.",
+    "definition": "Ho poco tempo.",
+    "example": "'poco' (little)"
+  },
+  {
+    "id": 73,
+    "term": "I have a few questions.",
+    "definition": "Ho alcune domande.",
+    "example": "'alcune' (a few), agreeing feminine plural"
+  },
+  {
+    "id": 74,
+    "term": "There are many opportunities here.",
+    "definition": "Ci sono molte opportunità qui.",
+    "example": "'molte' agreeing with a feminine plural noun"
+  },
+  {
+    "id": 75,
+    "term": "I have several friends in Italy.",
+    "definition": "Ho parecchi amici in Italia.",
+    "example": "'parecchi' (several)"
+  },
+  {
+    "id": 76,
+    "term": "Not many people know about this.",
+    "definition": "Non molte persone lo sanno.",
+    "example": "'non molte' — 'not many'"
+  },
+  {
+    "id": 77,
+    "term": "I need a bit more time.",
+    "definition": "Ho bisogno di un po' più di tempo.",
+    "example": "'avere bisogno di' (need) + 'un po' più di' (a bit more of)"
+  },
+  {
+    "id": 78,
+    "term": "Most people agree with this.",
+    "definition": "La maggior parte delle persone è d'accordo con questo.",
+    "example": "'la maggior parte di' = 'most of'"
+  },
+  {
+    "id": 79,
+    "term": "I bought a lot of books.",
+    "definition": "Ho comprato molti libri.",
+    "example": "'molti' agreeing masculine plural"
+  },
+  {
+    "id": 80,
+    "term": "There isn't enough bread.",
+    "definition": "Non c'è abbastanza pane.",
+    "example": "'abbastanza' (enough)"
+  },
+  {
+    "id": 81,
+    "term": "Sit down, please.",
+    "definition": "Siediti, per favore.",
+    "example": "informal imperative of a reflexive verb: siediti"
+  },
+  {
+    "id": 82,
+    "term": "Wait for me!",
+    "definition": "Aspettami!",
+    "example": "the object pronoun attaches right onto the imperative: aspetta + mi"
+  },
+  {
+    "id": 83,
+    "term": "Don't worry.",
+    "definition": "Non ti preoccupare.",
+    "example": "the NEGATIVE 'tu' imperative uses the INFINITIVE, not the normal imperative form"
+  },
+  {
+    "id": 84,
+    "term": "Close the door, please.",
+    "definition": "Chiudi la porta, per favore.",
+    "example": "ordinary informal imperative: chiudi"
+  },
+  {
+    "id": 85,
+    "term": "Let's go!",
+    "definition": "Andiamo!",
+    "example": "the plain 'noi' (we) present tense doubles as 'let's...'"
+  },
+  {
+    "id": 86,
+    "term": "Let's eat something.",
+    "definition": "Mangiamo qualcosa!",
+    "example": "same 'noi'-as-'let's' pattern"
+  },
+  {
+    "id": 87,
+    "term": "Be careful!",
+    "definition": "Sta' attento!",
+    "example": "irregular short imperative of stare: sta'"
+  },
+  {
+    "id": 88,
+    "term": "Don't be afraid.",
+    "definition": "Non avere paura.",
+    "example": "negative imperative = infinitive again, same rule as #83"
+  },
+  {
+    "id": 89,
+    "term": "Help me, please.",
+    "definition": "Aiutami, per favore.",
+    "example": "imperative + attached pronoun: aiuta + mi"
+  },
+  {
+    "id": 90,
+    "term": "Listen to me!",
+    "definition": "Ascoltami!",
+    "example": "'ascoltare' takes a direct object, no preposition needed unlike English 'listen TO'"
+  },
+  {
+    "id": 91,
+    "term": "I don't know where he lives.",
+    "definition": "Non so dove abita.",
+    "example": "an indirect question — 'dove' works the same tucked inside a sentence"
+  },
+  {
+    "id": 92,
+    "term": "I don't know what time it is.",
+    "definition": "Non so che ore sono.",
+    "example": "idiomatic: literally 'what hours are [they]'"
+  },
+  {
+    "id": 93,
+    "term": "Tell me why you are sad.",
+    "definition": "Dimmi perché sei triste.",
+    "example": "irregular short imperative + attached pronoun: di' + mi = dimmi"
+  },
+  {
+    "id": 94,
+    "term": "I wonder who called.",
+    "definition": "Mi chiedo chi abbia chiamato.",
+    "example": "'chiedersi' (wonder) triggers the congiuntivo: abbia chiamato"
+  },
+  {
+    "id": 95,
+    "term": "I am not sure if he is coming.",
+    "definition": "Non sono sicuro se viene.",
+    "example": "'se' here states real uncertainty about a fact, so it stays indicative"
+  },
+  {
+    "id": 96,
+    "term": "She said that she was tired.",
+    "definition": "Ha detto che era stanca.",
+    "example": "unlike some languages, Italian DOES shift the tense back in reported speech: era (imperfetto)"
+  },
+  {
+    "id": 97,
+    "term": "He asked if I spoke Italian.",
+    "definition": "Ha chiesto se parlavo italiano.",
+    "example": "same backshift: parlavo (imperfetto)"
+  },
+  {
+    "id": 98,
+    "term": "If I had more time, I would learn French too.",
+    "definition": "Se avessi più tempo, imparerei anche il francese.",
+    "example": "hypothetical: 'se' + congiuntivo imperfetto (avessi), result in the conditional (imparerei)"
+  },
+  {
+    "id": 99,
+    "term": "If I were you, I would rest.",
+    "definition": "Se fossi in te, riposerei.",
+    "example": "idiom: 'se fossi in te' = 'if I were in your place'"
+  },
+  {
+    "id": 100,
+    "term": "I would be very happy if you came.",
+    "definition": "Sarei molto felice se tu venissi.",
+    "example": "conditional + congiuntivo imperfetto: sarei...venissi"
+  }
+];
+window.QM_SENTENCES_IT_INTERMEDIATE_DATA = [
+  {
+    "id": 1,
+    "term": "I go there every day.",
+    "definition": "Ci vado ogni giorno.",
+    "example": "'ci' replaces an already-known place — 'there'"
+  },
+  {
+    "id": 2,
+    "term": "I don't believe it.",
+    "definition": "Non ci credo.",
+    "example": "'credere a qualcosa' → 'ci credo' (I believe in it)"
+  },
+  {
+    "id": 3,
+    "term": "I think about it often.",
+    "definition": "Ci penso spesso.",
+    "example": "'pensare a qualcosa' → 'ci penso'"
+  },
+  {
+    "id": 4,
+    "term": "How many books do you have? I have three of them.",
+    "definition": "Quanti libri hai? Ne ho tre.",
+    "example": "'ne' replaces 'of them' — a quantity plus its noun"
+  },
+  {
+    "id": 5,
+    "term": "Do you want some wine? Yes, I want some.",
+    "definition": "Vuoi del vino? Sì, ne voglio.",
+    "example": "'ne' = 'some of it'"
+  },
+  {
+    "id": 6,
+    "term": "Do you need money? Yes, I need some.",
+    "definition": "Hai bisogno di soldi? Sì, ne ho bisogno.",
+    "example": "'ne' replaces 'di soldi' (of money)"
+  },
+  {
+    "id": 7,
+    "term": "I'm leaving now.",
+    "definition": "Me ne vado adesso.",
+    "example": "'andarsene' — an idiom fusing the reflexive 'me' with 'ne', literally 'go oneself of here'"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to talk about it.",
+    "definition": "Non ne voglio parlare.",
+    "example": "'parlare di qualcosa' → 'ne parlo'"
+  },
+  {
+    "id": 9,
+    "term": "How many sisters do you have? I have one.",
+    "definition": "Quante sorelle hai? Ne ho una.",
+    "example": "'ne' stands in even with a specific count: una"
+  },
+  {
+    "id": 10,
+    "term": "I'm sure of it.",
+    "definition": "Ne sono sicuro.",
+    "example": "'essere sicuro di qualcosa' → 'ne sono sicuro'"
+  },
+  {
+    "id": 11,
+    "term": "I used to read a lot as a child.",
+    "definition": "Da bambino leggevo molto.",
+    "example": "imperfetto for a habit stretched over time: leggevo"
+  },
+  {
+    "id": 12,
+    "term": "Yesterday I read that whole book.",
+    "definition": "Ieri ho letto tutto quel libro.",
+    "example": "passato prossimo for one completed action: ho letto"
+  },
+  {
+    "id": 13,
+    "term": "I always drank coffee in the morning.",
+    "definition": "Bevevo sempre il caffè al mattino.",
+    "example": "imperfetto, habitual: bevevo"
+  },
+  {
+    "id": 14,
+    "term": "This morning I drank two cups of coffee.",
+    "definition": "Stamattina ho bevuto due tazze di caffè.",
+    "example": "passato prossimo, a specific completed amount: ho bevuto"
+  },
+  {
+    "id": 15,
+    "term": "She was writing a letter when I called.",
+    "definition": "Stava scrivendo una lettera quando ho chiamato.",
+    "example": "imperfetto progressivo for an action in progress, interrupted by a passato prossimo"
+  },
+  {
+    "id": 16,
+    "term": "She wrote the letter and sent it.",
+    "definition": "Ha scritto la lettera e l'ha spedita.",
+    "example": "passato prossimo for a finished sequence"
+  },
+  {
+    "id": 17,
+    "term": "We were watching a movie all evening.",
+    "definition": "Guardavamo un film tutta la sera.",
+    "example": "imperfetto for duration: guardavamo"
+  },
+  {
+    "id": 18,
+    "term": "We watched the whole movie in one sitting.",
+    "definition": "Abbiamo guardato tutto il film in una volta.",
+    "example": "passato prossimo for the completed whole"
+  },
+  {
+    "id": 19,
+    "term": "I was learning Italian for two years before I moved here.",
+    "definition": "Studiavo italiano da due anni prima di trasferirmi qui.",
+    "example": "imperfetto for the ongoing stretch, 'da due anni' for how long"
+  },
+  {
+    "id": 20,
+    "term": "I finally learned all the irregular verbs.",
+    "definition": "Ho finalmente imparato tutti i verbi irregolari.",
+    "example": "passato prossimo — the moment it finally clicked"
+  },
+  {
+    "id": 21,
+    "term": "This book was written by a famous author.",
+    "definition": "Questo libro è stato scritto da un autore famoso.",
+    "example": "passive: essere + past participle, 'da' (by) + the agent"
+  },
+  {
+    "id": 22,
+    "term": "The house was built in 1920.",
+    "definition": "La casa è stata costruita nel 1920.",
+    "example": "same passive pattern, no agent named"
+  },
+  {
+    "id": 23,
+    "term": "The letter is being written now.",
+    "definition": "La lettera viene scritta adesso.",
+    "example": "'venire' can replace 'essere' in the passive — common for an action in progress"
+  },
+  {
+    "id": 24,
+    "term": "The doors are closed at nine.",
+    "definition": "Le porte vengono chiuse alle nove.",
+    "example": "'venire' again, for a habitual passive"
+  },
+  {
+    "id": 25,
+    "term": "The problem will be solved soon.",
+    "definition": "Il problema sarà risolto presto.",
+    "example": "future passive: sarà + participle"
+  },
+  {
+    "id": 26,
+    "term": "The bridge was destroyed during the war.",
+    "definition": "Il ponte è stato distrutto durante la guerra.",
+    "example": "passive past, resultative"
+  },
+  {
+    "id": 27,
+    "term": "This song is known all over the world.",
+    "definition": "Questa canzone è conosciuta in tutto il mondo.",
+    "example": "a participle used as a plain adjective: conosciuta"
+  },
+  {
+    "id": 28,
+    "term": "The cake was eaten by the children.",
+    "definition": "La torta è stata mangiata dai bambini.",
+    "example": "'da' + 'i' contract into 'dai'"
+  },
+  {
+    "id": 29,
+    "term": "New rules were introduced last year.",
+    "definition": "Nuove regole sono state introdotte l'anno scorso.",
+    "example": "plural passive: sono state, not è stata"
+  },
+  {
+    "id": 30,
+    "term": "The window was broken by the storm.",
+    "definition": "La finestra è stata rotta dalla tempesta.",
+    "example": "irregular participle: rompere → rotta"
+  },
+  {
+    "id": 31,
+    "term": "It's said that he is very talented.",
+    "definition": "Si dice che sia molto talentuoso.",
+    "example": "impersonal 'si dice' (it's said) + congiuntivo: sia"
+  },
+  {
+    "id": 32,
+    "term": "It's getting dark.",
+    "definition": "Si sta facendo buio.",
+    "example": "'si' + 'stare facendo' — a change happening with no one causing it"
+  },
+  {
+    "id": 33,
+    "term": "One gets cold quickly here.",
+    "definition": "Qui ci si raffredda in fretta.",
+    "example": "a reflexive verb used impersonally: the reflexive 'si' becomes 'ci' to avoid 'si si'"
+  },
+  {
+    "id": 34,
+    "term": "How do you say this in Italian?",
+    "definition": "Come si dice questo in italiano?",
+    "example": "impersonal 'si' in a question — a very common everyday phrase"
+  },
+  {
+    "id": 35,
+    "term": "One eats dinner at eight here.",
+    "definition": "Qui si cena alle otto.",
+    "example": "impersonal 'si' for a general custom"
+  },
+  {
+    "id": 36,
+    "term": "You can't smoke here.",
+    "definition": "Qui non si fuma.",
+    "example": "impersonal 'si', negated — a colloquial alternative to 'non si può fumare'"
+  },
+  {
+    "id": 37,
+    "term": "It's not done that way.",
+    "definition": "Non si fa così.",
+    "example": "impersonal 'si' again"
+  },
+  {
+    "id": 38,
+    "term": "People say all sorts of things.",
+    "definition": "Si dicono tante cose.",
+    "example": "here 'si' makes 'cose' the real subject, so the verb agrees plural: dicono"
+  },
+  {
+    "id": 39,
+    "term": "This word is used often.",
+    "definition": "Questa parola si usa spesso.",
+    "example": "'si passivante' — 'parola' is the subject, 'si usa' agrees with it"
+  },
+  {
+    "id": 40,
+    "term": "This is how the game is played.",
+    "definition": "Così si gioca a questo gioco.",
+    "example": "impersonal 'si' + 'giocare a'"
+  },
+  {
+    "id": 41,
+    "term": "I told him to come.",
+    "definition": "Gli ho detto di venire.",
+    "example": "'dire a qualcuno di fare qualcosa' — 'di' + infinitive, no subjunctive needed since the dative pronoun 'gli' already says who"
+  },
+  {
+    "id": 42,
+    "term": "She asked me to help her.",
+    "definition": "Mi ha chiesto di aiutarla.",
+    "example": "'chiedere a qualcuno di fare qualcosa' — same 'di' + infinitive shape"
+  },
+  {
+    "id": 43,
+    "term": "The teacher told us to be quiet.",
+    "definition": "L'insegnante ci ha detto di stare zitti.",
+    "example": "'ci' (to us) + 'di' + infinitive"
+  },
+  {
+    "id": 44,
+    "term": "I want you to call me.",
+    "definition": "Voglio che tu mi chiami.",
+    "example": "'volere che' is different — it always needs congiuntivo, even with a clear subject: chiami"
+  },
+  {
+    "id": 45,
+    "term": "My mother told me not to be late.",
+    "definition": "Mia madre mi ha detto di non fare tardi.",
+    "example": "'di' + a negated infinitive"
+  },
+  {
+    "id": 46,
+    "term": "He asked us to wait outside.",
+    "definition": "Ci ha chiesto di aspettare fuori.",
+    "example": "same 'di' + infinitive pattern"
+  },
+  {
+    "id": 47,
+    "term": "I told them to stop.",
+    "definition": "Ho detto loro di smettere.",
+    "example": "'loro' (to them) + 'di' + infinitive"
+  },
+  {
+    "id": 48,
+    "term": "She wants me to visit her.",
+    "definition": "Vuole che io la visiti.",
+    "example": "'volere che' again forces the congiuntivo: visiti"
+  },
+  {
+    "id": 49,
+    "term": "The boss ordered us to finish the project.",
+    "definition": "Il capo ci ha ordinato di finire il progetto.",
+    "example": "'ordinare' also takes 'di' + infinitive"
+  },
+  {
+    "id": 50,
+    "term": "I asked her to be patient.",
+    "definition": "Le ho chiesto di essere paziente.",
+    "example": "'le' (to her) + 'di' + infinitive"
+  },
+  {
+    "id": 51,
+    "term": "Although it was raining, we went for a walk.",
+    "definition": "Sebbene piovesse, siamo andati a fare una passeggiata.",
+    "example": "'sebbene' (although) always takes the congiuntivo: piovesse"
+  },
+  {
+    "id": 52,
+    "term": "Even though he is tired, he keeps working.",
+    "definition": "Anche se è stanco, continua a lavorare.",
+    "example": "'anche se' is a simpler alternative that stays indicative"
+  },
+  {
+    "id": 53,
+    "term": "Despite the cold, we went outside.",
+    "definition": "Nonostante il freddo, siamo usciti.",
+    "example": "'nonostante' + noun (no 'che' needed here)"
+  },
+  {
+    "id": 54,
+    "term": "It's raining, but we're going out anyway.",
+    "definition": "Piove, ma usciamo lo stesso.",
+    "example": "'lo stesso' = anyway/all the same"
+  },
+  {
+    "id": 55,
+    "term": "I like her, even though she's sometimes difficult.",
+    "definition": "Mi piace, anche se a volte è difficile.",
+    "example": "'anche se' again, indicative"
+  },
+  {
+    "id": 56,
+    "term": "He passed the exam despite not studying much.",
+    "definition": "Ha superato l'esame nonostante non avesse studiato molto.",
+    "example": "'nonostante' + congiuntivo trapassato: avesse studiato"
+  },
+  {
+    "id": 57,
+    "term": "It was cheap, yet good quality.",
+    "definition": "Era economico, eppure di buona qualità.",
+    "example": "'eppure' = yet/and still"
+  },
+  {
+    "id": 58,
+    "term": "Nevertheless, I think we should try.",
+    "definition": "Ciò nonostante, penso che dovremmo provare.",
+    "example": "'ciò nonostante' = nevertheless, standing alone"
+  },
+  {
+    "id": 59,
+    "term": "Although I disagree, I'll help you.",
+    "definition": "Anche se non sono d'accordo, ti aiuterò.",
+    "example": "'anche se' + a negated opinion"
+  },
+  {
+    "id": 60,
+    "term": "We won, although it wasn't easy.",
+    "definition": "Abbiamo vinto, anche se non è stato facile.",
+    "example": "'anche se' inside a longer sentence"
+  },
+  {
+    "id": 61,
+    "term": "Stay here until I come back.",
+    "definition": "Resta qui finché non torno.",
+    "example": "'finché non' = until — the 'non' is required even though nothing is really negated"
+  },
+  {
+    "id": 62,
+    "term": "I'll wait as long as you need.",
+    "definition": "Aspetterò finché avrai bisogno.",
+    "example": "'finché' without 'non' means 'as long as', not 'until'"
+  },
+  {
+    "id": 63,
+    "term": "Before you leave, call me.",
+    "definition": "Prima di partire, chiamami.",
+    "example": "'prima di' + infinitive, when the subject is the same in both halves"
+  },
+  {
+    "id": 64,
+    "term": "I checked everything before I left.",
+    "definition": "Ho controllato tutto prima di partire.",
+    "example": "same 'prima di' + infinitive"
+  },
+  {
+    "id": 65,
+    "term": "I've known her since I was a child.",
+    "definition": "La conosco da quando ero bambino.",
+    "example": "'da quando' = since"
+  },
+  {
+    "id": 66,
+    "term": "Since he moved here, he's been much happier.",
+    "definition": "Da quando si è trasferito qui, è molto più felice.",
+    "example": "'da quando' + a reflexive past move"
+  },
+  {
+    "id": 67,
+    "term": "Wait until the light turns green.",
+    "definition": "Aspetta finché il semaforo non diventa verde.",
+    "example": "'finché non' again — the same pattern as #61"
+  },
+  {
+    "id": 68,
+    "term": "I won't leave until you answer me.",
+    "definition": "Non me ne andrò finché non mi rispondi.",
+    "example": "'finché non' + the idiom 'andarsene' from earlier"
+  },
+  {
+    "id": 69,
+    "term": "As soon as I get home, I'll call you.",
+    "definition": "Appena arrivo a casa, ti chiamo.",
+    "example": "'appena' = as soon as"
+  },
+  {
+    "id": 70,
+    "term": "After finishing the meeting, we went home.",
+    "definition": "Dopo aver finito la riunione, siamo andati a casa.",
+    "example": "'dopo' + infinito passato (aver finito) when the subject doesn't change"
+  },
+  {
+    "id": 71,
+    "term": "Instead of coffee, I'll have tea.",
+    "definition": "Invece del caffè, prendo il tè.",
+    "example": "'invece di' (instead of) + noun"
+  },
+  {
+    "id": 72,
+    "term": "Instead of complaining, do something.",
+    "definition": "Invece di lamentarti, fai qualcosa.",
+    "example": "'invece di' + infinitive"
+  },
+  {
+    "id": 73,
+    "term": "By reading every day, you learn faster.",
+    "definition": "Leggendo ogni giorno, impari più in fretta.",
+    "example": "gerundio used adverbially: leggendo (by reading)"
+  },
+  {
+    "id": 74,
+    "term": "While walking, I saw my friend.",
+    "definition": "Camminando, ho visto il mio amico.",
+    "example": "gerundio: camminando"
+  },
+  {
+    "id": 75,
+    "term": "You can learn a lot by traveling.",
+    "definition": "Si può imparare molto viaggiando.",
+    "example": "gerundio: viaggiando"
+  },
+  {
+    "id": 76,
+    "term": "I hurt myself while cooking.",
+    "definition": "Mi sono fatto male cucinando.",
+    "example": "gerundio: cucinando"
+  },
+  {
+    "id": 77,
+    "term": "Smoking is bad for you.",
+    "definition": "Fumare fa male.",
+    "example": "when '-ing' is really a NOUN (the subject), Italian uses the plain infinitive, not the gerundio"
+  },
+  {
+    "id": 78,
+    "term": "Waiting is the hardest part.",
+    "definition": "Aspettare è la parte più difficile.",
+    "example": "infinito as the subject again — contrast #73-76's adverbial gerundio"
+  },
+  {
+    "id": 79,
+    "term": "Thank you for coming.",
+    "definition": "Grazie per essere venuto.",
+    "example": "'per' + infinito passato: essere venuto"
+  },
+  {
+    "id": 80,
+    "term": "I'm tired of waiting.",
+    "definition": "Sono stanco di aspettare.",
+    "example": "'stanco di' + infinito"
+  },
+  {
+    "id": 81,
+    "term": "If I had known, I would have come.",
+    "definition": "Se avessi saputo, sarei venuto.",
+    "example": "a hypothetical about the past: congiuntivo trapassato + condizionale passato"
+  },
+  {
+    "id": 82,
+    "term": "If you had called me, I would have helped.",
+    "definition": "Se mi avessi chiamato, ti avrei aiutato.",
+    "example": "same pattern, both halves in the past"
+  },
+  {
+    "id": 83,
+    "term": "She would have passed if she had studied more.",
+    "definition": "Sarebbe passata se avesse studiato di più.",
+    "example": "condizionale passato + congiuntivo trapassato, order flipped"
+  },
+  {
+    "id": 84,
+    "term": "We wouldn't have been late if we had left earlier.",
+    "definition": "Non saremmo stati in ritardo se fossimo partiti prima.",
+    "example": "plural: saremmo stati...se fossimo partiti"
+  },
+  {
+    "id": 85,
+    "term": "I have twenty-two books on this shelf.",
+    "definition": "Ho ventidue libri su questo scaffale.",
+    "example": "compound numbers just fuse together: ventidue"
+  },
+  {
+    "id": 86,
+    "term": "There are thirty-five students in this class.",
+    "definition": "Ci sono trentacinque studenti in questa classe.",
+    "example": "same fused compound number: trentacinque"
+  },
+  {
+    "id": 87,
+    "term": "I have been living here for eleven years.",
+    "definition": "Vivo qui da undici anni.",
+    "example": "present tense + 'da' for an action still going on, same pattern as #66"
+  },
+  {
+    "id": 88,
+    "term": "The building has one hundred rooms.",
+    "definition": "L'edificio ha cento stanze.",
+    "example": "'cento' (100) needs no article before it"
+  },
+  {
+    "id": 89,
+    "term": "I paid two hundred euros for this.",
+    "definition": "Ho pagato duecento euro per questo.",
+    "example": "'euro' doesn't change in the plural"
+  },
+  {
+    "id": 90,
+    "term": "Only one person answered correctly.",
+    "definition": "Solo una persona ha risposto correttamente.",
+    "example": "'una' behaves like a normal adjective here"
+  },
+  {
+    "id": 91,
+    "term": "He passed the exam, which made his parents happy.",
+    "definition": "Ha superato l'esame, il che ha reso felici i suoi genitori.",
+    "example": "'il che' refers to the whole fact of passing, not to a specific noun"
+  },
+  {
+    "id": 92,
+    "term": "She was late, which annoyed the teacher.",
+    "definition": "Era in ritardo, il che ha infastidito l'insegnante.",
+    "example": "same clause-referring 'il che'"
+  },
+  {
+    "id": 93,
+    "term": "This is the best restaurant of all the ones I know.",
+    "definition": "Questo è il miglior ristorante di tutti quelli che conosco.",
+    "example": "'di tutti quelli che' = 'of all the ones that'"
+  },
+  {
+    "id": 94,
+    "term": "He is the smartest of all my friends.",
+    "definition": "È il più intelligente di tutti i miei amici.",
+    "example": "'di tutti' + genitive-like plural"
+  },
+  {
+    "id": 95,
+    "term": "To be honest, I don't understand this.",
+    "definition": "Ad essere sincero, non capisco questo.",
+    "example": "'ad essere sincero' — an infinitive phrase, like English '-ly speaking'"
+  },
+  {
+    "id": 96,
+    "term": "Generally speaking, the weather here is nice.",
+    "definition": "In generale, il tempo qui è bello.",
+    "example": "'in generale' = generally speaking"
+  },
+  {
+    "id": 97,
+    "term": "As far as I know, the shop is closed today.",
+    "definition": "Per quanto ne so, il negozio è chiuso oggi.",
+    "example": "'per quanto ne so' — 'ne' returns here too, meaning 'about it'"
+  },
+  {
+    "id": 98,
+    "term": "In my opinion, this is the right decision.",
+    "definition": "Secondo me, questa è la decisione giusta.",
+    "example": "'secondo me' = in my opinion"
+  },
+  {
+    "id": 99,
+    "term": "All things considered, it went well.",
+    "definition": "Tutto sommato, è andata bene.",
+    "example": "'tutto sommato' = all things considered"
+  },
+  {
+    "id": 100,
+    "term": "In the end, everything turned out fine.",
+    "definition": "Alla fine, tutto è andato bene.",
+    "example": "'alla fine' = in the end"
   }
 ];
