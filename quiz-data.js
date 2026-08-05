@@ -110193,3 +110193,1207 @@ window.QM_SENTENCES_IT_INTERMEDIATE_DATA = [
     "example": "'alla fine' = in the end"
   }
 ];
+window.QM_SENTENCES_PL_UPPERBEGINNER_DATA = [
+  {
+    "id": 1,
+    "term": "My father is a farmer.",
+    "definition": "Mój ojciec jest rolnikiem.",
+    "example": "instrumental for a profession, same rule as Beginner: rolnik → rolnikiem"
+  },
+  {
+    "id": 2,
+    "term": "My mother is a teacher.",
+    "definition": "Moja mama jest nauczycielką.",
+    "example": "instrumental, feminine: nauczycielka → nauczycielką"
+  },
+  {
+    "id": 3,
+    "term": "I have two brothers and one sister.",
+    "definition": "Mam dwóch braci i jedną siostrę.",
+    "example": "'dwóch braci' (people, 2-4) + 'jedną siostrę' (accusative)"
+  },
+  {
+    "id": 4,
+    "term": "My grandmother lives with us.",
+    "definition": "Moja babcia mieszka z nami.",
+    "example": "'z' (with) + instrumental: my → nami"
+  },
+  {
+    "id": 5,
+    "term": "Our family is very big.",
+    "definition": "Nasza rodzina jest bardzo duża.",
+    "example": "adjective agrees feminine: duża"
+  },
+  {
+    "id": 6,
+    "term": "My son is five years old.",
+    "definition": "Mój syn ma pięć lat.",
+    "example": "idiom: mieć + years (genitive plural: lat)"
+  },
+  {
+    "id": 7,
+    "term": "My daughter likes to draw.",
+    "definition": "Moja córka lubi rysować.",
+    "example": "'lubić' (like) + infinitive"
+  },
+  {
+    "id": 8,
+    "term": "We have a small dog and a big cat.",
+    "definition": "Mamy małego psa i dużego kota.",
+    "example": "accusative animate adjectives: małego psa, dużego kota"
+  },
+  {
+    "id": 9,
+    "term": "My parents are on vacation.",
+    "definition": "Moi rodzice są na wakacjach.",
+    "example": "'na' + locative plural: wakacje → wakacjach"
+  },
+  {
+    "id": 10,
+    "term": "My best friend has three children.",
+    "definition": "Mój najlepszy przyjaciel ma troje dzieci.",
+    "example": "collective numeral 'troje' for a mixed group of children"
+  },
+  {
+    "id": 11,
+    "term": "I wake up early on Mondays.",
+    "definition": "W poniedziałki wstaję wcześnie.",
+    "example": "'w' + accusative plural for a repeated day: poniedziałki"
+  },
+  {
+    "id": 12,
+    "term": "On Saturdays, I sleep late.",
+    "definition": "W soboty śpię długo.",
+    "example": "same pattern: soboty"
+  },
+  {
+    "id": 13,
+    "term": "Today is Tuesday.",
+    "definition": "Dziś jest wtorek.",
+    "example": "day names stay nominative after 'jest'"
+  },
+  {
+    "id": 14,
+    "term": "Tomorrow is my birthday.",
+    "definition": "Jutro są moje urodziny.",
+    "example": "'urodziny' (birthday) is plural-only, so the verb is plural: są"
+  },
+  {
+    "id": 15,
+    "term": "Yesterday was a busy day.",
+    "definition": "Wczoraj był pracowity dzień.",
+    "example": "past tense, masculine: był"
+  },
+  {
+    "id": 16,
+    "term": "In the morning, I drink coffee.",
+    "definition": "Rano piję kawę.",
+    "example": "'rano' — its own adverb, no preposition needed"
+  },
+  {
+    "id": 17,
+    "term": "In the evening, we watch television.",
+    "definition": "Wieczorem oglądamy telewizję.",
+    "example": "'wieczorem' — an instrumental-shaped time adverb"
+  },
+  {
+    "id": 18,
+    "term": "At night, I read a book.",
+    "definition": "W nocy czytam książkę.",
+    "example": "'w nocy' — this one DOES use a preposition, unlike rano/wieczorem"
+  },
+  {
+    "id": 19,
+    "term": "This afternoon, I have a meeting.",
+    "definition": "Dziś po południu mam spotkanie.",
+    "example": "'po południu' = in the afternoon"
+  },
+  {
+    "id": 20,
+    "term": "Every weekend, we visit my parents.",
+    "definition": "Co weekend odwiedzamy moich rodziców.",
+    "example": "'co' + accusative = 'every'; 'rodziców' is the accusative plural object"
+  },
+  {
+    "id": 21,
+    "term": "I would like a glass of water.",
+    "definition": "Poproszę szklankę wody.",
+    "example": "the standard way to order: 'poproszę' + genitive of what's inside: woda → wody"
+  },
+  {
+    "id": 22,
+    "term": "Can I have the menu, please?",
+    "definition": "Czy mogę prosić o menu?",
+    "example": "'prosić o' + accusative"
+  },
+  {
+    "id": 23,
+    "term": "This soup is delicious.",
+    "definition": "Ta zupa jest pyszna.",
+    "example": "adjective agrees feminine: pyszna"
+  },
+  {
+    "id": 24,
+    "term": "I don't eat meat.",
+    "definition": "Nie jem mięsa.",
+    "example": "negation shifts the object to genitive: mięso → mięsa"
+  },
+  {
+    "id": 25,
+    "term": "She likes sweet food.",
+    "definition": "Ona lubi słodkie jedzenie.",
+    "example": "accusative adjective + noun: słodkie jedzenie"
+  },
+  {
+    "id": 26,
+    "term": "We are having pizza for dinner.",
+    "definition": "Mamy pizzę na obiad.",
+    "example": "'na obiad' = for dinner"
+  },
+  {
+    "id": 27,
+    "term": "The bread is fresh.",
+    "definition": "Chleb jest świeży.",
+    "example": "adjective agrees masculine: świeży"
+  },
+  {
+    "id": 28,
+    "term": "I usually drink tea, not coffee.",
+    "definition": "Zwykle piję herbatę, a nie kawę.",
+    "example": "'a nie' contrasts two things: tea, not coffee"
+  },
+  {
+    "id": 29,
+    "term": "This restaurant is very popular.",
+    "definition": "Ta restauracja jest bardzo popularna.",
+    "example": "adjective agrees feminine: popularna"
+  },
+  {
+    "id": 30,
+    "term": "The food here is cheap.",
+    "definition": "Jedzenie tutaj jest tanie.",
+    "example": "adjective agrees neuter: tanie"
+  },
+  {
+    "id": 31,
+    "term": "It is sunny today.",
+    "definition": "Dziś jest słonecznie.",
+    "example": "weather adjectives become adverbs: słoneczny → słonecznie"
+  },
+  {
+    "id": 32,
+    "term": "It is raining outside.",
+    "definition": "Na dworze pada deszcz.",
+    "example": "'pada deszcz' — literally 'rain falls'"
+  },
+  {
+    "id": 33,
+    "term": "It is very windy.",
+    "definition": "Jest bardzo wietrznie.",
+    "example": "same weather-adverb pattern: wietrznie"
+  },
+  {
+    "id": 34,
+    "term": "It is snowing in the mountains.",
+    "definition": "W górach pada śnieg.",
+    "example": "'pada śnieg' — the same 'pada' verb as rain, just a different subject"
+  },
+  {
+    "id": 35,
+    "term": "The weather is nice this week.",
+    "definition": "Pogoda jest ładna w tym tygodniu.",
+    "example": "'w tym tygodniu' (this week) — locative"
+  },
+  {
+    "id": 36,
+    "term": "It is cloudy this morning.",
+    "definition": "Dziś rano jest pochmurno.",
+    "example": "weather-adverb: pochmurno"
+  },
+  {
+    "id": 37,
+    "term": "It is hot in the summer.",
+    "definition": "Latem jest gorąco.",
+    "example": "'latem' (in summer) — the same seasonal-adverb pattern as wieczorem"
+  },
+  {
+    "id": 38,
+    "term": "It is cold in the winter.",
+    "definition": "Zimą jest zimno.",
+    "example": "'zimą' (in winter)"
+  },
+  {
+    "id": 39,
+    "term": "There is a storm coming.",
+    "definition": "Nadchodzi burza.",
+    "example": "'nadchodzić' (to be approaching) — a single verb does the work of 'coming'"
+  },
+  {
+    "id": 40,
+    "term": "The sky is blue today.",
+    "definition": "Niebo jest dziś niebieskie.",
+    "example": "adjective agrees neuter: niebieskie"
+  },
+  {
+    "id": 41,
+    "term": "I visited my grandparents last week.",
+    "definition": "Odwiedziłem dziadków w zeszłym tygodniu.",
+    "example": "completed-action past: odwiedziłem; accusative plural: dziadków"
+  },
+  {
+    "id": 42,
+    "term": "We watched a good movie yesterday.",
+    "definition": "Wczoraj obejrzeliśmy dobry film.",
+    "example": "completed-action past, plural: obejrzeliśmy"
+  },
+  {
+    "id": 43,
+    "term": "She cooked dinner for us.",
+    "definition": "Ugotowała nam obiad.",
+    "example": "completed-action past, feminine: ugotowała; dative 'nam' (for us)"
+  },
+  {
+    "id": 44,
+    "term": "They traveled to Spain last summer.",
+    "definition": "Pojechali do Hiszpanii zeszłego lata.",
+    "example": "completed-action past: pojechali; genitive: Hiszpanii"
+  },
+  {
+    "id": 45,
+    "term": "I finished my homework early.",
+    "definition": "Skończyłem pracę domową wcześnie.",
+    "example": "completed-action past: skończyłem"
+  },
+  {
+    "id": 46,
+    "term": "He bought a new car.",
+    "definition": "Kupił nowy samochód.",
+    "example": "completed-action past: kupił"
+  },
+  {
+    "id": 47,
+    "term": "We walked to the park.",
+    "definition": "Poszliśmy do parku.",
+    "example": "completed-action past: poszliśmy"
+  },
+  {
+    "id": 48,
+    "term": "I called my friend this morning.",
+    "definition": "Zadzwoniłem dziś rano do przyjaciela.",
+    "example": "completed-action past: zadzwoniłem"
+  },
+  {
+    "id": 49,
+    "term": "She sold her old bicycle.",
+    "definition": "Sprzedała swój stary rower.",
+    "example": "completed-action past, feminine: sprzedała"
+  },
+  {
+    "id": 50,
+    "term": "We celebrated his birthday together.",
+    "definition": "Świętowaliśmy razem jego urodziny.",
+    "example": "past tense, plural: świętowaliśmy"
+  },
+  {
+    "id": 51,
+    "term": "I am going to visit my aunt.",
+    "definition": "Odwiedzę moją ciocię.",
+    "example": "completed-action verbs make their own future — no auxiliary at all: odwiedzę"
+  },
+  {
+    "id": 52,
+    "term": "We are going to have a party.",
+    "definition": "Zrobimy imprezę.",
+    "example": "same no-auxiliary future: zrobimy"
+  },
+  {
+    "id": 53,
+    "term": "She is going to start a new job.",
+    "definition": "Zacznie nową pracę.",
+    "example": "future: zacznie"
+  },
+  {
+    "id": 54,
+    "term": "They are going to move to a new city.",
+    "definition": "Przeprowadzą się do nowego miasta.",
+    "example": "future, reflexive: przeprowadzą się"
+  },
+  {
+    "id": 55,
+    "term": "I am going to buy a new phone.",
+    "definition": "Kupię nowy telefon.",
+    "example": "future: kupię"
+  },
+  {
+    "id": 56,
+    "term": "He is going to learn to swim.",
+    "definition": "Nauczy się pływać.",
+    "example": "future, reflexive + infinitive: nauczy się pływać"
+  },
+  {
+    "id": 57,
+    "term": "We are going to travel next month.",
+    "definition": "Pojedziemy w przyszłym miesiącu.",
+    "example": "future: pojedziemy"
+  },
+  {
+    "id": 58,
+    "term": "I am going to cook dinner tonight.",
+    "definition": "Ugotuję dziś kolację.",
+    "example": "future: ugotuję"
+  },
+  {
+    "id": 59,
+    "term": "She is going to call you later.",
+    "definition": "Zadzwoni do ciebie później.",
+    "example": "future: zadzwoni"
+  },
+  {
+    "id": 60,
+    "term": "They are going to arrive tomorrow.",
+    "definition": "Przyjadą jutro.",
+    "example": "future: przyjadą"
+  },
+  {
+    "id": 61,
+    "term": "I like coffee and tea.",
+    "definition": "Lubię kawę i herbatę.",
+    "example": "'i' = and"
+  },
+  {
+    "id": 62,
+    "term": "She is smart and kind.",
+    "definition": "Ona jest mądra i miła.",
+    "example": "'i' joining two adjectives"
+  },
+  {
+    "id": 63,
+    "term": "I want to go, but I am tired.",
+    "definition": "Chcę iść, ale jestem zmęczony.",
+    "example": "'ale' = but"
+  },
+  {
+    "id": 64,
+    "term": "He is tall, but his brother is short.",
+    "definition": "On jest wysoki, ale jego brat jest niski.",
+    "example": "'ale' contrasting two people"
+  },
+  {
+    "id": 65,
+    "term": "Do you want tea or coffee?",
+    "definition": "Chcesz herbatę czy kawę?",
+    "example": "'czy' = or, specifically inside a question"
+  },
+  {
+    "id": 66,
+    "term": "You can call me or send a message.",
+    "definition": "Możesz do mnie zadzwonić albo wysłać wiadomość.",
+    "example": "'albo' = or, outside a question"
+  },
+  {
+    "id": 67,
+    "term": "I stayed home because it was raining.",
+    "definition": "Zostałem w domu, bo padało.",
+    "example": "'bo' = because"
+  },
+  {
+    "id": 68,
+    "term": "She was late because of the traffic.",
+    "definition": "Spóźniła się z powodu korków.",
+    "example": "'z powodu' (because of) + genitive"
+  },
+  {
+    "id": 69,
+    "term": "I am happy because I passed the test.",
+    "definition": "Jestem szczęśliwy, bo zdałem test.",
+    "example": "'bo' again"
+  },
+  {
+    "id": 70,
+    "term": "He is tired because he worked all day.",
+    "definition": "Jest zmęczony, bo pracował cały dzień.",
+    "example": "'bo' + past tense"
+  },
+  {
+    "id": 71,
+    "term": "The bank is near the school.",
+    "definition": "Bank jest blisko szkoły.",
+    "example": "'blisko' (near) + genitive"
+  },
+  {
+    "id": 72,
+    "term": "The park is far from here.",
+    "definition": "Park jest daleko stąd.",
+    "example": "'daleko stąd' = far from here"
+  },
+  {
+    "id": 73,
+    "term": "Turn left at the corner.",
+    "definition": "Skręć w lewo na rogu.",
+    "example": "'w lewo' = to the left"
+  },
+  {
+    "id": 74,
+    "term": "Turn right at the traffic light.",
+    "definition": "Skręć w prawo na światłach.",
+    "example": "'w prawo' = to the right"
+  },
+  {
+    "id": 75,
+    "term": "Go straight ahead.",
+    "definition": "Idź prosto.",
+    "example": "'prosto' = straight ahead"
+  },
+  {
+    "id": 76,
+    "term": "The hospital is next to the church.",
+    "definition": "Szpital jest obok kościoła.",
+    "example": "'obok' (next to) + genitive"
+  },
+  {
+    "id": 77,
+    "term": "The store is across from the hotel.",
+    "definition": "Sklep jest naprzeciwko hotelu.",
+    "example": "'naprzeciwko' (across from) + genitive"
+  },
+  {
+    "id": 78,
+    "term": "It is behind the building.",
+    "definition": "To jest za budynkiem.",
+    "example": "'za' (behind) + instrumental"
+  },
+  {
+    "id": 79,
+    "term": "It is in front of the station.",
+    "definition": "To jest przed dworcem.",
+    "example": "'przed' (in front of) + instrumental"
+  },
+  {
+    "id": 80,
+    "term": "The bathroom is upstairs.",
+    "definition": "Łazienka jest na górze.",
+    "example": "'na górze' = upstairs"
+  },
+  {
+    "id": 81,
+    "term": "The car is red.",
+    "definition": "Samochód jest czerwony.",
+    "example": "adjective, masculine: czerwony"
+  },
+  {
+    "id": 82,
+    "term": "The house is white and big.",
+    "definition": "Dom jest biały i duży.",
+    "example": "two adjectives, masculine: biały, duży"
+  },
+  {
+    "id": 83,
+    "term": "This box is heavy.",
+    "definition": "To pudełko jest ciężkie.",
+    "example": "adjective, neuter: ciężkie"
+  },
+  {
+    "id": 84,
+    "term": "That bag is light.",
+    "definition": "Ta torba jest lekka.",
+    "example": "adjective, feminine: lekka"
+  },
+  {
+    "id": 85,
+    "term": "The room is clean.",
+    "definition": "Pokój jest czysty.",
+    "example": "adjective, masculine: czysty"
+  },
+  {
+    "id": 86,
+    "term": "The street is dirty.",
+    "definition": "Ulica jest brudna.",
+    "example": "adjective, feminine: brudna"
+  },
+  {
+    "id": 87,
+    "term": "This road is long.",
+    "definition": "Ta droga jest długa.",
+    "example": "adjective, feminine: długa"
+  },
+  {
+    "id": 88,
+    "term": "That path is short.",
+    "definition": "Ta ścieżka jest krótka.",
+    "example": "adjective, feminine: krótka"
+  },
+  {
+    "id": 89,
+    "term": "The water is deep here.",
+    "definition": "Woda jest tutaj głęboka.",
+    "example": "adjective, feminine: głęboka"
+  },
+  {
+    "id": 90,
+    "term": "This lake is shallow.",
+    "definition": "To jezioro jest płytkie.",
+    "example": "adjective, neuter: płytkie"
+  },
+  {
+    "id": 91,
+    "term": "Good morning! How are you?",
+    "definition": "Dzień dobry! Jak się masz?",
+    "example": "everyday greeting + idiom 'jak się masz' (how are you)"
+  },
+  {
+    "id": 92,
+    "term": "Thank you very much for your help.",
+    "definition": "Dziękuję bardzo za pomoc.",
+    "example": "'za' (for) + accusative: pomoc"
+  },
+  {
+    "id": 93,
+    "term": "You're welcome.",
+    "definition": "Nie ma za co.",
+    "example": "idiom, literally 'there's nothing for what'"
+  },
+  {
+    "id": 94,
+    "term": "I'm sorry, I don't understand.",
+    "definition": "Przepraszam, nie rozumiem.",
+    "example": "everyday apology: przepraszam"
+  },
+  {
+    "id": 95,
+    "term": "Excuse me, where is the exit?",
+    "definition": "Przepraszam, gdzie jest wyjście?",
+    "example": "'przepraszam' doubles as both 'sorry' and 'excuse me'"
+  },
+  {
+    "id": 96,
+    "term": "Nice to meet you.",
+    "definition": "Miło mi cię poznać.",
+    "example": "idiom: literally 'it's pleasant to me to meet you'"
+  },
+  {
+    "id": 97,
+    "term": "See you tomorrow!",
+    "definition": "Do zobaczenia jutro!",
+    "example": "idiom: 'do zobaczenia' = see you"
+  },
+  {
+    "id": 98,
+    "term": "Have a good trip!",
+    "definition": "Miłej podróży!",
+    "example": "a wish takes the genitive: podróż → podróży"
+  },
+  {
+    "id": 99,
+    "term": "Today's date is the fifth of August.",
+    "definition": "Dziś jest piąty sierpnia.",
+    "example": "dates use an ORDINAL number + the month in genitive: piąty sierpnia"
+  },
+  {
+    "id": 100,
+    "term": "The number nine is my lucky number.",
+    "definition": "Liczba dziewięć to moja szczęśliwa liczba.",
+    "example": "'to' — a handy shortcut for 'is' in an identity statement"
+  }
+];
+window.QM_SENTENCES_IT_UPPERBEGINNER_DATA = [
+  {
+    "id": 1,
+    "term": "My father is a farmer.",
+    "definition": "Mio padre è agricoltore.",
+    "example": "no article for the profession; family words like 'padre' also drop the article after a possessive: mio padre, not il mio padre"
+  },
+  {
+    "id": 2,
+    "term": "My mother is a teacher.",
+    "definition": "Mia madre è insegnante.",
+    "example": "same double drop: no article on 'insegnante', none on 'madre' either"
+  },
+  {
+    "id": 3,
+    "term": "I have two brothers and one sister.",
+    "definition": "Ho due fratelli e una sorella.",
+    "example": "plural: fratelli; 'una' before the singular sorella"
+  },
+  {
+    "id": 4,
+    "term": "My grandmother lives with us.",
+    "definition": "Mia nonna vive con noi.",
+    "example": "'nonna' is another close-family word that skips the article: mia nonna"
+  },
+  {
+    "id": 5,
+    "term": "Our family is very big.",
+    "definition": "La nostra famiglia è molto grande.",
+    "example": "'famiglia' ISN'T on the special list — it keeps its article: la nostra"
+  },
+  {
+    "id": 6,
+    "term": "My son is five years old.",
+    "definition": "Mio figlio ha cinque anni.",
+    "example": "'avere' + anni — the standard way to state an age"
+  },
+  {
+    "id": 7,
+    "term": "My daughter likes to draw.",
+    "definition": "A mia figlia piace disegnare.",
+    "example": "'piacere' construction: 'a mia figlia' names who likes it"
+  },
+  {
+    "id": 8,
+    "term": "We have a small dog and a big cat.",
+    "definition": "Abbiamo un cane piccolo e un gatto grande.",
+    "example": "both adjectives follow their nouns here"
+  },
+  {
+    "id": 9,
+    "term": "My parents are on vacation.",
+    "definition": "I miei genitori sono in vacanza.",
+    "example": "PLURAL family nouns keep the article — 'i miei genitori', unlike the singular ones above"
+  },
+  {
+    "id": 10,
+    "term": "My best friend has three children.",
+    "definition": "Il mio migliore amico ha tre figli.",
+    "example": "'amico' isn't on the family list either, so: il mio"
+  },
+  {
+    "id": 11,
+    "term": "I wake up early on Mondays.",
+    "definition": "Mi sveglio presto il lunedì.",
+    "example": "'il' + day name = a repeated, habitual day"
+  },
+  {
+    "id": 12,
+    "term": "On Saturdays, I sleep late.",
+    "definition": "Il sabato dormo fino a tardi.",
+    "example": "same pattern: il sabato"
+  },
+  {
+    "id": 13,
+    "term": "Today is Tuesday.",
+    "definition": "Oggi è martedì.",
+    "example": "day names need no article after 'è'"
+  },
+  {
+    "id": 14,
+    "term": "Tomorrow is my birthday.",
+    "definition": "Domani è il mio compleanno.",
+    "example": "'compleanno' isn't a family word, so it keeps its article"
+  },
+  {
+    "id": 15,
+    "term": "Yesterday was a busy day.",
+    "definition": "Ieri è stata una giornata impegnativa.",
+    "example": "passato prossimo of essere, feminine: è stata"
+  },
+  {
+    "id": 16,
+    "term": "In the morning, I drink coffee.",
+    "definition": "La mattina bevo il caffè.",
+    "example": "'la mattina' = in the morning"
+  },
+  {
+    "id": 17,
+    "term": "In the evening, we watch television.",
+    "definition": "La sera guardiamo la televisione.",
+    "example": "'la sera' = in the evening"
+  },
+  {
+    "id": 18,
+    "term": "At night, I read a book.",
+    "definition": "La notte leggo un libro.",
+    "example": "'la notte' = at night"
+  },
+  {
+    "id": 19,
+    "term": "This afternoon, I have a meeting.",
+    "definition": "Questo pomeriggio ho una riunione.",
+    "example": "'questo pomeriggio' = this afternoon"
+  },
+  {
+    "id": 20,
+    "term": "Every weekend, we visit my parents.",
+    "definition": "Ogni weekend visitiamo i miei genitori.",
+    "example": "'ogni' (every) + a singular noun"
+  },
+  {
+    "id": 21,
+    "term": "I would like a glass of water.",
+    "definition": "Vorrei un bicchiere d'acqua.",
+    "example": "'vorrei' — the polite conditional for ordering"
+  },
+  {
+    "id": 22,
+    "term": "Can I have the menu, please?",
+    "definition": "Posso avere il menu, per favore?",
+    "example": "'potere' + avere"
+  },
+  {
+    "id": 23,
+    "term": "This soup is delicious.",
+    "definition": "Questa zuppa è deliziosa.",
+    "example": "adjective agrees feminine: deliziosa"
+  },
+  {
+    "id": 24,
+    "term": "I don't eat meat.",
+    "definition": "Non mangio carne.",
+    "example": "no article needed for a generic negated food"
+  },
+  {
+    "id": 25,
+    "term": "She likes sweet food.",
+    "definition": "Le piace il cibo dolce.",
+    "example": "'le piace' = it is pleasing to her"
+  },
+  {
+    "id": 26,
+    "term": "We are having pizza for dinner.",
+    "definition": "Mangiamo la pizza per cena.",
+    "example": "'per cena' = for dinner"
+  },
+  {
+    "id": 27,
+    "term": "The bread is fresh.",
+    "definition": "Il pane è fresco.",
+    "example": "adjective, masculine: fresco"
+  },
+  {
+    "id": 28,
+    "term": "I usually drink tea, not coffee.",
+    "definition": "Di solito bevo il tè, non il caffè.",
+    "example": "'di solito' = usually"
+  },
+  {
+    "id": 29,
+    "term": "This restaurant is very popular.",
+    "definition": "Questo ristorante è molto popolare.",
+    "example": "'popolare' looks the same for any gender"
+  },
+  {
+    "id": 30,
+    "term": "The food here is cheap.",
+    "definition": "Il cibo qui è economico.",
+    "example": "adjective, masculine: economico"
+  },
+  {
+    "id": 31,
+    "term": "It is sunny today.",
+    "definition": "Oggi c'è il sole.",
+    "example": "'c'è il sole' — literally 'there's the sun'"
+  },
+  {
+    "id": 32,
+    "term": "It is raining outside.",
+    "definition": "Fuori piove.",
+    "example": "'piovere' (to rain) — an impersonal verb with no subject at all"
+  },
+  {
+    "id": 33,
+    "term": "It is very windy.",
+    "definition": "C'è molto vento.",
+    "example": "'c'è vento' — same pattern as 'c'è il sole'"
+  },
+  {
+    "id": 34,
+    "term": "It is snowing in the mountains.",
+    "definition": "Nevica in montagna.",
+    "example": "'nevicare' (to snow) — impersonal, like piovere"
+  },
+  {
+    "id": 35,
+    "term": "The weather is nice this week.",
+    "definition": "Il tempo è bello questa settimana.",
+    "example": "'il tempo' = the weather"
+  },
+  {
+    "id": 36,
+    "term": "It is cloudy this morning.",
+    "definition": "Stamattina è nuvoloso.",
+    "example": "'nuvoloso' (cloudy) as a plain adjective"
+  },
+  {
+    "id": 37,
+    "term": "It is hot in the summer.",
+    "definition": "In estate fa caldo.",
+    "example": "'fare caldo' — heat uses 'fare', not 'essere'"
+  },
+  {
+    "id": 38,
+    "term": "It is cold in the winter.",
+    "definition": "In inverno fa freddo.",
+    "example": "'fare freddo' — same 'fare' pattern for cold"
+  },
+  {
+    "id": 39,
+    "term": "There is a storm coming.",
+    "definition": "Sta arrivando un temporale.",
+    "example": "'stare' + gerundio for something happening right now"
+  },
+  {
+    "id": 40,
+    "term": "The sky is blue today.",
+    "definition": "Il cielo è azzurro oggi.",
+    "example": "adjective, masculine: azzurro"
+  },
+  {
+    "id": 41,
+    "term": "I visited my grandparents last week.",
+    "definition": "Ho visitato i miei nonni la settimana scorsa.",
+    "example": "passato prossimo: ho visitato"
+  },
+  {
+    "id": 42,
+    "term": "We watched a good movie yesterday.",
+    "definition": "Ieri abbiamo guardato un bel film.",
+    "example": "passato prossimo, plural: abbiamo guardato"
+  },
+  {
+    "id": 43,
+    "term": "She cooked dinner for us.",
+    "definition": "Ci ha cucinato la cena.",
+    "example": "'ci' (for us) sits before the verb"
+  },
+  {
+    "id": 44,
+    "term": "They traveled to Spain last summer.",
+    "definition": "Sono andati in Spagna la scorsa estate.",
+    "example": "'andare' is a motion verb, so the perfect takes 'essere': sono andati"
+  },
+  {
+    "id": 45,
+    "term": "I finished my homework early.",
+    "definition": "Ho finito i compiti presto.",
+    "example": "passato prossimo with avere: ho finito"
+  },
+  {
+    "id": 46,
+    "term": "He bought a new car.",
+    "definition": "Ha comprato una macchina nuova.",
+    "example": "passato prossimo: ha comprato"
+  },
+  {
+    "id": 47,
+    "term": "We walked to the park.",
+    "definition": "Abbiamo camminato fino al parco.",
+    "example": "'camminare' (walk) uses 'avere', unlike 'andare'"
+  },
+  {
+    "id": 48,
+    "term": "I called my friend this morning.",
+    "definition": "Stamattina ho chiamato il mio amico.",
+    "example": "passato prossimo: ho chiamato"
+  },
+  {
+    "id": 49,
+    "term": "She sold her old bicycle.",
+    "definition": "Ha venduto la sua vecchia bicicletta.",
+    "example": "passato prossimo: ha venduto"
+  },
+  {
+    "id": 50,
+    "term": "We celebrated his birthday together.",
+    "definition": "Abbiamo festeggiato insieme il suo compleanno.",
+    "example": "passato prossimo, plural: abbiamo festeggiato"
+  },
+  {
+    "id": 51,
+    "term": "I am going to visit my aunt.",
+    "definition": "Vado a trovare mia zia.",
+    "example": "'andare a' + infinitive is the classic near-future; 'trovare' idiomatically means 'to visit' a person"
+  },
+  {
+    "id": 52,
+    "term": "We are going to have a party.",
+    "definition": "Facciamo una festa.",
+    "example": "the plain present often stands in for the near future in Italian"
+  },
+  {
+    "id": 53,
+    "term": "She is going to start a new job.",
+    "definition": "Comincia un nuovo lavoro.",
+    "example": "present tense, near future: comincia"
+  },
+  {
+    "id": 54,
+    "term": "They are going to move to a new city.",
+    "definition": "Si trasferiscono in una nuova città.",
+    "example": "present reflexive, near future: si trasferiscono"
+  },
+  {
+    "id": 55,
+    "term": "I am going to buy a new phone.",
+    "definition": "Compro un nuovo telefono.",
+    "example": "present, near future: compro"
+  },
+  {
+    "id": 56,
+    "term": "He is going to learn to swim.",
+    "definition": "Impara a nuotare.",
+    "example": "'imparare a' + infinitive, present as near future"
+  },
+  {
+    "id": 57,
+    "term": "We are going to travel next month.",
+    "definition": "Viaggiamo il mese prossimo.",
+    "example": "present, near future: viaggiamo"
+  },
+  {
+    "id": 58,
+    "term": "I am going to cook dinner tonight.",
+    "definition": "Stasera cucino la cena.",
+    "example": "present, near future: cucino"
+  },
+  {
+    "id": 59,
+    "term": "She is going to call you later.",
+    "definition": "Ti chiama più tardi.",
+    "example": "present, near future: chiama"
+  },
+  {
+    "id": 60,
+    "term": "They are going to arrive tomorrow.",
+    "definition": "Arrivano domani.",
+    "example": "present, near future: arrivano"
+  },
+  {
+    "id": 61,
+    "term": "I like coffee and tea.",
+    "definition": "Mi piacciono il caffè e il tè.",
+    "example": "'piacere' agrees PLURAL: piacciono, since two things are liked"
+  },
+  {
+    "id": 62,
+    "term": "She is smart and kind.",
+    "definition": "È intelligente e gentile.",
+    "example": "the subject pronoun is dropped — very normal in Italian"
+  },
+  {
+    "id": 63,
+    "term": "I want to go, but I am tired.",
+    "definition": "Voglio andare, ma sono stanco.",
+    "example": "'ma' = but"
+  },
+  {
+    "id": 64,
+    "term": "He is tall, but his brother is short.",
+    "definition": "Lui è alto, ma suo fratello è basso.",
+    "example": "'ma' contrasting two people"
+  },
+  {
+    "id": 65,
+    "term": "Do you want tea or coffee?",
+    "definition": "Vuoi il tè o il caffè?",
+    "example": "'o' = or"
+  },
+  {
+    "id": 66,
+    "term": "You can call me or send a message.",
+    "definition": "Puoi chiamarmi o mandare un messaggio.",
+    "example": "'o' linking two actions"
+  },
+  {
+    "id": 67,
+    "term": "I stayed home because it was raining.",
+    "definition": "Sono rimasto a casa perché pioveva.",
+    "example": "'perché' = because; imperfetto 'pioveva' for ongoing weather"
+  },
+  {
+    "id": 68,
+    "term": "She was late because of the traffic.",
+    "definition": "È arrivata tardi a causa del traffico.",
+    "example": "'a causa di' = because of"
+  },
+  {
+    "id": 69,
+    "term": "I am happy because I passed the test.",
+    "definition": "Sono felice perché ho superato il test.",
+    "example": "'perché' + passato prossimo"
+  },
+  {
+    "id": 70,
+    "term": "He is tired because he worked all day.",
+    "definition": "È stanco perché ha lavorato tutto il giorno.",
+    "example": "'perché' + passato prossimo"
+  },
+  {
+    "id": 71,
+    "term": "The bank is near the school.",
+    "definition": "La banca è vicino alla scuola.",
+    "example": "'vicino a' + 'la' contract into 'alla'"
+  },
+  {
+    "id": 72,
+    "term": "The park is far from here.",
+    "definition": "Il parco è lontano da qui.",
+    "example": "'lontano da' = far from"
+  },
+  {
+    "id": 73,
+    "term": "Turn left at the corner.",
+    "definition": "Gira a sinistra all'angolo.",
+    "example": "'a sinistra' = to the left"
+  },
+  {
+    "id": 74,
+    "term": "Turn right at the traffic light.",
+    "definition": "Gira a destra al semaforo.",
+    "example": "'a destra' = to the right"
+  },
+  {
+    "id": 75,
+    "term": "Go straight ahead.",
+    "definition": "Vai dritto.",
+    "example": "'dritto' = straight ahead"
+  },
+  {
+    "id": 76,
+    "term": "The hospital is next to the church.",
+    "definition": "L'ospedale è accanto alla chiesa.",
+    "example": "'accanto a' = next to"
+  },
+  {
+    "id": 77,
+    "term": "The store is across from the hotel.",
+    "definition": "Il negozio è di fronte all'hotel.",
+    "example": "'di fronte a' = across from"
+  },
+  {
+    "id": 78,
+    "term": "It is behind the building.",
+    "definition": "È dietro l'edificio.",
+    "example": "'dietro' (behind) needs no linking preposition"
+  },
+  {
+    "id": 79,
+    "term": "It is in front of the station.",
+    "definition": "È davanti alla stazione.",
+    "example": "'davanti a' = in front of"
+  },
+  {
+    "id": 80,
+    "term": "The bathroom is upstairs.",
+    "definition": "Il bagno è di sopra.",
+    "example": "'di sopra' = upstairs"
+  },
+  {
+    "id": 81,
+    "term": "The car is red.",
+    "definition": "La macchina è rossa.",
+    "example": "adjective, feminine: rossa"
+  },
+  {
+    "id": 82,
+    "term": "The house is white and big.",
+    "definition": "La casa è bianca e grande.",
+    "example": "two adjectives, feminine: bianca, grande"
+  },
+  {
+    "id": 83,
+    "term": "This box is heavy.",
+    "definition": "Questa scatola è pesante.",
+    "example": "'pesante' looks the same for any gender"
+  },
+  {
+    "id": 84,
+    "term": "That bag is light.",
+    "definition": "Quella borsa è leggera.",
+    "example": "adjective, feminine: leggera"
+  },
+  {
+    "id": 85,
+    "term": "The room is clean.",
+    "definition": "La stanza è pulita.",
+    "example": "adjective, feminine: pulita"
+  },
+  {
+    "id": 86,
+    "term": "The street is dirty.",
+    "definition": "La strada è sporca.",
+    "example": "adjective, feminine: sporca"
+  },
+  {
+    "id": 87,
+    "term": "This road is long.",
+    "definition": "Questa strada è lunga.",
+    "example": "adjective, feminine: lunga"
+  },
+  {
+    "id": 88,
+    "term": "That path is short.",
+    "definition": "Quel sentiero è corto.",
+    "example": "adjective, masculine: corto"
+  },
+  {
+    "id": 89,
+    "term": "The water is deep here.",
+    "definition": "L'acqua qui è profonda.",
+    "example": "adjective, feminine: profonda"
+  },
+  {
+    "id": 90,
+    "term": "This lake is shallow.",
+    "definition": "Questo lago è poco profondo.",
+    "example": "'poco profondo' — literally 'little deep', Italian's way of saying shallow"
+  },
+  {
+    "id": 91,
+    "term": "Good morning! How are you?",
+    "definition": "Buongiorno! Come stai?",
+    "example": "wellbeing questions use 'stare', not 'essere': come stai"
+  },
+  {
+    "id": 92,
+    "term": "Thank you very much for your help.",
+    "definition": "Grazie mille per il tuo aiuto.",
+    "example": "'grazie mille' — literally 'a thousand thanks'"
+  },
+  {
+    "id": 93,
+    "term": "You're welcome.",
+    "definition": "Prego.",
+    "example": "the standard one-word reply to 'grazie'"
+  },
+  {
+    "id": 94,
+    "term": "I'm sorry, I don't understand.",
+    "definition": "Mi dispiace, non capisco.",
+    "example": "'mi dispiace' = I'm sorry"
+  },
+  {
+    "id": 95,
+    "term": "Excuse me, where is the exit?",
+    "definition": "Scusi, dov'è l'uscita?",
+    "example": "formal 'scusi', for a stranger"
+  },
+  {
+    "id": 96,
+    "term": "Nice to meet you.",
+    "definition": "Piacere di conoscerti.",
+    "example": "'piacere' here means 'pleasure', not 'to like'"
+  },
+  {
+    "id": 97,
+    "term": "See you tomorrow!",
+    "definition": "Ci vediamo domani!",
+    "example": "'ci vediamo' — literally 'we see each other'"
+  },
+  {
+    "id": 98,
+    "term": "Have a good trip!",
+    "definition": "Buon viaggio!",
+    "example": "a fixed wish, no verb needed"
+  },
+  {
+    "id": 99,
+    "term": "Today's date is the fifth of August.",
+    "definition": "Oggi è il cinque agosto.",
+    "example": "Italian dates use CARDINAL numbers (cinque), not ordinals — except for the 1st (il primo)"
+  },
+  {
+    "id": 100,
+    "term": "The number nine is my lucky number.",
+    "definition": "Il numero nove è il mio numero fortunato.",
+    "example": "'fortunato' (lucky) agrees masculine with 'numero'"
+  }
+];
