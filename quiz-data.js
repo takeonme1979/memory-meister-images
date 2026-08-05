@@ -2658,7 +2658,15 @@ window.QM_HIDDEN_QUIZZES = [
   "ukIntermediateSentences",
   "rukIntermediateSentences",
   "ukPhrases",
-  "rukPhrases"
+  "rukPhrases",
+  "csUpperBeginnerSentences",
+  "rcsUpperBeginnerSentences",
+  "csLowerIntSentences",
+  "rcsLowerIntSentences",
+  "csIntermediateSentences",
+  "rcsIntermediateSentences",
+  "csPhrases",
+  "rcsPhrases"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -134347,5 +134355,2413 @@ window.QM_PHRASES_UK_DATA = [
     "term": "Thanks for everything.",
     "definition": "Дякую за все.",
     "example": "'дякую за' + accusative"
+  }
+];
+window.QM_SENTENCES_CS_UPPERBEGINNER_DATA = [
+  {
+    "id": 1,
+    "term": "My father is a farmer.",
+    "definition": "Můj otec je zemědělcem.",
+    "example": "a profession noun after 'být' takes the instrumental: zemědělec → zemědělcem"
+  },
+  {
+    "id": 2,
+    "term": "My mother is a teacher.",
+    "definition": "Moje matka je učitelkou.",
+    "example": "instrumental, feminine: učitelka → učitelkou"
+  },
+  {
+    "id": 3,
+    "term": "I have two brothers and one sister.",
+    "definition": "Mám dva bratry a jednu sestru.",
+    "example": "accusative objects: bratry, sestru"
+  },
+  {
+    "id": 4,
+    "term": "My grandmother lives with us.",
+    "definition": "Moje babička bydlí s námi.",
+    "example": "'s' + instrumental = with"
+  },
+  {
+    "id": 5,
+    "term": "Our family is very big.",
+    "definition": "Naše rodina je velmi velká.",
+    "example": "'naše' = our, feminine agreement with rodina"
+  },
+  {
+    "id": 6,
+    "term": "My son is five years old.",
+    "definition": "Mému synovi je pět let.",
+    "example": "age uses the dative: mému synovi"
+  },
+  {
+    "id": 7,
+    "term": "My daughter likes to draw.",
+    "definition": "Moje dcera ráda kreslí.",
+    "example": "'ráda' + verb — an adverbial way to say 'likes to'"
+  },
+  {
+    "id": 8,
+    "term": "We have a small dog and a big cat.",
+    "definition": "Máme malého psa a velkou kočku.",
+    "example": "accusative objects: psa, kočku"
+  },
+  {
+    "id": 9,
+    "term": "My parents are on vacation.",
+    "definition": "Moji rodiče jsou na dovolené.",
+    "example": "locative: na dovolené"
+  },
+  {
+    "id": 10,
+    "term": "My best friend has three children.",
+    "definition": "Můj nejlepší přítel má tři děti.",
+    "example": "'nejlepší' = best, the superlative pattern"
+  },
+  {
+    "id": 11,
+    "term": "I wake up early on Mondays.",
+    "definition": "V pondělí vstávám brzy.",
+    "example": "'v' + accusative day name = on (a day)"
+  },
+  {
+    "id": 12,
+    "term": "On Saturdays, I sleep late.",
+    "definition": "V sobotu spím dlouho.",
+    "example": "same 'v' + accusative pattern"
+  },
+  {
+    "id": 13,
+    "term": "Today is Tuesday.",
+    "definition": "Dnes je úterý.",
+    "example": "day names need no article"
+  },
+  {
+    "id": 14,
+    "term": "Tomorrow is my birthday.",
+    "definition": "Zítra jsou moje narozeniny.",
+    "example": "'narozeniny' is a plural-only noun, so the verb agrees plural: jsou"
+  },
+  {
+    "id": 15,
+    "term": "Yesterday was a busy day.",
+    "definition": "Včera byl rušný den.",
+    "example": "past tense of být: byl"
+  },
+  {
+    "id": 16,
+    "term": "In the morning, I drink coffee.",
+    "definition": "Ráno piju kávu.",
+    "example": "'ráno' = in the morning"
+  },
+  {
+    "id": 17,
+    "term": "In the evening, we watch television.",
+    "definition": "Večer se díváme na televizi.",
+    "example": "'dívat se na' = to watch"
+  },
+  {
+    "id": 18,
+    "term": "At night, I read a book.",
+    "definition": "V noci čtu knihu.",
+    "example": "'v noci' = at night"
+  },
+  {
+    "id": 19,
+    "term": "This afternoon, I have a meeting.",
+    "definition": "Dnes odpoledne mám schůzku.",
+    "example": "'dnes odpoledne' = this afternoon"
+  },
+  {
+    "id": 20,
+    "term": "Every weekend, we visit my parents.",
+    "definition": "Každý víkend navštěvujeme moje rodiče.",
+    "example": "accusative: moje rodiče"
+  },
+  {
+    "id": 21,
+    "term": "I would like a glass of water.",
+    "definition": "Chtěl bych sklenici vody.",
+    "example": "'chtěl bych' — conditional of 'chtít', the polite 'I would like' (masculine speaker)"
+  },
+  {
+    "id": 22,
+    "term": "Can I have the menu, please?",
+    "definition": "Mohu dostat jídelní lístek, prosím?",
+    "example": "'moci' + infinitive = can"
+  },
+  {
+    "id": 23,
+    "term": "This soup is delicious.",
+    "definition": "Tato polévka je vynikající.",
+    "example": "'tato' — feminine 'this'"
+  },
+  {
+    "id": 24,
+    "term": "I don't eat meat.",
+    "definition": "Nejím maso.",
+    "example": "no article needed for a generic negated food"
+  },
+  {
+    "id": 25,
+    "term": "She likes sweet food.",
+    "definition": "Má ráda sladké jídlo.",
+    "example": "'má ráda' — the standard 'to like' construction"
+  },
+  {
+    "id": 26,
+    "term": "We are having pizza for dinner.",
+    "definition": "K večeři máme pizzu.",
+    "example": "'k večeři' = for dinner"
+  },
+  {
+    "id": 27,
+    "term": "The bread is fresh.",
+    "definition": "Chléb je čerstvý.",
+    "example": "no article needed"
+  },
+  {
+    "id": 28,
+    "term": "I usually drink tea, not coffee.",
+    "definition": "Obvykle piju čaj, ne kávu.",
+    "example": "'obvykle' = usually"
+  },
+  {
+    "id": 29,
+    "term": "This restaurant is very popular.",
+    "definition": "Tato restaurace je velmi oblíbená.",
+    "example": "'tato' — feminine 'this'"
+  },
+  {
+    "id": 30,
+    "term": "The food here is cheap.",
+    "definition": "Jídlo je tady levné.",
+    "example": "'tady' = here"
+  },
+  {
+    "id": 31,
+    "term": "It is sunny today.",
+    "definition": "Dnes svítí slunce.",
+    "example": "literally 'the sun shines today'"
+  },
+  {
+    "id": 32,
+    "term": "It is raining outside.",
+    "definition": "Venku prší.",
+    "example": "'pršet' — an impersonal weather verb"
+  },
+  {
+    "id": 33,
+    "term": "It is very windy.",
+    "definition": "Je velký vítr.",
+    "example": "literally 'there is big wind'"
+  },
+  {
+    "id": 34,
+    "term": "It is snowing in the mountains.",
+    "definition": "V horách sněží.",
+    "example": "'sněžit' — impersonal weather verb"
+  },
+  {
+    "id": 35,
+    "term": "The weather is nice this week.",
+    "definition": "Tento týden je hezké počasí.",
+    "example": "'tento týden' = this week"
+  },
+  {
+    "id": 36,
+    "term": "It is cloudy this morning.",
+    "definition": "Dnes ráno je zataženo.",
+    "example": "'zataženo' = cloudy"
+  },
+  {
+    "id": 37,
+    "term": "It is hot in the summer.",
+    "definition": "V létě je horko.",
+    "example": "'v létě' = in summer"
+  },
+  {
+    "id": 38,
+    "term": "It is cold in the winter.",
+    "definition": "V zimě je zima.",
+    "example": "'v zimě' = in winter"
+  },
+  {
+    "id": 39,
+    "term": "There is a storm coming.",
+    "definition": "Blíží se bouřka.",
+    "example": "reflexive verb: blížit se"
+  },
+  {
+    "id": 40,
+    "term": "The sky is blue today.",
+    "definition": "Dnes je obloha modrá.",
+    "example": "no article needed"
+  },
+  {
+    "id": 41,
+    "term": "I visited my grandparents last week.",
+    "definition": "Minulý týden jsem navštívil své prarodiče.",
+    "example": "perfective past, masculine: navštívil"
+  },
+  {
+    "id": 42,
+    "term": "We watched a good movie yesterday.",
+    "definition": "Včera jsme se dívali na dobrý film.",
+    "example": "imperfective past: dívali jsme se"
+  },
+  {
+    "id": 43,
+    "term": "She cooked dinner for us.",
+    "definition": "Uvařila nám večeři.",
+    "example": "dative 'nám' = for us"
+  },
+  {
+    "id": 44,
+    "term": "They traveled to Spain last summer.",
+    "definition": "Minulé léto cestovali do Španělska.",
+    "example": "'do' + genitive = to (a country)"
+  },
+  {
+    "id": 45,
+    "term": "I finished my homework early.",
+    "definition": "Brzy jsem dokončil domácí úkol.",
+    "example": "perfective past: dokončil"
+  },
+  {
+    "id": 46,
+    "term": "He bought a new car.",
+    "definition": "Koupil si nové auto.",
+    "example": "reflexive-dative 'si' — common in Czech possession-of-purchase phrasing"
+  },
+  {
+    "id": 47,
+    "term": "We walked to the park.",
+    "definition": "Šli jsme pěšky do parku.",
+    "example": "'pěšky' = on foot"
+  },
+  {
+    "id": 48,
+    "term": "I called my friend this morning.",
+    "definition": "Dnes ráno jsem zavolal příteli.",
+    "example": "'zavolat' takes a dative object: příteli"
+  },
+  {
+    "id": 49,
+    "term": "She sold her old bicycle.",
+    "definition": "Prodala své staré kolo.",
+    "example": "'své' — the reflexive possessive, used since the owner is the subject"
+  },
+  {
+    "id": 50,
+    "term": "We celebrated his birthday together.",
+    "definition": "Společně jsme oslavili jeho narozeniny.",
+    "example": "'jeho' = his (not reflexive, since the owner isn't the subject)"
+  },
+  {
+    "id": 51,
+    "term": "I am going to visit my aunt.",
+    "definition": "Navštívím svou tetu.",
+    "example": "perfective present used as future: navštívím"
+  },
+  {
+    "id": 52,
+    "term": "We are going to have a party.",
+    "definition": "Uspořádáme večírek.",
+    "example": "perfective future: uspořádáme"
+  },
+  {
+    "id": 53,
+    "term": "She is going to start a new job.",
+    "definition": "Začne novou práci.",
+    "example": "perfective future: začne"
+  },
+  {
+    "id": 54,
+    "term": "They are going to move to a new city.",
+    "definition": "Přestěhují se do nového města.",
+    "example": "reflexive perfective future: přestěhují se"
+  },
+  {
+    "id": 55,
+    "term": "I am going to buy a new phone.",
+    "definition": "Koupím si nový telefon.",
+    "example": "perfective future: koupím"
+  },
+  {
+    "id": 56,
+    "term": "He is going to learn to swim.",
+    "definition": "Naučí se plavat.",
+    "example": "reflexive perfective future: naučí se"
+  },
+  {
+    "id": 57,
+    "term": "We are going to travel next month.",
+    "definition": "Příští měsíc budeme cestovat.",
+    "example": "imperfective future with 'budeme' — an ongoing activity, not a single completed event"
+  },
+  {
+    "id": 58,
+    "term": "I am going to cook dinner tonight.",
+    "definition": "Dnes večer uvařím večeři.",
+    "example": "perfective future: uvařím"
+  },
+  {
+    "id": 59,
+    "term": "She is going to call you later.",
+    "definition": "Zavolá ti později.",
+    "example": "perfective future: zavolá"
+  },
+  {
+    "id": 60,
+    "term": "They are going to arrive tomorrow.",
+    "definition": "Zítra přijedou.",
+    "example": "perfective future: přijedou"
+  },
+  {
+    "id": 61,
+    "term": "I like coffee and tea.",
+    "definition": "Mám rád kávu a čaj.",
+    "example": "'mám rád' — the standard 'to like' construction (masculine speaker)"
+  },
+  {
+    "id": 62,
+    "term": "She is smart and kind.",
+    "definition": "Je chytrá a milá.",
+    "example": "feminine adjective agreement"
+  },
+  {
+    "id": 63,
+    "term": "I want to go, but I am tired.",
+    "definition": "Chci jít, ale jsem unavený.",
+    "example": "'ale' = but"
+  },
+  {
+    "id": 64,
+    "term": "He is tall, but his brother is short.",
+    "definition": "Je vysoký, ale jeho bratr je malý.",
+    "example": "'jeho bratr' = his brother"
+  },
+  {
+    "id": 65,
+    "term": "Do you want tea or coffee?",
+    "definition": "Chceš čaj nebo kávu?",
+    "example": "'nebo' = or"
+  },
+  {
+    "id": 66,
+    "term": "You can call me or send a message.",
+    "definition": "Můžeš mi zavolat nebo poslat zprávu.",
+    "example": "'nebo' linking two actions"
+  },
+  {
+    "id": 67,
+    "term": "I stayed home because it was raining.",
+    "definition": "Zůstal jsem doma, protože pršelo.",
+    "example": "'protože' = because"
+  },
+  {
+    "id": 68,
+    "term": "She was late because of the traffic.",
+    "definition": "Přišla pozdě kvůli dopravě.",
+    "example": "'kvůli' + dative = because of"
+  },
+  {
+    "id": 69,
+    "term": "I am happy because I passed the test.",
+    "definition": "Jsem šťastný, protože jsem udělal test.",
+    "example": "'udělat test' = to pass a test"
+  },
+  {
+    "id": 70,
+    "term": "He is tired because he worked all day.",
+    "definition": "Je unavený, protože pracoval celý den.",
+    "example": "'protože' clause"
+  },
+  {
+    "id": 71,
+    "term": "The bank is near the school.",
+    "definition": "Banka je blízko školy.",
+    "example": "'blízko' + genitive = near"
+  },
+  {
+    "id": 72,
+    "term": "The park is far from here.",
+    "definition": "Park je daleko odsud.",
+    "example": "'odsud' = from here"
+  },
+  {
+    "id": 73,
+    "term": "Turn left at the corner.",
+    "definition": "Na rohu zahni doleva.",
+    "example": "'doleva' = to the left"
+  },
+  {
+    "id": 74,
+    "term": "Turn right at the traffic light.",
+    "definition": "Na semaforu zahni doprava.",
+    "example": "'doprava' = to the right"
+  },
+  {
+    "id": 75,
+    "term": "Go straight ahead.",
+    "definition": "Jdi rovně.",
+    "example": "'rovně' = straight ahead"
+  },
+  {
+    "id": 76,
+    "term": "The hospital is next to the church.",
+    "definition": "Nemocnice je vedle kostela.",
+    "example": "'vedle' + genitive = next to"
+  },
+  {
+    "id": 77,
+    "term": "The store is across from the hotel.",
+    "definition": "Obchod je naproti hotelu.",
+    "example": "'naproti' + dative = across from"
+  },
+  {
+    "id": 78,
+    "term": "It is behind the building.",
+    "definition": "Je to za budovou.",
+    "example": "'za' + instrumental = behind"
+  },
+  {
+    "id": 79,
+    "term": "It is in front of the station.",
+    "definition": "Je to před nádražím.",
+    "example": "'před' + instrumental = in front of"
+  },
+  {
+    "id": 80,
+    "term": "The bathroom is upstairs.",
+    "definition": "Koupelna je nahoře.",
+    "example": "'nahoře' = upstairs"
+  },
+  {
+    "id": 81,
+    "term": "The car is red.",
+    "definition": "Auto je červené.",
+    "example": "neuter adjective agreement"
+  },
+  {
+    "id": 82,
+    "term": "The house is white and big.",
+    "definition": "Dům je bílý a velký.",
+    "example": "masculine adjective agreement"
+  },
+  {
+    "id": 83,
+    "term": "This box is heavy.",
+    "definition": "Tato krabice je těžká.",
+    "example": "'tato' — feminine 'this'"
+  },
+  {
+    "id": 84,
+    "term": "That bag is light.",
+    "definition": "Ta taška je lehká.",
+    "example": "'ta' — feminine 'that'"
+  },
+  {
+    "id": 85,
+    "term": "The room is clean.",
+    "definition": "Pokoj je čistý.",
+    "example": "masculine adjective agreement"
+  },
+  {
+    "id": 86,
+    "term": "The street is dirty.",
+    "definition": "Ulice je špinavá.",
+    "example": "feminine adjective agreement"
+  },
+  {
+    "id": 87,
+    "term": "This road is long.",
+    "definition": "Tato silnice je dlouhá.",
+    "example": "'tato' — feminine 'this'"
+  },
+  {
+    "id": 88,
+    "term": "That path is short.",
+    "definition": "Ta cestička je krátká.",
+    "example": "'ta' — feminine 'that'"
+  },
+  {
+    "id": 89,
+    "term": "The water is deep here.",
+    "definition": "Voda je tady hluboká.",
+    "example": "feminine adjective agreement"
+  },
+  {
+    "id": 90,
+    "term": "This lake is shallow.",
+    "definition": "Toto jezero je mělké.",
+    "example": "'toto' — neuter 'this'"
+  },
+  {
+    "id": 91,
+    "term": "I see her every day.",
+    "definition": "Vidím ji každý den.",
+    "example": "accusative object pronoun: ji"
+  },
+  {
+    "id": 92,
+    "term": "He calls me every week.",
+    "definition": "Volá mi každý týden.",
+    "example": "'volat' takes a dative object: mi"
+  },
+  {
+    "id": 93,
+    "term": "We visit them on Sundays.",
+    "definition": "V neděli je navštěvujeme.",
+    "example": "accusative object pronoun: je"
+  },
+  {
+    "id": 94,
+    "term": "She waits for us at the station.",
+    "definition": "Čeká na nás na nádraží.",
+    "example": "'čekat na' + accusative = to wait for"
+  },
+  {
+    "id": 95,
+    "term": "I don't see him here.",
+    "definition": "Nevidím ho tady.",
+    "example": "accusative object pronoun: ho"
+  },
+  {
+    "id": 96,
+    "term": "They know you well.",
+    "definition": "Znají tě dobře.",
+    "example": "accusative: tě"
+  },
+  {
+    "id": 97,
+    "term": "Do you understand me?",
+    "definition": "Rozumíš mi?",
+    "example": "'rozumět' takes a dative object: mi"
+  },
+  {
+    "id": 98,
+    "term": "I love you very much.",
+    "definition": "Mám tě moc rád.",
+    "example": "accusative: tě, plus 'mám rád' idiom"
+  },
+  {
+    "id": 99,
+    "term": "Today's date is the fifth of August.",
+    "definition": "Dnes je pátého srpna.",
+    "example": "dates use the genitive: pátého srpna"
+  },
+  {
+    "id": 100,
+    "term": "The number nine is my lucky number.",
+    "definition": "Číslo devět je moje šťastné číslo.",
+    "example": "'šťastné číslo' = lucky number"
+  }
+];
+window.QM_SENTENCES_CS_LOWERINT_DATA = [
+  {
+    "id": 1,
+    "term": "I want to learn Czech.",
+    "definition": "Chci se naučit česky.",
+    "example": "'naučit se' + adverb 'česky' = to learn a language"
+  },
+  {
+    "id": 2,
+    "term": "I can help you tomorrow.",
+    "definition": "Mohu ti pomoct zítra.",
+    "example": "'pomoct' takes a dative object: ti"
+  },
+  {
+    "id": 3,
+    "term": "I must go now.",
+    "definition": "Musím teď jít.",
+    "example": "'muset' + infinitive = must"
+  },
+  {
+    "id": 4,
+    "term": "You should rest.",
+    "definition": "Měl bys odpočívat.",
+    "example": "'měl bys' — conditional of 'mít', softens it to 'should'"
+  },
+  {
+    "id": 5,
+    "term": "She should call her mother.",
+    "definition": "Měla by zavolat mamince.",
+    "example": "same 'měl by' pattern, feminine"
+  },
+  {
+    "id": 6,
+    "term": "We want to visit Prague.",
+    "definition": "Chceme navštívit Prahu.",
+    "example": "chceme + infinitive"
+  },
+  {
+    "id": 7,
+    "term": "They can't come today.",
+    "definition": "Nemohou dnes přijít.",
+    "example": "negated 'moci' + infinitive"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to eat now.",
+    "definition": "Nechci teď jíst.",
+    "example": "negated 'chtít' + infinitive"
+  },
+  {
+    "id": 9,
+    "term": "Do you want some tea?",
+    "definition": "Chceš čaj?",
+    "example": "no article needed for an uncountable noun"
+  },
+  {
+    "id": 10,
+    "term": "I would like to order a coffee.",
+    "definition": "Chtěl bych si objednat kávu.",
+    "example": "'chtěl bych' softens the request"
+  },
+  {
+    "id": 11,
+    "term": "You have to be careful.",
+    "definition": "Musíš být opatrný.",
+    "example": "muset + infinitive"
+  },
+  {
+    "id": 12,
+    "term": "It's necessary to buy bread.",
+    "definition": "Je potřeba koupit chleba.",
+    "example": "'je potřeba' = it's necessary"
+  },
+  {
+    "id": 13,
+    "term": "You can smoke here.",
+    "definition": "Tady se smí kouřit.",
+    "example": "'smět' — reflexive 'se smí' expresses general permission"
+  },
+  {
+    "id": 14,
+    "term": "You can't park here.",
+    "definition": "Tady se nesmí parkovat.",
+    "example": "'se nesmí' = not allowed"
+  },
+  {
+    "id": 15,
+    "term": "It's worth trying this soup.",
+    "definition": "Stojí za to vyzkoušet tuto polévku.",
+    "example": "'stojí za to' = it's worth it"
+  },
+  {
+    "id": 16,
+    "term": "It's not necessary to hurry.",
+    "definition": "Není potřeba spěchat.",
+    "example": "negated 'je potřeba'"
+  },
+  {
+    "id": 17,
+    "term": "You shouldn't smoke.",
+    "definition": "Neměl bys kouřit.",
+    "example": "negated 'měl bys'"
+  },
+  {
+    "id": 18,
+    "term": "One has to work hard.",
+    "definition": "Musí se tvrdě pracovat.",
+    "example": "generic reflexive 'musí se'"
+  },
+  {
+    "id": 19,
+    "term": "Everyone must follow the rules.",
+    "definition": "Všichni musí dodržovat pravidla.",
+    "example": "'dodržovat' = to follow/abide by"
+  },
+  {
+    "id": 20,
+    "term": "I have to finish this today.",
+    "definition": "Musím to dneska dokončit.",
+    "example": "muset + infinitive"
+  },
+  {
+    "id": 21,
+    "term": "I like this song.",
+    "definition": "Mám rád tuhle písničku.",
+    "example": "'mám rád' — masculine speaker"
+  },
+  {
+    "id": 22,
+    "term": "Do you like this city?",
+    "definition": "Máš rád tohle město?",
+    "example": "'máš rád' — masculine addressee"
+  },
+  {
+    "id": 23,
+    "term": "We like this restaurant.",
+    "definition": "Máme rádi tuhle restauraci.",
+    "example": "plural: máme rádi"
+  },
+  {
+    "id": 24,
+    "term": "They don't like this idea.",
+    "definition": "Nemají rádi tenhle nápad.",
+    "example": "negated 'mít rád', plural"
+  },
+  {
+    "id": 25,
+    "term": "My head hurts.",
+    "definition": "Bolí mě hlava.",
+    "example": "'bolet' + accusative experiencer + subject: bolí mě hlava"
+  },
+  {
+    "id": 26,
+    "term": "My legs hurt.",
+    "definition": "Bolí mě nohy.",
+    "example": "plural subject, verb stays 'bolí' since subject follows"
+  },
+  {
+    "id": 27,
+    "term": "Does your stomach hurt?",
+    "definition": "Bolí tě břicho?",
+    "example": "'tě' = you, accusative"
+  },
+  {
+    "id": 28,
+    "term": "I feel sick.",
+    "definition": "Je mi špatně.",
+    "example": "dative idiom: je mi špatně"
+  },
+  {
+    "id": 29,
+    "term": "I am cold.",
+    "definition": "Je mi zima.",
+    "example": "dative idiom, literally 'to me it is cold'"
+  },
+  {
+    "id": 30,
+    "term": "Are you hungry?",
+    "definition": "Máš hlad?",
+    "example": "'mít hlad' = to be hungry"
+  },
+  {
+    "id": 31,
+    "term": "The more you practice, the better you speak.",
+    "definition": "Čím víc cvičíš, tím lépe mluvíš.",
+    "example": "'čím... tím...' = the more... the more..."
+  },
+  {
+    "id": 32,
+    "term": "The sooner, the better.",
+    "definition": "Čím dřív, tím líp.",
+    "example": "same correlative, shortened"
+  },
+  {
+    "id": 33,
+    "term": "Both my sister and my brother live in Prague.",
+    "definition": "Jak moje sestra, tak můj bratr žijí v Praze.",
+    "example": "'jak... tak...' = both... and..."
+  },
+  {
+    "id": 34,
+    "term": "I like neither tea nor coffee.",
+    "definition": "Nemám rád ani čaj, ani kávu.",
+    "example": "'ani... ani...' = neither... nor..."
+  },
+  {
+    "id": 35,
+    "term": "This is the most beautiful city in the Czech Republic.",
+    "definition": "Toto je nejkrásnější město v Česku.",
+    "example": "superlative prefix nej-: nejkrásnější"
+  },
+  {
+    "id": 36,
+    "term": "He is older than me.",
+    "definition": "Je starší než já.",
+    "example": "'než' = than"
+  },
+  {
+    "id": 37,
+    "term": "This is worse than I thought.",
+    "definition": "Tohle je horší, než jsem si myslel.",
+    "example": "'horší' — irregular comparative of 'špatný'"
+  },
+  {
+    "id": 38,
+    "term": "She sings better than he does.",
+    "definition": "Zpívá lépe než on.",
+    "example": "'lépe' — irregular comparative adverb"
+  },
+  {
+    "id": 39,
+    "term": "This task is easier than that one.",
+    "definition": "Tento úkol je jednodušší než tamten.",
+    "example": "'jednodušší než' = easier than"
+  },
+  {
+    "id": 40,
+    "term": "He runs the fastest on our team.",
+    "definition": "Běhá nejrychleji v našem týmu.",
+    "example": "superlative adverb: nejrychleji"
+  },
+  {
+    "id": 41,
+    "term": "I think that this is a good idea.",
+    "definition": "Myslím, že je to dobrý nápad.",
+    "example": "'že' = that"
+  },
+  {
+    "id": 42,
+    "term": "I know that you are right.",
+    "definition": "Vím, že máš pravdu.",
+    "example": "'mít pravdu' = to be right"
+  },
+  {
+    "id": 43,
+    "term": "I hope that the weather will be nice.",
+    "definition": "Doufám, že bude hezké počasí.",
+    "example": "'že' + future"
+  },
+  {
+    "id": 44,
+    "term": "I am glad that you came.",
+    "definition": "Jsem rád, že jsi přišel.",
+    "example": "'jsem rád, že' + clause"
+  },
+  {
+    "id": 45,
+    "term": "I don't think that it's true.",
+    "definition": "Nemyslím, že je to pravda.",
+    "example": "negated main clause"
+  },
+  {
+    "id": 46,
+    "term": "I am learning Czech because I want to live in the Czech Republic.",
+    "definition": "Učím se česky, protože chci žít v Česku.",
+    "example": "'protože' = because"
+  },
+  {
+    "id": 47,
+    "term": "I can't come because I am sick.",
+    "definition": "Nemůžu přijít, protože jsem nemocný.",
+    "example": "'protože' clause"
+  },
+  {
+    "id": 48,
+    "term": "I am studying so that I can pass the exam.",
+    "definition": "Učím se, abych udělal zkoušku.",
+    "example": "'abych' — the subjunctive-like particle for 'so that'"
+  },
+  {
+    "id": 49,
+    "term": "Call me when you arrive.",
+    "definition": "Zavolej mi, až přijedeš.",
+    "example": "'až' = when (for a future event)"
+  },
+  {
+    "id": 50,
+    "term": "If it rains, we will stay home.",
+    "definition": "Když bude pršet, zůstaneme doma.",
+    "example": "'když' = if"
+  },
+  {
+    "id": 51,
+    "term": "The woman who lives next door is a doctor.",
+    "definition": "Žena, která bydlí vedle, je lékařka.",
+    "example": "'která' — feminine relative pronoun"
+  },
+  {
+    "id": 52,
+    "term": "The man who called yesterday is my uncle.",
+    "definition": "Muž, který včera volal, je můj strýc.",
+    "example": "'který' — masculine relative pronoun"
+  },
+  {
+    "id": 53,
+    "term": "The book that I am reading is very interesting.",
+    "definition": "Kniha, kterou čtu, je velmi zajímavá.",
+    "example": "'kterou' — accusative feminine relative pronoun"
+  },
+  {
+    "id": 54,
+    "term": "The children who play in the park are our neighbors.",
+    "definition": "Děti, které si hrají v parku, jsou naši sousedé.",
+    "example": "'které' — plural relative pronoun"
+  },
+  {
+    "id": 55,
+    "term": "This is the house in which I grew up.",
+    "definition": "Tohle je dům, ve kterém jsem vyrostl.",
+    "example": "'ve kterém' = in which"
+  },
+  {
+    "id": 56,
+    "term": "I don't remember the name of the street where we met.",
+    "definition": "Nepamatuju si jméno ulice, kde jsme se poznali.",
+    "example": "'kde' = where"
+  },
+  {
+    "id": 57,
+    "term": "The people whom I met were very friendly.",
+    "definition": "Lidé, které jsem potkal, byli velmi přátelští.",
+    "example": "'které' — accusative plural relative pronoun"
+  },
+  {
+    "id": 58,
+    "term": "This is the reason why I am late.",
+    "definition": "To je důvod, proč jdu pozdě.",
+    "example": "'proč' = why"
+  },
+  {
+    "id": 59,
+    "term": "The car that broke down is mine.",
+    "definition": "Auto, které se porouchalo, je moje.",
+    "example": "'porouchat se' = to break down (of a machine)"
+  },
+  {
+    "id": 60,
+    "term": "I found the keys that I lost.",
+    "definition": "Našel jsem klíče, které jsem ztratil.",
+    "example": "'které' — plural relative pronoun"
+  },
+  {
+    "id": 61,
+    "term": "The meeting starts at three o'clock.",
+    "definition": "Schůzka začíná ve tři hodiny.",
+    "example": "'ve' + accusative time"
+  },
+  {
+    "id": 62,
+    "term": "I usually wake up before seven.",
+    "definition": "Obvykle vstávám před sedmou.",
+    "example": "'před' + instrumental = before"
+  },
+  {
+    "id": 63,
+    "term": "We will meet after the concert.",
+    "definition": "Setkáme se po koncertě.",
+    "example": "'po' + locative = after"
+  },
+  {
+    "id": 64,
+    "term": "The shop is open from nine to six.",
+    "definition": "Obchod je otevřený od devíti do šesti.",
+    "example": "'od... do...' = from... to..."
+  },
+  {
+    "id": 65,
+    "term": "I lived in the Czech Republic for three years.",
+    "definition": "Žil jsem v Česku tři roky.",
+    "example": "'tři roky' — accusative duration"
+  },
+  {
+    "id": 66,
+    "term": "I haven't seen him since last year.",
+    "definition": "Neviděl jsem ho od minulého roku.",
+    "example": "'od' = since"
+  },
+  {
+    "id": 67,
+    "term": "During the summer, we travel a lot.",
+    "definition": "Během léta hodně cestujeme.",
+    "example": "'během' + genitive = during"
+  },
+  {
+    "id": 68,
+    "term": "On Mondays, I go to the gym.",
+    "definition": "V pondělí chodím do posilovny.",
+    "example": "'v pondělí' — no plural needed for a repeated day"
+  },
+  {
+    "id": 69,
+    "term": "Next week, I am going on vacation.",
+    "definition": "Příští týden jedu na dovolenou.",
+    "example": "'příští týden' = next week"
+  },
+  {
+    "id": 70,
+    "term": "Two years ago, I visited the Czech Republic.",
+    "definition": "Před dvěma lety jsem navštívil Česko.",
+    "example": "'před' + instrumental = ago"
+  },
+  {
+    "id": 71,
+    "term": "There are a lot of people here.",
+    "definition": "Je tady hodně lidí.",
+    "example": "'hodně' + genitive plural"
+  },
+  {
+    "id": 72,
+    "term": "I have little time.",
+    "definition": "Mám málo času.",
+    "example": "'málo' + genitive"
+  },
+  {
+    "id": 73,
+    "term": "I have a few questions.",
+    "definition": "Mám pár otázek.",
+    "example": "'pár' + genitive plural = a few"
+  },
+  {
+    "id": 74,
+    "term": "There are many opportunities here.",
+    "definition": "Je tady hodně příležitostí.",
+    "example": "'hodně' + genitive plural"
+  },
+  {
+    "id": 75,
+    "term": "I have several friends in the Czech Republic.",
+    "definition": "Mám několik přátel v Česku.",
+    "example": "'několik' = several"
+  },
+  {
+    "id": 76,
+    "term": "Not many people know about this.",
+    "definition": "Málo lidí o tom ví.",
+    "example": "'málo' + genitive"
+  },
+  {
+    "id": 77,
+    "term": "I need a bit more time.",
+    "definition": "Potřebuju trochu víc času.",
+    "example": "'trochu víc' = a bit more"
+  },
+  {
+    "id": 78,
+    "term": "Most people agree with this.",
+    "definition": "Většina lidí s tím souhlasí.",
+    "example": "'většina' + genitive = most of"
+  },
+  {
+    "id": 79,
+    "term": "I bought a lot of books.",
+    "definition": "Koupil jsem hodně knih.",
+    "example": "'hodně' + genitive plural"
+  },
+  {
+    "id": 80,
+    "term": "There isn't enough bread.",
+    "definition": "Není dost chleba.",
+    "example": "'dost' + genitive = enough"
+  },
+  {
+    "id": 81,
+    "term": "Sit down, please.",
+    "definition": "Sedni si, prosím.",
+    "example": "reflexive imperative: sedni si"
+  },
+  {
+    "id": 82,
+    "term": "Wait for me!",
+    "definition": "Počkej na mě!",
+    "example": "'čekat na' + accusative = to wait for"
+  },
+  {
+    "id": 83,
+    "term": "Don't worry.",
+    "definition": "Nedělej si starosti.",
+    "example": "'dělat si starosti' = to worry"
+  },
+  {
+    "id": 84,
+    "term": "Close the door, please.",
+    "definition": "Zavři dveře, prosím.",
+    "example": "imperative: zavři"
+  },
+  {
+    "id": 85,
+    "term": "Let's go!",
+    "definition": "Pojďme!",
+    "example": "1st person plural imperative form"
+  },
+  {
+    "id": 86,
+    "term": "Let's eat something.",
+    "definition": "Dáme si něco k jídlu!",
+    "example": "'dát si' = to have (something to eat/drink)"
+  },
+  {
+    "id": 87,
+    "term": "Be careful!",
+    "definition": "Buď opatrný!",
+    "example": "imperative of 'být': buď"
+  },
+  {
+    "id": 88,
+    "term": "Don't be afraid.",
+    "definition": "Neboj se.",
+    "example": "negative imperative of the reflexive verb"
+  },
+  {
+    "id": 89,
+    "term": "Help me, please.",
+    "definition": "Pomoz mi, prosím.",
+    "example": "'pomoct' takes a dative object: mi"
+  },
+  {
+    "id": 90,
+    "term": "Listen to me!",
+    "definition": "Poslouchej mě!",
+    "example": "'poslouchat' + accusative — no preposition needed"
+  },
+  {
+    "id": 91,
+    "term": "I don't know where he lives.",
+    "definition": "Nevím, kde bydlí.",
+    "example": "'kde' = where"
+  },
+  {
+    "id": 92,
+    "term": "I don't know what time it is.",
+    "definition": "Nevím, kolik je hodin.",
+    "example": "'kolik je hodin' = what time is it"
+  },
+  {
+    "id": 93,
+    "term": "Tell me why you are sad.",
+    "definition": "Řekni mi, proč jsi smutný.",
+    "example": "'proč' inside an indirect question"
+  },
+  {
+    "id": 94,
+    "term": "I wonder who called.",
+    "definition": "Zajímalo by mě, kdo volal.",
+    "example": "'zajímalo by mě' = I wonder, literally 'it would interest me'"
+  },
+  {
+    "id": 95,
+    "term": "I am not sure if he is coming.",
+    "definition": "Nejsem si jistý, jestli přijde.",
+    "example": "'jestli' = if/whether"
+  },
+  {
+    "id": 96,
+    "term": "She said that she was tired.",
+    "definition": "Řekla, že je unavená.",
+    "example": "present tense inside reported speech, as is common in Czech"
+  },
+  {
+    "id": 97,
+    "term": "He asked if I spoke Czech.",
+    "definition": "Zeptal se, jestli mluvím česky.",
+    "example": "'jestli' = if/whether"
+  },
+  {
+    "id": 98,
+    "term": "If I had more time, I would learn Italian too.",
+    "definition": "Kdybych měl víc času, učil bych se i italsky.",
+    "example": "'kdybych' — the conditional particle fused with 'bych'"
+  },
+  {
+    "id": 99,
+    "term": "If I were you, I would rest.",
+    "definition": "Kdybych byl tebou, odpočíval bych.",
+    "example": "'kdybych byl tebou' = if I were you"
+  },
+  {
+    "id": 100,
+    "term": "I would be very happy if you came.",
+    "definition": "Byl bych moc šťastný, kdybys přišel.",
+    "example": "conditional on both sides: bych / kdybys"
+  }
+];
+window.QM_SENTENCES_CS_INTERMEDIATE_DATA = [
+  {
+    "id": 1,
+    "term": "I go there every day.",
+    "definition": "Chodím tam každý den.",
+    "example": "'tam' = there"
+  },
+  {
+    "id": 2,
+    "term": "I don't believe it.",
+    "definition": "Nevěřím tomu.",
+    "example": "'věřit' takes a dative object: tomu"
+  },
+  {
+    "id": 3,
+    "term": "I think about it often.",
+    "definition": "Často na to myslím.",
+    "example": "'myslet na' = to think about"
+  },
+  {
+    "id": 4,
+    "term": "How many books do you have? I have three of them.",
+    "definition": "Kolik máš knih? Mám tři.",
+    "example": "no extra pronoun needed — the number alone answers"
+  },
+  {
+    "id": 5,
+    "term": "Do you want some wine? Yes, I want some.",
+    "definition": "Chceš víno? Ano, chci trochu.",
+    "example": "'trochu' fills in for 'some'"
+  },
+  {
+    "id": 6,
+    "term": "Do you need money? Yes, I need some.",
+    "definition": "Potřebuješ peníze? Ano, potřebuju trochu.",
+    "example": "same 'trochu' pattern"
+  },
+  {
+    "id": 7,
+    "term": "I'm leaving now.",
+    "definition": "Teď odcházím.",
+    "example": "'odcházet' = to leave/go away"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to talk about it.",
+    "definition": "Nechci o tom mluvit.",
+    "example": "'mluvit o' = to talk about"
+  },
+  {
+    "id": 9,
+    "term": "How many sisters do you have? I have one.",
+    "definition": "Kolik máš sester? Mám jednu.",
+    "example": "'jednu' agrees feminine with sestra"
+  },
+  {
+    "id": 10,
+    "term": "I'm sure of it.",
+    "definition": "Jsem si tím jistý.",
+    "example": "instrumental: tím"
+  },
+  {
+    "id": 11,
+    "term": "I used to read a lot as a child.",
+    "definition": "Jako dítě jsem hodně četl.",
+    "example": "imperfective past for a repeated childhood habit: četl"
+  },
+  {
+    "id": 12,
+    "term": "Yesterday I read that whole book.",
+    "definition": "Včera jsem přečetl celou tu knihu.",
+    "example": "'přečíst' — the prefix 'pře-' marks a fully completed reading"
+  },
+  {
+    "id": 13,
+    "term": "I always drank coffee in the morning.",
+    "definition": "Vždycky jsem ráno pil kávu.",
+    "example": "imperfective: pil"
+  },
+  {
+    "id": 14,
+    "term": "This morning I drank two cups of coffee.",
+    "definition": "Dnes ráno jsem vypil dva šálky kávy.",
+    "example": "'vypít' — the prefix 'vy-' marks completion"
+  },
+  {
+    "id": 15,
+    "term": "She was writing a letter when I called.",
+    "definition": "Psala dopis, když jsem zavolal.",
+    "example": "imperfective: psala"
+  },
+  {
+    "id": 16,
+    "term": "She wrote the letter and sent it.",
+    "definition": "Napsala dopis a odeslala ho.",
+    "example": "'napsat' — the prefix 'na-' marks the completed act"
+  },
+  {
+    "id": 17,
+    "term": "We were watching a movie all evening.",
+    "definition": "Celý večer jsme se dívali na film.",
+    "example": "imperfective for an ongoing, unbounded activity"
+  },
+  {
+    "id": 18,
+    "term": "We watched the whole movie in one sitting.",
+    "definition": "Podívali jsme se na celý film najednou.",
+    "example": "'podívat se' — perfective, marks the whole film as finished"
+  },
+  {
+    "id": 19,
+    "term": "I was learning Czech for two years before I moved here.",
+    "definition": "Učil jsem se česky dva roky, než jsem se sem přestěhoval.",
+    "example": "imperfective for the ongoing background action: učil jsem se"
+  },
+  {
+    "id": 20,
+    "term": "I finally learned all the irregular verbs.",
+    "definition": "Konečně jsem se naučil všechna nepravidelná slovesa.",
+    "example": "'naučit se' — perfective, mastery achieved"
+  },
+  {
+    "id": 21,
+    "term": "This book was written by a famous author.",
+    "definition": "Tuto knihu napsal slavný autor.",
+    "example": "Czech favors an active sentence with the agent as subject over a literal passive"
+  },
+  {
+    "id": 22,
+    "term": "The house was built in 1920.",
+    "definition": "Dům byl postaven v roce 1920.",
+    "example": "passive: byl postaven"
+  },
+  {
+    "id": 23,
+    "term": "The letter is being written now.",
+    "definition": "Dopis se teď píše.",
+    "example": "reflexive passive: píše se"
+  },
+  {
+    "id": 24,
+    "term": "The doors are closed at nine.",
+    "definition": "Dveře se zavírají v devět.",
+    "example": "reflexive passive: zavírají se"
+  },
+  {
+    "id": 25,
+    "term": "The problem will be solved soon.",
+    "definition": "Problém se brzy vyřeší.",
+    "example": "reflexive passive future: vyřeší se"
+  },
+  {
+    "id": 26,
+    "term": "The bridge was destroyed during the war.",
+    "definition": "Most byl zničen během války.",
+    "example": "passive: byl zničen"
+  },
+  {
+    "id": 27,
+    "term": "This song is known all over the world.",
+    "definition": "Tato píseň je známá po celém světě.",
+    "example": "'známá' — passive participle used adjectivally"
+  },
+  {
+    "id": 28,
+    "term": "The cake was eaten by the children.",
+    "definition": "Dort snědly děti.",
+    "example": "the agent stays the grammatical subject: děti"
+  },
+  {
+    "id": 29,
+    "term": "New rules were introduced last year.",
+    "definition": "Minulý rok byla zavedena nová pravidla.",
+    "example": "passive: byla zavedena"
+  },
+  {
+    "id": 30,
+    "term": "The window was broken by the storm.",
+    "definition": "Okno rozbila bouřka.",
+    "example": "same active-agent pattern as #28"
+  },
+  {
+    "id": 31,
+    "term": "It's said that he is very talented.",
+    "definition": "Říká se, že je velmi talentovaný.",
+    "example": "impersonal reflexive: říká se"
+  },
+  {
+    "id": 32,
+    "term": "It's getting dark.",
+    "definition": "Stmívá se.",
+    "example": "a single reflexive verb for 'it's getting dark'"
+  },
+  {
+    "id": 33,
+    "term": "It's getting cold outside.",
+    "definition": "Venku se ochlazuje.",
+    "example": "'ochlazovat se' = to grow colder"
+  },
+  {
+    "id": 34,
+    "term": "How do you say this in Czech?",
+    "definition": "Jak se to řekne česky?",
+    "example": "reflexive: řekne se"
+  },
+  {
+    "id": 35,
+    "term": "One eats dinner at eight here.",
+    "definition": "Tady se večeří v osm.",
+    "example": "impersonal reflexive: večeří se"
+  },
+  {
+    "id": 36,
+    "term": "You can't smoke here.",
+    "definition": "Tady se nesmí kouřit.",
+    "example": "'se nesmí' = not allowed"
+  },
+  {
+    "id": 37,
+    "term": "It's not done that way.",
+    "definition": "Takhle se to nedělá.",
+    "example": "impersonal reflexive: nedělá se"
+  },
+  {
+    "id": 38,
+    "term": "People say all sorts of things.",
+    "definition": "Lidé říkají všechno možné.",
+    "example": "'lidé' as an explicit generic subject"
+  },
+  {
+    "id": 39,
+    "term": "This word is used often.",
+    "definition": "Toto slovo se často používá.",
+    "example": "reflexive passive: používá se"
+  },
+  {
+    "id": 40,
+    "term": "This is how the game is played.",
+    "definition": "Takhle se hraje tahle hra.",
+    "example": "reflexive passive: hraje se"
+  },
+  {
+    "id": 41,
+    "term": "I told him to come.",
+    "definition": "Řekl jsem mu, aby přišel.",
+    "example": "'aby' + past-tense form — the standard way to report a command"
+  },
+  {
+    "id": 42,
+    "term": "She asked me to help her.",
+    "definition": "Požádala mě, abych jí pomohl.",
+    "example": "'abych' — the 1st-person form of 'aby'"
+  },
+  {
+    "id": 43,
+    "term": "The teacher told us to be quiet.",
+    "definition": "Učitel nám řekl, abychom byli zticha.",
+    "example": "'abychom' — the 1st-plural form"
+  },
+  {
+    "id": 44,
+    "term": "I want you to call me.",
+    "definition": "Chci, abys mi zavolal.",
+    "example": "'abys' — the 2nd-person form"
+  },
+  {
+    "id": 45,
+    "term": "My mother told me not to be late.",
+    "definition": "Máma mi řekla, abych nechodil pozdě.",
+    "example": "negated 'aby' clause"
+  },
+  {
+    "id": 46,
+    "term": "He asked us to wait outside.",
+    "definition": "Požádal nás, abychom počkali venku.",
+    "example": "'abychom' clause"
+  },
+  {
+    "id": 47,
+    "term": "I told them to stop.",
+    "definition": "Řekl jsem jim, aby přestali.",
+    "example": "'aby' — 3rd-plural form"
+  },
+  {
+    "id": 48,
+    "term": "She wants me to visit her.",
+    "definition": "Chce, abych ji navštívil.",
+    "example": "'abych' clause"
+  },
+  {
+    "id": 49,
+    "term": "The boss ordered us to finish the project.",
+    "definition": "Šéf nám nařídil, abychom dokončili projekt.",
+    "example": "'abychom' clause"
+  },
+  {
+    "id": 50,
+    "term": "I asked her to be patient.",
+    "definition": "Požádal jsem ji, aby byla trpělivá.",
+    "example": "'aby' — 3rd-person feminine form"
+  },
+  {
+    "id": 51,
+    "term": "Although it was raining, we went for a walk.",
+    "definition": "I když pršelo, šli jsme na procházku.",
+    "example": "'i když' = although"
+  },
+  {
+    "id": 52,
+    "term": "Even though he is tired, he keeps working.",
+    "definition": "I když je unavený, pokračuje v práci.",
+    "example": "'pokračovat v' = to keep on doing"
+  },
+  {
+    "id": 53,
+    "term": "Despite the cold, we went outside.",
+    "definition": "Navzdory zimě jsme šli ven.",
+    "example": "'navzdory' + dative = despite"
+  },
+  {
+    "id": 54,
+    "term": "It's raining, but we're going out anyway.",
+    "definition": "Prší, ale stejně jdeme ven.",
+    "example": "'stejně' = anyway"
+  },
+  {
+    "id": 55,
+    "term": "I like her, even though she's sometimes difficult.",
+    "definition": "Mám ji rád, i když je někdy náročná.",
+    "example": "'i když' clause"
+  },
+  {
+    "id": 56,
+    "term": "He passed the exam despite not studying much.",
+    "definition": "Udělal zkoušku, i když se moc neučil.",
+    "example": "'i když' + negated clause"
+  },
+  {
+    "id": 57,
+    "term": "It was cheap, yet good quality.",
+    "definition": "Bylo to levné, ale kvalitní.",
+    "example": "'ale' = but/yet"
+  },
+  {
+    "id": 58,
+    "term": "Nevertheless, I think we should try.",
+    "definition": "Přesto si myslím, že bychom to měli zkusit.",
+    "example": "'přesto' = nevertheless"
+  },
+  {
+    "id": 59,
+    "term": "Although I disagree, I'll help you.",
+    "definition": "I když nesouhlasím, pomůžu ti.",
+    "example": "'i když' clause"
+  },
+  {
+    "id": 60,
+    "term": "We won, although it wasn't easy.",
+    "definition": "Vyhráli jsme, i když to nebylo snadné.",
+    "example": "'i když' after the main clause"
+  },
+  {
+    "id": 61,
+    "term": "Stay here until I come back.",
+    "definition": "Zůstaň tady, dokud se nevrátím.",
+    "example": "'dokud... ne...' — a construction that simply means 'until'"
+  },
+  {
+    "id": 62,
+    "term": "I'll wait as long as you need.",
+    "definition": "Počkám tak dlouho, jak potřebuješ.",
+    "example": "'tak dlouho, jak' = as long as"
+  },
+  {
+    "id": 63,
+    "term": "Before you leave, call me.",
+    "definition": "Než odejdeš, zavolej mi.",
+    "example": "'než' = before"
+  },
+  {
+    "id": 64,
+    "term": "I checked everything before I left.",
+    "definition": "Zkontroloval jsem všechno, než jsem odešel.",
+    "example": "'než' + past tense"
+  },
+  {
+    "id": 65,
+    "term": "I've known her since I was a child.",
+    "definition": "Znám ji od dětství.",
+    "example": "'od' = since"
+  },
+  {
+    "id": 66,
+    "term": "Since he moved here, he's been much happier.",
+    "definition": "Od té doby, co se sem přestěhoval, je mnohem šťastnější.",
+    "example": "'od té doby, co' = since (a specific event)"
+  },
+  {
+    "id": 67,
+    "term": "Wait until the light turns green.",
+    "definition": "Počkej, dokud nebude zelená.",
+    "example": "'dokud ne' again for 'until'"
+  },
+  {
+    "id": 68,
+    "term": "I won't leave until you answer me.",
+    "definition": "Neodejdu, dokud mi neodpovíš.",
+    "example": "same 'dokud ne' pattern"
+  },
+  {
+    "id": 69,
+    "term": "As soon as I get home, I'll call you.",
+    "definition": "Jakmile přijdu domů, zavolám ti.",
+    "example": "'jakmile' = as soon as"
+  },
+  {
+    "id": 70,
+    "term": "The moment I saw her, I knew.",
+    "definition": "V okamžiku, kdy jsem ji uviděl, jsem to věděl.",
+    "example": "'v okamžiku, kdy' = the moment that"
+  },
+  {
+    "id": 71,
+    "term": "Instead of coffee, I'll have tea.",
+    "definition": "Místo kávy si dám čaj.",
+    "example": "'místo' + genitive = instead of"
+  },
+  {
+    "id": 72,
+    "term": "Instead of complaining, do something.",
+    "definition": "Místo stěžování si udělej něco.",
+    "example": "'místo' + verbal noun"
+  },
+  {
+    "id": 73,
+    "term": "Reading books is my favorite hobby.",
+    "definition": "Čtení knih je můj oblíbený koníček.",
+    "example": "'čtení' — the verbal noun works as the subject"
+  },
+  {
+    "id": 74,
+    "term": "Learning languages takes time.",
+    "definition": "Učení se jazykům vyžaduje čas.",
+    "example": "'učení' — verbal noun as subject"
+  },
+  {
+    "id": 75,
+    "term": "Swimming is good for your health.",
+    "definition": "Plavání je dobré pro zdraví.",
+    "example": "'plavání' — verbal noun as subject"
+  },
+  {
+    "id": 76,
+    "term": "Cooking dinner takes an hour.",
+    "definition": "Vaření večeře trvá hodinu.",
+    "example": "'vaření' — verbal noun as subject"
+  },
+  {
+    "id": 77,
+    "term": "Smoking is bad for you.",
+    "definition": "Kouření škodí zdraví.",
+    "example": "'škodit' = to harm"
+  },
+  {
+    "id": 78,
+    "term": "Waiting is the hardest part.",
+    "definition": "Čekání je nejtěžší část.",
+    "example": "'čekání' — verbal noun as subject"
+  },
+  {
+    "id": 79,
+    "term": "Thank you for coming.",
+    "definition": "Děkuju, že jsi přišel.",
+    "example": "'děkuju, že' + clause"
+  },
+  {
+    "id": 80,
+    "term": "I'm tired of waiting.",
+    "definition": "Už mě nebaví čekat.",
+    "example": "'nebavit' = to be tired/bored of"
+  },
+  {
+    "id": 81,
+    "term": "If I had known, I would have come.",
+    "definition": "Kdybych to věděl, přišel bych.",
+    "example": "'kdybych' + past-conditional on both sides"
+  },
+  {
+    "id": 82,
+    "term": "If you had called me, I would have helped.",
+    "definition": "Kdybys mi zavolal, pomohl bych ti.",
+    "example": "same past-conditional pattern"
+  },
+  {
+    "id": 83,
+    "term": "She would have passed if she had studied more.",
+    "definition": "Udělala by zkoušku, kdyby se víc učila.",
+    "example": "past conditional again"
+  },
+  {
+    "id": 84,
+    "term": "We wouldn't have been late if we had left earlier.",
+    "definition": "Nepřišli bychom pozdě, kdybychom odešli dřív.",
+    "example": "past conditional, negated"
+  },
+  {
+    "id": 85,
+    "term": "I have twenty-two books on this shelf.",
+    "definition": "Mám dvacet dva knih na této poličce.",
+    "example": "'dvacet dva' — compound number"
+  },
+  {
+    "id": 86,
+    "term": "There are thirty-five students in this class.",
+    "definition": "V této třídě je třicet pět žáků.",
+    "example": "'třicet pět' — compound number"
+  },
+  {
+    "id": 87,
+    "term": "I have been living here for eleven years.",
+    "definition": "Bydlím tady už jedenáct let.",
+    "example": "present tense + 'už' for an ongoing span"
+  },
+  {
+    "id": 88,
+    "term": "The building has one hundred rooms.",
+    "definition": "Budova má sto pokojů.",
+    "example": "'sto' = one hundred exactly"
+  },
+  {
+    "id": 89,
+    "term": "I paid two hundred euros for this.",
+    "definition": "Zaplatil jsem za to dvě stě eur.",
+    "example": "'dvě stě' — compound number"
+  },
+  {
+    "id": 90,
+    "term": "Only one person answered correctly.",
+    "definition": "Jen jeden člověk odpověděl správně.",
+    "example": "'jen' = only"
+  },
+  {
+    "id": 91,
+    "term": "He passed the exam, which made his parents happy.",
+    "definition": "Udělal zkoušku, což potěšilo jeho rodiče.",
+    "example": "'což' refers back to the whole preceding clause"
+  },
+  {
+    "id": 92,
+    "term": "She was late, which annoyed the teacher.",
+    "definition": "Přišla pozdě, což naštvalo učitele.",
+    "example": "'což' again refers to the whole event"
+  },
+  {
+    "id": 93,
+    "term": "This is the best restaurant of all the ones I know.",
+    "definition": "Tohle je nejlepší restaurace ze všech, které znám.",
+    "example": "'ze všech, které' = of all the ones that"
+  },
+  {
+    "id": 94,
+    "term": "He is the smartest of all my friends.",
+    "definition": "Je nejchytřejší ze všech mých přátel.",
+    "example": "superlative + 'ze všech'"
+  },
+  {
+    "id": 95,
+    "term": "To be honest, I don't understand this.",
+    "definition": "Upřímně řečeno, tomuhle nerozumím.",
+    "example": "'upřímně řečeno' = to be honest, a fixed opener"
+  },
+  {
+    "id": 96,
+    "term": "Generally speaking, the weather here is nice.",
+    "definition": "Obecně řečeno, počasí je tady hezké.",
+    "example": "'obecně řečeno' = generally speaking"
+  },
+  {
+    "id": 97,
+    "term": "As far as I know, the shop is closed today.",
+    "definition": "Pokud vím, obchod je dnes zavřený.",
+    "example": "'pokud vím' = as far as I know"
+  },
+  {
+    "id": 98,
+    "term": "In my opinion, this is the right decision.",
+    "definition": "Podle mě je to správné rozhodnutí.",
+    "example": "'podle mě' = in my opinion"
+  },
+  {
+    "id": 99,
+    "term": "All things considered, it went well.",
+    "definition": "Celkově vzato to dopadlo dobře.",
+    "example": "'celkově vzato' = all things considered"
+  },
+  {
+    "id": 100,
+    "term": "In the end, everything turned out fine.",
+    "definition": "Nakonec všechno dobře dopadlo.",
+    "example": "'nakonec' = in the end"
+  }
+];
+window.QM_PHRASES_CS_DATA = [
+  {
+    "id": 1,
+    "term": "Good morning!",
+    "definition": "Dobré ráno!",
+    "example": "used right after waking, less common than 'dobrý den' overall"
+  },
+  {
+    "id": 2,
+    "term": "Good evening!",
+    "definition": "Dobrý večer!",
+    "example": "used from early evening onward"
+  },
+  {
+    "id": 3,
+    "term": "Good night!",
+    "definition": "Dobrou noc!",
+    "example": "the farewell before bed"
+  },
+  {
+    "id": 4,
+    "term": "Hi! (informal)",
+    "definition": "Ahoj!",
+    "example": "works as both hello and goodbye, informal register"
+  },
+  {
+    "id": 5,
+    "term": "How are you?",
+    "definition": "Jak se máš?",
+    "example": "informal 'ty' address"
+  },
+  {
+    "id": 6,
+    "term": "I'm fine, thanks. And you?",
+    "definition": "Dobře, díky. A ty?",
+    "example": "'a ty' = and you (informal)"
+  },
+  {
+    "id": 7,
+    "term": "Long time no see!",
+    "definition": "Dlouho jsme se neviděli!",
+    "example": "literally 'long we haven't seen each other'"
+  },
+  {
+    "id": 8,
+    "term": "Welcome!",
+    "definition": "Vítej!",
+    "example": "informal singular imperative of 'vítat'"
+  },
+  {
+    "id": 9,
+    "term": "Nice to see you again.",
+    "definition": "Rád tě zase vidím.",
+    "example": "'zase' = again"
+  },
+  {
+    "id": 10,
+    "term": "What's up? (very informal)",
+    "definition": "Co je nového?",
+    "example": "literally 'what's new'"
+  },
+  {
+    "id": 11,
+    "term": "Goodbye!",
+    "definition": "Na shledanou!",
+    "example": "the standard, slightly more formal farewell"
+  },
+  {
+    "id": 12,
+    "term": "See you later!",
+    "definition": "Uvidíme se později!",
+    "example": "literally 'we'll see each other later'"
+  },
+  {
+    "id": 13,
+    "term": "See you tomorrow!",
+    "definition": "Uvidíme se zítra!",
+    "example": "same pattern with 'zítra'"
+  },
+  {
+    "id": 14,
+    "term": "Take care!",
+    "definition": "Opatruj se!",
+    "example": "reflexive imperative: opatruj se"
+  },
+  {
+    "id": 15,
+    "term": "Have a good day!",
+    "definition": "Hezký den!",
+    "example": "a short, everyday send-off"
+  },
+  {
+    "id": 16,
+    "term": "Bye! (informal)",
+    "definition": "Čau!",
+    "example": "casual, common among friends"
+  },
+  {
+    "id": 17,
+    "term": "Until next time!",
+    "definition": "Zase někdy!",
+    "example": "literally 'again sometime'"
+  },
+  {
+    "id": 18,
+    "term": "Have a safe trip!",
+    "definition": "Šťastnou cestu!",
+    "example": "the standard send-off for travelers"
+  },
+  {
+    "id": 19,
+    "term": "Good night, sleep well.",
+    "definition": "Dobrou noc, ať se ti dobře spí.",
+    "example": "'ať se ti dobře spí' = may you sleep well"
+  },
+  {
+    "id": 20,
+    "term": "Take care of yourself.",
+    "definition": "Opatruj se.",
+    "example": "same reflexive phrase as #14"
+  },
+  {
+    "id": 21,
+    "term": "Please.",
+    "definition": "Prosím.",
+    "example": "used at the start or end of a request"
+  },
+  {
+    "id": 22,
+    "term": "Thank you.",
+    "definition": "Děkuju.",
+    "example": "the everyday thanks"
+  },
+  {
+    "id": 23,
+    "term": "Thank you very much.",
+    "definition": "Moc děkuju.",
+    "example": "'moc' intensifies the thanks"
+  },
+  {
+    "id": 24,
+    "term": "You're welcome.",
+    "definition": "Není zač.",
+    "example": "literally 'there's nothing for (which to thank me)'"
+  },
+  {
+    "id": 25,
+    "term": "No problem.",
+    "definition": "Žádný problém.",
+    "example": "'žádný' = no/none"
+  },
+  {
+    "id": 26,
+    "term": "Excuse me.",
+    "definition": "Promiň.",
+    "example": "informal imperative of 'prominout'"
+  },
+  {
+    "id": 27,
+    "term": "I'm really sorry.",
+    "definition": "Je mi to moc líto.",
+    "example": "'je mi líto' — a dative idiom for 'I'm sorry'"
+  },
+  {
+    "id": 28,
+    "term": "Pardon? (didn't hear)",
+    "definition": "Cože?",
+    "example": "a casual way to ask someone to repeat themselves"
+  },
+  {
+    "id": 29,
+    "term": "No worries.",
+    "definition": "Neboj se.",
+    "example": "negative imperative of the reflexive verb"
+  },
+  {
+    "id": 30,
+    "term": "It's my pleasure.",
+    "definition": "Rád jsem pomohl.",
+    "example": "literally 'I was glad to help', a common reply after thanks"
+  },
+  {
+    "id": 31,
+    "term": "My name is Anna.",
+    "definition": "Jmenuju se Anna.",
+    "example": "reflexive: jmenuju se"
+  },
+  {
+    "id": 32,
+    "term": "Nice to meet you.",
+    "definition": "Těší mě.",
+    "example": "'těšit' + accusative — a fixed introduction phrase"
+  },
+  {
+    "id": 33,
+    "term": "This is my friend Marco.",
+    "definition": "Tohle je můj kamarád Marco.",
+    "example": "introducing someone"
+  },
+  {
+    "id": 34,
+    "term": "Where are you from?",
+    "definition": "Odkud jsi?",
+    "example": "'odkud' = from where"
+  },
+  {
+    "id": 35,
+    "term": "I'm from England.",
+    "definition": "Jsem z Anglie.",
+    "example": "'z' + genitive = from"
+  },
+  {
+    "id": 36,
+    "term": "What do you do for a living?",
+    "definition": "Čím se živíš?",
+    "example": "'čím' — instrumental of 'co', literally 'by what do you make a living'"
+  },
+  {
+    "id": 37,
+    "term": "I'm a student.",
+    "definition": "Jsem student.",
+    "example": "no article before a profession/status noun"
+  },
+  {
+    "id": 38,
+    "term": "Likewise!",
+    "definition": "Také mě těší!",
+    "example": "'také' = also/likewise, distinct from the plain introduction phrase"
+  },
+  {
+    "id": 39,
+    "term": "It was nice meeting you.",
+    "definition": "Bylo mi potěšením tě poznat.",
+    "example": "instrumental: potěšením, said when parting"
+  },
+  {
+    "id": 40,
+    "term": "Let's keep in touch.",
+    "definition": "Zůstaňme v kontaktu.",
+    "example": "1st person plural imperative: zůstaňme"
+  },
+  {
+    "id": 41,
+    "term": "Happy birthday!",
+    "definition": "Všechno nejlepší k narozeninám!",
+    "example": "'k narozeninám' = for (your) birthday"
+  },
+  {
+    "id": 42,
+    "term": "Congratulations!",
+    "definition": "Gratuluju!",
+    "example": "a distinct verb from the birthday greeting"
+  },
+  {
+    "id": 43,
+    "term": "Good luck!",
+    "definition": "Hodně štěstí!",
+    "example": "genitive of 'štěstí' (luck), used as an exclamation"
+  },
+  {
+    "id": 44,
+    "term": "Best wishes!",
+    "definition": "Přeju vše nejlepší!",
+    "example": "a fuller phrase with the verb 'přát' stated"
+  },
+  {
+    "id": 45,
+    "term": "Get well soon!",
+    "definition": "Brzy se uzdrav!",
+    "example": "'uzdravit se' = to recover"
+  },
+  {
+    "id": 46,
+    "term": "Happy New Year!",
+    "definition": "Šťastný nový rok!",
+    "example": "'šťastný' + occasion, a productive pattern"
+  },
+  {
+    "id": 47,
+    "term": "Merry Christmas!",
+    "definition": "Veselé Vánoce!",
+    "example": "'veselé' + occasion"
+  },
+  {
+    "id": 48,
+    "term": "Cheers! (a toast)",
+    "definition": "Na zdraví!",
+    "example": "literally 'to (your) health' — the standard toast"
+  },
+  {
+    "id": 49,
+    "term": "Have fun!",
+    "definition": "Bav se dobře!",
+    "example": "reflexive imperative: bav se"
+  },
+  {
+    "id": 50,
+    "term": "Enjoy your meal!",
+    "definition": "Dobrou chuť!",
+    "example": "said before eating, literally 'good appetite'"
+  },
+  {
+    "id": 51,
+    "term": "Can you help me, please?",
+    "definition": "Můžeš mi pomoct, prosím?",
+    "example": "'pomoct' takes a dative object: mi"
+  },
+  {
+    "id": 52,
+    "term": "I need help.",
+    "definition": "Potřebuju pomoc.",
+    "example": "'potřebovat' + accusative noun"
+  },
+  {
+    "id": 53,
+    "term": "Where is the bathroom?",
+    "definition": "Kde je koupelna?",
+    "example": "'koupelna' — the everyday word for bathroom"
+  },
+  {
+    "id": 54,
+    "term": "How much does this cost?",
+    "definition": "Kolik to stojí?",
+    "example": "'stát' = to cost"
+  },
+  {
+    "id": 55,
+    "term": "Do you have this in another color?",
+    "definition": "Máte to v jiné barvě?",
+    "example": "locative 'v jiné barvě' = in another color"
+  },
+  {
+    "id": 56,
+    "term": "Can I have the bill, please?",
+    "definition": "Mohu dostat účet, prosím?",
+    "example": "'účet' — the check at a restaurant"
+  },
+  {
+    "id": 57,
+    "term": "One moment, please.",
+    "definition": "Moment, prosím.",
+    "example": "a polite stalling phrase"
+  },
+  {
+    "id": 58,
+    "term": "Could you repeat that?",
+    "definition": "Mohl bys to zopakovat?",
+    "example": "'mohl bys' — conditional 'could'"
+  },
+  {
+    "id": 59,
+    "term": "I don't understand.",
+    "definition": "Nerozumím.",
+    "example": "'rozumět' = to understand"
+  },
+  {
+    "id": 60,
+    "term": "Could you speak more slowly?",
+    "definition": "Mohl bys mluvit pomaleji?",
+    "example": "'pomaleji' = more slowly"
+  },
+  {
+    "id": 61,
+    "term": "I agree.",
+    "definition": "Souhlasím.",
+    "example": "'souhlasit' = to agree"
+  },
+  {
+    "id": 62,
+    "term": "I don't agree.",
+    "definition": "Nesouhlasím.",
+    "example": "negated version"
+  },
+  {
+    "id": 63,
+    "term": "That's true.",
+    "definition": "To je pravda.",
+    "example": "'pravda' = truth/true"
+  },
+  {
+    "id": 64,
+    "term": "That's not true.",
+    "definition": "To není pravda.",
+    "example": "negated version"
+  },
+  {
+    "id": 65,
+    "term": "I think so.",
+    "definition": "Myslím, že ano.",
+    "example": "'myslím, že ano' = I think so"
+  },
+  {
+    "id": 66,
+    "term": "I don't think so.",
+    "definition": "Myslím, že ne.",
+    "example": "same opener, negated answer"
+  },
+  {
+    "id": 67,
+    "term": "Sounds good.",
+    "definition": "Zní to dobře.",
+    "example": "'znít' = to sound"
+  },
+  {
+    "id": 68,
+    "term": "No way!",
+    "definition": "V žádném případě!",
+    "example": "an emphatic refusal"
+  },
+  {
+    "id": 69,
+    "term": "Of course!",
+    "definition": "Samozřejmě!",
+    "example": "an emphatic agreement"
+  },
+  {
+    "id": 70,
+    "term": "Maybe.",
+    "definition": "Možná.",
+    "example": "a single-word hedge"
+  },
+  {
+    "id": 71,
+    "term": "Really?",
+    "definition": "Vážně?",
+    "example": "expressing mild disbelief"
+  },
+  {
+    "id": 72,
+    "term": "Wow!",
+    "definition": "Páni!",
+    "example": "an interjection of surprise"
+  },
+  {
+    "id": 73,
+    "term": "That's great!",
+    "definition": "To je skvělé!",
+    "example": "'skvělé' = great"
+  },
+  {
+    "id": 74,
+    "term": "I'm sorry to hear that.",
+    "definition": "To je mi líto.",
+    "example": "'je mi líto' — the same dative idiom as #27"
+  },
+  {
+    "id": 75,
+    "term": "What a shame.",
+    "definition": "To je škoda.",
+    "example": "'to je škoda' — a fixed exclamation of sympathy"
+  },
+  {
+    "id": 76,
+    "term": "Oh no!",
+    "definition": "Ach ne!",
+    "example": "'ach' — a common interjection of dismay"
+  },
+  {
+    "id": 77,
+    "term": "Exactly!",
+    "definition": "Přesně tak!",
+    "example": "an emphatic agreement"
+  },
+  {
+    "id": 78,
+    "term": "I see.",
+    "definition": "Chápu.",
+    "example": "'chápat' used idiomatically for understanding"
+  },
+  {
+    "id": 79,
+    "term": "That makes sense.",
+    "definition": "To dává smysl.",
+    "example": "'dávat smysl' = to make sense"
+  },
+  {
+    "id": 80,
+    "term": "That's interesting.",
+    "definition": "To je zajímavé.",
+    "example": "straightforward observation"
+  },
+  {
+    "id": 81,
+    "term": "Hello? (on the phone)",
+    "definition": "Haló?",
+    "example": "the standard Czech phone greeting"
+  },
+  {
+    "id": 82,
+    "term": "Who's calling?",
+    "definition": "Kdo volá?",
+    "example": "literally 'who is calling'"
+  },
+  {
+    "id": 83,
+    "term": "Can I call you back?",
+    "definition": "Mohu ti zavolat zpátky?",
+    "example": "'zavolat zpátky' = to call back"
+  },
+  {
+    "id": 84,
+    "term": "It was nice talking to you.",
+    "definition": "Bylo hezké si s tebou popovídat.",
+    "example": "'s tebou' = with you, instrumental"
+  },
+  {
+    "id": 85,
+    "term": "See you at the party!",
+    "definition": "Uvidíme se na párty!",
+    "example": "locative: na párty"
+  },
+  {
+    "id": 86,
+    "term": "I'll text you.",
+    "definition": "Napíšu ti zprávu.",
+    "example": "'napsat zprávu' = to text, literally 'write a message'"
+  },
+  {
+    "id": 87,
+    "term": "Take it easy!",
+    "definition": "Klid!",
+    "example": "casual, one-word reassurance"
+  },
+  {
+    "id": 88,
+    "term": "All the best!",
+    "definition": "Vše nejlepší!",
+    "example": "a shorter closing wish than #44"
+  },
+  {
+    "id": 89,
+    "term": "I'll be right there.",
+    "definition": "Hned tam budu.",
+    "example": "'hned' = right away"
+  },
+  {
+    "id": 90,
+    "term": "I'm on my way.",
+    "definition": "Jsem na cestě.",
+    "example": "'na cestě' = on the way"
+  },
+  {
+    "id": 91,
+    "term": "Watch out!",
+    "definition": "Pozor!",
+    "example": "a bare warning, no verb needed"
+  },
+  {
+    "id": 92,
+    "term": "No rush.",
+    "definition": "Žádný spěch.",
+    "example": "'žádný spěch' = no hurry"
+  },
+  {
+    "id": 93,
+    "term": "After you.",
+    "definition": "Až po tobě.",
+    "example": "a small courtesy at a doorway"
+  },
+  {
+    "id": 94,
+    "term": "Make yourself at home.",
+    "definition": "Udělej si pohodlí.",
+    "example": "'udělat si pohodlí' = to make oneself comfortable"
+  },
+  {
+    "id": 95,
+    "term": "It's on me. (paying)",
+    "definition": "Platím já.",
+    "example": "literally 'I pay', offering to cover the bill"
+  },
+  {
+    "id": 96,
+    "term": "Let's go!",
+    "definition": "Pojďme!",
+    "example": "1st person plural imperative"
+  },
+  {
+    "id": 97,
+    "term": "Welcome home!",
+    "definition": "Vítej doma!",
+    "example": "'vítej' + doma"
+  },
+  {
+    "id": 98,
+    "term": "Get home safe!",
+    "definition": "Šťastnou cestu domů!",
+    "example": "same phrase as #18, with 'domů' added"
+  },
+  {
+    "id": 99,
+    "term": "I'm looking forward to it.",
+    "definition": "Těším se na to.",
+    "example": "'těšit se na' = to look forward to"
+  },
+  {
+    "id": 100,
+    "term": "Thanks for everything.",
+    "definition": "Díky za všechno.",
+    "example": "'díky za' + accusative"
   }
 ];
