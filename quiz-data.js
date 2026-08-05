@@ -2642,7 +2642,15 @@ window.QM_HIDDEN_QUIZZES = [
   "roIntermediateSentences",
   "rroIntermediateSentences",
   "roPhrases",
-  "rroPhrases"
+  "rroPhrases",
+  "ltUpperBeginnerSentences",
+  "rltUpperBeginnerSentences",
+  "ltLowerIntSentences",
+  "rltLowerIntSentences",
+  "ltIntermediateSentences",
+  "rltIntermediateSentences",
+  "ltPhrases",
+  "rltPhrases"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -129515,5 +129523,2413 @@ window.QM_PHRASES_RO_DATA = [
     "term": "Thanks for everything.",
     "definition": "Mulțumesc pentru tot.",
     "example": "'mulțumesc pentru' + noun"
+  }
+];
+window.QM_SENTENCES_LT_UPPERBEGINNER_DATA = [
+  {
+    "id": 1,
+    "term": "My father is a farmer.",
+    "definition": "Mano tėvas yra ūkininkas.",
+    "example": "the profession noun stays nominative after 'yra'"
+  },
+  {
+    "id": 2,
+    "term": "My mother is a teacher.",
+    "definition": "Mano mama yra mokytoja.",
+    "example": "feminine profession noun"
+  },
+  {
+    "id": 3,
+    "term": "I have two brothers and one sister.",
+    "definition": "Aš turiu du brolius ir vieną seserį.",
+    "example": "accusative case on the objects of 'turiu': brolius, seserį"
+  },
+  {
+    "id": 4,
+    "term": "My grandmother lives with us.",
+    "definition": "Mano močiutė gyvena su mumis.",
+    "example": "'su' + instrumental case: mumis"
+  },
+  {
+    "id": 5,
+    "term": "Our family is very big.",
+    "definition": "Mūsų šeima labai didelė.",
+    "example": "'mūsų' = our, indeclinable possessive"
+  },
+  {
+    "id": 6,
+    "term": "My son is five years old.",
+    "definition": "Mano sūnui penkeri metai.",
+    "example": "age uses the dative: sūnui (to my son, five years)"
+  },
+  {
+    "id": 7,
+    "term": "My daughter likes to draw.",
+    "definition": "Mano dukra mėgsta piešti.",
+    "example": "'mėgti' + infinitive = to like doing"
+  },
+  {
+    "id": 8,
+    "term": "We have a small dog and a big cat.",
+    "definition": "Mes turime mažą šunį ir didelį katiną.",
+    "example": "accusative on the objects: šunį, katiną"
+  },
+  {
+    "id": 9,
+    "term": "My parents are on vacation.",
+    "definition": "Mano tėvai atostogauja.",
+    "example": "'atostogauti' — a single verb meaning 'to be on vacation'"
+  },
+  {
+    "id": 10,
+    "term": "My best friend has three children.",
+    "definition": "Mano geriausias draugas turi tris vaikus.",
+    "example": "accusative plural: vaikus"
+  },
+  {
+    "id": 11,
+    "term": "I wake up early on Mondays.",
+    "definition": "Pirmadieniais aš keliuosi anksti.",
+    "example": "instrumental plural for a repeated day: pirmadieniais"
+  },
+  {
+    "id": 12,
+    "term": "On Saturdays, I sleep late.",
+    "definition": "Šeštadieniais aš miegu ilgai.",
+    "example": "same instrumental-plural pattern: šeštadieniais"
+  },
+  {
+    "id": 13,
+    "term": "Today is Tuesday.",
+    "definition": "Šiandien yra antradienis.",
+    "example": "day names need no article"
+  },
+  {
+    "id": 14,
+    "term": "Tomorrow is my birthday.",
+    "definition": "Rytoj mano gimtadienis.",
+    "example": "the copula can be dropped in a simple identity statement"
+  },
+  {
+    "id": 15,
+    "term": "Yesterday was a busy day.",
+    "definition": "Vakar buvo užimta diena.",
+    "example": "past tense of būti: buvo"
+  },
+  {
+    "id": 16,
+    "term": "In the morning, I drink coffee.",
+    "definition": "Ryte aš geriu kavą.",
+    "example": "accusative object: kavą"
+  },
+  {
+    "id": 17,
+    "term": "In the evening, we watch television.",
+    "definition": "Vakare mes žiūrime televizorių.",
+    "example": "accusative: televizorių"
+  },
+  {
+    "id": 18,
+    "term": "At night, I read a book.",
+    "definition": "Naktį aš skaitau knygą.",
+    "example": "accusative: knygą"
+  },
+  {
+    "id": 19,
+    "term": "This afternoon, I have a meeting.",
+    "definition": "Šiandien popiet turiu susitikimą.",
+    "example": "accusative: susitikimą"
+  },
+  {
+    "id": 20,
+    "term": "Every weekend, we visit my parents.",
+    "definition": "Kiekvieną savaitgalį mes aplankome mano tėvus.",
+    "example": "accusative: savaitgalį, tėvus"
+  },
+  {
+    "id": 21,
+    "term": "I would like a glass of water.",
+    "definition": "Norėčiau stiklinės vandens.",
+    "example": "'norėčiau' — the conditional of 'norėti', the polite 'I would like'"
+  },
+  {
+    "id": 22,
+    "term": "Can I have the menu, please?",
+    "definition": "Ar galiu gauti meniu, prašau?",
+    "example": "'ar' opens a yes/no question"
+  },
+  {
+    "id": 23,
+    "term": "This soup is delicious.",
+    "definition": "Šita sriuba skani.",
+    "example": "'šita' — feminine 'this'"
+  },
+  {
+    "id": 24,
+    "term": "I don't eat meat.",
+    "definition": "Aš nevalgau mėsos.",
+    "example": "negated verbs take the genitive object: mėsos, not accusative"
+  },
+  {
+    "id": 25,
+    "term": "She likes sweet food.",
+    "definition": "Ji mėgsta saldų maistą.",
+    "example": "accusative: maistą"
+  },
+  {
+    "id": 26,
+    "term": "We are having pizza for dinner.",
+    "definition": "Mes vakarienei valgome picą.",
+    "example": "dative 'vakarienei' = for dinner"
+  },
+  {
+    "id": 27,
+    "term": "The bread is fresh.",
+    "definition": "Duona šviežia.",
+    "example": "no copula needed for a simple statement"
+  },
+  {
+    "id": 28,
+    "term": "I usually drink tea, not coffee.",
+    "definition": "Aš paprastai geriu arbatą, o ne kavą.",
+    "example": "'o ne' = and not"
+  },
+  {
+    "id": 29,
+    "term": "This restaurant is very popular.",
+    "definition": "Šis restoranas labai populiarus.",
+    "example": "'šis' — masculine 'this'"
+  },
+  {
+    "id": 30,
+    "term": "The food here is cheap.",
+    "definition": "Maistas čia pigus.",
+    "example": "'čia' = here"
+  },
+  {
+    "id": 31,
+    "term": "It is sunny today.",
+    "definition": "Šiandien saulėta.",
+    "example": "impersonal adjective form, no subject needed"
+  },
+  {
+    "id": 32,
+    "term": "It is raining outside.",
+    "definition": "Lauke lyja.",
+    "example": "'lyti' — impersonal weather verb"
+  },
+  {
+    "id": 33,
+    "term": "It is very windy.",
+    "definition": "Labai vėjuota.",
+    "example": "impersonal adjective form"
+  },
+  {
+    "id": 34,
+    "term": "It is snowing in the mountains.",
+    "definition": "Kalnuose sninga.",
+    "example": "'snigti' — impersonal weather verb"
+  },
+  {
+    "id": 35,
+    "term": "The weather is nice this week.",
+    "definition": "Šią savaitę oras gražus.",
+    "example": "'šią savaitę' — accusative for 'this week'"
+  },
+  {
+    "id": 36,
+    "term": "It is cloudy this morning.",
+    "definition": "Šį rytą debesuota.",
+    "example": "impersonal adjective form"
+  },
+  {
+    "id": 37,
+    "term": "It is hot in the summer.",
+    "definition": "Vasarą karšta.",
+    "example": "'vasarą' — accusative used adverbially for 'in summer'"
+  },
+  {
+    "id": 38,
+    "term": "It is cold in the winter.",
+    "definition": "Žiemą šalta.",
+    "example": "same adverbial-accusative pattern: žiemą"
+  },
+  {
+    "id": 39,
+    "term": "There is a storm coming.",
+    "definition": "Artėja audra.",
+    "example": "'artėti' = to approach"
+  },
+  {
+    "id": 40,
+    "term": "The sky is blue today.",
+    "definition": "Šiandien dangus mėlynas.",
+    "example": "no copula needed"
+  },
+  {
+    "id": 41,
+    "term": "I visited my grandparents last week.",
+    "definition": "Praėjusią savaitę aplankiau savo senelius.",
+    "example": "past tense: aplankiau"
+  },
+  {
+    "id": 42,
+    "term": "We watched a good movie yesterday.",
+    "definition": "Vakar žiūrėjome gerą filmą.",
+    "example": "past tense: žiūrėjome"
+  },
+  {
+    "id": 43,
+    "term": "She cooked dinner for us.",
+    "definition": "Ji paruošė mums vakarienę.",
+    "example": "dative 'mums' = for us"
+  },
+  {
+    "id": 44,
+    "term": "They traveled to Spain last summer.",
+    "definition": "Praėjusią vasarą jie keliavo į Ispaniją.",
+    "example": "'į' + accusative = to (a country)"
+  },
+  {
+    "id": 45,
+    "term": "I finished my homework early.",
+    "definition": "Aš anksti baigiau namų darbus.",
+    "example": "past tense: baigiau"
+  },
+  {
+    "id": 46,
+    "term": "He bought a new car.",
+    "definition": "Jis nusipirko naują automobilį.",
+    "example": "reflexive past: nusipirko"
+  },
+  {
+    "id": 47,
+    "term": "We walked to the park.",
+    "definition": "Mes nuėjome pėsčiomis į parką.",
+    "example": "'pėsčiomis' = on foot"
+  },
+  {
+    "id": 48,
+    "term": "I called my friend this morning.",
+    "definition": "Šį rytą paskambinau draugui.",
+    "example": "'skambinti' takes a dative object: draugui"
+  },
+  {
+    "id": 49,
+    "term": "She sold her old bicycle.",
+    "definition": "Ji pardavė savo seną dviratį.",
+    "example": "'savo' — the reflexive possessive, used when the owner is the subject"
+  },
+  {
+    "id": 50,
+    "term": "We celebrated his birthday together.",
+    "definition": "Mes kartu šventėme jo gimtadienį.",
+    "example": "'jo' = his (not reflexive, since the owner isn't the subject)"
+  },
+  {
+    "id": 51,
+    "term": "I am going to visit my aunt.",
+    "definition": "Aš aplankysiu savo tetą.",
+    "example": "simple future tense: aplankysiu"
+  },
+  {
+    "id": 52,
+    "term": "We are going to have a party.",
+    "definition": "Mes surengsime vakarėlį.",
+    "example": "future: surengsime"
+  },
+  {
+    "id": 53,
+    "term": "She is going to start a new job.",
+    "definition": "Ji pradės naują darbą.",
+    "example": "future: pradės"
+  },
+  {
+    "id": 54,
+    "term": "They are going to move to a new city.",
+    "definition": "Jie persikels į naują miestą.",
+    "example": "future: persikels"
+  },
+  {
+    "id": 55,
+    "term": "I am going to buy a new phone.",
+    "definition": "Aš nusipirksiu naują telefoną.",
+    "example": "future: nusipirksiu"
+  },
+  {
+    "id": 56,
+    "term": "He is going to learn to swim.",
+    "definition": "Jis išmoks plaukti.",
+    "example": "future: išmoks"
+  },
+  {
+    "id": 57,
+    "term": "We are going to travel next month.",
+    "definition": "Mes keliausime kitą mėnesį.",
+    "example": "future: keliausime"
+  },
+  {
+    "id": 58,
+    "term": "I am going to cook dinner tonight.",
+    "definition": "Aš šįvakar gaminsiu vakarienę.",
+    "example": "future: gaminsiu"
+  },
+  {
+    "id": 59,
+    "term": "She is going to call you later.",
+    "definition": "Ji paskambins tau vėliau.",
+    "example": "future: paskambins"
+  },
+  {
+    "id": 60,
+    "term": "They are going to arrive tomorrow.",
+    "definition": "Jie atvyks rytoj.",
+    "example": "future: atvyks"
+  },
+  {
+    "id": 61,
+    "term": "I like coffee and tea.",
+    "definition": "Man patinka kava ir arbata.",
+    "example": "'patikti' uses a dative experiencer: man patinka"
+  },
+  {
+    "id": 62,
+    "term": "She is smart and kind.",
+    "definition": "Ji protinga ir maloni.",
+    "example": "no copula needed"
+  },
+  {
+    "id": 63,
+    "term": "I want to go, but I am tired.",
+    "definition": "Aš noriu eiti, bet esu pavargęs.",
+    "example": "'bet' = but"
+  },
+  {
+    "id": 64,
+    "term": "He is tall, but his brother is short.",
+    "definition": "Jis aukštas, bet jo brolis žemas.",
+    "example": "'jo brolis' = his brother"
+  },
+  {
+    "id": 65,
+    "term": "Do you want tea or coffee?",
+    "definition": "Ar nori arbatos ar kavos?",
+    "example": "'norėti' takes a genitive object: arbatos, kavos"
+  },
+  {
+    "id": 66,
+    "term": "You can call me or send a message.",
+    "definition": "Gali man paskambinti arba atsiųsti žinutę.",
+    "example": "'arba' = or"
+  },
+  {
+    "id": 67,
+    "term": "I stayed home because it was raining.",
+    "definition": "Aš likau namuose, nes lijo.",
+    "example": "'nes' = because"
+  },
+  {
+    "id": 68,
+    "term": "She was late because of the traffic.",
+    "definition": "Ji pavėlavo dėl eismo.",
+    "example": "'dėl' + genitive = because of"
+  },
+  {
+    "id": 69,
+    "term": "I am happy because I passed the test.",
+    "definition": "Aš laimingas, nes išlaikiau testą.",
+    "example": "'nes' clause"
+  },
+  {
+    "id": 70,
+    "term": "He is tired because he worked all day.",
+    "definition": "Jis pavargęs, nes dirbo visą dieną.",
+    "example": "'nes' clause"
+  },
+  {
+    "id": 71,
+    "term": "The bank is near the school.",
+    "definition": "Bankas yra netoli mokyklos.",
+    "example": "'netoli' + genitive = near"
+  },
+  {
+    "id": 72,
+    "term": "The park is far from here.",
+    "definition": "Parkas yra toli nuo čia.",
+    "example": "'toli nuo' = far from"
+  },
+  {
+    "id": 73,
+    "term": "Turn left at the corner.",
+    "definition": "Kampe pasuk į kairę.",
+    "example": "locative: kampe"
+  },
+  {
+    "id": 74,
+    "term": "Turn right at the traffic light.",
+    "definition": "Prie šviesoforo pasuk į dešinę.",
+    "example": "'prie' + genitive = at"
+  },
+  {
+    "id": 75,
+    "term": "Go straight ahead.",
+    "definition": "Eik tiesiai.",
+    "example": "'tiesiai' = straight ahead"
+  },
+  {
+    "id": 76,
+    "term": "The hospital is next to the church.",
+    "definition": "Ligoninė yra šalia bažnyčios.",
+    "example": "'šalia' + genitive = next to"
+  },
+  {
+    "id": 77,
+    "term": "The store is across from the hotel.",
+    "definition": "Parduotuvė yra priešais viešbutį.",
+    "example": "'priešais' + accusative = across from"
+  },
+  {
+    "id": 78,
+    "term": "It is behind the building.",
+    "definition": "Tai yra už pastato.",
+    "example": "'už' + genitive = behind"
+  },
+  {
+    "id": 79,
+    "term": "It is in front of the station.",
+    "definition": "Tai yra priešais stotį.",
+    "example": "'priešais' + accusative = in front of"
+  },
+  {
+    "id": 80,
+    "term": "The bathroom is upstairs.",
+    "definition": "Vonios kambarys yra viršuje.",
+    "example": "'viršuje' = upstairs"
+  },
+  {
+    "id": 81,
+    "term": "The car is red.",
+    "definition": "Automobilis raudonas.",
+    "example": "no copula needed"
+  },
+  {
+    "id": 82,
+    "term": "The house is white and big.",
+    "definition": "Namas baltas ir didelis.",
+    "example": "no copula needed"
+  },
+  {
+    "id": 83,
+    "term": "This box is heavy.",
+    "definition": "Ši dėžė sunki.",
+    "example": "'ši' — feminine 'this'"
+  },
+  {
+    "id": 84,
+    "term": "That bag is light.",
+    "definition": "Tas krepšys lengvas.",
+    "example": "'tas' — masculine 'that'"
+  },
+  {
+    "id": 85,
+    "term": "The room is clean.",
+    "definition": "Kambarys švarus.",
+    "example": "no copula"
+  },
+  {
+    "id": 86,
+    "term": "The street is dirty.",
+    "definition": "Gatvė nešvari.",
+    "example": "'nešvari' = dirty, literally 'not clean'"
+  },
+  {
+    "id": 87,
+    "term": "This road is long.",
+    "definition": "Šis kelias ilgas.",
+    "example": "'šis' — masculine 'this'"
+  },
+  {
+    "id": 88,
+    "term": "That path is short.",
+    "definition": "Tas takas trumpas.",
+    "example": "'tas' — masculine 'that'"
+  },
+  {
+    "id": 89,
+    "term": "The water is deep here.",
+    "definition": "Vanduo čia gilus.",
+    "example": "no copula"
+  },
+  {
+    "id": 90,
+    "term": "This lake is shallow.",
+    "definition": "Šis ežeras seklus.",
+    "example": "'seklus' = shallow"
+  },
+  {
+    "id": 91,
+    "term": "I see her every day.",
+    "definition": "Aš matau ją kiekvieną dieną.",
+    "example": "accusative object pronoun: ją"
+  },
+  {
+    "id": 92,
+    "term": "He calls me every week.",
+    "definition": "Jis man skambina kiekvieną savaitę.",
+    "example": "'skambinti' takes a dative object: man"
+  },
+  {
+    "id": 93,
+    "term": "We visit them on Sundays.",
+    "definition": "Sekmadieniais mes juos aplankome.",
+    "example": "accusative object pronoun: juos"
+  },
+  {
+    "id": 94,
+    "term": "She waits for us at the station.",
+    "definition": "Ji laukia mūsų stotyje.",
+    "example": "'laukti' takes a genitive object: mūsų"
+  },
+  {
+    "id": 95,
+    "term": "I don't see him here.",
+    "definition": "Aš jo čia nematau.",
+    "example": "negated verbs take the genitive: jo, not accusative"
+  },
+  {
+    "id": 96,
+    "term": "They know you well.",
+    "definition": "Jie tave gerai pažįsta.",
+    "example": "accusative object pronoun: tave"
+  },
+  {
+    "id": 97,
+    "term": "Do you understand me?",
+    "definition": "Ar tu mane supranti?",
+    "example": "accusative object pronoun: mane"
+  },
+  {
+    "id": 98,
+    "term": "I love you very much.",
+    "definition": "Aš tave labai myliu.",
+    "example": "accusative: tave"
+  },
+  {
+    "id": 99,
+    "term": "Today's date is the fifth of August.",
+    "definition": "Šiandien yra rugpjūčio penkta.",
+    "example": "'penkta' — the ordinal used for dates, genitive month name: rugpjūčio"
+  },
+  {
+    "id": 100,
+    "term": "The number nine is my lucky number.",
+    "definition": "Skaičius devyni yra mano laimingas skaičius.",
+    "example": "'laimingas skaičius' = lucky number"
+  }
+];
+window.QM_SENTENCES_LT_LOWERINT_DATA = [
+  {
+    "id": 1,
+    "term": "I want to learn Lithuanian.",
+    "definition": "Aš noriu išmokti lietuvių kalbą.",
+    "example": "accusative object: kalbą"
+  },
+  {
+    "id": 2,
+    "term": "I can help you tomorrow.",
+    "definition": "Aš galiu tau padėti rytoj.",
+    "example": "'padėti' takes a dative object: tau"
+  },
+  {
+    "id": 3,
+    "term": "I must go now.",
+    "definition": "Aš turiu eiti dabar.",
+    "example": "'turėti' + infinitive = must"
+  },
+  {
+    "id": 4,
+    "term": "You should rest.",
+    "definition": "Tau reikėtų pailsėti.",
+    "example": "dative + 'reikėtų' softens it to 'should'"
+  },
+  {
+    "id": 5,
+    "term": "She should call her mother.",
+    "definition": "Jai reikėtų paskambinti mamai.",
+    "example": "same 'reikėtų' pattern"
+  },
+  {
+    "id": 6,
+    "term": "We want to visit Vilnius.",
+    "definition": "Mes norime aplankyti Vilnių.",
+    "example": "norime + infinitive"
+  },
+  {
+    "id": 7,
+    "term": "They can't come today.",
+    "definition": "Jie negali ateiti šiandien.",
+    "example": "negali + infinitive"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to eat now.",
+    "definition": "Aš nenoriu valgyti dabar.",
+    "example": "nenoriu + infinitive"
+  },
+  {
+    "id": 9,
+    "term": "Do you want some tea?",
+    "definition": "Ar nori arbatos?",
+    "example": "genitive/partitive object after 'norėti': arbatos"
+  },
+  {
+    "id": 10,
+    "term": "I would like to order a coffee.",
+    "definition": "Norėčiau užsisakyti kavos.",
+    "example": "'norėčiau' softens the request"
+  },
+  {
+    "id": 11,
+    "term": "You have to be careful.",
+    "definition": "Tu turi būti atsargus.",
+    "example": "turėti + infinitive"
+  },
+  {
+    "id": 12,
+    "term": "It's necessary to buy bread.",
+    "definition": "Reikia nupirkti duonos.",
+    "example": "'reikia' = it's necessary, no subject needed"
+  },
+  {
+    "id": 13,
+    "term": "You can smoke here.",
+    "definition": "Čia galima rūkyti.",
+    "example": "'galima' = allowed, impersonal"
+  },
+  {
+    "id": 14,
+    "term": "You can't park here.",
+    "definition": "Čia negalima statyti automobilio.",
+    "example": "'negalima' = not allowed"
+  },
+  {
+    "id": 15,
+    "term": "It's worth trying this soup.",
+    "definition": "Verta paragauti šios sriubos.",
+    "example": "'verta' = it's worth it"
+  },
+  {
+    "id": 16,
+    "term": "It's not necessary to hurry.",
+    "definition": "Nereikia skubėti.",
+    "example": "'nereikia' + infinitive"
+  },
+  {
+    "id": 17,
+    "term": "You shouldn't smoke.",
+    "definition": "Tau nereikėtų rūkyti.",
+    "example": "negated 'reikėtų'"
+  },
+  {
+    "id": 18,
+    "term": "One has to work hard.",
+    "definition": "Reikia sunkiai dirbti.",
+    "example": "generic 'reikia' + infinitive"
+  },
+  {
+    "id": 19,
+    "term": "Everyone must follow the rules.",
+    "definition": "Visi turi laikytis taisyklių.",
+    "example": "'laikytis' + genitive = to follow/abide by"
+  },
+  {
+    "id": 20,
+    "term": "I have to finish this today.",
+    "definition": "Aš turiu tai baigti šiandien.",
+    "example": "turėti + infinitive"
+  },
+  {
+    "id": 21,
+    "term": "I like this song.",
+    "definition": "Man patinka ši daina.",
+    "example": "dative experiencer construction"
+  },
+  {
+    "id": 22,
+    "term": "Do you like this city?",
+    "definition": "Ar tau patinka šis miestas?",
+    "example": "'tau' = to you, dative"
+  },
+  {
+    "id": 23,
+    "term": "We like this restaurant.",
+    "definition": "Mums patinka šis restoranas.",
+    "example": "'mums' = to us, dative"
+  },
+  {
+    "id": 24,
+    "term": "They don't like this idea.",
+    "definition": "Jiems nepatinka ši idėja.",
+    "example": "'jiems' = to them, dative"
+  },
+  {
+    "id": 25,
+    "term": "My head hurts.",
+    "definition": "Man skauda galvą.",
+    "example": "'skauda' + dative experiencer + accusative body part: man skauda galvą"
+  },
+  {
+    "id": 26,
+    "term": "My legs hurt.",
+    "definition": "Man skauda kojas.",
+    "example": "plural accusative: kojas"
+  },
+  {
+    "id": 27,
+    "term": "Does your stomach hurt?",
+    "definition": "Ar tau skauda pilvą?",
+    "example": "'tau' = to you, dative"
+  },
+  {
+    "id": 28,
+    "term": "I feel sick.",
+    "definition": "Aš jaučiuosi blogai.",
+    "example": "reflexive: jaučiuosi"
+  },
+  {
+    "id": 29,
+    "term": "I am cold.",
+    "definition": "Man šalta.",
+    "example": "dative idiom, literally 'to me (it is) cold'"
+  },
+  {
+    "id": 30,
+    "term": "Are you hungry?",
+    "definition": "Ar tu alkanas?",
+    "example": "'alkanas' = hungry"
+  },
+  {
+    "id": 31,
+    "term": "The more you practice, the better you speak.",
+    "definition": "Kuo daugiau treniruojiesi, tuo geriau kalbi.",
+    "example": "'kuo... tuo...' = the more... the more..."
+  },
+  {
+    "id": 32,
+    "term": "The sooner, the better.",
+    "definition": "Kuo greičiau, tuo geriau.",
+    "example": "same correlative, shortened"
+  },
+  {
+    "id": 33,
+    "term": "Both my sister and my brother live in Vilnius.",
+    "definition": "Ir mano sesuo, ir mano brolis gyvena Vilniuje.",
+    "example": "'ir... ir...' = both... and..."
+  },
+  {
+    "id": 34,
+    "term": "I like neither tea nor coffee.",
+    "definition": "Man nepatinka nei arbata, nei kava.",
+    "example": "'nei... nei...' = neither... nor..."
+  },
+  {
+    "id": 35,
+    "term": "This is the most beautiful city in Lithuania.",
+    "definition": "Tai gražiausias miestas Lietuvoje.",
+    "example": "superlative suffix -iausias: gražiausias"
+  },
+  {
+    "id": 36,
+    "term": "He is older than me.",
+    "definition": "Jis vyresnis už mane.",
+    "example": "'už' + accusative marks the comparison"
+  },
+  {
+    "id": 37,
+    "term": "This is worse than I thought.",
+    "definition": "Tai blogiau, nei maniau.",
+    "example": "'nei' = than"
+  },
+  {
+    "id": 38,
+    "term": "She sings better than he does.",
+    "definition": "Ji dainuoja geriau nei jis.",
+    "example": "'geriau nei' = better than"
+  },
+  {
+    "id": 39,
+    "term": "This task is easier than that one.",
+    "definition": "Ši užduotis lengvesnė nei ta.",
+    "example": "comparative suffix -esnis: lengvesnė"
+  },
+  {
+    "id": 40,
+    "term": "He runs the fastest on our team.",
+    "definition": "Jis bėga greičiausiai mūsų komandoje.",
+    "example": "superlative adverb: greičiausiai"
+  },
+  {
+    "id": 41,
+    "term": "I think that this is a good idea.",
+    "definition": "Aš manau, kad tai gera idėja.",
+    "example": "'kad' = that"
+  },
+  {
+    "id": 42,
+    "term": "I know that you are right.",
+    "definition": "Aš žinau, kad tu teisus.",
+    "example": "'teisus' = right/correct"
+  },
+  {
+    "id": 43,
+    "term": "I hope that the weather will be nice.",
+    "definition": "Tikiuosi, kad oras bus geras.",
+    "example": "'kad' + future"
+  },
+  {
+    "id": 44,
+    "term": "I am glad that you came.",
+    "definition": "Džiaugiuosi, kad atėjai.",
+    "example": "'džiaugtis' + 'kad'"
+  },
+  {
+    "id": 45,
+    "term": "I don't think that it's true.",
+    "definition": "Aš nemanau, kad tai tiesa.",
+    "example": "negated main clause"
+  },
+  {
+    "id": 46,
+    "term": "I am learning Lithuanian because I want to live in Lithuania.",
+    "definition": "Aš mokausi lietuvių kalbos, nes noriu gyventi Lietuvoje.",
+    "example": "'nes' = because"
+  },
+  {
+    "id": 47,
+    "term": "I can't come because I am sick.",
+    "definition": "Aš negaliu ateiti, nes sergu.",
+    "example": "'nes' clause"
+  },
+  {
+    "id": 48,
+    "term": "I am studying so that I can pass the exam.",
+    "definition": "Aš mokausi, kad galėčiau išlaikyti egzaminą.",
+    "example": "'kad' + conditional-subjunctive 'galėčiau' = so that"
+  },
+  {
+    "id": 49,
+    "term": "Call me when you arrive.",
+    "definition": "Paskambink man, kai atvyksi.",
+    "example": "'kai' = when"
+  },
+  {
+    "id": 50,
+    "term": "If it rains, we will stay home.",
+    "definition": "Jei lis, mes liksime namuose.",
+    "example": "'jei' = if"
+  },
+  {
+    "id": 51,
+    "term": "The woman who lives next door is a doctor.",
+    "definition": "Moteris, kuri gyvena greta, yra gydytoja.",
+    "example": "'kuri' — feminine relative pronoun"
+  },
+  {
+    "id": 52,
+    "term": "The man who called yesterday is my uncle.",
+    "definition": "Vyras, kuris vakar skambino, yra mano dėdė.",
+    "example": "'kuris' — masculine relative pronoun"
+  },
+  {
+    "id": 53,
+    "term": "The book that I am reading is very interesting.",
+    "definition": "Knyga, kurią skaitau, labai įdomi.",
+    "example": "'kurią' — accusative feminine relative pronoun"
+  },
+  {
+    "id": 54,
+    "term": "The children who play in the park are our neighbors.",
+    "definition": "Vaikai, kurie žaidžia parke, yra mūsų kaimynai.",
+    "example": "'kurie' — masculine plural relative pronoun"
+  },
+  {
+    "id": 55,
+    "term": "This is the house in which I grew up.",
+    "definition": "Tai namas, kuriame užaugau.",
+    "example": "'kuriame' — locative relative pronoun, 'in which'"
+  },
+  {
+    "id": 56,
+    "term": "I don't remember the name of the street where we met.",
+    "definition": "Nepamenu gatvės, kurioje susipažinome, pavadinimo.",
+    "example": "'kurioje' — locative feminine, 'in which/where'"
+  },
+  {
+    "id": 57,
+    "term": "The people whom I met were very friendly.",
+    "definition": "Žmonės, kuriuos sutikau, buvo labai draugiški.",
+    "example": "'kuriuos' — accusative plural relative pronoun"
+  },
+  {
+    "id": 58,
+    "term": "This is the reason why I am late.",
+    "definition": "Tai priežastis, kodėl aš pavėlavau.",
+    "example": "'kodėl' = why"
+  },
+  {
+    "id": 59,
+    "term": "The car that broke down is mine.",
+    "definition": "Automobilis, kuris sugedo, yra mano.",
+    "example": "'sugesti' = to break down (of a machine)"
+  },
+  {
+    "id": 60,
+    "term": "I found the keys that I lost.",
+    "definition": "Radau raktus, kuriuos pamečiau.",
+    "example": "'kuriuos' — accusative plural relative pronoun"
+  },
+  {
+    "id": 61,
+    "term": "The meeting starts at three o'clock.",
+    "definition": "Susitikimas prasideda trečią valandą.",
+    "example": "accusative for clock time: trečią valandą"
+  },
+  {
+    "id": 62,
+    "term": "I usually wake up before seven.",
+    "definition": "Aš paprastai keliuosi prieš septintą valandą.",
+    "example": "'prieš' + accusative = before"
+  },
+  {
+    "id": 63,
+    "term": "We will meet after the concert.",
+    "definition": "Susitiksime po koncerto.",
+    "example": "'po' + genitive = after"
+  },
+  {
+    "id": 64,
+    "term": "The shop is open from nine to six.",
+    "definition": "Parduotuvė dirba nuo devynių iki šešių.",
+    "example": "'nuo... iki...' = from... to..."
+  },
+  {
+    "id": 65,
+    "term": "I lived in Lithuania for three years.",
+    "definition": "Aš gyvenau Lietuvoje trejus metus.",
+    "example": "'trejus metus' — accusative duration"
+  },
+  {
+    "id": 66,
+    "term": "I haven't seen him since last year.",
+    "definition": "Nemačiau jo nuo praėjusių metų.",
+    "example": "'nuo' = since"
+  },
+  {
+    "id": 67,
+    "term": "During the summer, we travel a lot.",
+    "definition": "Vasarą mes daug keliaujame.",
+    "example": "'vasarą' — accusative used adverbially"
+  },
+  {
+    "id": 68,
+    "term": "On Mondays, I go to the gym.",
+    "definition": "Pirmadieniais aš einu į sporto salę.",
+    "example": "instrumental plural: pirmadieniais"
+  },
+  {
+    "id": 69,
+    "term": "Next week, I am going on vacation.",
+    "definition": "Kitą savaitę aš išvykstu atostogų.",
+    "example": "'kitą savaitę' = next week"
+  },
+  {
+    "id": 70,
+    "term": "Two years ago, I visited Lithuania.",
+    "definition": "Prieš dvejus metus aplankiau Lietuvą.",
+    "example": "'prieš' + accusative duration = ago"
+  },
+  {
+    "id": 71,
+    "term": "There are a lot of people here.",
+    "definition": "Čia yra daug žmonių.",
+    "example": "'daug' + genitive plural"
+  },
+  {
+    "id": 72,
+    "term": "I have little time.",
+    "definition": "Aš turiu mažai laiko.",
+    "example": "'mažai' + genitive"
+  },
+  {
+    "id": 73,
+    "term": "I have a few questions.",
+    "definition": "Turiu kelis klausimus.",
+    "example": "'kelis' = a few (accusative)"
+  },
+  {
+    "id": 74,
+    "term": "There are many opportunities here.",
+    "definition": "Čia yra daug galimybių.",
+    "example": "'daug' + genitive plural"
+  },
+  {
+    "id": 75,
+    "term": "I have several friends in Lithuania.",
+    "definition": "Turiu kelis draugus Lietuvoje.",
+    "example": "'kelis' = several"
+  },
+  {
+    "id": 76,
+    "term": "Not many people know about this.",
+    "definition": "Nedaug žmonių apie tai žino.",
+    "example": "'nedaug' + genitive"
+  },
+  {
+    "id": 77,
+    "term": "I need a bit more time.",
+    "definition": "Man reikia truputį daugiau laiko.",
+    "example": "'reikia' + genitive: laiko"
+  },
+  {
+    "id": 78,
+    "term": "Most people agree with this.",
+    "definition": "Dauguma žmonių su tuo sutinka.",
+    "example": "'dauguma' + genitive = most of"
+  },
+  {
+    "id": 79,
+    "term": "I bought a lot of books.",
+    "definition": "Nusipirkau daug knygų.",
+    "example": "'daug' + genitive plural"
+  },
+  {
+    "id": 80,
+    "term": "There isn't enough bread.",
+    "definition": "Neužtenka duonos.",
+    "example": "'neužtenka' + genitive = not enough"
+  },
+  {
+    "id": 81,
+    "term": "Sit down, please.",
+    "definition": "Sėskis, prašau.",
+    "example": "reflexive imperative: sėskis"
+  },
+  {
+    "id": 82,
+    "term": "Wait for me!",
+    "definition": "Palauk manęs!",
+    "example": "'laukti' takes a genitive object: manęs"
+  },
+  {
+    "id": 83,
+    "term": "Don't worry.",
+    "definition": "Nesijaudink.",
+    "example": "negative imperative of the reflexive verb"
+  },
+  {
+    "id": 84,
+    "term": "Close the door, please.",
+    "definition": "Uždaryk duris, prašau.",
+    "example": "imperative: uždaryk"
+  },
+  {
+    "id": 85,
+    "term": "Let's go!",
+    "definition": "Eime!",
+    "example": "1st person plural imperative form"
+  },
+  {
+    "id": 86,
+    "term": "Let's eat something.",
+    "definition": "Pavalgykime ką nors!",
+    "example": "1st person plural imperative"
+  },
+  {
+    "id": 87,
+    "term": "Be careful!",
+    "definition": "Būk atsargus!",
+    "example": "imperative of 'būti': būk"
+  },
+  {
+    "id": 88,
+    "term": "Don't be afraid.",
+    "definition": "Nebijok.",
+    "example": "negative imperative: ne + bijok"
+  },
+  {
+    "id": 89,
+    "term": "Help me, please.",
+    "definition": "Padėk man, prašau.",
+    "example": "'padėti' takes a dative object: man"
+  },
+  {
+    "id": 90,
+    "term": "Listen to me!",
+    "definition": "Klausyk manęs!",
+    "example": "'klausyti' takes a genitive object: manęs"
+  },
+  {
+    "id": 91,
+    "term": "I don't know where he lives.",
+    "definition": "Nežinau, kur jis gyvena.",
+    "example": "'kur' = where"
+  },
+  {
+    "id": 92,
+    "term": "I don't know what time it is.",
+    "definition": "Nežinau, kelinta valanda.",
+    "example": "'kelinta valanda' = what time is it"
+  },
+  {
+    "id": 93,
+    "term": "Tell me why you are sad.",
+    "definition": "Pasakyk man, kodėl tu liūdnas.",
+    "example": "'kodėl' inside an indirect question"
+  },
+  {
+    "id": 94,
+    "term": "I wonder who called.",
+    "definition": "Įdomu, kas skambino.",
+    "example": "'įdomu' = I wonder, literally 'it's interesting'"
+  },
+  {
+    "id": 95,
+    "term": "I am not sure if he is coming.",
+    "definition": "Nesu tikras, ar jis ateis.",
+    "example": "'ar' = if/whether"
+  },
+  {
+    "id": 96,
+    "term": "She said that she was tired.",
+    "definition": "Ji sakė, kad buvo pavargusi.",
+    "example": "past tense inside reported speech: buvo pavargusi"
+  },
+  {
+    "id": 97,
+    "term": "He asked if I spoke Lithuanian.",
+    "definition": "Jis paklausė, ar aš kalbu lietuviškai.",
+    "example": "'ar' = if/whether"
+  },
+  {
+    "id": 98,
+    "term": "If I had more time, I would learn Italian too.",
+    "definition": "Jei turėčiau daugiau laiko, mokyčiausi ir italų kalbos.",
+    "example": "subjunctive forms on both sides: turėčiau, mokyčiausi"
+  },
+  {
+    "id": 99,
+    "term": "If I were you, I would rest.",
+    "definition": "Jei būčiau tavo vietoje, ilsėčiausi.",
+    "example": "'jei būčiau tavo vietoje' = if I were you"
+  },
+  {
+    "id": 100,
+    "term": "I would be very happy if you came.",
+    "definition": "Būčiau labai laimingas, jei ateitum.",
+    "example": "subjunctive on both sides: būčiau / ateitum"
+  }
+];
+window.QM_SENTENCES_LT_INTERMEDIATE_DATA = [
+  {
+    "id": 1,
+    "term": "I go there every day.",
+    "definition": "Aš einu ten kiekvieną dieną.",
+    "example": "'ten' = there"
+  },
+  {
+    "id": 2,
+    "term": "I don't believe it.",
+    "definition": "Aš tuo netikiu.",
+    "example": "'tikėti' takes an instrumental object: tuo"
+  },
+  {
+    "id": 3,
+    "term": "I think about it often.",
+    "definition": "Aš dažnai apie tai galvoju.",
+    "example": "'galvoti apie' = to think about"
+  },
+  {
+    "id": 4,
+    "term": "How many books do you have? I have three of them.",
+    "definition": "Kiek knygų turi? Turiu tris.",
+    "example": "no extra pronoun needed — the number alone answers"
+  },
+  {
+    "id": 5,
+    "term": "Do you want some wine? Yes, I want some.",
+    "definition": "Ar nori vyno? Taip, noriu truputį.",
+    "example": "'truputį' fills in for 'some'"
+  },
+  {
+    "id": 6,
+    "term": "Do you need money? Yes, I need some.",
+    "definition": "Ar reikia pinigų? Taip, reikia truputį.",
+    "example": "same 'truputį' pattern"
+  },
+  {
+    "id": 7,
+    "term": "I'm leaving now.",
+    "definition": "Aš dabar išeinu.",
+    "example": "'išeiti' = to leave/go out"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to talk about it.",
+    "definition": "Nenoriu apie tai kalbėti.",
+    "example": "'kalbėti apie' = to talk about"
+  },
+  {
+    "id": 9,
+    "term": "How many sisters do you have? I have one.",
+    "definition": "Kiek seserų turi? Turiu vieną.",
+    "example": "'vieną' agrees feminine with sesuo"
+  },
+  {
+    "id": 10,
+    "term": "I'm sure of it.",
+    "definition": "Aš tuo tikras.",
+    "example": "instrumental: tuo"
+  },
+  {
+    "id": 11,
+    "term": "I used to read a lot as a child.",
+    "definition": "Vaikystėje aš daug skaitydavau.",
+    "example": "the habitual-past suffix -davo marks a repeated childhood action"
+  },
+  {
+    "id": 12,
+    "term": "Yesterday I read that whole book.",
+    "definition": "Vakar perskaičiau visą tą knygą.",
+    "example": "'perskaityti' — the prefix 'per-' marks a fully completed reading"
+  },
+  {
+    "id": 13,
+    "term": "I always drank coffee in the morning.",
+    "definition": "Aš visada gerdavau kavą ryte.",
+    "example": "habitual past: gerdavau"
+  },
+  {
+    "id": 14,
+    "term": "This morning I drank two cups of coffee.",
+    "definition": "Šį rytą išgėriau du puodelius kavos.",
+    "example": "'išgerti' — the prefix 'iš-' marks completion"
+  },
+  {
+    "id": 15,
+    "term": "She was writing a letter when I called.",
+    "definition": "Ji rašė laišką, kai paskambinau.",
+    "example": "plain past tense — no separate progressive form needed"
+  },
+  {
+    "id": 16,
+    "term": "She wrote the letter and sent it.",
+    "definition": "Ji parašė laišką ir jį išsiuntė.",
+    "example": "'parašyti' — prefix 'pa-' marks the completed act"
+  },
+  {
+    "id": 17,
+    "term": "We were watching a movie all evening.",
+    "definition": "Mes visą vakarą žiūrėjome filmą.",
+    "example": "no prefix — an ongoing, unbounded activity"
+  },
+  {
+    "id": 18,
+    "term": "We watched the whole movie in one sitting.",
+    "definition": "Peržiūrėjome visą filmą per vieną kartą.",
+    "example": "'peržiūrėti' — the prefix marks the whole film as finished"
+  },
+  {
+    "id": 19,
+    "term": "I was learning Lithuanian for two years before I moved here.",
+    "definition": "Aš mokiausi lietuvių kalbos dvejus metus, prieš persikeldamas čia.",
+    "example": "'prieš persikeldamas' — a participial 'before' construction"
+  },
+  {
+    "id": 20,
+    "term": "I finally learned all the irregular verbs.",
+    "definition": "Pagaliau išmokau visus netaisyklingus veiksmažodžius.",
+    "example": "'išmokti' — prefix marks mastery achieved"
+  },
+  {
+    "id": 21,
+    "term": "This book was written by a famous author.",
+    "definition": "Šią knygą parašė garsus rašytojas.",
+    "example": "Lithuanian favors an active sentence with the agent as subject over a literal passive"
+  },
+  {
+    "id": 22,
+    "term": "The house was built in 1920.",
+    "definition": "Namas buvo pastatytas 1920 metais.",
+    "example": "passive participle: buvo pastatytas"
+  },
+  {
+    "id": 23,
+    "term": "The letter is being written now.",
+    "definition": "Laiškas dabar rašomas.",
+    "example": "present passive participle: rašomas"
+  },
+  {
+    "id": 24,
+    "term": "The doors are closed at nine.",
+    "definition": "Durys uždaromos devintą valandą.",
+    "example": "habitual passive participle: uždaromos"
+  },
+  {
+    "id": 25,
+    "term": "The problem will be solved soon.",
+    "definition": "Problema greitai bus išspręsta.",
+    "example": "future passive: bus išspręsta"
+  },
+  {
+    "id": 26,
+    "term": "The bridge was destroyed during the war.",
+    "definition": "Tiltas buvo sunaikintas karo metu.",
+    "example": "passive: buvo sunaikintas"
+  },
+  {
+    "id": 27,
+    "term": "This song is known all over the world.",
+    "definition": "Ši daina žinoma visame pasaulyje.",
+    "example": "'žinoma' — passive participle used adjectivally"
+  },
+  {
+    "id": 28,
+    "term": "The cake was eaten by the children.",
+    "definition": "Tortą suvalgė vaikai.",
+    "example": "the agent stays the grammatical subject: vaikai"
+  },
+  {
+    "id": 29,
+    "term": "New rules were introduced last year.",
+    "definition": "Praėjusiais metais buvo įvestos naujos taisyklės.",
+    "example": "plural passive: buvo įvestos"
+  },
+  {
+    "id": 30,
+    "term": "The window was broken by the storm.",
+    "definition": "Langą sudaužė audra.",
+    "example": "same active-agent pattern as #28"
+  },
+  {
+    "id": 31,
+    "term": "It's said that he is very talented.",
+    "definition": "Sakoma, kad jis labai talentingas.",
+    "example": "impersonal passive: sakoma"
+  },
+  {
+    "id": 32,
+    "term": "It's getting dark.",
+    "definition": "Temsta.",
+    "example": "a single impersonal verb for 'it's getting dark'"
+  },
+  {
+    "id": 33,
+    "term": "It's getting cold outside.",
+    "definition": "Lauke darosi šalta.",
+    "example": "'darytis' = to become"
+  },
+  {
+    "id": 34,
+    "term": "How do you say this in Lithuanian?",
+    "definition": "Kaip tai pasakyti lietuviškai?",
+    "example": "'lietuviškai' — the adverbial 'in Lithuanian'"
+  },
+  {
+    "id": 35,
+    "term": "One eats dinner at eight here.",
+    "definition": "Čia vakarieniaujama aštuntą valandą.",
+    "example": "impersonal passive form: vakarieniaujama"
+  },
+  {
+    "id": 36,
+    "term": "You can't smoke here.",
+    "definition": "Čia negalima rūkyti.",
+    "example": "'negalima' = not allowed"
+  },
+  {
+    "id": 37,
+    "term": "It's not done that way.",
+    "definition": "Taip nedaroma.",
+    "example": "impersonal passive: nedaroma"
+  },
+  {
+    "id": 38,
+    "term": "People say all sorts of things.",
+    "definition": "Žmonės sako visokius dalykus.",
+    "example": "'žmonės' as an explicit generic subject"
+  },
+  {
+    "id": 39,
+    "term": "This word is used often.",
+    "definition": "Šis žodis dažnai vartojamas.",
+    "example": "passive: vartojamas"
+  },
+  {
+    "id": 40,
+    "term": "This is how the game is played.",
+    "definition": "Taip žaidžiamas šis žaidimas.",
+    "example": "passive: žaidžiamas"
+  },
+  {
+    "id": 41,
+    "term": "I told him to come.",
+    "definition": "Aš pasakiau jam ateiti.",
+    "example": "dative + infinitive reports a command"
+  },
+  {
+    "id": 42,
+    "term": "She asked me to help her.",
+    "definition": "Ji paprašė manęs jai padėti.",
+    "example": "'prašyti' takes a genitive object: manęs"
+  },
+  {
+    "id": 43,
+    "term": "The teacher told us to be quiet.",
+    "definition": "Mokytojas liepė mums tylėti.",
+    "example": "'liepti' + dative + infinitive"
+  },
+  {
+    "id": 44,
+    "term": "I want you to call me.",
+    "definition": "Aš noriu, kad tu man paskambintum.",
+    "example": "'kad' + subjunctive: paskambintum"
+  },
+  {
+    "id": 45,
+    "term": "My mother told me not to be late.",
+    "definition": "Mama liepė man nevėluoti.",
+    "example": "dative + negated infinitive"
+  },
+  {
+    "id": 46,
+    "term": "He asked us to wait outside.",
+    "definition": "Jis paprašė mūsų palaukti lauke.",
+    "example": "genitive object after 'prašyti': mūsų"
+  },
+  {
+    "id": 47,
+    "term": "I told them to stop.",
+    "definition": "Aš pasakiau jiems sustoti.",
+    "example": "dative + infinitive: jiems sustoti"
+  },
+  {
+    "id": 48,
+    "term": "She wants me to visit her.",
+    "definition": "Ji nori, kad aš ją aplankyčiau.",
+    "example": "'kad' + subjunctive: aplankyčiau"
+  },
+  {
+    "id": 49,
+    "term": "The boss ordered us to finish the project.",
+    "definition": "Viršininkas liepė mums baigti projektą.",
+    "example": "'liepti' + dative + infinitive"
+  },
+  {
+    "id": 50,
+    "term": "I asked her to be patient.",
+    "definition": "Aš paprašiau jos būti kantriai.",
+    "example": "genitive object: jos"
+  },
+  {
+    "id": 51,
+    "term": "Although it was raining, we went for a walk.",
+    "definition": "Nors lijo, mes išėjome pasivaikščioti.",
+    "example": "'nors' = although"
+  },
+  {
+    "id": 52,
+    "term": "Even though he is tired, he keeps working.",
+    "definition": "Nors jis pavargęs, jis toliau dirba.",
+    "example": "'toliau' + verb = to keep on doing"
+  },
+  {
+    "id": 53,
+    "term": "Despite the cold, we went outside.",
+    "definition": "Nepaisant šalčio, mes išėjome lauk.",
+    "example": "'nepaisant' + genitive = despite"
+  },
+  {
+    "id": 54,
+    "term": "It's raining, but we're going out anyway.",
+    "definition": "Lyja, bet mes vis tiek išeiname.",
+    "example": "'vis tiek' = anyway"
+  },
+  {
+    "id": 55,
+    "term": "I like her, even though she's sometimes difficult.",
+    "definition": "Ji man patinka, nors kartais ji sudėtinga.",
+    "example": "'nors' clause"
+  },
+  {
+    "id": 56,
+    "term": "He passed the exam despite not studying much.",
+    "definition": "Jis išlaikė egzaminą, nors daug nesimokė.",
+    "example": "'nors' + negated clause"
+  },
+  {
+    "id": 57,
+    "term": "It was cheap, yet good quality.",
+    "definition": "Tai buvo pigu, bet geros kokybės.",
+    "example": "'bet' = but/yet"
+  },
+  {
+    "id": 58,
+    "term": "Nevertheless, I think we should try.",
+    "definition": "Vis dėlto manau, kad turėtume pabandyti.",
+    "example": "'vis dėlto' = nevertheless"
+  },
+  {
+    "id": 59,
+    "term": "Although I disagree, I'll help you.",
+    "definition": "Nors nesutinku, aš tau padėsiu.",
+    "example": "'nors' clause"
+  },
+  {
+    "id": 60,
+    "term": "We won, although it wasn't easy.",
+    "definition": "Mes laimėjome, nors tai nebuvo lengva.",
+    "example": "'nors' after the main clause"
+  },
+  {
+    "id": 61,
+    "term": "Stay here until I come back.",
+    "definition": "Pasilik čia, kol grįšiu.",
+    "example": "'kol' = until"
+  },
+  {
+    "id": 62,
+    "term": "I'll wait as long as you need.",
+    "definition": "Lauksiu tiek, kiek reikės.",
+    "example": "'tiek, kiek' = as much as/as long as"
+  },
+  {
+    "id": 63,
+    "term": "Before you leave, call me.",
+    "definition": "Prieš išeidamas, paskambink man.",
+    "example": "'prieš' + participle 'išeidamas' = before leaving"
+  },
+  {
+    "id": 64,
+    "term": "I checked everything before I left.",
+    "definition": "Patikrinau viską prieš išeidamas.",
+    "example": "same participial 'before' construction"
+  },
+  {
+    "id": 65,
+    "term": "I've known her since I was a child.",
+    "definition": "Pažįstu ją nuo vaikystės.",
+    "example": "'nuo' = since"
+  },
+  {
+    "id": 66,
+    "term": "Since he moved here, he's been much happier.",
+    "definition": "Nuo tada, kai jis persikėlė čia, jis daug laimingesnis.",
+    "example": "'nuo tada, kai' = since (a specific event)"
+  },
+  {
+    "id": 67,
+    "term": "Wait until the light turns green.",
+    "definition": "Palauk, kol užsidegs žalia šviesa.",
+    "example": "'kol' = until"
+  },
+  {
+    "id": 68,
+    "term": "I won't leave until you answer me.",
+    "definition": "Neišeisiu, kol man neatsakysi.",
+    "example": "'kol... ne...' — a construction that simply means 'until'"
+  },
+  {
+    "id": 69,
+    "term": "As soon as I get home, I'll call you.",
+    "definition": "Kai tik parvyksiu namo, tau paskambinsiu.",
+    "example": "'kai tik' = as soon as"
+  },
+  {
+    "id": 70,
+    "term": "The moment I saw her, I knew.",
+    "definition": "Tą akimirką, kai ją pamačiau, žinojau.",
+    "example": "'tą akimirką, kai' = the moment that"
+  },
+  {
+    "id": 71,
+    "term": "Instead of coffee, I'll have tea.",
+    "definition": "Vietoj kavos gersiu arbatą.",
+    "example": "'vietoj' + genitive = instead of"
+  },
+  {
+    "id": 72,
+    "term": "Instead of complaining, do something.",
+    "definition": "Vietoj to, kad skųstumeisi, padaryk ką nors.",
+    "example": "'vietoj to, kad' + subjunctive"
+  },
+  {
+    "id": 73,
+    "term": "Reading books is my favorite hobby.",
+    "definition": "Knygų skaitymas yra mano mėgstamiausias pomėgis.",
+    "example": "'skaitymas' — the verbal noun works as the subject"
+  },
+  {
+    "id": 74,
+    "term": "Learning languages takes time.",
+    "definition": "Kalbų mokymasis užima laiko.",
+    "example": "'mokymasis' — verbal noun as subject"
+  },
+  {
+    "id": 75,
+    "term": "Swimming is good for your health.",
+    "definition": "Plaukimas naudingas sveikatai.",
+    "example": "'plaukimas' — verbal noun as subject"
+  },
+  {
+    "id": 76,
+    "term": "Cooking dinner takes an hour.",
+    "definition": "Vakarienės gaminimas užima valandą.",
+    "example": "'gaminimas' — verbal noun as subject"
+  },
+  {
+    "id": 77,
+    "term": "Smoking is bad for you.",
+    "definition": "Rūkymas kenkia sveikatai.",
+    "example": "'kenkti' = to harm"
+  },
+  {
+    "id": 78,
+    "term": "Waiting is the hardest part.",
+    "definition": "Laukimas yra sunkiausia dalis.",
+    "example": "'laukimas' — verbal noun as subject"
+  },
+  {
+    "id": 79,
+    "term": "Thank you for coming.",
+    "definition": "Ačiū, kad atėjai.",
+    "example": "'ačiū, kad' + clause"
+  },
+  {
+    "id": 80,
+    "term": "I'm tired of waiting.",
+    "definition": "Man įgriso laukti.",
+    "example": "'įgristi' = to become tiresome/fed up with"
+  },
+  {
+    "id": 81,
+    "term": "If I had known, I would have come.",
+    "definition": "Jei būčiau žinojęs, būčiau atėjęs.",
+    "example": "past subjunctive on both sides: būčiau žinojęs / būčiau atėjęs"
+  },
+  {
+    "id": 82,
+    "term": "If you had called me, I would have helped.",
+    "definition": "Jei būtum man paskambinęs, būčiau padėjęs.",
+    "example": "same past-subjunctive pattern"
+  },
+  {
+    "id": 83,
+    "term": "She would have passed if she had studied more.",
+    "definition": "Ji būtų išlaikiusi, jei būtų daugiau mokiusis.",
+    "example": "past subjunctive again"
+  },
+  {
+    "id": 84,
+    "term": "We wouldn't have been late if we had left earlier.",
+    "definition": "Mes nebūtume pavėlavę, jei būtume anksčiau išvykę.",
+    "example": "past subjunctive, negated"
+  },
+  {
+    "id": 85,
+    "term": "I have twenty-two books on this shelf.",
+    "definition": "Turiu dvidešimt dvi knygas šioje lentynoje.",
+    "example": "'dvidešimt dvi' — compound number"
+  },
+  {
+    "id": 86,
+    "term": "There are thirty-five students in this class.",
+    "definition": "Šioje klasėje yra trisdešimt penki mokiniai.",
+    "example": "'trisdešimt penki' — compound number"
+  },
+  {
+    "id": 87,
+    "term": "I have been living here for eleven years.",
+    "definition": "Aš čia gyvenu jau vienuolika metų.",
+    "example": "present tense + 'jau' for an ongoing span"
+  },
+  {
+    "id": 88,
+    "term": "The building has one hundred rooms.",
+    "definition": "Pastate yra šimtas kambarių.",
+    "example": "'šimtas' = one hundred exactly"
+  },
+  {
+    "id": 89,
+    "term": "I paid two hundred euros for this.",
+    "definition": "Už tai sumokėjau du šimtus eurų.",
+    "example": "'du šimtus' — compound number, accusative"
+  },
+  {
+    "id": 90,
+    "term": "Only one person answered correctly.",
+    "definition": "Tik vienas žmogus atsakė teisingai.",
+    "example": "'tik' = only"
+  },
+  {
+    "id": 91,
+    "term": "He passed the exam, which made his parents happy.",
+    "definition": "Jis išlaikė egzaminą, kas pradžiugino jo tėvus.",
+    "example": "'kas' refers back to the whole preceding clause"
+  },
+  {
+    "id": 92,
+    "term": "She was late, which annoyed the teacher.",
+    "definition": "Ji pavėlavo, kas suerzino mokytoją.",
+    "example": "'kas' again refers to the whole event"
+  },
+  {
+    "id": 93,
+    "term": "This is the best restaurant of all the ones I know.",
+    "definition": "Tai geriausias restoranas iš visų, kuriuos žinau.",
+    "example": "'iš visų, kuriuos' = of all the ones that"
+  },
+  {
+    "id": 94,
+    "term": "He is the smartest of all my friends.",
+    "definition": "Jis protingiausias iš visų mano draugų.",
+    "example": "superlative + 'iš visų'"
+  },
+  {
+    "id": 95,
+    "term": "To be honest, I don't understand this.",
+    "definition": "Sąžiningai sakant, aš to nesuprantu.",
+    "example": "'sąžiningai sakant' = to be honest, a fixed opener"
+  },
+  {
+    "id": 96,
+    "term": "Generally speaking, the weather here is nice.",
+    "definition": "Apskritai, oras čia geras.",
+    "example": "'apskritai' = generally speaking"
+  },
+  {
+    "id": 97,
+    "term": "As far as I know, the shop is closed today.",
+    "definition": "Kiek žinau, parduotuvė šiandien uždaryta.",
+    "example": "'kiek žinau' = as far as I know"
+  },
+  {
+    "id": 98,
+    "term": "In my opinion, this is the right decision.",
+    "definition": "Mano nuomone, tai teisingas sprendimas.",
+    "example": "'mano nuomone' = in my opinion"
+  },
+  {
+    "id": 99,
+    "term": "All things considered, it went well.",
+    "definition": "Viską įvertinus, viskas praėjo gerai.",
+    "example": "'viską įvertinus' = all things considered"
+  },
+  {
+    "id": 100,
+    "term": "In the end, everything turned out fine.",
+    "definition": "Galiausiai viskas baigėsi gerai.",
+    "example": "'galiausiai' = in the end"
+  }
+];
+window.QM_PHRASES_LT_DATA = [
+  {
+    "id": 1,
+    "term": "Good morning!",
+    "definition": "Labas rytas!",
+    "example": "used until roughly midday"
+  },
+  {
+    "id": 2,
+    "term": "Good evening!",
+    "definition": "Labas vakaras!",
+    "example": "used from early evening onward"
+  },
+  {
+    "id": 3,
+    "term": "Good night!",
+    "definition": "Labanakt!",
+    "example": "a contraction of 'labos nakties' — the farewell before bed"
+  },
+  {
+    "id": 4,
+    "term": "Hi! (informal)",
+    "definition": "Labas!",
+    "example": "works at any time of day, casual register"
+  },
+  {
+    "id": 5,
+    "term": "How are you?",
+    "definition": "Kaip sekasi?",
+    "example": "literally 'how is it going'"
+  },
+  {
+    "id": 6,
+    "term": "I'm fine, thanks. And you?",
+    "definition": "Gerai, ačiū. O tau?",
+    "example": "'o tau' = and you (informal)"
+  },
+  {
+    "id": 7,
+    "term": "Long time no see!",
+    "definition": "Seniai matytas!",
+    "example": "literally 'seen long ago'"
+  },
+  {
+    "id": 8,
+    "term": "Welcome!",
+    "definition": "Sveiki atvykę!",
+    "example": "literally 'greetings, having arrived'"
+  },
+  {
+    "id": 9,
+    "term": "Nice to see you again.",
+    "definition": "Malonu tave vėl matyti.",
+    "example": "'vėl' = again"
+  },
+  {
+    "id": 10,
+    "term": "What's up? (very informal)",
+    "definition": "Kas naujo?",
+    "example": "literally 'what's new', casual among friends"
+  },
+  {
+    "id": 11,
+    "term": "Goodbye!",
+    "definition": "Viso gero!",
+    "example": "literally 'all the best' — the standard everyday farewell"
+  },
+  {
+    "id": 12,
+    "term": "See you later!",
+    "definition": "Iki vėliau!",
+    "example": "'iki' + time expression is the productive farewell pattern"
+  },
+  {
+    "id": 13,
+    "term": "See you tomorrow!",
+    "definition": "Iki rytojaus!",
+    "example": "same pattern: iki + rytojaus"
+  },
+  {
+    "id": 14,
+    "term": "Take care!",
+    "definition": "Saugok save!",
+    "example": "'saugoti save' = to take care of oneself"
+  },
+  {
+    "id": 15,
+    "term": "Have a good day!",
+    "definition": "Geros dienos!",
+    "example": "a short, everyday send-off"
+  },
+  {
+    "id": 16,
+    "term": "Bye! (informal)",
+    "definition": "Iki!",
+    "example": "a shortened, casual form of 'iki pasimatymo'"
+  },
+  {
+    "id": 17,
+    "term": "Until next time!",
+    "definition": "Iki kito karto!",
+    "example": "'iki kito karto' = until next time"
+  },
+  {
+    "id": 18,
+    "term": "Have a safe trip!",
+    "definition": "Geros kelionės!",
+    "example": "the standard send-off for travelers"
+  },
+  {
+    "id": 19,
+    "term": "Good night, sleep well.",
+    "definition": "Labanakt, saldžių sapnų.",
+    "example": "'saldžių sapnų' = sweet dreams"
+  },
+  {
+    "id": 20,
+    "term": "Take care of yourself.",
+    "definition": "Saugok save.",
+    "example": "same phrase as #14"
+  },
+  {
+    "id": 21,
+    "term": "Please.",
+    "definition": "Prašau.",
+    "example": "used at the start or end of a request"
+  },
+  {
+    "id": 22,
+    "term": "Thank you.",
+    "definition": "Ačiū.",
+    "example": "the everyday thanks"
+  },
+  {
+    "id": 23,
+    "term": "Thank you very much.",
+    "definition": "Labai ačiū.",
+    "example": "'labai' intensifies the thanks"
+  },
+  {
+    "id": 24,
+    "term": "You're welcome.",
+    "definition": "Prašom.",
+    "example": "the same root as 'please', used as a reply"
+  },
+  {
+    "id": 25,
+    "term": "No problem.",
+    "definition": "Jokių problemų.",
+    "example": "'jokių' = no/none at all"
+  },
+  {
+    "id": 26,
+    "term": "Excuse me.",
+    "definition": "Atsiprašau.",
+    "example": "reflexive: atsiprašau, literally 'I apologize'"
+  },
+  {
+    "id": 27,
+    "term": "I'm really sorry.",
+    "definition": "Labai atsiprašau.",
+    "example": "'labai' intensifies the apology"
+  },
+  {
+    "id": 28,
+    "term": "Pardon? (didn't hear)",
+    "definition": "Ką sakei?",
+    "example": "literally 'what did you say'"
+  },
+  {
+    "id": 29,
+    "term": "No worries.",
+    "definition": "Nesijaudink.",
+    "example": "negative imperative of the reflexive verb"
+  },
+  {
+    "id": 30,
+    "term": "It's my pleasure.",
+    "definition": "Man malonu.",
+    "example": "a warm, dative response"
+  },
+  {
+    "id": 31,
+    "term": "My name is Anna.",
+    "definition": "Mano vardas Anna.",
+    "example": "literally 'my name (is) Anna'"
+  },
+  {
+    "id": 32,
+    "term": "Nice to meet you.",
+    "definition": "Malonu susipažinti.",
+    "example": "a fixed introduction phrase"
+  },
+  {
+    "id": 33,
+    "term": "This is my friend Marco.",
+    "definition": "Tai mano draugas Marco.",
+    "example": "introducing someone"
+  },
+  {
+    "id": 34,
+    "term": "Where are you from?",
+    "definition": "Iš kur tu esi?",
+    "example": "'iš kur' = from where"
+  },
+  {
+    "id": 35,
+    "term": "I'm from England.",
+    "definition": "Aš iš Anglijos.",
+    "example": "'iš' + genitive = from"
+  },
+  {
+    "id": 36,
+    "term": "What do you do for a living?",
+    "definition": "Kuo tu užsiimi?",
+    "example": "'užsiimti' + instrumental = to occupy oneself with"
+  },
+  {
+    "id": 37,
+    "term": "I'm a student.",
+    "definition": "Aš esu studentas.",
+    "example": "no article before a profession/status noun"
+  },
+  {
+    "id": 38,
+    "term": "Likewise!",
+    "definition": "Taip pat!",
+    "example": "literally 'also/likewise'"
+  },
+  {
+    "id": 39,
+    "term": "It was nice meeting you.",
+    "definition": "Buvo malonu susipažinti.",
+    "example": "past tense: buvo, said when parting"
+  },
+  {
+    "id": 40,
+    "term": "Let's keep in touch.",
+    "definition": "Palaikykime ryšį.",
+    "example": "'palaikyti ryšį' = to keep in touch"
+  },
+  {
+    "id": 41,
+    "term": "Happy birthday!",
+    "definition": "Su gimtadieniu!",
+    "example": "'su' + instrumental — the standard birthday greeting"
+  },
+  {
+    "id": 42,
+    "term": "Congratulations!",
+    "definition": "Sveikinu!",
+    "example": "a distinct verb from the birthday greeting"
+  },
+  {
+    "id": 43,
+    "term": "Good luck!",
+    "definition": "Sėkmės!",
+    "example": "genitive of 'sėkmė' (luck/success), used as an exclamation"
+  },
+  {
+    "id": 44,
+    "term": "Best wishes!",
+    "definition": "Geriausi linkėjimai!",
+    "example": "'linkėjimai' = wishes"
+  },
+  {
+    "id": 45,
+    "term": "Get well soon!",
+    "definition": "Greitai pasveik!",
+    "example": "'pasveikti' = to recover"
+  },
+  {
+    "id": 46,
+    "term": "Happy New Year!",
+    "definition": "Su Naujaisiais metais!",
+    "example": "'su' + instrumental, same pattern as the birthday greeting"
+  },
+  {
+    "id": 47,
+    "term": "Merry Christmas!",
+    "definition": "Linksmų Kalėdų!",
+    "example": "genitive: Kalėdų"
+  },
+  {
+    "id": 48,
+    "term": "Cheers! (a toast)",
+    "definition": "Į sveikatą!",
+    "example": "literally 'to (your) health' — the standard toast"
+  },
+  {
+    "id": 49,
+    "term": "Have fun!",
+    "definition": "Smagiai praleisk laiką!",
+    "example": "'smagiai' = pleasantly/with fun"
+  },
+  {
+    "id": 50,
+    "term": "Enjoy your meal!",
+    "definition": "Skanaus!",
+    "example": "genitive of 'skanus' (tasty), used as an exclamation"
+  },
+  {
+    "id": 51,
+    "term": "Can you help me, please?",
+    "definition": "Ar gali man padėti, prašau?",
+    "example": "'padėti' takes a dative object: man"
+  },
+  {
+    "id": 52,
+    "term": "I need help.",
+    "definition": "Man reikia pagalbos.",
+    "example": "'reikia' + genitive: pagalbos"
+  },
+  {
+    "id": 53,
+    "term": "Where is the bathroom?",
+    "definition": "Kur yra tualetas?",
+    "example": "'tualetas' — the everyday word for bathroom"
+  },
+  {
+    "id": 54,
+    "term": "How much does this cost?",
+    "definition": "Kiek tai kainuoja?",
+    "example": "'kainuoti' = to cost"
+  },
+  {
+    "id": 55,
+    "term": "Do you have this in another color?",
+    "definition": "Ar turite tai kitos spalvos?",
+    "example": "genitive 'kitos spalvos' = of another color"
+  },
+  {
+    "id": 56,
+    "term": "Can I have the bill, please?",
+    "definition": "Ar galiu gauti sąskaitą, prašau?",
+    "example": "'sąskaita' — the check at a restaurant"
+  },
+  {
+    "id": 57,
+    "term": "One moment, please.",
+    "definition": "Vieną minutėlę, prašau.",
+    "example": "diminutive '-elė' softens 'minutė' into a polite phrase"
+  },
+  {
+    "id": 58,
+    "term": "Could you repeat that?",
+    "definition": "Ar galėtum tai pakartoti?",
+    "example": "'galėtum' — conditional 'could'"
+  },
+  {
+    "id": 59,
+    "term": "I don't understand.",
+    "definition": "Aš nesuprantu.",
+    "example": "'suprasti' = to understand"
+  },
+  {
+    "id": 60,
+    "term": "Could you speak more slowly?",
+    "definition": "Ar galėtum kalbėti lėčiau?",
+    "example": "'lėčiau' = more slowly"
+  },
+  {
+    "id": 61,
+    "term": "I agree.",
+    "definition": "Sutinku.",
+    "example": "'sutikti' = to agree"
+  },
+  {
+    "id": 62,
+    "term": "I don't agree.",
+    "definition": "Nesutinku.",
+    "example": "negated version"
+  },
+  {
+    "id": 63,
+    "term": "That's true.",
+    "definition": "Tai tiesa.",
+    "example": "'tiesa' = truth/true"
+  },
+  {
+    "id": 64,
+    "term": "That's not true.",
+    "definition": "Tai netiesa.",
+    "example": "negated version: netiesa"
+  },
+  {
+    "id": 65,
+    "term": "I think so.",
+    "definition": "Manau, kad taip.",
+    "example": "'manau, kad' = I think that"
+  },
+  {
+    "id": 66,
+    "term": "I don't think so.",
+    "definition": "Manau, kad ne.",
+    "example": "same opener, negated answer"
+  },
+  {
+    "id": 67,
+    "term": "Sounds good.",
+    "definition": "Skamba gerai.",
+    "example": "'skambėti' = to sound"
+  },
+  {
+    "id": 68,
+    "term": "No way!",
+    "definition": "Jokiu būdu!",
+    "example": "an emphatic refusal"
+  },
+  {
+    "id": 69,
+    "term": "Of course!",
+    "definition": "Žinoma!",
+    "example": "an emphatic agreement"
+  },
+  {
+    "id": 70,
+    "term": "Maybe.",
+    "definition": "Galbūt.",
+    "example": "a single-word hedge"
+  },
+  {
+    "id": 71,
+    "term": "Really?",
+    "definition": "Tikrai?",
+    "example": "expressing mild disbelief"
+  },
+  {
+    "id": 72,
+    "term": "Wow!",
+    "definition": "Oho!",
+    "example": "an interjection of surprise"
+  },
+  {
+    "id": 73,
+    "term": "That's great!",
+    "definition": "Tai puiku!",
+    "example": "'puiku' = great"
+  },
+  {
+    "id": 74,
+    "term": "I'm sorry to hear that.",
+    "definition": "Gaila tai girdėti.",
+    "example": "'gaila' = it's a shame/pity"
+  },
+  {
+    "id": 75,
+    "term": "What a shame.",
+    "definition": "Kaip gaila.",
+    "example": "'kaip gaila' — a fixed exclamation of sympathy"
+  },
+  {
+    "id": 76,
+    "term": "Oh no!",
+    "definition": "O ne!",
+    "example": "'o' — a common interjection of dismay"
+  },
+  {
+    "id": 77,
+    "term": "Exactly!",
+    "definition": "Būtent!",
+    "example": "an emphatic agreement"
+  },
+  {
+    "id": 78,
+    "term": "I see.",
+    "definition": "Suprantu.",
+    "example": "'suprasti' used idiomatically for understanding"
+  },
+  {
+    "id": 79,
+    "term": "That makes sense.",
+    "definition": "Tai turi prasmę.",
+    "example": "'turėti prasmę' = to make sense"
+  },
+  {
+    "id": 80,
+    "term": "That's interesting.",
+    "definition": "Tai įdomu.",
+    "example": "straightforward observation"
+  },
+  {
+    "id": 81,
+    "term": "Hello? (on the phone)",
+    "definition": "Alio?",
+    "example": "the standard Lithuanian phone greeting"
+  },
+  {
+    "id": 82,
+    "term": "Who's calling?",
+    "definition": "Kas skambina?",
+    "example": "literally 'who is calling'"
+  },
+  {
+    "id": 83,
+    "term": "Can I call you back?",
+    "definition": "Ar galiu tau perskambinti?",
+    "example": "'perskambinti' = to call back"
+  },
+  {
+    "id": 84,
+    "term": "It was nice talking to you.",
+    "definition": "Buvo malonu su tavimi pasikalbėti.",
+    "example": "'su tavimi' = with you, instrumental"
+  },
+  {
+    "id": 85,
+    "term": "See you at the party!",
+    "definition": "Iki susitikimo vakarėlyje!",
+    "example": "locative: vakarėlyje"
+  },
+  {
+    "id": 86,
+    "term": "I'll text you.",
+    "definition": "Parašysiu tau žinutę.",
+    "example": "'rašyti žinutę' = to text, literally 'write a message'"
+  },
+  {
+    "id": 87,
+    "term": "Take it easy!",
+    "definition": "Ramiau!",
+    "example": "casual, one-word reassurance"
+  },
+  {
+    "id": 88,
+    "term": "All the best!",
+    "definition": "Geros kloties!",
+    "example": "'kloties' — genitive of 'klotis' (fortune), a closing wish distinct from 'viso gero'"
+  },
+  {
+    "id": 89,
+    "term": "I'll be right there.",
+    "definition": "Tuoj būsiu ten.",
+    "example": "'tuoj' = right away"
+  },
+  {
+    "id": 90,
+    "term": "I'm on my way.",
+    "definition": "Aš jau vykstu.",
+    "example": "'vykti' = to be en route"
+  },
+  {
+    "id": 91,
+    "term": "Watch out!",
+    "definition": "Atsargiai!",
+    "example": "a bare warning, no verb needed"
+  },
+  {
+    "id": 92,
+    "term": "No rush.",
+    "definition": "Neskubėk.",
+    "example": "negative imperative: don't hurry"
+  },
+  {
+    "id": 93,
+    "term": "After you.",
+    "definition": "Po tavęs.",
+    "example": "'po' + genitive = after"
+  },
+  {
+    "id": 94,
+    "term": "Make yourself at home.",
+    "definition": "Jauskis kaip namie.",
+    "example": "reflexive imperative: jauskis"
+  },
+  {
+    "id": 95,
+    "term": "It's on me. (paying)",
+    "definition": "Aš vaišinu.",
+    "example": "'vaišinti' = to treat someone, offering to cover the bill"
+  },
+  {
+    "id": 96,
+    "term": "Let's go!",
+    "definition": "Eime!",
+    "example": "1st person plural imperative"
+  },
+  {
+    "id": 97,
+    "term": "Welcome home!",
+    "definition": "Sveikas sugrįžęs namo!",
+    "example": "masculine form; 'sveika sugrįžusi' for a woman"
+  },
+  {
+    "id": 98,
+    "term": "Get home safe!",
+    "definition": "Saugiai grįžk namo!",
+    "example": "'saugiai' = safely"
+  },
+  {
+    "id": 99,
+    "term": "I'm looking forward to it.",
+    "definition": "Aš to nekantriai laukiu.",
+    "example": "'nekantriai laukti' = to look forward to, literally 'wait impatiently'"
+  },
+  {
+    "id": 100,
+    "term": "Thanks for everything.",
+    "definition": "Ačiū už viską.",
+    "example": "'ačiū už' + accusative"
   }
 ];
