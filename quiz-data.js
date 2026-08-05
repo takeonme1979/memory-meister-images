@@ -2626,7 +2626,15 @@ window.QM_HIDDEN_QUIZZES = [
   "nlIntermediateSentences",
   "rnlIntermediateSentences",
   "nlPhrases",
-  "rnlPhrases"
+  "rnlPhrases",
+  "huUpperBeginnerSentences",
+  "rhuUpperBeginnerSentences",
+  "huLowerIntSentences",
+  "rhuLowerIntSentences",
+  "huIntermediateSentences",
+  "rhuIntermediateSentences",
+  "huPhrases",
+  "rhuPhrases"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -124683,5 +124691,2413 @@ window.QM_PHRASES_NL_DATA = [
     "term": "Thanks for everything.",
     "definition": "Bedankt voor alles.",
     "example": "'bedankt voor' + noun"
+  }
+];
+window.QM_SENTENCES_HU_UPPERBEGINNER_DATA = [
+  {
+    "id": 1,
+    "term": "My father is a farmer.",
+    "definition": "Édesapám gazdálkodó.",
+    "example": "zero copula for simple identity — no 'van' needed"
+  },
+  {
+    "id": 2,
+    "term": "My mother is a teacher.",
+    "definition": "Édesanyám tanár.",
+    "example": "same zero-copula pattern"
+  },
+  {
+    "id": 3,
+    "term": "I have two brothers and one sister.",
+    "definition": "Két fivérem és egy nővérem van.",
+    "example": "Hungarian possession: 'my X exists' — the possessive suffix sits on the noun, 'van' closes the sentence"
+  },
+  {
+    "id": 4,
+    "term": "My grandmother lives with us.",
+    "definition": "A nagymamám velünk lakik.",
+    "example": "'velünk' = with us — the comitative -val/-vel suffix fused onto 'mi'"
+  },
+  {
+    "id": 5,
+    "term": "Our family is very big.",
+    "definition": "A családunk nagyon nagy.",
+    "example": "possessive suffix -unk = our"
+  },
+  {
+    "id": 6,
+    "term": "My son is five years old.",
+    "definition": "A fiam öt éves.",
+    "example": "'éves' — the suffix that turns a number into an age"
+  },
+  {
+    "id": 7,
+    "term": "My daughter likes to draw.",
+    "definition": "A lányom szeret rajzolni.",
+    "example": "'szeret' + infinitive = likes to"
+  },
+  {
+    "id": 8,
+    "term": "We have a small dog and a big cat.",
+    "definition": "Van egy kicsi kutyánk és egy nagy macskánk.",
+    "example": "possessive suffix -nk on each noun: kutyánk, macskánk"
+  },
+  {
+    "id": 9,
+    "term": "My parents are on vacation.",
+    "definition": "A szüleim nyaralnak.",
+    "example": "'nyaralni' — a single verb meaning 'to be on vacation'"
+  },
+  {
+    "id": 10,
+    "term": "My best friend has three children.",
+    "definition": "A legjobb barátomnak három gyereke van.",
+    "example": "dative -nak marks the possessor: barátomnak"
+  },
+  {
+    "id": 11,
+    "term": "I wake up early on Mondays.",
+    "definition": "Hétfőnként korán ébredek.",
+    "example": "'hétfőnként' — the distributive suffix -nként = 'on Mondays' (every Monday)"
+  },
+  {
+    "id": 12,
+    "term": "On Saturdays, I sleep late.",
+    "definition": "Szombatonként sokáig alszom.",
+    "example": "same -nként pattern"
+  },
+  {
+    "id": 13,
+    "term": "Today is Tuesday.",
+    "definition": "Ma kedd van.",
+    "example": "'van' IS needed for a time-of-day statement, unlike simple identity"
+  },
+  {
+    "id": 14,
+    "term": "Tomorrow is my birthday.",
+    "definition": "Holnap van a születésnapom.",
+    "example": "'van' again for this kind of statement"
+  },
+  {
+    "id": 15,
+    "term": "Yesterday was a busy day.",
+    "definition": "Tegnap elfoglalt nap volt.",
+    "example": "'volt' = was, the past tense of van"
+  },
+  {
+    "id": 16,
+    "term": "In the morning, I drink coffee.",
+    "definition": "Reggel kávét iszom.",
+    "example": "accusative suffix -t on the object: kávét"
+  },
+  {
+    "id": 17,
+    "term": "In the evening, we watch television.",
+    "definition": "Este tévét nézünk.",
+    "example": "accusative: tévét"
+  },
+  {
+    "id": 18,
+    "term": "At night, I read a book.",
+    "definition": "Éjjel könyvet olvasok.",
+    "example": "accusative: könyvet"
+  },
+  {
+    "id": 19,
+    "term": "This afternoon, I have a meeting.",
+    "definition": "Ma délután megbeszélésem van.",
+    "example": "possessive + van for 'I have'"
+  },
+  {
+    "id": 20,
+    "term": "Every weekend, we visit my parents.",
+    "definition": "Minden hétvégén meglátogatjuk a szüleimet.",
+    "example": "definite conjugation 'meglátogatjuk' — used because the object is a specific, known set"
+  },
+  {
+    "id": 21,
+    "term": "I would like a glass of water.",
+    "definition": "Szeretnék egy pohár vizet.",
+    "example": "'szeretnék' — conditional of szeretni, the polite 'I would like'"
+  },
+  {
+    "id": 22,
+    "term": "Can I have the menu, please?",
+    "definition": "Kaphatnék egy étlapot, kérem?",
+    "example": "'kaphatnék' — potential + conditional suffix"
+  },
+  {
+    "id": 23,
+    "term": "This soup is delicious.",
+    "definition": "Ez a leves finom.",
+    "example": "'ez a' = this (the)"
+  },
+  {
+    "id": 24,
+    "term": "I don't eat meat.",
+    "definition": "Nem eszem húst.",
+    "example": "'nem' negates the verb directly"
+  },
+  {
+    "id": 25,
+    "term": "She likes sweet food.",
+    "definition": "Ő szereti az édes ételeket.",
+    "example": "definite conjugation 'szereti' since 'the sweet foods' is a specific, known category"
+  },
+  {
+    "id": 26,
+    "term": "We are having pizza for dinner.",
+    "definition": "Vacsorára pizzát eszünk.",
+    "example": "sublative -ra on 'vacsora' = 'for dinner'"
+  },
+  {
+    "id": 27,
+    "term": "The bread is fresh.",
+    "definition": "A kenyér friss.",
+    "example": "no copula for a simple adjective statement"
+  },
+  {
+    "id": 28,
+    "term": "I usually drink tea, not coffee.",
+    "definition": "Általában teát iszom, nem kávét.",
+    "example": "'általában' = usually"
+  },
+  {
+    "id": 29,
+    "term": "This restaurant is very popular.",
+    "definition": "Ez az étterem nagyon népszerű.",
+    "example": "'ez az' — this + definite article, since étterem starts with a vowel"
+  },
+  {
+    "id": 30,
+    "term": "The food here is cheap.",
+    "definition": "Az étel itt olcsó.",
+    "example": "no copula needed"
+  },
+  {
+    "id": 31,
+    "term": "It is sunny today.",
+    "definition": "Ma süt a nap.",
+    "example": "literally 'the sun shines today'"
+  },
+  {
+    "id": 32,
+    "term": "It is raining outside.",
+    "definition": "Odakint esik az eső.",
+    "example": "'esik az eső' = it's raining, literally 'the rain falls'"
+  },
+  {
+    "id": 33,
+    "term": "It is very windy.",
+    "definition": "Nagyon szeles idő van.",
+    "example": "'szeles idő van' = windy weather (there is)"
+  },
+  {
+    "id": 34,
+    "term": "It is snowing in the mountains.",
+    "definition": "Havazik a hegyekben.",
+    "example": "'havazik' — a single impersonal verb for 'it's snowing'"
+  },
+  {
+    "id": 35,
+    "term": "The weather is nice this week.",
+    "definition": "Szép az idő ezen a héten.",
+    "example": "'ezen a héten' = this week, inessive case"
+  },
+  {
+    "id": 36,
+    "term": "It is cloudy this morning.",
+    "definition": "Ma reggel felhős az ég.",
+    "example": "'felhős' = cloudy"
+  },
+  {
+    "id": 37,
+    "term": "It is hot in the summer.",
+    "definition": "Nyáron meleg van.",
+    "example": "'meleg van' = it's hot (there is heat)"
+  },
+  {
+    "id": 38,
+    "term": "It is cold in the winter.",
+    "definition": "Télen hideg van.",
+    "example": "'hideg van' = it's cold"
+  },
+  {
+    "id": 39,
+    "term": "There is a storm coming.",
+    "definition": "Vihar közeledik.",
+    "example": "'közeledni' = to approach"
+  },
+  {
+    "id": 40,
+    "term": "The sky is blue today.",
+    "definition": "Ma kék az ég.",
+    "example": "no copula for the adjective statement"
+  },
+  {
+    "id": 41,
+    "term": "I visited my grandparents last week.",
+    "definition": "Múlt héten meglátogattam a nagyszüleimet.",
+    "example": "past tense definite conjugation: meglátogattam"
+  },
+  {
+    "id": 42,
+    "term": "We watched a good movie yesterday.",
+    "definition": "Tegnap néztünk egy jó filmet.",
+    "example": "indefinite conjugation here — the object 'a movie' is not a specific known one"
+  },
+  {
+    "id": 43,
+    "term": "She cooked dinner for us.",
+    "definition": "Ő vacsorát főzött nekünk.",
+    "example": "'nekünk' = for us, dative"
+  },
+  {
+    "id": 44,
+    "term": "They traveled to Spain last summer.",
+    "definition": "Tavaly nyáron Spanyolországba utaztak.",
+    "example": "illative suffix -ba/-be = into/to a country"
+  },
+  {
+    "id": 45,
+    "term": "I finished my homework early.",
+    "definition": "Korán befejeztem a házi feladatomat.",
+    "example": "'befejezni' — verbal prefix 'be-' marks completion"
+  },
+  {
+    "id": 46,
+    "term": "He bought a new car.",
+    "definition": "Vett egy új autót.",
+    "example": "indefinite conjugation: vett"
+  },
+  {
+    "id": 47,
+    "term": "We walked to the park.",
+    "definition": "A parkba sétáltunk.",
+    "example": "illative -ba = into/to"
+  },
+  {
+    "id": 48,
+    "term": "I called my friend this morning.",
+    "definition": "Ma reggel felhívtam a barátomat.",
+    "example": "'felhívni' — verbal prefix 'fel-' with 'hívni' (to call)"
+  },
+  {
+    "id": 49,
+    "term": "She sold her old bicycle.",
+    "definition": "Eladta a régi biciklijét.",
+    "example": "'eladni' — prefix 'el-' + hívni; possessive on the object: biciklijét"
+  },
+  {
+    "id": 50,
+    "term": "We celebrated his birthday together.",
+    "definition": "Együtt ünnepeltük a születésnapját.",
+    "example": "definite conjugation: ünnepeltük"
+  },
+  {
+    "id": 51,
+    "term": "I am going to visit my aunt.",
+    "definition": "Meg fogom látogatni a nagynénémet.",
+    "example": "'fog' + infinitive — the standard future tense"
+  },
+  {
+    "id": 52,
+    "term": "We are going to have a party.",
+    "definition": "Buli lesz nálunk.",
+    "example": "'lesz' — a simpler, idiomatic future of van"
+  },
+  {
+    "id": 53,
+    "term": "She is going to start a new job.",
+    "definition": "Új munkát fog kezdeni.",
+    "example": "fog + infinitive"
+  },
+  {
+    "id": 54,
+    "term": "They are going to move to a new city.",
+    "definition": "Egy új városba fognak költözni.",
+    "example": "fognak + infinitive"
+  },
+  {
+    "id": 55,
+    "term": "I am going to buy a new phone.",
+    "definition": "Új telefont fogok venni.",
+    "example": "fogok + infinitive"
+  },
+  {
+    "id": 56,
+    "term": "He is going to learn to swim.",
+    "definition": "Meg fog tanulni úszni.",
+    "example": "fog + infinitive"
+  },
+  {
+    "id": 57,
+    "term": "We are going to travel next month.",
+    "definition": "Jövő hónapban fogunk utazni.",
+    "example": "fogunk + infinitive"
+  },
+  {
+    "id": 58,
+    "term": "I am going to cook dinner tonight.",
+    "definition": "Ma este fogok vacsorát főzni.",
+    "example": "fogok + infinitive"
+  },
+  {
+    "id": 59,
+    "term": "She is going to call you later.",
+    "definition": "Később fog felhívni téged.",
+    "example": "fog + infinitive"
+  },
+  {
+    "id": 60,
+    "term": "They are going to arrive tomorrow.",
+    "definition": "Holnap fognak megérkezni.",
+    "example": "fognak + infinitive"
+  },
+  {
+    "id": 61,
+    "term": "I like coffee and tea.",
+    "definition": "Szeretem a kávét és a teát.",
+    "example": "definite conjugation for a specific liked thing"
+  },
+  {
+    "id": 62,
+    "term": "She is smart and kind.",
+    "definition": "Okos és kedves.",
+    "example": "no copula, two adjectives joined with 'és'"
+  },
+  {
+    "id": 63,
+    "term": "I want to go, but I am tired.",
+    "definition": "Menni akarok, de fáradt vagyok.",
+    "example": "'de' = but"
+  },
+  {
+    "id": 64,
+    "term": "He is tall, but his brother is short.",
+    "definition": "Magas, de az öccse alacsony.",
+    "example": "'öccse' = his younger brother, a specific relational term"
+  },
+  {
+    "id": 65,
+    "term": "Do you want tea or coffee?",
+    "definition": "Teát vagy kávét kérsz?",
+    "example": "'vagy' = or"
+  },
+  {
+    "id": 66,
+    "term": "You can call me or send a message.",
+    "definition": "Felhívhatsz, vagy küldhetsz üzenetet.",
+    "example": "'vagy' linking two potential verbs"
+  },
+  {
+    "id": 67,
+    "term": "I stayed home because it was raining.",
+    "definition": "Otthon maradtam, mert esett az eső.",
+    "example": "'mert' = because"
+  },
+  {
+    "id": 68,
+    "term": "She was late because of the traffic.",
+    "definition": "A forgalom miatt késett.",
+    "example": "'miatt' = because of, a postposition"
+  },
+  {
+    "id": 69,
+    "term": "I am happy because I passed the test.",
+    "definition": "Boldog vagyok, mert átmentem a vizsgán.",
+    "example": "'átmenni' + superessive -on = to pass an exam"
+  },
+  {
+    "id": 70,
+    "term": "He is tired because he worked all day.",
+    "definition": "Fáradt, mert egész nap dolgozott.",
+    "example": "'mert' clause"
+  },
+  {
+    "id": 71,
+    "term": "The bank is near the school.",
+    "definition": "A bank közel van az iskolához.",
+    "example": "allative suffix -hoz on 'iskola'"
+  },
+  {
+    "id": 72,
+    "term": "The park is far from here.",
+    "definition": "A park messze van innen.",
+    "example": "'innen' = from here"
+  },
+  {
+    "id": 73,
+    "term": "Turn left at the corner.",
+    "definition": "A sarkon fordulj balra.",
+    "example": "superessive -on on 'sarok' = at the corner"
+  },
+  {
+    "id": 74,
+    "term": "Turn right at the traffic light.",
+    "definition": "A lámpánál fordulj jobbra.",
+    "example": "adessive -nál = at (the light)"
+  },
+  {
+    "id": 75,
+    "term": "Go straight ahead.",
+    "definition": "Menj egyenesen tovább.",
+    "example": "'egyenesen' = straight"
+  },
+  {
+    "id": 76,
+    "term": "The hospital is next to the church.",
+    "definition": "A kórház a templom mellett van.",
+    "example": "'mellett' = next to, a postposition"
+  },
+  {
+    "id": 77,
+    "term": "The store is across from the hotel.",
+    "definition": "A bolt a szállodával szemben van.",
+    "example": "'szemben' + instrumental -val = across from"
+  },
+  {
+    "id": 78,
+    "term": "It is behind the building.",
+    "definition": "Az épület mögött van.",
+    "example": "'mögött' = behind"
+  },
+  {
+    "id": 79,
+    "term": "It is in front of the station.",
+    "definition": "Az állomás előtt van.",
+    "example": "'előtt' = in front of"
+  },
+  {
+    "id": 80,
+    "term": "The bathroom is upstairs.",
+    "definition": "A fürdőszoba fent van.",
+    "example": "'fent' = upstairs"
+  },
+  {
+    "id": 81,
+    "term": "The car is red.",
+    "definition": "Az autó piros.",
+    "example": "no copula"
+  },
+  {
+    "id": 82,
+    "term": "The house is white and big.",
+    "definition": "A ház fehér és nagy.",
+    "example": "no copula"
+  },
+  {
+    "id": 83,
+    "term": "This box is heavy.",
+    "definition": "Ez a doboz nehéz.",
+    "example": "no copula"
+  },
+  {
+    "id": 84,
+    "term": "That bag is light.",
+    "definition": "Az a táska könnyű.",
+    "example": "'az a' = that (the)"
+  },
+  {
+    "id": 85,
+    "term": "The room is clean.",
+    "definition": "A szoba tiszta.",
+    "example": "no copula"
+  },
+  {
+    "id": 86,
+    "term": "The street is dirty.",
+    "definition": "Az utca piszkos.",
+    "example": "no copula"
+  },
+  {
+    "id": 87,
+    "term": "This road is long.",
+    "definition": "Ez az út hosszú.",
+    "example": "'ez az' since 'út' starts with a vowel"
+  },
+  {
+    "id": 88,
+    "term": "That path is short.",
+    "definition": "Az az ösvény rövid.",
+    "example": "'az az' since 'ösvény' starts with a vowel"
+  },
+  {
+    "id": 89,
+    "term": "The water is deep here.",
+    "definition": "A víz itt mély.",
+    "example": "no copula"
+  },
+  {
+    "id": 90,
+    "term": "This lake is shallow.",
+    "definition": "Ez a tó sekély.",
+    "example": "no copula"
+  },
+  {
+    "id": 91,
+    "term": "I see her every day.",
+    "definition": "Minden nap látom őt.",
+    "example": "definite conjugation 'látom' — the object is a specific, known person"
+  },
+  {
+    "id": 92,
+    "term": "He calls me every week.",
+    "definition": "Minden héten felhív engem.",
+    "example": "'engem' = me, accusative pronoun"
+  },
+  {
+    "id": 93,
+    "term": "We visit them on Sundays.",
+    "definition": "Vasárnaponként meglátogatjuk őket.",
+    "example": "'őket' = them, accusative plural pronoun"
+  },
+  {
+    "id": 94,
+    "term": "She waits for us at the station.",
+    "definition": "Az állomáson vár minket.",
+    "example": "'várni' + accusative — no preposition is needed for 'wait for'"
+  },
+  {
+    "id": 95,
+    "term": "I don't see him here.",
+    "definition": "Nem látom itt őt.",
+    "example": "definite conjugation, negated"
+  },
+  {
+    "id": 96,
+    "term": "They know you well.",
+    "definition": "Jól ismernek téged.",
+    "example": "'téged' = you, accusative pronoun"
+  },
+  {
+    "id": 97,
+    "term": "Do you understand me?",
+    "definition": "Megértesz engem?",
+    "example": "'megérteni' — prefix 'meg-' marks completion"
+  },
+  {
+    "id": 98,
+    "term": "I love you very much.",
+    "definition": "Nagyon szeretlek.",
+    "example": "'szeretlek' — a fused verb form unique to Hungarian: 'I love you' in one word"
+  },
+  {
+    "id": 99,
+    "term": "Today's date is the fifth of August.",
+    "definition": "Ma augusztus ötödike van.",
+    "example": "'ötödike' — the ordinal form used for dates"
+  },
+  {
+    "id": 100,
+    "term": "The number nine is my lucky number.",
+    "definition": "A kilences a szerencseszámom.",
+    "example": "'kilences' — the noun form of the number nine"
+  }
+];
+window.QM_SENTENCES_HU_LOWERINT_DATA = [
+  {
+    "id": 1,
+    "term": "I want to learn Hungarian.",
+    "definition": "Szeretnék magyarul tanulni.",
+    "example": "'magyarul' — the adverbial suffix -ul/-ül used for languages"
+  },
+  {
+    "id": 2,
+    "term": "I can help you tomorrow.",
+    "definition": "Tudok neked segíteni holnap.",
+    "example": "'segíteni' takes a dative object: neked"
+  },
+  {
+    "id": 3,
+    "term": "I must go now.",
+    "definition": "Most mennem kell.",
+    "example": "infinitive + personal suffix + 'kell' = must, for a specific person"
+  },
+  {
+    "id": 4,
+    "term": "You should rest.",
+    "definition": "Pihenned kellene.",
+    "example": "conditional 'kellene' softens it to 'should'"
+  },
+  {
+    "id": 5,
+    "term": "She should call her mother.",
+    "definition": "Fel kellene hívnia az édesanyját.",
+    "example": "same 'kellene' pattern with a 3rd-person infinitive suffix"
+  },
+  {
+    "id": 6,
+    "term": "We want to visit Budapest.",
+    "definition": "Szeretnénk meglátogatni Budapestet.",
+    "example": "szeretnénk + infinitive"
+  },
+  {
+    "id": 7,
+    "term": "They can't come today.",
+    "definition": "Ma nem tudnak jönni.",
+    "example": "nem + tudnak + infinitive"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to eat now.",
+    "definition": "Most nem akarok enni.",
+    "example": "nem + akarok + infinitive"
+  },
+  {
+    "id": 9,
+    "term": "Do you want some tea?",
+    "definition": "Kérsz teát?",
+    "example": "no article needed before an uncountable noun"
+  },
+  {
+    "id": 10,
+    "term": "I would like to order a coffee.",
+    "definition": "Szeretnék rendelni egy kávét.",
+    "example": "szeretnék + infinitive"
+  },
+  {
+    "id": 11,
+    "term": "You have to be careful.",
+    "definition": "Óvatosnak kell lenned.",
+    "example": "adjective in the -nak/-nek form before 'kell lenned'"
+  },
+  {
+    "id": 12,
+    "term": "It's necessary to buy bread.",
+    "definition": "Kenyeret kell venni.",
+    "example": "'kell' + infinitive, no personal subject needed"
+  },
+  {
+    "id": 13,
+    "term": "You can smoke here.",
+    "definition": "Itt szabad dohányozni.",
+    "example": "'szabad' = allowed to"
+  },
+  {
+    "id": 14,
+    "term": "You can't park here.",
+    "definition": "Itt nem szabad parkolni.",
+    "example": "'nem szabad' = not allowed to"
+  },
+  {
+    "id": 15,
+    "term": "It's worth trying this soup.",
+    "definition": "Érdemes megkóstolni ezt a levest.",
+    "example": "'érdemes' = worth it"
+  },
+  {
+    "id": 16,
+    "term": "It's not necessary to hurry.",
+    "definition": "Nem kell sietni.",
+    "example": "nem kell + infinitive"
+  },
+  {
+    "id": 17,
+    "term": "You shouldn't smoke.",
+    "definition": "Nem kellene dohányoznod.",
+    "example": "negated 'kellene'"
+  },
+  {
+    "id": 18,
+    "term": "One has to work hard.",
+    "definition": "Keményen kell dolgozni.",
+    "example": "generic 'kell' + infinitive, no subject"
+  },
+  {
+    "id": 19,
+    "term": "Everyone must follow the rules.",
+    "definition": "Mindenkinek be kell tartania a szabályokat.",
+    "example": "dative 'mindenkinek' + 3rd person infinitive suffix -nia"
+  },
+  {
+    "id": 20,
+    "term": "I have to finish this today.",
+    "definition": "Ezt ma be kell fejeznem.",
+    "example": "1st person infinitive suffix -nem"
+  },
+  {
+    "id": 21,
+    "term": "I like this song.",
+    "definition": "Szeretem ezt a dalt.",
+    "example": "definite conjugation for a specific liked thing"
+  },
+  {
+    "id": 22,
+    "term": "Do you like this city?",
+    "definition": "Szereted ezt a várost?",
+    "example": "definite conjugation, 2nd person"
+  },
+  {
+    "id": 23,
+    "term": "We like this restaurant.",
+    "definition": "Szeretjük ezt az éttermet.",
+    "example": "definite conjugation, plural"
+  },
+  {
+    "id": 24,
+    "term": "They don't like this idea.",
+    "definition": "Nem szeretik ezt az ötletet.",
+    "example": "definite conjugation, negated"
+  },
+  {
+    "id": 25,
+    "term": "My head hurts.",
+    "definition": "Fáj a fejem.",
+    "example": "'fáj' + possessive noun — no separate pronoun needed"
+  },
+  {
+    "id": 26,
+    "term": "My legs hurt.",
+    "definition": "Fájnak a lábaim.",
+    "example": "plural subject takes the plural verb: fájnak"
+  },
+  {
+    "id": 27,
+    "term": "Does your stomach hurt?",
+    "definition": "Fáj a hasad?",
+    "example": "possessive suffix -ad = your"
+  },
+  {
+    "id": 28,
+    "term": "I feel sick.",
+    "definition": "Rosszul érzem magam.",
+    "example": "reflexive: érzem magam"
+  },
+  {
+    "id": 29,
+    "term": "I am cold.",
+    "definition": "Fázom.",
+    "example": "'fázni' — a single verb meaning 'to feel cold'"
+  },
+  {
+    "id": 30,
+    "term": "Are you hungry?",
+    "definition": "Éhes vagy?",
+    "example": "'éhes' + vagy = you are hungry"
+  },
+  {
+    "id": 31,
+    "term": "The more you practice, the better you speak.",
+    "definition": "Minél többet gyakorolsz, annál jobban beszélsz.",
+    "example": "'minél... annál...' = the more... the more..."
+  },
+  {
+    "id": 32,
+    "term": "The sooner, the better.",
+    "definition": "Minél hamarabb, annál jobb.",
+    "example": "same correlative, shortened"
+  },
+  {
+    "id": 33,
+    "term": "Both my sister and my brother live in Budapest.",
+    "definition": "Mind a nővérem, mind a bátyám Budapesten él.",
+    "example": "'mind... mind...' = both... and..."
+  },
+  {
+    "id": 34,
+    "term": "I like neither tea nor coffee.",
+    "definition": "Sem a teát, sem a kávét nem szeretem.",
+    "example": "'sem... sem...' = neither... nor..."
+  },
+  {
+    "id": 35,
+    "term": "This is the most beautiful city in Hungary.",
+    "definition": "Ez a legszebb város Magyarországon.",
+    "example": "superlative prefix leg-: legszebb"
+  },
+  {
+    "id": 36,
+    "term": "He is older than me.",
+    "definition": "Ő idősebb, mint én.",
+    "example": "'mint' = than"
+  },
+  {
+    "id": 37,
+    "term": "This is worse than I thought.",
+    "definition": "Ez rosszabb, mint gondoltam.",
+    "example": "'rosszabb' — irregular comparative of 'rossz'"
+  },
+  {
+    "id": 38,
+    "term": "She sings better than he does.",
+    "definition": "Ő jobban énekel nála.",
+    "example": "'nála' — the adessive case of the pronoun used instead of 'mint' for comparison"
+  },
+  {
+    "id": 39,
+    "term": "This task is easier than that one.",
+    "definition": "Ez a feladat könnyebb, mint az.",
+    "example": "'könnyebb, mint' — comparative + mint"
+  },
+  {
+    "id": 40,
+    "term": "He runs the fastest on our team.",
+    "definition": "Ő fut a leggyorsabban a csapatunkban.",
+    "example": "superlative adverb: leggyorsabban"
+  },
+  {
+    "id": 41,
+    "term": "I think that this is a good idea.",
+    "definition": "Azt hiszem, hogy ez jó ötlet.",
+    "example": "'hogy' = that, introducing the subordinate clause"
+  },
+  {
+    "id": 42,
+    "term": "I know that you are right.",
+    "definition": "Tudom, hogy igazad van.",
+    "example": "'igazad van' = you are right"
+  },
+  {
+    "id": 43,
+    "term": "I hope that the weather will be nice.",
+    "definition": "Remélem, hogy szép idő lesz.",
+    "example": "'hogy' + future tense"
+  },
+  {
+    "id": 44,
+    "term": "I am glad that you came.",
+    "definition": "Örülök, hogy eljöttél.",
+    "example": "'örülni' + 'hogy' clause"
+  },
+  {
+    "id": 45,
+    "term": "I don't think that it's true.",
+    "definition": "Nem hiszem, hogy ez igaz.",
+    "example": "negated main clause"
+  },
+  {
+    "id": 46,
+    "term": "I am learning Hungarian because I want to live in Hungary.",
+    "definition": "Magyarul tanulok, mert Magyarországon szeretnék élni.",
+    "example": "'mert' = because"
+  },
+  {
+    "id": 47,
+    "term": "I can't come because I am sick.",
+    "definition": "Nem tudok jönni, mert beteg vagyok.",
+    "example": "'mert' clause"
+  },
+  {
+    "id": 48,
+    "term": "I am studying so that I can pass the exam.",
+    "definition": "Azért tanulok, hogy át tudjak menni a vizsgán.",
+    "example": "'azért... hogy...' = so that"
+  },
+  {
+    "id": 49,
+    "term": "Call me when you arrive.",
+    "definition": "Hívj fel, amikor megérkezel.",
+    "example": "'amikor' = when"
+  },
+  {
+    "id": 50,
+    "term": "If it rains, we will stay home.",
+    "definition": "Ha esik az eső, otthon maradunk.",
+    "example": "'ha' = if"
+  },
+  {
+    "id": 51,
+    "term": "The woman who lives next door is a doctor.",
+    "definition": "A nő, aki a szomszédban lakik, orvos.",
+    "example": "'aki' = who, for people"
+  },
+  {
+    "id": 52,
+    "term": "The man who called yesterday is my uncle.",
+    "definition": "A férfi, aki tegnap hívott, a nagybátyám.",
+    "example": "'aki' again"
+  },
+  {
+    "id": 53,
+    "term": "The book that I am reading is very interesting.",
+    "definition": "A könyv, amit olvasok, nagyon érdekes.",
+    "example": "'amit' = that/which, for things"
+  },
+  {
+    "id": 54,
+    "term": "The children who play in the park are our neighbors.",
+    "definition": "A gyerekek, akik a parkban játszanak, a szomszédaink.",
+    "example": "'akik' — plural form of 'aki'"
+  },
+  {
+    "id": 55,
+    "term": "This is the house in which I grew up.",
+    "definition": "Ez az a ház, amiben felnőttem.",
+    "example": "'amiben' = in which, a fused case-marked relative pronoun"
+  },
+  {
+    "id": 56,
+    "term": "I don't remember the name of the street where we met.",
+    "definition": "Nem emlékszem az utca nevére, ahol találkoztunk.",
+    "example": "'ahol' = where"
+  },
+  {
+    "id": 57,
+    "term": "The people whom I met were very friendly.",
+    "definition": "Az emberek, akikkel találkoztam, nagyon barátságosak voltak.",
+    "example": "'akikkel' = with whom"
+  },
+  {
+    "id": 58,
+    "term": "This is the reason why I am late.",
+    "definition": "Ez az oka, amiért késtem.",
+    "example": "'amiért' = why/for which reason"
+  },
+  {
+    "id": 59,
+    "term": "The car that broke down is mine.",
+    "definition": "Az autó, amelyik elromlott, az enyém.",
+    "example": "'amelyik' — another relative pronoun form, for a specific thing"
+  },
+  {
+    "id": 60,
+    "term": "I found the keys that I lost.",
+    "definition": "Megtaláltam a kulcsokat, amiket elvesztettem.",
+    "example": "'amiket' — plural form of 'amit'"
+  },
+  {
+    "id": 61,
+    "term": "The meeting starts at three o'clock.",
+    "definition": "A megbeszélés három órakor kezdődik.",
+    "example": "'-kor' = at (a time)"
+  },
+  {
+    "id": 62,
+    "term": "I usually wake up before seven.",
+    "definition": "Általában hét előtt ébredek.",
+    "example": "'előtt' = before"
+  },
+  {
+    "id": 63,
+    "term": "We will meet after the concert.",
+    "definition": "A koncert után találkozunk.",
+    "example": "'után' = after"
+  },
+  {
+    "id": 64,
+    "term": "The shop is open from nine to six.",
+    "definition": "Az üzlet kilenctől hatig van nyitva.",
+    "example": "'-tól... -ig' = from... to..."
+  },
+  {
+    "id": 65,
+    "term": "I lived in Hungary for three years.",
+    "definition": "Három évig éltem Magyarországon.",
+    "example": "'-ig' = for (a duration)"
+  },
+  {
+    "id": 66,
+    "term": "I haven't seen him since last year.",
+    "definition": "Tavaly óta nem láttam őt.",
+    "example": "'óta' = since"
+  },
+  {
+    "id": 67,
+    "term": "During the summer, we travel a lot.",
+    "definition": "Nyáron sokat utazunk.",
+    "example": "'nyáron' — the superessive form of 'summer' used adverbially"
+  },
+  {
+    "id": 68,
+    "term": "On Mondays, I go to the gym.",
+    "definition": "Hétfőnként edzőterembe járok.",
+    "example": "'-nként' = on (repeated days)"
+  },
+  {
+    "id": 69,
+    "term": "Next week, I am going on vacation.",
+    "definition": "Jövő héten nyaralni megyek.",
+    "example": "'jövő héten' = next week"
+  },
+  {
+    "id": 70,
+    "term": "Two years ago, I visited Hungary.",
+    "definition": "Két évvel ezelőtt meglátogattam Magyarországot.",
+    "example": "'ezelőtt' = ago"
+  },
+  {
+    "id": 71,
+    "term": "There are a lot of people here.",
+    "definition": "Sok ember van itt.",
+    "example": "'sok' = a lot/many"
+  },
+  {
+    "id": 72,
+    "term": "I have little time.",
+    "definition": "Kevés időm van.",
+    "example": "'kevés' = little"
+  },
+  {
+    "id": 73,
+    "term": "I have a few questions.",
+    "definition": "Van néhány kérdésem.",
+    "example": "'néhány' = a few"
+  },
+  {
+    "id": 74,
+    "term": "There are many opportunities here.",
+    "definition": "Sok lehetőség van itt.",
+    "example": "'sok' + noun"
+  },
+  {
+    "id": 75,
+    "term": "I have several friends in Hungary.",
+    "definition": "Több barátom is van Magyarországon.",
+    "example": "'több' = several"
+  },
+  {
+    "id": 76,
+    "term": "Not many people know about this.",
+    "definition": "Nem sokan tudnak erről.",
+    "example": "'sokan' — the 'many people' form used with human plurals"
+  },
+  {
+    "id": 77,
+    "term": "I need a bit more time.",
+    "definition": "Egy kicsit több időre van szükségem.",
+    "example": "'szükségem van' + sublative -re = I need"
+  },
+  {
+    "id": 78,
+    "term": "Most people agree with this.",
+    "definition": "A legtöbb ember egyetért ezzel.",
+    "example": "'a legtöbb' = most"
+  },
+  {
+    "id": 79,
+    "term": "I bought a lot of books.",
+    "definition": "Sok könyvet vettem.",
+    "example": "'sok' + accusative noun"
+  },
+  {
+    "id": 80,
+    "term": "There isn't enough bread.",
+    "definition": "Nincs elég kenyér.",
+    "example": "'nincs' — the negative form of 'van'"
+  },
+  {
+    "id": 81,
+    "term": "Sit down, please.",
+    "definition": "Ülj le, kérlek.",
+    "example": "imperative of the verbal-prefix verb 'leülni'"
+  },
+  {
+    "id": 82,
+    "term": "Wait for me!",
+    "definition": "Várj meg engem!",
+    "example": "'megvárni' — prefix 'meg-' with 'várni'"
+  },
+  {
+    "id": 83,
+    "term": "Don't worry.",
+    "definition": "Ne aggódj.",
+    "example": "'ne' — the negative imperative particle"
+  },
+  {
+    "id": 84,
+    "term": "Close the door, please.",
+    "definition": "Csukd be az ajtót, kérlek.",
+    "example": "definite imperative: csukd, since 'the door' is specific"
+  },
+  {
+    "id": 85,
+    "term": "Let's go!",
+    "definition": "Menjünk!",
+    "example": "1st person plural imperative = let's"
+  },
+  {
+    "id": 86,
+    "term": "Let's eat something.",
+    "definition": "Együnk valamit!",
+    "example": "1st person plural imperative of 'enni'"
+  },
+  {
+    "id": 87,
+    "term": "Be careful!",
+    "definition": "Légy óvatos!",
+    "example": "irregular imperative of 'lenni' (to be): légy"
+  },
+  {
+    "id": 88,
+    "term": "Don't be afraid.",
+    "definition": "Ne félj.",
+    "example": "'ne' + imperative"
+  },
+  {
+    "id": 89,
+    "term": "Help me, please.",
+    "definition": "Segíts nekem, kérlek.",
+    "example": "'segíts' — imperative of segíteni"
+  },
+  {
+    "id": 90,
+    "term": "Listen to me!",
+    "definition": "Hallgass rám!",
+    "example": "'hallgatni' + sublative -ra fused with pronoun: rám"
+  },
+  {
+    "id": 91,
+    "term": "I don't know where he lives.",
+    "definition": "Nem tudom, hol lakik.",
+    "example": "'hol' = where"
+  },
+  {
+    "id": 92,
+    "term": "I don't know what time it is.",
+    "definition": "Nem tudom, hány óra van.",
+    "example": "'hány óra van' = what time is it"
+  },
+  {
+    "id": 93,
+    "term": "Tell me why you are sad.",
+    "definition": "Mondd meg, miért vagy szomorú.",
+    "example": "'miért' = why"
+  },
+  {
+    "id": 94,
+    "term": "I wonder who called.",
+    "definition": "Kíváncsi vagyok, ki hívott.",
+    "example": "'kíváncsi vagyok' = I wonder, literally 'I am curious'"
+  },
+  {
+    "id": 95,
+    "term": "I am not sure if he is coming.",
+    "definition": "Nem vagyok biztos benne, hogy jön-e.",
+    "example": "'-e' — the question particle used for 'whether'"
+  },
+  {
+    "id": 96,
+    "term": "She said that she was tired.",
+    "definition": "Azt mondta, hogy fáradt.",
+    "example": "'azt mondta, hogy' = she said that"
+  },
+  {
+    "id": 97,
+    "term": "He asked if I spoke Hungarian.",
+    "definition": "Megkérdezte, hogy beszélek-e magyarul.",
+    "example": "'-e' again for 'whether'"
+  },
+  {
+    "id": 98,
+    "term": "If I had more time, I would learn Italian too.",
+    "definition": "Ha lenne több időm, olaszul is tanulnék.",
+    "example": "conditional forms: lenne / tanulnék"
+  },
+  {
+    "id": 99,
+    "term": "If I were you, I would rest.",
+    "definition": "Ha én lennék te, pihennék.",
+    "example": "'lennék' — conditional of 'lenni'"
+  },
+  {
+    "id": 100,
+    "term": "I would be very happy if you came.",
+    "definition": "Nagyon boldog lennék, ha eljönnél.",
+    "example": "'lennék' + 'ha eljönnél' — both sides conditional"
+  }
+];
+window.QM_SENTENCES_HU_INTERMEDIATE_DATA = [
+  {
+    "id": 1,
+    "term": "I go there every day.",
+    "definition": "Minden nap odamegyek.",
+    "example": "'odamegyek' — the verbal prefix 'oda-' (to there) fuses onto 'megy'"
+  },
+  {
+    "id": 2,
+    "term": "I don't believe it.",
+    "definition": "Nem hiszem el.",
+    "example": "'elhinni' — prefix 'el-' splits off in the negated form"
+  },
+  {
+    "id": 3,
+    "term": "I think about it often.",
+    "definition": "Gyakran gondolok rá.",
+    "example": "'gondolni' + sublative -ra fused with the pronoun: rá = onto it"
+  },
+  {
+    "id": 4,
+    "term": "How many books do you have? I have three of them.",
+    "definition": "Hány könyved van? Három van.",
+    "example": "no extra pronoun needed — the number alone answers"
+  },
+  {
+    "id": 5,
+    "term": "Do you want some wine? Yes, I want some.",
+    "definition": "Kérsz bort? Igen, kérek egy kicsit.",
+    "example": "'egy kicsit' = a little/some"
+  },
+  {
+    "id": 6,
+    "term": "Do you need money? Yes, I need some.",
+    "definition": "Szükséged van pénzre? Igen, szükségem van egy kicsire.",
+    "example": "'szükségem van' + sublative -re"
+  },
+  {
+    "id": 7,
+    "term": "I'm leaving now.",
+    "definition": "Most indulok.",
+    "example": "'indulni' = to set off/leave"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to talk about it.",
+    "definition": "Nem akarok beszélni róla.",
+    "example": "'beszélni' + delative -ról fused with pronoun: róla = about it"
+  },
+  {
+    "id": 9,
+    "term": "How many sisters do you have? I have one.",
+    "definition": "Hány nővéred van? Egy van.",
+    "example": "same bare-number answer pattern"
+  },
+  {
+    "id": 10,
+    "term": "I'm sure of it.",
+    "definition": "Biztos vagyok benne.",
+    "example": "'benne' — the inessive fused pronoun, 'in it'"
+  },
+  {
+    "id": 11,
+    "term": "I used to read a lot as a child.",
+    "definition": "Gyerekkoromban sokat olvastam.",
+    "example": "simple past used for a repeated childhood habit"
+  },
+  {
+    "id": 12,
+    "term": "Yesterday I read that whole book.",
+    "definition": "Tegnap elolvastam azt az egész könyvet.",
+    "example": "'elolvasni' — the prefix 'el-' marks a fully completed reading"
+  },
+  {
+    "id": 13,
+    "term": "I always drank coffee in the morning.",
+    "definition": "Régen mindig kávét ittam reggel.",
+    "example": "'régen' ('in the old days') marks this as a past habit"
+  },
+  {
+    "id": 14,
+    "term": "This morning I drank two cups of coffee.",
+    "definition": "Ma reggel megittam két csésze kávét.",
+    "example": "'megittam' — prefix 'meg-' marks the completed act of drinking"
+  },
+  {
+    "id": 15,
+    "term": "She was writing a letter when I called.",
+    "definition": "Levelet írt, amikor felhívtam.",
+    "example": "plain past tense — Hungarian doesn't need a separate progressive form here"
+  },
+  {
+    "id": 16,
+    "term": "She wrote the letter and sent it.",
+    "definition": "Megírta a levelet, és elküldte.",
+    "example": "both verbs take completive prefixes: megírta, elküldte"
+  },
+  {
+    "id": 17,
+    "term": "We were watching a movie all evening.",
+    "definition": "Egész este filmet néztünk.",
+    "example": "no prefix here — an ongoing, unbounded activity"
+  },
+  {
+    "id": 18,
+    "term": "We watched the whole movie in one sitting.",
+    "definition": "Az egész filmet egyszerre néztük meg.",
+    "example": "'megnéztük' — the prefix marks the whole film as finished"
+  },
+  {
+    "id": 19,
+    "term": "I was learning Hungarian for two years before I moved here.",
+    "definition": "Két évig tanultam magyarul, mielőtt ideköltöztem.",
+    "example": "'-ig' marks the two-year span"
+  },
+  {
+    "id": 20,
+    "term": "I finally learned all the irregular verbs.",
+    "definition": "Végül megtanultam az összes rendhagyó igét.",
+    "example": "'megtanultam' — prefix marks mastery achieved"
+  },
+  {
+    "id": 21,
+    "term": "This book was written by a famous author.",
+    "definition": "Ezt a könyvet egy híres író írta.",
+    "example": "Hungarian favors an active sentence with the agent as subject over a literal passive"
+  },
+  {
+    "id": 22,
+    "term": "The house was built in 1920.",
+    "definition": "A házat 1920-ban építették.",
+    "example": "3rd person plural used impersonally — the closest Hungarian equivalent to a passive"
+  },
+  {
+    "id": 23,
+    "term": "The letter is being written now.",
+    "definition": "A levelet most írják.",
+    "example": "same impersonal 3rd-plural construction"
+  },
+  {
+    "id": 24,
+    "term": "The doors are closed at nine.",
+    "definition": "Az ajtókat kilenckor zárják be.",
+    "example": "impersonal 'zárják be'"
+  },
+  {
+    "id": 25,
+    "term": "The problem will be solved soon.",
+    "definition": "A problémát hamarosan megoldják.",
+    "example": "impersonal future"
+  },
+  {
+    "id": 26,
+    "term": "The bridge was destroyed during the war.",
+    "definition": "A hidat a háború alatt lerombolták.",
+    "example": "impersonal past"
+  },
+  {
+    "id": 27,
+    "term": "This song is known all over the world.",
+    "definition": "Ezt a dalt az egész világon ismerik.",
+    "example": "impersonal 'ismerik' = it's known"
+  },
+  {
+    "id": 28,
+    "term": "The cake was eaten by the children.",
+    "definition": "A tortát a gyerekek ették meg.",
+    "example": "the agent stays the grammatical subject: a gyerekek"
+  },
+  {
+    "id": 29,
+    "term": "New rules were introduced last year.",
+    "definition": "Tavaly új szabályokat vezettek be.",
+    "example": "impersonal 'vezettek be'"
+  },
+  {
+    "id": 30,
+    "term": "The window was broken by the storm.",
+    "definition": "Az ablakot a vihar törte be.",
+    "example": "'a vihar' stays the subject, same pattern as #28"
+  },
+  {
+    "id": 31,
+    "term": "It's said that he is very talented.",
+    "definition": "Azt mondják, hogy nagyon tehetséges.",
+    "example": "'azt mondják' — literally 'they say', the standard impersonal phrase"
+  },
+  {
+    "id": 32,
+    "term": "It's getting dark.",
+    "definition": "Sötétedik.",
+    "example": "a single verb covers 'it's getting dark'"
+  },
+  {
+    "id": 33,
+    "term": "It's getting cold outside.",
+    "definition": "Odakint hidegebb lesz.",
+    "example": "'lesz' + comparative marks a change under way"
+  },
+  {
+    "id": 34,
+    "term": "How do you say this in Hungarian?",
+    "definition": "Hogy mondod ezt magyarul?",
+    "example": "'magyarul' — the adverbial 'in Hungarian'"
+  },
+  {
+    "id": 35,
+    "term": "One eats dinner at eight here.",
+    "definition": "Itt nyolckor vacsoráznak.",
+    "example": "impersonal 3rd plural = generic 'one'"
+  },
+  {
+    "id": 36,
+    "term": "You can't smoke here.",
+    "definition": "Itt nem szabad dohányozni.",
+    "example": "'nem szabad' = not allowed"
+  },
+  {
+    "id": 37,
+    "term": "It's not done that way.",
+    "definition": "Ezt nem így csinálják.",
+    "example": "impersonal 'csinálják'"
+  },
+  {
+    "id": 38,
+    "term": "People say all sorts of things.",
+    "definition": "Az emberek mindenfélét mondanak.",
+    "example": "'az emberek' as an explicit generic subject"
+  },
+  {
+    "id": 39,
+    "term": "This word is used often.",
+    "definition": "Ezt a szót gyakran használják.",
+    "example": "impersonal 'használják'"
+  },
+  {
+    "id": 40,
+    "term": "This is how the game is played.",
+    "definition": "Így játsszák ezt a játékot.",
+    "example": "impersonal 'játsszák'"
+  },
+  {
+    "id": 41,
+    "term": "I told him to come.",
+    "definition": "Megmondtam neki, hogy jöjjön.",
+    "example": "'jöjjön' — the imperative/subjunctive -jon/-jen form used in reported commands"
+  },
+  {
+    "id": 42,
+    "term": "She asked me to help her.",
+    "definition": "Megkért, hogy segítsek neki.",
+    "example": "'segítsek' — subjunctive form"
+  },
+  {
+    "id": 43,
+    "term": "The teacher told us to be quiet.",
+    "definition": "A tanár azt mondta, hogy maradjunk csendben.",
+    "example": "'maradjunk' — subjunctive, 1st plural"
+  },
+  {
+    "id": 44,
+    "term": "I want you to call me.",
+    "definition": "Azt akarom, hogy hívj fel.",
+    "example": "'hívj fel' — subjunctive 2nd person"
+  },
+  {
+    "id": 45,
+    "term": "My mother told me not to be late.",
+    "definition": "Anyám azt mondta, hogy ne késsek el.",
+    "example": "'ne késsek el' — negated subjunctive"
+  },
+  {
+    "id": 46,
+    "term": "He asked us to wait outside.",
+    "definition": "Megkért minket, hogy várjunk kint.",
+    "example": "'várjunk' — subjunctive 1st plural"
+  },
+  {
+    "id": 47,
+    "term": "I told them to stop.",
+    "definition": "Megmondtam nekik, hogy hagyják abba.",
+    "example": "'hagyják abba' — subjunctive 3rd plural"
+  },
+  {
+    "id": 48,
+    "term": "She wants me to visit her.",
+    "definition": "Azt akarja, hogy meglátogassam.",
+    "example": "'meglátogassam' — subjunctive, definite conjugation"
+  },
+  {
+    "id": 49,
+    "term": "The boss ordered us to finish the project.",
+    "definition": "A főnök megparancsolta, hogy fejezzük be a projektet.",
+    "example": "'fejezzük be' — subjunctive, definite"
+  },
+  {
+    "id": 50,
+    "term": "I asked her to be patient.",
+    "definition": "Megkértem, hogy legyen türelmes.",
+    "example": "'legyen' — subjunctive of lenni"
+  },
+  {
+    "id": 51,
+    "term": "Although it was raining, we went for a walk.",
+    "definition": "Bár esett az eső, sétálni mentünk.",
+    "example": "'bár' = although"
+  },
+  {
+    "id": 52,
+    "term": "Even though he is tired, he keeps working.",
+    "definition": "Bár fáradt, tovább dolgozik.",
+    "example": "'tovább' = keeps on"
+  },
+  {
+    "id": 53,
+    "term": "Despite the cold, we went outside.",
+    "definition": "A hideg ellenére kimentünk.",
+    "example": "'ellenére' = despite"
+  },
+  {
+    "id": 54,
+    "term": "It's raining, but we're going out anyway.",
+    "definition": "Esik az eső, de azért kimegyünk.",
+    "example": "'azért' here means 'anyway/regardless'"
+  },
+  {
+    "id": 55,
+    "term": "I like her, even though she's sometimes difficult.",
+    "definition": "Kedvelem őt, bár néha nehéz eset.",
+    "example": "'nehéz eset' — idiom for 'a difficult person'"
+  },
+  {
+    "id": 56,
+    "term": "He passed the exam despite not studying much.",
+    "definition": "Átment a vizsgán, annak ellenére, hogy nem sokat tanult.",
+    "example": "'annak ellenére, hogy' = despite the fact that"
+  },
+  {
+    "id": 57,
+    "term": "It was cheap, yet good quality.",
+    "definition": "Olcsó volt, mégis jó minőségű.",
+    "example": "'mégis' = yet/still"
+  },
+  {
+    "id": 58,
+    "term": "Nevertheless, I think we should try.",
+    "definition": "Mindazonáltal szerintem meg kellene próbálnunk.",
+    "example": "'mindazonáltal' = nevertheless"
+  },
+  {
+    "id": 59,
+    "term": "Although I disagree, I'll help you.",
+    "definition": "Bár nem értek egyet, segítek neked.",
+    "example": "'bár' clause"
+  },
+  {
+    "id": 60,
+    "term": "We won, although it wasn't easy.",
+    "definition": "Nyertünk, bár nem volt könnyű.",
+    "example": "'bár' after the main clause"
+  },
+  {
+    "id": 61,
+    "term": "Stay here until I come back.",
+    "definition": "Maradj itt, amíg vissza nem jövök.",
+    "example": "'amíg... nem...' — a double-negative-looking construction that simply means 'until'"
+  },
+  {
+    "id": 62,
+    "term": "I'll wait as long as you need.",
+    "definition": "Addig várok, amíg szükséged van rá.",
+    "example": "'addig... amíg...' = for as long as"
+  },
+  {
+    "id": 63,
+    "term": "Before you leave, call me.",
+    "definition": "Mielőtt elmész, hívj fel.",
+    "example": "'mielőtt' = before"
+  },
+  {
+    "id": 64,
+    "term": "I checked everything before I left.",
+    "definition": "Mindent ellenőriztem, mielőtt elmentem.",
+    "example": "'mielőtt' + past tense"
+  },
+  {
+    "id": 65,
+    "term": "I've known her since I was a child.",
+    "definition": "Gyerekkorom óta ismerem.",
+    "example": "'óta' = since"
+  },
+  {
+    "id": 66,
+    "term": "Since he moved here, he's been much happier.",
+    "definition": "Amióta ideköltözött, sokkal boldogabb.",
+    "example": "'amióta' = since (a specific event)"
+  },
+  {
+    "id": 67,
+    "term": "Wait until the light turns green.",
+    "definition": "Várj, amíg zöldre nem vált a lámpa.",
+    "example": "'amíg... nem...' again for 'until'"
+  },
+  {
+    "id": 68,
+    "term": "I won't leave until you answer me.",
+    "definition": "Nem megyek el, amíg nem válaszolsz.",
+    "example": "same 'amíg nem' pattern"
+  },
+  {
+    "id": 69,
+    "term": "As soon as I get home, I'll call you.",
+    "definition": "Amint hazaérek, felhívlak.",
+    "example": "'amint' = as soon as"
+  },
+  {
+    "id": 70,
+    "term": "The moment I saw her, I knew.",
+    "definition": "Abban a pillanatban, amikor megláttam, tudtam.",
+    "example": "'abban a pillanatban, amikor' = the moment that"
+  },
+  {
+    "id": 71,
+    "term": "Instead of coffee, I'll have tea.",
+    "definition": "Kávé helyett teát iszom.",
+    "example": "'helyett' = instead of"
+  },
+  {
+    "id": 72,
+    "term": "Instead of complaining, do something.",
+    "definition": "Panaszkodás helyett csinálj valamit.",
+    "example": "'helyett' + noun"
+  },
+  {
+    "id": 73,
+    "term": "Reading books is my favorite hobby.",
+    "definition": "A könyvolvasás a kedvenc hobbim.",
+    "example": "'könyvolvasás' — a compound noun works as the subject"
+  },
+  {
+    "id": 74,
+    "term": "Learning languages takes time.",
+    "definition": "A nyelvtanulás időt igényel.",
+    "example": "'nyelvtanulás' — compound noun subject"
+  },
+  {
+    "id": 75,
+    "term": "Swimming is good for your health.",
+    "definition": "Az úszás jót tesz az egészségednek.",
+    "example": "'jót tesz' = is good for"
+  },
+  {
+    "id": 76,
+    "term": "Cooking dinner takes an hour.",
+    "definition": "A vacsora elkészítése egy óráig tart.",
+    "example": "'elkészítése' — possessive-marked deverbal noun"
+  },
+  {
+    "id": 77,
+    "term": "Smoking is bad for you.",
+    "definition": "A dohányzás árt az egészségednek.",
+    "example": "'árt' = harms"
+  },
+  {
+    "id": 78,
+    "term": "Waiting is the hardest part.",
+    "definition": "A várás a legnehezebb rész.",
+    "example": "'várás' — the noun form of 'to wait'"
+  },
+  {
+    "id": 79,
+    "term": "Thank you for coming.",
+    "definition": "Köszönöm, hogy eljöttél.",
+    "example": "'köszönöm, hogy' + clause, not an infinitive"
+  },
+  {
+    "id": 80,
+    "term": "I'm tired of waiting.",
+    "definition": "Elegem van a várásból.",
+    "example": "'elegem van' + elative -ból = I'm fed up with"
+  },
+  {
+    "id": 81,
+    "term": "If I had known, I would have come.",
+    "definition": "Ha tudtam volna, eljöttem volna.",
+    "example": "past conditional: past tense + volna, on both sides"
+  },
+  {
+    "id": 82,
+    "term": "If you had called me, I would have helped.",
+    "definition": "Ha felhívtál volna, segítettem volna.",
+    "example": "same past-conditional pattern"
+  },
+  {
+    "id": 83,
+    "term": "She would have passed if she had studied more.",
+    "definition": "Átment volna, ha többet tanult volna.",
+    "example": "past conditional again"
+  },
+  {
+    "id": 84,
+    "term": "We wouldn't have been late if we had left earlier.",
+    "definition": "Nem késtünk volna, ha korábban indultunk volna.",
+    "example": "past conditional, negated"
+  },
+  {
+    "id": 85,
+    "term": "I have twenty-two books on this shelf.",
+    "definition": "Huszonkét könyvem van ezen a polcon.",
+    "example": "'huszonkét' — compound number, tens before units"
+  },
+  {
+    "id": 86,
+    "term": "There are thirty-five students in this class.",
+    "definition": "Harmincöt diák van ebben az osztályban.",
+    "example": "'harmincöt' — compound number"
+  },
+  {
+    "id": 87,
+    "term": "I have been living here for eleven years.",
+    "definition": "Tizenegy éve itt élek.",
+    "example": "'éve' — the temporal suffix for 'for ... years'"
+  },
+  {
+    "id": 88,
+    "term": "The building has one hundred rooms.",
+    "definition": "Az épületben száz szoba van.",
+    "example": "'száz' = one hundred exactly"
+  },
+  {
+    "id": 89,
+    "term": "I paid two hundred euros for this.",
+    "definition": "Ezért kétszáz eurót fizettem.",
+    "example": "'kétszáz' — compound number"
+  },
+  {
+    "id": 90,
+    "term": "Only one person answered correctly.",
+    "definition": "Csak egy ember válaszolt helyesen.",
+    "example": "'csak' = only"
+  },
+  {
+    "id": 91,
+    "term": "He passed the exam, which made his parents happy.",
+    "definition": "Átment a vizsgán, ami boldoggá tette a szüleit.",
+    "example": "'ami' refers back to the whole preceding clause"
+  },
+  {
+    "id": 92,
+    "term": "She was late, which annoyed the teacher.",
+    "definition": "Elkésett, ami bosszantotta a tanárt.",
+    "example": "'ami' again refers to the whole event"
+  },
+  {
+    "id": 93,
+    "term": "This is the best restaurant of all the ones I know.",
+    "definition": "Ez a legjobb étterem az összes közül, amit ismerek.",
+    "example": "'az összes közül, amit' = of all the ones that"
+  },
+  {
+    "id": 94,
+    "term": "He is the smartest of all my friends.",
+    "definition": "Ő a legokosabb az összes barátom közül.",
+    "example": "superlative + 'az összes közül'"
+  },
+  {
+    "id": 95,
+    "term": "To be honest, I don't understand this.",
+    "definition": "Őszintén szólva nem értem ezt.",
+    "example": "'őszintén szólva' = to be honest, a fixed opener"
+  },
+  {
+    "id": 96,
+    "term": "Generally speaking, the weather here is nice.",
+    "definition": "Általában véve itt szép az idő.",
+    "example": "'általában véve' = generally speaking"
+  },
+  {
+    "id": 97,
+    "term": "As far as I know, the shop is closed today.",
+    "definition": "Amennyire tudom, a bolt ma zárva van.",
+    "example": "'amennyire tudom' = as far as I know"
+  },
+  {
+    "id": 98,
+    "term": "In my opinion, this is the right decision.",
+    "definition": "Szerintem ez a helyes döntés.",
+    "example": "'szerintem' = in my opinion"
+  },
+  {
+    "id": 99,
+    "term": "All things considered, it went well.",
+    "definition": "Mindent egybevetve jól ment.",
+    "example": "'mindent egybevetve' = all things considered"
+  },
+  {
+    "id": 100,
+    "term": "In the end, everything turned out fine.",
+    "definition": "Végül minden jóra fordult.",
+    "example": "'végül' = in the end"
+  }
+];
+window.QM_PHRASES_HU_DATA = [
+  {
+    "id": 1,
+    "term": "Good morning!",
+    "definition": "Jó reggelt!",
+    "example": "used until roughly mid-morning"
+  },
+  {
+    "id": 2,
+    "term": "Good evening!",
+    "definition": "Jó estét!",
+    "example": "used from early evening onward"
+  },
+  {
+    "id": 3,
+    "term": "Good night!",
+    "definition": "Jó éjszakát!",
+    "example": "both a late greeting and a farewell before bed"
+  },
+  {
+    "id": 4,
+    "term": "Hi! (informal)",
+    "definition": "Szia!",
+    "example": "works as both hello and goodbye, informal register"
+  },
+  {
+    "id": 5,
+    "term": "How are you?",
+    "definition": "Hogy vagy?",
+    "example": "informal 'te' address"
+  },
+  {
+    "id": 6,
+    "term": "I'm fine, thanks. And you?",
+    "definition": "Jól, köszönöm. És te?",
+    "example": "'és te' = and you (informal)"
+  },
+  {
+    "id": 7,
+    "term": "Long time no see!",
+    "definition": "Rég láttalak!",
+    "example": "literally 'I saw you a long time ago'"
+  },
+  {
+    "id": 8,
+    "term": "Welcome!",
+    "definition": "Isten hozott!",
+    "example": "literally 'God brought you' — the standard Hungarian welcome"
+  },
+  {
+    "id": 9,
+    "term": "Nice to see you again.",
+    "definition": "Jó újra látni téged.",
+    "example": "'újra' = again"
+  },
+  {
+    "id": 10,
+    "term": "What's up? (very informal)",
+    "definition": "Mi újság?",
+    "example": "literally 'what's news', casual among friends"
+  },
+  {
+    "id": 11,
+    "term": "Goodbye!",
+    "definition": "Viszlát!",
+    "example": "a shortened, everyday form of 'viszontlátásra'"
+  },
+  {
+    "id": 12,
+    "term": "See you later!",
+    "definition": "Később találkozunk!",
+    "example": "literally 'we'll meet later'"
+  },
+  {
+    "id": 13,
+    "term": "See you tomorrow!",
+    "definition": "Holnap találkozunk!",
+    "example": "same pattern with 'holnap'"
+  },
+  {
+    "id": 14,
+    "term": "Take care!",
+    "definition": "Vigyázz magadra!",
+    "example": "'vigyázni magára' = to take care of oneself"
+  },
+  {
+    "id": 15,
+    "term": "Have a good day!",
+    "definition": "Szép napot!",
+    "example": "a short, everyday send-off"
+  },
+  {
+    "id": 16,
+    "term": "Bye! (informal)",
+    "definition": "Csá!",
+    "example": "very casual, slangy, common among younger speakers"
+  },
+  {
+    "id": 17,
+    "term": "Until next time!",
+    "definition": "A legközelebbi találkozásig!",
+    "example": "'-ig' = until"
+  },
+  {
+    "id": 18,
+    "term": "Have a safe trip!",
+    "definition": "Jó utat!",
+    "example": "the standard send-off for travelers"
+  },
+  {
+    "id": 19,
+    "term": "Good night, sleep well.",
+    "definition": "Jó éjszakát, aludj jól.",
+    "example": "'aludj jól' = sleep well"
+  },
+  {
+    "id": 20,
+    "term": "Take care of yourself.",
+    "definition": "Vigyázz magadra jól.",
+    "example": "same reflexive as #14, with emphasis"
+  },
+  {
+    "id": 21,
+    "term": "Please.",
+    "definition": "Kérlek.",
+    "example": "informal — literally 'I ask you'"
+  },
+  {
+    "id": 22,
+    "term": "Thank you.",
+    "definition": "Köszönöm.",
+    "example": "the everyday thanks"
+  },
+  {
+    "id": 23,
+    "term": "Thank you very much.",
+    "definition": "Nagyon köszönöm.",
+    "example": "'nagyon' intensifies the thanks"
+  },
+  {
+    "id": 24,
+    "term": "You're welcome.",
+    "definition": "Szívesen.",
+    "example": "literally 'gladly'"
+  },
+  {
+    "id": 25,
+    "term": "No problem.",
+    "definition": "Semmi gond.",
+    "example": "'semmi' = nothing"
+  },
+  {
+    "id": 26,
+    "term": "Excuse me.",
+    "definition": "Elnézést.",
+    "example": "short for 'elnézést kérek'"
+  },
+  {
+    "id": 27,
+    "term": "I'm really sorry.",
+    "definition": "Nagyon sajnálom.",
+    "example": "'sajnálom' = I'm sorry, a heavier apology"
+  },
+  {
+    "id": 28,
+    "term": "Pardon? (didn't hear)",
+    "definition": "Tessék?",
+    "example": "the standard Hungarian way to ask someone to repeat themselves"
+  },
+  {
+    "id": 29,
+    "term": "No worries.",
+    "definition": "Ne aggódj emiatt.",
+    "example": "'ne aggódj' = don't worry"
+  },
+  {
+    "id": 30,
+    "term": "It's my pleasure.",
+    "definition": "Örömömre szolgál.",
+    "example": "a warmer, slightly formal response"
+  },
+  {
+    "id": 31,
+    "term": "My name is Anna.",
+    "definition": "Anna vagyok.",
+    "example": "literally 'I am Anna' — the standard way to give your name"
+  },
+  {
+    "id": 32,
+    "term": "Nice to meet you.",
+    "definition": "Örülök, hogy megismertelek.",
+    "example": "'örülni, hogy' + past tense"
+  },
+  {
+    "id": 33,
+    "term": "This is my friend Marco.",
+    "definition": "Ez itt Marco, a barátom.",
+    "example": "introducing someone"
+  },
+  {
+    "id": 34,
+    "term": "Where are you from?",
+    "definition": "Honnan jössz?",
+    "example": "'honnan' = from where"
+  },
+  {
+    "id": 35,
+    "term": "I'm from England.",
+    "definition": "Angliából jövök.",
+    "example": "elative -ból/-ből + jönni"
+  },
+  {
+    "id": 36,
+    "term": "What do you do for a living?",
+    "definition": "Mivel foglalkozol?",
+    "example": "'mivel foglalkozol' = literally 'what do you occupy yourself with'"
+  },
+  {
+    "id": 37,
+    "term": "I'm a student.",
+    "definition": "Diák vagyok.",
+    "example": "no article before a profession/status noun"
+  },
+  {
+    "id": 38,
+    "term": "Likewise!",
+    "definition": "Én is!",
+    "example": "literally 'me too!'"
+  },
+  {
+    "id": 39,
+    "term": "It was nice meeting you.",
+    "definition": "Jó volt megismerni téged.",
+    "example": "past tense: volt, said when parting"
+  },
+  {
+    "id": 40,
+    "term": "Let's keep in touch.",
+    "definition": "Tartsuk a kapcsolatot.",
+    "example": "'tartani a kapcsolatot' = to keep in touch"
+  },
+  {
+    "id": 41,
+    "term": "Happy birthday!",
+    "definition": "Boldog születésnapot!",
+    "example": "'boldog' + occasion, accusative"
+  },
+  {
+    "id": 42,
+    "term": "Congratulations!",
+    "definition": "Gratulálok!",
+    "example": "a distinct verb from the birthday greeting"
+  },
+  {
+    "id": 43,
+    "term": "Good luck!",
+    "definition": "Sok szerencsét!",
+    "example": "literally 'much luck', accusative"
+  },
+  {
+    "id": 44,
+    "term": "Best wishes!",
+    "definition": "Minden jót kívánok!",
+    "example": "'minden jót kívánok' = I wish you all the best"
+  },
+  {
+    "id": 45,
+    "term": "Get well soon!",
+    "definition": "Jobbulást!",
+    "example": "one word, said to someone unwell"
+  },
+  {
+    "id": 46,
+    "term": "Happy New Year!",
+    "definition": "Boldog új évet!",
+    "example": "'boldog' + occasion again"
+  },
+  {
+    "id": 47,
+    "term": "Merry Christmas!",
+    "definition": "Kellemes karácsonyt!",
+    "example": "'kellemes' = pleasant, the standard Christmas greeting adjective"
+  },
+  {
+    "id": 48,
+    "term": "Cheers! (a toast)",
+    "definition": "Egészségedre!",
+    "example": "literally 'to your health', the standard toast"
+  },
+  {
+    "id": 49,
+    "term": "Have fun!",
+    "definition": "Jó szórakozást!",
+    "example": "'jó szórakozást' = have fun/enjoy yourself"
+  },
+  {
+    "id": 50,
+    "term": "Enjoy your meal!",
+    "definition": "Jó étvágyat!",
+    "example": "literally 'good appetite'"
+  },
+  {
+    "id": 51,
+    "term": "Can you help me, please?",
+    "definition": "Tudnál segíteni, kérlek?",
+    "example": "'tudnál' — conditional of tudni, a polite request form"
+  },
+  {
+    "id": 52,
+    "term": "I need help.",
+    "definition": "Segítségre van szükségem.",
+    "example": "'szükségem van' + sublative -re"
+  },
+  {
+    "id": 53,
+    "term": "Where is the bathroom?",
+    "definition": "Hol van a fürdőszoba?",
+    "example": "'hol van' = where is"
+  },
+  {
+    "id": 54,
+    "term": "How much does this cost?",
+    "definition": "Mennyibe kerül ez?",
+    "example": "'kerülni' + illative -be = to cost"
+  },
+  {
+    "id": 55,
+    "term": "Do you have this in another color?",
+    "definition": "Van ez másik színben is?",
+    "example": "inessive -ben = in (a color)"
+  },
+  {
+    "id": 56,
+    "term": "Can I have the bill, please?",
+    "definition": "Kaphatnám a számlát, kérem?",
+    "example": "'kaphatnám' — definite conditional potential"
+  },
+  {
+    "id": 57,
+    "term": "One moment, please.",
+    "definition": "Egy pillanat, kérem.",
+    "example": "a polite stalling phrase"
+  },
+  {
+    "id": 58,
+    "term": "Could you repeat that?",
+    "definition": "Megismételnéd?",
+    "example": "'megismételnéd' — conditional 2nd person"
+  },
+  {
+    "id": 59,
+    "term": "I don't understand.",
+    "definition": "Nem értem.",
+    "example": "'érteni' = to understand"
+  },
+  {
+    "id": 60,
+    "term": "Could you speak more slowly?",
+    "definition": "Beszélnél lassabban?",
+    "example": "'beszélnél' — conditional 2nd person"
+  },
+  {
+    "id": 61,
+    "term": "I agree.",
+    "definition": "Egyetértek.",
+    "example": "one word: egyetérteni"
+  },
+  {
+    "id": 62,
+    "term": "I don't agree.",
+    "definition": "Nem értek egyet.",
+    "example": "negated version, word order shifts"
+  },
+  {
+    "id": 63,
+    "term": "That's true.",
+    "definition": "Ez igaz.",
+    "example": "'igaz' = true"
+  },
+  {
+    "id": 64,
+    "term": "That's not true.",
+    "definition": "Ez nem igaz.",
+    "example": "negated version"
+  },
+  {
+    "id": 65,
+    "term": "I think so.",
+    "definition": "Azt hiszem, igen.",
+    "example": "'azt hiszem' = I think (so)"
+  },
+  {
+    "id": 66,
+    "term": "I don't think so.",
+    "definition": "Azt hiszem, nem.",
+    "example": "same opener, negated answer"
+  },
+  {
+    "id": 67,
+    "term": "Sounds good.",
+    "definition": "Jól hangzik.",
+    "example": "'hangzani' = to sound"
+  },
+  {
+    "id": 68,
+    "term": "No way!",
+    "definition": "Semmiképp!",
+    "example": "an emphatic refusal"
+  },
+  {
+    "id": 69,
+    "term": "Of course!",
+    "definition": "Persze!",
+    "example": "an emphatic agreement"
+  },
+  {
+    "id": 70,
+    "term": "Maybe.",
+    "definition": "Talán.",
+    "example": "a single-word hedge"
+  },
+  {
+    "id": 71,
+    "term": "Really?",
+    "definition": "Tényleg?",
+    "example": "expressing mild disbelief"
+  },
+  {
+    "id": 72,
+    "term": "Wow!",
+    "definition": "Hűha!",
+    "example": "an interjection of surprise"
+  },
+  {
+    "id": 73,
+    "term": "That's great!",
+    "definition": "Ez remek!",
+    "example": "'remek' = great"
+  },
+  {
+    "id": 74,
+    "term": "I'm sorry to hear that.",
+    "definition": "Sajnálattal hallom.",
+    "example": "'sajnálattal' = with regret"
+  },
+  {
+    "id": 75,
+    "term": "What a shame.",
+    "definition": "Milyen kár.",
+    "example": "'milyen kár' — a fixed exclamation of sympathy"
+  },
+  {
+    "id": 76,
+    "term": "Oh no!",
+    "definition": "Jaj, ne!",
+    "example": "'jaj' — a common interjection of dismay"
+  },
+  {
+    "id": 77,
+    "term": "Exactly!",
+    "definition": "Pontosan!",
+    "example": "an emphatic agreement"
+  },
+  {
+    "id": 78,
+    "term": "I see.",
+    "definition": "Értem.",
+    "example": "'érteni' used idiomatically for understanding"
+  },
+  {
+    "id": 79,
+    "term": "That makes sense.",
+    "definition": "Ennek van értelme.",
+    "example": "'ennek van értelme' = this makes sense"
+  },
+  {
+    "id": 80,
+    "term": "That's interesting.",
+    "definition": "Ez érdekes.",
+    "example": "straightforward observation"
+  },
+  {
+    "id": 81,
+    "term": "Hello? (on the phone)",
+    "definition": "Halló?",
+    "example": "the standard Hungarian phone greeting"
+  },
+  {
+    "id": 82,
+    "term": "Who's calling?",
+    "definition": "Ki keres?",
+    "example": "literally 'who is looking for (me)'"
+  },
+  {
+    "id": 83,
+    "term": "Can I call you back?",
+    "definition": "Visszahívhatlak?",
+    "example": "'visszahívni' + potential + fused 2nd-person object"
+  },
+  {
+    "id": 84,
+    "term": "It was nice talking to you.",
+    "definition": "Jó volt veled beszélni.",
+    "example": "'veled' = with you, comitative"
+  },
+  {
+    "id": 85,
+    "term": "See you at the party!",
+    "definition": "Találkozunk a buliban!",
+    "example": "inessive -ban = at (the party)"
+  },
+  {
+    "id": 86,
+    "term": "I'll text you.",
+    "definition": "Írok neked üzenetet.",
+    "example": "'üzenetet írni' = to text, literally 'write a message'"
+  },
+  {
+    "id": 87,
+    "term": "Take it easy!",
+    "definition": "Nyugi!",
+    "example": "casual, one-word reassurance"
+  },
+  {
+    "id": 88,
+    "term": "All the best!",
+    "definition": "Minden jót!",
+    "example": "a warm closing wish"
+  },
+  {
+    "id": 89,
+    "term": "I'll be right there.",
+    "definition": "Mindjárt ott vagyok.",
+    "example": "'mindjárt' = right away"
+  },
+  {
+    "id": 90,
+    "term": "I'm on my way.",
+    "definition": "Úton vagyok.",
+    "example": "'úton' = on the way"
+  },
+  {
+    "id": 91,
+    "term": "Watch out!",
+    "definition": "Vigyázz!",
+    "example": "a bare warning imperative"
+  },
+  {
+    "id": 92,
+    "term": "No rush.",
+    "definition": "Semmi sürgős.",
+    "example": "'semmi sürgős' = nothing urgent"
+  },
+  {
+    "id": 93,
+    "term": "After you.",
+    "definition": "Utánad.",
+    "example": "a small courtesy at a doorway"
+  },
+  {
+    "id": 94,
+    "term": "Make yourself at home.",
+    "definition": "Érezd magad otthon.",
+    "example": "reflexive imperative: érezd magad"
+  },
+  {
+    "id": 95,
+    "term": "It's on me. (paying)",
+    "definition": "Én fizetek.",
+    "example": "literally 'I pay', offering to cover the bill"
+  },
+  {
+    "id": 96,
+    "term": "Let's go!",
+    "definition": "Menjünk!",
+    "example": "1st person plural imperative"
+  },
+  {
+    "id": 97,
+    "term": "Welcome home!",
+    "definition": "Isten hozott otthon!",
+    "example": "'isten hozott' + otthon"
+  },
+  {
+    "id": 98,
+    "term": "Get home safe!",
+    "definition": "Érj haza biztonságban!",
+    "example": "informal imperative: érj"
+  },
+  {
+    "id": 99,
+    "term": "I'm looking forward to it.",
+    "definition": "Már nagyon várom.",
+    "example": "literally 'I'm already very much waiting for it'"
+  },
+  {
+    "id": 100,
+    "term": "Thanks for everything.",
+    "definition": "Köszönök mindent.",
+    "example": "'köszönök' + accusative 'mindent'"
   }
 ];
