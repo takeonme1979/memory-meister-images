@@ -2584,7 +2584,41 @@ window.QM_HIDDEN_QUIZZES = [
   "huSentences",
   "rhuSentences",
   "plPhrases",
-  "itPhrases"
+  "itPhrases",
+  "frUpperBeginnerSentences",
+  "rfrUpperBeginnerSentences",
+  "frLowerIntSentences",
+  "rfrLowerIntSentences",
+  "frIntermediateSentences",
+  "rfrIntermediateSentences",
+  "frPhrases",
+  "deUpperBeginnerSentences",
+  "rdeUpperBeginnerSentences",
+  "deLowerIntSentences",
+  "rdeLowerIntSentences",
+  "deIntermediateSentences",
+  "rdeIntermediateSentences",
+  "dePhrases",
+  "esUpperBeginnerSentences",
+  "resUpperBeginnerSentences",
+  "esLowerIntSentences",
+  "resLowerIntSentences",
+  "esIntermediateSentences",
+  "resIntermediateSentences",
+  "esPhrases",
+  "ptUpperBeginnerSentences",
+  "rptUpperBeginnerSentences",
+  "ptLowerIntSentences",
+  "rptLowerIntSentences",
+  "ptIntermediateSentences",
+  "rptIntermediateSentences",
+  "ptPhrases",
+  "ritPhrases",
+  "rplPhrases",
+  "rfrPhrases",
+  "rdePhrases",
+  "resPhrases",
+  "rptPhrases"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -112601,5 +112635,9637 @@ window.QM_PHRASES_IT_DATA = [
     "term": "Thanks for everything.",
     "definition": "Grazie di tutto.",
     "example": "'grazie di' + noun, an alternative to 'grazie per'"
+  }
+];
+window.QM_SENTENCES_FR_UPPERBEGINNER_DATA = [
+  {
+    "id": 1,
+    "term": "My father is a farmer.",
+    "definition": "Mon père est agriculteur.",
+    "example": "no article before an unmodified profession after 'être'"
+  },
+  {
+    "id": 2,
+    "term": "My mother is a teacher.",
+    "definition": "Ma mère est professeure.",
+    "example": "the modern feminized profession noun: professeure"
+  },
+  {
+    "id": 3,
+    "term": "I have two brothers and one sister.",
+    "definition": "J'ai deux frères et une sœur.",
+    "example": "plural: frère → frères"
+  },
+  {
+    "id": 4,
+    "term": "My grandmother lives with us.",
+    "definition": "Ma grand-mère vit avec nous.",
+    "example": "'avec' (with) + the standalone pronoun 'nous'"
+  },
+  {
+    "id": 5,
+    "term": "Our family is very big.",
+    "definition": "Notre famille est très grande.",
+    "example": "'grande' agrees feminine with famille"
+  },
+  {
+    "id": 6,
+    "term": "My son is five years old.",
+    "definition": "Mon fils a cinq ans.",
+    "example": "'avoir' + ans — the standard way to state an age"
+  },
+  {
+    "id": 7,
+    "term": "My daughter likes to draw.",
+    "definition": "Ma fille aime dessiner.",
+    "example": "'aimer' + infinitive"
+  },
+  {
+    "id": 8,
+    "term": "We have a small dog and a big cat.",
+    "definition": "Nous avons un petit chien et un gros chat.",
+    "example": "'petit' and 'gros' both sit before the noun"
+  },
+  {
+    "id": 9,
+    "term": "My parents are on vacation.",
+    "definition": "Mes parents sont en vacances.",
+    "example": "'en vacances' — fixed phrase for 'on vacation'"
+  },
+  {
+    "id": 10,
+    "term": "My best friend has three children.",
+    "definition": "Mon meilleur ami a trois enfants.",
+    "example": "'meilleur' (best) sits before the noun"
+  },
+  {
+    "id": 11,
+    "term": "I wake up early on Mondays.",
+    "definition": "Je me réveille tôt le lundi.",
+    "example": "'le lundi' = on Mondays, a repeated day"
+  },
+  {
+    "id": 12,
+    "term": "On Saturdays, I sleep late.",
+    "definition": "Le samedi, je dors tard.",
+    "example": "same 'le' + day pattern"
+  },
+  {
+    "id": 13,
+    "term": "Today is Tuesday.",
+    "definition": "Aujourd'hui, c'est mardi.",
+    "example": "day names need no article after 'c'est'"
+  },
+  {
+    "id": 14,
+    "term": "Tomorrow is my birthday.",
+    "definition": "Demain, c'est mon anniversaire.",
+    "example": "same 'c'est' pattern"
+  },
+  {
+    "id": 15,
+    "term": "Yesterday was a busy day.",
+    "definition": "Hier était une journée chargée.",
+    "example": "'était' — imperfect of être, used for a description of a past state"
+  },
+  {
+    "id": 16,
+    "term": "In the morning, I drink coffee.",
+    "definition": "Le matin, je bois du café.",
+    "example": "'du café' — the partitive article, 'some coffee'"
+  },
+  {
+    "id": 17,
+    "term": "In the evening, we watch television.",
+    "definition": "Le soir, nous regardons la télévision.",
+    "example": "'le soir' = in the evening"
+  },
+  {
+    "id": 18,
+    "term": "At night, I read a book.",
+    "definition": "La nuit, je lis un livre.",
+    "example": "'la nuit' = at night"
+  },
+  {
+    "id": 19,
+    "term": "This afternoon, I have a meeting.",
+    "definition": "Cet après-midi, j'ai une réunion.",
+    "example": "'cet après-midi' = this afternoon"
+  },
+  {
+    "id": 20,
+    "term": "Every weekend, we visit my parents.",
+    "definition": "Chaque week-end, nous rendons visite à mes parents.",
+    "example": "'rendre visite à' (visit a person) takes 'à', not a direct object"
+  },
+  {
+    "id": 21,
+    "term": "I would like a glass of water.",
+    "definition": "Je voudrais un verre d'eau.",
+    "example": "'voudrais' — the polite conditional for ordering"
+  },
+  {
+    "id": 22,
+    "term": "Can I have the menu, please?",
+    "definition": "Puis-je avoir le menu, s'il vous plaît?",
+    "example": "'puis-je' — the formal inverted form of 'je peux'"
+  },
+  {
+    "id": 23,
+    "term": "This soup is delicious.",
+    "definition": "Cette soupe est délicieuse.",
+    "example": "adjective agrees feminine: délicieuse"
+  },
+  {
+    "id": 24,
+    "term": "I don't eat meat.",
+    "definition": "Je ne mange pas de viande.",
+    "example": "after 'ne...pas', the object takes 'de', not an article"
+  },
+  {
+    "id": 25,
+    "term": "She likes sweet food.",
+    "definition": "Elle aime la nourriture sucrée.",
+    "example": "definite article for a general liking: la nourriture"
+  },
+  {
+    "id": 26,
+    "term": "We are having pizza for dinner.",
+    "definition": "Nous mangeons de la pizza pour le dîner.",
+    "example": "'de la' — partitive article, feminine"
+  },
+  {
+    "id": 27,
+    "term": "The bread is fresh.",
+    "definition": "Le pain est frais.",
+    "example": "adjective, masculine: frais"
+  },
+  {
+    "id": 28,
+    "term": "I usually drink tea, not coffee.",
+    "definition": "D'habitude, je bois du thé, pas du café.",
+    "example": "'d'habitude' = usually"
+  },
+  {
+    "id": 29,
+    "term": "This restaurant is very popular.",
+    "definition": "Ce restaurant est très populaire.",
+    "example": "'populaire' looks the same for any gender"
+  },
+  {
+    "id": 30,
+    "term": "The food here is cheap.",
+    "definition": "La nourriture ici est bon marché.",
+    "example": "'bon marché' (cheap) never changes form"
+  },
+  {
+    "id": 31,
+    "term": "It is sunny today.",
+    "definition": "Il fait beau aujourd'hui.",
+    "example": "'il fait' + adjective — the standard French weather construction, using 'faire' not 'être'"
+  },
+  {
+    "id": 32,
+    "term": "It is raining outside.",
+    "definition": "Il pleut dehors.",
+    "example": "'pleuvoir' (to rain) — an impersonal verb with no real subject"
+  },
+  {
+    "id": 33,
+    "term": "It is very windy.",
+    "definition": "Il y a beaucoup de vent.",
+    "example": "'il y a' (there is) + noun"
+  },
+  {
+    "id": 34,
+    "term": "It is snowing in the mountains.",
+    "definition": "Il neige en montagne.",
+    "example": "'neiger' (to snow), impersonal like pleuvoir"
+  },
+  {
+    "id": 35,
+    "term": "The weather is nice this week.",
+    "definition": "Il fait beau cette semaine.",
+    "example": "same 'il fait beau' as #31"
+  },
+  {
+    "id": 36,
+    "term": "It is cloudy this morning.",
+    "definition": "Il y a des nuages ce matin.",
+    "example": "'il y a' + plural noun: des nuages"
+  },
+  {
+    "id": 37,
+    "term": "It is hot in the summer.",
+    "definition": "Il fait chaud en été.",
+    "example": "'il fait chaud' — heat uses 'faire', not 'être'"
+  },
+  {
+    "id": 38,
+    "term": "It is cold in the winter.",
+    "definition": "Il fait froid en hiver.",
+    "example": "'il fait froid' — same pattern for cold"
+  },
+  {
+    "id": 39,
+    "term": "There is a storm coming.",
+    "definition": "Un orage arrive.",
+    "example": "a plain subject + verb, no weather-impersonal needed here"
+  },
+  {
+    "id": 40,
+    "term": "The sky is blue today.",
+    "definition": "Le ciel est bleu aujourd'hui.",
+    "example": "adjective, masculine: bleu"
+  },
+  {
+    "id": 41,
+    "term": "I visited my grandparents last week.",
+    "definition": "J'ai rendu visite à mes grands-parents la semaine dernière.",
+    "example": "passé composé: j'ai rendu visite"
+  },
+  {
+    "id": 42,
+    "term": "We watched a good movie yesterday.",
+    "definition": "Nous avons regardé un bon film hier.",
+    "example": "passé composé, plural: avons regardé"
+  },
+  {
+    "id": 43,
+    "term": "She cooked dinner for us.",
+    "definition": "Elle nous a préparé le dîner.",
+    "example": "'nous' (for us) sits BEFORE the verb"
+  },
+  {
+    "id": 44,
+    "term": "They traveled to Spain last summer.",
+    "definition": "Ils sont allés en Espagne l'été dernier.",
+    "example": "'aller' is a motion verb, so the passé composé takes 'être': sont allés"
+  },
+  {
+    "id": 45,
+    "term": "I finished my homework early.",
+    "definition": "J'ai fini mes devoirs tôt.",
+    "example": "passé composé: j'ai fini"
+  },
+  {
+    "id": 46,
+    "term": "He bought a new car.",
+    "definition": "Il a acheté une nouvelle voiture.",
+    "example": "passé composé: a acheté"
+  },
+  {
+    "id": 47,
+    "term": "We walked to the park.",
+    "definition": "Nous avons marché jusqu'au parc.",
+    "example": "'marcher' (walk) takes 'avoir', unlike 'aller'"
+  },
+  {
+    "id": 48,
+    "term": "I called my friend this morning.",
+    "definition": "J'ai appelé mon ami ce matin.",
+    "example": "passé composé: j'ai appelé"
+  },
+  {
+    "id": 49,
+    "term": "She sold her old bicycle.",
+    "definition": "Elle a vendu son vieux vélo.",
+    "example": "passé composé: a vendu"
+  },
+  {
+    "id": 50,
+    "term": "We celebrated his birthday together.",
+    "definition": "Nous avons fêté son anniversaire ensemble.",
+    "example": "passé composé, plural: avons fêté"
+  },
+  {
+    "id": 51,
+    "term": "I am going to visit my aunt.",
+    "definition": "Je vais rendre visite à ma tante.",
+    "example": "'aller' + infinitive — the classic near-future"
+  },
+  {
+    "id": 52,
+    "term": "We are going to have a party.",
+    "definition": "Nous allons faire une fête.",
+    "example": "'aller' plural + infinitive"
+  },
+  {
+    "id": 53,
+    "term": "She is going to start a new job.",
+    "definition": "Elle va commencer un nouveau travail.",
+    "example": "va + infinitive"
+  },
+  {
+    "id": 54,
+    "term": "They are going to move to a new city.",
+    "definition": "Ils vont déménager dans une nouvelle ville.",
+    "example": "vont + infinitive"
+  },
+  {
+    "id": 55,
+    "term": "I am going to buy a new phone.",
+    "definition": "Je vais acheter un nouveau téléphone.",
+    "example": "vais + infinitive"
+  },
+  {
+    "id": 56,
+    "term": "He is going to learn to swim.",
+    "definition": "Il va apprendre à nager.",
+    "example": "'apprendre à' + infinitive"
+  },
+  {
+    "id": 57,
+    "term": "We are going to travel next month.",
+    "definition": "Nous allons voyager le mois prochain.",
+    "example": "allons + infinitive"
+  },
+  {
+    "id": 58,
+    "term": "I am going to cook dinner tonight.",
+    "definition": "Je vais préparer le dîner ce soir.",
+    "example": "vais + infinitive"
+  },
+  {
+    "id": 59,
+    "term": "She is going to call you later.",
+    "definition": "Elle va t'appeler plus tard.",
+    "example": "the object pronoun 't'' sits BEFORE the infinitive"
+  },
+  {
+    "id": 60,
+    "term": "They are going to arrive tomorrow.",
+    "definition": "Ils vont arriver demain.",
+    "example": "vont + infinitive"
+  },
+  {
+    "id": 61,
+    "term": "I like coffee and tea.",
+    "definition": "J'aime le café et le thé.",
+    "example": "'et' = and"
+  },
+  {
+    "id": 62,
+    "term": "She is smart and kind.",
+    "definition": "Elle est intelligente et gentille.",
+    "example": "'et' joining two adjectives"
+  },
+  {
+    "id": 63,
+    "term": "I want to go, but I am tired.",
+    "definition": "Je veux partir, mais je suis fatigué.",
+    "example": "'mais' = but"
+  },
+  {
+    "id": 64,
+    "term": "He is tall, but his brother is short.",
+    "definition": "Il est grand, mais son frère est petit.",
+    "example": "'mais' contrasting two people"
+  },
+  {
+    "id": 65,
+    "term": "Do you want tea or coffee?",
+    "definition": "Tu veux du thé ou du café?",
+    "example": "'ou' = or"
+  },
+  {
+    "id": 66,
+    "term": "You can call me or send a message.",
+    "definition": "Tu peux m'appeler ou envoyer un message.",
+    "example": "'ou' linking two actions"
+  },
+  {
+    "id": 67,
+    "term": "I stayed home because it was raining.",
+    "definition": "Je suis resté à la maison parce qu'il pleuvait.",
+    "example": "'parce que' = because; imparfait for ongoing weather: pleuvait"
+  },
+  {
+    "id": 68,
+    "term": "She was late because of the traffic.",
+    "definition": "Elle est arrivée en retard à cause de la circulation.",
+    "example": "'à cause de' = because of"
+  },
+  {
+    "id": 69,
+    "term": "I am happy because I passed the test.",
+    "definition": "Je suis content parce que j'ai réussi le test.",
+    "example": "'parce que' + passé composé"
+  },
+  {
+    "id": 70,
+    "term": "He is tired because he worked all day.",
+    "definition": "Il est fatigué parce qu'il a travaillé toute la journée.",
+    "example": "'parce que' + passé composé"
+  },
+  {
+    "id": 71,
+    "term": "The bank is near the school.",
+    "definition": "La banque est près de l'école.",
+    "example": "'près de' = near"
+  },
+  {
+    "id": 72,
+    "term": "The park is far from here.",
+    "definition": "Le parc est loin d'ici.",
+    "example": "'loin de' = far from"
+  },
+  {
+    "id": 73,
+    "term": "Turn left at the corner.",
+    "definition": "Tournez à gauche au coin.",
+    "example": "'à gauche' = to the left; formal imperative: tournez"
+  },
+  {
+    "id": 74,
+    "term": "Turn right at the traffic light.",
+    "definition": "Tournez à droite au feu.",
+    "example": "'à droite' = to the right"
+  },
+  {
+    "id": 75,
+    "term": "Go straight ahead.",
+    "definition": "Allez tout droit.",
+    "example": "'tout droit' = straight ahead"
+  },
+  {
+    "id": 76,
+    "term": "The hospital is next to the church.",
+    "definition": "L'hôpital est à côté de l'église.",
+    "example": "'à côté de' = next to"
+  },
+  {
+    "id": 77,
+    "term": "The store is across from the hotel.",
+    "definition": "Le magasin est en face de l'hôtel.",
+    "example": "'en face de' = across from"
+  },
+  {
+    "id": 78,
+    "term": "It is behind the building.",
+    "definition": "C'est derrière le bâtiment.",
+    "example": "'derrière' (behind) needs no linking word"
+  },
+  {
+    "id": 79,
+    "term": "It is in front of the station.",
+    "definition": "C'est devant la gare.",
+    "example": "'devant' = in front of"
+  },
+  {
+    "id": 80,
+    "term": "The bathroom is upstairs.",
+    "definition": "Les toilettes sont en haut.",
+    "example": "'les toilettes' is plural in French; 'en haut' = upstairs"
+  },
+  {
+    "id": 81,
+    "term": "The car is red.",
+    "definition": "La voiture est rouge.",
+    "example": "adjective, feminine: rouge (invariable)"
+  },
+  {
+    "id": 82,
+    "term": "The house is white and big.",
+    "definition": "La maison est blanche et grande.",
+    "example": "two adjectives, feminine: blanche, grande"
+  },
+  {
+    "id": 83,
+    "term": "This box is heavy.",
+    "definition": "Cette boîte est lourde.",
+    "example": "adjective, feminine: lourde"
+  },
+  {
+    "id": 84,
+    "term": "That bag is light.",
+    "definition": "Ce sac est léger.",
+    "example": "adjective, masculine: léger"
+  },
+  {
+    "id": 85,
+    "term": "The room is clean.",
+    "definition": "La chambre est propre.",
+    "example": "'propre' looks the same for any gender"
+  },
+  {
+    "id": 86,
+    "term": "The street is dirty.",
+    "definition": "La rue est sale.",
+    "example": "'sale' also invariable for gender"
+  },
+  {
+    "id": 87,
+    "term": "This road is long.",
+    "definition": "Cette route est longue.",
+    "example": "adjective, feminine: longue"
+  },
+  {
+    "id": 88,
+    "term": "That path is short.",
+    "definition": "Ce chemin est court.",
+    "example": "adjective, masculine: court"
+  },
+  {
+    "id": 89,
+    "term": "The water is deep here.",
+    "definition": "L'eau est profonde ici.",
+    "example": "adjective, feminine: profonde"
+  },
+  {
+    "id": 90,
+    "term": "This lake is shallow.",
+    "definition": "Ce lac est peu profond.",
+    "example": "'peu profond' — literally 'little deep', how French says shallow"
+  },
+  {
+    "id": 91,
+    "term": "I see her every day.",
+    "definition": "Je la vois tous les jours.",
+    "example": "object pronoun 'la' (her) sits BEFORE the verb, not after like English"
+  },
+  {
+    "id": 92,
+    "term": "He calls me every week.",
+    "definition": "Il m'appelle toutes les semaines.",
+    "example": "object pronoun 'm'' (me) before the verb"
+  },
+  {
+    "id": 93,
+    "term": "We visit them on Sundays.",
+    "definition": "Nous leur rendons visite le dimanche.",
+    "example": "'rendre visite à' takes an INDIRECT object: leur (to them), not les"
+  },
+  {
+    "id": 94,
+    "term": "She waits for us at the station.",
+    "definition": "Elle nous attend à la gare.",
+    "example": "'attendre' takes a direct object: nous"
+  },
+  {
+    "id": 95,
+    "term": "I don't see him here.",
+    "definition": "Je ne le vois pas ici.",
+    "example": "'ne' + object pronoun 'le' (him) + verb + 'pas' — all wrap around together"
+  },
+  {
+    "id": 96,
+    "term": "They know you well.",
+    "definition": "Ils te connaissent bien.",
+    "example": "object pronoun 'te' (you) before the verb"
+  },
+  {
+    "id": 97,
+    "term": "Do you understand me?",
+    "definition": "Tu me comprends?",
+    "example": "object pronoun 'me' even in a question — still comes first"
+  },
+  {
+    "id": 98,
+    "term": "I love you very much.",
+    "definition": "Je t'aime beaucoup.",
+    "example": "object pronoun 't'' (you) before the verb"
+  },
+  {
+    "id": 99,
+    "term": "Today's date is the fifth of August.",
+    "definition": "Nous sommes le cinq août.",
+    "example": "idiomatic date construction: 'nous sommes le' + cardinal number + month"
+  },
+  {
+    "id": 100,
+    "term": "The number nine is my lucky number.",
+    "definition": "Le numéro neuf est mon chiffre porte-bonheur.",
+    "example": "'porte-bonheur' (lucky) — a compound adjective, literally 'brings happiness'"
+  }
+];
+window.QM_SENTENCES_FR_LOWERINT_DATA = [
+  {
+    "id": 1,
+    "term": "I want to learn French.",
+    "definition": "Je veux apprendre le français.",
+    "example": "modal 'vouloir' + infinitive"
+  },
+  {
+    "id": 2,
+    "term": "I can help you tomorrow.",
+    "definition": "Je peux t'aider demain.",
+    "example": "'pouvoir' + infinitive; object pronoun before the infinitive: t'aider"
+  },
+  {
+    "id": 3,
+    "term": "I must go now.",
+    "definition": "Je dois partir maintenant.",
+    "example": "'devoir' (must) + infinitive"
+  },
+  {
+    "id": 4,
+    "term": "You should rest.",
+    "definition": "Tu devrais te reposer.",
+    "example": "the conditional of 'devoir' softens it into 'should': devrais"
+  },
+  {
+    "id": 5,
+    "term": "She should call her mother.",
+    "definition": "Elle devrait appeler sa mère.",
+    "example": "conditional, 3rd person: devrait"
+  },
+  {
+    "id": 6,
+    "term": "We want to visit Paris.",
+    "definition": "Nous voulons visiter Paris.",
+    "example": "'vouloir' plural + infinitive"
+  },
+  {
+    "id": 7,
+    "term": "They can't come today.",
+    "definition": "Ils ne peuvent pas venir aujourd'hui.",
+    "example": "negated modal: ne...pas + pouvoir"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to eat now.",
+    "definition": "Je ne veux pas manger maintenant.",
+    "example": "negated 'vouloir' + infinitive"
+  },
+  {
+    "id": 9,
+    "term": "Do you want some tea?",
+    "definition": "Veux-tu du thé?",
+    "example": "inversion question; 'du thé' — partitive article"
+  },
+  {
+    "id": 10,
+    "term": "I would like to order a coffee.",
+    "definition": "Je voudrais commander un café.",
+    "example": "'voudrais' — the polite conditional"
+  },
+  {
+    "id": 11,
+    "term": "You have to be careful.",
+    "definition": "Tu dois faire attention.",
+    "example": "'devoir' + the idiom 'faire attention' (be careful)"
+  },
+  {
+    "id": 12,
+    "term": "It's necessary to buy bread.",
+    "definition": "Il faut acheter du pain.",
+    "example": "impersonal 'il faut' (one must) + infinitive"
+  },
+  {
+    "id": 13,
+    "term": "You can smoke here.",
+    "definition": "On peut fumer ici.",
+    "example": "impersonal 'on' (one) + pouvoir"
+  },
+  {
+    "id": 14,
+    "term": "You can't park here.",
+    "definition": "On ne peut pas se garer ici.",
+    "example": "negated impersonal 'on peut'"
+  },
+  {
+    "id": 15,
+    "term": "It's worth trying this soup.",
+    "definition": "Ça vaut la peine d'essayer cette soupe.",
+    "example": "fixed phrase: 'ça vaut la peine de' (it's worth it) + infinitive"
+  },
+  {
+    "id": 16,
+    "term": "It's not necessary to hurry.",
+    "definition": "Il ne faut pas se dépêcher.",
+    "example": "negated 'il faut' + reflexive infinitive"
+  },
+  {
+    "id": 17,
+    "term": "You shouldn't smoke.",
+    "definition": "Tu ne devrais pas fumer.",
+    "example": "negated conditional of devoir"
+  },
+  {
+    "id": 18,
+    "term": "One has to work hard.",
+    "definition": "Il faut travailler dur.",
+    "example": "'il faut' + adverb + infinitive"
+  },
+  {
+    "id": 19,
+    "term": "Everyone must follow the rules.",
+    "definition": "Tout le monde doit respecter les règles.",
+    "example": "'devoir' 3rd singular (tout le monde is grammatically singular): doit"
+  },
+  {
+    "id": 20,
+    "term": "I have to finish this today.",
+    "definition": "Je dois finir ça aujourd'hui.",
+    "example": "'devoir' + object 'ça' + infinitive"
+  },
+  {
+    "id": 21,
+    "term": "I like this song.",
+    "definition": "J'aime cette chanson.",
+    "example": "'aimer' + direct object, straightforward"
+  },
+  {
+    "id": 22,
+    "term": "Do you like this city?",
+    "definition": "Aimes-tu cette ville?",
+    "example": "inversion question"
+  },
+  {
+    "id": 23,
+    "term": "We like this restaurant.",
+    "definition": "Nous aimons ce restaurant.",
+    "example": "'aimer' plural"
+  },
+  {
+    "id": 24,
+    "term": "They don't like this idea.",
+    "definition": "Ils n'aiment pas cette idée.",
+    "example": "negated 'aimer'"
+  },
+  {
+    "id": 25,
+    "term": "My head hurts.",
+    "definition": "J'ai mal à la tête.",
+    "example": "idiom: 'avoir mal à' + body part"
+  },
+  {
+    "id": 26,
+    "term": "My legs hurt.",
+    "definition": "J'ai mal aux jambes.",
+    "example": "'à' + 'les' contract into 'aux'"
+  },
+  {
+    "id": 27,
+    "term": "Does your stomach hurt?",
+    "definition": "As-tu mal au ventre?",
+    "example": "'à' + 'le' contract into 'au'"
+  },
+  {
+    "id": 28,
+    "term": "I feel sick.",
+    "definition": "Je me sens malade.",
+    "example": "reflexive 'se sentir' + adjective"
+  },
+  {
+    "id": 29,
+    "term": "I am cold.",
+    "definition": "J'ai froid.",
+    "example": "idiom: 'avoir froid' is literally 'to have cold'"
+  },
+  {
+    "id": 30,
+    "term": "Are you hungry?",
+    "definition": "As-tu faim?",
+    "example": "'avoir faim' — same have-an-idiom pattern"
+  },
+  {
+    "id": 31,
+    "term": "The more you practice, the better you speak.",
+    "definition": "Plus tu pratiques, mieux tu parles.",
+    "example": "'plus...mieux' pairs two comparative ideas"
+  },
+  {
+    "id": 32,
+    "term": "The sooner, the better.",
+    "definition": "Le plus tôt sera le mieux.",
+    "example": "a fixed idiomatic form of the same correlative pattern"
+  },
+  {
+    "id": 33,
+    "term": "Both my sister and my brother live in Paris.",
+    "definition": "Ma sœur et mon frère habitent tous les deux à Paris.",
+    "example": "'tous les deux' = both"
+  },
+  {
+    "id": 34,
+    "term": "I like neither tea nor coffee.",
+    "definition": "Je n'aime ni le thé ni le café.",
+    "example": "'ne...ni...ni' = 'neither...nor'"
+  },
+  {
+    "id": 35,
+    "term": "This is the most beautiful city in France.",
+    "definition": "C'est la plus belle ville de France.",
+    "example": "superlative: la plus belle"
+  },
+  {
+    "id": 36,
+    "term": "He is older than me.",
+    "definition": "Il est plus âgé que moi.",
+    "example": "comparative: plus...que"
+  },
+  {
+    "id": 37,
+    "term": "This is worse than I thought.",
+    "definition": "C'est pire que je ne le pensais.",
+    "example": "irregular comparative: mauvais → pire, not 'plus mauvais'"
+  },
+  {
+    "id": 38,
+    "term": "She sings better than he does.",
+    "definition": "Elle chante mieux que lui.",
+    "example": "irregular adverb comparative: bien → mieux"
+  },
+  {
+    "id": 39,
+    "term": "This task is easier than that one.",
+    "definition": "Cette tâche est plus facile que celle-là.",
+    "example": "regular comparative: facile → plus facile"
+  },
+  {
+    "id": 40,
+    "term": "He runs the fastest on our team.",
+    "definition": "Il court le plus vite de notre équipe.",
+    "example": "superlative adverb: le plus vite"
+  },
+  {
+    "id": 41,
+    "term": "I think that this is a good idea.",
+    "definition": "Je pense que c'est une bonne idée.",
+    "example": "'penser que' + indicative, a plain fact/opinion"
+  },
+  {
+    "id": 42,
+    "term": "I know that you are right.",
+    "definition": "Je sais que tu as raison.",
+    "example": "'savoir que' + indicative — a certainty"
+  },
+  {
+    "id": 43,
+    "term": "I hope that the weather will be nice.",
+    "definition": "J'espère que le temps sera beau.",
+    "example": "'espérer que' + indicative/future — unlike some related languages, no subjunctive here"
+  },
+  {
+    "id": 44,
+    "term": "I am glad that you came.",
+    "definition": "Je suis content que tu sois venu.",
+    "example": "an emotion + 'que' DOES trigger the subjonctif: sois venu"
+  },
+  {
+    "id": 45,
+    "term": "I don't think that it's true.",
+    "definition": "Je ne pense pas que ce soit vrai.",
+    "example": "negating 'penser que' switches it to the subjonctif: soit"
+  },
+  {
+    "id": 46,
+    "term": "I am learning French because I want to live in France.",
+    "definition": "J'apprends le français parce que je veux vivre en France.",
+    "example": "'parce que' + indicative, stating a reason"
+  },
+  {
+    "id": 47,
+    "term": "I can't come because I am sick.",
+    "definition": "Je ne peux pas venir parce que je suis malade.",
+    "example": "same fact-stating 'parce que'"
+  },
+  {
+    "id": 48,
+    "term": "I am studying so that I can pass the exam.",
+    "definition": "J'étudie pour réussir l'examen.",
+    "example": "'pour' + infinitive states the purpose, when the subject doesn't change"
+  },
+  {
+    "id": 49,
+    "term": "Call me when you arrive.",
+    "definition": "Appelle-moi quand tu arrives.",
+    "example": "'quand' + present, standing in for the future"
+  },
+  {
+    "id": 50,
+    "term": "If it rains, we will stay home.",
+    "definition": "S'il pleut, nous resterons à la maison.",
+    "example": "a real future condition: 'si' + present, result in the future"
+  },
+  {
+    "id": 51,
+    "term": "The woman who lives next door is a doctor.",
+    "definition": "La femme qui habite à côté est médecin.",
+    "example": "'qui' — relative pronoun as the subject of its clause"
+  },
+  {
+    "id": 52,
+    "term": "The man who called yesterday is my uncle.",
+    "definition": "L'homme qui a appelé hier est mon oncle.",
+    "example": "'qui' again, subject"
+  },
+  {
+    "id": 53,
+    "term": "The book that I am reading is very interesting.",
+    "definition": "Le livre que je lis est très intéressant.",
+    "example": "'que' — relative pronoun as the OBJECT of its clause"
+  },
+  {
+    "id": 54,
+    "term": "The children who play in the park are our neighbors.",
+    "definition": "Les enfants qui jouent dans le parc sont nos voisins.",
+    "example": "'qui', plural subject"
+  },
+  {
+    "id": 55,
+    "term": "This is the house in which I grew up.",
+    "definition": "C'est la maison dans laquelle j'ai grandi.",
+    "example": "after a preposition, 'que' becomes 'lequel/laquelle': dans laquelle"
+  },
+  {
+    "id": 56,
+    "term": "I don't remember the name of the street where we met.",
+    "definition": "Je ne me souviens pas du nom de la rue où nous nous sommes rencontrés.",
+    "example": "'où' (where) is its own relative word for places"
+  },
+  {
+    "id": 57,
+    "term": "The people whom I met were very friendly.",
+    "definition": "Les gens que j'ai rencontrés étaient très sympathiques.",
+    "example": "'que' again, as an object"
+  },
+  {
+    "id": 58,
+    "term": "This is the reason why I am late.",
+    "definition": "C'est la raison pour laquelle je suis en retard.",
+    "example": "'pour laquelle' = 'why', literally 'for which'"
+  },
+  {
+    "id": 59,
+    "term": "The car that broke down is mine.",
+    "definition": "La voiture qui est tombée en panne est la mienne.",
+    "example": "'qui' + a reflexive-feeling idiom, 'tomber en panne' (break down)"
+  },
+  {
+    "id": 60,
+    "term": "I found the keys that I lost.",
+    "definition": "J'ai trouvé les clés que j'avais perdues.",
+    "example": "'que' + the plus-que-parfait (had lost): avais perdues"
+  },
+  {
+    "id": 61,
+    "term": "The meeting starts at three o'clock.",
+    "definition": "La réunion commence à trois heures.",
+    "example": "clock time: à trois heures"
+  },
+  {
+    "id": 62,
+    "term": "I usually wake up before seven.",
+    "definition": "D'habitude, je me réveille avant sept heures.",
+    "example": "'avant' (before) + a time"
+  },
+  {
+    "id": 63,
+    "term": "We will meet after the concert.",
+    "definition": "Nous nous verrons après le concert.",
+    "example": "'après' + noun, no special ending needed"
+  },
+  {
+    "id": 64,
+    "term": "The shop is open from nine to six.",
+    "definition": "Le magasin est ouvert de neuf heures à dix-huit heures.",
+    "example": "'de...à' (from...to)"
+  },
+  {
+    "id": 65,
+    "term": "I lived in France for three years.",
+    "definition": "J'ai vécu en France pendant trois ans.",
+    "example": "'pendant' + a length of time"
+  },
+  {
+    "id": 66,
+    "term": "I haven't seen him since last year.",
+    "definition": "Je ne l'ai pas vu depuis l'année dernière.",
+    "example": "'depuis' (since) marks something still relevant now"
+  },
+  {
+    "id": 67,
+    "term": "During the summer, we travel a lot.",
+    "definition": "Pendant l'été, nous voyageons beaucoup.",
+    "example": "'pendant' can also mean 'during'"
+  },
+  {
+    "id": 68,
+    "term": "On Mondays, I go to the gym.",
+    "definition": "Le lundi, je vais à la salle de sport.",
+    "example": "'le lundi' (on Mondays) — a repeated day"
+  },
+  {
+    "id": 69,
+    "term": "Next week, I am going on vacation.",
+    "definition": "La semaine prochaine, je pars en vacances.",
+    "example": "'la semaine prochaine' (next week)"
+  },
+  {
+    "id": 70,
+    "term": "Two years ago, I visited France.",
+    "definition": "Il y a deux ans, j'ai visité la France.",
+    "example": "'il y a' (ago) precedes the amount of time"
+  },
+  {
+    "id": 71,
+    "term": "There are a lot of people here.",
+    "definition": "Il y a beaucoup de gens ici.",
+    "example": "'beaucoup de' (a lot of) + noun"
+  },
+  {
+    "id": 72,
+    "term": "I have little time.",
+    "definition": "J'ai peu de temps.",
+    "example": "'peu de' (little)"
+  },
+  {
+    "id": 73,
+    "term": "I have a few questions.",
+    "definition": "J'ai quelques questions.",
+    "example": "'quelques' (a few)"
+  },
+  {
+    "id": 74,
+    "term": "There are many opportunities here.",
+    "definition": "Il y a beaucoup d'opportunités ici.",
+    "example": "'beaucoup de' elides to 'd'' before a vowel"
+  },
+  {
+    "id": 75,
+    "term": "I have several friends in France.",
+    "definition": "J'ai plusieurs amis en France.",
+    "example": "'plusieurs' (several)"
+  },
+  {
+    "id": 76,
+    "term": "Not many people know about this.",
+    "definition": "Peu de gens le savent.",
+    "example": "'peu de' (not many)"
+  },
+  {
+    "id": 77,
+    "term": "I need a bit more time.",
+    "definition": "J'ai besoin d'un peu plus de temps.",
+    "example": "'avoir besoin de' (need) + 'un peu plus de' (a bit more of)"
+  },
+  {
+    "id": 78,
+    "term": "Most people agree with this.",
+    "definition": "La plupart des gens sont d'accord avec ça.",
+    "example": "'la plupart de' = 'most of'"
+  },
+  {
+    "id": 79,
+    "term": "I bought a lot of books.",
+    "definition": "J'ai acheté beaucoup de livres.",
+    "example": "'beaucoup de' + plural noun"
+  },
+  {
+    "id": 80,
+    "term": "There isn't enough bread.",
+    "definition": "Il n'y a pas assez de pain.",
+    "example": "'assez de' (enough)"
+  },
+  {
+    "id": 81,
+    "term": "Sit down, please.",
+    "definition": "Assieds-toi, s'il te plaît.",
+    "example": "informal imperative of a reflexive verb: assieds-toi"
+  },
+  {
+    "id": 82,
+    "term": "Wait for me!",
+    "definition": "Attends-moi!",
+    "example": "imperative + object pronoun attached: attends-moi"
+  },
+  {
+    "id": 83,
+    "term": "Don't worry.",
+    "definition": "Ne t'inquiète pas.",
+    "example": "negative imperative of a reflexive verb: t'inquiéter"
+  },
+  {
+    "id": 84,
+    "term": "Close the door, please.",
+    "definition": "Ferme la porte, s'il te plaît.",
+    "example": "ordinary informal imperative: ferme"
+  },
+  {
+    "id": 85,
+    "term": "Let's go!",
+    "definition": "Allons-y!",
+    "example": "the 'nous' imperative + 'y' (there) doubles as 'let's go'"
+  },
+  {
+    "id": 86,
+    "term": "Let's eat something.",
+    "definition": "Mangeons quelque chose!",
+    "example": "1st person plural imperative: mangeons"
+  },
+  {
+    "id": 87,
+    "term": "Be careful!",
+    "definition": "Fais attention!",
+    "example": "informal imperative + the idiom 'faire attention'"
+  },
+  {
+    "id": 88,
+    "term": "Don't be afraid.",
+    "definition": "N'aie pas peur.",
+    "example": "irregular imperative of avoir: aie"
+  },
+  {
+    "id": 89,
+    "term": "Help me, please.",
+    "definition": "Aide-moi, s'il te plaît.",
+    "example": "imperative + attached pronoun: aide-moi"
+  },
+  {
+    "id": 90,
+    "term": "Listen to me!",
+    "definition": "Écoute-moi!",
+    "example": "'écouter' takes a direct object, no preposition needed unlike English 'listen TO'"
+  },
+  {
+    "id": 91,
+    "term": "I don't know where he lives.",
+    "definition": "Je ne sais pas où il habite.",
+    "example": "an indirect question — 'où' works the same tucked inside a sentence"
+  },
+  {
+    "id": 92,
+    "term": "I don't know what time it is.",
+    "definition": "Je ne sais pas quelle heure il est.",
+    "example": "'quelle heure' — literally 'which hour'"
+  },
+  {
+    "id": 93,
+    "term": "Tell me why you are sad.",
+    "definition": "Dis-moi pourquoi tu es triste.",
+    "example": "imperative + attached pronoun + indirect question"
+  },
+  {
+    "id": 94,
+    "term": "I wonder who called.",
+    "definition": "Je me demande qui a appelé.",
+    "example": "'se demander' (wonder) + indirect question with 'qui'"
+  },
+  {
+    "id": 95,
+    "term": "I am not sure if he is coming.",
+    "definition": "Je ne suis pas sûr qu'il vienne.",
+    "example": "'sûr que', negated, triggers the subjonctif: vienne"
+  },
+  {
+    "id": 96,
+    "term": "She said that she was tired.",
+    "definition": "Elle a dit qu'elle était fatiguée.",
+    "example": "French DOES shift the tense back in reported speech: était (imparfait)"
+  },
+  {
+    "id": 97,
+    "term": "He asked if I spoke French.",
+    "definition": "Il a demandé si je parlais français.",
+    "example": "same backshift: parlais (imparfait)"
+  },
+  {
+    "id": 98,
+    "term": "If I had more time, I would learn Italian too.",
+    "definition": "Si j'avais plus de temps, j'apprendrais aussi l'italien.",
+    "example": "hypothetical: 'si' + imparfait (avais), result in the conditionnel (apprendrais)"
+  },
+  {
+    "id": 99,
+    "term": "If I were you, I would rest.",
+    "definition": "Si j'étais toi, je me reposerais.",
+    "example": "idiom: 'si j'étais toi' = 'if I were you'"
+  },
+  {
+    "id": 100,
+    "term": "I would be very happy if you came.",
+    "definition": "Je serais très content si tu venais.",
+    "example": "conditionnel + 'si' + imparfait: serais...venais"
+  }
+];
+window.QM_SENTENCES_FR_INTERMEDIATE_DATA = [
+  {
+    "id": 1,
+    "term": "I go there every day.",
+    "definition": "J'y vais tous les jours.",
+    "example": "'y' replaces an already-known place — 'there'"
+  },
+  {
+    "id": 2,
+    "term": "I don't believe it.",
+    "definition": "Je n'y crois pas.",
+    "example": "'croire à quelque chose' → 'y croire'"
+  },
+  {
+    "id": 3,
+    "term": "I think about it often.",
+    "definition": "J'y pense souvent.",
+    "example": "'penser à quelque chose' → 'y penser'"
+  },
+  {
+    "id": 4,
+    "term": "How many books do you have? I have three of them.",
+    "definition": "Combien de livres as-tu? J'en ai trois.",
+    "example": "'en' replaces 'of them' — a quantity plus its noun"
+  },
+  {
+    "id": 5,
+    "term": "Do you want some wine? Yes, I want some.",
+    "definition": "Veux-tu du vin? Oui, j'en veux.",
+    "example": "'en' = 'some of it'"
+  },
+  {
+    "id": 6,
+    "term": "Do you need money? Yes, I need some.",
+    "definition": "As-tu besoin d'argent? Oui, j'en ai besoin.",
+    "example": "'en' replaces 'd'argent' (of money)"
+  },
+  {
+    "id": 7,
+    "term": "I'm leaving now.",
+    "definition": "Je m'en vais maintenant.",
+    "example": "'s'en aller' — an idiom fusing the reflexive 'me' with 'en'"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to talk about it.",
+    "definition": "Je ne veux pas en parler.",
+    "example": "'parler de quelque chose' → 'en parler'"
+  },
+  {
+    "id": 9,
+    "term": "How many sisters do you have? I have one.",
+    "definition": "Combien de sœurs as-tu? J'en ai une.",
+    "example": "'en' stands in even with a specific count: une"
+  },
+  {
+    "id": 10,
+    "term": "I'm sure of it.",
+    "definition": "J'en suis sûr.",
+    "example": "'être sûr de quelque chose' → 'en être sûr'"
+  },
+  {
+    "id": 11,
+    "term": "I used to read a lot as a child.",
+    "definition": "Quand j'étais enfant, je lisais beaucoup.",
+    "example": "imparfait for a habit stretched over time: lisais"
+  },
+  {
+    "id": 12,
+    "term": "Yesterday I read that whole book.",
+    "definition": "Hier, j'ai lu tout ce livre.",
+    "example": "passé composé for one completed action: ai lu"
+  },
+  {
+    "id": 13,
+    "term": "I always drank coffee in the morning.",
+    "definition": "Je buvais toujours du café le matin.",
+    "example": "imparfait, habitual: buvais"
+  },
+  {
+    "id": 14,
+    "term": "This morning I drank two cups of coffee.",
+    "definition": "Ce matin, j'ai bu deux tasses de café.",
+    "example": "passé composé, a specific completed amount: ai bu"
+  },
+  {
+    "id": 15,
+    "term": "She was writing a letter when I called.",
+    "definition": "Elle écrivait une lettre quand j'ai appelé.",
+    "example": "imparfait for an action in progress, interrupted by a passé composé"
+  },
+  {
+    "id": 16,
+    "term": "She wrote the letter and sent it.",
+    "definition": "Elle a écrit la lettre et l'a envoyée.",
+    "example": "passé composé sequence; agreement with a preceding direct object: l'a envoyée"
+  },
+  {
+    "id": 17,
+    "term": "We were watching a movie all evening.",
+    "definition": "Nous regardions un film toute la soirée.",
+    "example": "imparfait for duration: regardions"
+  },
+  {
+    "id": 18,
+    "term": "We watched the whole movie in one sitting.",
+    "definition": "Nous avons regardé tout le film d'une traite.",
+    "example": "passé composé for the completed whole"
+  },
+  {
+    "id": 19,
+    "term": "I was learning French for two years before I moved here.",
+    "definition": "J'apprenais le français depuis deux ans avant de déménager ici.",
+    "example": "imparfait + 'depuis' for the ongoing stretch"
+  },
+  {
+    "id": 20,
+    "term": "I finally learned all the irregular verbs.",
+    "definition": "J'ai enfin appris tous les verbes irréguliers.",
+    "example": "passé composé — the moment it finally clicked"
+  },
+  {
+    "id": 21,
+    "term": "This book was written by a famous author.",
+    "definition": "Ce livre a été écrit par un auteur célèbre.",
+    "example": "passive: 'être' + past participle, 'par' (by) + the agent"
+  },
+  {
+    "id": 22,
+    "term": "The house was built in 1920.",
+    "definition": "La maison a été construite en 1920.",
+    "example": "same passive pattern, no agent named"
+  },
+  {
+    "id": 23,
+    "term": "The letter is being written now.",
+    "definition": "La lettre est en train d'être écrite maintenant.",
+    "example": "'être en train de' + infinitif passif — an action caught mid-way"
+  },
+  {
+    "id": 24,
+    "term": "The doors are closed at nine.",
+    "definition": "Les portes sont fermées à neuf heures.",
+    "example": "habitual passive: être + participle"
+  },
+  {
+    "id": 25,
+    "term": "The problem will be solved soon.",
+    "definition": "Le problème sera résolu bientôt.",
+    "example": "future passive: sera + participle"
+  },
+  {
+    "id": 26,
+    "term": "The bridge was destroyed during the war.",
+    "definition": "Le pont a été détruit pendant la guerre.",
+    "example": "passive past, resultative"
+  },
+  {
+    "id": 27,
+    "term": "This song is known all over the world.",
+    "definition": "Cette chanson est connue dans le monde entier.",
+    "example": "a participle used as a plain adjective: connue"
+  },
+  {
+    "id": 28,
+    "term": "The cake was eaten by the children.",
+    "definition": "Le gâteau a été mangé par les enfants.",
+    "example": "'par' + the agent"
+  },
+  {
+    "id": 29,
+    "term": "New rules were introduced last year.",
+    "definition": "De nouvelles règles ont été introduites l'année dernière.",
+    "example": "plural passive: ont été introduites, not a été"
+  },
+  {
+    "id": 30,
+    "term": "The window was broken by the storm.",
+    "definition": "La fenêtre a été cassée par la tempête.",
+    "example": "passive, feminine agreement: cassée"
+  },
+  {
+    "id": 31,
+    "term": "It's said that he is very talented.",
+    "definition": "On dit qu'il est très talentueux.",
+    "example": "'on dit que' — the impersonal way to say 'it's said'"
+  },
+  {
+    "id": 32,
+    "term": "It's getting dark.",
+    "definition": "Il commence à faire nuit.",
+    "example": "'commencer à' + the weather-impersonal 'faire nuit'"
+  },
+  {
+    "id": 33,
+    "term": "It's getting cold outside.",
+    "definition": "Il commence à faire froid dehors.",
+    "example": "same 'commencer à' pattern"
+  },
+  {
+    "id": 34,
+    "term": "How do you say this in French?",
+    "definition": "Comment dit-on ça en français?",
+    "example": "'dit-on' — impersonal 'on', inverted for a question"
+  },
+  {
+    "id": 35,
+    "term": "One eats dinner at eight here.",
+    "definition": "Ici, on dîne à vingt heures.",
+    "example": "impersonal 'on' for a general custom"
+  },
+  {
+    "id": 36,
+    "term": "You can't smoke here.",
+    "definition": "On ne peut pas fumer ici.",
+    "example": "impersonal 'on', negated"
+  },
+  {
+    "id": 37,
+    "term": "It's not done that way.",
+    "definition": "Ça ne se fait pas comme ça.",
+    "example": "reflexive-passive: 'se faire' (to be done)"
+  },
+  {
+    "id": 38,
+    "term": "People say all sorts of things.",
+    "definition": "Les gens disent toutes sortes de choses.",
+    "example": "a plain plural subject this time, not the impersonal 'on'"
+  },
+  {
+    "id": 39,
+    "term": "This word is used often.",
+    "definition": "Ce mot est souvent utilisé.",
+    "example": "passive: est utilisé"
+  },
+  {
+    "id": 40,
+    "term": "This is how the game is played.",
+    "definition": "Voici comment on joue à ce jeu.",
+    "example": "impersonal 'on joue à'"
+  },
+  {
+    "id": 41,
+    "term": "I told him to come.",
+    "definition": "Je lui ai dit de venir.",
+    "example": "'dire à quelqu'un de faire quelque chose' — 'de' + infinitive, no subjunctive needed"
+  },
+  {
+    "id": 42,
+    "term": "She asked me to help her.",
+    "definition": "Elle m'a demandé de l'aider.",
+    "example": "'demander à quelqu'un de faire quelque chose' — same 'de' + infinitive shape"
+  },
+  {
+    "id": 43,
+    "term": "The teacher told us to be quiet.",
+    "definition": "Le professeur nous a dit de nous taire.",
+    "example": "'nous' (to us) + 'de' + infinitive"
+  },
+  {
+    "id": 44,
+    "term": "I want you to call me.",
+    "definition": "Je veux que tu m'appelles.",
+    "example": "'vouloir que' is different — it always needs the subjonctif: appelles"
+  },
+  {
+    "id": 45,
+    "term": "My mother told me not to be late.",
+    "definition": "Ma mère m'a dit de ne pas être en retard.",
+    "example": "'de' + a negated infinitive"
+  },
+  {
+    "id": 46,
+    "term": "He asked us to wait outside.",
+    "definition": "Il nous a demandé d'attendre dehors.",
+    "example": "same 'de' + infinitive pattern"
+  },
+  {
+    "id": 47,
+    "term": "I told them to stop.",
+    "definition": "Je leur ai dit d'arrêter.",
+    "example": "'leur' (to them) + 'de' + infinitive"
+  },
+  {
+    "id": 48,
+    "term": "She wants me to visit her.",
+    "definition": "Elle veut que je lui rende visite.",
+    "example": "'vouloir que' again forces the subjonctif: rende"
+  },
+  {
+    "id": 49,
+    "term": "The boss ordered us to finish the project.",
+    "definition": "Le patron nous a ordonné de finir le projet.",
+    "example": "'ordonner' also takes 'de' + infinitive"
+  },
+  {
+    "id": 50,
+    "term": "I asked her to be patient.",
+    "definition": "Je lui ai demandé d'être patiente.",
+    "example": "'lui' (to her) + 'de' + infinitive"
+  },
+  {
+    "id": 51,
+    "term": "Although it was raining, we went for a walk.",
+    "definition": "Même s'il pleuvait, nous sommes allés nous promener.",
+    "example": "'même si' (even if/though) + imparfait — much more natural here than 'bien que'"
+  },
+  {
+    "id": 52,
+    "term": "Even though he is tired, he keeps working.",
+    "definition": "Même s'il est fatigué, il continue à travailler.",
+    "example": "'même si' + present, stays indicative"
+  },
+  {
+    "id": 53,
+    "term": "Despite the cold, we went outside.",
+    "definition": "Malgré le froid, nous sommes sortis.",
+    "example": "'malgré' + noun (no 'que' needed)"
+  },
+  {
+    "id": 54,
+    "term": "It's raining, but we're going out anyway.",
+    "definition": "Il pleut, mais nous sortons quand même.",
+    "example": "'quand même' = anyway/all the same"
+  },
+  {
+    "id": 55,
+    "term": "I like her, even though she's sometimes difficult.",
+    "definition": "Je l'aime bien, même si elle est parfois difficile.",
+    "example": "'même si' again, indicative"
+  },
+  {
+    "id": 56,
+    "term": "He passed the exam despite not studying much.",
+    "definition": "Il a réussi l'examen bien qu'il n'ait pas beaucoup étudié.",
+    "example": "'bien que' + subjonctif passé: ait étudié"
+  },
+  {
+    "id": 57,
+    "term": "It was cheap, yet good quality.",
+    "definition": "C'était bon marché, et pourtant de bonne qualité.",
+    "example": "'et pourtant' = yet/and still"
+  },
+  {
+    "id": 58,
+    "term": "Nevertheless, I think we should try.",
+    "definition": "Néanmoins, je pense que nous devrions essayer.",
+    "example": "'néanmoins' = nevertheless"
+  },
+  {
+    "id": 59,
+    "term": "Although I disagree, I'll help you.",
+    "definition": "Bien que je ne sois pas d'accord, je vais t'aider.",
+    "example": "'bien que' + subjonctif: sois"
+  },
+  {
+    "id": 60,
+    "term": "We won, although it wasn't easy.",
+    "definition": "Nous avons gagné, bien que ce n'ait pas été facile.",
+    "example": "'bien que' + subjonctif passé: ait été"
+  },
+  {
+    "id": 61,
+    "term": "Stay here until I come back.",
+    "definition": "Reste ici jusqu'à ce que je revienne.",
+    "example": "'jusqu'à ce que' (until) always takes the subjonctif: revienne"
+  },
+  {
+    "id": 62,
+    "term": "I'll wait as long as you need.",
+    "definition": "J'attendrai aussi longtemps que tu en auras besoin.",
+    "example": "'aussi longtemps que' stays indicative (future)"
+  },
+  {
+    "id": 63,
+    "term": "Before you leave, call me.",
+    "definition": "Avant de partir, appelle-moi.",
+    "example": "'avant de' + infinitive, when the subject doesn't change"
+  },
+  {
+    "id": 64,
+    "term": "I checked everything before I left.",
+    "definition": "J'ai tout vérifié avant de partir.",
+    "example": "same 'avant de' + infinitive"
+  },
+  {
+    "id": 65,
+    "term": "I've known her since I was a child.",
+    "definition": "Je la connais depuis que je suis enfant.",
+    "example": "'depuis que' = since"
+  },
+  {
+    "id": 66,
+    "term": "Since he moved here, he's been much happier.",
+    "definition": "Depuis qu'il a déménagé ici, il est beaucoup plus heureux.",
+    "example": "'depuis que' + passé composé"
+  },
+  {
+    "id": 67,
+    "term": "Wait until the light turns green.",
+    "definition": "Attends que le feu devienne vert.",
+    "example": "'attendre que' also takes the subjonctif: devienne"
+  },
+  {
+    "id": 68,
+    "term": "I won't leave until you answer me.",
+    "definition": "Je ne partirai pas tant que tu ne m'auras pas répondu.",
+    "example": "'tant que' + futur antérieur — French's way of saying 'not until'"
+  },
+  {
+    "id": 69,
+    "term": "As soon as I get home, I'll call you.",
+    "definition": "Dès que j'arrive à la maison, je t'appelle.",
+    "example": "'dès que' = as soon as"
+  },
+  {
+    "id": 70,
+    "term": "The moment I saw her, I knew.",
+    "definition": "Au moment où je l'ai vue, j'ai su.",
+    "example": "'au moment où' = the moment that"
+  },
+  {
+    "id": 71,
+    "term": "Instead of coffee, I'll have tea.",
+    "definition": "Au lieu de café, je prendrai du thé.",
+    "example": "'au lieu de' (instead of) + noun"
+  },
+  {
+    "id": 72,
+    "term": "Instead of complaining, do something.",
+    "definition": "Au lieu de te plaindre, fais quelque chose.",
+    "example": "'au lieu de' + infinitive"
+  },
+  {
+    "id": 73,
+    "term": "Reading books is my favorite hobby.",
+    "definition": "Lire des livres est mon passe-temps préféré.",
+    "example": "the infinitive itself acts as the subject — French has no separate gerund for this"
+  },
+  {
+    "id": 74,
+    "term": "Learning languages takes time.",
+    "definition": "Apprendre des langues prend du temps.",
+    "example": "infinitive as subject again"
+  },
+  {
+    "id": 75,
+    "term": "Swimming is good for your health.",
+    "definition": "Nager est bon pour la santé.",
+    "example": "infinitive as subject: nager"
+  },
+  {
+    "id": 76,
+    "term": "Cooking dinner takes an hour.",
+    "definition": "Préparer le dîner prend une heure.",
+    "example": "infinitive as subject: préparer"
+  },
+  {
+    "id": 77,
+    "term": "Smoking is bad for you.",
+    "definition": "Fumer est mauvais pour la santé.",
+    "example": "infinitive as subject: fumer"
+  },
+  {
+    "id": 78,
+    "term": "Waiting is the hardest part.",
+    "definition": "Attendre est la partie la plus difficile.",
+    "example": "infinitive as subject + a superlative"
+  },
+  {
+    "id": 79,
+    "term": "Thank you for coming.",
+    "definition": "Merci d'être venu.",
+    "example": "'merci de' + infinitif passé"
+  },
+  {
+    "id": 80,
+    "term": "I'm tired of waiting.",
+    "definition": "J'en ai marre d'attendre.",
+    "example": "idiom: 'en avoir marre de' = to be tired/fed up with"
+  },
+  {
+    "id": 81,
+    "term": "If I had known, I would have come.",
+    "definition": "Si j'avais su, je serais venu.",
+    "example": "a hypothetical about the past: plus-que-parfait + conditionnel passé"
+  },
+  {
+    "id": 82,
+    "term": "If you had called me, I would have helped.",
+    "definition": "Si tu m'avais appelé, je t'aurais aidé.",
+    "example": "same pattern, both halves in the past"
+  },
+  {
+    "id": 83,
+    "term": "She would have passed if she had studied more.",
+    "definition": "Elle aurait réussi si elle avait plus étudié.",
+    "example": "conditionnel passé + plus-que-parfait, order flipped"
+  },
+  {
+    "id": 84,
+    "term": "We wouldn't have been late if we had left earlier.",
+    "definition": "Nous ne serions pas arrivés en retard si nous étions partis plus tôt.",
+    "example": "plural: serions arrivés...si étions partis"
+  },
+  {
+    "id": 85,
+    "term": "I have twenty-two books on this shelf.",
+    "definition": "J'ai vingt-deux livres sur cette étagère.",
+    "example": "compound numbers just fuse together: vingt-deux"
+  },
+  {
+    "id": 86,
+    "term": "There are thirty-five students in this class.",
+    "definition": "Il y a trente-cinq élèves dans cette classe.",
+    "example": "same fused compound number: trente-cinq"
+  },
+  {
+    "id": 87,
+    "term": "I have been living here for eleven years.",
+    "definition": "J'habite ici depuis onze ans.",
+    "example": "present tense + 'depuis' for an action still going on"
+  },
+  {
+    "id": 88,
+    "term": "The building has one hundred rooms.",
+    "definition": "Le bâtiment a cent pièces.",
+    "example": "'cent' (100) needs no article before it"
+  },
+  {
+    "id": 89,
+    "term": "I paid two hundred euros for this.",
+    "definition": "J'ai payé deux cents euros pour ça.",
+    "example": "'cent' takes an 's' in the plural when it's the last word of the number: deux cents"
+  },
+  {
+    "id": 90,
+    "term": "Only one person answered correctly.",
+    "definition": "Une seule personne a répondu correctement.",
+    "example": "'une seule' (only one) behaves like a normal adjective"
+  },
+  {
+    "id": 91,
+    "term": "He passed the exam, which made his parents happy.",
+    "definition": "Il a réussi l'examen, ce qui a rendu ses parents heureux.",
+    "example": "'ce qui' refers to the whole fact of passing, not to a specific noun"
+  },
+  {
+    "id": 92,
+    "term": "She was late, which annoyed the teacher.",
+    "definition": "Elle était en retard, ce qui a agacé le professeur.",
+    "example": "same clause-referring 'ce qui'"
+  },
+  {
+    "id": 93,
+    "term": "This is the best restaurant of all the ones I know.",
+    "definition": "C'est le meilleur restaurant de tous ceux que je connais.",
+    "example": "'de tous ceux que' = 'of all the ones that'"
+  },
+  {
+    "id": 94,
+    "term": "He is the smartest of all my friends.",
+    "definition": "Il est le plus intelligent de tous mes amis.",
+    "example": "'de tous' + plural"
+  },
+  {
+    "id": 95,
+    "term": "To be honest, I don't understand this.",
+    "definition": "Pour être honnête, je ne comprends pas ça.",
+    "example": "'pour être honnête' — an infinitive phrase, like English '-ly speaking'"
+  },
+  {
+    "id": 96,
+    "term": "Generally speaking, the weather here is nice.",
+    "definition": "En général, le temps ici est agréable.",
+    "example": "'en général' = generally speaking"
+  },
+  {
+    "id": 97,
+    "term": "As far as I know, the shop is closed today.",
+    "definition": "Autant que je sache, le magasin est fermé aujourd'hui.",
+    "example": "'autant que je sache' — a fixed phrase that itself uses the subjonctif: sache"
+  },
+  {
+    "id": 98,
+    "term": "In my opinion, this is the right decision.",
+    "definition": "À mon avis, c'est la bonne décision.",
+    "example": "'à mon avis' = in my opinion"
+  },
+  {
+    "id": 99,
+    "term": "All things considered, it went well.",
+    "definition": "Tout bien considéré, ça s'est bien passé.",
+    "example": "'tout bien considéré' = all things considered"
+  },
+  {
+    "id": 100,
+    "term": "In the end, everything turned out fine.",
+    "definition": "Finalement, tout s'est bien terminé.",
+    "example": "'finalement' = in the end"
+  }
+];
+window.QM_PHRASES_FR_DATA = [
+  {
+    "id": 1,
+    "term": "Good morning!",
+    "definition": "Bonjour!",
+    "example": "used all day until evening"
+  },
+  {
+    "id": 2,
+    "term": "Good evening!",
+    "definition": "Bonsoir!",
+    "example": "takes over from 'bonjour' in the evening"
+  },
+  {
+    "id": 3,
+    "term": "Good night!",
+    "definition": "Bonne nuit!",
+    "example": "said when parting for the night, not as a greeting"
+  },
+  {
+    "id": 4,
+    "term": "Hi! (informal)",
+    "definition": "Salut!",
+    "example": "informal only — use bonjour with strangers or formally"
+  },
+  {
+    "id": 5,
+    "term": "How are you?",
+    "definition": "Comment vas-tu?",
+    "example": "informal, to one person"
+  },
+  {
+    "id": 6,
+    "term": "I'm fine, thanks. And you?",
+    "definition": "Ça va bien, merci. Et toi?",
+    "example": "the standard reply"
+  },
+  {
+    "id": 7,
+    "term": "Long time no see!",
+    "definition": "Ça fait longtemps!",
+    "example": "said on meeting someone after a while"
+  },
+  {
+    "id": 8,
+    "term": "Welcome!",
+    "definition": "Bienvenue!",
+    "example": "invariable — same word for one person or a group"
+  },
+  {
+    "id": 9,
+    "term": "Nice to see you again.",
+    "definition": "Content de te revoir.",
+    "example": "warmer/more personal than a plain greeting"
+  },
+  {
+    "id": 10,
+    "term": "What's up? (very informal)",
+    "definition": "Quoi de neuf?",
+    "example": "casual, among friends"
+  },
+  {
+    "id": 11,
+    "term": "Goodbye!",
+    "definition": "Au revoir!",
+    "example": "the standard, neutral goodbye"
+  },
+  {
+    "id": 12,
+    "term": "See you later!",
+    "definition": "À plus tard!",
+    "example": "when you'll meet again the same day"
+  },
+  {
+    "id": 13,
+    "term": "See you tomorrow!",
+    "definition": "À demain!",
+    "example": "specifies when you'll meet again"
+  },
+  {
+    "id": 14,
+    "term": "Take care!",
+    "definition": "Prends soin de toi!",
+    "example": "casual parting phrase between friends"
+  },
+  {
+    "id": 15,
+    "term": "Have a good day!",
+    "definition": "Bonne journée!",
+    "example": "a very common parting phrase"
+  },
+  {
+    "id": 16,
+    "term": "Bye! (informal)",
+    "definition": "À plus!",
+    "example": "the casual short form of 'à plus tard'"
+  },
+  {
+    "id": 17,
+    "term": "Until next time!",
+    "definition": "À la prochaine!",
+    "example": "when you don't know exactly when you'll meet again"
+  },
+  {
+    "id": 18,
+    "term": "Have a safe trip!",
+    "definition": "Bon voyage!",
+    "example": "said to someone setting off on a journey"
+  },
+  {
+    "id": 19,
+    "term": "Good night, sleep well.",
+    "definition": "Bonne nuit, dors bien.",
+    "example": "a warmer version of a plain 'bonne nuit'"
+  },
+  {
+    "id": 20,
+    "term": "Take care of yourself.",
+    "definition": "Prends bien soin de toi.",
+    "example": "more caring/sincere than the casual #14"
+  },
+  {
+    "id": 21,
+    "term": "Please.",
+    "definition": "S'il te plaît.",
+    "example": "informal; 's'il vous plaît' for formal or plural"
+  },
+  {
+    "id": 22,
+    "term": "Thank you.",
+    "definition": "Merci.",
+    "example": "the standard thank-you"
+  },
+  {
+    "id": 23,
+    "term": "Thank you very much.",
+    "definition": "Merci beaucoup.",
+    "example": "'beaucoup' intensifies it"
+  },
+  {
+    "id": 24,
+    "term": "You're welcome.",
+    "definition": "De rien.",
+    "example": "literally 'of nothing' — the casual reply to merci"
+  },
+  {
+    "id": 25,
+    "term": "No problem.",
+    "definition": "Pas de problème.",
+    "example": "casual response to thanks or an apology"
+  },
+  {
+    "id": 26,
+    "term": "Excuse me.",
+    "definition": "Excuse-moi.",
+    "example": "informal; 'excusez-moi' for formal or plural"
+  },
+  {
+    "id": 27,
+    "term": "I'm really sorry.",
+    "definition": "Je suis vraiment désolé.",
+    "example": "'vraiment' (really) intensifies 'désolé'"
+  },
+  {
+    "id": 28,
+    "term": "Pardon? (didn't hear)",
+    "definition": "Pardon?",
+    "example": "the everyday way to ask someone to repeat themselves"
+  },
+  {
+    "id": 29,
+    "term": "No worries.",
+    "definition": "T'inquiète.",
+    "example": "very casual, short for 'ne t'inquiète pas'"
+  },
+  {
+    "id": 30,
+    "term": "It's my pleasure.",
+    "definition": "C'est un plaisir.",
+    "example": "a more formal reply than 'de rien'"
+  },
+  {
+    "id": 31,
+    "term": "My name is Anna.",
+    "definition": "Je m'appelle Anna.",
+    "example": "reflexive 's'appeler' — literally 'I call myself Anna'"
+  },
+  {
+    "id": 32,
+    "term": "Nice to meet you.",
+    "definition": "Enchanté.",
+    "example": "said on a first meeting; 'enchantée' if a woman is speaking"
+  },
+  {
+    "id": 33,
+    "term": "This is my friend Marco.",
+    "definition": "Voici mon ami Marco.",
+    "example": "'voici' (here is) — the standard way to introduce someone"
+  },
+  {
+    "id": 34,
+    "term": "Where are you from?",
+    "definition": "D'où viens-tu?",
+    "example": "common small-talk opener"
+  },
+  {
+    "id": 35,
+    "term": "I'm from England.",
+    "definition": "Je viens d'Angleterre.",
+    "example": "'venir de' (come from)"
+  },
+  {
+    "id": 36,
+    "term": "What do you do for a living?",
+    "definition": "Qu'est-ce que tu fais dans la vie?",
+    "example": "literally 'what do you do in life'"
+  },
+  {
+    "id": 37,
+    "term": "I'm a student.",
+    "definition": "Je suis étudiant.",
+    "example": "no article for a profession"
+  },
+  {
+    "id": 38,
+    "term": "Likewise!",
+    "definition": "Moi de même!",
+    "example": "reply to a compliment or well-wish, meaning 'same to you'"
+  },
+  {
+    "id": 39,
+    "term": "It was nice meeting you.",
+    "definition": "C'était un plaisir de te rencontrer.",
+    "example": "said when parting after a first meeting"
+  },
+  {
+    "id": 40,
+    "term": "Let's keep in touch.",
+    "definition": "Restons en contact.",
+    "example": "1st person plural imperative: restons"
+  },
+  {
+    "id": 41,
+    "term": "Happy birthday!",
+    "definition": "Joyeux anniversaire!",
+    "example": "the standard birthday wish"
+  },
+  {
+    "id": 42,
+    "term": "Congratulations!",
+    "definition": "Félicitations!",
+    "example": "for any achievement"
+  },
+  {
+    "id": 43,
+    "term": "Good luck!",
+    "definition": "Bonne chance!",
+    "example": "before an exam, interview, or any attempt at something"
+  },
+  {
+    "id": 44,
+    "term": "Best wishes!",
+    "definition": "Meilleurs vœux!",
+    "example": "a general well-wish, often written on cards"
+  },
+  {
+    "id": 45,
+    "term": "Get well soon!",
+    "definition": "Bon rétablissement!",
+    "example": "literally 'good recovery'"
+  },
+  {
+    "id": 46,
+    "term": "Happy New Year!",
+    "definition": "Bonne année!",
+    "example": "the standard New Year wish"
+  },
+  {
+    "id": 47,
+    "term": "Merry Christmas!",
+    "definition": "Joyeux Noël!",
+    "example": "the standard Christmas wish"
+  },
+  {
+    "id": 48,
+    "term": "Cheers! (a toast)",
+    "definition": "Santé!",
+    "example": "literally 'health' — raised when drinking together"
+  },
+  {
+    "id": 49,
+    "term": "Have fun!",
+    "definition": "Amuse-toi bien!",
+    "example": "informal imperative of 's'amuser' (have fun)"
+  },
+  {
+    "id": 50,
+    "term": "Enjoy your meal!",
+    "definition": "Bon appétit!",
+    "example": "said before eating — famously borrowed into English too"
+  },
+  {
+    "id": 51,
+    "term": "Can you help me, please?",
+    "definition": "Peux-tu m'aider, s'il te plaît?",
+    "example": "object pronoun attaches to the infinitive: m'aider"
+  },
+  {
+    "id": 52,
+    "term": "I need help.",
+    "definition": "J'ai besoin d'aide.",
+    "example": "'avoir besoin de' (to need)"
+  },
+  {
+    "id": 53,
+    "term": "Where is the bathroom?",
+    "definition": "Où sont les toilettes?",
+    "example": "'les toilettes' — always plural in French"
+  },
+  {
+    "id": 54,
+    "term": "How much does this cost?",
+    "definition": "Combien ça coûte?",
+    "example": "'combien' (how much) + coûter"
+  },
+  {
+    "id": 55,
+    "term": "Do you have this in another color?",
+    "definition": "Avez-vous ça dans une autre couleur?",
+    "example": "formal 'vous', typical in a shop"
+  },
+  {
+    "id": 56,
+    "term": "Can I have the bill, please?",
+    "definition": "Puis-je avoir l'addition, s'il vous plaît?",
+    "example": "'l'addition' — the specific French word for a restaurant bill"
+  },
+  {
+    "id": 57,
+    "term": "One moment, please.",
+    "definition": "Un instant, s'il vous plaît.",
+    "example": "simple and universally understood"
+  },
+  {
+    "id": 58,
+    "term": "Could you repeat that?",
+    "definition": "Peux-tu répéter?",
+    "example": "polite request with 'pouvoir'"
+  },
+  {
+    "id": 59,
+    "term": "I don't understand.",
+    "definition": "Je ne comprends pas.",
+    "example": "simple negation of comprendre"
+  },
+  {
+    "id": 60,
+    "term": "Could you speak more slowly?",
+    "definition": "Peux-tu parler plus lentement?",
+    "example": "comparative adverb: lentement → plus lentement"
+  },
+  {
+    "id": 61,
+    "term": "I agree.",
+    "definition": "Je suis d'accord.",
+    "example": "'être d'accord' — literally 'to be in agreement'"
+  },
+  {
+    "id": 62,
+    "term": "I don't agree.",
+    "definition": "Je ne suis pas d'accord.",
+    "example": "negated version"
+  },
+  {
+    "id": 63,
+    "term": "That's true.",
+    "definition": "C'est vrai.",
+    "example": "simple identity statement"
+  },
+  {
+    "id": 64,
+    "term": "That's not true.",
+    "definition": "Ce n'est pas vrai.",
+    "example": "negated"
+  },
+  {
+    "id": 65,
+    "term": "I think so.",
+    "definition": "Je pense que oui.",
+    "example": "'penser que' + oui/non — a fixed pattern"
+  },
+  {
+    "id": 66,
+    "term": "I don't think so.",
+    "definition": "Je pense que non.",
+    "example": "same pattern, negated"
+  },
+  {
+    "id": 67,
+    "term": "Sounds good.",
+    "definition": "Ça marche!",
+    "example": "literally 'that works' — the everyday way to agree to a plan"
+  },
+  {
+    "id": 68,
+    "term": "No way!",
+    "definition": "Pas question!",
+    "example": "a firm refusal or disbelief"
+  },
+  {
+    "id": 69,
+    "term": "Of course!",
+    "definition": "Bien sûr!",
+    "example": "enthusiastic agreement"
+  },
+  {
+    "id": 70,
+    "term": "Maybe.",
+    "definition": "Peut-être.",
+    "example": "a single-word hedge"
+  },
+  {
+    "id": 71,
+    "term": "Really?",
+    "definition": "Vraiment?",
+    "example": "expressing surprise or asking for confirmation"
+  },
+  {
+    "id": 72,
+    "term": "Wow!",
+    "definition": "Wahou!",
+    "example": "the French spelling of the same exclamation"
+  },
+  {
+    "id": 73,
+    "term": "That's great!",
+    "definition": "C'est génial!",
+    "example": "enthusiastic reaction"
+  },
+  {
+    "id": 74,
+    "term": "I'm sorry to hear that.",
+    "definition": "Je suis désolé d'entendre ça.",
+    "example": "expressing sympathy, not an apology"
+  },
+  {
+    "id": 75,
+    "term": "What a shame.",
+    "definition": "Quel dommage.",
+    "example": "'quel' (what a) + noun, exclamatory"
+  },
+  {
+    "id": 76,
+    "term": "Oh no!",
+    "definition": "Oh non!",
+    "example": "a simple exclamation of dismay"
+  },
+  {
+    "id": 77,
+    "term": "Exactly!",
+    "definition": "Exactement!",
+    "example": "strong agreement"
+  },
+  {
+    "id": 78,
+    "term": "I see.",
+    "definition": "Je vois.",
+    "example": "used as a filler acknowledging what was said"
+  },
+  {
+    "id": 79,
+    "term": "That makes sense.",
+    "definition": "Ça a du sens.",
+    "example": "'avoir du sens' (to have sense/make sense)"
+  },
+  {
+    "id": 80,
+    "term": "That's interesting.",
+    "definition": "C'est intéressant.",
+    "example": "'intéressant' looks the same for any gender"
+  },
+  {
+    "id": 81,
+    "term": "Hello? (on the phone)",
+    "definition": "Allô?",
+    "example": "only used answering the phone — never a face-to-face greeting"
+  },
+  {
+    "id": 82,
+    "term": "Who's calling?",
+    "definition": "Qui est à l'appareil?",
+    "example": "literally 'who's on the device' — the standard phone phrase"
+  },
+  {
+    "id": 83,
+    "term": "Can I call you back?",
+    "definition": "Puis-je te rappeler?",
+    "example": "'rappeler' — a single verb for 'call back'"
+  },
+  {
+    "id": 84,
+    "term": "It was nice talking to you.",
+    "definition": "C'était sympa de parler avec toi.",
+    "example": "'sympa' — the everyday colloquial word for 'nice'"
+  },
+  {
+    "id": 85,
+    "term": "See you at the party!",
+    "definition": "On se voit à la fête!",
+    "example": "'on se voit' — casual 'see you'"
+  },
+  {
+    "id": 86,
+    "term": "I'll text you.",
+    "definition": "Je vais t'envoyer un message.",
+    "example": "literally 'I'm going to send you a message' — how French says 'text'"
+  },
+  {
+    "id": 87,
+    "term": "Take it easy!",
+    "definition": "Vas-y doucement!",
+    "example": "literally 'go there gently'"
+  },
+  {
+    "id": 88,
+    "term": "All the best!",
+    "definition": "Portez-vous bien!",
+    "example": "literally 'carry yourselves well' — a formal-ish farewell wish"
+  },
+  {
+    "id": 89,
+    "term": "I'll be right there.",
+    "definition": "J'arrive tout de suite.",
+    "example": "present tense standing in for 'I'll arrive right away'"
+  },
+  {
+    "id": 90,
+    "term": "I'm on my way.",
+    "definition": "Je suis en route.",
+    "example": "'en route' = on the way"
+  },
+  {
+    "id": 91,
+    "term": "Watch out!",
+    "definition": "Attention!",
+    "example": "a sharp warning, one word"
+  },
+  {
+    "id": 92,
+    "term": "No rush.",
+    "definition": "Rien ne presse.",
+    "example": "literally 'nothing is urgent'"
+  },
+  {
+    "id": 93,
+    "term": "After you.",
+    "definition": "Après toi.",
+    "example": "letting someone go first"
+  },
+  {
+    "id": 94,
+    "term": "Make yourself at home.",
+    "definition": "Fais comme chez toi.",
+    "example": "literally 'do as if at your place'"
+  },
+  {
+    "id": 95,
+    "term": "It's on me. (paying)",
+    "definition": "C'est moi qui invite.",
+    "example": "literally 'it's me who's inviting/treating'"
+  },
+  {
+    "id": 96,
+    "term": "Let's go!",
+    "definition": "Allons-y!",
+    "example": "the 'nous' imperative + 'y' — same as Lower Intermediate's #85"
+  },
+  {
+    "id": 97,
+    "term": "Welcome home!",
+    "definition": "Bon retour!",
+    "example": "literally 'good return' — said when someone comes home"
+  },
+  {
+    "id": 98,
+    "term": "Get home safe!",
+    "definition": "Rentre bien!",
+    "example": "idiomatic 'get home well/safely'"
+  },
+  {
+    "id": 99,
+    "term": "I'm looking forward to it.",
+    "definition": "J'ai hâte.",
+    "example": "idiomatic: 'avoir hâte' (be eager/looking forward)"
+  },
+  {
+    "id": 100,
+    "term": "Thanks for everything.",
+    "definition": "Merci pour tout.",
+    "example": "'merci pour' + noun"
+  }
+];
+window.QM_SENTENCES_DE_UPPERBEGINNER_DATA = [
+  {
+    "id": 1,
+    "term": "My father is a farmer.",
+    "definition": "Mein Vater ist Landwirt.",
+    "example": "no article before an unmodified profession after 'sein'"
+  },
+  {
+    "id": 2,
+    "term": "My mother is a teacher.",
+    "definition": "Meine Mutter ist Lehrerin.",
+    "example": "feminine profession suffix: -in"
+  },
+  {
+    "id": 3,
+    "term": "I have two brothers and one sister.",
+    "definition": "Ich habe zwei Brüder und eine Schwester.",
+    "example": "accusative object of haben"
+  },
+  {
+    "id": 4,
+    "term": "My grandmother lives with us.",
+    "definition": "Meine Großmutter wohnt bei uns.",
+    "example": "'bei' (with) + dative: wir → uns"
+  },
+  {
+    "id": 5,
+    "term": "Our family is very big.",
+    "definition": "Unsere Familie ist sehr groß.",
+    "example": "'unsere' agrees feminine with Familie"
+  },
+  {
+    "id": 6,
+    "term": "My son is five years old.",
+    "definition": "Mein Sohn ist fünf Jahre alt.",
+    "example": "German uses 'sein' (not 'haben') for age: ist...alt"
+  },
+  {
+    "id": 7,
+    "term": "My daughter likes to draw.",
+    "definition": "Meine Tochter zeichnet gern.",
+    "example": "'gern' (gladly) turns any verb into 'like to...' — no separate verb needed"
+  },
+  {
+    "id": 8,
+    "term": "We have a small dog and a big cat.",
+    "definition": "Wir haben einen kleinen Hund und eine große Katze.",
+    "example": "accusative adjective ending: einen kleinen Hund"
+  },
+  {
+    "id": 9,
+    "term": "My parents are on vacation.",
+    "definition": "Meine Eltern sind im Urlaub.",
+    "example": "'im' = in + dem, contracted"
+  },
+  {
+    "id": 10,
+    "term": "My best friend has three children.",
+    "definition": "Mein bester Freund hat drei Kinder.",
+    "example": "'bester' (best) sits before the noun"
+  },
+  {
+    "id": 11,
+    "term": "I wake up early on Mondays.",
+    "definition": "Ich stehe montags früh auf.",
+    "example": "'montags' (on Mondays) is its own adverb; separable verb aufstehen splits"
+  },
+  {
+    "id": 12,
+    "term": "On Saturdays, I sleep late.",
+    "definition": "Samstags schlafe ich lange.",
+    "example": "same day-adverb pattern: samstags"
+  },
+  {
+    "id": 13,
+    "term": "Today is Tuesday.",
+    "definition": "Heute ist Dienstag.",
+    "example": "day names need no article"
+  },
+  {
+    "id": 14,
+    "term": "Tomorrow is my birthday.",
+    "definition": "Morgen ist mein Geburtstag.",
+    "example": "same simple pattern"
+  },
+  {
+    "id": 15,
+    "term": "Yesterday was a busy day.",
+    "definition": "Gestern war ein anstrengender Tag.",
+    "example": "simple past of sein: war"
+  },
+  {
+    "id": 16,
+    "term": "In the morning, I drink coffee.",
+    "definition": "Morgens trinke ich Kaffee.",
+    "example": "'morgens' (in the morning) is its own adverb"
+  },
+  {
+    "id": 17,
+    "term": "In the evening, we watch television.",
+    "definition": "Abends sehen wir fern.",
+    "example": "separable verb 'fernsehen' splits: sehen...fern"
+  },
+  {
+    "id": 18,
+    "term": "At night, I read a book.",
+    "definition": "Nachts lese ich ein Buch.",
+    "example": "'nachts' (at night)"
+  },
+  {
+    "id": 19,
+    "term": "This afternoon, I have a meeting.",
+    "definition": "Heute Nachmittag habe ich ein Meeting.",
+    "example": "'heute Nachmittag' (this afternoon)"
+  },
+  {
+    "id": 20,
+    "term": "Every weekend, we visit my parents.",
+    "definition": "Jedes Wochenende besuchen wir meine Eltern.",
+    "example": "'besuchen' (visit) + accusative"
+  },
+  {
+    "id": 21,
+    "term": "I would like a glass of water.",
+    "definition": "Ich hätte gern ein Glas Wasser.",
+    "example": "'hätte gern' — the polite way to say 'would like'"
+  },
+  {
+    "id": 22,
+    "term": "Can I have the menu, please?",
+    "definition": "Kann ich bitte die Speisekarte haben?",
+    "example": "'können' + haben"
+  },
+  {
+    "id": 23,
+    "term": "This soup is delicious.",
+    "definition": "Diese Suppe ist lecker.",
+    "example": "'diese' agrees feminine with Suppe"
+  },
+  {
+    "id": 24,
+    "term": "I don't eat meat.",
+    "definition": "Ich esse kein Fleisch.",
+    "example": "'kein' negates the indefinite/generic object"
+  },
+  {
+    "id": 25,
+    "term": "She likes sweet food.",
+    "definition": "Sie mag süßes Essen.",
+    "example": "'mögen' + accusative"
+  },
+  {
+    "id": 26,
+    "term": "We are having pizza for dinner.",
+    "definition": "Wir essen Pizza zum Abendessen.",
+    "example": "'zum' = zu + dem"
+  },
+  {
+    "id": 27,
+    "term": "The bread is fresh.",
+    "definition": "Das Brot ist frisch.",
+    "example": "adjective, neuter subject: frisch (invariable as predicate)"
+  },
+  {
+    "id": 28,
+    "term": "I usually drink tea, not coffee.",
+    "definition": "Normalerweise trinke ich Tee, keinen Kaffee.",
+    "example": "'kein' again, accusative: keinen Kaffee"
+  },
+  {
+    "id": 29,
+    "term": "This restaurant is very popular.",
+    "definition": "Dieses Restaurant ist sehr beliebt.",
+    "example": "'dieses' agrees neuter with Restaurant"
+  },
+  {
+    "id": 30,
+    "term": "The food here is cheap.",
+    "definition": "Das Essen hier ist billig.",
+    "example": "simple predicate adjective"
+  },
+  {
+    "id": 31,
+    "term": "It is sunny today.",
+    "definition": "Heute ist es sonnig.",
+    "example": "'es ist' + weather adjective"
+  },
+  {
+    "id": 32,
+    "term": "It is raining outside.",
+    "definition": "Draußen regnet es.",
+    "example": "'regnen' (to rain) — impersonal 'es' as the only subject"
+  },
+  {
+    "id": 33,
+    "term": "It is very windy.",
+    "definition": "Es ist sehr windig.",
+    "example": "same 'es ist' pattern"
+  },
+  {
+    "id": 34,
+    "term": "It is snowing in the mountains.",
+    "definition": "In den Bergen schneit es.",
+    "example": "'schneien' (to snow), impersonal like regnen"
+  },
+  {
+    "id": 35,
+    "term": "The weather is nice this week.",
+    "definition": "Das Wetter ist diese Woche schön.",
+    "example": "'das Wetter' = the weather, as the real subject"
+  },
+  {
+    "id": 36,
+    "term": "It is cloudy this morning.",
+    "definition": "Heute Morgen ist es bewölkt.",
+    "example": "same 'es ist' weather pattern"
+  },
+  {
+    "id": 37,
+    "term": "It is hot in the summer.",
+    "definition": "Im Sommer ist es heiß.",
+    "example": "'im Sommer' (in summer) + es ist heiß"
+  },
+  {
+    "id": 38,
+    "term": "It is cold in the winter.",
+    "definition": "Im Winter ist es kalt.",
+    "example": "same pattern for winter"
+  },
+  {
+    "id": 39,
+    "term": "There is a storm coming.",
+    "definition": "Ein Sturm zieht auf.",
+    "example": "separable verb 'aufziehen', used idiomatically for weather approaching"
+  },
+  {
+    "id": 40,
+    "term": "The sky is blue today.",
+    "definition": "Der Himmel ist heute blau.",
+    "example": "simple predicate adjective"
+  },
+  {
+    "id": 41,
+    "term": "I visited my grandparents last week.",
+    "definition": "Ich habe letzte Woche meine Großeltern besucht.",
+    "example": "perfect tense: habe...besucht, participle at the end"
+  },
+  {
+    "id": 42,
+    "term": "We watched a good movie yesterday.",
+    "definition": "Wir haben gestern einen guten Film gesehen.",
+    "example": "perfect: haben...gesehen"
+  },
+  {
+    "id": 43,
+    "term": "She cooked dinner for us.",
+    "definition": "Sie hat uns das Abendessen gekocht.",
+    "example": "'uns' (for us) — dative, placed mid-sentence"
+  },
+  {
+    "id": 44,
+    "term": "They traveled to Spain last summer.",
+    "definition": "Sie sind letzten Sommer nach Spanien gereist.",
+    "example": "'reisen' is a motion verb, so the perfect takes 'sein': sind...gereist"
+  },
+  {
+    "id": 45,
+    "term": "I finished my homework early.",
+    "definition": "Ich habe meine Hausaufgaben früh beendet.",
+    "example": "perfect: habe...beendet"
+  },
+  {
+    "id": 46,
+    "term": "He bought a new car.",
+    "definition": "Er hat ein neues Auto gekauft.",
+    "example": "perfect: hat...gekauft"
+  },
+  {
+    "id": 47,
+    "term": "We walked to the park.",
+    "definition": "Wir sind zum Park gelaufen.",
+    "example": "'laufen' toward a destination also takes 'sein': sind...gelaufen"
+  },
+  {
+    "id": 48,
+    "term": "I called my friend this morning.",
+    "definition": "Ich habe heute Morgen meinen Freund angerufen.",
+    "example": "separable verb 'anrufen' in the perfect: an + gerufen → angerufen"
+  },
+  {
+    "id": 49,
+    "term": "She sold her old bicycle.",
+    "definition": "Sie hat ihr altes Fahrrad verkauft.",
+    "example": "perfect: hat...verkauft"
+  },
+  {
+    "id": 50,
+    "term": "We celebrated his birthday together.",
+    "definition": "Wir haben zusammen seinen Geburtstag gefeiert.",
+    "example": "perfect: haben...gefeiert"
+  },
+  {
+    "id": 51,
+    "term": "I am going to visit my aunt.",
+    "definition": "Ich werde meine Tante besuchen.",
+    "example": "future: werden + infinitive at the end"
+  },
+  {
+    "id": 52,
+    "term": "We are going to have a party.",
+    "definition": "Wir werden eine Party machen.",
+    "example": "werden...machen"
+  },
+  {
+    "id": 53,
+    "term": "She is going to start a new job.",
+    "definition": "Sie wird einen neuen Job anfangen.",
+    "example": "wird...anfangen"
+  },
+  {
+    "id": 54,
+    "term": "They are going to move to a new city.",
+    "definition": "Sie werden in eine neue Stadt ziehen.",
+    "example": "werden...ziehen"
+  },
+  {
+    "id": 55,
+    "term": "I am going to buy a new phone.",
+    "definition": "Ich werde ein neues Handy kaufen.",
+    "example": "werde...kaufen"
+  },
+  {
+    "id": 56,
+    "term": "He is going to learn to swim.",
+    "definition": "Er wird schwimmen lernen.",
+    "example": "wird...lernen"
+  },
+  {
+    "id": 57,
+    "term": "We are going to travel next month.",
+    "definition": "Wir werden nächsten Monat verreisen.",
+    "example": "werden...verreisen"
+  },
+  {
+    "id": 58,
+    "term": "I am going to cook dinner tonight.",
+    "definition": "Ich werde heute Abend kochen.",
+    "example": "werde...kochen"
+  },
+  {
+    "id": 59,
+    "term": "She is going to call you later.",
+    "definition": "Sie wird dich später anrufen.",
+    "example": "wird...anrufen; accusative 'dich'"
+  },
+  {
+    "id": 60,
+    "term": "They are going to arrive tomorrow.",
+    "definition": "Sie werden morgen ankommen.",
+    "example": "werden...ankommen"
+  },
+  {
+    "id": 61,
+    "term": "I like coffee and tea.",
+    "definition": "Ich mag Kaffee und Tee.",
+    "example": "'und' = and"
+  },
+  {
+    "id": 62,
+    "term": "She is smart and kind.",
+    "definition": "Sie ist klug und freundlich.",
+    "example": "'und' joining two adjectives"
+  },
+  {
+    "id": 63,
+    "term": "I want to go, but I am tired.",
+    "definition": "Ich will gehen, aber ich bin müde.",
+    "example": "'aber' = but"
+  },
+  {
+    "id": 64,
+    "term": "He is tall, but his brother is short.",
+    "definition": "Er ist groß, aber sein Bruder ist klein.",
+    "example": "'aber' contrasting two people"
+  },
+  {
+    "id": 65,
+    "term": "Do you want tea or coffee?",
+    "definition": "Willst du Tee oder Kaffee?",
+    "example": "'oder' = or"
+  },
+  {
+    "id": 66,
+    "term": "You can call me or send a message.",
+    "definition": "Du kannst mich anrufen oder eine Nachricht schicken.",
+    "example": "'oder' linking two actions"
+  },
+  {
+    "id": 67,
+    "term": "I stayed home because it was raining.",
+    "definition": "Ich bin zu Hause geblieben, weil es geregnet hat.",
+    "example": "'weil' sends the verb to the very END of its clause: geregnet hat"
+  },
+  {
+    "id": 68,
+    "term": "She was late because of the traffic.",
+    "definition": "Sie kam wegen des Verkehrs zu spät.",
+    "example": "'wegen' (because of) + genitive: der Verkehr → des Verkehrs"
+  },
+  {
+    "id": 69,
+    "term": "I am happy because I passed the test.",
+    "definition": "Ich bin glücklich, weil ich den Test bestanden habe.",
+    "example": "'weil' again, verb-final: bestanden habe"
+  },
+  {
+    "id": 70,
+    "term": "He is tired because he worked all day.",
+    "definition": "Er ist müde, weil er den ganzen Tag gearbeitet hat.",
+    "example": "same verb-final 'weil' pattern"
+  },
+  {
+    "id": 71,
+    "term": "The bank is near the school.",
+    "definition": "Die Bank ist in der Nähe der Schule.",
+    "example": "'in der Nähe' (near) + genitive: der Schule"
+  },
+  {
+    "id": 72,
+    "term": "The park is far from here.",
+    "definition": "Der Park ist weit von hier.",
+    "example": "'weit von' = far from"
+  },
+  {
+    "id": 73,
+    "term": "Turn left at the corner.",
+    "definition": "Biegen Sie an der Ecke links ab.",
+    "example": "formal imperative; separable verb 'abbiegen' splits"
+  },
+  {
+    "id": 74,
+    "term": "Turn right at the traffic light.",
+    "definition": "Biegen Sie an der Ampel rechts ab.",
+    "example": "same separable verb pattern"
+  },
+  {
+    "id": 75,
+    "term": "Go straight ahead.",
+    "definition": "Gehen Sie geradeaus.",
+    "example": "'geradeaus' = straight ahead"
+  },
+  {
+    "id": 76,
+    "term": "The hospital is next to the church.",
+    "definition": "Das Krankenhaus ist neben der Kirche.",
+    "example": "'neben' (next to) + dative for a fixed location"
+  },
+  {
+    "id": 77,
+    "term": "The store is across from the hotel.",
+    "definition": "Das Geschäft ist gegenüber dem Hotel.",
+    "example": "'gegenüber' (across from) + dative"
+  },
+  {
+    "id": 78,
+    "term": "It is behind the building.",
+    "definition": "Es ist hinter dem Gebäude.",
+    "example": "'hinter' (behind) + dative"
+  },
+  {
+    "id": 79,
+    "term": "It is in front of the station.",
+    "definition": "Es ist vor dem Bahnhof.",
+    "example": "'vor' (in front of) + dative"
+  },
+  {
+    "id": 80,
+    "term": "The bathroom is upstairs.",
+    "definition": "Die Toilette ist oben.",
+    "example": "'oben' = upstairs"
+  },
+  {
+    "id": 81,
+    "term": "The car is red.",
+    "definition": "Das Auto ist rot.",
+    "example": "simple predicate adjective"
+  },
+  {
+    "id": 82,
+    "term": "The house is white and big.",
+    "definition": "Das Haus ist weiß und groß.",
+    "example": "two predicate adjectives"
+  },
+  {
+    "id": 83,
+    "term": "This box is heavy.",
+    "definition": "Diese Kiste ist schwer.",
+    "example": "'diese' agrees feminine"
+  },
+  {
+    "id": 84,
+    "term": "That bag is light.",
+    "definition": "Diese Tasche ist leicht.",
+    "example": "same feminine agreement"
+  },
+  {
+    "id": 85,
+    "term": "The room is clean.",
+    "definition": "Das Zimmer ist sauber.",
+    "example": "predicate adjective"
+  },
+  {
+    "id": 86,
+    "term": "The street is dirty.",
+    "definition": "Die Straße ist schmutzig.",
+    "example": "predicate adjective"
+  },
+  {
+    "id": 87,
+    "term": "This road is long.",
+    "definition": "Diese Straße ist lang.",
+    "example": "predicate adjective"
+  },
+  {
+    "id": 88,
+    "term": "That path is short.",
+    "definition": "Dieser Weg ist kurz.",
+    "example": "'dieser' agrees masculine with Weg"
+  },
+  {
+    "id": 89,
+    "term": "The water is deep here.",
+    "definition": "Das Wasser ist hier tief.",
+    "example": "predicate adjective"
+  },
+  {
+    "id": 90,
+    "term": "This lake is shallow.",
+    "definition": "Dieser See ist flach.",
+    "example": "predicate adjective"
+  },
+  {
+    "id": 91,
+    "term": "I see her every day.",
+    "definition": "Ich sehe sie jeden Tag.",
+    "example": "'sie' (her) — the same form German uses for 'they', context tells them apart"
+  },
+  {
+    "id": 92,
+    "term": "He calls me every week.",
+    "definition": "Er ruft mich jede Woche an.",
+    "example": "separable verb: ruft...an; accusative pronoun 'mich'"
+  },
+  {
+    "id": 93,
+    "term": "We visit them on Sundays.",
+    "definition": "Wir besuchen sie sonntags.",
+    "example": "'sie' (them) — genuinely the same word as 'her' in #91, only context tells them apart"
+  },
+  {
+    "id": 94,
+    "term": "She waits for us at the station.",
+    "definition": "Sie wartet am Bahnhof auf uns.",
+    "example": "'warten auf' + accusative: uns"
+  },
+  {
+    "id": 95,
+    "term": "I don't see him here.",
+    "definition": "Ich sehe ihn hier nicht.",
+    "example": "accusative pronoun 'ihn' (him)"
+  },
+  {
+    "id": 96,
+    "term": "They know you well.",
+    "definition": "Sie kennen dich gut.",
+    "example": "accusative pronoun 'dich' (you)"
+  },
+  {
+    "id": 97,
+    "term": "Do you understand me?",
+    "definition": "Verstehst du mich?",
+    "example": "accusative pronoun 'mich' (me)"
+  },
+  {
+    "id": 98,
+    "term": "I love you very much.",
+    "definition": "Ich liebe dich sehr.",
+    "example": "accusative pronoun 'dich' again"
+  },
+  {
+    "id": 99,
+    "term": "Today's date is the fifth of August.",
+    "definition": "Heute ist der fünfte August.",
+    "example": "dates use an ordinal number: der fünfte"
+  },
+  {
+    "id": 100,
+    "term": "The number nine is my lucky number.",
+    "definition": "Die Neun ist meine Glückszahl.",
+    "example": "'Glückszahl' — a compound noun, literally 'luck-number'"
+  }
+];
+window.QM_SENTENCES_DE_LOWERINT_DATA = [
+  {
+    "id": 1,
+    "term": "I want to learn German.",
+    "definition": "Ich möchte Deutsch lernen.",
+    "example": "'möchte' — the polite form of 'wollen'"
+  },
+  {
+    "id": 2,
+    "term": "I can help you tomorrow.",
+    "definition": "Ich kann dir morgen helfen.",
+    "example": "'helfen' governs the DATIVE: dir"
+  },
+  {
+    "id": 3,
+    "term": "I must go now.",
+    "definition": "Ich muss jetzt gehen.",
+    "example": "'müssen' (must) + infinitive"
+  },
+  {
+    "id": 4,
+    "term": "You should rest.",
+    "definition": "Du solltest dich ausruhen.",
+    "example": "'sollen' in the conditional softens it into 'should': solltest"
+  },
+  {
+    "id": 5,
+    "term": "She should call her mother.",
+    "definition": "Sie sollte ihre Mutter anrufen.",
+    "example": "conditional, 3rd person: sollte"
+  },
+  {
+    "id": 6,
+    "term": "We want to visit Berlin.",
+    "definition": "Wir wollen Berlin besuchen.",
+    "example": "'wollen' plural + infinitive"
+  },
+  {
+    "id": 7,
+    "term": "They can't come today.",
+    "definition": "Sie können heute nicht kommen.",
+    "example": "negated modal: können...nicht"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to eat now.",
+    "definition": "Ich will jetzt nicht essen.",
+    "example": "negated 'wollen' + infinitive"
+  },
+  {
+    "id": 9,
+    "term": "Do you want some tea?",
+    "definition": "Möchtest du Tee?",
+    "example": "'möchten', polite, no extra word needed for the question"
+  },
+  {
+    "id": 10,
+    "term": "I would like to order a coffee.",
+    "definition": "Ich möchte einen Kaffee bestellen.",
+    "example": "'möchte' + infinitive"
+  },
+  {
+    "id": 11,
+    "term": "You have to be careful.",
+    "definition": "Du musst vorsichtig sein.",
+    "example": "'müssen' + infinitive"
+  },
+  {
+    "id": 12,
+    "term": "It's necessary to buy bread.",
+    "definition": "Man muss Brot kaufen.",
+    "example": "impersonal 'man' (one) + müssen"
+  },
+  {
+    "id": 13,
+    "term": "You can smoke here.",
+    "definition": "Man darf hier rauchen.",
+    "example": "'dürfen' — permission, not ability"
+  },
+  {
+    "id": 14,
+    "term": "You can't park here.",
+    "definition": "Man darf hier nicht parken.",
+    "example": "negated 'dürfen'"
+  },
+  {
+    "id": 15,
+    "term": "It's worth trying this soup.",
+    "definition": "Es lohnt sich, diese Suppe zu probieren.",
+    "example": "reflexive 'sich lohnen' (be worth it) + zu-infinitive"
+  },
+  {
+    "id": 16,
+    "term": "It's not necessary to hurry.",
+    "definition": "Man muss sich nicht beeilen.",
+    "example": "negated 'müssen' + reflexive infinitive"
+  },
+  {
+    "id": 17,
+    "term": "You shouldn't smoke.",
+    "definition": "Man sollte nicht rauchen.",
+    "example": "impersonal 'man' + negated 'sollen'"
+  },
+  {
+    "id": 18,
+    "term": "One has to work hard.",
+    "definition": "Man muss hart arbeiten.",
+    "example": "'man' + müssen + adverb"
+  },
+  {
+    "id": 19,
+    "term": "Everyone must follow the rules.",
+    "definition": "Jeder muss die Regeln befolgen.",
+    "example": "'jeder' (everyone) is grammatically singular: muss"
+  },
+  {
+    "id": 20,
+    "term": "I have to finish this today.",
+    "definition": "Ich muss das heute fertig machen.",
+    "example": "'müssen' + object 'das' + verb"
+  },
+  {
+    "id": 21,
+    "term": "I like this song.",
+    "definition": "Mir gefällt dieses Lied.",
+    "example": "'gefallen' works backwards: the song is the subject, 'mir' (to me) is who likes it"
+  },
+  {
+    "id": 22,
+    "term": "Do you like this city?",
+    "definition": "Gefällt dir diese Stadt?",
+    "example": "same backwards construction, dative 'dir'"
+  },
+  {
+    "id": 23,
+    "term": "We like this restaurant.",
+    "definition": "Uns gefällt dieses Restaurant.",
+    "example": "dative plural: uns"
+  },
+  {
+    "id": 24,
+    "term": "They don't like this idea.",
+    "definition": "Ihnen gefällt diese Idee nicht.",
+    "example": "dative 'ihnen' (to them), negated"
+  },
+  {
+    "id": 25,
+    "term": "My head hurts.",
+    "definition": "Mein Kopf tut weh.",
+    "example": "'wehtun' (hurt) — the body part is the grammatical subject"
+  },
+  {
+    "id": 26,
+    "term": "My legs hurt.",
+    "definition": "Meine Beine tun weh.",
+    "example": "plural subject, plural verb: tun"
+  },
+  {
+    "id": 27,
+    "term": "Does your stomach hurt?",
+    "definition": "Tut dir der Bauch weh?",
+    "example": "'dir' (to you) — dative experiencer"
+  },
+  {
+    "id": 28,
+    "term": "I feel sick.",
+    "definition": "Mir ist schlecht.",
+    "example": "dative construction: literally 'to me it is bad'"
+  },
+  {
+    "id": 29,
+    "term": "I am cold.",
+    "definition": "Mir ist kalt.",
+    "example": "dative 'mir' — NOT 'ich bin kalt', which would mean 'I am a cold person'"
+  },
+  {
+    "id": 30,
+    "term": "Are you hungry?",
+    "definition": "Hast du Hunger?",
+    "example": "'haben' + Hunger — a real noun, not an adjective"
+  },
+  {
+    "id": 31,
+    "term": "The more you practice, the better you speak.",
+    "definition": "Je mehr du übst, desto besser sprichst du.",
+    "example": "'je...desto' pairs two comparatives together"
+  },
+  {
+    "id": 32,
+    "term": "The sooner, the better.",
+    "definition": "Je früher, desto besser.",
+    "example": "same correlative, shortened"
+  },
+  {
+    "id": 33,
+    "term": "Both my sister and my brother live in Berlin.",
+    "definition": "Sowohl meine Schwester als auch mein Bruder wohnen in Berlin.",
+    "example": "'sowohl...als auch' = 'both...and'"
+  },
+  {
+    "id": 34,
+    "term": "I like neither tea nor coffee.",
+    "definition": "Ich mag weder Tee noch Kaffee.",
+    "example": "'weder...noch' = 'neither...nor'"
+  },
+  {
+    "id": 35,
+    "term": "This is the most beautiful city in Germany.",
+    "definition": "Das ist die schönste Stadt Deutschlands.",
+    "example": "superlative + genitive: Deutschlands"
+  },
+  {
+    "id": 36,
+    "term": "He is older than me.",
+    "definition": "Er ist älter als ich.",
+    "example": "comparative + 'als' (than)"
+  },
+  {
+    "id": 37,
+    "term": "This is worse than I thought.",
+    "definition": "Das ist schlimmer, als ich dachte.",
+    "example": "irregular-feeling comparative: schlimm → schlimmer"
+  },
+  {
+    "id": 38,
+    "term": "She sings better than he does.",
+    "definition": "Sie singt besser als er.",
+    "example": "irregular comparative: gut → besser"
+  },
+  {
+    "id": 39,
+    "term": "This task is easier than that one.",
+    "definition": "Diese Aufgabe ist leichter als jene.",
+    "example": "regular comparative: leicht → leichter"
+  },
+  {
+    "id": 40,
+    "term": "He runs the fastest on our team.",
+    "definition": "Er läuft am schnellsten in unserem Team.",
+    "example": "superlative adverb: am schnellsten"
+  },
+  {
+    "id": 41,
+    "term": "I think that this is a good idea.",
+    "definition": "Ich denke, dass das eine gute Idee ist.",
+    "example": "'dass' sends the verb to the very end of its clause: Idee ist"
+  },
+  {
+    "id": 42,
+    "term": "I know that you are right.",
+    "definition": "Ich weiß, dass du recht hast.",
+    "example": "'dass' + verb-final: recht hast"
+  },
+  {
+    "id": 43,
+    "term": "I hope that the weather will be nice.",
+    "definition": "Ich hoffe, dass das Wetter schön wird.",
+    "example": "'dass' + future, verb-final: schön wird"
+  },
+  {
+    "id": 44,
+    "term": "I am glad that you came.",
+    "definition": "Ich freue mich, dass du gekommen bist.",
+    "example": "'dass' + perfect, verb-final: gekommen bist"
+  },
+  {
+    "id": 45,
+    "term": "I don't think that it's true.",
+    "definition": "Ich glaube nicht, dass das wahr ist.",
+    "example": "'dass', verb-final: wahr ist"
+  },
+  {
+    "id": 46,
+    "term": "I am learning German because I want to live in Germany.",
+    "definition": "Ich lerne Deutsch, weil ich in Deutschland leben möchte.",
+    "example": "'weil' also sends the verb to the end: leben möchte"
+  },
+  {
+    "id": 47,
+    "term": "I can't come because I am sick.",
+    "definition": "Ich kann nicht kommen, weil ich krank bin.",
+    "example": "'weil', verb-final: krank bin"
+  },
+  {
+    "id": 48,
+    "term": "I am studying so that I can pass the exam.",
+    "definition": "Ich lerne, damit ich die Prüfung bestehen kann.",
+    "example": "'damit' (so that), verb-final: bestehen kann"
+  },
+  {
+    "id": 49,
+    "term": "Call me when you arrive.",
+    "definition": "Ruf mich an, wenn du ankommst.",
+    "example": "'wenn', verb-final: ankommst"
+  },
+  {
+    "id": 50,
+    "term": "If it rains, we will stay home.",
+    "definition": "Wenn es regnet, bleiben wir zu Hause.",
+    "example": "'wenn'-clause fronts; the main clause's verb comes right after it: bleiben wir"
+  },
+  {
+    "id": 51,
+    "term": "The woman who lives next door is a doctor.",
+    "definition": "Die Frau, die nebenan wohnt, ist Ärztin.",
+    "example": "'die' (who) as relative pronoun, verb pushed to the clause's end: wohnt"
+  },
+  {
+    "id": 52,
+    "term": "The man who called yesterday is my uncle.",
+    "definition": "Der Mann, der gestern angerufen hat, ist mein Onkel.",
+    "example": "'der' relative pronoun, masculine"
+  },
+  {
+    "id": 53,
+    "term": "The book that I am reading is very interesting.",
+    "definition": "Das Buch, das ich lese, ist sehr interessant.",
+    "example": "'das' — relative pronoun, neuter, as an object here"
+  },
+  {
+    "id": 54,
+    "term": "The children who play in the park are our neighbors.",
+    "definition": "Die Kinder, die im Park spielen, sind unsere Nachbarn.",
+    "example": "'die', plural relative pronoun"
+  },
+  {
+    "id": 55,
+    "term": "This is the house in which I grew up.",
+    "definition": "Das ist das Haus, in dem ich aufgewachsen bin.",
+    "example": "'in dem' (in which) — dative after a preposition"
+  },
+  {
+    "id": 56,
+    "term": "I don't remember the name of the street where we met.",
+    "definition": "Ich erinnere mich nicht an den Namen der Straße, wo wir uns getroffen haben.",
+    "example": "'wo' (where) for a place"
+  },
+  {
+    "id": 57,
+    "term": "The people whom I met were very friendly.",
+    "definition": "Die Leute, die ich getroffen habe, waren sehr freundlich.",
+    "example": "'die' relative pronoun as an object"
+  },
+  {
+    "id": 58,
+    "term": "This is the reason why I am late.",
+    "definition": "Das ist der Grund, warum ich zu spät bin.",
+    "example": "'warum' doubling as the relative word for 'why'"
+  },
+  {
+    "id": 59,
+    "term": "The car that broke down is mine.",
+    "definition": "Das Auto, das kaputtgegangen ist, gehört mir.",
+    "example": "'gehören' + dative = 'belongs to': gehört mir"
+  },
+  {
+    "id": 60,
+    "term": "I found the keys that I lost.",
+    "definition": "Ich habe die Schlüssel gefunden, die ich verloren hatte.",
+    "example": "'die' + the pluperfect-like 'hatte verloren' for something lost even earlier"
+  },
+  {
+    "id": 61,
+    "term": "The meeting starts at three o'clock.",
+    "definition": "Die Besprechung beginnt um drei Uhr.",
+    "example": "'um' + accusative for clock time"
+  },
+  {
+    "id": 62,
+    "term": "I usually wake up before seven.",
+    "definition": "Normalerweise wache ich vor sieben Uhr auf.",
+    "example": "'vor' (before) + a time"
+  },
+  {
+    "id": 63,
+    "term": "We will meet after the concert.",
+    "definition": "Wir treffen uns nach dem Konzert.",
+    "example": "'nach' (after) + dative"
+  },
+  {
+    "id": 64,
+    "term": "The shop is open from nine to six.",
+    "definition": "Das Geschäft ist von neun bis sechs geöffnet.",
+    "example": "'von...bis' (from...to)"
+  },
+  {
+    "id": 65,
+    "term": "I lived in Germany for three years.",
+    "definition": "Ich habe drei Jahre in Deutschland gelebt.",
+    "example": "the length of time just sits there, no preposition needed"
+  },
+  {
+    "id": 66,
+    "term": "I haven't seen him since last year.",
+    "definition": "Ich habe ihn seit letztem Jahr nicht gesehen.",
+    "example": "'seit' (since) + dative"
+  },
+  {
+    "id": 67,
+    "term": "During the summer, we travel a lot.",
+    "definition": "Im Sommer reisen wir viel.",
+    "example": "'im Sommer' (in/during summer)"
+  },
+  {
+    "id": 68,
+    "term": "On Mondays, I go to the gym.",
+    "definition": "Montags gehe ich ins Fitnessstudio.",
+    "example": "'ins' = in + das"
+  },
+  {
+    "id": 69,
+    "term": "Next week, I am going on vacation.",
+    "definition": "Nächste Woche fahre ich in den Urlaub.",
+    "example": "'nächste Woche' (next week)"
+  },
+  {
+    "id": 70,
+    "term": "Two years ago, I visited Germany.",
+    "definition": "Vor zwei Jahren habe ich Deutschland besucht.",
+    "example": "'vor' + dative = 'ago': vor zwei Jahren"
+  },
+  {
+    "id": 71,
+    "term": "There are a lot of people here.",
+    "definition": "Es gibt hier viele Leute.",
+    "example": "'es gibt' (there is/are) + accusative"
+  },
+  {
+    "id": 72,
+    "term": "I have little time.",
+    "definition": "Ich habe wenig Zeit.",
+    "example": "'wenig' (little)"
+  },
+  {
+    "id": 73,
+    "term": "I have a few questions.",
+    "definition": "Ich habe ein paar Fragen.",
+    "example": "'ein paar' (a few)"
+  },
+  {
+    "id": 74,
+    "term": "There are many opportunities here.",
+    "definition": "Es gibt hier viele Möglichkeiten.",
+    "example": "'es gibt' + plural"
+  },
+  {
+    "id": 75,
+    "term": "I have several friends in Germany.",
+    "definition": "Ich habe mehrere Freunde in Deutschland.",
+    "example": "'mehrere' (several)"
+  },
+  {
+    "id": 76,
+    "term": "Not many people know about this.",
+    "definition": "Nicht viele Leute wissen davon.",
+    "example": "'davon' = about it/of it"
+  },
+  {
+    "id": 77,
+    "term": "I need a bit more time.",
+    "definition": "Ich brauche etwas mehr Zeit.",
+    "example": "'etwas mehr' (a bit more)"
+  },
+  {
+    "id": 78,
+    "term": "Most people agree with this.",
+    "definition": "Die meisten Leute stimmen dem zu.",
+    "example": "'zustimmen' (agree) governs the dative: dem"
+  },
+  {
+    "id": 79,
+    "term": "I bought a lot of books.",
+    "definition": "Ich habe viele Bücher gekauft.",
+    "example": "'viele' + plural noun"
+  },
+  {
+    "id": 80,
+    "term": "There isn't enough bread.",
+    "definition": "Es gibt nicht genug Brot.",
+    "example": "'genug' (enough)"
+  },
+  {
+    "id": 81,
+    "term": "Sit down, please.",
+    "definition": "Setz dich bitte hin.",
+    "example": "separable + reflexive: sich hinsetzen → setz dich...hin"
+  },
+  {
+    "id": 82,
+    "term": "Wait for me!",
+    "definition": "Warte auf mich!",
+    "example": "'warten auf' (wait for) + accusative"
+  },
+  {
+    "id": 83,
+    "term": "Don't worry.",
+    "definition": "Mach dir keine Sorgen.",
+    "example": "idiomatic reflexive-dative: sich Sorgen machen"
+  },
+  {
+    "id": 84,
+    "term": "Close the door, please.",
+    "definition": "Mach bitte die Tür zu.",
+    "example": "separable verb 'zumachen' splits: mach...zu"
+  },
+  {
+    "id": 85,
+    "term": "Let's go!",
+    "definition": "Gehen wir!",
+    "example": "inverted word order (verb first) creates the 'let's...' meaning"
+  },
+  {
+    "id": 86,
+    "term": "Let's eat something.",
+    "definition": "Lass uns etwas essen.",
+    "example": "'lassen' construction for 'let's...': lass uns"
+  },
+  {
+    "id": 87,
+    "term": "Be careful!",
+    "definition": "Sei vorsichtig!",
+    "example": "irregular imperative of sein: sei"
+  },
+  {
+    "id": 88,
+    "term": "Don't be afraid.",
+    "definition": "Hab keine Angst!",
+    "example": "irregular imperative of haben: hab"
+  },
+  {
+    "id": 89,
+    "term": "Help me, please.",
+    "definition": "Hilf mir bitte!",
+    "example": "irregular imperative of helfen: hilf; dative 'mir'"
+  },
+  {
+    "id": 90,
+    "term": "Listen to me!",
+    "definition": "Hör mir zu!",
+    "example": "separable verb 'zuhören' splits: hör...zu; dative 'mir'"
+  },
+  {
+    "id": 91,
+    "term": "I don't know where he lives.",
+    "definition": "Ich weiß nicht, wo er wohnt.",
+    "example": "indirect question, verb still pushed to the end: wohnt"
+  },
+  {
+    "id": 92,
+    "term": "I don't know what time it is.",
+    "definition": "Ich weiß nicht, wie spät es ist.",
+    "example": "idiomatic: literally 'how late it is'"
+  },
+  {
+    "id": 93,
+    "term": "Tell me why you are sad.",
+    "definition": "Sag mir, warum du traurig bist.",
+    "example": "indirect question, verb-final: traurig bist"
+  },
+  {
+    "id": 94,
+    "term": "I wonder who called.",
+    "definition": "Ich frage mich, wer angerufen hat.",
+    "example": "'sich fragen' (wonder) + indirect question"
+  },
+  {
+    "id": 95,
+    "term": "I am not sure if he is coming.",
+    "definition": "Ich bin nicht sicher, ob er kommt.",
+    "example": "'ob' (if/whether) also sends the verb to the end: kommt"
+  },
+  {
+    "id": 96,
+    "term": "She said that she was tired.",
+    "definition": "Sie sagte, dass sie müde war.",
+    "example": "German also shifts the tense back in reported speech: war"
+  },
+  {
+    "id": 97,
+    "term": "He asked if I spoke German.",
+    "definition": "Er fragte, ob ich Deutsch spreche.",
+    "example": "'spreche' here is technically Konjunktiv I for reported speech, but looks identical to the plain present"
+  },
+  {
+    "id": 98,
+    "term": "If I had more time, I would learn Italian too.",
+    "definition": "Wenn ich mehr Zeit hätte, würde ich auch Italienisch lernen.",
+    "example": "Konjunktiv II: hätte...würde...lernen"
+  },
+  {
+    "id": 99,
+    "term": "If I were you, I would rest.",
+    "definition": "Wenn ich du wäre, würde ich mich ausruhen.",
+    "example": "'wäre' — the Konjunktiv II of sein"
+  },
+  {
+    "id": 100,
+    "term": "I would be very happy if you came.",
+    "definition": "Ich wäre sehr glücklich, wenn du kommen würdest.",
+    "example": "modern spoken German prefers 'würde' + infinitive over the old Konjunktiv II form"
+  }
+];
+window.QM_SENTENCES_DE_INTERMEDIATE_DATA = [
+  {
+    "id": 1,
+    "term": "I go there every day.",
+    "definition": "Ich gehe jeden Tag dorthin.",
+    "example": "'dorthin' — a plain directional adverb, no special particle needed"
+  },
+  {
+    "id": 2,
+    "term": "I don't believe it.",
+    "definition": "Ich glaube es nicht.",
+    "example": "just the plain pronoun 'es' — German has no ci/ne-style particle for this"
+  },
+  {
+    "id": 3,
+    "term": "I think about it often.",
+    "definition": "Ich denke oft daran.",
+    "example": "'daran' (da + an) replaces 'an es' — German fuses preposition + 'there' when the object isn't a person"
+  },
+  {
+    "id": 4,
+    "term": "How many books do you have? I have three of them.",
+    "definition": "Wie viele Bücher hast du? Ich habe drei davon.",
+    "example": "'davon' = 'of them'"
+  },
+  {
+    "id": 5,
+    "term": "Do you want some wine? Yes, I want some.",
+    "definition": "Möchtest du Wein? Ja, ich möchte etwas davon.",
+    "example": "'etwas davon' — more explicit than French/Italian's built-in particle"
+  },
+  {
+    "id": 6,
+    "term": "Do you need money? Yes, I need some.",
+    "definition": "Brauchst du Geld? Ja, ich brauche etwas.",
+    "example": "'etwas' alone often suffices here"
+  },
+  {
+    "id": 7,
+    "term": "I'm leaving now.",
+    "definition": "Ich gehe jetzt.",
+    "example": "plain and simple, no idiom needed"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to talk about it.",
+    "definition": "Ich will nicht darüber sprechen.",
+    "example": "'darüber' (da + über) = 'about it'"
+  },
+  {
+    "id": 9,
+    "term": "How many sisters do you have? I have one.",
+    "definition": "Wie viele Schwestern hast du? Ich habe eine.",
+    "example": "'eine' stands alone for the count"
+  },
+  {
+    "id": 10,
+    "term": "I'm sure of it.",
+    "definition": "Da bin ich mir sicher.",
+    "example": "'da' fronted colloquially — the natural spoken way to say this"
+  },
+  {
+    "id": 11,
+    "term": "I used to read a lot as a child.",
+    "definition": "Als Kind habe ich viel gelesen.",
+    "example": "spoken German uses the perfect even for a repeated past habit — no separate aspect to learn"
+  },
+  {
+    "id": 12,
+    "term": "Yesterday I read that whole book.",
+    "definition": "Gestern habe ich das ganze Buch gelesen.",
+    "example": "same perfect construction as #11 — German doesn't distinguish habitual vs completed the way some languages do"
+  },
+  {
+    "id": 13,
+    "term": "I always drank coffee in the morning.",
+    "definition": "Ich habe morgens immer Kaffee getrunken.",
+    "example": "perfect again, habitual"
+  },
+  {
+    "id": 14,
+    "term": "This morning I drank two cups of coffee.",
+    "definition": "Heute Morgen habe ich zwei Tassen Kaffee getrunken.",
+    "example": "perfect, one specific occasion"
+  },
+  {
+    "id": 15,
+    "term": "She was writing a letter when I called.",
+    "definition": "Sie schrieb einen Brief, als ich anrief.",
+    "example": "here the simple past (Präteritum) is preferred, even in speech, for a backgrounded ongoing action"
+  },
+  {
+    "id": 16,
+    "term": "She wrote the letter and sent it.",
+    "definition": "Sie hat den Brief geschrieben und ihn abgeschickt.",
+    "example": "perfect for a finished sequence"
+  },
+  {
+    "id": 17,
+    "term": "We were watching a movie all evening.",
+    "definition": "Wir sahen den ganzen Abend einen Film.",
+    "example": "Präteritum again, for an extended background state"
+  },
+  {
+    "id": 18,
+    "term": "We watched the whole movie in one sitting.",
+    "definition": "Wir haben den ganzen Film am Stück gesehen.",
+    "example": "perfect for the completed whole"
+  },
+  {
+    "id": 19,
+    "term": "I was learning German for two years before I moved here.",
+    "definition": "Ich lernte zwei Jahre lang Deutsch, bevor ich hierher zog.",
+    "example": "Präteritum, a more narrative/written register"
+  },
+  {
+    "id": 20,
+    "term": "I finally learned all the irregular verbs.",
+    "definition": "Ich habe endlich alle unregelmäßigen Verben gelernt.",
+    "example": "perfect — the moment it finally clicked"
+  },
+  {
+    "id": 21,
+    "term": "This book was written by a famous author.",
+    "definition": "Dieses Buch wurde von einem berühmten Autor geschrieben.",
+    "example": "passive: werden + past participle; 'von' (by) + dative"
+  },
+  {
+    "id": 22,
+    "term": "The house was built in 1920.",
+    "definition": "Das Haus wurde 1920 gebaut.",
+    "example": "same passive pattern, no agent named"
+  },
+  {
+    "id": 23,
+    "term": "The letter is being written now.",
+    "definition": "Der Brief wird gerade geschrieben.",
+    "example": "present passive: wird...geschrieben"
+  },
+  {
+    "id": 24,
+    "term": "The doors are closed at nine.",
+    "definition": "Die Türen werden um neun geschlossen.",
+    "example": "present passive, habitual"
+  },
+  {
+    "id": 25,
+    "term": "The problem will be solved soon.",
+    "definition": "Das Problem wird bald gelöst werden.",
+    "example": "future passive needs 'werden' TWICE — once for future, once for passive"
+  },
+  {
+    "id": 26,
+    "term": "The bridge was destroyed during the war.",
+    "definition": "Die Brücke wurde während des Krieges zerstört.",
+    "example": "'während' (during) + genitive"
+  },
+  {
+    "id": 27,
+    "term": "This song is known all over the world.",
+    "definition": "Dieses Lied ist auf der ganzen Welt bekannt.",
+    "example": "'sein' + participle for a resulting STATE, not 'werden' — a genuinely different passive-like construction"
+  },
+  {
+    "id": 28,
+    "term": "The cake was eaten by the children.",
+    "definition": "Der Kuchen wurde von den Kindern gegessen.",
+    "example": "passive: wurde...gegessen"
+  },
+  {
+    "id": 29,
+    "term": "New rules were introduced last year.",
+    "definition": "Neue Regeln wurden letztes Jahr eingeführt.",
+    "example": "plural passive: wurden, not wurde"
+  },
+  {
+    "id": 30,
+    "term": "The window was broken by the storm.",
+    "definition": "Das Fenster wurde vom Sturm zerbrochen.",
+    "example": "'vom' = von + dem"
+  },
+  {
+    "id": 31,
+    "term": "It's said that he is very talented.",
+    "definition": "Man sagt, dass er sehr talentiert ist.",
+    "example": "'man sagt' — the impersonal way to say 'it's said'"
+  },
+  {
+    "id": 32,
+    "term": "It's getting dark.",
+    "definition": "Es wird dunkel.",
+    "example": "'es wird' + adjective — a change with no one causing it"
+  },
+  {
+    "id": 33,
+    "term": "It's getting cold outside.",
+    "definition": "Es wird draußen kalt.",
+    "example": "same 'es wird' pattern"
+  },
+  {
+    "id": 34,
+    "term": "How do you say this in German?",
+    "definition": "Wie sagt man das auf Deutsch?",
+    "example": "impersonal 'man'"
+  },
+  {
+    "id": 35,
+    "term": "One eats dinner at eight here.",
+    "definition": "Hier isst man um acht zu Abend.",
+    "example": "'man' + verb, a general custom"
+  },
+  {
+    "id": 36,
+    "term": "You can't smoke here.",
+    "definition": "Man darf hier nicht rauchen.",
+    "example": "impersonal 'man', negated"
+  },
+  {
+    "id": 37,
+    "term": "It's not done that way.",
+    "definition": "Das macht man nicht so.",
+    "example": "'man macht' — impersonal again"
+  },
+  {
+    "id": 38,
+    "term": "People say all sorts of things.",
+    "definition": "Die Leute sagen alle möglichen Dinge.",
+    "example": "a plain plural subject this time, not 'man'"
+  },
+  {
+    "id": 39,
+    "term": "This word is used often.",
+    "definition": "Dieses Wort wird oft benutzt.",
+    "example": "passive as an alternative to impersonal 'man': wird benutzt"
+  },
+  {
+    "id": 40,
+    "term": "This is how the game is played.",
+    "definition": "So spielt man dieses Spiel.",
+    "example": "'man spielt' — impersonal"
+  },
+  {
+    "id": 41,
+    "term": "I told him to come.",
+    "definition": "Ich habe ihm gesagt, er soll kommen.",
+    "example": "reported commands use 'sollen' in the embedded clause, not an infinitive"
+  },
+  {
+    "id": 42,
+    "term": "She asked me to help her.",
+    "definition": "Sie hat mich gebeten, ihr zu helfen.",
+    "example": "'bitten' + zu-infinitive; dative 'ihr' since helfen needs it"
+  },
+  {
+    "id": 43,
+    "term": "The teacher told us to be quiet.",
+    "definition": "Der Lehrer hat uns gesagt, wir sollen leise sein.",
+    "example": "same 'sollen' pattern as #41"
+  },
+  {
+    "id": 44,
+    "term": "I want you to call me.",
+    "definition": "Ich möchte, dass du mich anrufst.",
+    "example": "'möchten' + dass-clause, plain indicative"
+  },
+  {
+    "id": 45,
+    "term": "My mother told me not to be late.",
+    "definition": "Meine Mutter hat mir gesagt, ich soll nicht zu spät kommen.",
+    "example": "negated 'sollen' inside the reported command"
+  },
+  {
+    "id": 46,
+    "term": "He asked us to wait outside.",
+    "definition": "Er hat uns gebeten, draußen zu warten.",
+    "example": "'bitten' + zu-infinitive"
+  },
+  {
+    "id": 47,
+    "term": "I told them to stop.",
+    "definition": "Ich habe ihnen gesagt, sie sollen aufhören.",
+    "example": "'ihnen' (to them) + 'sollen'"
+  },
+  {
+    "id": 48,
+    "term": "She wants me to visit her.",
+    "definition": "Sie möchte, dass ich sie besuche.",
+    "example": "'möchte, dass' + indicative"
+  },
+  {
+    "id": 49,
+    "term": "The boss ordered us to finish the project.",
+    "definition": "Der Chef hat uns befohlen, das Projekt fertigzustellen.",
+    "example": "'befehlen' + zu-infinitive"
+  },
+  {
+    "id": 50,
+    "term": "I asked her to be patient.",
+    "definition": "Ich habe sie gebeten, geduldig zu sein.",
+    "example": "'bitten' + zu-infinitive"
+  },
+  {
+    "id": 51,
+    "term": "Although it was raining, we went for a walk.",
+    "definition": "Obwohl es regnete, sind wir spazieren gegangen.",
+    "example": "'obwohl' (although), verb-final: regnete"
+  },
+  {
+    "id": 52,
+    "term": "Even though he is tired, he keeps working.",
+    "definition": "Obwohl er müde ist, arbeitet er weiter.",
+    "example": "'obwohl', verb-final: müde ist"
+  },
+  {
+    "id": 53,
+    "term": "Despite the cold, we went outside.",
+    "definition": "Trotz der Kälte sind wir rausgegangen.",
+    "example": "'trotz' (despite) + genitive: der Kälte"
+  },
+  {
+    "id": 54,
+    "term": "It's raining, but we're going out anyway.",
+    "definition": "Es regnet, aber wir gehen trotzdem raus.",
+    "example": "'trotzdem' = anyway/nevertheless"
+  },
+  {
+    "id": 55,
+    "term": "I like her, even though she's sometimes difficult.",
+    "definition": "Ich mag sie, obwohl sie manchmal schwierig ist.",
+    "example": "'obwohl' again"
+  },
+  {
+    "id": 56,
+    "term": "He passed the exam despite not studying much.",
+    "definition": "Er hat die Prüfung bestanden, obwohl er nicht viel gelernt hat.",
+    "example": "'obwohl' + perfect, verb-final"
+  },
+  {
+    "id": 57,
+    "term": "It was cheap, yet good quality.",
+    "definition": "Es war billig, aber trotzdem von guter Qualität.",
+    "example": "'aber trotzdem' = yet/but still"
+  },
+  {
+    "id": 58,
+    "term": "Nevertheless, I think we should try.",
+    "definition": "Trotzdem denke ich, dass wir es versuchen sollten.",
+    "example": "'trotzdem' standing alone at the front"
+  },
+  {
+    "id": 59,
+    "term": "Although I disagree, I'll help you.",
+    "definition": "Obwohl ich nicht einverstanden bin, helfe ich dir.",
+    "example": "'obwohl' + a negated opinion"
+  },
+  {
+    "id": 60,
+    "term": "We won, although it wasn't easy.",
+    "definition": "Wir haben gewonnen, obwohl es nicht einfach war.",
+    "example": "'obwohl' inside a longer sentence"
+  },
+  {
+    "id": 61,
+    "term": "Stay here until I come back.",
+    "definition": "Bleib hier, bis ich zurückkomme.",
+    "example": "'bis' (until), verb-final: zurückkomme"
+  },
+  {
+    "id": 62,
+    "term": "I'll wait as long as you need.",
+    "definition": "Ich warte, solange du brauchst.",
+    "example": "'solange' = as long as"
+  },
+  {
+    "id": 63,
+    "term": "Before you leave, call me.",
+    "definition": "Bevor du gehst, ruf mich an.",
+    "example": "'bevor' (before) + verb-final: gehst"
+  },
+  {
+    "id": 64,
+    "term": "I checked everything before I left.",
+    "definition": "Ich habe alles überprüft, bevor ich gegangen bin.",
+    "example": "'bevor' + perfect"
+  },
+  {
+    "id": 65,
+    "term": "I've known her since I was a child.",
+    "definition": "Ich kenne sie, seit ich ein Kind war.",
+    "example": "'seit' (since) + verb-final: ein Kind war"
+  },
+  {
+    "id": 66,
+    "term": "Since he moved here, he's been much happier.",
+    "definition": "Seit er hierher gezogen ist, ist er viel glücklicher.",
+    "example": "'seit' + perfect, verb-final"
+  },
+  {
+    "id": 67,
+    "term": "Wait until the light turns green.",
+    "definition": "Warte, bis die Ampel grün wird.",
+    "example": "'bis' + verb-final: grün wird"
+  },
+  {
+    "id": 68,
+    "term": "I won't leave until you answer me.",
+    "definition": "Ich gehe nicht, bis du mir antwortest.",
+    "example": "'bis' + verb-final: antwortest"
+  },
+  {
+    "id": 69,
+    "term": "As soon as I get home, I'll call you.",
+    "definition": "Sobald ich zu Hause bin, rufe ich dich an.",
+    "example": "'sobald' = as soon as"
+  },
+  {
+    "id": 70,
+    "term": "The moment I saw her, I knew.",
+    "definition": "In dem Moment, als ich sie sah, wusste ich es.",
+    "example": "'als' (when) for a single past event"
+  },
+  {
+    "id": 71,
+    "term": "Instead of coffee, I'll have tea.",
+    "definition": "Statt Kaffee nehme ich Tee.",
+    "example": "'statt' (instead of) + noun"
+  },
+  {
+    "id": 72,
+    "term": "Instead of complaining, do something.",
+    "definition": "Anstatt zu jammern, tu etwas.",
+    "example": "'anstatt' + zu-infinitive"
+  },
+  {
+    "id": 73,
+    "term": "Reading books is my favorite hobby.",
+    "definition": "Bücherlesen ist mein Lieblingshobby.",
+    "example": "a verb nominalized into a noun (capitalized) — German's substitute for a gerund"
+  },
+  {
+    "id": 74,
+    "term": "Learning languages takes time.",
+    "definition": "Sprachenlernen braucht Zeit.",
+    "example": "same nominalization pattern: lernen → Lernen"
+  },
+  {
+    "id": 75,
+    "term": "Swimming is good for your health.",
+    "definition": "Schwimmen ist gut für die Gesundheit.",
+    "example": "nominalized infinitive as subject: Schwimmen"
+  },
+  {
+    "id": 76,
+    "term": "Cooking dinner takes an hour.",
+    "definition": "Kochen dauert eine Stunde.",
+    "example": "nominalized infinitive: Kochen"
+  },
+  {
+    "id": 77,
+    "term": "Smoking is bad for you.",
+    "definition": "Rauchen ist schädlich.",
+    "example": "nominalized infinitive: Rauchen"
+  },
+  {
+    "id": 78,
+    "term": "Waiting is the hardest part.",
+    "definition": "Warten ist der schwierigste Teil.",
+    "example": "nominalized infinitive + a superlative"
+  },
+  {
+    "id": 79,
+    "term": "Thank you for coming.",
+    "definition": "Danke, dass du gekommen bist.",
+    "example": "'danke' + dass-clause rather than an infinitive here"
+  },
+  {
+    "id": 80,
+    "term": "I'm tired of waiting.",
+    "definition": "Ich habe es satt zu warten.",
+    "example": "idiom: 'etwas satt haben' = be tired/fed up with something"
+  },
+  {
+    "id": 81,
+    "term": "If I had known, I would have come.",
+    "definition": "Wenn ich es gewusst hätte, wäre ich gekommen.",
+    "example": "Konjunktiv II Plusquamperfekt: hätte gewusst / wäre gekommen"
+  },
+  {
+    "id": 82,
+    "term": "If you had called me, I would have helped.",
+    "definition": "Wenn du mich angerufen hättest, hätte ich geholfen.",
+    "example": "same pattern, both halves in the past hypothetical"
+  },
+  {
+    "id": 83,
+    "term": "She would have passed if she had studied more.",
+    "definition": "Sie hätte bestanden, wenn sie mehr gelernt hätte.",
+    "example": "order flipped, same construction"
+  },
+  {
+    "id": 84,
+    "term": "We wouldn't have been late if we had left earlier.",
+    "definition": "Wir wären nicht zu spät gekommen, wenn wir früher losgegangen wären.",
+    "example": "'sein'-verbs use wäre, not hätte, even in this construction"
+  },
+  {
+    "id": 85,
+    "term": "I have twenty-two books on this shelf.",
+    "definition": "Ich habe zweiundzwanzig Bücher in diesem Regal.",
+    "example": "compound numbers fuse into one word: zweiundzwanzig"
+  },
+  {
+    "id": 86,
+    "term": "There are thirty-five students in this class.",
+    "definition": "Es gibt fünfunddreißig Schüler in dieser Klasse.",
+    "example": "same fused compound number: fünfunddreißig"
+  },
+  {
+    "id": 87,
+    "term": "I have been living here for eleven years.",
+    "definition": "Ich lebe seit elf Jahren hier.",
+    "example": "present tense + 'seit' for something still ongoing"
+  },
+  {
+    "id": 88,
+    "term": "The building has one hundred rooms.",
+    "definition": "Das Gebäude hat hundert Zimmer.",
+    "example": "'hundert' needs no article before it"
+  },
+  {
+    "id": 89,
+    "term": "I paid two hundred euros for this.",
+    "definition": "Ich habe zweihundert Euro dafür bezahlt.",
+    "example": "'zweihundert' fuses into one word"
+  },
+  {
+    "id": 90,
+    "term": "Only one person answered correctly.",
+    "definition": "Nur eine Person hat richtig geantwortet.",
+    "example": "'eine' behaves like a normal adjective here"
+  },
+  {
+    "id": 91,
+    "term": "He passed the exam, which made his parents happy.",
+    "definition": "Er hat die Prüfung bestanden, was seine Eltern glücklich gemacht hat.",
+    "example": "'was' refers to the whole fact of passing, not to a specific noun"
+  },
+  {
+    "id": 92,
+    "term": "She was late, which annoyed the teacher.",
+    "definition": "Sie kam zu spät, was den Lehrer geärgert hat.",
+    "example": "same clause-referring 'was'"
+  },
+  {
+    "id": 93,
+    "term": "This is the best restaurant of all the ones I know.",
+    "definition": "Das ist das beste Restaurant von allen, die ich kenne.",
+    "example": "'von allen, die' = 'of all the ones that'"
+  },
+  {
+    "id": 94,
+    "term": "He is the smartest of all my friends.",
+    "definition": "Er ist der klügste von all meinen Freunden.",
+    "example": "'von all' + dative plural"
+  },
+  {
+    "id": 95,
+    "term": "To be honest, I don't understand this.",
+    "definition": "Ehrlich gesagt, verstehe ich das nicht.",
+    "example": "'ehrlich gesagt' — literally 'honestly said'"
+  },
+  {
+    "id": 96,
+    "term": "Generally speaking, the weather here is nice.",
+    "definition": "Im Allgemeinen ist das Wetter hier schön.",
+    "example": "'im Allgemeinen' = generally speaking"
+  },
+  {
+    "id": 97,
+    "term": "As far as I know, the shop is closed today.",
+    "definition": "Soweit ich weiß, ist der Laden heute geschlossen.",
+    "example": "'soweit ich weiß' = as far as I know"
+  },
+  {
+    "id": 98,
+    "term": "In my opinion, this is the right decision.",
+    "definition": "Meiner Meinung nach ist das die richtige Entscheidung.",
+    "example": "'meiner Meinung nach' — a fixed dative-flavored phrase for 'in my opinion'"
+  },
+  {
+    "id": 99,
+    "term": "All things considered, it went well.",
+    "definition": "Alles in allem ist es gut gelaufen.",
+    "example": "'alles in allem' = all things considered"
+  },
+  {
+    "id": 100,
+    "term": "In the end, everything turned out fine.",
+    "definition": "Am Ende ist alles gut ausgegangen.",
+    "example": "'am Ende' = in the end"
+  }
+];
+window.QM_PHRASES_DE_DATA = [
+  {
+    "id": 1,
+    "term": "Good morning!",
+    "definition": "Guten Morgen!",
+    "example": "used until roughly late morning"
+  },
+  {
+    "id": 2,
+    "term": "Good evening!",
+    "definition": "Guten Abend!",
+    "example": "takes over in the evening"
+  },
+  {
+    "id": 3,
+    "term": "Good night!",
+    "definition": "Gute Nacht!",
+    "example": "said when parting for the night, not as a greeting"
+  },
+  {
+    "id": 4,
+    "term": "Hi! (informal)",
+    "definition": "Hallo!",
+    "example": "works for both informal and semi-formal situations"
+  },
+  {
+    "id": 5,
+    "term": "How are you?",
+    "definition": "Wie geht's dir?",
+    "example": "informal, to one person"
+  },
+  {
+    "id": 6,
+    "term": "I'm fine, thanks. And you?",
+    "definition": "Mir geht's gut, danke. Und dir?",
+    "example": "the standard reply"
+  },
+  {
+    "id": 7,
+    "term": "Long time no see!",
+    "definition": "Lange nicht gesehen!",
+    "example": "said on meeting someone after a while"
+  },
+  {
+    "id": 8,
+    "term": "Welcome!",
+    "definition": "Willkommen!",
+    "example": "invariable, for one person or a group"
+  },
+  {
+    "id": 9,
+    "term": "Nice to see you again.",
+    "definition": "Schön, dich wiederzusehen.",
+    "example": "warmer than a plain greeting"
+  },
+  {
+    "id": 10,
+    "term": "What's up? (very informal)",
+    "definition": "Was geht ab?",
+    "example": "casual, among friends"
+  },
+  {
+    "id": 11,
+    "term": "Goodbye!",
+    "definition": "Auf Wiedersehen!",
+    "example": "the standard, neutral goodbye"
+  },
+  {
+    "id": 12,
+    "term": "See you later!",
+    "definition": "Bis später!",
+    "example": "when you'll meet again the same day"
+  },
+  {
+    "id": 13,
+    "term": "See you tomorrow!",
+    "definition": "Bis morgen!",
+    "example": "specifies when you'll meet again"
+  },
+  {
+    "id": 14,
+    "term": "Take care!",
+    "definition": "Pass auf dich auf!",
+    "example": "separable verb 'aufpassen' + reflexive: pass...auf"
+  },
+  {
+    "id": 15,
+    "term": "Have a good day!",
+    "definition": "Schönen Tag noch!",
+    "example": "a very common parting phrase"
+  },
+  {
+    "id": 16,
+    "term": "Bye! (informal)",
+    "definition": "Tschüss!",
+    "example": "casual, everyday"
+  },
+  {
+    "id": 17,
+    "term": "Until next time!",
+    "definition": "Bis zum nächsten Mal!",
+    "example": "when you don't know exactly when you'll meet again"
+  },
+  {
+    "id": 18,
+    "term": "Have a safe trip!",
+    "definition": "Gute Reise!",
+    "example": "said to someone setting off on a journey"
+  },
+  {
+    "id": 19,
+    "term": "Good night, sleep well.",
+    "definition": "Gute Nacht, schlaf gut.",
+    "example": "a warmer version of a plain 'gute Nacht'"
+  },
+  {
+    "id": 20,
+    "term": "Take care of yourself.",
+    "definition": "Pass gut auf dich auf.",
+    "example": "more caring/sincere than the casual #14"
+  },
+  {
+    "id": 21,
+    "term": "Please.",
+    "definition": "Bitte.",
+    "example": "also doubles as 'here you are' and 'you're welcome' depending on context"
+  },
+  {
+    "id": 22,
+    "term": "Thank you.",
+    "definition": "Danke.",
+    "example": "the standard thank-you"
+  },
+  {
+    "id": 23,
+    "term": "Thank you very much.",
+    "definition": "Vielen Dank.",
+    "example": "'vielen' (much) intensifies it"
+  },
+  {
+    "id": 24,
+    "term": "You're welcome.",
+    "definition": "Gern geschehen.",
+    "example": "distinct from 'bitte', though 'bitte' alone also works"
+  },
+  {
+    "id": 25,
+    "term": "No problem.",
+    "definition": "Kein Problem.",
+    "example": "casual response to thanks or an apology"
+  },
+  {
+    "id": 26,
+    "term": "Excuse me.",
+    "definition": "Entschuldigung.",
+    "example": "used to get someone's attention or pass by"
+  },
+  {
+    "id": 27,
+    "term": "I'm really sorry.",
+    "definition": "Es tut mir wirklich leid.",
+    "example": "'tut mir leid' — a dative idiom for 'I'm sorry'"
+  },
+  {
+    "id": 28,
+    "term": "Pardon? (didn't hear)",
+    "definition": "Wie bitte?",
+    "example": "the everyday way to ask someone to repeat themselves"
+  },
+  {
+    "id": 29,
+    "term": "No worries.",
+    "definition": "Keine Sorge.",
+    "example": "casual reassurance"
+  },
+  {
+    "id": 30,
+    "term": "It's my pleasure.",
+    "definition": "Es ist mir ein Vergnügen.",
+    "example": "a more formal reply than 'gern geschehen'"
+  },
+  {
+    "id": 31,
+    "term": "My name is Anna.",
+    "definition": "Ich heiße Anna.",
+    "example": "'heißen' (to be named)"
+  },
+  {
+    "id": 32,
+    "term": "Nice to meet you.",
+    "definition": "Schön, dich kennenzulernen.",
+    "example": "said on a first meeting"
+  },
+  {
+    "id": 33,
+    "term": "This is my friend Marco.",
+    "definition": "Das ist mein Freund Marco.",
+    "example": "the standard way to introduce someone"
+  },
+  {
+    "id": 34,
+    "term": "Where are you from?",
+    "definition": "Woher kommst du?",
+    "example": "common small-talk opener"
+  },
+  {
+    "id": 35,
+    "term": "I'm from England.",
+    "definition": "Ich komme aus England.",
+    "example": "'aus' (from) + dative"
+  },
+  {
+    "id": 36,
+    "term": "What do you do for a living?",
+    "definition": "Was machst du beruflich?",
+    "example": "literally 'what do you do professionally'"
+  },
+  {
+    "id": 37,
+    "term": "I'm a student.",
+    "definition": "Ich bin Student.",
+    "example": "no article for a profession"
+  },
+  {
+    "id": 38,
+    "term": "Likewise!",
+    "definition": "Ebenfalls!",
+    "example": "reply to a compliment or well-wish, meaning 'same to you'"
+  },
+  {
+    "id": 39,
+    "term": "It was nice meeting you.",
+    "definition": "Es war schön, dich kennenzulernen.",
+    "example": "said when parting after a first meeting"
+  },
+  {
+    "id": 40,
+    "term": "Let's keep in touch.",
+    "definition": "Lass uns in Kontakt bleiben.",
+    "example": "'lassen' construction for 'let's...'"
+  },
+  {
+    "id": 41,
+    "term": "Happy birthday!",
+    "definition": "Alles Gute zum Geburtstag!",
+    "example": "literally 'all the best for the birthday'"
+  },
+  {
+    "id": 42,
+    "term": "Congratulations!",
+    "definition": "Herzlichen Glückwunsch!",
+    "example": "for any achievement"
+  },
+  {
+    "id": 43,
+    "term": "Good luck!",
+    "definition": "Viel Glück!",
+    "example": "before an exam, interview, or any attempt at something"
+  },
+  {
+    "id": 44,
+    "term": "Best wishes!",
+    "definition": "Alles Gute!",
+    "example": "a general well-wish, often written on cards"
+  },
+  {
+    "id": 45,
+    "term": "Get well soon!",
+    "definition": "Gute Besserung!",
+    "example": "literally 'good improvement'"
+  },
+  {
+    "id": 46,
+    "term": "Happy New Year!",
+    "definition": "Frohes neues Jahr!",
+    "example": "the standard New Year wish"
+  },
+  {
+    "id": 47,
+    "term": "Merry Christmas!",
+    "definition": "Frohe Weihnachten!",
+    "example": "the standard Christmas wish"
+  },
+  {
+    "id": 48,
+    "term": "Cheers! (a toast)",
+    "definition": "Prost!",
+    "example": "raised when drinking together"
+  },
+  {
+    "id": 49,
+    "term": "Have fun!",
+    "definition": "Viel Spaß!",
+    "example": "literally 'much fun'"
+  },
+  {
+    "id": 50,
+    "term": "Enjoy your meal!",
+    "definition": "Guten Appetit!",
+    "example": "said before eating"
+  },
+  {
+    "id": 51,
+    "term": "Can you help me, please?",
+    "definition": "Kannst du mir bitte helfen?",
+    "example": "'helfen' governs the dative: mir"
+  },
+  {
+    "id": 52,
+    "term": "I need help.",
+    "definition": "Ich brauche Hilfe.",
+    "example": "'brauchen' + accusative"
+  },
+  {
+    "id": 53,
+    "term": "Where is the bathroom?",
+    "definition": "Wo ist die Toilette?",
+    "example": "one of the most useful phrasebook lines there is"
+  },
+  {
+    "id": 54,
+    "term": "How much does this cost?",
+    "definition": "Wie viel kostet das?",
+    "example": "'wie viel' (how much) + kosten"
+  },
+  {
+    "id": 55,
+    "term": "Do you have this in another color?",
+    "definition": "Haben Sie das in einer anderen Farbe?",
+    "example": "formal 'Sie', typical in a shop"
+  },
+  {
+    "id": 56,
+    "term": "Can I have the bill, please?",
+    "definition": "Kann ich bitte die Rechnung haben?",
+    "example": "'die Rechnung' — the bill"
+  },
+  {
+    "id": 57,
+    "term": "One moment, please.",
+    "definition": "Einen Moment, bitte.",
+    "example": "simple and universally understood"
+  },
+  {
+    "id": 58,
+    "term": "Could you repeat that?",
+    "definition": "Kannst du das wiederholen?",
+    "example": "polite request with 'können'"
+  },
+  {
+    "id": 59,
+    "term": "I don't understand.",
+    "definition": "Ich verstehe nicht.",
+    "example": "simple negation of verstehen"
+  },
+  {
+    "id": 60,
+    "term": "Could you speak more slowly?",
+    "definition": "Kannst du langsamer sprechen?",
+    "example": "comparative adverb: langsam → langsamer"
+  },
+  {
+    "id": 61,
+    "term": "I agree.",
+    "definition": "Ich stimme zu.",
+    "example": "separable verb 'zustimmen'"
+  },
+  {
+    "id": 62,
+    "term": "I don't agree.",
+    "definition": "Ich stimme nicht zu.",
+    "example": "negated"
+  },
+  {
+    "id": 63,
+    "term": "That's true.",
+    "definition": "Das stimmt.",
+    "example": "'stimmen' — to be right/correct"
+  },
+  {
+    "id": 64,
+    "term": "That's not true.",
+    "definition": "Das stimmt nicht.",
+    "example": "negated"
+  },
+  {
+    "id": 65,
+    "term": "I think so.",
+    "definition": "Ich glaube schon.",
+    "example": "'schon' here softens it into 'I suppose so'"
+  },
+  {
+    "id": 66,
+    "term": "I don't think so.",
+    "definition": "Ich glaube nicht.",
+    "example": "negated 'glauben'"
+  },
+  {
+    "id": 67,
+    "term": "Sounds good.",
+    "definition": "Klingt gut.",
+    "example": "'klingen' (to sound) + adverb"
+  },
+  {
+    "id": 68,
+    "term": "No way!",
+    "definition": "Auf keinen Fall!",
+    "example": "literally 'in no case' — a firm refusal"
+  },
+  {
+    "id": 69,
+    "term": "Of course!",
+    "definition": "Natürlich!",
+    "example": "enthusiastic agreement"
+  },
+  {
+    "id": 70,
+    "term": "Maybe.",
+    "definition": "Vielleicht.",
+    "example": "a single-word hedge"
+  },
+  {
+    "id": 71,
+    "term": "Really?",
+    "definition": "Wirklich?",
+    "example": "expressing surprise or asking for confirmation"
+  },
+  {
+    "id": 72,
+    "term": "Wow!",
+    "definition": "Wow!",
+    "example": "borrowed straight from English, very common in speech"
+  },
+  {
+    "id": 73,
+    "term": "That's great!",
+    "definition": "Das ist toll!",
+    "example": "enthusiastic reaction"
+  },
+  {
+    "id": 74,
+    "term": "I'm sorry to hear that.",
+    "definition": "Das tut mir leid.",
+    "example": "same idiom as 'I'm sorry' — expressing sympathy here, not an apology"
+  },
+  {
+    "id": 75,
+    "term": "What a shame.",
+    "definition": "Wie schade.",
+    "example": "'wie' + adjective, exclamatory"
+  },
+  {
+    "id": 76,
+    "term": "Oh no!",
+    "definition": "Oh nein!",
+    "example": "a simple exclamation of dismay"
+  },
+  {
+    "id": 77,
+    "term": "Exactly!",
+    "definition": "Genau!",
+    "example": "strong agreement"
+  },
+  {
+    "id": 78,
+    "term": "I see.",
+    "definition": "Ich verstehe.",
+    "example": "used as a filler acknowledging what was said"
+  },
+  {
+    "id": 79,
+    "term": "That makes sense.",
+    "definition": "Das ergibt Sinn.",
+    "example": "'ergeben' (to yield/result in) + Sinn"
+  },
+  {
+    "id": 80,
+    "term": "That's interesting.",
+    "definition": "Das ist interessant.",
+    "example": "'interessant' looks the same for any gender"
+  },
+  {
+    "id": 81,
+    "term": "Hello? (on the phone)",
+    "definition": "Hallo?",
+    "example": "the same word as a face-to-face greeting in German — only intonation and context tell them apart"
+  },
+  {
+    "id": 82,
+    "term": "Who's calling?",
+    "definition": "Wer ist da?",
+    "example": "literally 'who's there'"
+  },
+  {
+    "id": 83,
+    "term": "Can I call you back?",
+    "definition": "Kann ich dich zurückrufen?",
+    "example": "separable verb 'zurückrufen' (call back)"
+  },
+  {
+    "id": 84,
+    "term": "It was nice talking to you.",
+    "definition": "Es war schön, mit dir zu sprechen.",
+    "example": "'mit dir' (with you) + zu-infinitive"
+  },
+  {
+    "id": 85,
+    "term": "See you at the party!",
+    "definition": "Bis zur Party!",
+    "example": "'bis zu' (until) + dative, used casually for 'see you at'"
+  },
+  {
+    "id": 86,
+    "term": "I'll text you.",
+    "definition": "Ich schreibe dir eine Nachricht.",
+    "example": "literally 'I'll write you a message' — how German says 'text'"
+  },
+  {
+    "id": 87,
+    "term": "Take it easy!",
+    "definition": "Nimm's leicht!",
+    "example": "informal, literally 'take it lightly'"
+  },
+  {
+    "id": 88,
+    "term": "All the best!",
+    "definition": "Alles Liebe!",
+    "example": "a warmer, more personal well-wish than 'alles Gute'"
+  },
+  {
+    "id": 89,
+    "term": "I'll be right there.",
+    "definition": "Ich bin gleich da.",
+    "example": "'gleich' = right away/shortly"
+  },
+  {
+    "id": 90,
+    "term": "I'm on my way.",
+    "definition": "Ich bin unterwegs.",
+    "example": "'unterwegs' = on the way"
+  },
+  {
+    "id": 91,
+    "term": "Watch out!",
+    "definition": "Vorsicht!",
+    "example": "a sharp warning, one word"
+  },
+  {
+    "id": 92,
+    "term": "No rush.",
+    "definition": "Kein Stress.",
+    "example": "colloquial, literally 'no stress'"
+  },
+  {
+    "id": 93,
+    "term": "After you.",
+    "definition": "Nach dir.",
+    "example": "letting someone go first; 'nach' + dative"
+  },
+  {
+    "id": 94,
+    "term": "Make yourself at home.",
+    "definition": "Fühl dich wie zu Hause.",
+    "example": "literally 'feel as if at home'"
+  },
+  {
+    "id": 95,
+    "term": "It's on me. (paying)",
+    "definition": "Ich lade dich ein.",
+    "example": "literally 'I invite you' — offering to pay"
+  },
+  {
+    "id": 96,
+    "term": "Let's go!",
+    "definition": "Los geht's!",
+    "example": "a fixed exclamation, literally 'off it goes'"
+  },
+  {
+    "id": 97,
+    "term": "Welcome home!",
+    "definition": "Willkommen zu Hause!",
+    "example": "said when someone returns"
+  },
+  {
+    "id": 98,
+    "term": "Get home safe!",
+    "definition": "Komm gut nach Hause!",
+    "example": "literally 'come well home'"
+  },
+  {
+    "id": 99,
+    "term": "I'm looking forward to it.",
+    "definition": "Ich freue mich darauf.",
+    "example": "'sich freuen auf' (look forward to) + 'darauf' (da + auf)"
+  },
+  {
+    "id": 100,
+    "term": "Thanks for everything.",
+    "definition": "Danke für alles.",
+    "example": "'für' + accusative"
+  }
+];
+window.QM_SENTENCES_ES_UPPERBEGINNER_DATA = [
+  {
+    "id": 1,
+    "term": "My father is a farmer.",
+    "definition": "Mi padre es agricultor.",
+    "example": "no article before an unmodified profession after 'ser'"
+  },
+  {
+    "id": 2,
+    "term": "My mother is a teacher.",
+    "definition": "Mi madre es profesora.",
+    "example": "feminine profession noun"
+  },
+  {
+    "id": 3,
+    "term": "I have two brothers and one sister.",
+    "definition": "Tengo dos hermanos y una hermana.",
+    "example": "plural: hermano → hermanos"
+  },
+  {
+    "id": 4,
+    "term": "My grandmother lives with us.",
+    "definition": "Mi abuela vive con nosotros.",
+    "example": "'con' (with) + the standalone pronoun 'nosotros'"
+  },
+  {
+    "id": 5,
+    "term": "Our family is very big.",
+    "definition": "Nuestra familia es muy grande.",
+    "example": "'nuestra' agrees feminine with familia"
+  },
+  {
+    "id": 6,
+    "term": "My son is five years old.",
+    "definition": "Mi hijo tiene cinco años.",
+    "example": "'tener' + años — the standard way to state an age"
+  },
+  {
+    "id": 7,
+    "term": "My daughter likes to draw.",
+    "definition": "A mi hija le gusta dibujar.",
+    "example": "'gustar' construction: 'a mi hija' names who likes it, 'le' agrees with her"
+  },
+  {
+    "id": 8,
+    "term": "We have a small dog and a big cat.",
+    "definition": "Tenemos un perro pequeño y un gato grande.",
+    "example": "adjectives follow their nouns"
+  },
+  {
+    "id": 9,
+    "term": "My parents are on vacation.",
+    "definition": "Mis padres están de vacaciones.",
+    "example": "'estar de vacaciones' — fixed phrase for 'on vacation'"
+  },
+  {
+    "id": 10,
+    "term": "My best friend has three children.",
+    "definition": "Mi mejor amigo tiene tres hijos.",
+    "example": "'mejor' (best) sits before the noun"
+  },
+  {
+    "id": 11,
+    "term": "I wake up early on Mondays.",
+    "definition": "Los lunes me despierto temprano.",
+    "example": "'los lunes' = on Mondays, a repeated day"
+  },
+  {
+    "id": 12,
+    "term": "On Saturdays, I sleep late.",
+    "definition": "Los sábados duermo hasta tarde.",
+    "example": "same 'los' + day pattern"
+  },
+  {
+    "id": 13,
+    "term": "Today is Tuesday.",
+    "definition": "Hoy es martes.",
+    "example": "day names need no article"
+  },
+  {
+    "id": 14,
+    "term": "Tomorrow is my birthday.",
+    "definition": "Mañana es mi cumpleaños.",
+    "example": "same simple pattern"
+  },
+  {
+    "id": 15,
+    "term": "Yesterday was a busy day.",
+    "definition": "Ayer fue un día ocupado.",
+    "example": "pretérito of ser: fue"
+  },
+  {
+    "id": 16,
+    "term": "In the morning, I drink coffee.",
+    "definition": "Por la mañana bebo café.",
+    "example": "'por la mañana' = in the morning"
+  },
+  {
+    "id": 17,
+    "term": "In the evening, we watch television.",
+    "definition": "Por la tarde vemos la televisión.",
+    "example": "'por la tarde' covers both 'afternoon' and early 'evening' in Spanish"
+  },
+  {
+    "id": 18,
+    "term": "At night, I read a book.",
+    "definition": "Por la noche leo un libro.",
+    "example": "'por la noche' = at night"
+  },
+  {
+    "id": 19,
+    "term": "This afternoon, I have a meeting.",
+    "definition": "Esta tarde tengo una reunión.",
+    "example": "'esta tarde' = this afternoon"
+  },
+  {
+    "id": 20,
+    "term": "Every weekend, we visit my parents.",
+    "definition": "Cada fin de semana visitamos a mis padres.",
+    "example": "the personal 'a' — required before a direct-object person: visitamos A mis padres"
+  },
+  {
+    "id": 21,
+    "term": "I would like a glass of water.",
+    "definition": "Quisiera un vaso de agua.",
+    "example": "'quisiera' — the polite way to ask for something"
+  },
+  {
+    "id": 22,
+    "term": "Can I have the menu, please?",
+    "definition": "¿Puedo tener el menú, por favor?",
+    "example": "'poder' + tener"
+  },
+  {
+    "id": 23,
+    "term": "This soup is delicious.",
+    "definition": "Esta sopa está deliciosa.",
+    "example": "'estar' — how the soup tastes right now, not an inherent trait"
+  },
+  {
+    "id": 24,
+    "term": "I don't eat meat.",
+    "definition": "No como carne.",
+    "example": "no article needed for a generic negated food"
+  },
+  {
+    "id": 25,
+    "term": "She likes sweet food.",
+    "definition": "A ella le gusta la comida dulce.",
+    "example": "'gustar' with 'a ella' for clarity/emphasis"
+  },
+  {
+    "id": 26,
+    "term": "We are having pizza for dinner.",
+    "definition": "Cenamos pizza.",
+    "example": "'cenar' (have dinner) takes pizza directly as its object"
+  },
+  {
+    "id": 27,
+    "term": "The bread is fresh.",
+    "definition": "El pan está fresco.",
+    "example": "'estar' — freshness is a temporary state"
+  },
+  {
+    "id": 28,
+    "term": "I usually drink tea, not coffee.",
+    "definition": "Normalmente bebo té, no café.",
+    "example": "'normalmente' = usually"
+  },
+  {
+    "id": 29,
+    "term": "This restaurant is very popular.",
+    "definition": "Este restaurante es muy popular.",
+    "example": "'ser' — an inherent, lasting trait"
+  },
+  {
+    "id": 30,
+    "term": "The food here is cheap.",
+    "definition": "La comida aquí es barata.",
+    "example": "'ser' again, an inherent trait of this place"
+  },
+  {
+    "id": 31,
+    "term": "It is sunny today.",
+    "definition": "Hoy hace sol.",
+    "example": "'hacer sol' — weather uses 'hacer', not 'ser'/'estar'"
+  },
+  {
+    "id": 32,
+    "term": "It is raining outside.",
+    "definition": "Está lloviendo afuera.",
+    "example": "'estar' + gerundio for weather in progress"
+  },
+  {
+    "id": 33,
+    "term": "It is very windy.",
+    "definition": "Hace mucho viento.",
+    "example": "'hacer viento'"
+  },
+  {
+    "id": 34,
+    "term": "It is snowing in the mountains.",
+    "definition": "Está nevando en las montañas.",
+    "example": "'nevar' + estar progresivo"
+  },
+  {
+    "id": 35,
+    "term": "The weather is nice this week.",
+    "definition": "Hace buen tiempo esta semana.",
+    "example": "'hacer buen tiempo'"
+  },
+  {
+    "id": 36,
+    "term": "It is cloudy this morning.",
+    "definition": "Está nublado esta mañana.",
+    "example": "'estar nublado' — a state, not 'hacer'"
+  },
+  {
+    "id": 37,
+    "term": "It is hot in the summer.",
+    "definition": "Hace calor en verano.",
+    "example": "'hacer calor'"
+  },
+  {
+    "id": 38,
+    "term": "It is cold in the winter.",
+    "definition": "Hace frío en invierno.",
+    "example": "'hacer frío'"
+  },
+  {
+    "id": 39,
+    "term": "There is a storm coming.",
+    "definition": "Se acerca una tormenta.",
+    "example": "reflexive 'acercarse' (approach)"
+  },
+  {
+    "id": 40,
+    "term": "The sky is blue today.",
+    "definition": "El cielo está azul hoy.",
+    "example": "'estar' — today's specific appearance"
+  },
+  {
+    "id": 41,
+    "term": "I visited my grandparents last week.",
+    "definition": "Visité a mis abuelos la semana pasada.",
+    "example": "pretérito: visité; personal 'a' before the people visited"
+  },
+  {
+    "id": 42,
+    "term": "We watched a good movie yesterday.",
+    "definition": "Vimos una buena película ayer.",
+    "example": "pretérito: vimos"
+  },
+  {
+    "id": 43,
+    "term": "She cooked dinner for us.",
+    "definition": "Nos cocinó la cena.",
+    "example": "'nos' (for us) sits BEFORE the verb"
+  },
+  {
+    "id": 44,
+    "term": "They traveled to Spain last summer.",
+    "definition": "Viajaron a España el verano pasado.",
+    "example": "pretérito: viajaron"
+  },
+  {
+    "id": 45,
+    "term": "I finished my homework early.",
+    "definition": "Terminé mi tarea temprano.",
+    "example": "pretérito: terminé"
+  },
+  {
+    "id": 46,
+    "term": "He bought a new car.",
+    "definition": "Compró un coche nuevo.",
+    "example": "pretérito: compró"
+  },
+  {
+    "id": 47,
+    "term": "We walked to the park.",
+    "definition": "Caminamos hasta el parque.",
+    "example": "'hasta' (up to/as far as) + destination"
+  },
+  {
+    "id": 48,
+    "term": "I called my friend this morning.",
+    "definition": "Llamé a mi amigo esta mañana.",
+    "example": "personal 'a' again: llamé A mi amigo"
+  },
+  {
+    "id": 49,
+    "term": "She sold her old bicycle.",
+    "definition": "Vendió su vieja bicicleta.",
+    "example": "pretérito: vendió"
+  },
+  {
+    "id": 50,
+    "term": "We celebrated his birthday together.",
+    "definition": "Celebramos su cumpleaños juntos.",
+    "example": "pretérito: celebramos"
+  },
+  {
+    "id": 51,
+    "term": "I am going to visit my aunt.",
+    "definition": "Voy a visitar a mi tía.",
+    "example": "'ir a' + infinitive — the classic near-future; personal 'a' before tía"
+  },
+  {
+    "id": 52,
+    "term": "We are going to have a party.",
+    "definition": "Vamos a hacer una fiesta.",
+    "example": "'ir a' plural"
+  },
+  {
+    "id": 53,
+    "term": "She is going to start a new job.",
+    "definition": "Va a empezar un nuevo trabajo.",
+    "example": "va a + infinitive"
+  },
+  {
+    "id": 54,
+    "term": "They are going to move to a new city.",
+    "definition": "Van a mudarse a una nueva ciudad.",
+    "example": "van a + reflexive infinitive"
+  },
+  {
+    "id": 55,
+    "term": "I am going to buy a new phone.",
+    "definition": "Voy a comprar un teléfono nuevo.",
+    "example": "voy a + infinitive"
+  },
+  {
+    "id": 56,
+    "term": "He is going to learn to swim.",
+    "definition": "Va a aprender a nadar.",
+    "example": "'aprender a' + infinitive"
+  },
+  {
+    "id": 57,
+    "term": "We are going to travel next month.",
+    "definition": "Vamos a viajar el próximo mes.",
+    "example": "vamos a + infinitive"
+  },
+  {
+    "id": 58,
+    "term": "I am going to cook dinner tonight.",
+    "definition": "Voy a cocinar la cena esta noche.",
+    "example": "voy a + infinitive"
+  },
+  {
+    "id": 59,
+    "term": "She is going to call you later.",
+    "definition": "Va a llamarte más tarde.",
+    "example": "object pronoun attaches to the infinitive: llamarte"
+  },
+  {
+    "id": 60,
+    "term": "They are going to arrive tomorrow.",
+    "definition": "Van a llegar mañana.",
+    "example": "van a + infinitive"
+  },
+  {
+    "id": 61,
+    "term": "I like coffee and tea.",
+    "definition": "Me gustan el café y el té.",
+    "example": "'gustar' agrees PLURAL: gustan, since two things are liked"
+  },
+  {
+    "id": 62,
+    "term": "She is smart and kind.",
+    "definition": "Ella es inteligente y amable.",
+    "example": "'ser' for lasting personality traits"
+  },
+  {
+    "id": 63,
+    "term": "I want to go, but I am tired.",
+    "definition": "Quiero ir, pero estoy cansado.",
+    "example": "'estar' — tiredness is a temporary state"
+  },
+  {
+    "id": 64,
+    "term": "He is tall, but his brother is short.",
+    "definition": "Él es alto, pero su hermano es bajo.",
+    "example": "'ser' for a lasting physical trait"
+  },
+  {
+    "id": 65,
+    "term": "Do you want tea or coffee?",
+    "definition": "¿Quieres té o café?",
+    "example": "'o' = or"
+  },
+  {
+    "id": 66,
+    "term": "You can call me or send a message.",
+    "definition": "Puedes llamarme o enviar un mensaje.",
+    "example": "'o' linking two actions"
+  },
+  {
+    "id": 67,
+    "term": "I stayed home because it was raining.",
+    "definition": "Me quedé en casa porque estaba lloviendo.",
+    "example": "imperfecto for background weather: estaba lloviendo"
+  },
+  {
+    "id": 68,
+    "term": "She was late because of the traffic.",
+    "definition": "Llegó tarde por el tráfico.",
+    "example": "'por' = because of"
+  },
+  {
+    "id": 69,
+    "term": "I am happy because I passed the test.",
+    "definition": "Estoy feliz porque aprobé el examen.",
+    "example": "'estar' — the emotional state"
+  },
+  {
+    "id": 70,
+    "term": "He is tired because he worked all day.",
+    "definition": "Está cansado porque trabajó todo el día.",
+    "example": "'estar' for tiredness again"
+  },
+  {
+    "id": 71,
+    "term": "The bank is near the school.",
+    "definition": "El banco está cerca de la escuela.",
+    "example": "'estar' for location"
+  },
+  {
+    "id": 72,
+    "term": "The park is far from here.",
+    "definition": "El parque está lejos de aquí.",
+    "example": "'lejos de' = far from"
+  },
+  {
+    "id": 73,
+    "term": "Turn left at the corner.",
+    "definition": "Gire a la izquierda en la esquina.",
+    "example": "formal imperative: gire"
+  },
+  {
+    "id": 74,
+    "term": "Turn right at the traffic light.",
+    "definition": "Gire a la derecha en el semáforo.",
+    "example": "'a la derecha' = to the right"
+  },
+  {
+    "id": 75,
+    "term": "Go straight ahead.",
+    "definition": "Siga todo recto.",
+    "example": "'todo recto' = straight ahead"
+  },
+  {
+    "id": 76,
+    "term": "The hospital is next to the church.",
+    "definition": "El hospital está al lado de la iglesia.",
+    "example": "'al lado de' = next to"
+  },
+  {
+    "id": 77,
+    "term": "The store is across from the hotel.",
+    "definition": "La tienda está enfrente del hotel.",
+    "example": "'enfrente de' = across from"
+  },
+  {
+    "id": 78,
+    "term": "It is behind the building.",
+    "definition": "Está detrás del edificio.",
+    "example": "'detrás de' = behind"
+  },
+  {
+    "id": 79,
+    "term": "It is in front of the station.",
+    "definition": "Está delante de la estación.",
+    "example": "'delante de' = in front of"
+  },
+  {
+    "id": 80,
+    "term": "The bathroom is upstairs.",
+    "definition": "El baño está arriba.",
+    "example": "'arriba' = upstairs"
+  },
+  {
+    "id": 81,
+    "term": "The car is red.",
+    "definition": "El coche es rojo.",
+    "example": "'ser' — an inherent color"
+  },
+  {
+    "id": 82,
+    "term": "The house is white and big.",
+    "definition": "La casa es blanca y grande.",
+    "example": "'ser' for lasting features"
+  },
+  {
+    "id": 83,
+    "term": "This box is heavy.",
+    "definition": "Esta caja es pesada.",
+    "example": "'ser' — an inherent property"
+  },
+  {
+    "id": 84,
+    "term": "That bag is light.",
+    "definition": "Esa bolsa es ligera.",
+    "example": "'ser' again"
+  },
+  {
+    "id": 85,
+    "term": "The room is clean.",
+    "definition": "La habitación está limpia.",
+    "example": "'estar' — cleanliness is a changeable state"
+  },
+  {
+    "id": 86,
+    "term": "The street is dirty.",
+    "definition": "La calle está sucia.",
+    "example": "'estar' again"
+  },
+  {
+    "id": 87,
+    "term": "This road is long.",
+    "definition": "Este camino es largo.",
+    "example": "'ser' — an inherent property"
+  },
+  {
+    "id": 88,
+    "term": "That path is short.",
+    "definition": "Ese sendero es corto.",
+    "example": "'ser'"
+  },
+  {
+    "id": 89,
+    "term": "The water is deep here.",
+    "definition": "El agua es profunda aquí.",
+    "example": "'ser' — an inherent feature of this spot"
+  },
+  {
+    "id": 90,
+    "term": "This lake is shallow.",
+    "definition": "Este lago es poco profundo.",
+    "example": "'poco profundo' = shallow, literally 'little deep'"
+  },
+  {
+    "id": 91,
+    "term": "I see her every day.",
+    "definition": "La veo todos los días.",
+    "example": "object pronoun 'la' (her) sits BEFORE the verb"
+  },
+  {
+    "id": 92,
+    "term": "He calls me every week.",
+    "definition": "Me llama todas las semanas.",
+    "example": "object pronoun 'me' before the verb"
+  },
+  {
+    "id": 93,
+    "term": "We visit them on Sundays.",
+    "definition": "Los visitamos los domingos.",
+    "example": "object pronoun 'los' (them, masculine)"
+  },
+  {
+    "id": 94,
+    "term": "She waits for us at the station.",
+    "definition": "Nos espera en la estación.",
+    "example": "object pronoun 'nos' (us)"
+  },
+  {
+    "id": 95,
+    "term": "I don't see him here.",
+    "definition": "No lo veo aquí.",
+    "example": "'no' + object pronoun 'lo' (him) + verb"
+  },
+  {
+    "id": 96,
+    "term": "They know you well.",
+    "definition": "Te conocen bien.",
+    "example": "object pronoun 'te' (you)"
+  },
+  {
+    "id": 97,
+    "term": "Do you understand me?",
+    "definition": "¿Me entiendes?",
+    "example": "object pronoun 'me' even in a question — still comes first"
+  },
+  {
+    "id": 98,
+    "term": "I love you very much.",
+    "definition": "Te quiero mucho.",
+    "example": "object pronoun 'te'; 'querer' commonly means 'love' informally"
+  },
+  {
+    "id": 99,
+    "term": "Today's date is the fifth of August.",
+    "definition": "Hoy es cinco de agosto.",
+    "example": "Spanish dates use CARDINAL numbers, not ordinals — and no article"
+  },
+  {
+    "id": 100,
+    "term": "The number nine is my lucky number.",
+    "definition": "El número nueve es mi número de la suerte.",
+    "example": "'de la suerte' = lucky, literally 'of luck'"
+  }
+];
+window.QM_SENTENCES_ES_LOWERINT_DATA = [
+  {
+    "id": 1,
+    "term": "I want to learn Spanish.",
+    "definition": "Quiero aprender español.",
+    "example": "modal 'querer' + infinitive"
+  },
+  {
+    "id": 2,
+    "term": "I can help you tomorrow.",
+    "definition": "Puedo ayudarte mañana.",
+    "example": "'poder' + infinitive; object pronoun attaches to the infinitive: ayudarte"
+  },
+  {
+    "id": 3,
+    "term": "I must go now.",
+    "definition": "Debo irme ahora.",
+    "example": "'deber' (must) + reflexive infinitive: irse"
+  },
+  {
+    "id": 4,
+    "term": "You should rest.",
+    "definition": "Deberías descansar.",
+    "example": "conditional of deber softens it into 'should': deberías"
+  },
+  {
+    "id": 5,
+    "term": "She should call her mother.",
+    "definition": "Debería llamar a su madre.",
+    "example": "conditional, 3rd person: debería; personal 'a'"
+  },
+  {
+    "id": 6,
+    "term": "We want to visit Madrid.",
+    "definition": "Queremos visitar Madrid.",
+    "example": "'querer' plural + infinitive"
+  },
+  {
+    "id": 7,
+    "term": "They can't come today.",
+    "definition": "No pueden venir hoy.",
+    "example": "negated modal: no + poder"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to eat now.",
+    "definition": "No quiero comer ahora.",
+    "example": "negated 'querer' + infinitive"
+  },
+  {
+    "id": 9,
+    "term": "Do you want some tea?",
+    "definition": "¿Quieres té?",
+    "example": "no extra word needed for the question"
+  },
+  {
+    "id": 10,
+    "term": "I would like to order a coffee.",
+    "definition": "Quisiera pedir un café.",
+    "example": "'quisiera' — the polite conditional"
+  },
+  {
+    "id": 11,
+    "term": "You have to be careful.",
+    "definition": "Tienes que tener cuidado.",
+    "example": "'tener que' + infinitive — the other common way to say 'have to'"
+  },
+  {
+    "id": 12,
+    "term": "It's necessary to buy bread.",
+    "definition": "Es necesario comprar pan.",
+    "example": "'es necesario' + infinitive"
+  },
+  {
+    "id": 13,
+    "term": "You can smoke here.",
+    "definition": "Se puede fumar aquí.",
+    "example": "impersonal 'se puede' (one can)"
+  },
+  {
+    "id": 14,
+    "term": "You can't park here.",
+    "definition": "No se puede aparcar aquí.",
+    "example": "negated impersonal 'se puede'"
+  },
+  {
+    "id": 15,
+    "term": "It's worth trying this soup.",
+    "definition": "Vale la pena probar esta sopa.",
+    "example": "fixed phrase: 'vale la pena' (it's worth it) + infinitive"
+  },
+  {
+    "id": 16,
+    "term": "It's not necessary to hurry.",
+    "definition": "No es necesario darse prisa.",
+    "example": "'darse prisa' — idiom for 'to hurry'"
+  },
+  {
+    "id": 17,
+    "term": "You shouldn't smoke.",
+    "definition": "No deberías fumar.",
+    "example": "negated conditional of deber"
+  },
+  {
+    "id": 18,
+    "term": "One has to work hard.",
+    "definition": "Hay que trabajar duro.",
+    "example": "'hay que' — impersonal obligation, distinct from 'tener que'"
+  },
+  {
+    "id": 19,
+    "term": "Everyone must follow the rules.",
+    "definition": "Todos deben seguir las reglas.",
+    "example": "'deber' 3rd plural: deben"
+  },
+  {
+    "id": 20,
+    "term": "I have to finish this today.",
+    "definition": "Tengo que terminar esto hoy.",
+    "example": "'tener que' + infinitive"
+  },
+  {
+    "id": 21,
+    "term": "I like this song.",
+    "definition": "Me gusta esta canción.",
+    "example": "'gustar' works backwards: the song is the subject, 'me' is who likes it"
+  },
+  {
+    "id": 22,
+    "term": "Do you like this city?",
+    "definition": "¿Te gusta esta ciudad?",
+    "example": "same backwards construction, 'te'"
+  },
+  {
+    "id": 23,
+    "term": "We like this restaurant.",
+    "definition": "Nos gusta este restaurante.",
+    "example": "dative plural: nos"
+  },
+  {
+    "id": 24,
+    "term": "They don't like this idea.",
+    "definition": "No les gusta esta idea.",
+    "example": "dative 'les' (to them), negated"
+  },
+  {
+    "id": 25,
+    "term": "My head hurts.",
+    "definition": "Me duele la cabeza.",
+    "example": "'doler' works just like 'gustar' — the body part is the subject"
+  },
+  {
+    "id": 26,
+    "term": "My legs hurt.",
+    "definition": "Me duelen las piernas.",
+    "example": "plural subject, plural verb: duelen"
+  },
+  {
+    "id": 27,
+    "term": "Does your stomach hurt?",
+    "definition": "¿Te duele el estómago?",
+    "example": "'te' (to you)"
+  },
+  {
+    "id": 28,
+    "term": "I feel sick.",
+    "definition": "Me siento mal.",
+    "example": "reflexive 'sentirse' + adverb"
+  },
+  {
+    "id": 29,
+    "term": "I am cold.",
+    "definition": "Tengo frío.",
+    "example": "idiom: 'tener frío' is literally 'to have cold'"
+  },
+  {
+    "id": 30,
+    "term": "Are you hungry?",
+    "definition": "¿Tienes hambre?",
+    "example": "'tener hambre' — same have-an-idiom pattern"
+  },
+  {
+    "id": 31,
+    "term": "The more you practice, the better you speak.",
+    "definition": "Cuanto más practicas, mejor hablas.",
+    "example": "'cuanto más...mejor' pairs two comparative ideas"
+  },
+  {
+    "id": 32,
+    "term": "The sooner, the better.",
+    "definition": "Cuanto antes, mejor.",
+    "example": "same correlative, shortened"
+  },
+  {
+    "id": 33,
+    "term": "Both my sister and my brother live in Madrid.",
+    "definition": "Tanto mi hermana como mi hermano viven en Madrid.",
+    "example": "'tanto...como' = 'both...and'"
+  },
+  {
+    "id": 34,
+    "term": "I like neither tea nor coffee.",
+    "definition": "No me gusta ni el té ni el café.",
+    "example": "'ni...ni' = 'neither...nor'"
+  },
+  {
+    "id": 35,
+    "term": "This is the most beautiful city in Spain.",
+    "definition": "Esta es la ciudad más bonita de España.",
+    "example": "superlative: la más bonita"
+  },
+  {
+    "id": 36,
+    "term": "He is older than me.",
+    "definition": "Él es mayor que yo.",
+    "example": "'mayor' — the usual comparative for people's age, not 'más viejo'"
+  },
+  {
+    "id": 37,
+    "term": "This is worse than I thought.",
+    "definition": "Esto es peor de lo que pensaba.",
+    "example": "irregular comparative: malo → peor"
+  },
+  {
+    "id": 38,
+    "term": "She sings better than he does.",
+    "definition": "Ella canta mejor que él.",
+    "example": "irregular comparative: bien → mejor"
+  },
+  {
+    "id": 39,
+    "term": "This task is easier than that one.",
+    "definition": "Esta tarea es más fácil que esa.",
+    "example": "regular comparative: más fácil"
+  },
+  {
+    "id": 40,
+    "term": "He runs the fastest on our team.",
+    "definition": "Él corre más rápido de todo el equipo.",
+    "example": "superlative-style comparison with 'de'"
+  },
+  {
+    "id": 41,
+    "term": "I think that this is a good idea.",
+    "definition": "Creo que esta es una buena idea.",
+    "example": "'creer que' + indicative — a plain opinion"
+  },
+  {
+    "id": 42,
+    "term": "I know that you are right.",
+    "definition": "Sé que tienes razón.",
+    "example": "'saber que' + indicative — a certainty"
+  },
+  {
+    "id": 43,
+    "term": "I hope that the weather will be nice.",
+    "definition": "Espero que haga buen tiempo.",
+    "example": "'esperar que' triggers the SUBJUNTIVO: haga"
+  },
+  {
+    "id": 44,
+    "term": "I am glad that you came.",
+    "definition": "Me alegro de que hayas venido.",
+    "example": "'alegrarse de que' + subjuntivo: hayas venido"
+  },
+  {
+    "id": 45,
+    "term": "I don't think that it's true.",
+    "definition": "No creo que sea verdad.",
+    "example": "negating 'creer que' switches it to the subjuntivo: sea"
+  },
+  {
+    "id": 46,
+    "term": "I am learning Spanish because I want to live in Spain.",
+    "definition": "Estoy aprendiendo español porque quiero vivir en España.",
+    "example": "'porque' + indicative, stating a reason"
+  },
+  {
+    "id": 47,
+    "term": "I can't come because I am sick.",
+    "definition": "No puedo venir porque estoy enfermo.",
+    "example": "same fact-stating 'porque'"
+  },
+  {
+    "id": 48,
+    "term": "I am studying so that I can pass the exam.",
+    "definition": "Estudio para aprobar el examen.",
+    "example": "'para' + infinitive, when the subject doesn't change"
+  },
+  {
+    "id": 49,
+    "term": "Call me when you arrive.",
+    "definition": "Llámame cuando llegues.",
+    "example": "'cuando' + SUBJUNTIVO for a future event: llegues"
+  },
+  {
+    "id": 50,
+    "term": "If it rains, we will stay home.",
+    "definition": "Si llueve, nos quedaremos en casa.",
+    "example": "a real future condition: 'si' + present indicative, result in the future"
+  },
+  {
+    "id": 51,
+    "term": "The woman who lives next door is a doctor.",
+    "definition": "La mujer que vive al lado es médica.",
+    "example": "'que' — Spanish's all-purpose relative pronoun"
+  },
+  {
+    "id": 52,
+    "term": "The man who called yesterday is my uncle.",
+    "definition": "El hombre que llamó ayer es mi tío.",
+    "example": "'que' as subject"
+  },
+  {
+    "id": 53,
+    "term": "The book that I am reading is very interesting.",
+    "definition": "El libro que estoy leyendo es muy interesante.",
+    "example": "'que' again — same word whether subject or object"
+  },
+  {
+    "id": 54,
+    "term": "The children who play in the park are our neighbors.",
+    "definition": "Los niños que juegan en el parque son nuestros vecinos.",
+    "example": "'que', plural subject"
+  },
+  {
+    "id": 55,
+    "term": "This is the house in which I grew up.",
+    "definition": "Esta es la casa en la que crecí.",
+    "example": "after a preposition, 'que' becomes 'el/la que': en la que"
+  },
+  {
+    "id": 56,
+    "term": "I don't remember the name of the street where we met.",
+    "definition": "No recuerdo el nombre de la calle donde nos conocimos.",
+    "example": "'donde' (where) is its own relative word for places"
+  },
+  {
+    "id": 57,
+    "term": "The people whom I met were very friendly.",
+    "definition": "Las personas que conocí eran muy amables.",
+    "example": "'que' once more, as an object"
+  },
+  {
+    "id": 58,
+    "term": "This is the reason why I am late.",
+    "definition": "Esta es la razón por la que llego tarde.",
+    "example": "'por la que' = 'why', literally 'for which'"
+  },
+  {
+    "id": 59,
+    "term": "The car that broke down is mine.",
+    "definition": "El coche que se averió es mío.",
+    "example": "'que' + a reflexive verb inside the clause"
+  },
+  {
+    "id": 60,
+    "term": "I found the keys that I lost.",
+    "definition": "Encontré las llaves que había perdido.",
+    "example": "'que' + the pluscuamperfecto (had lost): había perdido"
+  },
+  {
+    "id": 61,
+    "term": "The meeting starts at three o'clock.",
+    "definition": "La reunión empieza a las tres.",
+    "example": "clock time: a las tres"
+  },
+  {
+    "id": 62,
+    "term": "I usually wake up before seven.",
+    "definition": "Normalmente me despierto antes de las siete.",
+    "example": "'antes de' + a time"
+  },
+  {
+    "id": 63,
+    "term": "We will meet after the concert.",
+    "definition": "Nos veremos después del concierto.",
+    "example": "'después de' + 'el' contract into 'del'"
+  },
+  {
+    "id": 64,
+    "term": "The shop is open from nine to six.",
+    "definition": "La tienda está abierta de nueve a seis.",
+    "example": "'de...a' (from...to)"
+  },
+  {
+    "id": 65,
+    "term": "I lived in Spain for three years.",
+    "definition": "Viví en España durante tres años.",
+    "example": "'durante' + a length of time"
+  },
+  {
+    "id": 66,
+    "term": "I haven't seen him since last year.",
+    "definition": "No lo he visto desde el año pasado.",
+    "example": "'desde' (since) marks something still relevant now"
+  },
+  {
+    "id": 67,
+    "term": "During the summer, we travel a lot.",
+    "definition": "Durante el verano viajamos mucho.",
+    "example": "'durante' can also mean 'during'"
+  },
+  {
+    "id": 68,
+    "term": "On Mondays, I go to the gym.",
+    "definition": "Los lunes voy al gimnasio.",
+    "example": "'los lunes' (on Mondays) — a repeated day"
+  },
+  {
+    "id": 69,
+    "term": "Next week, I am going on vacation.",
+    "definition": "La próxima semana me voy de vacaciones.",
+    "example": "'la próxima semana' (next week)"
+  },
+  {
+    "id": 70,
+    "term": "Two years ago, I visited Spain.",
+    "definition": "Hace dos años visité España.",
+    "example": "'hace' (ago) precedes the amount of time"
+  },
+  {
+    "id": 71,
+    "term": "There are a lot of people here.",
+    "definition": "Hay mucha gente aquí.",
+    "example": "'hay' (there is/are) + 'mucha gente'"
+  },
+  {
+    "id": 72,
+    "term": "I have little time.",
+    "definition": "Tengo poco tiempo.",
+    "example": "'poco' (little)"
+  },
+  {
+    "id": 73,
+    "term": "I have a few questions.",
+    "definition": "Tengo algunas preguntas.",
+    "example": "'algunas' (a few)"
+  },
+  {
+    "id": 74,
+    "term": "There are many opportunities here.",
+    "definition": "Hay muchas oportunidades aquí.",
+    "example": "'hay' + plural"
+  },
+  {
+    "id": 75,
+    "term": "I have several friends in Spain.",
+    "definition": "Tengo varios amigos en España.",
+    "example": "'varios' (several)"
+  },
+  {
+    "id": 76,
+    "term": "Not many people know about this.",
+    "definition": "No mucha gente sabe esto.",
+    "example": "'no mucha gente' (not many people)"
+  },
+  {
+    "id": 77,
+    "term": "I need a bit more time.",
+    "definition": "Necesito un poco más de tiempo.",
+    "example": "'un poco más de' (a bit more of)"
+  },
+  {
+    "id": 78,
+    "term": "Most people agree with this.",
+    "definition": "La mayoría de la gente está de acuerdo con esto.",
+    "example": "'la mayoría de' = 'most of'"
+  },
+  {
+    "id": 79,
+    "term": "I bought a lot of books.",
+    "definition": "Compré muchos libros.",
+    "example": "'muchos' + plural noun"
+  },
+  {
+    "id": 80,
+    "term": "There isn't enough bread.",
+    "definition": "No hay suficiente pan.",
+    "example": "'suficiente' (enough)"
+  },
+  {
+    "id": 81,
+    "term": "Sit down, please.",
+    "definition": "Siéntate, por favor.",
+    "example": "informal imperative of a reflexive verb: siéntate"
+  },
+  {
+    "id": 82,
+    "term": "Wait for me!",
+    "definition": "¡Espérame!",
+    "example": "the object pronoun attaches right onto the imperative: espera + me"
+  },
+  {
+    "id": 83,
+    "term": "Don't worry.",
+    "definition": "No te preocupes.",
+    "example": "the NEGATIVE informal imperative uses the SUBJUNTIVO form, not the plain imperative"
+  },
+  {
+    "id": 84,
+    "term": "Close the door, please.",
+    "definition": "Cierra la puerta, por favor.",
+    "example": "ordinary informal imperative: cierra"
+  },
+  {
+    "id": 85,
+    "term": "Let's go!",
+    "definition": "¡Vamos!",
+    "example": "the irregular 'nosotros' form of ir doubles as 'let's go'"
+  },
+  {
+    "id": 86,
+    "term": "Let's eat something.",
+    "definition": "Comamos algo.",
+    "example": "'nosotros' command, built from the subjuntivo: comamos"
+  },
+  {
+    "id": 87,
+    "term": "Be careful!",
+    "definition": "¡Ten cuidado!",
+    "example": "irregular imperative of tener: ten"
+  },
+  {
+    "id": 88,
+    "term": "Don't be afraid.",
+    "definition": "No tengas miedo.",
+    "example": "negative imperative = subjuntivo form: tengas"
+  },
+  {
+    "id": 89,
+    "term": "Help me, please.",
+    "definition": "Ayúdame, por favor.",
+    "example": "imperative + attached pronoun: ayuda + me"
+  },
+  {
+    "id": 90,
+    "term": "Listen to me!",
+    "definition": "¡Escúchame!",
+    "example": "'escuchar' takes a direct object, no preposition needed unlike English 'listen TO'"
+  },
+  {
+    "id": 91,
+    "term": "I don't know where he lives.",
+    "definition": "No sé dónde vive.",
+    "example": "an indirect question — 'dónde' works the same tucked inside a sentence"
+  },
+  {
+    "id": 92,
+    "term": "I don't know what time it is.",
+    "definition": "No sé qué hora es.",
+    "example": "idiomatic: literally 'what hour it is'"
+  },
+  {
+    "id": 93,
+    "term": "Tell me why you are sad.",
+    "definition": "Dime por qué estás triste.",
+    "example": "imperative + indirect question"
+  },
+  {
+    "id": 94,
+    "term": "I wonder who called.",
+    "definition": "Me pregunto quién llamó.",
+    "example": "'preguntarse' (wonder) + indirect question with 'quién'"
+  },
+  {
+    "id": 95,
+    "term": "I am not sure if he is coming.",
+    "definition": "No estoy seguro de si viene.",
+    "example": "'de si' — 'about whether'"
+  },
+  {
+    "id": 96,
+    "term": "She said that she was tired.",
+    "definition": "Dijo que estaba cansada.",
+    "example": "Spanish also shifts the tense back in reported speech: estaba (imperfecto)"
+  },
+  {
+    "id": 97,
+    "term": "He asked if I spoke Spanish.",
+    "definition": "Preguntó si hablaba español.",
+    "example": "same backshift: hablaba (imperfecto)"
+  },
+  {
+    "id": 98,
+    "term": "If I had more time, I would learn Italian too.",
+    "definition": "Si tuviera más tiempo, también aprendería italiano.",
+    "example": "hypothetical: 'si' + imperfecto de subjuntivo (tuviera), result in the condicional (aprendería)"
+  },
+  {
+    "id": 99,
+    "term": "If I were you, I would rest.",
+    "definition": "Si yo fuera tú, descansaría.",
+    "example": "'fuera' — the imperfecto de subjuntivo of ser"
+  },
+  {
+    "id": 100,
+    "term": "I would be very happy if you came.",
+    "definition": "Sería muy feliz si vinieras.",
+    "example": "condicional + imperfecto de subjuntivo: sería...vinieras"
+  }
+];
+window.QM_SENTENCES_ES_INTERMEDIATE_DATA = [
+  {
+    "id": 1,
+    "term": "I go there every day.",
+    "definition": "Voy allí todos los días.",
+    "example": "just the plain adverb 'allí' — Spanish has no ci/ne-style particle for this"
+  },
+  {
+    "id": 2,
+    "term": "I don't believe it.",
+    "definition": "No lo creo.",
+    "example": "plain object pronoun 'lo' (it)"
+  },
+  {
+    "id": 3,
+    "term": "I think about it often.",
+    "definition": "Pienso en ello a menudo.",
+    "example": "'en ello' — the neuter pronoun for an abstract 'it'"
+  },
+  {
+    "id": 4,
+    "term": "How many books do you have? I have three of them.",
+    "definition": "¿Cuántos libros tienes? Tengo tres.",
+    "example": "Spanish just drops 'of them' entirely — no particle needed"
+  },
+  {
+    "id": 5,
+    "term": "Do you want some wine? Yes, I want some.",
+    "definition": "¿Quieres vino? Sí, quiero un poco.",
+    "example": "'un poco' = some, stated explicitly"
+  },
+  {
+    "id": 6,
+    "term": "Do you need money? Yes, I need some.",
+    "definition": "¿Necesitas dinero? Sí, necesito un poco.",
+    "example": "same 'un poco' pattern"
+  },
+  {
+    "id": 7,
+    "term": "I'm leaving now.",
+    "definition": "Me voy ahora.",
+    "example": "reflexive 'irse' (leave/go away)"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to talk about it.",
+    "definition": "No quiero hablar de eso.",
+    "example": "'de eso' = about that/it"
+  },
+  {
+    "id": 9,
+    "term": "How many sisters do you have? I have one.",
+    "definition": "¿Cuántas hermanas tienes? Tengo una.",
+    "example": "'una' stands alone for the count"
+  },
+  {
+    "id": 10,
+    "term": "I'm sure of it.",
+    "definition": "Estoy seguro de eso.",
+    "example": "'de eso' (of that/it)"
+  },
+  {
+    "id": 11,
+    "term": "I used to read a lot as a child.",
+    "definition": "De niño, leía mucho.",
+    "example": "imperfecto for a habit stretched over time: leía"
+  },
+  {
+    "id": 12,
+    "term": "Yesterday I read that whole book.",
+    "definition": "Ayer leí todo ese libro.",
+    "example": "pretérito for one completed action: leí"
+  },
+  {
+    "id": 13,
+    "term": "I always drank coffee in the morning.",
+    "definition": "Siempre bebía café por la mañana.",
+    "example": "imperfecto, habitual: bebía"
+  },
+  {
+    "id": 14,
+    "term": "This morning I drank two cups of coffee.",
+    "definition": "Esta mañana bebí dos tazas de café.",
+    "example": "pretérito, a specific completed amount: bebí"
+  },
+  {
+    "id": 15,
+    "term": "She was writing a letter when I called.",
+    "definition": "Estaba escribiendo una carta cuando llamé.",
+    "example": "imperfecto progresivo, interrupted by a pretérito"
+  },
+  {
+    "id": 16,
+    "term": "She wrote the letter and sent it.",
+    "definition": "Escribió la carta y la envió.",
+    "example": "pretérito for a finished sequence"
+  },
+  {
+    "id": 17,
+    "term": "We were watching a movie all evening.",
+    "definition": "Estábamos viendo una película toda la noche.",
+    "example": "imperfecto progresivo for duration"
+  },
+  {
+    "id": 18,
+    "term": "We watched the whole movie in one sitting.",
+    "definition": "Vimos toda la película de una sentada.",
+    "example": "pretérito for the completed whole"
+  },
+  {
+    "id": 19,
+    "term": "I was learning Spanish for two years before I moved here.",
+    "definition": "Llevaba dos años aprendiendo español antes de mudarme aquí.",
+    "example": "'llevar' + time + gerundio — the standard way to express an ongoing duration"
+  },
+  {
+    "id": 20,
+    "term": "I finally learned all the irregular verbs.",
+    "definition": "Por fin aprendí todos los verbos irregulares.",
+    "example": "pretérito — the moment it finally clicked"
+  },
+  {
+    "id": 21,
+    "term": "This book was written by a famous author.",
+    "definition": "Este libro fue escrito por un autor famoso.",
+    "example": "passive: ser + past participle, 'por' (by) + the agent"
+  },
+  {
+    "id": 22,
+    "term": "The house was built in 1920.",
+    "definition": "La casa fue construida en 1920.",
+    "example": "same passive pattern, no agent named"
+  },
+  {
+    "id": 23,
+    "term": "The letter is being written now.",
+    "definition": "La carta está siendo escrita ahora.",
+    "example": "'estar siendo' + participio — an ongoing passive"
+  },
+  {
+    "id": 24,
+    "term": "The doors are closed at nine.",
+    "definition": "Las puertas se cierran a las nueve.",
+    "example": "the reflexive-passive 'se cierran' is far more common in Spanish than the true passive here"
+  },
+  {
+    "id": 25,
+    "term": "The problem will be solved soon.",
+    "definition": "El problema se resolverá pronto.",
+    "example": "reflexive-passive future: se resolverá"
+  },
+  {
+    "id": 26,
+    "term": "The bridge was destroyed during the war.",
+    "definition": "El puente fue destruido durante la guerra.",
+    "example": "true passive here: fue destruido"
+  },
+  {
+    "id": 27,
+    "term": "This song is known all over the world.",
+    "definition": "Esta canción es conocida en todo el mundo.",
+    "example": "a participle used as a plain adjective: conocida"
+  },
+  {
+    "id": 28,
+    "term": "The cake was eaten by the children.",
+    "definition": "El pastel fue comido por los niños.",
+    "example": "'por' + the agent"
+  },
+  {
+    "id": 29,
+    "term": "New rules were introduced last year.",
+    "definition": "Se introdujeron nuevas reglas el año pasado.",
+    "example": "reflexive-passive plural: se introdujeron"
+  },
+  {
+    "id": 30,
+    "term": "The window was broken by the storm.",
+    "definition": "La ventana fue rota por la tormenta.",
+    "example": "irregular participle: romper → rota"
+  },
+  {
+    "id": 31,
+    "term": "It's said that he is very talented.",
+    "definition": "Se dice que es muy talentoso.",
+    "example": "'se dice' (it's said) + que-clause"
+  },
+  {
+    "id": 32,
+    "term": "It's getting dark.",
+    "definition": "Está oscureciendo.",
+    "example": "'oscurecer' + estar progresivo — a change happening on its own"
+  },
+  {
+    "id": 33,
+    "term": "It's getting cold outside.",
+    "definition": "Cada vez hace más frío afuera.",
+    "example": "'cada vez más' = increasingly, paired with the weather idiom 'hacer frío'"
+  },
+  {
+    "id": 34,
+    "term": "How do you say this in Spanish?",
+    "definition": "¿Cómo se dice esto en español?",
+    "example": "impersonal 'se dice' in a question — a very common everyday phrase"
+  },
+  {
+    "id": 35,
+    "term": "One eats dinner at eight here.",
+    "definition": "Aquí se cena a las ocho.",
+    "example": "impersonal 'se cena' for a general custom"
+  },
+  {
+    "id": 36,
+    "term": "You can't smoke here.",
+    "definition": "No se puede fumar aquí.",
+    "example": "impersonal 'se puede', negated"
+  },
+  {
+    "id": 37,
+    "term": "It's not done that way.",
+    "definition": "No se hace así.",
+    "example": "impersonal 'se hace'"
+  },
+  {
+    "id": 38,
+    "term": "People say all sorts of things.",
+    "definition": "La gente dice todo tipo de cosas.",
+    "example": "a plain subject this time, not the impersonal 'se'"
+  },
+  {
+    "id": 39,
+    "term": "This word is used often.",
+    "definition": "Esta palabra se usa a menudo.",
+    "example": "'se usa' — reflexive-passive, agreeing with 'palabra'"
+  },
+  {
+    "id": 40,
+    "term": "This is how the game is played.",
+    "definition": "Así es como se juega este juego.",
+    "example": "'se juega' — impersonal/passive"
+  },
+  {
+    "id": 41,
+    "term": "I told him to come.",
+    "definition": "Le dije que viniera.",
+    "example": "reported commands use the SUBJUNTIVO in the embedded clause: viniera"
+  },
+  {
+    "id": 42,
+    "term": "She asked me to help her.",
+    "definition": "Me pidió que la ayudara.",
+    "example": "'pedir que' + subjuntivo: ayudara"
+  },
+  {
+    "id": 43,
+    "term": "The teacher told us to be quiet.",
+    "definition": "El profesor nos dijo que nos calláramos.",
+    "example": "subjuntivo: calláramos"
+  },
+  {
+    "id": 44,
+    "term": "I want you to call me.",
+    "definition": "Quiero que me llames.",
+    "example": "'querer que' always takes the subjuntivo: llames"
+  },
+  {
+    "id": 45,
+    "term": "My mother told me not to be late.",
+    "definition": "Mi madre me dijo que no llegara tarde.",
+    "example": "negated subjuntivo: llegara"
+  },
+  {
+    "id": 46,
+    "term": "He asked us to wait outside.",
+    "definition": "Nos pidió que esperáramos afuera.",
+    "example": "subjuntivo: esperáramos"
+  },
+  {
+    "id": 47,
+    "term": "I told them to stop.",
+    "definition": "Les dije que pararan.",
+    "example": "subjuntivo: pararan"
+  },
+  {
+    "id": 48,
+    "term": "She wants me to visit her.",
+    "definition": "Quiere que la visite.",
+    "example": "'querer que' + subjuntivo: visite"
+  },
+  {
+    "id": 49,
+    "term": "The boss ordered us to finish the project.",
+    "definition": "El jefe nos ordenó que termináramos el proyecto.",
+    "example": "subjuntivo: termináramos"
+  },
+  {
+    "id": 50,
+    "term": "I asked her to be patient.",
+    "definition": "Le pedí que fuera paciente.",
+    "example": "subjuntivo: fuera"
+  },
+  {
+    "id": 51,
+    "term": "Although it was raining, we went for a walk.",
+    "definition": "Aunque llovía, salimos a caminar.",
+    "example": "'aunque' + INDICATIVE, since it's a known fact: llovía"
+  },
+  {
+    "id": 52,
+    "term": "Even though he is tired, he keeps working.",
+    "definition": "Aunque está cansado, sigue trabajando.",
+    "example": "'aunque' + indicative again"
+  },
+  {
+    "id": 53,
+    "term": "Despite the cold, we went outside.",
+    "definition": "A pesar del frío, salimos.",
+    "example": "'a pesar de' (despite) + noun"
+  },
+  {
+    "id": 54,
+    "term": "It's raining, but we're going out anyway.",
+    "definition": "Está lloviendo, pero salimos de todos modos.",
+    "example": "'de todos modos' = anyway"
+  },
+  {
+    "id": 55,
+    "term": "I like her, even though she's sometimes difficult.",
+    "definition": "Me cae bien, aunque a veces es difícil.",
+    "example": "idiom: 'caer bien' = to like (a person)"
+  },
+  {
+    "id": 56,
+    "term": "He passed the exam despite not studying much.",
+    "definition": "Aprobó el examen aunque no estudió mucho.",
+    "example": "'aunque' + indicative pretérito"
+  },
+  {
+    "id": 57,
+    "term": "It was cheap, yet good quality.",
+    "definition": "Era barato, pero de buena calidad.",
+    "example": "'pero' + a descriptive phrase"
+  },
+  {
+    "id": 58,
+    "term": "Nevertheless, I think we should try.",
+    "definition": "Sin embargo, creo que deberíamos intentarlo.",
+    "example": "'sin embargo' = nevertheless"
+  },
+  {
+    "id": 59,
+    "term": "Although I disagree, I'll help you.",
+    "definition": "Aunque no estoy de acuerdo, te ayudaré.",
+    "example": "'aunque' + a negated opinion, indicative"
+  },
+  {
+    "id": 60,
+    "term": "We won, although it wasn't easy.",
+    "definition": "Ganamos, aunque no fue fácil.",
+    "example": "'aunque' inside a longer sentence"
+  },
+  {
+    "id": 61,
+    "term": "Stay here until I come back.",
+    "definition": "Quédate aquí hasta que vuelva.",
+    "example": "'hasta que' + SUBJUNTIVO for a future event: vuelva"
+  },
+  {
+    "id": 62,
+    "term": "I'll wait as long as you need.",
+    "definition": "Esperaré tanto como necesites.",
+    "example": "subjuntivo: necesites"
+  },
+  {
+    "id": 63,
+    "term": "Before you leave, call me.",
+    "definition": "Antes de irte, llámame.",
+    "example": "'antes de' + infinitive, when the subject doesn't change"
+  },
+  {
+    "id": 64,
+    "term": "I checked everything before I left.",
+    "definition": "Revisé todo antes de irme.",
+    "example": "same 'antes de' + infinitive"
+  },
+  {
+    "id": 65,
+    "term": "I've known her since I was a child.",
+    "definition": "La conozco desde que era niño.",
+    "example": "'desde que' + indicative"
+  },
+  {
+    "id": 66,
+    "term": "Since he moved here, he's been much happier.",
+    "definition": "Desde que se mudó aquí, está mucho más feliz.",
+    "example": "'desde que' + pretérito"
+  },
+  {
+    "id": 67,
+    "term": "Wait until the light turns green.",
+    "definition": "Espera hasta que el semáforo se ponga verde.",
+    "example": "'hasta que' + subjuntivo: se ponga"
+  },
+  {
+    "id": 68,
+    "term": "I won't leave until you answer me.",
+    "definition": "No me iré hasta que me respondas.",
+    "example": "'hasta que' + subjuntivo: respondas"
+  },
+  {
+    "id": 69,
+    "term": "As soon as I get home, I'll call you.",
+    "definition": "En cuanto llegue a casa, te llamaré.",
+    "example": "'en cuanto' + subjuntivo for a future event: llegue"
+  },
+  {
+    "id": 70,
+    "term": "The moment I saw her, I knew.",
+    "definition": "En el momento en que la vi, lo supe.",
+    "example": "indicative here, since it's a completed past event"
+  },
+  {
+    "id": 71,
+    "term": "Instead of coffee, I'll have tea.",
+    "definition": "En lugar de café, tomaré té.",
+    "example": "'en lugar de' (instead of) + noun"
+  },
+  {
+    "id": 72,
+    "term": "Instead of complaining, do something.",
+    "definition": "En lugar de quejarte, haz algo.",
+    "example": "'en lugar de' + infinitive"
+  },
+  {
+    "id": 73,
+    "term": "Reading books is my favorite hobby.",
+    "definition": "Leer libros es mi pasatiempo favorito.",
+    "example": "the infinitive itself acts as the subject"
+  },
+  {
+    "id": 74,
+    "term": "Learning languages takes time.",
+    "definition": "Aprender idiomas lleva tiempo.",
+    "example": "infinitive as subject again"
+  },
+  {
+    "id": 75,
+    "term": "Swimming is good for your health.",
+    "definition": "Nadar es bueno para la salud.",
+    "example": "infinitive as subject: nadar"
+  },
+  {
+    "id": 76,
+    "term": "Cooking dinner takes an hour.",
+    "definition": "Preparar la cena lleva una hora.",
+    "example": "infinitive as subject: preparar"
+  },
+  {
+    "id": 77,
+    "term": "Smoking is bad for you.",
+    "definition": "Fumar es malo para la salud.",
+    "example": "infinitive as subject: fumar"
+  },
+  {
+    "id": 78,
+    "term": "Waiting is the hardest part.",
+    "definition": "Esperar es la parte más difícil.",
+    "example": "infinitive as subject + a superlative"
+  },
+  {
+    "id": 79,
+    "term": "Thank you for coming.",
+    "definition": "Gracias por venir.",
+    "example": "'por' + infinitive"
+  },
+  {
+    "id": 80,
+    "term": "I'm tired of waiting.",
+    "definition": "Estoy cansado de esperar.",
+    "example": "'cansado de' + infinitive"
+  },
+  {
+    "id": 81,
+    "term": "If I had known, I would have come.",
+    "definition": "Si lo hubiera sabido, habría venido.",
+    "example": "pluscuamperfecto de subjuntivo + condicional perfecto"
+  },
+  {
+    "id": 82,
+    "term": "If you had called me, I would have helped.",
+    "definition": "Si me hubieras llamado, te habría ayudado.",
+    "example": "same pattern, both halves in the past"
+  },
+  {
+    "id": 83,
+    "term": "She would have passed if she had studied more.",
+    "definition": "Habría aprobado si hubiera estudiado más.",
+    "example": "condicional perfecto + pluscuamperfecto de subjuntivo, order flipped"
+  },
+  {
+    "id": 84,
+    "term": "We wouldn't have been late if we had left earlier.",
+    "definition": "No habríamos llegado tarde si hubiéramos salido antes.",
+    "example": "plural: habríamos llegado...si hubiéramos salido"
+  },
+  {
+    "id": 85,
+    "term": "I have twenty-two books on this shelf.",
+    "definition": "Tengo veintidós libros en este estante.",
+    "example": "compound numbers fuse together: veintidós"
+  },
+  {
+    "id": 86,
+    "term": "There are thirty-five students in this class.",
+    "definition": "Hay treinta y cinco estudiantes en esta clase.",
+    "example": "compound number written as three words: treinta y cinco"
+  },
+  {
+    "id": 87,
+    "term": "I have been living here for eleven years.",
+    "definition": "Llevo once años viviendo aquí.",
+    "example": "'llevar' + time + gerundio, same pattern as #19"
+  },
+  {
+    "id": 88,
+    "term": "The building has one hundred rooms.",
+    "definition": "El edificio tiene cien habitaciones.",
+    "example": "'cien' (100) needs no article before it"
+  },
+  {
+    "id": 89,
+    "term": "I paid two hundred euros for this.",
+    "definition": "Pagué doscientos euros por esto.",
+    "example": "'doscientos' agrees masculine plural with euros"
+  },
+  {
+    "id": 90,
+    "term": "Only one person answered correctly.",
+    "definition": "Solo una persona respondió correctamente.",
+    "example": "'una' behaves like a normal adjective here"
+  },
+  {
+    "id": 91,
+    "term": "He passed the exam, which made his parents happy.",
+    "definition": "Aprobó el examen, lo cual hizo felices a sus padres.",
+    "example": "'lo cual' refers to the whole fact of passing, not to a specific noun"
+  },
+  {
+    "id": 92,
+    "term": "She was late, which annoyed the teacher.",
+    "definition": "Llegó tarde, lo cual molestó al profesor.",
+    "example": "same clause-referring 'lo cual'"
+  },
+  {
+    "id": 93,
+    "term": "This is the best restaurant of all the ones I know.",
+    "definition": "Este es el mejor restaurante de todos los que conozco.",
+    "example": "'de todos los que' = 'of all the ones that'"
+  },
+  {
+    "id": 94,
+    "term": "He is the smartest of all my friends.",
+    "definition": "Es el más inteligente de todos mis amigos.",
+    "example": "'de todos' + plural"
+  },
+  {
+    "id": 95,
+    "term": "To be honest, I don't understand this.",
+    "definition": "Para ser sincero, no entiendo esto.",
+    "example": "'para ser sincero' — an infinitive phrase, like English '-ly speaking'"
+  },
+  {
+    "id": 96,
+    "term": "Generally speaking, the weather here is nice.",
+    "definition": "En general, el clima aquí es agradable.",
+    "example": "'en general' = generally speaking"
+  },
+  {
+    "id": 97,
+    "term": "As far as I know, the shop is closed today.",
+    "definition": "Que yo sepa, la tienda está cerrada hoy.",
+    "example": "'que yo sepa' — itself a fixed phrase using the subjuntivo: sepa"
+  },
+  {
+    "id": 98,
+    "term": "In my opinion, this is the right decision.",
+    "definition": "En mi opinión, esta es la decisión correcta.",
+    "example": "'en mi opinión' = in my opinion"
+  },
+  {
+    "id": 99,
+    "term": "All things considered, it went well.",
+    "definition": "Considerándolo todo, salió bien.",
+    "example": "'considerándolo todo' = all things considered"
+  },
+  {
+    "id": 100,
+    "term": "In the end, everything turned out fine.",
+    "definition": "Al final, todo salió bien.",
+    "example": "'al final' = in the end"
+  }
+];
+window.QM_PHRASES_ES_DATA = [
+  {
+    "id": 1,
+    "term": "Good morning!",
+    "definition": "¡Buenos días!",
+    "example": "used until midday"
+  },
+  {
+    "id": 2,
+    "term": "Good evening!",
+    "definition": "¡Buenas tardes!",
+    "example": "covers the afternoon and early evening, before dark"
+  },
+  {
+    "id": 3,
+    "term": "Good night!",
+    "definition": "¡Buenas noches!",
+    "example": "used after dark, both as a greeting and as a farewell"
+  },
+  {
+    "id": 4,
+    "term": "Hi! (informal)",
+    "definition": "¡Hola!",
+    "example": "works any time of day"
+  },
+  {
+    "id": 5,
+    "term": "How are you?",
+    "definition": "¿Cómo estás?",
+    "example": "informal, to one person"
+  },
+  {
+    "id": 6,
+    "term": "I'm fine, thanks. And you?",
+    "definition": "Estoy bien, gracias. ¿Y tú?",
+    "example": "the standard reply"
+  },
+  {
+    "id": 7,
+    "term": "Long time no see!",
+    "definition": "¡Cuánto tiempo sin verte!",
+    "example": "said on meeting someone after a while"
+  },
+  {
+    "id": 8,
+    "term": "Welcome!",
+    "definition": "¡Bienvenido!",
+    "example": "agrees masculine; 'bienvenida' for a woman"
+  },
+  {
+    "id": 9,
+    "term": "Nice to see you again.",
+    "definition": "Qué gusto verte de nuevo.",
+    "example": "warmer than a plain greeting"
+  },
+  {
+    "id": 10,
+    "term": "What's up? (very informal)",
+    "definition": "¿Qué tal?",
+    "example": "casual, works as a general greeting too"
+  },
+  {
+    "id": 11,
+    "term": "Goodbye!",
+    "definition": "¡Adiós!",
+    "example": "the standard, neutral goodbye"
+  },
+  {
+    "id": 12,
+    "term": "See you later!",
+    "definition": "¡Hasta luego!",
+    "example": "when you'll meet again the same day"
+  },
+  {
+    "id": 13,
+    "term": "See you tomorrow!",
+    "definition": "¡Hasta mañana!",
+    "example": "specifies when you'll meet again"
+  },
+  {
+    "id": 14,
+    "term": "Take care!",
+    "definition": "¡Cuídate!",
+    "example": "casual parting phrase"
+  },
+  {
+    "id": 15,
+    "term": "Have a good day!",
+    "definition": "¡Que tengas un buen día!",
+    "example": "'que' + subjuntivo — the standard way to phrase a wish: tengas"
+  },
+  {
+    "id": 16,
+    "term": "Bye! (informal)",
+    "definition": "¡Chao!",
+    "example": "borrowed from Italian 'ciao', very common in Spanish too"
+  },
+  {
+    "id": 17,
+    "term": "Until next time!",
+    "definition": "¡Hasta la próxima!",
+    "example": "when you don't know exactly when you'll meet again"
+  },
+  {
+    "id": 18,
+    "term": "Have a safe trip!",
+    "definition": "¡Buen viaje!",
+    "example": "said to someone setting off on a journey"
+  },
+  {
+    "id": 19,
+    "term": "Good night, sleep well.",
+    "definition": "Buenas noches, que descanses.",
+    "example": "another subjuntivo wish: descanses"
+  },
+  {
+    "id": 20,
+    "term": "Take care of yourself.",
+    "definition": "Cuídate mucho.",
+    "example": "more caring/sincere than the plain #14"
+  },
+  {
+    "id": 21,
+    "term": "Please.",
+    "definition": "Por favor.",
+    "example": "the standard please"
+  },
+  {
+    "id": 22,
+    "term": "Thank you.",
+    "definition": "Gracias.",
+    "example": "the standard thank-you"
+  },
+  {
+    "id": 23,
+    "term": "Thank you very much.",
+    "definition": "Muchas gracias.",
+    "example": "'muchas' intensifies it"
+  },
+  {
+    "id": 24,
+    "term": "You're welcome.",
+    "definition": "De nada.",
+    "example": "literally 'of nothing' — the standard reply"
+  },
+  {
+    "id": 25,
+    "term": "No problem.",
+    "definition": "No hay problema.",
+    "example": "casual response to thanks or an apology"
+  },
+  {
+    "id": 26,
+    "term": "Excuse me.",
+    "definition": "Disculpa.",
+    "example": "informal; 'disculpe' for formal"
+  },
+  {
+    "id": 27,
+    "term": "I'm really sorry.",
+    "definition": "Lo siento mucho.",
+    "example": "'lo siento' (I'm sorry) + 'mucho' to intensify"
+  },
+  {
+    "id": 28,
+    "term": "Pardon? (didn't hear)",
+    "definition": "¿Cómo?",
+    "example": "the everyday, casual way to ask someone to repeat themselves"
+  },
+  {
+    "id": 29,
+    "term": "No worries.",
+    "definition": "Tranquilo.",
+    "example": "colloquial, literally 'calm/relaxed'"
+  },
+  {
+    "id": 30,
+    "term": "It's my pleasure.",
+    "definition": "Es un placer.",
+    "example": "a more formal reply than 'de nada'"
+  },
+  {
+    "id": 31,
+    "term": "My name is Anna.",
+    "definition": "Me llamo Anna.",
+    "example": "reflexive 'llamarse' — literally 'I call myself Anna'"
+  },
+  {
+    "id": 32,
+    "term": "Nice to meet you.",
+    "definition": "Mucho gusto.",
+    "example": "said on a first meeting"
+  },
+  {
+    "id": 33,
+    "term": "This is my friend Marco.",
+    "definition": "Este es mi amigo Marco.",
+    "example": "the standard way to introduce someone"
+  },
+  {
+    "id": 34,
+    "term": "Where are you from?",
+    "definition": "¿De dónde eres?",
+    "example": "common small-talk opener"
+  },
+  {
+    "id": 35,
+    "term": "I'm from England.",
+    "definition": "Soy de Inglaterra.",
+    "example": "'ser de' (be from)"
+  },
+  {
+    "id": 36,
+    "term": "What do you do for a living?",
+    "definition": "¿A qué te dedicas?",
+    "example": "idiomatic: literally 'to what do you dedicate yourself'"
+  },
+  {
+    "id": 37,
+    "term": "I'm a student.",
+    "definition": "Soy estudiante.",
+    "example": "no article for a profession"
+  },
+  {
+    "id": 38,
+    "term": "Likewise!",
+    "definition": "¡Igualmente!",
+    "example": "reply to a compliment or well-wish, meaning 'same to you'"
+  },
+  {
+    "id": 39,
+    "term": "It was nice meeting you.",
+    "definition": "Fue un placer conocerte.",
+    "example": "said when parting after a first meeting"
+  },
+  {
+    "id": 40,
+    "term": "Let's keep in touch.",
+    "definition": "Mantengámonos en contacto.",
+    "example": "the 'nosotros' command form of 'mantenerse'"
+  },
+  {
+    "id": 41,
+    "term": "Happy birthday!",
+    "definition": "¡Feliz cumpleaños!",
+    "example": "the standard birthday wish"
+  },
+  {
+    "id": 42,
+    "term": "Congratulations!",
+    "definition": "¡Felicidades!",
+    "example": "for any achievement"
+  },
+  {
+    "id": 43,
+    "term": "Good luck!",
+    "definition": "¡Buena suerte!",
+    "example": "before an exam, interview, or any attempt at something"
+  },
+  {
+    "id": 44,
+    "term": "Best wishes!",
+    "definition": "¡Mis mejores deseos!",
+    "example": "a general well-wish, often written on cards"
+  },
+  {
+    "id": 45,
+    "term": "Get well soon!",
+    "definition": "¡Que te mejores pronto!",
+    "example": "another subjuntivo wish: mejores"
+  },
+  {
+    "id": 46,
+    "term": "Happy New Year!",
+    "definition": "¡Feliz Año Nuevo!",
+    "example": "the standard New Year wish"
+  },
+  {
+    "id": 47,
+    "term": "Merry Christmas!",
+    "definition": "¡Feliz Navidad!",
+    "example": "the standard Christmas wish"
+  },
+  {
+    "id": 48,
+    "term": "Cheers! (a toast)",
+    "definition": "¡Salud!",
+    "example": "literally 'health' — raised when drinking together"
+  },
+  {
+    "id": 49,
+    "term": "Have fun!",
+    "definition": "¡Que te diviertas!",
+    "example": "subjuntivo wish: diviertas"
+  },
+  {
+    "id": 50,
+    "term": "Enjoy your meal!",
+    "definition": "¡Buen provecho!",
+    "example": "said before eating"
+  },
+  {
+    "id": 51,
+    "term": "Can you help me, please?",
+    "definition": "¿Puedes ayudarme, por favor?",
+    "example": "object pronoun attaches to the infinitive: ayudarme"
+  },
+  {
+    "id": 52,
+    "term": "I need help.",
+    "definition": "Necesito ayuda.",
+    "example": "'necesitar' + noun"
+  },
+  {
+    "id": 53,
+    "term": "Where is the bathroom?",
+    "definition": "¿Dónde está el baño?",
+    "example": "one of the most useful phrasebook lines there is"
+  },
+  {
+    "id": 54,
+    "term": "How much does this cost?",
+    "definition": "¿Cuánto cuesta esto?",
+    "example": "'cuánto' (how much) + costar"
+  },
+  {
+    "id": 55,
+    "term": "Do you have this in another color?",
+    "definition": "¿Tiene esto en otro color?",
+    "example": "formal 'usted', typical in a shop"
+  },
+  {
+    "id": 56,
+    "term": "Can I have the bill, please?",
+    "definition": "¿Puedo tener la cuenta, por favor?",
+    "example": "'la cuenta' — the bill"
+  },
+  {
+    "id": 57,
+    "term": "One moment, please.",
+    "definition": "Un momento, por favor.",
+    "example": "simple and universally understood"
+  },
+  {
+    "id": 58,
+    "term": "Could you repeat that?",
+    "definition": "¿Puedes repetir eso?",
+    "example": "polite request with 'poder'"
+  },
+  {
+    "id": 59,
+    "term": "I don't understand.",
+    "definition": "No entiendo.",
+    "example": "simple negation of entender"
+  },
+  {
+    "id": 60,
+    "term": "Could you speak more slowly?",
+    "definition": "¿Puedes hablar más despacio?",
+    "example": "'más despacio' = more slowly"
+  },
+  {
+    "id": 61,
+    "term": "I agree.",
+    "definition": "Estoy de acuerdo.",
+    "example": "'estar de acuerdo' — literally 'to be in agreement'"
+  },
+  {
+    "id": 62,
+    "term": "I don't agree.",
+    "definition": "No estoy de acuerdo.",
+    "example": "negated version"
+  },
+  {
+    "id": 63,
+    "term": "That's true.",
+    "definition": "Es verdad.",
+    "example": "simple identity statement"
+  },
+  {
+    "id": 64,
+    "term": "That's not true.",
+    "definition": "No es verdad.",
+    "example": "negated"
+  },
+  {
+    "id": 65,
+    "term": "I think so.",
+    "definition": "Creo que sí.",
+    "example": "'creer que' + sí/no"
+  },
+  {
+    "id": 66,
+    "term": "I don't think so.",
+    "definition": "Creo que no.",
+    "example": "same pattern, negated"
+  },
+  {
+    "id": 67,
+    "term": "Sounds good.",
+    "definition": "Suena bien.",
+    "example": "'sonar' (to sound) + adverb"
+  },
+  {
+    "id": 68,
+    "term": "No way!",
+    "definition": "¡De ninguna manera!",
+    "example": "literally 'in no way' — a firm refusal"
+  },
+  {
+    "id": 69,
+    "term": "Of course!",
+    "definition": "¡Claro que sí!",
+    "example": "enthusiastic agreement"
+  },
+  {
+    "id": 70,
+    "term": "Maybe.",
+    "definition": "Quizás.",
+    "example": "a single-word hedge"
+  },
+  {
+    "id": 71,
+    "term": "Really?",
+    "definition": "¿En serio?",
+    "example": "expressing surprise or asking for confirmation"
+  },
+  {
+    "id": 72,
+    "term": "Wow!",
+    "definition": "¡Guau!",
+    "example": "the Spanish spelling of the same exclamation"
+  },
+  {
+    "id": 73,
+    "term": "That's great!",
+    "definition": "¡Qué bien!",
+    "example": "enthusiastic reaction"
+  },
+  {
+    "id": 74,
+    "term": "I'm sorry to hear that.",
+    "definition": "Lamento escuchar eso.",
+    "example": "expressing sympathy, not an apology"
+  },
+  {
+    "id": 75,
+    "term": "What a shame.",
+    "definition": "Qué lástima.",
+    "example": "'qué' + noun, exclamatory"
+  },
+  {
+    "id": 76,
+    "term": "Oh no!",
+    "definition": "¡Ay no!",
+    "example": "a simple exclamation of dismay"
+  },
+  {
+    "id": 77,
+    "term": "Exactly!",
+    "definition": "¡Exacto!",
+    "example": "strong agreement"
+  },
+  {
+    "id": 78,
+    "term": "I see.",
+    "definition": "Ya veo.",
+    "example": "used as a filler acknowledging what was said"
+  },
+  {
+    "id": 79,
+    "term": "That makes sense.",
+    "definition": "Eso tiene sentido.",
+    "example": "'tener sentido' (to have sense/make sense)"
+  },
+  {
+    "id": 80,
+    "term": "That's interesting.",
+    "definition": "Eso es interesante.",
+    "example": "'interesante' looks the same for any gender"
+  },
+  {
+    "id": 81,
+    "term": "Hello? (on the phone)",
+    "definition": "¿Aló?",
+    "example": "one of several regional phone greetings across the Spanish-speaking world"
+  },
+  {
+    "id": 82,
+    "term": "Who's calling?",
+    "definition": "¿Quién habla?",
+    "example": "literally 'who's speaking'"
+  },
+  {
+    "id": 83,
+    "term": "Can I call you back?",
+    "definition": "¿Puedo llamarte luego?",
+    "example": "'poder' + infinitive"
+  },
+  {
+    "id": 84,
+    "term": "It was nice talking to you.",
+    "definition": "Fue un gusto hablar contigo.",
+    "example": "'contigo' — the special fused form of 'con ti'"
+  },
+  {
+    "id": 85,
+    "term": "See you at the party!",
+    "definition": "¡Nos vemos en la fiesta!",
+    "example": "'nos vemos' — casual 'see you'"
+  },
+  {
+    "id": 86,
+    "term": "I'll text you.",
+    "definition": "Te escribo un mensaje.",
+    "example": "literally 'I'll write you a message' — how Spanish says 'text'"
+  },
+  {
+    "id": 87,
+    "term": "Take it easy!",
+    "definition": "¡Tómalo con calma!",
+    "example": "literally 'take it with calm'"
+  },
+  {
+    "id": 88,
+    "term": "All the best!",
+    "definition": "¡Todo lo mejor!",
+    "example": "a catch-all well-wish, distinct from #44"
+  },
+  {
+    "id": 89,
+    "term": "I'll be right there.",
+    "definition": "Ya voy.",
+    "example": "present tense standing in for 'I'm coming right now'"
+  },
+  {
+    "id": 90,
+    "term": "I'm on my way.",
+    "definition": "Estoy en camino.",
+    "example": "'en camino' = on the way"
+  },
+  {
+    "id": 91,
+    "term": "Watch out!",
+    "definition": "¡Cuidado!",
+    "example": "a sharp warning, one word"
+  },
+  {
+    "id": 92,
+    "term": "No rush.",
+    "definition": "No hay prisa.",
+    "example": "reassuring someone they have time"
+  },
+  {
+    "id": 93,
+    "term": "After you.",
+    "definition": "Después de ti.",
+    "example": "letting someone go first"
+  },
+  {
+    "id": 94,
+    "term": "Make yourself at home.",
+    "definition": "Siéntete como en casa.",
+    "example": "reflexive 'sentirse' + 'como en casa'"
+  },
+  {
+    "id": 95,
+    "term": "It's on me. (paying)",
+    "definition": "Yo invito.",
+    "example": "literally 'I invite' — offering to pay"
+  },
+  {
+    "id": 96,
+    "term": "Let's go!",
+    "definition": "¡Vámonos!",
+    "example": "the reflexive-feeling command form of irse"
+  },
+  {
+    "id": 97,
+    "term": "Welcome home!",
+    "definition": "¡Bienvenido a casa!",
+    "example": "said when someone returns"
+  },
+  {
+    "id": 98,
+    "term": "Get home safe!",
+    "definition": "¡Llega bien a casa!",
+    "example": "informal imperative, literally 'arrive well home'"
+  },
+  {
+    "id": 99,
+    "term": "I'm looking forward to it.",
+    "definition": "Tengo muchas ganas.",
+    "example": "idiom: 'tener ganas de' = be eager/look forward to"
+  },
+  {
+    "id": 100,
+    "term": "Thanks for everything.",
+    "definition": "Gracias por todo.",
+    "example": "'por' + noun"
+  }
+];
+window.QM_SENTENCES_PT_UPPERBEGINNER_DATA = [
+  {
+    "id": 1,
+    "term": "My father is a farmer.",
+    "definition": "O meu pai é agricultor.",
+    "example": "no article before the profession itself; the possessive keeps its article, as always in European Portuguese"
+  },
+  {
+    "id": 2,
+    "term": "My mother is a teacher.",
+    "definition": "A minha mãe é professora.",
+    "example": "feminine profession noun"
+  },
+  {
+    "id": 3,
+    "term": "I have two brothers and one sister.",
+    "definition": "Tenho dois irmãos e uma irmã.",
+    "example": "plural: irmão → irmãos"
+  },
+  {
+    "id": 4,
+    "term": "My grandmother lives with us.",
+    "definition": "A minha avó mora connosco.",
+    "example": "'connosco' — the European spelling of 'with us' (Brazilian: conosco)"
+  },
+  {
+    "id": 5,
+    "term": "Our family is very big.",
+    "definition": "A nossa família é muito grande.",
+    "example": "'a nossa' agrees feminine with família"
+  },
+  {
+    "id": 6,
+    "term": "My son is five years old.",
+    "definition": "O meu filho tem cinco anos.",
+    "example": "'ter' + anos — the standard way to state an age"
+  },
+  {
+    "id": 7,
+    "term": "My daughter likes to draw.",
+    "definition": "A minha filha gosta de desenhar.",
+    "example": "'gostar de' + infinitive"
+  },
+  {
+    "id": 8,
+    "term": "We have a small dog and a big cat.",
+    "definition": "Temos um cão pequeno e um gato grande.",
+    "example": "adjectives follow their nouns"
+  },
+  {
+    "id": 9,
+    "term": "My parents are on vacation.",
+    "definition": "Os meus pais estão de férias.",
+    "example": "'estar de férias' — fixed phrase for 'on vacation'"
+  },
+  {
+    "id": 10,
+    "term": "My best friend has three children.",
+    "definition": "O meu melhor amigo tem três filhos.",
+    "example": "'melhor' (best) sits before the noun"
+  },
+  {
+    "id": 11,
+    "term": "I wake up early on Mondays.",
+    "definition": "Às segundas-feiras acordo cedo.",
+    "example": "'às' + day name, plural form: segundas-feiras"
+  },
+  {
+    "id": 12,
+    "term": "On Saturdays, I sleep late.",
+    "definition": "Aos sábados durmo até tarde.",
+    "example": "'aos sábados' — masculine day, so 'aos' not 'às'"
+  },
+  {
+    "id": 13,
+    "term": "Today is Tuesday.",
+    "definition": "Hoje é terça-feira.",
+    "example": "day names need no article"
+  },
+  {
+    "id": 14,
+    "term": "Tomorrow is my birthday.",
+    "definition": "Amanhã é o meu aniversário.",
+    "example": "same simple pattern"
+  },
+  {
+    "id": 15,
+    "term": "Yesterday was a busy day.",
+    "definition": "Ontem foi um dia atarefado.",
+    "example": "pretérito perfeito of ser: foi"
+  },
+  {
+    "id": 16,
+    "term": "In the morning, I drink coffee.",
+    "definition": "De manhã bebo café.",
+    "example": "'de manhã' = in the morning"
+  },
+  {
+    "id": 17,
+    "term": "In the evening, we watch television.",
+    "definition": "Ao fim da tarde vemos televisão.",
+    "example": "'ao fim da tarde' = in the (late) afternoon/evening"
+  },
+  {
+    "id": 18,
+    "term": "At night, I read a book.",
+    "definition": "À noite leio um livro.",
+    "example": "'à noite' = at night"
+  },
+  {
+    "id": 19,
+    "term": "This afternoon, I have a meeting.",
+    "definition": "Esta tarde tenho uma reunião.",
+    "example": "'esta tarde' = this afternoon"
+  },
+  {
+    "id": 20,
+    "term": "Every weekend, we visit my parents.",
+    "definition": "Todos os fins de semana visitamos os meus pais.",
+    "example": "'todos os' + plural noun = 'every'"
+  },
+  {
+    "id": 21,
+    "term": "I would like a glass of water.",
+    "definition": "Queria um copo de água.",
+    "example": "'queria' — the imperfeito used politely, like 'I would like'"
+  },
+  {
+    "id": 22,
+    "term": "Can I have the menu, please?",
+    "definition": "Posso ter o menu, por favor?",
+    "example": "'poder' + ter"
+  },
+  {
+    "id": 23,
+    "term": "This soup is delicious.",
+    "definition": "Esta sopa está deliciosa.",
+    "example": "'estar' — how it tastes right now"
+  },
+  {
+    "id": 24,
+    "term": "I don't eat meat.",
+    "definition": "Não como carne.",
+    "example": "no article needed for a generic negated food"
+  },
+  {
+    "id": 25,
+    "term": "She likes sweet food.",
+    "definition": "Ela gosta de comida doce.",
+    "example": "'gostar de' + noun"
+  },
+  {
+    "id": 26,
+    "term": "We are having pizza for dinner.",
+    "definition": "Vamos jantar pizza.",
+    "example": "'ir' + infinitive idiomatically means 'to have (a meal)' here"
+  },
+  {
+    "id": 27,
+    "term": "The bread is fresh.",
+    "definition": "O pão está fresco.",
+    "example": "'estar' — freshness is a temporary state"
+  },
+  {
+    "id": 28,
+    "term": "I usually drink tea, not coffee.",
+    "definition": "Normalmente bebo chá, não café.",
+    "example": "'normalmente' = usually"
+  },
+  {
+    "id": 29,
+    "term": "This restaurant is very popular.",
+    "definition": "Este restaurante é muito popular.",
+    "example": "'ser' — a lasting trait"
+  },
+  {
+    "id": 30,
+    "term": "The food here is cheap.",
+    "definition": "A comida aqui é barata.",
+    "example": "'ser' again, a lasting trait of this place"
+  },
+  {
+    "id": 31,
+    "term": "It is sunny today.",
+    "definition": "Hoje está sol.",
+    "example": "'estar sol' — European Portuguese weather uses 'estar', unlike Spanish's 'hacer'"
+  },
+  {
+    "id": 32,
+    "term": "It is raining outside.",
+    "definition": "Está a chover lá fora.",
+    "example": "'estar a' + infinitive — the EP progressive"
+  },
+  {
+    "id": 33,
+    "term": "It is very windy.",
+    "definition": "Está muito vento.",
+    "example": "same 'estar' weather pattern"
+  },
+  {
+    "id": 34,
+    "term": "It is snowing in the mountains.",
+    "definition": "Está a nevar nas montanhas.",
+    "example": "progressive: está a nevar"
+  },
+  {
+    "id": 35,
+    "term": "The weather is nice this week.",
+    "definition": "O tempo está bom esta semana.",
+    "example": "'estar bom' — a changeable weather state"
+  },
+  {
+    "id": 36,
+    "term": "It is cloudy this morning.",
+    "definition": "Esta manhã está nublado.",
+    "example": "'estar nublado'"
+  },
+  {
+    "id": 37,
+    "term": "It is hot in the summer.",
+    "definition": "No verão está calor.",
+    "example": "'estar calor'"
+  },
+  {
+    "id": 38,
+    "term": "It is cold in the winter.",
+    "definition": "No inverno está frio.",
+    "example": "'estar frio'"
+  },
+  {
+    "id": 39,
+    "term": "There is a storm coming.",
+    "definition": "Aproxima-se uma tempestade.",
+    "example": "reflexive verb: aproximar-se"
+  },
+  {
+    "id": 40,
+    "term": "The sky is blue today.",
+    "definition": "O céu está azul hoje.",
+    "example": "'estar' — today's specific appearance"
+  },
+  {
+    "id": 41,
+    "term": "I visited my grandparents last week.",
+    "definition": "Visitei os meus avós na semana passada.",
+    "example": "pretérito perfeito: visitei"
+  },
+  {
+    "id": 42,
+    "term": "We watched a good movie yesterday.",
+    "definition": "Vimos um bom filme ontem.",
+    "example": "pretérito perfeito: vimos"
+  },
+  {
+    "id": 43,
+    "term": "She cooked dinner for us.",
+    "definition": "Ela cozinhou o jantar para nós.",
+    "example": "'para nós' = for us"
+  },
+  {
+    "id": 44,
+    "term": "They traveled to Spain last summer.",
+    "definition": "Viajaram para Espanha no verão passado.",
+    "example": "pretérito perfeito: viajaram"
+  },
+  {
+    "id": 45,
+    "term": "I finished my homework early.",
+    "definition": "Terminei os trabalhos de casa cedo.",
+    "example": "pretérito perfeito: terminei"
+  },
+  {
+    "id": 46,
+    "term": "He bought a new car.",
+    "definition": "Ele comprou um carro novo.",
+    "example": "pretérito perfeito: comprou"
+  },
+  {
+    "id": 47,
+    "term": "We walked to the park.",
+    "definition": "Caminhámos até ao parque.",
+    "example": "the accent marks past tense: caminhámos, not present caminhamos"
+  },
+  {
+    "id": 48,
+    "term": "I called my friend this morning.",
+    "definition": "Liguei ao meu amigo esta manhã.",
+    "example": "'ligar a' — the European way to say 'call' someone"
+  },
+  {
+    "id": 49,
+    "term": "She sold her old bicycle.",
+    "definition": "Ela vendeu a sua bicicleta velha.",
+    "example": "pretérito perfeito: vendeu"
+  },
+  {
+    "id": 50,
+    "term": "We celebrated his birthday together.",
+    "definition": "Celebrámos o aniversário dele juntos.",
+    "example": "another accented past form: celebrámos"
+  },
+  {
+    "id": 51,
+    "term": "I am going to visit my aunt.",
+    "definition": "Vou visitar a minha tia.",
+    "example": "'ir' + infinitive — the classic near-future"
+  },
+  {
+    "id": 52,
+    "term": "We are going to have a party.",
+    "definition": "Vamos fazer uma festa.",
+    "example": "vamos + infinitive"
+  },
+  {
+    "id": 53,
+    "term": "She is going to start a new job.",
+    "definition": "Ela vai começar um novo trabalho.",
+    "example": "vai + infinitive"
+  },
+  {
+    "id": 54,
+    "term": "They are going to move to a new city.",
+    "definition": "Vão mudar-se para uma nova cidade.",
+    "example": "vão + reflexive infinitive"
+  },
+  {
+    "id": 55,
+    "term": "I am going to buy a new phone.",
+    "definition": "Vou comprar um telemóvel novo.",
+    "example": "'telemóvel' — the European word for mobile phone"
+  },
+  {
+    "id": 56,
+    "term": "He is going to learn to swim.",
+    "definition": "Ele vai aprender a nadar.",
+    "example": "'aprender a' + infinitive"
+  },
+  {
+    "id": 57,
+    "term": "We are going to travel next month.",
+    "definition": "Vamos viajar no próximo mês.",
+    "example": "vamos + infinitive"
+  },
+  {
+    "id": 58,
+    "term": "I am going to cook dinner tonight.",
+    "definition": "Vou cozinhar o jantar esta noite.",
+    "example": "vou + infinitive"
+  },
+  {
+    "id": 59,
+    "term": "She is going to call you later.",
+    "definition": "Ela vai ligar-te mais tarde.",
+    "example": "the pronoun attaches to the infinitive: ligar-te"
+  },
+  {
+    "id": 60,
+    "term": "They are going to arrive tomorrow.",
+    "definition": "Vão chegar amanhã.",
+    "example": "vão + infinitive"
+  },
+  {
+    "id": 61,
+    "term": "I like coffee and tea.",
+    "definition": "Gosto de café e de chá.",
+    "example": "'gostar de' repeats before each thing liked"
+  },
+  {
+    "id": 62,
+    "term": "She is smart and kind.",
+    "definition": "Ela é inteligente e simpática.",
+    "example": "'ser' for lasting traits"
+  },
+  {
+    "id": 63,
+    "term": "I want to go, but I am tired.",
+    "definition": "Quero ir, mas estou cansado.",
+    "example": "'estar' — tiredness is a temporary state"
+  },
+  {
+    "id": 64,
+    "term": "He is tall, but his brother is short.",
+    "definition": "Ele é alto, mas o irmão dele é baixo.",
+    "example": "'ser' for a lasting physical trait"
+  },
+  {
+    "id": 65,
+    "term": "Do you want tea or coffee?",
+    "definition": "Queres chá ou café?",
+    "example": "'ou' = or"
+  },
+  {
+    "id": 66,
+    "term": "You can call me or send a message.",
+    "definition": "Podes ligar-me ou enviar uma mensagem.",
+    "example": "'ou' linking two actions"
+  },
+  {
+    "id": 67,
+    "term": "I stayed home because it was raining.",
+    "definition": "Fiquei em casa porque estava a chover.",
+    "example": "imperfeito progressivo for ongoing weather: estava a chover"
+  },
+  {
+    "id": 68,
+    "term": "She was late because of the traffic.",
+    "definition": "Ela chegou atrasada por causa do trânsito.",
+    "example": "'por causa de' = because of"
+  },
+  {
+    "id": 69,
+    "term": "I am happy because I passed the test.",
+    "definition": "Estou feliz porque passei no teste.",
+    "example": "'estar' — the emotional state"
+  },
+  {
+    "id": 70,
+    "term": "He is tired because he worked all day.",
+    "definition": "Ele está cansado porque trabalhou o dia todo.",
+    "example": "'estar' for tiredness again"
+  },
+  {
+    "id": 71,
+    "term": "The bank is near the school.",
+    "definition": "O banco fica perto da escola.",
+    "example": "'ficar' — a common EP alternative to 'estar' for location"
+  },
+  {
+    "id": 72,
+    "term": "The park is far from here.",
+    "definition": "O parque fica longe daqui.",
+    "example": "'longe de' = far from"
+  },
+  {
+    "id": 73,
+    "term": "Turn left at the corner.",
+    "definition": "Vire à esquerda na esquina.",
+    "example": "formal imperative: vire"
+  },
+  {
+    "id": 74,
+    "term": "Turn right at the traffic light.",
+    "definition": "Vire à direita no semáforo.",
+    "example": "'à direita' = to the right"
+  },
+  {
+    "id": 75,
+    "term": "Go straight ahead.",
+    "definition": "Siga em frente.",
+    "example": "'em frente' = straight ahead"
+  },
+  {
+    "id": 76,
+    "term": "The hospital is next to the church.",
+    "definition": "O hospital fica ao lado da igreja.",
+    "example": "'ao lado de' = next to"
+  },
+  {
+    "id": 77,
+    "term": "The store is across from the hotel.",
+    "definition": "A loja fica em frente ao hotel.",
+    "example": "'em frente a' = across from"
+  },
+  {
+    "id": 78,
+    "term": "It is behind the building.",
+    "definition": "Fica atrás do edifício.",
+    "example": "'atrás de' = behind"
+  },
+  {
+    "id": 79,
+    "term": "It is in front of the station.",
+    "definition": "Fica em frente à estação.",
+    "example": "'em frente a' + 'a' → 'à'"
+  },
+  {
+    "id": 80,
+    "term": "The bathroom is upstairs.",
+    "definition": "A casa de banho fica em cima.",
+    "example": "'casa de banho' — the European word for bathroom"
+  },
+  {
+    "id": 81,
+    "term": "The car is red.",
+    "definition": "O carro é vermelho.",
+    "example": "'ser' — an inherent color"
+  },
+  {
+    "id": 82,
+    "term": "The house is white and big.",
+    "definition": "A casa é branca e grande.",
+    "example": "'ser' for lasting features"
+  },
+  {
+    "id": 83,
+    "term": "This box is heavy.",
+    "definition": "Esta caixa é pesada.",
+    "example": "'ser' — an inherent property"
+  },
+  {
+    "id": 84,
+    "term": "That bag is light.",
+    "definition": "Essa mala é leve.",
+    "example": "'ser' again"
+  },
+  {
+    "id": 85,
+    "term": "The room is clean.",
+    "definition": "O quarto está limpo.",
+    "example": "'estar' — cleanliness is a changeable state"
+  },
+  {
+    "id": 86,
+    "term": "The street is dirty.",
+    "definition": "A rua está suja.",
+    "example": "'estar' again"
+  },
+  {
+    "id": 87,
+    "term": "This road is long.",
+    "definition": "Esta estrada é longa.",
+    "example": "'ser' — an inherent property"
+  },
+  {
+    "id": 88,
+    "term": "That path is short.",
+    "definition": "Esse caminho é curto.",
+    "example": "'ser'"
+  },
+  {
+    "id": 89,
+    "term": "The water is deep here.",
+    "definition": "A água é profunda aqui.",
+    "example": "'ser' — an inherent feature of this spot"
+  },
+  {
+    "id": 90,
+    "term": "This lake is shallow.",
+    "definition": "Este lago é pouco profundo.",
+    "example": "'pouco profundo' = shallow, literally 'little deep'"
+  },
+  {
+    "id": 91,
+    "term": "I see her every day.",
+    "definition": "Vejo-a todos os dias.",
+    "example": "object pronoun '-a' (her) ATTACHES after the verb — European Portuguese enclisis"
+  },
+  {
+    "id": 92,
+    "term": "He calls me every week.",
+    "definition": "Ele liga-me todas as semanas.",
+    "example": "enclitic pronoun: liga-me"
+  },
+  {
+    "id": 93,
+    "term": "We visit them on Sundays.",
+    "definition": "Visitamo-los aos domingos.",
+    "example": "the verb drops its final -s before '-los': visitamos → visitamo-los"
+  },
+  {
+    "id": 94,
+    "term": "She waits for us at the station.",
+    "definition": "Ela espera-nos na estação.",
+    "example": "enclitic pronoun: espera-nos"
+  },
+  {
+    "id": 95,
+    "term": "I don't see him here.",
+    "definition": "Não o vejo aqui.",
+    "example": "negation pulls the pronoun BEFORE the verb: não o vejo"
+  },
+  {
+    "id": 96,
+    "term": "They know you well.",
+    "definition": "Eles conhecem-te bem.",
+    "example": "enclitic pronoun: conhecem-te"
+  },
+  {
+    "id": 97,
+    "term": "Do you understand me?",
+    "definition": "Entendes-me?",
+    "example": "enclitic even in a plain question: entendes-me"
+  },
+  {
+    "id": 98,
+    "term": "I love you very much.",
+    "definition": "Amo-te muito.",
+    "example": "enclitic pronoun: amo-te"
+  },
+  {
+    "id": 99,
+    "term": "Today's date is the fifth of August.",
+    "definition": "Hoje é dia cinco de agosto.",
+    "example": "dates use a cardinal number: cinco"
+  },
+  {
+    "id": 100,
+    "term": "The number nine is my lucky number.",
+    "definition": "O número nove é o meu número da sorte.",
+    "example": "'da sorte' = lucky, literally 'of luck'"
+  }
+];
+window.QM_SENTENCES_PT_LOWERINT_DATA = [
+  {
+    "id": 1,
+    "term": "I want to learn Portuguese.",
+    "definition": "Quero aprender português.",
+    "example": "querer + infinitive"
+  },
+  {
+    "id": 2,
+    "term": "I can help you tomorrow.",
+    "definition": "Posso ajudar-te amanhã.",
+    "example": "pronoun attaches to the infinitive: ajudar-te"
+  },
+  {
+    "id": 3,
+    "term": "I must go now.",
+    "definition": "Tenho de ir agora.",
+    "example": "'ter de' — the European preference over 'ter que'"
+  },
+  {
+    "id": 4,
+    "term": "You should rest.",
+    "definition": "Devias descansar.",
+    "example": "imperfeito of 'dever' softens 'should'"
+  },
+  {
+    "id": 5,
+    "term": "She should call her mother.",
+    "definition": "Ela devia ligar à mãe.",
+    "example": "devia + infinitive"
+  },
+  {
+    "id": 6,
+    "term": "We want to visit Lisbon.",
+    "definition": "Queremos visitar Lisboa.",
+    "example": "querer + infinitive"
+  },
+  {
+    "id": 7,
+    "term": "They can't come today.",
+    "definition": "Não podem vir hoje.",
+    "example": "não + poder + infinitive"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to eat now.",
+    "definition": "Não quero comer agora.",
+    "example": "não + querer + infinitive"
+  },
+  {
+    "id": 9,
+    "term": "Do you want some tea?",
+    "definition": "Queres chá?",
+    "example": "no article needed before an uncountable noun"
+  },
+  {
+    "id": 10,
+    "term": "I would like to order a coffee.",
+    "definition": "Queria pedir um café.",
+    "example": "'queria' softens the request"
+  },
+  {
+    "id": 11,
+    "term": "You have to be careful.",
+    "definition": "Tens de ter cuidado.",
+    "example": "'ter de' + infinitive"
+  },
+  {
+    "id": 12,
+    "term": "It's necessary to buy bread.",
+    "definition": "É preciso comprar pão.",
+    "example": "'é preciso' = it's necessary"
+  },
+  {
+    "id": 13,
+    "term": "You can smoke here.",
+    "definition": "Pode-se fumar aqui.",
+    "example": "impersonal 'se'"
+  },
+  {
+    "id": 14,
+    "term": "You can't park here.",
+    "definition": "Não se pode estacionar aqui.",
+    "example": "impersonal 'se' negated"
+  },
+  {
+    "id": 15,
+    "term": "It's worth trying this soup.",
+    "definition": "Vale a pena experimentar esta sopa.",
+    "example": "'vale a pena' = it's worth it"
+  },
+  {
+    "id": 16,
+    "term": "It's not necessary to hurry.",
+    "definition": "Não é preciso ter pressa.",
+    "example": "'ter pressa' = to be in a hurry"
+  },
+  {
+    "id": 17,
+    "term": "You shouldn't smoke.",
+    "definition": "Não devias fumar.",
+    "example": "não + devias"
+  },
+  {
+    "id": 18,
+    "term": "One has to work hard.",
+    "definition": "É preciso trabalhar muito.",
+    "example": "'é preciso' as a generic 'one must'"
+  },
+  {
+    "id": 19,
+    "term": "Everyone must follow the rules.",
+    "definition": "Todos têm de seguir as regras.",
+    "example": "'ter de' agrees with 'todos'"
+  },
+  {
+    "id": 20,
+    "term": "I have to finish this today.",
+    "definition": "Tenho de terminar isto hoje.",
+    "example": "'ter de' + infinitive"
+  },
+  {
+    "id": 21,
+    "term": "I like this song.",
+    "definition": "Gosto desta canção.",
+    "example": "'de' + 'esta' contracts to 'desta'"
+  },
+  {
+    "id": 22,
+    "term": "Do you like this city?",
+    "definition": "Gostas desta cidade?",
+    "example": "same contraction: desta"
+  },
+  {
+    "id": 23,
+    "term": "We like this restaurant.",
+    "definition": "Gostamos deste restaurante.",
+    "example": "'de' + 'este' → 'deste'"
+  },
+  {
+    "id": 24,
+    "term": "They don't like this idea.",
+    "definition": "Não gostam desta ideia.",
+    "example": "não + gostar de + desta"
+  },
+  {
+    "id": 25,
+    "term": "My head hurts.",
+    "definition": "Dói-me a cabeça.",
+    "example": "'doer' + dative pronoun '-me', subject is 'a cabeça'"
+  },
+  {
+    "id": 26,
+    "term": "My legs hurt.",
+    "definition": "Doem-me as pernas.",
+    "example": "plural subject needs plural verb: doem"
+  },
+  {
+    "id": 27,
+    "term": "Does your stomach hurt?",
+    "definition": "Dói-te a barriga?",
+    "example": "'-te' for 'you'"
+  },
+  {
+    "id": 28,
+    "term": "I feel sick.",
+    "definition": "Sinto-me mal.",
+    "example": "reflexive: sinto-me"
+  },
+  {
+    "id": 29,
+    "term": "I am cold.",
+    "definition": "Tenho frio.",
+    "example": "'ter frio' — Portuguese literally says 'I have cold'"
+  },
+  {
+    "id": 30,
+    "term": "Are you hungry?",
+    "definition": "Tens fome?",
+    "example": "'ter fome' = to be hungry"
+  },
+  {
+    "id": 31,
+    "term": "The more you practice, the better you speak.",
+    "definition": "Quanto mais praticas, melhor falas.",
+    "example": "'quanto mais... melhor...'"
+  },
+  {
+    "id": 32,
+    "term": "The sooner, the better.",
+    "definition": "Quanto mais cedo, melhor.",
+    "example": "same construction, shortened"
+  },
+  {
+    "id": 33,
+    "term": "Both my sister and my brother live in Lisbon.",
+    "definition": "Tanto a minha irmã como o meu irmão vivem em Lisboa.",
+    "example": "'tanto... como...' = both... and..."
+  },
+  {
+    "id": 34,
+    "term": "I like neither tea nor coffee.",
+    "definition": "Não gosto nem de chá nem de café.",
+    "example": "'nem... nem...' = neither... nor..."
+  },
+  {
+    "id": 35,
+    "term": "This is the most beautiful city in Portugal.",
+    "definition": "Esta é a cidade mais bonita de Portugal.",
+    "example": "superlative: a mais bonita"
+  },
+  {
+    "id": 36,
+    "term": "He is older than me.",
+    "definition": "Ele é mais velho do que eu.",
+    "example": "'do que' = than"
+  },
+  {
+    "id": 37,
+    "term": "This is worse than I thought.",
+    "definition": "Isto é pior do que eu pensava.",
+    "example": "'pior' — irregular comparative"
+  },
+  {
+    "id": 38,
+    "term": "She sings better than he does.",
+    "definition": "Ela canta melhor do que ele.",
+    "example": "'melhor' — irregular comparative adverb"
+  },
+  {
+    "id": 39,
+    "term": "This task is easier than that one.",
+    "definition": "Esta tarefa é mais fácil do que essa.",
+    "example": "'mais fácil do que'"
+  },
+  {
+    "id": 40,
+    "term": "He runs the fastest on our team.",
+    "definition": "Ele corre mais depressa da nossa equipa.",
+    "example": "'depressa' — a favored European adverb for 'fast'"
+  },
+  {
+    "id": 41,
+    "term": "I think that this is a good idea.",
+    "definition": "Acho que esta é uma boa ideia.",
+    "example": "'achar que' — the everyday verb for 'to think'"
+  },
+  {
+    "id": 42,
+    "term": "I know that you are right.",
+    "definition": "Sei que tens razão.",
+    "example": "'ter razão' = to be right"
+  },
+  {
+    "id": 43,
+    "term": "I hope that the weather will be nice.",
+    "definition": "Espero que o tempo esteja bom.",
+    "example": "'esperar que' triggers the conjuntivo: esteja"
+  },
+  {
+    "id": 44,
+    "term": "I am glad that you came.",
+    "definition": "Fico contente que tenhas vindo.",
+    "example": "conjuntivo composto: tenhas vindo"
+  },
+  {
+    "id": 45,
+    "term": "I don't think that it's true.",
+    "definition": "Não acho que seja verdade.",
+    "example": "negated opinion triggers the conjuntivo: seja"
+  },
+  {
+    "id": 46,
+    "term": "I am learning Portuguese because I want to live in Portugal.",
+    "definition": "Estou a aprender português porque quero viver em Portugal.",
+    "example": "'estar a' + infinitive — the EP progressive"
+  },
+  {
+    "id": 47,
+    "term": "I can't come because I am sick.",
+    "definition": "Não posso vir porque estou doente.",
+    "example": "'estar doente' = to be sick"
+  },
+  {
+    "id": 48,
+    "term": "I am studying so that I can pass the exam.",
+    "definition": "Estudo para passar no exame.",
+    "example": "'para' + infinitive = 'so that I can'"
+  },
+  {
+    "id": 49,
+    "term": "Call me when you arrive.",
+    "definition": "Liga-me quando chegares.",
+    "example": "'quando' + futuro do conjuntivo for a future event: chegares"
+  },
+  {
+    "id": 50,
+    "term": "If it rains, we will stay home.",
+    "definition": "Se chover, ficamos em casa.",
+    "example": "'se' + futuro do conjuntivo: chover"
+  },
+  {
+    "id": 51,
+    "term": "The woman who lives next door is a doctor.",
+    "definition": "A mulher que mora ao lado é médica.",
+    "example": "'que' = who, for people"
+  },
+  {
+    "id": 52,
+    "term": "The man who called yesterday is my uncle.",
+    "definition": "O homem que ligou ontem é o meu tio.",
+    "example": "'que' for a person"
+  },
+  {
+    "id": 53,
+    "term": "The book that I am reading is very interesting.",
+    "definition": "O livro que estou a ler é muito interessante.",
+    "example": "'que' for a thing"
+  },
+  {
+    "id": 54,
+    "term": "The children who play in the park are our neighbors.",
+    "definition": "As crianças que brincam no parque são os nossos vizinhos.",
+    "example": "'que' stays the same for plural"
+  },
+  {
+    "id": 55,
+    "term": "This is the house in which I grew up.",
+    "definition": "Esta é a casa em que cresci.",
+    "example": "'em que' = in which"
+  },
+  {
+    "id": 56,
+    "term": "I don't remember the name of the street where we met.",
+    "definition": "Não me lembro do nome da rua onde nos conhecemos.",
+    "example": "'onde' = where"
+  },
+  {
+    "id": 57,
+    "term": "The people whom I met were very friendly.",
+    "definition": "As pessoas que conheci eram muito simpáticas.",
+    "example": "'que' also covers 'whom'"
+  },
+  {
+    "id": 58,
+    "term": "This is the reason why I am late.",
+    "definition": "Esta é a razão pela qual estou atrasado.",
+    "example": "'pela qual' = why, literally 'for which'"
+  },
+  {
+    "id": 59,
+    "term": "The car that broke down is mine.",
+    "definition": "O carro que avariou é meu.",
+    "example": "'avariar' = to break down (of a machine)"
+  },
+  {
+    "id": 60,
+    "term": "I found the keys that I lost.",
+    "definition": "Encontrei as chaves que tinha perdido.",
+    "example": "pluscuamperfeito: tinha perdido"
+  },
+  {
+    "id": 61,
+    "term": "The meeting starts at three o'clock.",
+    "definition": "A reunião começa às três horas.",
+    "example": "'às' + time"
+  },
+  {
+    "id": 62,
+    "term": "I usually wake up before seven.",
+    "definition": "Normalmente acordo antes das sete.",
+    "example": "'antes das' + time"
+  },
+  {
+    "id": 63,
+    "term": "We will meet after the concert.",
+    "definition": "Vamos encontrar-nos depois do concerto.",
+    "example": "'depois de' = after"
+  },
+  {
+    "id": 64,
+    "term": "The shop is open from nine to six.",
+    "definition": "A loja está aberta das nove às seis.",
+    "example": "'das... às...' = from... to..."
+  },
+  {
+    "id": 65,
+    "term": "I lived in Portugal for three years.",
+    "definition": "Vivi em Portugal durante três anos.",
+    "example": "'durante' = for/during a span"
+  },
+  {
+    "id": 66,
+    "term": "I haven't seen him since last year.",
+    "definition": "Não o vejo desde o ano passado.",
+    "example": "'desde' = since"
+  },
+  {
+    "id": 67,
+    "term": "During the summer, we travel a lot.",
+    "definition": "Durante o verão viajamos muito.",
+    "example": "'durante o verão'"
+  },
+  {
+    "id": 68,
+    "term": "On Mondays, I go to the gym.",
+    "definition": "Às segundas-feiras vou ao ginásio.",
+    "example": "'ao ginásio' — a + o = ao"
+  },
+  {
+    "id": 69,
+    "term": "Next week, I am going on vacation.",
+    "definition": "Para a semana vou de férias.",
+    "example": "'para a semana' — a European idiom for 'next week'"
+  },
+  {
+    "id": 70,
+    "term": "Two years ago, I visited Portugal.",
+    "definition": "Há dois anos visitei Portugal.",
+    "example": "'há' = ago"
+  },
+  {
+    "id": 71,
+    "term": "There are a lot of people here.",
+    "definition": "Há muita gente aqui.",
+    "example": "'gente' is singular in Portuguese"
+  },
+  {
+    "id": 72,
+    "term": "I have little time.",
+    "definition": "Tenho pouco tempo.",
+    "example": "'pouco' = little"
+  },
+  {
+    "id": 73,
+    "term": "I have a few questions.",
+    "definition": "Tenho algumas perguntas.",
+    "example": "'algumas' = a few (feminine)"
+  },
+  {
+    "id": 74,
+    "term": "There are many opportunities here.",
+    "definition": "Há muitas oportunidades aqui.",
+    "example": "'muitas' agrees feminine plural"
+  },
+  {
+    "id": 75,
+    "term": "I have several friends in Portugal.",
+    "definition": "Tenho vários amigos em Portugal.",
+    "example": "'vários' = several"
+  },
+  {
+    "id": 76,
+    "term": "Not many people know about this.",
+    "definition": "Não muita gente sabe disto.",
+    "example": "'disto' = de + isto"
+  },
+  {
+    "id": 77,
+    "term": "I need a bit more time.",
+    "definition": "Preciso de um pouco mais de tempo.",
+    "example": "'um pouco mais de' = a bit more"
+  },
+  {
+    "id": 78,
+    "term": "Most people agree with this.",
+    "definition": "A maioria das pessoas concorda com isto.",
+    "example": "'a maioria de' = most of"
+  },
+  {
+    "id": 79,
+    "term": "I bought a lot of books.",
+    "definition": "Comprei muitos livros.",
+    "example": "'muitos' agrees masculine plural"
+  },
+  {
+    "id": 80,
+    "term": "There isn't enough bread.",
+    "definition": "Não há pão suficiente.",
+    "example": "'suficiente' = enough"
+  },
+  {
+    "id": 81,
+    "term": "Sit down, please.",
+    "definition": "Senta-te, por favor.",
+    "example": "enclitic reflexive imperative: senta-te"
+  },
+  {
+    "id": 82,
+    "term": "Wait for me!",
+    "definition": "Espera por mim!",
+    "example": "'esperar por' = to wait for"
+  },
+  {
+    "id": 83,
+    "term": "Don't worry.",
+    "definition": "Não te preocupes.",
+    "example": "negative imperative uses the conjuntivo: preocupes"
+  },
+  {
+    "id": 84,
+    "term": "Close the door, please.",
+    "definition": "Fecha a porta, por favor.",
+    "example": "informal imperative: fecha"
+  },
+  {
+    "id": 85,
+    "term": "Let's go!",
+    "definition": "Vamos!",
+    "example": "'vamos' also means 'let's go'"
+  },
+  {
+    "id": 86,
+    "term": "Let's eat something.",
+    "definition": "Vamos comer alguma coisa!",
+    "example": "'vamos' + infinitive = let's"
+  },
+  {
+    "id": 87,
+    "term": "Be careful!",
+    "definition": "Tem cuidado!",
+    "example": "irregular imperative of 'ter': tem"
+  },
+  {
+    "id": 88,
+    "term": "Don't be afraid.",
+    "definition": "Não tenhas medo.",
+    "example": "negative imperative: conjuntivo tenhas"
+  },
+  {
+    "id": 89,
+    "term": "Help me, please.",
+    "definition": "Ajuda-me, por favor.",
+    "example": "enclitic pronoun on the imperative: ajuda-me"
+  },
+  {
+    "id": 90,
+    "term": "Listen to me!",
+    "definition": "Ouve-me!",
+    "example": "enclitic pronoun: ouve-me"
+  },
+  {
+    "id": 91,
+    "term": "I don't know where he lives.",
+    "definition": "Não sei onde ele mora.",
+    "example": "'onde' = where"
+  },
+  {
+    "id": 92,
+    "term": "I don't know what time it is.",
+    "definition": "Não sei que horas são.",
+    "example": "'que horas são' — idiomatic plural for 'what time is it'"
+  },
+  {
+    "id": 93,
+    "term": "Tell me why you are sad.",
+    "definition": "Diz-me porque estás triste.",
+    "example": "'porque' = why, inside an indirect question"
+  },
+  {
+    "id": 94,
+    "term": "I wonder who called.",
+    "definition": "Pergunto-me quem ligou.",
+    "example": "'perguntar-se' = to wonder"
+  },
+  {
+    "id": 95,
+    "term": "I am not sure if he is coming.",
+    "definition": "Não tenho a certeza se ele vem.",
+    "example": "'ter a certeza' = to be sure"
+  },
+  {
+    "id": 96,
+    "term": "She said that she was tired.",
+    "definition": "Ela disse que estava cansada.",
+    "example": "the imperfeito backshifts inside reported speech: estava"
+  },
+  {
+    "id": 97,
+    "term": "He asked if I spoke Portuguese.",
+    "definition": "Ele perguntou se eu falava português.",
+    "example": "imperfeito: falava"
+  },
+  {
+    "id": 98,
+    "term": "If I had more time, I would learn Italian too.",
+    "definition": "Se tivesse mais tempo, também aprenderia italiano.",
+    "example": "imperfeito do conjuntivo + condicional: tivesse / aprenderia"
+  },
+  {
+    "id": 99,
+    "term": "If I were you, I would rest.",
+    "definition": "Se eu fosse tu, descansaria.",
+    "example": "'fosse' — imperfeito do conjuntivo of 'ser'"
+  },
+  {
+    "id": 100,
+    "term": "I would be very happy if you came.",
+    "definition": "Ficaria muito feliz se viesses.",
+    "example": "condicional + imperfeito do conjuntivo: viesses"
+  }
+];
+window.QM_SENTENCES_PT_INTERMEDIATE_DATA = [
+  {
+    "id": 1,
+    "term": "I go there every day.",
+    "definition": "Vou lá todos os dias.",
+    "example": "'lá' = there"
+  },
+  {
+    "id": 2,
+    "term": "I don't believe it.",
+    "definition": "Não acredito nisso.",
+    "example": "'nisso' = em + isso"
+  },
+  {
+    "id": 3,
+    "term": "I think about it often.",
+    "definition": "Penso nisso muitas vezes.",
+    "example": "'pensar em' + isso → nisso"
+  },
+  {
+    "id": 4,
+    "term": "How many books do you have? I have three of them.",
+    "definition": "Quantos livros tens? Tenho três.",
+    "example": "no separate pronoun needed for 'of them' — the number alone answers"
+  },
+  {
+    "id": 5,
+    "term": "Do you want some wine? Yes, I want some.",
+    "definition": "Queres vinho? Sim, quero um pouco.",
+    "example": "'um pouco' fills in for 'some'"
+  },
+  {
+    "id": 6,
+    "term": "Do you need money? Yes, I need some.",
+    "definition": "Precisas de dinheiro? Sim, preciso de um pouco.",
+    "example": "'precisar de' keeps its 'de' in the answer"
+  },
+  {
+    "id": 7,
+    "term": "I'm leaving now.",
+    "definition": "Vou-me embora agora.",
+    "example": "'ir-se embora' — a reflexive idiom for 'to leave/go away'"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to talk about it.",
+    "definition": "Não quero falar sobre isso.",
+    "example": "'falar sobre' = to talk about"
+  },
+  {
+    "id": 9,
+    "term": "How many sisters do you have? I have one.",
+    "definition": "Quantas irmãs tens? Tenho uma.",
+    "example": "'uma' agrees feminine with irmã"
+  },
+  {
+    "id": 10,
+    "term": "I'm sure of it.",
+    "definition": "Tenho a certeza disso.",
+    "example": "'ter a certeza de' + isso → disso"
+  },
+  {
+    "id": 11,
+    "term": "I used to read a lot as a child.",
+    "definition": "Em criança, lia muito.",
+    "example": "imperfeito for a repeated childhood habit: lia"
+  },
+  {
+    "id": 12,
+    "term": "Yesterday I read that whole book.",
+    "definition": "Ontem li aquele livro todo.",
+    "example": "pretérito perfeito for a completed action: li"
+  },
+  {
+    "id": 13,
+    "term": "I always drank coffee in the morning.",
+    "definition": "Bebia sempre café de manhã.",
+    "example": "imperfeito: bebia"
+  },
+  {
+    "id": 14,
+    "term": "This morning I drank two cups of coffee.",
+    "definition": "Esta manhã bebi duas chávenas de café.",
+    "example": "'chávena' — the European word for cup; pretérito: bebi"
+  },
+  {
+    "id": 15,
+    "term": "She was writing a letter when I called.",
+    "definition": "Ela estava a escrever uma carta quando liguei.",
+    "example": "imperfeito progressivo: estava a escrever"
+  },
+  {
+    "id": 16,
+    "term": "She wrote the letter and sent it.",
+    "definition": "Ela escreveu a carta e enviou-a.",
+    "example": "pretérito perfeito + enclitic pronoun: enviou-a"
+  },
+  {
+    "id": 17,
+    "term": "We were watching a movie all evening.",
+    "definition": "Estávamos a ver um filme a noite toda.",
+    "example": "imperfeito progressivo for a backdrop action"
+  },
+  {
+    "id": 18,
+    "term": "We watched the whole movie in one sitting.",
+    "definition": "Vimos o filme todo de uma vez.",
+    "example": "pretérito perfeito for the completed whole"
+  },
+  {
+    "id": 19,
+    "term": "I was learning Portuguese for two years before I moved here.",
+    "definition": "Andava a aprender português há dois anos antes de me mudar para aqui.",
+    "example": "'andar a' + infinitive — a European duration-progressive construction"
+  },
+  {
+    "id": 20,
+    "term": "I finally learned all the irregular verbs.",
+    "definition": "Finalmente aprendi todos os verbos irregulares.",
+    "example": "pretérito perfeito: aprendi"
+  },
+  {
+    "id": 21,
+    "term": "This book was written by a famous author.",
+    "definition": "Este livro foi escrito por um autor famoso.",
+    "example": "passive voice: foi escrito"
+  },
+  {
+    "id": 22,
+    "term": "The house was built in 1920.",
+    "definition": "A casa foi construída em 1920.",
+    "example": "passive: foi construída"
+  },
+  {
+    "id": 23,
+    "term": "The letter is being written now.",
+    "definition": "A carta está a ser escrita agora.",
+    "example": "'estar a ser' + participle — the EP progressive passive"
+  },
+  {
+    "id": 24,
+    "term": "The doors are closed at nine.",
+    "definition": "As portas são fechadas às nove.",
+    "example": "habitual passive: são fechadas"
+  },
+  {
+    "id": 25,
+    "term": "The problem will be solved soon.",
+    "definition": "O problema será resolvido em breve.",
+    "example": "future passive: será resolvido"
+  },
+  {
+    "id": 26,
+    "term": "The bridge was destroyed during the war.",
+    "definition": "A ponte foi destruída durante a guerra.",
+    "example": "passive: foi destruída"
+  },
+  {
+    "id": 27,
+    "term": "This song is known all over the world.",
+    "definition": "Esta canção é conhecida no mundo inteiro.",
+    "example": "passive: é conhecida"
+  },
+  {
+    "id": 28,
+    "term": "The cake was eaten by the children.",
+    "definition": "O bolo foi comido pelas crianças.",
+    "example": "'pelas' = por + as"
+  },
+  {
+    "id": 29,
+    "term": "New rules were introduced last year.",
+    "definition": "Novas regras foram introduzidas no ano passado.",
+    "example": "plural passive: foram introduzidas"
+  },
+  {
+    "id": 30,
+    "term": "The window was broken by the storm.",
+    "definition": "A janela foi partida pela tempestade.",
+    "example": "'pela' = por + a"
+  },
+  {
+    "id": 31,
+    "term": "It's said that he is very talented.",
+    "definition": "Diz-se que ele é muito talentoso.",
+    "example": "impersonal reflexive: diz-se"
+  },
+  {
+    "id": 32,
+    "term": "It's getting dark.",
+    "definition": "Está a escurecer.",
+    "example": "progressive for a change in progress"
+  },
+  {
+    "id": 33,
+    "term": "It's getting cold outside.",
+    "definition": "Está a ficar frio lá fora.",
+    "example": "'ficar' = to become"
+  },
+  {
+    "id": 34,
+    "term": "How do you say this in Portuguese?",
+    "definition": "Como se diz isto em português?",
+    "example": "impersonal 'se'"
+  },
+  {
+    "id": 35,
+    "term": "One eats dinner at eight here.",
+    "definition": "Aqui janta-se às oito.",
+    "example": "impersonal reflexive: janta-se"
+  },
+  {
+    "id": 36,
+    "term": "You can't smoke here.",
+    "definition": "Não se pode fumar aqui.",
+    "example": "impersonal 'se' negated"
+  },
+  {
+    "id": 37,
+    "term": "It's not done that way.",
+    "definition": "Não se faz assim.",
+    "example": "impersonal 'se'"
+  },
+  {
+    "id": 38,
+    "term": "People say all sorts of things.",
+    "definition": "As pessoas dizem todo o tipo de coisas.",
+    "example": "'as pessoas' as an explicit generic subject"
+  },
+  {
+    "id": 39,
+    "term": "This word is used often.",
+    "definition": "Esta palavra é usada muitas vezes.",
+    "example": "passive: é usada"
+  },
+  {
+    "id": 40,
+    "term": "This is how the game is played.",
+    "definition": "É assim que se joga este jogo.",
+    "example": "impersonal 'se' with 'assim que'"
+  },
+  {
+    "id": 41,
+    "term": "I told him to come.",
+    "definition": "Disse-lhe para vir.",
+    "example": "'dizer a alguém para' + infinitive"
+  },
+  {
+    "id": 42,
+    "term": "She asked me to help her.",
+    "definition": "Pediu-me para a ajudar.",
+    "example": "'pedir a alguém para' + infinitive"
+  },
+  {
+    "id": 43,
+    "term": "The teacher told us to be quiet.",
+    "definition": "O professor disse-nos para estarmos calados.",
+    "example": "infinitivo pessoal: estarmos"
+  },
+  {
+    "id": 44,
+    "term": "I want you to call me.",
+    "definition": "Quero que me ligues.",
+    "example": "'querer que' triggers the conjuntivo: ligues"
+  },
+  {
+    "id": 45,
+    "term": "My mother told me not to be late.",
+    "definition": "A minha mãe disse-me para não chegar atrasado.",
+    "example": "'para não' + infinitive"
+  },
+  {
+    "id": 46,
+    "term": "He asked us to wait outside.",
+    "definition": "Pediu-nos para esperarmos lá fora.",
+    "example": "infinitivo pessoal: esperarmos"
+  },
+  {
+    "id": 47,
+    "term": "I told them to stop.",
+    "definition": "Disse-lhes para pararem.",
+    "example": "infinitivo pessoal: pararem"
+  },
+  {
+    "id": 48,
+    "term": "She wants me to visit her.",
+    "definition": "Ela quer que eu a visite.",
+    "example": "conjuntivo: visite"
+  },
+  {
+    "id": 49,
+    "term": "The boss ordered us to finish the project.",
+    "definition": "O chefe ordenou-nos que terminássemos o projeto.",
+    "example": "conjuntivo imperfeito: terminássemos"
+  },
+  {
+    "id": 50,
+    "term": "I asked her to be patient.",
+    "definition": "Pedi-lhe para ser paciente.",
+    "example": "'pedir a alguém para' + infinitive"
+  },
+  {
+    "id": 51,
+    "term": "Although it was raining, we went for a walk.",
+    "definition": "Embora estivesse a chover, fomos dar um passeio.",
+    "example": "'embora' triggers the conjuntivo: estivesse"
+  },
+  {
+    "id": 52,
+    "term": "Even though he is tired, he keeps working.",
+    "definition": "Embora esteja cansado, continua a trabalhar.",
+    "example": "conjuntivo: esteja"
+  },
+  {
+    "id": 53,
+    "term": "Despite the cold, we went outside.",
+    "definition": "Apesar do frio, saímos.",
+    "example": "'apesar de' + noun"
+  },
+  {
+    "id": 54,
+    "term": "It's raining, but we're going out anyway.",
+    "definition": "Está a chover, mas vamos sair na mesma.",
+    "example": "'na mesma' = anyway/all the same"
+  },
+  {
+    "id": 55,
+    "term": "I like her, even though she's sometimes difficult.",
+    "definition": "Gosto dela, embora às vezes seja difícil.",
+    "example": "conjuntivo: seja"
+  },
+  {
+    "id": 56,
+    "term": "He passed the exam despite not studying much.",
+    "definition": "Passou no exame apesar de não ter estudado muito.",
+    "example": "'apesar de' + infinitive composto"
+  },
+  {
+    "id": 57,
+    "term": "It was cheap, yet good quality.",
+    "definition": "Era barato, mas de boa qualidade.",
+    "example": "'mas' = but/yet"
+  },
+  {
+    "id": 58,
+    "term": "Nevertheless, I think we should try.",
+    "definition": "No entanto, acho que devíamos tentar.",
+    "example": "'no entanto' = nevertheless"
+  },
+  {
+    "id": 59,
+    "term": "Although I disagree, I'll help you.",
+    "definition": "Embora não concorde, vou ajudar-te.",
+    "example": "conjuntivo: concorde"
+  },
+  {
+    "id": 60,
+    "term": "We won, although it wasn't easy.",
+    "definition": "Ganhámos, embora não tenha sido fácil.",
+    "example": "conjuntivo composto: tenha sido"
+  },
+  {
+    "id": 61,
+    "term": "Stay here until I come back.",
+    "definition": "Fica aqui até eu voltar.",
+    "example": "'até' + infinitivo pessoal: voltar"
+  },
+  {
+    "id": 62,
+    "term": "I'll wait as long as you need.",
+    "definition": "Vou esperar enquanto precisares.",
+    "example": "'enquanto' + conjuntivo futuro for something not yet true: precisares"
+  },
+  {
+    "id": 63,
+    "term": "Before you leave, call me.",
+    "definition": "Antes de saíres, liga-me.",
+    "example": "'antes de' + infinitivo pessoal: saíres"
+  },
+  {
+    "id": 64,
+    "term": "I checked everything before I left.",
+    "definition": "Verifiquei tudo antes de sair.",
+    "example": "plain infinitive when the subject doesn't need marking"
+  },
+  {
+    "id": 65,
+    "term": "I've known her since I was a child.",
+    "definition": "Conheço-a desde que era criança.",
+    "example": "'desde que' = since"
+  },
+  {
+    "id": 66,
+    "term": "Since he moved here, he's been much happier.",
+    "definition": "Desde que se mudou para aqui, está muito mais feliz.",
+    "example": "'desde que' + pretérito"
+  },
+  {
+    "id": 67,
+    "term": "Wait until the light turns green.",
+    "definition": "Espera até o semáforo ficar verde.",
+    "example": "'até' + infinitivo pessoal"
+  },
+  {
+    "id": 68,
+    "term": "I won't leave until you answer me.",
+    "definition": "Não vou embora até me responderes.",
+    "example": "infinitivo pessoal: responderes"
+  },
+  {
+    "id": 69,
+    "term": "As soon as I get home, I'll call you.",
+    "definition": "Assim que chegar a casa, ligo-te.",
+    "example": "'assim que' + conjuntivo futuro: chegar"
+  },
+  {
+    "id": 70,
+    "term": "The moment I saw her, I knew.",
+    "definition": "No momento em que a vi, soube.",
+    "example": "'no momento em que' = the moment that"
+  },
+  {
+    "id": 71,
+    "term": "Instead of coffee, I'll have tea.",
+    "definition": "Em vez de café, vou tomar chá.",
+    "example": "'em vez de' = instead of"
+  },
+  {
+    "id": 72,
+    "term": "Instead of complaining, do something.",
+    "definition": "Em vez de te queixares, faz alguma coisa.",
+    "example": "'em vez de' + infinitivo pessoal: queixares"
+  },
+  {
+    "id": 73,
+    "term": "Reading books is my favorite hobby.",
+    "definition": "Ler livros é o meu passatempo preferido.",
+    "example": "the plain infinitive works as a subject"
+  },
+  {
+    "id": 74,
+    "term": "Learning languages takes time.",
+    "definition": "Aprender línguas leva tempo.",
+    "example": "infinitive as subject"
+  },
+  {
+    "id": 75,
+    "term": "Swimming is good for your health.",
+    "definition": "Nadar é bom para a saúde.",
+    "example": "infinitive as subject"
+  },
+  {
+    "id": 76,
+    "term": "Cooking dinner takes an hour.",
+    "definition": "Cozinhar o jantar leva uma hora.",
+    "example": "infinitive as subject"
+  },
+  {
+    "id": 77,
+    "term": "Smoking is bad for you.",
+    "definition": "Fumar faz mal à saúde.",
+    "example": "'fazer mal a' = to be bad for"
+  },
+  {
+    "id": 78,
+    "term": "Waiting is the hardest part.",
+    "definition": "Esperar é a parte mais difícil.",
+    "example": "infinitive as subject"
+  },
+  {
+    "id": 79,
+    "term": "Thank you for coming.",
+    "definition": "Obrigado por teres vindo.",
+    "example": "'por' + infinitivo pessoal composto: teres vindo"
+  },
+  {
+    "id": 80,
+    "term": "I'm tired of waiting.",
+    "definition": "Estou farto de esperar.",
+    "example": "'farto de' = tired/fed up with"
+  },
+  {
+    "id": 81,
+    "term": "If I had known, I would have come.",
+    "definition": "Se soubesse, teria vindo.",
+    "example": "imperfeito do conjuntivo + condicional composto"
+  },
+  {
+    "id": 82,
+    "term": "If you had called me, I would have helped.",
+    "definition": "Se me tivesses ligado, teria ajudado.",
+    "example": "mais-que-perfeito do conjuntivo + condicional composto"
+  },
+  {
+    "id": 83,
+    "term": "She would have passed if she had studied more.",
+    "definition": "Ela teria passado se tivesse estudado mais.",
+    "example": "condicional composto + imperfeito do conjuntivo composto"
+  },
+  {
+    "id": 84,
+    "term": "We wouldn't have been late if we had left earlier.",
+    "definition": "Não teríamos chegado atrasados se tivéssemos saído mais cedo.",
+    "example": "same hypothetical-past pattern"
+  },
+  {
+    "id": 85,
+    "term": "I have twenty-two books on this shelf.",
+    "definition": "Tenho vinte e dois livros nesta prateleira.",
+    "example": "'vinte e dois' — compound number"
+  },
+  {
+    "id": 86,
+    "term": "There are thirty-five students in this class.",
+    "definition": "Há trinta e cinco alunos nesta turma.",
+    "example": "'trinta e cinco'"
+  },
+  {
+    "id": 87,
+    "term": "I have been living here for eleven years.",
+    "definition": "Vivo aqui há onze anos.",
+    "example": "present tense + 'há' for an ongoing span"
+  },
+  {
+    "id": 88,
+    "term": "The building has one hundred rooms.",
+    "definition": "O edifício tem cem quartos.",
+    "example": "'cem' = one hundred exactly"
+  },
+  {
+    "id": 89,
+    "term": "I paid two hundred euros for this.",
+    "definition": "Paguei duzentos euros por isto.",
+    "example": "'duzentos' agrees masculine plural"
+  },
+  {
+    "id": 90,
+    "term": "Only one person answered correctly.",
+    "definition": "Só uma pessoa respondeu corretamente.",
+    "example": "'só' = only"
+  },
+  {
+    "id": 91,
+    "term": "He passed the exam, which made his parents happy.",
+    "definition": "Passou no exame, o que deixou os pais contentes.",
+    "example": "'o que' refers back to the whole clause"
+  },
+  {
+    "id": 92,
+    "term": "She was late, which annoyed the teacher.",
+    "definition": "Chegou atrasada, o que irritou o professor.",
+    "example": "'o que' again refers to the whole event"
+  },
+  {
+    "id": 93,
+    "term": "This is the best restaurant of all the ones I know.",
+    "definition": "Este é o melhor restaurante de todos os que conheço.",
+    "example": "'de todos os que' = of all the ones that"
+  },
+  {
+    "id": 94,
+    "term": "He is the smartest of all my friends.",
+    "definition": "É o mais inteligente de todos os meus amigos.",
+    "example": "superlative + 'de todos'"
+  },
+  {
+    "id": 95,
+    "term": "To be honest, I don't understand this.",
+    "definition": "Para ser sincero, não entendo isto.",
+    "example": "'para ser sincero' = to be honest"
+  },
+  {
+    "id": 96,
+    "term": "Generally speaking, the weather here is nice.",
+    "definition": "De um modo geral, o tempo aqui é agradável.",
+    "example": "'de um modo geral' = generally speaking"
+  },
+  {
+    "id": 97,
+    "term": "As far as I know, the shop is closed today.",
+    "definition": "Que eu saiba, a loja está fechada hoje.",
+    "example": "'que eu saiba' — conjuntivo idiom for 'as far as I know'"
+  },
+  {
+    "id": 98,
+    "term": "In my opinion, this is the right decision.",
+    "definition": "Na minha opinião, esta é a decisão certa.",
+    "example": "'na minha opinião' = in my opinion"
+  },
+  {
+    "id": 99,
+    "term": "All things considered, it went well.",
+    "definition": "Tudo considerado, correu bem.",
+    "example": "'tudo considerado' = all things considered"
+  },
+  {
+    "id": 100,
+    "term": "In the end, everything turned out fine.",
+    "definition": "No final, tudo correu bem.",
+    "example": "'no final' = in the end"
+  }
+];
+window.QM_PHRASES_PT_DATA = [
+  {
+    "id": 1,
+    "term": "Good morning!",
+    "definition": "Bom dia!",
+    "example": "used until roughly midday"
+  },
+  {
+    "id": 2,
+    "term": "Good evening!",
+    "definition": "Boa tarde!",
+    "example": "covers afternoon and early evening"
+  },
+  {
+    "id": 3,
+    "term": "Good night!",
+    "definition": "Boa noite!",
+    "example": "both a greeting after dark and a farewell before bed"
+  },
+  {
+    "id": 4,
+    "term": "Hi! (informal)",
+    "definition": "Olá!",
+    "example": "works at any time of day, any register"
+  },
+  {
+    "id": 5,
+    "term": "How are you?",
+    "definition": "Como estás?",
+    "example": "'tu' form — informal address"
+  },
+  {
+    "id": 6,
+    "term": "I'm fine, thanks. And you?",
+    "definition": "Estou bem, obrigado. E tu?",
+    "example": "'obrigado' — male speaker; a woman would say 'obrigada'"
+  },
+  {
+    "id": 7,
+    "term": "Long time no see!",
+    "definition": "Há quanto tempo!",
+    "example": "literally 'how much time!'"
+  },
+  {
+    "id": 8,
+    "term": "Welcome!",
+    "definition": "Bem-vindo!",
+    "example": "masculine singular; changes to 'bem-vinda' for a woman"
+  },
+  {
+    "id": 9,
+    "term": "Nice to see you again.",
+    "definition": "Que bom ver-te outra vez.",
+    "example": "'que bom' = how nice, an exclamatory opener"
+  },
+  {
+    "id": 10,
+    "term": "What's up? (very informal)",
+    "definition": "Como vai isso?",
+    "example": "casual, among friends"
+  },
+  {
+    "id": 11,
+    "term": "Goodbye!",
+    "definition": "Adeus!",
+    "example": "the standard, slightly more final farewell"
+  },
+  {
+    "id": 12,
+    "term": "See you later!",
+    "definition": "Até logo!",
+    "example": "'até' + time expression is the productive farewell pattern"
+  },
+  {
+    "id": 13,
+    "term": "See you tomorrow!",
+    "definition": "Até amanhã!",
+    "example": "same pattern: até + amanhã"
+  },
+  {
+    "id": 14,
+    "term": "Take care!",
+    "definition": "Cuida-te!",
+    "example": "reflexive imperative: cuida-te"
+  },
+  {
+    "id": 15,
+    "term": "Have a good day!",
+    "definition": "Tem um bom dia!",
+    "example": "'tem' — irregular imperative of 'ter', same form for tu and você"
+  },
+  {
+    "id": 16,
+    "term": "Bye! (informal)",
+    "definition": "Tchau!",
+    "example": "casual and very common, alongside the more formal 'adeus'"
+  },
+  {
+    "id": 17,
+    "term": "Until next time!",
+    "definition": "Até à próxima!",
+    "example": "'até à' = a + a → à"
+  },
+  {
+    "id": 18,
+    "term": "Have a safe trip!",
+    "definition": "Boa viagem!",
+    "example": "the standard send-off for travelers"
+  },
+  {
+    "id": 19,
+    "term": "Good night, sleep well.",
+    "definition": "Boa noite, dorme bem.",
+    "example": "'dorme bem' — informal imperative"
+  },
+  {
+    "id": 20,
+    "term": "Take care of yourself.",
+    "definition": "Cuida-te bem.",
+    "example": "'cuida-te' + bem for emphasis"
+  },
+  {
+    "id": 21,
+    "term": "Please.",
+    "definition": "Por favor.",
+    "example": "used at the start or end of a request"
+  },
+  {
+    "id": 22,
+    "term": "Thank you.",
+    "definition": "Obrigado.",
+    "example": "male speaker; 'obrigada' for a woman"
+  },
+  {
+    "id": 23,
+    "term": "Thank you very much.",
+    "definition": "Muito obrigado.",
+    "example": "'muito' intensifies the thanks"
+  },
+  {
+    "id": 24,
+    "term": "You're welcome.",
+    "definition": "De nada.",
+    "example": "literally 'of nothing'"
+  },
+  {
+    "id": 25,
+    "term": "No problem.",
+    "definition": "Sem problema.",
+    "example": "a casual reassurance"
+  },
+  {
+    "id": 26,
+    "term": "Excuse me.",
+    "definition": "Desculpa.",
+    "example": "informal imperative of 'desculpar'"
+  },
+  {
+    "id": 27,
+    "term": "I'm really sorry.",
+    "definition": "Lamento muito.",
+    "example": "'lamentar' — more formal/sincere than 'desculpa'"
+  },
+  {
+    "id": 28,
+    "term": "Pardon? (didn't hear)",
+    "definition": "Como disseste?",
+    "example": "literally 'how did you say it', asking for a repeat"
+  },
+  {
+    "id": 29,
+    "term": "No worries.",
+    "definition": "Não faz mal.",
+    "example": "literally 'it doesn't do harm' — a reassurance"
+  },
+  {
+    "id": 30,
+    "term": "It's my pleasure.",
+    "definition": "É um prazer.",
+    "example": "a warm, slightly formal response"
+  },
+  {
+    "id": 31,
+    "term": "My name is Anna.",
+    "definition": "Chamo-me Anna.",
+    "example": "reflexive: chamo-me, literally 'I call myself'"
+  },
+  {
+    "id": 32,
+    "term": "Nice to meet you.",
+    "definition": "Prazer em conhecer-te.",
+    "example": "'prazer em' + infinitive"
+  },
+  {
+    "id": 33,
+    "term": "This is my friend Marco.",
+    "definition": "Este é o meu amigo Marco.",
+    "example": "introducing someone"
+  },
+  {
+    "id": 34,
+    "term": "Where are you from?",
+    "definition": "De onde és?",
+    "example": "'de onde' = from where"
+  },
+  {
+    "id": 35,
+    "term": "I'm from England.",
+    "definition": "Sou de Inglaterra.",
+    "example": "'ser de' + place"
+  },
+  {
+    "id": 36,
+    "term": "What do you do for a living?",
+    "definition": "O que fazes profissionalmente?",
+    "example": "asking about someone's job"
+  },
+  {
+    "id": 37,
+    "term": "I'm a student.",
+    "definition": "Sou estudante.",
+    "example": "no article before a profession/status noun"
+  },
+  {
+    "id": 38,
+    "term": "Likewise!",
+    "definition": "Igualmente!",
+    "example": "a quick reply to a nice wish"
+  },
+  {
+    "id": 39,
+    "term": "It was nice meeting you.",
+    "definition": "Foi um prazer conhecer-te.",
+    "example": "pretérito: foi, said when parting"
+  },
+  {
+    "id": 40,
+    "term": "Let's keep in touch.",
+    "definition": "Vamos manter-nos em contacto.",
+    "example": "'manter-se em contacto' = to keep in touch"
+  },
+  {
+    "id": 41,
+    "term": "Happy birthday!",
+    "definition": "Parabéns!",
+    "example": "the standard birthday greeting, literally 'congratulations'"
+  },
+  {
+    "id": 42,
+    "term": "Congratulations!",
+    "definition": "Muitos parabéns!",
+    "example": "'muitos' emphasizes this as general congratulations, not a birthday wish"
+  },
+  {
+    "id": 43,
+    "term": "Good luck!",
+    "definition": "Boa sorte!",
+    "example": "the standard well-wish before an attempt at something"
+  },
+  {
+    "id": 44,
+    "term": "Best wishes!",
+    "definition": "Muitos votos de felicidade!",
+    "example": "a warmer, more formal well-wish"
+  },
+  {
+    "id": 45,
+    "term": "Get well soon!",
+    "definition": "As melhoras!",
+    "example": "literally 'the improvements', said to someone unwell"
+  },
+  {
+    "id": 46,
+    "term": "Happy New Year!",
+    "definition": "Feliz Ano Novo!",
+    "example": "'feliz' + occasion, a productive pattern"
+  },
+  {
+    "id": 47,
+    "term": "Merry Christmas!",
+    "definition": "Feliz Natal!",
+    "example": "same 'feliz' + occasion pattern"
+  },
+  {
+    "id": 48,
+    "term": "Cheers! (a toast)",
+    "definition": "Saúde!",
+    "example": "literally 'health', the standard toast"
+  },
+  {
+    "id": 49,
+    "term": "Have fun!",
+    "definition": "Diverte-te!",
+    "example": "reflexive imperative: diverte-te"
+  },
+  {
+    "id": 50,
+    "term": "Enjoy your meal!",
+    "definition": "Bom apetite!",
+    "example": "said before eating, borrowed pattern from French"
+  },
+  {
+    "id": 51,
+    "term": "Can you help me, please?",
+    "definition": "Podes ajudar-me, por favor?",
+    "example": "'podes' — informal 'you can'"
+  },
+  {
+    "id": 52,
+    "term": "I need help.",
+    "definition": "Preciso de ajuda.",
+    "example": "'precisar de' + noun"
+  },
+  {
+    "id": 53,
+    "term": "Where is the bathroom?",
+    "definition": "Onde é a casa de banho?",
+    "example": "'casa de banho' — the European term"
+  },
+  {
+    "id": 54,
+    "term": "How much does this cost?",
+    "definition": "Quanto custa isto?",
+    "example": "'custar' = to cost"
+  },
+  {
+    "id": 55,
+    "term": "Do you have this in another color?",
+    "definition": "Tem isto noutra cor?",
+    "example": "'noutra' = em + outra, contraction"
+  },
+  {
+    "id": 56,
+    "term": "Can I have the bill, please?",
+    "definition": "Posso ter a conta, por favor?",
+    "example": "'a conta' — the check at a restaurant"
+  },
+  {
+    "id": 57,
+    "term": "One moment, please.",
+    "definition": "Um momento, por favor.",
+    "example": "a polite stalling phrase"
+  },
+  {
+    "id": 58,
+    "term": "Could you repeat that?",
+    "definition": "Podes repetir isso?",
+    "example": "'podes' + infinitive"
+  },
+  {
+    "id": 59,
+    "term": "I don't understand.",
+    "definition": "Não percebo.",
+    "example": "'perceber' — the common everyday verb for 'understand'"
+  },
+  {
+    "id": 60,
+    "term": "Could you speak more slowly?",
+    "definition": "Podes falar mais devagar?",
+    "example": "'devagar' = slowly"
+  },
+  {
+    "id": 61,
+    "term": "I agree.",
+    "definition": "Concordo.",
+    "example": "simple present of 'concordar'"
+  },
+  {
+    "id": 62,
+    "term": "I don't agree.",
+    "definition": "Não concordo.",
+    "example": "negated present"
+  },
+  {
+    "id": 63,
+    "term": "That's true.",
+    "definition": "É verdade.",
+    "example": "'é' + verdade"
+  },
+  {
+    "id": 64,
+    "term": "That's not true.",
+    "definition": "Não é verdade.",
+    "example": "negated version"
+  },
+  {
+    "id": 65,
+    "term": "I think so.",
+    "definition": "Acho que sim.",
+    "example": "'achar que sim'"
+  },
+  {
+    "id": 66,
+    "term": "I don't think so.",
+    "definition": "Acho que não.",
+    "example": "'achar que não'"
+  },
+  {
+    "id": 67,
+    "term": "Sounds good.",
+    "definition": "Parece bem.",
+    "example": "'parecer' = to seem"
+  },
+  {
+    "id": 68,
+    "term": "No way!",
+    "definition": "De maneira nenhuma!",
+    "example": "an emphatic refusal"
+  },
+  {
+    "id": 69,
+    "term": "Of course!",
+    "definition": "Claro que sim!",
+    "example": "an emphatic agreement"
+  },
+  {
+    "id": 70,
+    "term": "Maybe.",
+    "definition": "Talvez.",
+    "example": "a single-word hedge"
+  },
+  {
+    "id": 71,
+    "term": "Really?",
+    "definition": "A sério?",
+    "example": "expressing mild disbelief"
+  },
+  {
+    "id": 72,
+    "term": "Wow!",
+    "definition": "Uau!",
+    "example": "an interjection of surprise"
+  },
+  {
+    "id": 73,
+    "term": "That's great!",
+    "definition": "Que ótimo!",
+    "example": "'que' + adjective, exclamatory"
+  },
+  {
+    "id": 74,
+    "term": "I'm sorry to hear that.",
+    "definition": "Lamento ouvir isso.",
+    "example": "'lamentar' + infinitive"
+  },
+  {
+    "id": 75,
+    "term": "What a shame.",
+    "definition": "Que pena.",
+    "example": "'que pena' — a fixed exclamation of sympathy"
+  },
+  {
+    "id": 76,
+    "term": "Oh no!",
+    "definition": "Ai não!",
+    "example": "'ai' — a common interjection of dismay"
+  },
+  {
+    "id": 77,
+    "term": "Exactly!",
+    "definition": "Exatamente!",
+    "example": "an emphatic agreement"
+  },
+  {
+    "id": 78,
+    "term": "I see.",
+    "definition": "Estou a ver.",
+    "example": "the EP progressive used idiomatically for understanding"
+  },
+  {
+    "id": 79,
+    "term": "That makes sense.",
+    "definition": "Isso faz sentido.",
+    "example": "'fazer sentido' = to make sense"
+  },
+  {
+    "id": 80,
+    "term": "That's interesting.",
+    "definition": "Isso é interessante.",
+    "example": "straightforward observation"
+  },
+  {
+    "id": 81,
+    "term": "Hello? (on the phone)",
+    "definition": "Estou?",
+    "example": "a distinctly Portuguese phone greeting, literally 'I am'"
+  },
+  {
+    "id": 82,
+    "term": "Who's calling?",
+    "definition": "Quem fala?",
+    "example": "literally 'who's speaking'"
+  },
+  {
+    "id": 83,
+    "term": "Can I call you back?",
+    "definition": "Posso ligar-te depois?",
+    "example": "enclitic pronoun: ligar-te"
+  },
+  {
+    "id": 84,
+    "term": "It was nice talking to you.",
+    "definition": "Foi bom falar contigo.",
+    "example": "'contigo' = with you, a fused pronoun form"
+  },
+  {
+    "id": 85,
+    "term": "See you at the party!",
+    "definition": "Vemo-nos na festa!",
+    "example": "reciprocal reflexive: vemo-nos"
+  },
+  {
+    "id": 86,
+    "term": "I'll text you.",
+    "definition": "Vou mandar-te uma mensagem.",
+    "example": "'mandar uma mensagem' = to text"
+  },
+  {
+    "id": 87,
+    "term": "Take it easy!",
+    "definition": "Não te stresses!",
+    "example": "colloquial, from the borrowed verb 'stressar-se'"
+  },
+  {
+    "id": 88,
+    "term": "All the best!",
+    "definition": "Tudo de bom!",
+    "example": "a warm closing wish"
+  },
+  {
+    "id": 89,
+    "term": "I'll be right there.",
+    "definition": "Já vou.",
+    "example": "the present standing in for the near future"
+  },
+  {
+    "id": 90,
+    "term": "I'm on my way.",
+    "definition": "Estou a caminho.",
+    "example": "'a caminho' = on the way"
+  },
+  {
+    "id": 91,
+    "term": "Watch out!",
+    "definition": "Cuidado!",
+    "example": "a bare warning, no verb needed"
+  },
+  {
+    "id": 92,
+    "term": "No rush.",
+    "definition": "Sem pressa.",
+    "example": "'sem pressa' = no hurry"
+  },
+  {
+    "id": 93,
+    "term": "After you.",
+    "definition": "Depois de ti.",
+    "example": "a small courtesy at a doorway"
+  },
+  {
+    "id": 94,
+    "term": "Make yourself at home.",
+    "definition": "Sente-te em casa.",
+    "example": "reflexive imperative: sente-te"
+  },
+  {
+    "id": 95,
+    "term": "It's on me. (paying)",
+    "definition": "Pago eu.",
+    "example": "literally 'I pay', offering to cover the bill"
+  },
+  {
+    "id": 96,
+    "term": "Let's go!",
+    "definition": "Vamos!",
+    "example": "one word, doubling as 'we go' and 'let's go'"
+  },
+  {
+    "id": 97,
+    "term": "Welcome home!",
+    "definition": "Bem-vindo a casa!",
+    "example": "'bem-vindo' + a casa"
+  },
+  {
+    "id": 98,
+    "term": "Get home safe!",
+    "definition": "Chega bem a casa!",
+    "example": "informal imperative: chega"
+  },
+  {
+    "id": 99,
+    "term": "I'm looking forward to it.",
+    "definition": "Estou ansioso por isso.",
+    "example": "'ansioso por' = eager/looking forward to"
+  },
+  {
+    "id": 100,
+    "term": "Thanks for everything.",
+    "definition": "Obrigado por tudo.",
+    "example": "'obrigado por' + noun"
   }
 ];
