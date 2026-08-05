@@ -2634,7 +2634,15 @@ window.QM_HIDDEN_QUIZZES = [
   "huIntermediateSentences",
   "rhuIntermediateSentences",
   "huPhrases",
-  "rhuPhrases"
+  "rhuPhrases",
+  "roUpperBeginnerSentences",
+  "rroUpperBeginnerSentences",
+  "roLowerIntSentences",
+  "rroLowerIntSentences",
+  "roIntermediateSentences",
+  "rroIntermediateSentences",
+  "roPhrases",
+  "rroPhrases"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -127099,5 +127107,2413 @@ window.QM_PHRASES_HU_DATA = [
     "term": "Thanks for everything.",
     "definition": "Köszönök mindent.",
     "example": "'köszönök' + accusative 'mindent'"
+  }
+];
+window.QM_SENTENCES_RO_UPPERBEGINNER_DATA = [
+  {
+    "id": 1,
+    "term": "My father is a farmer.",
+    "definition": "Tatăl meu este agricultor.",
+    "example": "no article before an unmodified profession after 'a fi'"
+  },
+  {
+    "id": 2,
+    "term": "My mother is a teacher.",
+    "definition": "Mama mea este profesoară.",
+    "example": "feminine profession noun"
+  },
+  {
+    "id": 3,
+    "term": "I have two brothers and one sister.",
+    "definition": "Am doi frați și o soră.",
+    "example": "'am' — the everyday verb for 'I have'"
+  },
+  {
+    "id": 4,
+    "term": "My grandmother lives with us.",
+    "definition": "Bunica mea locuiește cu noi.",
+    "example": "'cu noi' = with us"
+  },
+  {
+    "id": 5,
+    "term": "Our family is very big.",
+    "definition": "Familia noastră este foarte mare.",
+    "example": "'noastră' = our, feminine agreement with familia"
+  },
+  {
+    "id": 6,
+    "term": "My son is five years old.",
+    "definition": "Fiul meu are cinci ani.",
+    "example": "'a avea' + ani — the standard way to state an age"
+  },
+  {
+    "id": 7,
+    "term": "My daughter likes to draw.",
+    "definition": "Fiicei mele îi place să deseneze.",
+    "example": "'a plăcea' always uses a dative experiencer: fiicei mele... îi place"
+  },
+  {
+    "id": 8,
+    "term": "We have a small dog and a big cat.",
+    "definition": "Avem un câine mic și o pisică mare.",
+    "example": "adjectives follow their nouns, as usual in Romanian"
+  },
+  {
+    "id": 9,
+    "term": "My parents are on vacation.",
+    "definition": "Părinții mei sunt în vacanță.",
+    "example": "'în vacanță' = on vacation"
+  },
+  {
+    "id": 10,
+    "term": "My best friend has three children.",
+    "definition": "Cel mai bun prieten al meu are trei copii.",
+    "example": "'cel mai bun' = best, the superlative pattern"
+  },
+  {
+    "id": 11,
+    "term": "I wake up early on Mondays.",
+    "definition": "Lunea mă trezesc devreme.",
+    "example": "'lunea' — the definite adverbial form used for 'on Mondays'"
+  },
+  {
+    "id": 12,
+    "term": "On Saturdays, I sleep late.",
+    "definition": "Sâmbăta dorm până târziu.",
+    "example": "same definite adverbial pattern: sâmbăta"
+  },
+  {
+    "id": 13,
+    "term": "Today is Tuesday.",
+    "definition": "Astăzi este marți.",
+    "example": "day names need no article"
+  },
+  {
+    "id": 14,
+    "term": "Tomorrow is my birthday.",
+    "definition": "Mâine este ziua mea de naștere.",
+    "example": "same simple pattern"
+  },
+  {
+    "id": 15,
+    "term": "Yesterday was a busy day.",
+    "definition": "Ieri a fost o zi aglomerată.",
+    "example": "past tense of 'a fi': a fost"
+  },
+  {
+    "id": 16,
+    "term": "In the morning, I drink coffee.",
+    "definition": "Dimineața beau cafea.",
+    "example": "'dimineața' = in the morning"
+  },
+  {
+    "id": 17,
+    "term": "In the evening, we watch television.",
+    "definition": "Seara ne uităm la televizor.",
+    "example": "'a se uita la' = to watch"
+  },
+  {
+    "id": 18,
+    "term": "At night, I read a book.",
+    "definition": "Noaptea citesc o carte.",
+    "example": "'noaptea' = at night"
+  },
+  {
+    "id": 19,
+    "term": "This afternoon, I have a meeting.",
+    "definition": "În după-amiaza aceasta am o ședință.",
+    "example": "'după-amiaza aceasta' = this afternoon"
+  },
+  {
+    "id": 20,
+    "term": "Every weekend, we visit my parents.",
+    "definition": "În fiecare weekend îi vizităm pe părinții mei.",
+    "example": "'pe' marks a definite direct object referring to a person"
+  },
+  {
+    "id": 21,
+    "term": "I would like a glass of water.",
+    "definition": "Aș dori un pahar cu apă.",
+    "example": "'aș dori' — conditional of 'a dori', the polite 'I would like'"
+  },
+  {
+    "id": 22,
+    "term": "Can I have the menu, please?",
+    "definition": "Pot să am meniul, vă rog?",
+    "example": "'a putea' + subjunctive 'să'"
+  },
+  {
+    "id": 23,
+    "term": "This soup is delicious.",
+    "definition": "Această supă este delicioasă.",
+    "example": "'această' — feminine demonstrative"
+  },
+  {
+    "id": 24,
+    "term": "I don't eat meat.",
+    "definition": "Nu mănânc carne.",
+    "example": "no article needed for a generic negated food"
+  },
+  {
+    "id": 25,
+    "term": "She likes sweet food.",
+    "definition": "Ei îi place mâncarea dulce.",
+    "example": "dative experiencer again: ei îi place"
+  },
+  {
+    "id": 26,
+    "term": "We are having pizza for dinner.",
+    "definition": "Mâncăm pizza la cină.",
+    "example": "'la cină' = for dinner"
+  },
+  {
+    "id": 27,
+    "term": "The bread is fresh.",
+    "definition": "Pâinea este proaspătă.",
+    "example": "postpositive definite article: pâine + a"
+  },
+  {
+    "id": 28,
+    "term": "I usually drink tea, not coffee.",
+    "definition": "De obicei beau ceai, nu cafea.",
+    "example": "'de obicei' = usually"
+  },
+  {
+    "id": 29,
+    "term": "This restaurant is very popular.",
+    "definition": "Acest restaurant este foarte popular.",
+    "example": "'acest' — masculine demonstrative"
+  },
+  {
+    "id": 30,
+    "term": "The food here is cheap.",
+    "definition": "Mâncarea de aici este ieftină.",
+    "example": "'de aici' = here (from here)"
+  },
+  {
+    "id": 31,
+    "term": "It is sunny today.",
+    "definition": "Astăzi este soare.",
+    "example": "'este soare' = it's sunny, literally 'there is sun'"
+  },
+  {
+    "id": 32,
+    "term": "It is raining outside.",
+    "definition": "Afară plouă.",
+    "example": "'a ploua' — an impersonal weather verb"
+  },
+  {
+    "id": 33,
+    "term": "It is very windy.",
+    "definition": "Este vânt puternic.",
+    "example": "'vânt puternic' = strong wind"
+  },
+  {
+    "id": 34,
+    "term": "It is snowing in the mountains.",
+    "definition": "Ninge la munte.",
+    "example": "'a ninge' — impersonal verb"
+  },
+  {
+    "id": 35,
+    "term": "The weather is nice this week.",
+    "definition": "Vremea este frumoasă săptămâna aceasta.",
+    "example": "'vremea' — a feminine noun for weather"
+  },
+  {
+    "id": 36,
+    "term": "It is cloudy this morning.",
+    "definition": "În dimineața aceasta este înnorat.",
+    "example": "'înnorat' = cloudy"
+  },
+  {
+    "id": 37,
+    "term": "It is hot in the summer.",
+    "definition": "Vara este cald.",
+    "example": "'vara' — the definite adverbial form for 'in summer'"
+  },
+  {
+    "id": 38,
+    "term": "It is cold in the winter.",
+    "definition": "Iarna este frig.",
+    "example": "same adverbial pattern: iarna"
+  },
+  {
+    "id": 39,
+    "term": "There is a storm coming.",
+    "definition": "Se apropie o furtună.",
+    "example": "reflexive verb: a se apropia"
+  },
+  {
+    "id": 40,
+    "term": "The sky is blue today.",
+    "definition": "Cerul este albastru astăzi.",
+    "example": "'cerul' — postpositive definite article"
+  },
+  {
+    "id": 41,
+    "term": "I visited my grandparents last week.",
+    "definition": "Săptămâna trecută mi-am vizitat bunicii.",
+    "example": "reflexive-dative construction common with family visits: mi-am vizitat"
+  },
+  {
+    "id": 42,
+    "term": "We watched a good movie yesterday.",
+    "definition": "Ieri am văzut un film bun.",
+    "example": "perfect compus: am văzut"
+  },
+  {
+    "id": 43,
+    "term": "She cooked dinner for us.",
+    "definition": "Ea a gătit cina pentru noi.",
+    "example": "'pentru noi' = for us"
+  },
+  {
+    "id": 44,
+    "term": "They traveled to Spain last summer.",
+    "definition": "Vara trecută au călătorit în Spania.",
+    "example": "'în' + country name"
+  },
+  {
+    "id": 45,
+    "term": "I finished my homework early.",
+    "definition": "Mi-am terminat tema devreme.",
+    "example": "reflexive-dative: mi-am terminat"
+  },
+  {
+    "id": 46,
+    "term": "He bought a new car.",
+    "definition": "A cumpărat o mașină nouă.",
+    "example": "perfect compus: a cumpărat"
+  },
+  {
+    "id": 47,
+    "term": "We walked to the park.",
+    "definition": "Am mers pe jos până la parc.",
+    "example": "'pe jos' = on foot, walking"
+  },
+  {
+    "id": 48,
+    "term": "I called my friend this morning.",
+    "definition": "În dimineața aceasta mi-am sunat prietenul.",
+    "example": "reflexive-dative: mi-am sunat"
+  },
+  {
+    "id": 49,
+    "term": "She sold her old bicycle.",
+    "definition": "Ea și-a vândut bicicleta veche.",
+    "example": "reflexive-dative: și-a vândut"
+  },
+  {
+    "id": 50,
+    "term": "We celebrated his birthday together.",
+    "definition": "I-am sărbătorit ziua de naștere împreună.",
+    "example": "'i-am sărbătorit' — dative clitic 'i' for 'his'"
+  },
+  {
+    "id": 51,
+    "term": "I am going to visit my aunt.",
+    "definition": "O să îmi vizitez mătușa.",
+    "example": "'o să' + subjunctive — the standard colloquial future"
+  },
+  {
+    "id": 52,
+    "term": "We are going to have a party.",
+    "definition": "O să facem o petrecere.",
+    "example": "o să + subjunctive"
+  },
+  {
+    "id": 53,
+    "term": "She is going to start a new job.",
+    "definition": "O să înceapă un job nou.",
+    "example": "o să + subjunctive"
+  },
+  {
+    "id": 54,
+    "term": "They are going to move to a new city.",
+    "definition": "O să se mute într-un oraș nou.",
+    "example": "o să + reflexive subjunctive"
+  },
+  {
+    "id": 55,
+    "term": "I am going to buy a new phone.",
+    "definition": "O să cumpăr un telefon nou.",
+    "example": "o să + subjunctive"
+  },
+  {
+    "id": 56,
+    "term": "He is going to learn to swim.",
+    "definition": "O să învețe să înoate.",
+    "example": "o să + subjunctive"
+  },
+  {
+    "id": 57,
+    "term": "We are going to travel next month.",
+    "definition": "O să călătorim luna viitoare.",
+    "example": "o să + subjunctive"
+  },
+  {
+    "id": 58,
+    "term": "I am going to cook dinner tonight.",
+    "definition": "O să gătesc cina în seara asta.",
+    "example": "o să + subjunctive"
+  },
+  {
+    "id": 59,
+    "term": "She is going to call you later.",
+    "definition": "O să te sune mai târziu.",
+    "example": "o să + subjunctive"
+  },
+  {
+    "id": 60,
+    "term": "They are going to arrive tomorrow.",
+    "definition": "O să ajungă mâine.",
+    "example": "o să + subjunctive"
+  },
+  {
+    "id": 61,
+    "term": "I like coffee and tea.",
+    "definition": "Îmi place cafeaua și ceaiul.",
+    "example": "dative experiencer: îmi place"
+  },
+  {
+    "id": 62,
+    "term": "She is smart and kind.",
+    "definition": "Este deșteaptă și amabilă.",
+    "example": "feminine adjective agreement"
+  },
+  {
+    "id": 63,
+    "term": "I want to go, but I am tired.",
+    "definition": "Vreau să merg, dar sunt obosit.",
+    "example": "'dar' = but"
+  },
+  {
+    "id": 64,
+    "term": "He is tall, but his brother is short.",
+    "definition": "Este înalt, dar fratele lui este scund.",
+    "example": "'fratele lui' = his brother"
+  },
+  {
+    "id": 65,
+    "term": "Do you want tea or coffee?",
+    "definition": "Vrei ceai sau cafea?",
+    "example": "'sau' = or"
+  },
+  {
+    "id": 66,
+    "term": "You can call me or send a message.",
+    "definition": "Poți să mă suni sau să îmi trimiți un mesaj.",
+    "example": "'sau' linking two subjunctive clauses"
+  },
+  {
+    "id": 67,
+    "term": "I stayed home because it was raining.",
+    "definition": "Am stat acasă pentru că ploua.",
+    "example": "'pentru că' = because"
+  },
+  {
+    "id": 68,
+    "term": "She was late because of the traffic.",
+    "definition": "A întârziat din cauza traficului.",
+    "example": "'din cauza' = because of, genitive"
+  },
+  {
+    "id": 69,
+    "term": "I am happy because I passed the test.",
+    "definition": "Sunt fericit pentru că am trecut testul.",
+    "example": "'pentru că' clause"
+  },
+  {
+    "id": 70,
+    "term": "He is tired because he worked all day.",
+    "definition": "Este obosit pentru că a lucrat toată ziua.",
+    "example": "'pentru că' clause"
+  },
+  {
+    "id": 71,
+    "term": "The bank is near the school.",
+    "definition": "Banca este aproape de școală.",
+    "example": "'aproape de' = near"
+  },
+  {
+    "id": 72,
+    "term": "The park is far from here.",
+    "definition": "Parcul este departe de aici.",
+    "example": "'departe de' = far from"
+  },
+  {
+    "id": 73,
+    "term": "Turn left at the corner.",
+    "definition": "La colț, virează la stânga.",
+    "example": "'la stânga' = to the left"
+  },
+  {
+    "id": 74,
+    "term": "Turn right at the traffic light.",
+    "definition": "La semafor, virează la dreapta.",
+    "example": "'la dreapta' = to the right"
+  },
+  {
+    "id": 75,
+    "term": "Go straight ahead.",
+    "definition": "Mergi drept înainte.",
+    "example": "'drept înainte' = straight ahead"
+  },
+  {
+    "id": 76,
+    "term": "The hospital is next to the church.",
+    "definition": "Spitalul este lângă biserică.",
+    "example": "'lângă' = next to"
+  },
+  {
+    "id": 77,
+    "term": "The store is across from the hotel.",
+    "definition": "Magazinul este vizavi de hotel.",
+    "example": "'vizavi de' = across from"
+  },
+  {
+    "id": 78,
+    "term": "It is behind the building.",
+    "definition": "Este în spatele clădirii.",
+    "example": "'în spatele' + genitive = behind"
+  },
+  {
+    "id": 79,
+    "term": "It is in front of the station.",
+    "definition": "Este în fața gării.",
+    "example": "'în fața' + genitive = in front of"
+  },
+  {
+    "id": 80,
+    "term": "The bathroom is upstairs.",
+    "definition": "Baia este sus.",
+    "example": "'sus' = upstairs"
+  },
+  {
+    "id": 81,
+    "term": "The car is red.",
+    "definition": "Mașina este roșie.",
+    "example": "feminine adjective agreement"
+  },
+  {
+    "id": 82,
+    "term": "The house is white and big.",
+    "definition": "Casa este albă și mare.",
+    "example": "feminine adjectives"
+  },
+  {
+    "id": 83,
+    "term": "This box is heavy.",
+    "definition": "Această cutie este grea.",
+    "example": "feminine demonstrative + adjective"
+  },
+  {
+    "id": 84,
+    "term": "That bag is light.",
+    "definition": "Acea geantă este ușoară.",
+    "example": "'acea' — feminine 'that'"
+  },
+  {
+    "id": 85,
+    "term": "The room is clean.",
+    "definition": "Camera este curată.",
+    "example": "feminine adjective"
+  },
+  {
+    "id": 86,
+    "term": "The street is dirty.",
+    "definition": "Strada este murdară.",
+    "example": "feminine adjective"
+  },
+  {
+    "id": 87,
+    "term": "This road is long.",
+    "definition": "Acest drum este lung.",
+    "example": "masculine demonstrative + adjective"
+  },
+  {
+    "id": 88,
+    "term": "That path is short.",
+    "definition": "Acea potecă este scurtă.",
+    "example": "feminine demonstrative + adjective"
+  },
+  {
+    "id": 89,
+    "term": "The water is deep here.",
+    "definition": "Apa este adâncă aici.",
+    "example": "feminine adjective"
+  },
+  {
+    "id": 90,
+    "term": "This lake is shallow.",
+    "definition": "Acest lac este puțin adânc.",
+    "example": "'puțin adânc' = shallow, literally 'little deep'"
+  },
+  {
+    "id": 91,
+    "term": "I see her every day.",
+    "definition": "O văd în fiecare zi.",
+    "example": "clitic pronoun 'o' (her) precedes the verb"
+  },
+  {
+    "id": 92,
+    "term": "He calls me every week.",
+    "definition": "Mă sună în fiecare săptămână.",
+    "example": "clitic 'mă' = me"
+  },
+  {
+    "id": 93,
+    "term": "We visit them on Sundays.",
+    "definition": "Îi vizităm duminica.",
+    "example": "clitic 'îi' = them (masculine/mixed)"
+  },
+  {
+    "id": 94,
+    "term": "She waits for us at the station.",
+    "definition": "Ne așteaptă la gară.",
+    "example": "'a aștepta' + accusative — no preposition needed"
+  },
+  {
+    "id": 95,
+    "term": "I don't see him here.",
+    "definition": "Nu îl văd aici.",
+    "example": "clitic 'îl' = him"
+  },
+  {
+    "id": 96,
+    "term": "They know you well.",
+    "definition": "Te cunosc bine.",
+    "example": "clitic 'te' = you"
+  },
+  {
+    "id": 97,
+    "term": "Do you understand me?",
+    "definition": "Mă înțelegi?",
+    "example": "clitic 'mă' before the verb"
+  },
+  {
+    "id": 98,
+    "term": "I love you very much.",
+    "definition": "Te iubesc foarte mult.",
+    "example": "clitic 'te' = you"
+  },
+  {
+    "id": 99,
+    "term": "Today's date is the fifth of August.",
+    "definition": "Astăzi este cinci august.",
+    "example": "dates use a cardinal number"
+  },
+  {
+    "id": 100,
+    "term": "The number nine is my lucky number.",
+    "definition": "Numărul nouă este numărul meu norocos.",
+    "example": "'norocos' = lucky"
+  }
+];
+window.QM_SENTENCES_RO_LOWERINT_DATA = [
+  {
+    "id": 1,
+    "term": "I want to learn Romanian.",
+    "definition": "Vreau să învăț română.",
+    "example": "'vreau' + subjunctive 'să'"
+  },
+  {
+    "id": 2,
+    "term": "I can help you tomorrow.",
+    "definition": "Te pot ajuta mâine.",
+    "example": "clitic 'te' before 'pot ajuta'"
+  },
+  {
+    "id": 3,
+    "term": "I must go now.",
+    "definition": "Trebuie să plec acum.",
+    "example": "'trebuie' + subjunctive"
+  },
+  {
+    "id": 4,
+    "term": "You should rest.",
+    "definition": "Ar trebui să te odihnești.",
+    "example": "'ar trebui' — conditional of 'trebuie', softens it to 'should'"
+  },
+  {
+    "id": 5,
+    "term": "She should call her mother.",
+    "definition": "Ar trebui să își sune mama.",
+    "example": "same 'ar trebui' pattern"
+  },
+  {
+    "id": 6,
+    "term": "We want to visit Bucharest.",
+    "definition": "Vrem să vizităm București.",
+    "example": "vrem + subjunctive"
+  },
+  {
+    "id": 7,
+    "term": "They can't come today.",
+    "definition": "Nu pot veni astăzi.",
+    "example": "nu pot + infinitive-like subjunctive"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to eat now.",
+    "definition": "Nu vreau să mănânc acum.",
+    "example": "nu vreau + subjunctive"
+  },
+  {
+    "id": 9,
+    "term": "Do you want some tea?",
+    "definition": "Vrei ceai?",
+    "example": "no article needed for an uncountable noun"
+  },
+  {
+    "id": 10,
+    "term": "I would like to order a coffee.",
+    "definition": "Aș vrea să comand o cafea.",
+    "example": "'aș vrea' softens the request"
+  },
+  {
+    "id": 11,
+    "term": "You have to be careful.",
+    "definition": "Trebuie să fii atent.",
+    "example": "trebuie + subjunctive of 'a fi'"
+  },
+  {
+    "id": 12,
+    "term": "It's necessary to buy bread.",
+    "definition": "Este necesar să cumperi pâine.",
+    "example": "'este necesar' = it's necessary"
+  },
+  {
+    "id": 13,
+    "term": "You can smoke here.",
+    "definition": "Poți fuma aici.",
+    "example": "'a putea' + infinitive"
+  },
+  {
+    "id": 14,
+    "term": "You can't park here.",
+    "definition": "Nu poți parca aici.",
+    "example": "negated 'a putea'"
+  },
+  {
+    "id": 15,
+    "term": "It's worth trying this soup.",
+    "definition": "Merită să încerci această supă.",
+    "example": "'merită' = it's worth it"
+  },
+  {
+    "id": 16,
+    "term": "It's not necessary to hurry.",
+    "definition": "Nu este necesar să te grăbești.",
+    "example": "negated 'este necesar'"
+  },
+  {
+    "id": 17,
+    "term": "You shouldn't smoke.",
+    "definition": "N-ar trebui să fumezi.",
+    "example": "negated 'ar trebui'"
+  },
+  {
+    "id": 18,
+    "term": "One has to work hard.",
+    "definition": "Trebuie să muncești din greu.",
+    "example": "generic 'trebuie' + subjunctive"
+  },
+  {
+    "id": 19,
+    "term": "Everyone must follow the rules.",
+    "definition": "Toată lumea trebuie să respecte regulile.",
+    "example": "'toată lumea' = everyone, takes a singular verb"
+  },
+  {
+    "id": 20,
+    "term": "I have to finish this today.",
+    "definition": "Trebuie să termin asta astăzi.",
+    "example": "trebuie + subjunctive"
+  },
+  {
+    "id": 21,
+    "term": "I like this song.",
+    "definition": "Îmi place această melodie.",
+    "example": "dative experiencer construction"
+  },
+  {
+    "id": 22,
+    "term": "Do you like this city?",
+    "definition": "Îți place acest oraș?",
+    "example": "'îți' = to you, dative"
+  },
+  {
+    "id": 23,
+    "term": "We like this restaurant.",
+    "definition": "Ne place acest restaurant.",
+    "example": "'ne' = to us, dative"
+  },
+  {
+    "id": 24,
+    "term": "They don't like this idea.",
+    "definition": "Nu le place această idee.",
+    "example": "'le' = to them, dative"
+  },
+  {
+    "id": 25,
+    "term": "My head hurts.",
+    "definition": "Mă doare capul.",
+    "example": "'a durea' + accusative clitic, subject follows: mă doare capul"
+  },
+  {
+    "id": 26,
+    "term": "My legs hurt.",
+    "definition": "Mă dor picioarele.",
+    "example": "plural subject takes plural verb: dor"
+  },
+  {
+    "id": 27,
+    "term": "Does your stomach hurt?",
+    "definition": "Te doare stomacul?",
+    "example": "'te' = you, accusative clitic"
+  },
+  {
+    "id": 28,
+    "term": "I feel sick.",
+    "definition": "Mă simt rău.",
+    "example": "reflexive: mă simt"
+  },
+  {
+    "id": 29,
+    "term": "I am cold.",
+    "definition": "Mi-e frig.",
+    "example": "'mi-e frig' — a dative idiom, literally 'to me is cold'"
+  },
+  {
+    "id": 30,
+    "term": "Are you hungry?",
+    "definition": "Ți-e foame?",
+    "example": "same dative idiom: ți-e foame"
+  },
+  {
+    "id": 31,
+    "term": "The more you practice, the better you speak.",
+    "definition": "Cu cât exersezi mai mult, cu atât vorbești mai bine.",
+    "example": "'cu cât... cu atât...' = the more... the more..."
+  },
+  {
+    "id": 32,
+    "term": "The sooner, the better.",
+    "definition": "Cu cât mai devreme, cu atât mai bine.",
+    "example": "same correlative, shortened"
+  },
+  {
+    "id": 33,
+    "term": "Both my sister and my brother live in Bucharest.",
+    "definition": "Atât sora mea, cât și fratele meu locuiesc în București.",
+    "example": "'atât... cât și...' = both... and..."
+  },
+  {
+    "id": 34,
+    "term": "I like neither tea nor coffee.",
+    "definition": "Nu-mi place nici ceaiul, nici cafeaua.",
+    "example": "'nici... nici...' = neither... nor..."
+  },
+  {
+    "id": 35,
+    "term": "This is the most beautiful city in Romania.",
+    "definition": "Acesta este cel mai frumos oraș din România.",
+    "example": "superlative: cel mai frumos"
+  },
+  {
+    "id": 36,
+    "term": "He is older than me.",
+    "definition": "El este mai în vârstă decât mine.",
+    "example": "'decât' = than"
+  },
+  {
+    "id": 37,
+    "term": "This is worse than I thought.",
+    "definition": "Aceasta este mai rău decât am crezut.",
+    "example": "'mai rău decât' = worse than"
+  },
+  {
+    "id": 38,
+    "term": "She sings better than he does.",
+    "definition": "Ea cântă mai bine decât el.",
+    "example": "'mai bine decât' = better than"
+  },
+  {
+    "id": 39,
+    "term": "This task is easier than that one.",
+    "definition": "Această sarcină este mai ușoară decât aceea.",
+    "example": "'mai ușoară decât' = easier than"
+  },
+  {
+    "id": 40,
+    "term": "He runs the fastest on our team.",
+    "definition": "El aleargă cel mai repede din echipa noastră.",
+    "example": "superlative adverb: cel mai repede"
+  },
+  {
+    "id": 41,
+    "term": "I think that this is a good idea.",
+    "definition": "Cred că aceasta este o idee bună.",
+    "example": "'că' = that"
+  },
+  {
+    "id": 42,
+    "term": "I know that you are right.",
+    "definition": "Știu că ai dreptate.",
+    "example": "'a avea dreptate' = to be right"
+  },
+  {
+    "id": 43,
+    "term": "I hope that the weather will be nice.",
+    "definition": "Sper că vremea va fi frumoasă.",
+    "example": "'că' + future"
+  },
+  {
+    "id": 44,
+    "term": "I am glad that you came.",
+    "definition": "Mă bucur că ai venit.",
+    "example": "'a se bucura' + 'că'"
+  },
+  {
+    "id": 45,
+    "term": "I don't think that it's true.",
+    "definition": "Nu cred că este adevărat.",
+    "example": "negated main clause"
+  },
+  {
+    "id": 46,
+    "term": "I am learning Romanian because I want to live in Romania.",
+    "definition": "Învăț română pentru că vreau să locuiesc în România.",
+    "example": "'pentru că' = because"
+  },
+  {
+    "id": 47,
+    "term": "I can't come because I am sick.",
+    "definition": "Nu pot veni pentru că sunt bolnav.",
+    "example": "'pentru că' clause"
+  },
+  {
+    "id": 48,
+    "term": "I am studying so that I can pass the exam.",
+    "definition": "Învăț ca să pot trece examenul.",
+    "example": "'ca să' = so that"
+  },
+  {
+    "id": 49,
+    "term": "Call me when you arrive.",
+    "definition": "Sună-mă când ajungi.",
+    "example": "'când' = when"
+  },
+  {
+    "id": 50,
+    "term": "If it rains, we will stay home.",
+    "definition": "Dacă plouă, vom sta acasă.",
+    "example": "'dacă' = if"
+  },
+  {
+    "id": 51,
+    "term": "The woman who lives next door is a doctor.",
+    "definition": "Femeia care locuiește alături este doctor.",
+    "example": "'care' — the invariant relative pronoun for people and things alike"
+  },
+  {
+    "id": 52,
+    "term": "The man who called yesterday is my uncle.",
+    "definition": "Bărbatul care a sunat ieri este unchiul meu.",
+    "example": "'care' for a person"
+  },
+  {
+    "id": 53,
+    "term": "The book that I am reading is very interesting.",
+    "definition": "Cartea pe care o citesc este foarte interesantă.",
+    "example": "'pe care' + clitic 'o' — the accusative relative construction"
+  },
+  {
+    "id": 54,
+    "term": "The children who play in the park are our neighbors.",
+    "definition": "Copiii care se joacă în parc sunt vecinii noștri.",
+    "example": "'care' stays the same for plural"
+  },
+  {
+    "id": 55,
+    "term": "This is the house in which I grew up.",
+    "definition": "Aceasta este casa în care am crescut.",
+    "example": "'în care' = in which"
+  },
+  {
+    "id": 56,
+    "term": "I don't remember the name of the street where we met.",
+    "definition": "Nu-mi amintesc numele străzii unde ne-am cunoscut.",
+    "example": "'unde' = where"
+  },
+  {
+    "id": 57,
+    "term": "The people whom I met were very friendly.",
+    "definition": "Oamenii pe care i-am cunoscut au fost foarte prietenoși.",
+    "example": "'pe care' + clitic 'i-am' — accusative plural relative"
+  },
+  {
+    "id": 58,
+    "term": "This is the reason why I am late.",
+    "definition": "Acesta este motivul pentru care am întârziat.",
+    "example": "'pentru care' = why/for which"
+  },
+  {
+    "id": 59,
+    "term": "The car that broke down is mine.",
+    "definition": "Mașina care s-a stricat este a mea.",
+    "example": "'a se strica' = to break down"
+  },
+  {
+    "id": 60,
+    "term": "I found the keys that I lost.",
+    "definition": "Am găsit cheile pe care le-am pierdut.",
+    "example": "'pe care' + clitic 'le-am'"
+  },
+  {
+    "id": 61,
+    "term": "The meeting starts at three o'clock.",
+    "definition": "Ședința începe la ora trei.",
+    "example": "'la ora' + number"
+  },
+  {
+    "id": 62,
+    "term": "I usually wake up before seven.",
+    "definition": "De obicei mă trezesc înainte de ora șapte.",
+    "example": "'înainte de' = before"
+  },
+  {
+    "id": 63,
+    "term": "We will meet after the concert.",
+    "definition": "Ne vom întâlni după concert.",
+    "example": "'după' = after"
+  },
+  {
+    "id": 64,
+    "term": "The shop is open from nine to six.",
+    "definition": "Magazinul este deschis de la nouă la șase.",
+    "example": "'de la... la...' = from... to..."
+  },
+  {
+    "id": 65,
+    "term": "I lived in Romania for three years.",
+    "definition": "Am locuit în România timp de trei ani.",
+    "example": "'timp de' = for (a duration)"
+  },
+  {
+    "id": 66,
+    "term": "I haven't seen him since last year.",
+    "definition": "Nu l-am mai văzut de anul trecut.",
+    "example": "'de' = since"
+  },
+  {
+    "id": 67,
+    "term": "During the summer, we travel a lot.",
+    "definition": "În timpul verii călătorim mult.",
+    "example": "'în timpul' + genitive = during"
+  },
+  {
+    "id": 68,
+    "term": "On Mondays, I go to the gym.",
+    "definition": "Lunea merg la sală.",
+    "example": "'lunea' — definite adverbial form"
+  },
+  {
+    "id": 69,
+    "term": "Next week, I am going on vacation.",
+    "definition": "Săptămâna viitoare plec în vacanță.",
+    "example": "'săptămâna viitoare' = next week"
+  },
+  {
+    "id": 70,
+    "term": "Two years ago, I visited Romania.",
+    "definition": "Acum doi ani am vizitat România.",
+    "example": "'acum' + time span = ago"
+  },
+  {
+    "id": 71,
+    "term": "There are a lot of people here.",
+    "definition": "Sunt mulți oameni aici.",
+    "example": "'sunt' — existential 'there are'"
+  },
+  {
+    "id": 72,
+    "term": "I have little time.",
+    "definition": "Am puțin timp.",
+    "example": "'puțin' = little"
+  },
+  {
+    "id": 73,
+    "term": "I have a few questions.",
+    "definition": "Am câteva întrebări.",
+    "example": "'câteva' = a few (feminine)"
+  },
+  {
+    "id": 74,
+    "term": "There are many opportunities here.",
+    "definition": "Sunt multe oportunități aici.",
+    "example": "'multe' = many (feminine plural)"
+  },
+  {
+    "id": 75,
+    "term": "I have several friends in Romania.",
+    "definition": "Am mai mulți prieteni în România.",
+    "example": "'mai mulți' = several"
+  },
+  {
+    "id": 76,
+    "term": "Not many people know about this.",
+    "definition": "Nu mulți oameni știu despre asta.",
+    "example": "'despre' = about"
+  },
+  {
+    "id": 77,
+    "term": "I need a bit more time.",
+    "definition": "Am nevoie de puțin mai mult timp.",
+    "example": "'am nevoie de' = I need"
+  },
+  {
+    "id": 78,
+    "term": "Most people agree with this.",
+    "definition": "Majoritatea oamenilor sunt de acord cu asta.",
+    "example": "'majoritatea' = most"
+  },
+  {
+    "id": 79,
+    "term": "I bought a lot of books.",
+    "definition": "Am cumpărat multe cărți.",
+    "example": "'multe' + plural noun"
+  },
+  {
+    "id": 80,
+    "term": "There isn't enough bread.",
+    "definition": "Nu este suficientă pâine.",
+    "example": "'suficientă' = enough"
+  },
+  {
+    "id": 81,
+    "term": "Sit down, please.",
+    "definition": "Ia loc, te rog.",
+    "example": "'ia loc' — the idiomatic imperative for 'sit down'"
+  },
+  {
+    "id": 82,
+    "term": "Wait for me!",
+    "definition": "Așteaptă-mă!",
+    "example": "clitic pronoun attaches to the imperative: așteaptă-mă"
+  },
+  {
+    "id": 83,
+    "term": "Don't worry.",
+    "definition": "Nu-ți face griji.",
+    "example": "'a-și face griji' = to worry"
+  },
+  {
+    "id": 84,
+    "term": "Close the door, please.",
+    "definition": "Închide ușa, te rog.",
+    "example": "bare imperative: închide"
+  },
+  {
+    "id": 85,
+    "term": "Let's go!",
+    "definition": "Hai să mergem!",
+    "example": "'hai să' + subjunctive = let's"
+  },
+  {
+    "id": 86,
+    "term": "Let's eat something.",
+    "definition": "Hai să mâncăm ceva!",
+    "example": "'hai să' + subjunctive"
+  },
+  {
+    "id": 87,
+    "term": "Be careful!",
+    "definition": "Fii atent!",
+    "example": "irregular imperative of 'a fi': fii"
+  },
+  {
+    "id": 88,
+    "term": "Don't be afraid.",
+    "definition": "Nu-ți fie frică.",
+    "example": "subjunctive used for a negative command: să-ți fie"
+  },
+  {
+    "id": 89,
+    "term": "Help me, please.",
+    "definition": "Ajută-mă, te rog.",
+    "example": "clitic on the imperative: ajută-mă"
+  },
+  {
+    "id": 90,
+    "term": "Listen to me!",
+    "definition": "Ascultă-mă!",
+    "example": "'a asculta' + accusative — no preposition needed"
+  },
+  {
+    "id": 91,
+    "term": "I don't know where he lives.",
+    "definition": "Nu știu unde locuiește.",
+    "example": "'unde' = where"
+  },
+  {
+    "id": 92,
+    "term": "I don't know what time it is.",
+    "definition": "Nu știu cât e ceasul.",
+    "example": "'cât e ceasul' = what time is it"
+  },
+  {
+    "id": 93,
+    "term": "Tell me why you are sad.",
+    "definition": "Spune-mi de ce ești trist.",
+    "example": "'de ce' = why"
+  },
+  {
+    "id": 94,
+    "term": "I wonder who called.",
+    "definition": "Mă întreb cine a sunat.",
+    "example": "'a se întreba' = to wonder"
+  },
+  {
+    "id": 95,
+    "term": "I am not sure if he is coming.",
+    "definition": "Nu sunt sigur dacă vine.",
+    "example": "'dacă' = if/whether"
+  },
+  {
+    "id": 96,
+    "term": "She said that she was tired.",
+    "definition": "A spus că era obosită.",
+    "example": "imperfect inside reported speech: era"
+  },
+  {
+    "id": 97,
+    "term": "He asked if I spoke Romanian.",
+    "definition": "A întrebat dacă vorbesc română.",
+    "example": "'dacă' = if/whether"
+  },
+  {
+    "id": 98,
+    "term": "If I had more time, I would learn Italian too.",
+    "definition": "Dacă aș avea mai mult timp, aș învăța și italiană.",
+    "example": "conditional on both sides: aș avea / aș învăța"
+  },
+  {
+    "id": 99,
+    "term": "If I were you, I would rest.",
+    "definition": "Dacă aș fi în locul tău, m-aș odihni.",
+    "example": "'aș fi în locul tău' = if I were you"
+  },
+  {
+    "id": 100,
+    "term": "I would be very happy if you came.",
+    "definition": "Aș fi foarte fericit dacă ai veni.",
+    "example": "conditional + prezent subjunctive: aș fi / ai veni"
+  }
+];
+window.QM_SENTENCES_RO_INTERMEDIATE_DATA = [
+  {
+    "id": 1,
+    "term": "I go there every day.",
+    "definition": "Merg acolo în fiecare zi.",
+    "example": "'acolo' = there"
+  },
+  {
+    "id": 2,
+    "term": "I don't believe it.",
+    "definition": "Nu cred asta.",
+    "example": "'asta' = it/that"
+  },
+  {
+    "id": 3,
+    "term": "I think about it often.",
+    "definition": "Mă gândesc des la asta.",
+    "example": "'a se gândi la' = to think about"
+  },
+  {
+    "id": 4,
+    "term": "How many books do you have? I have three of them.",
+    "definition": "Câte cărți ai? Am trei.",
+    "example": "no extra pronoun needed — the number alone answers"
+  },
+  {
+    "id": 5,
+    "term": "Do you want some wine? Yes, I want some.",
+    "definition": "Vrei vin? Da, vreau puțin.",
+    "example": "'puțin' fills in for 'some'"
+  },
+  {
+    "id": 6,
+    "term": "Do you need money? Yes, I need some.",
+    "definition": "Ai nevoie de bani? Da, am nevoie de puțini.",
+    "example": "'am nevoie de' keeps its 'de' in the answer"
+  },
+  {
+    "id": 7,
+    "term": "I'm leaving now.",
+    "definition": "Plec acum.",
+    "example": "'a pleca' = to leave"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to talk about it.",
+    "definition": "Nu vreau să vorbesc despre asta.",
+    "example": "'a vorbi despre' = to talk about"
+  },
+  {
+    "id": 9,
+    "term": "How many sisters do you have? I have one.",
+    "definition": "Câte surori ai? Am una.",
+    "example": "'una' agrees feminine with soră"
+  },
+  {
+    "id": 10,
+    "term": "I'm sure of it.",
+    "definition": "Sunt sigur de asta.",
+    "example": "'sigur de' = sure of"
+  },
+  {
+    "id": 11,
+    "term": "I used to read a lot as a child.",
+    "definition": "Citeam mult când eram copil.",
+    "example": "imperfect for a repeated childhood habit: citeam, eram"
+  },
+  {
+    "id": 12,
+    "term": "Yesterday I read that whole book.",
+    "definition": "Ieri am citit toată cartea aceea.",
+    "example": "perfect compus for a completed action: am citit"
+  },
+  {
+    "id": 13,
+    "term": "I always drank coffee in the morning.",
+    "definition": "Beam mereu cafea dimineața.",
+    "example": "imperfect: beam"
+  },
+  {
+    "id": 14,
+    "term": "This morning I drank two cups of coffee.",
+    "definition": "În dimineața asta am băut două cești de cafea.",
+    "example": "perfect compus: am băut"
+  },
+  {
+    "id": 15,
+    "term": "She was writing a letter when I called.",
+    "definition": "Scria o scrisoare când am sunat.",
+    "example": "imperfect: scria"
+  },
+  {
+    "id": 16,
+    "term": "She wrote the letter and sent it.",
+    "definition": "A scris scrisoarea și a trimis-o.",
+    "example": "perfect compus, both verbs"
+  },
+  {
+    "id": 17,
+    "term": "We were watching a movie all evening.",
+    "definition": "Ne uitam la un film toată seara.",
+    "example": "imperfect: ne uitam"
+  },
+  {
+    "id": 18,
+    "term": "We watched the whole movie in one sitting.",
+    "definition": "Am văzut tot filmul dintr-o dată.",
+    "example": "perfect compus for the completed whole"
+  },
+  {
+    "id": 19,
+    "term": "I was learning Romanian for two years before I moved here.",
+    "definition": "Învățam română de doi ani înainte să mă mut aici.",
+    "example": "imperfect for the ongoing background action: învățam"
+  },
+  {
+    "id": 20,
+    "term": "I finally learned all the irregular verbs.",
+    "definition": "În sfârșit am învățat toate verbele neregulate.",
+    "example": "perfect compus: am învățat"
+  },
+  {
+    "id": 21,
+    "term": "This book was written by a famous author.",
+    "definition": "Această carte a fost scrisă de un autor faimos.",
+    "example": "passive: a fost scrisă"
+  },
+  {
+    "id": 22,
+    "term": "The house was built in 1920.",
+    "definition": "Casa a fost construită în 1920.",
+    "example": "passive: a fost construită"
+  },
+  {
+    "id": 23,
+    "term": "The letter is being written now.",
+    "definition": "Scrisoarea este scrisă acum.",
+    "example": "present passive: este scrisă"
+  },
+  {
+    "id": 24,
+    "term": "The doors are closed at nine.",
+    "definition": "Ușile sunt închise la ora nouă.",
+    "example": "habitual passive: sunt închise"
+  },
+  {
+    "id": 25,
+    "term": "The problem will be solved soon.",
+    "definition": "Problema va fi rezolvată curând.",
+    "example": "future passive: va fi rezolvată"
+  },
+  {
+    "id": 26,
+    "term": "The bridge was destroyed during the war.",
+    "definition": "Podul a fost distrus în timpul războiului.",
+    "example": "passive: a fost distrus"
+  },
+  {
+    "id": 27,
+    "term": "This song is known all over the world.",
+    "definition": "Acest cântec este cunoscut în toată lumea.",
+    "example": "passive: este cunoscut"
+  },
+  {
+    "id": 28,
+    "term": "The cake was eaten by the children.",
+    "definition": "Prăjitura a fost mâncată de copii.",
+    "example": "'de' introduces the agent in a passive"
+  },
+  {
+    "id": 29,
+    "term": "New rules were introduced last year.",
+    "definition": "Noi reguli au fost introduse anul trecut.",
+    "example": "plural passive: au fost introduse"
+  },
+  {
+    "id": 30,
+    "term": "The window was broken by the storm.",
+    "definition": "Fereastra a fost spartă de furtună.",
+    "example": "passive with 'de' + agent"
+  },
+  {
+    "id": 31,
+    "term": "It's said that he is very talented.",
+    "definition": "Se spune că este foarte talentat.",
+    "example": "'se spune' — the impersonal reflexive for 'it's said'"
+  },
+  {
+    "id": 32,
+    "term": "It's getting dark.",
+    "definition": "Se întunecă.",
+    "example": "reflexive: a se întuneca"
+  },
+  {
+    "id": 33,
+    "term": "It's getting cold outside.",
+    "definition": "Afară se face frig.",
+    "example": "'a se face' = to become"
+  },
+  {
+    "id": 34,
+    "term": "How do you say this in Romanian?",
+    "definition": "Cum se spune asta în română?",
+    "example": "impersonal 'se spune'"
+  },
+  {
+    "id": 35,
+    "term": "One eats dinner at eight here.",
+    "definition": "Aici se cinează la ora opt.",
+    "example": "impersonal reflexive: se cinează"
+  },
+  {
+    "id": 36,
+    "term": "You can't smoke here.",
+    "definition": "Aici nu se poate fuma.",
+    "example": "impersonal 'se poate'"
+  },
+  {
+    "id": 37,
+    "term": "It's not done that way.",
+    "definition": "Nu se face așa.",
+    "example": "impersonal 'se face'"
+  },
+  {
+    "id": 38,
+    "term": "People say all sorts of things.",
+    "definition": "Oamenii spun tot felul de lucruri.",
+    "example": "'oamenii' as an explicit generic subject"
+  },
+  {
+    "id": 39,
+    "term": "This word is used often.",
+    "definition": "Acest cuvânt este folosit des.",
+    "example": "passive: este folosit"
+  },
+  {
+    "id": 40,
+    "term": "This is how the game is played.",
+    "definition": "Așa se joacă acest joc.",
+    "example": "impersonal reflexive: se joacă"
+  },
+  {
+    "id": 41,
+    "term": "I told him to come.",
+    "definition": "I-am spus să vină.",
+    "example": "'a spune' + subjunctive 'să vină'"
+  },
+  {
+    "id": 42,
+    "term": "She asked me to help her.",
+    "definition": "M-a rugat să o ajut.",
+    "example": "'a ruga' + subjunctive"
+  },
+  {
+    "id": 43,
+    "term": "The teacher told us to be quiet.",
+    "definition": "Profesorul ne-a spus să fim liniștiți.",
+    "example": "subjunctive: să fim"
+  },
+  {
+    "id": 44,
+    "term": "I want you to call me.",
+    "definition": "Vreau să mă suni.",
+    "example": "'vreau să' + 2nd person subjunctive"
+  },
+  {
+    "id": 45,
+    "term": "My mother told me not to be late.",
+    "definition": "Mama mi-a spus să nu întârzii.",
+    "example": "negated subjunctive: să nu întârzii"
+  },
+  {
+    "id": 46,
+    "term": "He asked us to wait outside.",
+    "definition": "Ne-a rugat să așteptăm afară.",
+    "example": "subjunctive: să așteptăm"
+  },
+  {
+    "id": 47,
+    "term": "I told them to stop.",
+    "definition": "Le-am spus să se oprească.",
+    "example": "reflexive subjunctive: să se oprească"
+  },
+  {
+    "id": 48,
+    "term": "She wants me to visit her.",
+    "definition": "Vrea să o vizitez.",
+    "example": "'vrea să' + 1st person subjunctive"
+  },
+  {
+    "id": 49,
+    "term": "The boss ordered us to finish the project.",
+    "definition": "Șeful ne-a ordonat să terminăm proiectul.",
+    "example": "subjunctive: să terminăm"
+  },
+  {
+    "id": 50,
+    "term": "I asked her to be patient.",
+    "definition": "Am rugat-o să fie răbdătoare.",
+    "example": "subjunctive: să fie"
+  },
+  {
+    "id": 51,
+    "term": "Although it was raining, we went for a walk.",
+    "definition": "Deși ploua, am mers la plimbare.",
+    "example": "'deși' = although"
+  },
+  {
+    "id": 52,
+    "term": "Even though he is tired, he keeps working.",
+    "definition": "Deși este obosit, continuă să lucreze.",
+    "example": "'a continua să' = to keep on doing"
+  },
+  {
+    "id": 53,
+    "term": "Despite the cold, we went outside.",
+    "definition": "În ciuda frigului, am ieșit afară.",
+    "example": "'în ciuda' + genitive = despite"
+  },
+  {
+    "id": 54,
+    "term": "It's raining, but we're going out anyway.",
+    "definition": "Plouă, dar oricum ieșim.",
+    "example": "'oricum' = anyway"
+  },
+  {
+    "id": 55,
+    "term": "I like her, even though she's sometimes difficult.",
+    "definition": "O plac, deși uneori este dificilă.",
+    "example": "'deși' clause"
+  },
+  {
+    "id": 56,
+    "term": "He passed the exam despite not studying much.",
+    "definition": "A trecut examenul deși nu a învățat mult.",
+    "example": "'deși' + negated clause"
+  },
+  {
+    "id": 57,
+    "term": "It was cheap, yet good quality.",
+    "definition": "Era ieftin, dar de bună calitate.",
+    "example": "'dar' = but/yet"
+  },
+  {
+    "id": 58,
+    "term": "Nevertheless, I think we should try.",
+    "definition": "Totuși, cred că ar trebui să încercăm.",
+    "example": "'totuși' = nevertheless"
+  },
+  {
+    "id": 59,
+    "term": "Although I disagree, I'll help you.",
+    "definition": "Deși nu sunt de acord, te voi ajuta.",
+    "example": "'deși' clause"
+  },
+  {
+    "id": 60,
+    "term": "We won, although it wasn't easy.",
+    "definition": "Am câștigat, deși nu a fost ușor.",
+    "example": "'deși' after the main clause"
+  },
+  {
+    "id": 61,
+    "term": "Stay here until I come back.",
+    "definition": "Stai aici până mă întorc.",
+    "example": "'până' = until"
+  },
+  {
+    "id": 62,
+    "term": "I'll wait as long as you need.",
+    "definition": "Voi aștepta cât ai nevoie.",
+    "example": "'cât' = as long as"
+  },
+  {
+    "id": 63,
+    "term": "Before you leave, call me.",
+    "definition": "Înainte să pleci, sună-mă.",
+    "example": "'înainte să' = before"
+  },
+  {
+    "id": 64,
+    "term": "I checked everything before I left.",
+    "definition": "Am verificat totul înainte să plec.",
+    "example": "'înainte să' + subjunctive"
+  },
+  {
+    "id": 65,
+    "term": "I've known her since I was a child.",
+    "definition": "O cunosc de când eram copil.",
+    "example": "'de când' = since"
+  },
+  {
+    "id": 66,
+    "term": "Since he moved here, he's been much happier.",
+    "definition": "De când s-a mutat aici, este mult mai fericit.",
+    "example": "'de când' + past"
+  },
+  {
+    "id": 67,
+    "term": "Wait until the light turns green.",
+    "definition": "Așteaptă până se face verde semaforul.",
+    "example": "'până' = until"
+  },
+  {
+    "id": 68,
+    "term": "I won't leave until you answer me.",
+    "definition": "Nu plec până nu îmi răspunzi.",
+    "example": "'până nu' — a double-negative-looking construction meaning 'until'"
+  },
+  {
+    "id": 69,
+    "term": "As soon as I get home, I'll call you.",
+    "definition": "De îndată ce ajung acasă, te sun.",
+    "example": "'de îndată ce' = as soon as"
+  },
+  {
+    "id": 70,
+    "term": "The moment I saw her, I knew.",
+    "definition": "În momentul în care am văzut-o, am știut.",
+    "example": "'în momentul în care' = the moment that"
+  },
+  {
+    "id": 71,
+    "term": "Instead of coffee, I'll have tea.",
+    "definition": "În loc de cafea, voi bea ceai.",
+    "example": "'în loc de' = instead of"
+  },
+  {
+    "id": 72,
+    "term": "Instead of complaining, do something.",
+    "definition": "În loc să te plângi, fă ceva.",
+    "example": "'în loc să' + subjunctive"
+  },
+  {
+    "id": 73,
+    "term": "Reading books is my favorite hobby.",
+    "definition": "Cititul cărților este hobby-ul meu preferat.",
+    "example": "'cititul' — the articulated verbal noun works as the subject"
+  },
+  {
+    "id": 74,
+    "term": "Learning languages takes time.",
+    "definition": "Învățarea limbilor necesită timp.",
+    "example": "'învățarea' — verbal noun as subject"
+  },
+  {
+    "id": 75,
+    "term": "Swimming is good for your health.",
+    "definition": "Înotul este bun pentru sănătate.",
+    "example": "'înotul' — verbal noun as subject"
+  },
+  {
+    "id": 76,
+    "term": "Cooking dinner takes an hour.",
+    "definition": "Gătitul cinei durează o oră.",
+    "example": "'gătitul' — verbal noun as subject"
+  },
+  {
+    "id": 77,
+    "term": "Smoking is bad for you.",
+    "definition": "Fumatul este dăunător sănătății.",
+    "example": "'fumatul' — verbal noun as subject"
+  },
+  {
+    "id": 78,
+    "term": "Waiting is the hardest part.",
+    "definition": "Așteptarea este partea cea mai grea.",
+    "example": "'așteptarea' — verbal noun as subject"
+  },
+  {
+    "id": 79,
+    "term": "Thank you for coming.",
+    "definition": "Mulțumesc că ai venit.",
+    "example": "'mulțumesc că' + clause"
+  },
+  {
+    "id": 80,
+    "term": "I'm tired of waiting.",
+    "definition": "M-am săturat de așteptat.",
+    "example": "'a se sătura de' = to be tired/fed up of"
+  },
+  {
+    "id": 81,
+    "term": "If I had known, I would have come.",
+    "definition": "Dacă aș fi știut, aș fi venit.",
+    "example": "past conditional on both sides: aș fi știut / aș fi venit"
+  },
+  {
+    "id": 82,
+    "term": "If you had called me, I would have helped.",
+    "definition": "Dacă m-ai fi sunat, te-aș fi ajutat.",
+    "example": "same past-conditional pattern"
+  },
+  {
+    "id": 83,
+    "term": "She would have passed if she had studied more.",
+    "definition": "Ar fi trecut dacă ar fi învățat mai mult.",
+    "example": "past conditional again"
+  },
+  {
+    "id": 84,
+    "term": "We wouldn't have been late if we had left earlier.",
+    "definition": "Nu am fi întârziat dacă am fi plecat mai devreme.",
+    "example": "past conditional, negated"
+  },
+  {
+    "id": 85,
+    "term": "I have twenty-two books on this shelf.",
+    "definition": "Am douăzeci și două de cărți pe acest raft.",
+    "example": "numbers above nineteen need 'de' before the noun"
+  },
+  {
+    "id": 86,
+    "term": "There are thirty-five students in this class.",
+    "definition": "Sunt treizeci și cinci de elevi în această clasă.",
+    "example": "same 'de' requirement: treizeci și cinci de elevi"
+  },
+  {
+    "id": 87,
+    "term": "I have been living here for eleven years.",
+    "definition": "Locuiesc aici de unsprezece ani.",
+    "example": "present tense + 'de' for an ongoing span"
+  },
+  {
+    "id": 88,
+    "term": "The building has one hundred rooms.",
+    "definition": "Clădirea are o sută de camere.",
+    "example": "'o sută de' = one hundred"
+  },
+  {
+    "id": 89,
+    "term": "I paid two hundred euros for this.",
+    "definition": "Am plătit două sute de euro pentru asta.",
+    "example": "'două sute de' — 'de' again after a compound hundred"
+  },
+  {
+    "id": 90,
+    "term": "Only one person answered correctly.",
+    "definition": "Doar o persoană a răspuns corect.",
+    "example": "'doar' = only"
+  },
+  {
+    "id": 91,
+    "term": "He passed the exam, which made his parents happy.",
+    "definition": "A trecut examenul, ceea ce i-a bucurat pe părinții lui.",
+    "example": "'ceea ce' refers back to the whole preceding clause"
+  },
+  {
+    "id": 92,
+    "term": "She was late, which annoyed the teacher.",
+    "definition": "A întârziat, ceea ce l-a enervat pe profesor.",
+    "example": "'ceea ce' again refers to the whole event"
+  },
+  {
+    "id": 93,
+    "term": "This is the best restaurant of all the ones I know.",
+    "definition": "Acesta este cel mai bun restaurant dintre toate cele pe care le știu.",
+    "example": "'dintre toate cele pe care' = of all the ones that"
+  },
+  {
+    "id": 94,
+    "term": "He is the smartest of all my friends.",
+    "definition": "Este cel mai deștept dintre toți prietenii mei.",
+    "example": "superlative + 'dintre toți'"
+  },
+  {
+    "id": 95,
+    "term": "To be honest, I don't understand this.",
+    "definition": "Sincer să fiu, nu înțeleg asta.",
+    "example": "'sincer să fiu' = to be honest, a fixed opener"
+  },
+  {
+    "id": 96,
+    "term": "Generally speaking, the weather here is nice.",
+    "definition": "În general, vremea aici este frumoasă.",
+    "example": "'în general' = generally speaking"
+  },
+  {
+    "id": 97,
+    "term": "As far as I know, the shop is closed today.",
+    "definition": "Din câte știu, magazinul este închis astăzi.",
+    "example": "'din câte știu' = as far as I know"
+  },
+  {
+    "id": 98,
+    "term": "In my opinion, this is the right decision.",
+    "definition": "După părerea mea, aceasta este decizia corectă.",
+    "example": "'după părerea mea' = in my opinion"
+  },
+  {
+    "id": 99,
+    "term": "All things considered, it went well.",
+    "definition": "Per total, a mers bine.",
+    "example": "'per total' = all things considered"
+  },
+  {
+    "id": 100,
+    "term": "In the end, everything turned out fine.",
+    "definition": "Până la urmă, totul a ieșit bine.",
+    "example": "'până la urmă' = in the end"
+  }
+];
+window.QM_PHRASES_RO_DATA = [
+  {
+    "id": 1,
+    "term": "Good morning!",
+    "definition": "Bună dimineața!",
+    "example": "used until roughly midday"
+  },
+  {
+    "id": 2,
+    "term": "Good evening!",
+    "definition": "Bună seara!",
+    "example": "used from early evening onward"
+  },
+  {
+    "id": 3,
+    "term": "Good night!",
+    "definition": "Noapte bună!",
+    "example": "both a late greeting and a farewell before bed"
+  },
+  {
+    "id": 4,
+    "term": "Hi! (informal)",
+    "definition": "Salut!",
+    "example": "works as both hello and goodbye, informal register"
+  },
+  {
+    "id": 5,
+    "term": "How are you?",
+    "definition": "Ce mai faci?",
+    "example": "informal 'tu' register"
+  },
+  {
+    "id": 6,
+    "term": "I'm fine, thanks. And you?",
+    "definition": "Bine, mulțumesc. Dar tu?",
+    "example": "'dar tu' = and you (informal)"
+  },
+  {
+    "id": 7,
+    "term": "Long time no see!",
+    "definition": "Nu ne-am mai văzut de mult!",
+    "example": "literally 'we haven't seen each other in a long time'"
+  },
+  {
+    "id": 8,
+    "term": "Welcome!",
+    "definition": "Bine ai venit!",
+    "example": "literally 'well have you come'"
+  },
+  {
+    "id": 9,
+    "term": "Nice to see you again.",
+    "definition": "Mă bucur să te văd din nou.",
+    "example": "'din nou' = again"
+  },
+  {
+    "id": 10,
+    "term": "What's up? (very informal)",
+    "definition": "Ce faci?",
+    "example": "casual, among friends"
+  },
+  {
+    "id": 11,
+    "term": "Goodbye!",
+    "definition": "La revedere!",
+    "example": "the standard, slightly more formal farewell"
+  },
+  {
+    "id": 12,
+    "term": "See you later!",
+    "definition": "Ne vedem mai târziu!",
+    "example": "literally 'we'll see each other later'"
+  },
+  {
+    "id": 13,
+    "term": "See you tomorrow!",
+    "definition": "Ne vedem mâine!",
+    "example": "same pattern: ne vedem + mâine"
+  },
+  {
+    "id": 14,
+    "term": "Take care!",
+    "definition": "Ai grijă de tine!",
+    "example": "'a avea grijă de' = to take care of"
+  },
+  {
+    "id": 15,
+    "term": "Have a good day!",
+    "definition": "O zi bună!",
+    "example": "a short, everyday send-off"
+  },
+  {
+    "id": 16,
+    "term": "Bye! (informal)",
+    "definition": "Pa!",
+    "example": "casual, common among friends"
+  },
+  {
+    "id": 17,
+    "term": "Until next time!",
+    "definition": "Până data viitoare!",
+    "example": "'până' = until"
+  },
+  {
+    "id": 18,
+    "term": "Have a safe trip!",
+    "definition": "Drum bun!",
+    "example": "literally 'good road' — the standard send-off for travelers"
+  },
+  {
+    "id": 19,
+    "term": "Good night, sleep well.",
+    "definition": "Noapte bună, somn ușor.",
+    "example": "'somn ușor' = sleep well, literally 'light sleep'"
+  },
+  {
+    "id": 20,
+    "term": "Take care of yourself.",
+    "definition": "Ai grijă de tine.",
+    "example": "same reflexive phrase as #14"
+  },
+  {
+    "id": 21,
+    "term": "Please.",
+    "definition": "Te rog.",
+    "example": "literally 'I ask you'"
+  },
+  {
+    "id": 22,
+    "term": "Thank you.",
+    "definition": "Mulțumesc.",
+    "example": "the everyday thanks"
+  },
+  {
+    "id": 23,
+    "term": "Thank you very much.",
+    "definition": "Mulțumesc mult.",
+    "example": "'mult' intensifies the thanks"
+  },
+  {
+    "id": 24,
+    "term": "You're welcome.",
+    "definition": "Cu plăcere.",
+    "example": "literally 'with pleasure'"
+  },
+  {
+    "id": 25,
+    "term": "No problem.",
+    "definition": "Nicio problemă.",
+    "example": "'nicio' = no/not a single"
+  },
+  {
+    "id": 26,
+    "term": "Excuse me.",
+    "definition": "Scuză-mă.",
+    "example": "imperative + clitic: scuză-mă"
+  },
+  {
+    "id": 27,
+    "term": "I'm really sorry.",
+    "definition": "Îmi pare foarte rău.",
+    "example": "'îmi pare rău' = I'm sorry, a dative idiom"
+  },
+  {
+    "id": 28,
+    "term": "Pardon? (didn't hear)",
+    "definition": "Poftim?",
+    "example": "the standard Romanian way to ask for a repeat"
+  },
+  {
+    "id": 29,
+    "term": "No worries.",
+    "definition": "Nu-ți face griji.",
+    "example": "'a-și face griji' = to worry"
+  },
+  {
+    "id": 30,
+    "term": "It's my pleasure.",
+    "definition": "Este plăcerea mea.",
+    "example": "a warm, slightly formal response"
+  },
+  {
+    "id": 31,
+    "term": "My name is Anna.",
+    "definition": "Mă numesc Anna.",
+    "example": "reflexive: mă numesc, literally 'I name myself'"
+  },
+  {
+    "id": 32,
+    "term": "Nice to meet you.",
+    "definition": "Îmi pare bine de cunoștință.",
+    "example": "a fixed introduction phrase"
+  },
+  {
+    "id": 33,
+    "term": "This is my friend Marco.",
+    "definition": "Acesta este prietenul meu, Marco.",
+    "example": "introducing someone"
+  },
+  {
+    "id": 34,
+    "term": "Where are you from?",
+    "definition": "De unde ești?",
+    "example": "'de unde' = from where"
+  },
+  {
+    "id": 35,
+    "term": "I'm from England.",
+    "definition": "Sunt din Anglia.",
+    "example": "'din' + place = from"
+  },
+  {
+    "id": 36,
+    "term": "What do you do for a living?",
+    "definition": "Cu ce te ocupi?",
+    "example": "literally 'with what do you occupy yourself'"
+  },
+  {
+    "id": 37,
+    "term": "I'm a student.",
+    "definition": "Sunt student.",
+    "example": "no article before a profession/status noun"
+  },
+  {
+    "id": 38,
+    "term": "Likewise!",
+    "definition": "Și eu la fel!",
+    "example": "literally 'me too, the same!'"
+  },
+  {
+    "id": 39,
+    "term": "It was nice meeting you.",
+    "definition": "Mi-a făcut plăcere să te cunosc.",
+    "example": "'mi-a făcut plăcere' — a dative idiom, said when parting"
+  },
+  {
+    "id": 40,
+    "term": "Let's keep in touch.",
+    "definition": "Hai să ținem legătura.",
+    "example": "'a ține legătura' = to keep in touch"
+  },
+  {
+    "id": 41,
+    "term": "Happy birthday!",
+    "definition": "La mulți ani!",
+    "example": "the standard Romanian greeting for both birthdays and new year"
+  },
+  {
+    "id": 42,
+    "term": "Congratulations!",
+    "definition": "Felicitări!",
+    "example": "a distinct word from the birthday greeting"
+  },
+  {
+    "id": 43,
+    "term": "Good luck!",
+    "definition": "Baftă!",
+    "example": "a casual, everyday well-wish"
+  },
+  {
+    "id": 44,
+    "term": "Best wishes!",
+    "definition": "Numai bine!",
+    "example": "literally 'only good'"
+  },
+  {
+    "id": 45,
+    "term": "Get well soon!",
+    "definition": "Însănătoșire grabnică!",
+    "example": "literally 'speedy recovery'"
+  },
+  {
+    "id": 46,
+    "term": "Happy New Year!",
+    "definition": "Un An Nou fericit!",
+    "example": "a fuller phrase, distinct from the birthday 'la mulți ani'"
+  },
+  {
+    "id": 47,
+    "term": "Merry Christmas!",
+    "definition": "Crăciun fericit!",
+    "example": "'fericit' + occasion, a productive pattern"
+  },
+  {
+    "id": 48,
+    "term": "Cheers! (a toast)",
+    "definition": "Noroc!",
+    "example": "literally 'luck' — the standard toast"
+  },
+  {
+    "id": 49,
+    "term": "Have fun!",
+    "definition": "Distracție plăcută!",
+    "example": "literally 'pleasant fun'"
+  },
+  {
+    "id": 50,
+    "term": "Enjoy your meal!",
+    "definition": "Poftă bună!",
+    "example": "literally 'good appetite'"
+  },
+  {
+    "id": 51,
+    "term": "Can you help me, please?",
+    "definition": "Poți să mă ajuți, te rog?",
+    "example": "'poți' — informal 'you can'"
+  },
+  {
+    "id": 52,
+    "term": "I need help.",
+    "definition": "Am nevoie de ajutor.",
+    "example": "'am nevoie de' + noun"
+  },
+  {
+    "id": 53,
+    "term": "Where is the bathroom?",
+    "definition": "Unde este baia?",
+    "example": "'baia' — the everyday word for bathroom"
+  },
+  {
+    "id": 54,
+    "term": "How much does this cost?",
+    "definition": "Cât costă asta?",
+    "example": "'a costa' = to cost"
+  },
+  {
+    "id": 55,
+    "term": "Do you have this in another color?",
+    "definition": "Ai asta în altă culoare?",
+    "example": "'în altă culoare' = in another color"
+  },
+  {
+    "id": 56,
+    "term": "Can I have the bill, please?",
+    "definition": "Pot să am nota de plată, vă rog?",
+    "example": "'nota de plată' — the check at a restaurant"
+  },
+  {
+    "id": 57,
+    "term": "One moment, please.",
+    "definition": "Un moment, vă rog.",
+    "example": "a polite stalling phrase"
+  },
+  {
+    "id": 58,
+    "term": "Could you repeat that?",
+    "definition": "Poți să repeți asta?",
+    "example": "'poți' + subjunctive"
+  },
+  {
+    "id": 59,
+    "term": "I don't understand.",
+    "definition": "Nu înțeleg.",
+    "example": "'a înțelege' = to understand"
+  },
+  {
+    "id": 60,
+    "term": "Could you speak more slowly?",
+    "definition": "Poți vorbi mai încet?",
+    "example": "'mai încet' = more slowly"
+  },
+  {
+    "id": 61,
+    "term": "I agree.",
+    "definition": "Sunt de acord.",
+    "example": "'a fi de acord' = to agree"
+  },
+  {
+    "id": 62,
+    "term": "I don't agree.",
+    "definition": "Nu sunt de acord.",
+    "example": "negated version"
+  },
+  {
+    "id": 63,
+    "term": "That's true.",
+    "definition": "Este adevărat.",
+    "example": "'adevărat' = true"
+  },
+  {
+    "id": 64,
+    "term": "That's not true.",
+    "definition": "Nu este adevărat.",
+    "example": "negated version"
+  },
+  {
+    "id": 65,
+    "term": "I think so.",
+    "definition": "Cred că da.",
+    "example": "'cred că da' = I think so"
+  },
+  {
+    "id": 66,
+    "term": "I don't think so.",
+    "definition": "Cred că nu.",
+    "example": "'cred că nu' = I don't think so"
+  },
+  {
+    "id": 67,
+    "term": "Sounds good.",
+    "definition": "Sună bine.",
+    "example": "'a suna' = to sound"
+  },
+  {
+    "id": 68,
+    "term": "No way!",
+    "definition": "În niciun caz!",
+    "example": "an emphatic refusal"
+  },
+  {
+    "id": 69,
+    "term": "Of course!",
+    "definition": "Bineînțeles!",
+    "example": "an emphatic agreement"
+  },
+  {
+    "id": 70,
+    "term": "Maybe.",
+    "definition": "Poate.",
+    "example": "a single-word hedge"
+  },
+  {
+    "id": 71,
+    "term": "Really?",
+    "definition": "Serios?",
+    "example": "expressing mild disbelief"
+  },
+  {
+    "id": 72,
+    "term": "Wow!",
+    "definition": "Uau!",
+    "example": "an interjection of surprise"
+  },
+  {
+    "id": 73,
+    "term": "That's great!",
+    "definition": "Este grozav!",
+    "example": "'grozav' = great"
+  },
+  {
+    "id": 74,
+    "term": "I'm sorry to hear that.",
+    "definition": "Îmi pare rău să aud asta.",
+    "example": "'îmi pare rău' + infinitive"
+  },
+  {
+    "id": 75,
+    "term": "What a shame.",
+    "definition": "Ce păcat.",
+    "example": "'ce păcat' — a fixed exclamation of sympathy"
+  },
+  {
+    "id": 76,
+    "term": "Oh no!",
+    "definition": "Vai, nu!",
+    "example": "'vai' — a common interjection of dismay"
+  },
+  {
+    "id": 77,
+    "term": "Exactly!",
+    "definition": "Exact!",
+    "example": "an emphatic agreement"
+  },
+  {
+    "id": 78,
+    "term": "I see.",
+    "definition": "Înțeleg.",
+    "example": "'a înțelege' used idiomatically for understanding"
+  },
+  {
+    "id": 79,
+    "term": "That makes sense.",
+    "definition": "Asta are sens.",
+    "example": "'a avea sens' = to make sense"
+  },
+  {
+    "id": 80,
+    "term": "That's interesting.",
+    "definition": "Este interesant.",
+    "example": "straightforward observation"
+  },
+  {
+    "id": 81,
+    "term": "Hello? (on the phone)",
+    "definition": "Alo?",
+    "example": "the standard Romanian phone greeting"
+  },
+  {
+    "id": 82,
+    "term": "Who's calling?",
+    "definition": "Cine sună?",
+    "example": "literally 'who is calling'"
+  },
+  {
+    "id": 83,
+    "term": "Can I call you back?",
+    "definition": "Te pot suna înapoi?",
+    "example": "'a suna înapoi' = to call back"
+  },
+  {
+    "id": 84,
+    "term": "It was nice talking to you.",
+    "definition": "Mi-a făcut plăcere să vorbesc cu tine.",
+    "example": "'mi-a făcut plăcere' — the same dative idiom as #39"
+  },
+  {
+    "id": 85,
+    "term": "See you at the party!",
+    "definition": "Ne vedem la petrecere!",
+    "example": "'ne vedem la' = see you at"
+  },
+  {
+    "id": 86,
+    "term": "I'll text you.",
+    "definition": "Îți trimit un mesaj.",
+    "example": "'a trimite un mesaj' = to text"
+  },
+  {
+    "id": 87,
+    "term": "Take it easy!",
+    "definition": "Ia-o mai ușor!",
+    "example": "'a o lua mai ușor' = to take it easy"
+  },
+  {
+    "id": 88,
+    "term": "All the best!",
+    "definition": "Toate cele bune!",
+    "example": "a warm closing wish"
+  },
+  {
+    "id": 89,
+    "term": "I'll be right there.",
+    "definition": "Vin imediat.",
+    "example": "'imediat' = right away"
+  },
+  {
+    "id": 90,
+    "term": "I'm on my way.",
+    "definition": "Sunt pe drum.",
+    "example": "'pe drum' = on the way"
+  },
+  {
+    "id": 91,
+    "term": "Watch out!",
+    "definition": "Ai grijă!",
+    "example": "a bare warning, using the same phrase as 'take care'"
+  },
+  {
+    "id": 92,
+    "term": "No rush.",
+    "definition": "Nu te grăbi.",
+    "example": "literally 'don't hurry'"
+  },
+  {
+    "id": 93,
+    "term": "After you.",
+    "definition": "După tine.",
+    "example": "a small courtesy at a doorway"
+  },
+  {
+    "id": 94,
+    "term": "Make yourself at home.",
+    "definition": "Simte-te ca acasă.",
+    "example": "reflexive imperative: simte-te"
+  },
+  {
+    "id": 95,
+    "term": "It's on me. (paying)",
+    "definition": "Plătesc eu.",
+    "example": "literally 'I pay', offering to cover the bill"
+  },
+  {
+    "id": 96,
+    "term": "Let's go!",
+    "definition": "Hai să mergem!",
+    "example": "'hai să' + subjunctive"
+  },
+  {
+    "id": 97,
+    "term": "Welcome home!",
+    "definition": "Bine ai venit acasă!",
+    "example": "'bine ai venit' + acasă"
+  },
+  {
+    "id": 98,
+    "term": "Get home safe!",
+    "definition": "Ajungi cu bine acasă!",
+    "example": "'cu bine' = safely"
+  },
+  {
+    "id": 99,
+    "term": "I'm looking forward to it.",
+    "definition": "Abia aștept.",
+    "example": "literally 'I barely wait' — the idiom for 'I can't wait'"
+  },
+  {
+    "id": 100,
+    "term": "Thanks for everything.",
+    "definition": "Mulțumesc pentru tot.",
+    "example": "'mulțumesc pentru' + noun"
   }
 ];
