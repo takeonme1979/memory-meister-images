@@ -101068,15 +101068,15 @@ window.QM_SENTENCES_PL_DATA = [
   },
   {
     "id": 85,
-    "term": "What is your name?",
-    "definition": "Jak masz na imię?",
-    "example": "the idiomatic way to ask a name: literally 'how do you have for a name'"
+    "term": "Where is the book?",
+    "definition": "Gdzie jest książka?",
+    "example": "'gdzie' (where) + jest — nominative subject, no case change needed"
   },
   {
     "id": 86,
-    "term": "How old are you?",
-    "definition": "Ile masz lat?",
-    "example": "idiomatic: literally 'how many years do you have'; lat is genitive plural"
+    "term": "What color is the car?",
+    "definition": "Jaki kolor ma samochód?",
+    "example": "'jaki' (what kind/which) agrees like an adjective; 'mieć' + accusative: kolor"
   },
   {
     "id": 87,
@@ -102856,15 +102856,15 @@ window.QM_SENTENCES_IT_DATA = [
   },
   {
     "id": 82,
-    "term": "What is your name?",
-    "definition": "Come ti chiami?",
-    "example": "idiomatic reflexive: 'chiamarsi' (to be called), literally 'how do you call yourself'"
+    "term": "Where is the book?",
+    "definition": "Dov'è il libro?",
+    "example": "'dove' + 'è' elide into 'dov'è'"
   },
   {
     "id": 83,
-    "term": "How old are you?",
-    "definition": "Quanti anni hai?",
-    "example": "idiomatic: literally 'how many years do you have'"
+    "term": "What color is the car?",
+    "definition": "Di che colore è la macchina?",
+    "example": "'di che colore' — literally 'of what color'"
   },
   {
     "id": 84,
@@ -103458,15 +103458,15 @@ window.QM_SENTENCES_FR_DATA = [
   },
   {
     "id": 82,
-    "term": "What is your name?",
-    "definition": "Comment tu t'appelles?",
-    "example": "idiomatic reflexive: s'appeler, literally 'how do you call yourself'"
+    "term": "Where is the book?",
+    "definition": "Où est le livre?",
+    "example": "'où' (where) opens the question"
   },
   {
     "id": 83,
-    "term": "How old are you?",
-    "definition": "Quel âge as-tu?",
-    "example": "idiomatic: literally 'what age do you have', by inversion"
+    "term": "What color is the car?",
+    "definition": "De quelle couleur est la voiture?",
+    "example": "'de quelle couleur' — literally 'of what color'"
   },
   {
     "id": 84,
@@ -104060,15 +104060,15 @@ window.QM_SENTENCES_DE_DATA = [
   },
   {
     "id": 82,
-    "term": "What is your name?",
-    "definition": "Wie heißt du?",
-    "example": "idiomatic: 'heißen' (to be named)"
+    "term": "Where is the book?",
+    "definition": "Wo ist das Buch?",
+    "example": "question word 'wo' (where)"
   },
   {
     "id": 83,
-    "term": "How old are you?",
-    "definition": "Wie alt bist du?",
-    "example": "German uses 'sein' (to be) here, not 'haben' like some other languages"
+    "term": "What color is the car?",
+    "definition": "Welche Farbe hat das Auto?",
+    "example": "'welche Farbe' (which color) + 'haben', not 'sein'"
   },
   {
     "id": 84,
@@ -104662,15 +104662,15 @@ window.QM_SENTENCES_ES_DATA = [
   },
   {
     "id": 82,
-    "term": "What is your name?",
-    "definition": "¿Cómo te llamas?",
-    "example": "idiomatic reflexive: llamarse, literally 'how do you call yourself'"
+    "term": "Where is the book?",
+    "definition": "¿Dónde está el libro?",
+    "example": "'estar' again — location, not identity"
   },
   {
     "id": 83,
-    "term": "How old are you?",
-    "definition": "¿Cuántos años tienes?",
-    "example": "idiomatic: literally 'how many years do you have'"
+    "term": "What color is the car?",
+    "definition": "¿De qué color es el coche?",
+    "example": "'de qué color' — literally 'of what color'"
   },
   {
     "id": 84,
@@ -105264,15 +105264,15 @@ window.QM_SENTENCES_PT_DATA = [
   },
   {
     "id": 82,
-    "term": "What is your name?",
-    "definition": "Como te chamas?",
-    "example": "the question word 'como' pulls the pronoun BEFORE the verb — contrast #64's veste-se"
+    "term": "Where is the book?",
+    "definition": "Onde está o livro?",
+    "example": "'estar' for location"
   },
   {
     "id": 83,
-    "term": "How old are you?",
-    "definition": "Quantos anos tens?",
-    "example": "idiomatic: literally 'how many years do you have'"
+    "term": "What color is the car?",
+    "definition": "De que cor é o carro?",
+    "example": "'de que cor' — literally 'of what color'"
   },
   {
     "id": 84,
@@ -105866,15 +105866,15 @@ window.QM_SENTENCES_NL_DATA = [
   },
   {
     "id": 82,
-    "term": "What is your name?",
-    "definition": "Hoe heet je?",
-    "example": "idiomatic: 'heten' (to be named)"
+    "term": "Where is the book?",
+    "definition": "Waar is het boek?",
+    "example": "question word 'waar' (where)"
   },
   {
     "id": 83,
-    "term": "How old are you?",
-    "definition": "Hoe oud ben je?",
-    "example": "Dutch uses 'zijn' (to be) here, not 'hebben'"
+    "term": "What color is the car?",
+    "definition": "Welke kleur heeft de auto?",
+    "example": "'welke kleur' (which color) + 'hebben', not 'zijn'"
   },
   {
     "id": 84,
@@ -106468,15 +106468,15 @@ window.QM_SENTENCES_CS_DATA = [
   },
   {
     "id": 82,
-    "term": "What is your name?",
-    "definition": "Jak se jmenuješ?",
-    "example": "idiomatic reflexive: jmenovat se, literally 'how do you name yourself'"
+    "term": "Where is the book?",
+    "definition": "Kde je kniha?",
+    "example": "question word 'kde' (where)"
   },
   {
     "id": 83,
-    "term": "How old are you?",
-    "definition": "Kolik je ti let?",
-    "example": "idiomatic: literally 'how many years are to you' — dative + genitive plural 'let'"
+    "term": "What color is the car?",
+    "definition": "Jakou barvu má auto?",
+    "example": "'jakou barvu' (what color) + 'mít', not 'být'"
   },
   {
     "id": 84,
@@ -107070,15 +107070,15 @@ window.QM_SENTENCES_UK_DATA = [
   },
   {
     "id": 82,
-    "term": "What is your name?",
-    "definition": "Як тебе звати?",
-    "example": "idiomatic: literally 'how are you called', accusative тебе"
+    "term": "Where is the book?",
+    "definition": "Де книга?",
+    "example": "zero copula again, same as any other simple statement of location"
   },
   {
     "id": 83,
-    "term": "How old are you?",
-    "definition": "Скільки тобі років?",
-    "example": "idiomatic: literally 'how many years to you' — dative + genitive plural років"
+    "term": "What color is the car?",
+    "definition": "Якого кольору машина?",
+    "example": "'якого кольору' — literally 'of what color', genitive"
   },
   {
     "id": 84,
@@ -107672,15 +107672,15 @@ window.QM_SENTENCES_RO_DATA = [
   },
   {
     "id": 82,
-    "term": "What is your name?",
-    "definition": "Cum te cheamă?",
-    "example": "idiomatic: literally 'how does it call you'"
+    "term": "Where is the book?",
+    "definition": "Unde este cartea?",
+    "example": "'cartea' — the definite form, 'the book'"
   },
   {
     "id": 83,
-    "term": "How old are you?",
-    "definition": "Câți ani ai?",
-    "example": "idiomatic: 'ai' (have) + years, like several other languages"
+    "term": "What color is the car?",
+    "definition": "Ce culoare are mașina?",
+    "example": "'ce culoare' (what color) + 'a avea', not 'a fi'"
   },
   {
     "id": 84,
@@ -108274,15 +108274,15 @@ window.QM_SENTENCES_LT_DATA = [
   },
   {
     "id": 82,
-    "term": "What is your name?",
-    "definition": "Koks tavo vardas?",
-    "example": "literally 'what [kind is] your name' — 'koks' agrees masculine with 'vardas'"
+    "term": "Where is the book?",
+    "definition": "Kur yra knyga?",
+    "example": "question word 'kur' (where)"
   },
   {
     "id": 83,
-    "term": "How old are you?",
-    "definition": "Kiek tau metų?",
-    "example": "idiomatic: literally 'how many years to you' — dative + genitive plural 'metų'"
+    "term": "What color is the car?",
+    "definition": "Kokios spalvos automobilis?",
+    "example": "'kokios spalvos' — literally 'of what color', genitive"
   },
   {
     "id": 84,
@@ -108876,15 +108876,15 @@ window.QM_SENTENCES_HU_DATA = [
   },
   {
     "id": 82,
-    "term": "What is your name?",
-    "definition": "Hogy hívnak?",
-    "example": "idiomatic: literally 'how do they call [you]' — an impersonal 'they'"
+    "term": "Where is the book?",
+    "definition": "Hol van a könyv?",
+    "example": "'van' is needed here — this is a location, not a simple identity statement"
   },
   {
     "id": 83,
-    "term": "How old are you?",
-    "definition": "Hány éves vagy?",
-    "example": "literally 'how many years-old are you' — 'éves' is an adjective, not a noun"
+    "term": "What color is the car?",
+    "definition": "Milyen színű az autó?",
+    "example": "'milyen színű' — literally 'what-colored'"
   },
   {
     "id": 84,
@@ -110736,51 +110736,51 @@ window.QM_SENTENCES_PL_UPPERBEGINNER_DATA = [
   },
   {
     "id": 91,
-    "term": "Good morning! How are you?",
-    "definition": "Dzień dobry! Jak się masz?",
-    "example": "everyday greeting + idiom 'jak się masz' (how are you)"
+    "term": "I see her every day.",
+    "definition": "Widzę ją codziennie.",
+    "example": "object pronoun, accusative feminine: ona → ją"
   },
   {
     "id": 92,
-    "term": "Thank you very much for your help.",
-    "definition": "Dziękuję bardzo za pomoc.",
-    "example": "'za' (for) + accusative: pomoc"
+    "term": "He calls me every week.",
+    "definition": "On dzwoni do mnie co tydzień.",
+    "example": "'dzwonić do' takes 'do' + genitive pronoun: ja → mnie"
   },
   {
     "id": 93,
-    "term": "You're welcome.",
-    "definition": "Nie ma za co.",
-    "example": "idiom, literally 'there's nothing for what'"
+    "term": "We visit them on Sundays.",
+    "definition": "Odwiedzamy ich w niedziele.",
+    "example": "object pronoun, accusative: oni/one → ich"
   },
   {
     "id": 94,
-    "term": "I'm sorry, I don't understand.",
-    "definition": "Przepraszam, nie rozumiem.",
-    "example": "everyday apology: przepraszam"
+    "term": "She waits for us at the station.",
+    "definition": "Czeka na nas na dworcu.",
+    "example": "'czekać na' + accusative pronoun: my → nas"
   },
   {
     "id": 95,
-    "term": "Excuse me, where is the exit?",
-    "definition": "Przepraszam, gdzie jest wyjście?",
-    "example": "'przepraszam' doubles as both 'sorry' and 'excuse me'"
+    "term": "I don't see him here.",
+    "definition": "Nie widzę go tutaj.",
+    "example": "'go' (him) is the same form whether it's accusative or genitive — negation doesn't change it here"
   },
   {
     "id": 96,
-    "term": "Nice to meet you.",
-    "definition": "Miło mi cię poznać.",
-    "example": "idiom: literally 'it's pleasant to me to meet you'"
+    "term": "They know you well.",
+    "definition": "Oni cię dobrze znają.",
+    "example": "object pronoun, accusative: ty → cię"
   },
   {
     "id": 97,
-    "term": "See you tomorrow!",
-    "definition": "Do zobaczenia jutro!",
-    "example": "idiom: 'do zobaczenia' = see you"
+    "term": "Do you understand me?",
+    "definition": "Czy mnie rozumiesz?",
+    "example": "object pronoun in a question: ja → mnie"
   },
   {
     "id": 98,
-    "term": "Have a good trip!",
-    "definition": "Miłej podróży!",
-    "example": "a wish takes the genitive: podróż → podróży"
+    "term": "I love you very much.",
+    "definition": "Bardzo cię kocham.",
+    "example": "object pronoun again: ty → cię"
   },
   {
     "id": 99,
@@ -111338,51 +111338,51 @@ window.QM_SENTENCES_IT_UPPERBEGINNER_DATA = [
   },
   {
     "id": 91,
-    "term": "Good morning! How are you?",
-    "definition": "Buongiorno! Come stai?",
-    "example": "wellbeing questions use 'stare', not 'essere': come stai"
+    "term": "I see her every day.",
+    "definition": "La vedo ogni giorno.",
+    "example": "object pronoun 'la' (her) sits BEFORE the verb, not after like English"
   },
   {
     "id": 92,
-    "term": "Thank you very much for your help.",
-    "definition": "Grazie mille per il tuo aiuto.",
-    "example": "'grazie mille' — literally 'a thousand thanks'"
+    "term": "He calls me every week.",
+    "definition": "Mi chiama ogni settimana.",
+    "example": "object pronoun 'mi' (me) before the verb"
   },
   {
     "id": 93,
-    "term": "You're welcome.",
-    "definition": "Prego.",
-    "example": "the standard one-word reply to 'grazie'"
+    "term": "We visit them on Sundays.",
+    "definition": "Li visitiamo la domenica.",
+    "example": "object pronoun 'li' (them, masculine) before the verb"
   },
   {
     "id": 94,
-    "term": "I'm sorry, I don't understand.",
-    "definition": "Mi dispiace, non capisco.",
-    "example": "'mi dispiace' = I'm sorry"
+    "term": "She waits for us at the station.",
+    "definition": "Ci aspetta alla stazione.",
+    "example": "object pronoun 'ci' (us) before the verb; 'aspettare' needs no extra preposition"
   },
   {
     "id": 95,
-    "term": "Excuse me, where is the exit?",
-    "definition": "Scusi, dov'è l'uscita?",
-    "example": "formal 'scusi', for a stranger"
+    "term": "I don't see him here.",
+    "definition": "Non lo vedo qui.",
+    "example": "'non' + object pronoun 'lo' (him) + verb — all three stay in that order"
   },
   {
     "id": 96,
-    "term": "Nice to meet you.",
-    "definition": "Piacere di conoscerti.",
-    "example": "'piacere' here means 'pleasure', not 'to like'"
+    "term": "They know you well.",
+    "definition": "Ti conoscono bene.",
+    "example": "object pronoun 'ti' (you) before the verb"
   },
   {
     "id": 97,
-    "term": "See you tomorrow!",
-    "definition": "Ci vediamo domani!",
-    "example": "'ci vediamo' — literally 'we see each other'"
+    "term": "Do you understand me?",
+    "definition": "Mi capisci?",
+    "example": "object pronoun 'mi' (me) even in a question — still comes first"
   },
   {
     "id": 98,
-    "term": "Have a good trip!",
-    "definition": "Buon viaggio!",
-    "example": "a fixed wish, no verb needed"
+    "term": "I love you very much.",
+    "definition": "Ti amo tantissimo.",
+    "example": "object pronoun 'ti' (you) before the verb"
   },
   {
     "id": 99,
