@@ -2618,7 +2618,15 @@ window.QM_HIDDEN_QUIZZES = [
   "rfrPhrases",
   "rdePhrases",
   "resPhrases",
-  "rptPhrases"
+  "rptPhrases",
+  "nlUpperBeginnerSentences",
+  "rnlUpperBeginnerSentences",
+  "nlLowerIntSentences",
+  "rnlLowerIntSentences",
+  "nlIntermediateSentences",
+  "rnlIntermediateSentences",
+  "nlPhrases",
+  "rnlPhrases"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -122267,5 +122275,2413 @@ window.QM_PHRASES_PT_DATA = [
     "term": "Thanks for everything.",
     "definition": "Obrigado por tudo.",
     "example": "'obrigado por' + noun"
+  }
+];
+window.QM_SENTENCES_NL_UPPERBEGINNER_DATA = [
+  {
+    "id": 1,
+    "term": "My father is a farmer.",
+    "definition": "Mijn vader is boer.",
+    "example": "no article before an unmodified profession after 'zijn'"
+  },
+  {
+    "id": 2,
+    "term": "My mother is a teacher.",
+    "definition": "Mijn moeder is lerares.",
+    "example": "feminine profession noun, still no article"
+  },
+  {
+    "id": 3,
+    "term": "I have two brothers and one sister.",
+    "definition": "Ik heb twee broers en één zus.",
+    "example": "plural: broer → broers"
+  },
+  {
+    "id": 4,
+    "term": "My grandmother lives with us.",
+    "definition": "Mijn oma woont bij ons.",
+    "example": "'bij ons' = with us"
+  },
+  {
+    "id": 5,
+    "term": "Our family is very big.",
+    "definition": "Onze familie is erg groot.",
+    "example": "'onze' — the plural/common-gender form of 'our'"
+  },
+  {
+    "id": 6,
+    "term": "My son is five years old.",
+    "definition": "Mijn zoon is vijf jaar oud.",
+    "example": "'jaar' stays singular after a number, unlike English 'years'"
+  },
+  {
+    "id": 7,
+    "term": "My daughter likes to draw.",
+    "definition": "Mijn dochter houdt van tekenen.",
+    "example": "'houden van' + infinitive-as-noun"
+  },
+  {
+    "id": 8,
+    "term": "We have a small dog and a big cat.",
+    "definition": "We hebben een kleine hond en een grote kat.",
+    "example": "adjective takes -e before a common-gender noun with 'een': kleine, grote"
+  },
+  {
+    "id": 9,
+    "term": "My parents are on vacation.",
+    "definition": "Mijn ouders zijn op vakantie.",
+    "example": "'op vakantie zijn' = to be on vacation"
+  },
+  {
+    "id": 10,
+    "term": "My best friend has three children.",
+    "definition": "Mijn beste vriend heeft drie kinderen.",
+    "example": "irregular plural: kind → kinderen"
+  },
+  {
+    "id": 11,
+    "term": "I wake up early on Mondays.",
+    "definition": "Op maandag word ik vroeg wakker.",
+    "example": "fronting the time phrase forces the verb to stay in second position: word ik"
+  },
+  {
+    "id": 12,
+    "term": "On Saturdays, I sleep late.",
+    "definition": "Op zaterdag slaap ik lang uit.",
+    "example": "separable verb 'uitslapen' — 'uit' moves to the end"
+  },
+  {
+    "id": 13,
+    "term": "Today is Tuesday.",
+    "definition": "Vandaag is het dinsdag.",
+    "example": "'het' fills the subject slot even though 'vandaag' opens the sentence"
+  },
+  {
+    "id": 14,
+    "term": "Tomorrow is my birthday.",
+    "definition": "Morgen is het mijn verjaardag.",
+    "example": "same 'het' pattern"
+  },
+  {
+    "id": 15,
+    "term": "Yesterday was a busy day.",
+    "definition": "Gisteren was het een drukke dag.",
+    "example": "simple past of 'zijn': was"
+  },
+  {
+    "id": 16,
+    "term": "In the morning, I drink coffee.",
+    "definition": "'s Ochtends drink ik koffie.",
+    "example": "contracted form of 'des ochtends'"
+  },
+  {
+    "id": 17,
+    "term": "In the evening, we watch television.",
+    "definition": "'s Avonds kijken we tv.",
+    "example": "same contraction pattern: 's avonds"
+  },
+  {
+    "id": 18,
+    "term": "At night, I read a book.",
+    "definition": "'s Nachts lees ik een boek.",
+    "example": "'s nachts = at night"
+  },
+  {
+    "id": 19,
+    "term": "This afternoon, I have a meeting.",
+    "definition": "Vanmiddag heb ik een vergadering.",
+    "example": "'vanmiddag' = this afternoon"
+  },
+  {
+    "id": 20,
+    "term": "Every weekend, we visit my parents.",
+    "definition": "Elk weekend bezoeken we mijn ouders.",
+    "example": "'elk' + singular noun = 'every'"
+  },
+  {
+    "id": 21,
+    "term": "I would like a glass of water.",
+    "definition": "Ik wil graag een glas water.",
+    "example": "'wil graag' — the standard polite 'would like'"
+  },
+  {
+    "id": 22,
+    "term": "Can I have the menu, please?",
+    "definition": "Mag ik de menukaart, alstublieft?",
+    "example": "'mogen' for a polite request"
+  },
+  {
+    "id": 23,
+    "term": "This soup is delicious.",
+    "definition": "Deze soep is heerlijk.",
+    "example": "'deze' — the common-gender demonstrative"
+  },
+  {
+    "id": 24,
+    "term": "I don't eat meat.",
+    "definition": "Ik eet geen vlees.",
+    "example": "Dutch negates a noun with 'geen', not 'niet'"
+  },
+  {
+    "id": 25,
+    "term": "She likes sweet food.",
+    "definition": "Zij houdt van zoet eten.",
+    "example": "'houden van' + noun"
+  },
+  {
+    "id": 26,
+    "term": "We are having pizza for dinner.",
+    "definition": "We eten pizza als avondeten.",
+    "example": "'als avondeten' = for dinner"
+  },
+  {
+    "id": 27,
+    "term": "The bread is fresh.",
+    "definition": "Het brood is vers.",
+    "example": "'het brood' — a neuter noun"
+  },
+  {
+    "id": 28,
+    "term": "I usually drink tea, not coffee.",
+    "definition": "Ik drink meestal thee, geen koffie.",
+    "example": "'geen' again negates the noun"
+  },
+  {
+    "id": 29,
+    "term": "This restaurant is very popular.",
+    "definition": "Dit restaurant is erg populair.",
+    "example": "'dit' — the neuter demonstrative"
+  },
+  {
+    "id": 30,
+    "term": "The food here is cheap.",
+    "definition": "Het eten hier is goedkoop.",
+    "example": "'het eten' — a neuter noun"
+  },
+  {
+    "id": 31,
+    "term": "It is sunny today.",
+    "definition": "Het is vandaag zonnig.",
+    "example": "'het' as the dummy weather subject"
+  },
+  {
+    "id": 32,
+    "term": "It is raining outside.",
+    "definition": "Het regent buiten.",
+    "example": "'regenen' — an impersonal weather verb"
+  },
+  {
+    "id": 33,
+    "term": "It is very windy.",
+    "definition": "Het is erg winderig.",
+    "example": "'winderig' = windy"
+  },
+  {
+    "id": 34,
+    "term": "It is snowing in the mountains.",
+    "definition": "Het sneeuwt in de bergen.",
+    "example": "'sneeuwen' — impersonal verb"
+  },
+  {
+    "id": 35,
+    "term": "The weather is nice this week.",
+    "definition": "Het weer is mooi deze week.",
+    "example": "'het weer' — a neuter noun"
+  },
+  {
+    "id": 36,
+    "term": "It is cloudy this morning.",
+    "definition": "Het is vanochtend bewolkt.",
+    "example": "'bewolkt' = cloudy"
+  },
+  {
+    "id": 37,
+    "term": "It is hot in the summer.",
+    "definition": "Het is warm in de zomer.",
+    "example": "'warm' covers both 'hot' and 'warm'"
+  },
+  {
+    "id": 38,
+    "term": "It is cold in the winter.",
+    "definition": "Het is koud in de winter.",
+    "example": "'koud' = cold"
+  },
+  {
+    "id": 39,
+    "term": "There is a storm coming.",
+    "definition": "Er komt een storm aan.",
+    "example": "separable verb 'aankomen' splits: komt... aan"
+  },
+  {
+    "id": 40,
+    "term": "The sky is blue today.",
+    "definition": "De lucht is vandaag blauw.",
+    "example": "'de lucht' — a common-gender noun"
+  },
+  {
+    "id": 41,
+    "term": "I visited my grandparents last week.",
+    "definition": "Ik heb vorige week mijn grootouders bezocht.",
+    "example": "perfect tense — the normal way to narrate past events in spoken Dutch"
+  },
+  {
+    "id": 42,
+    "term": "We watched a good movie yesterday.",
+    "definition": "We hebben gisteren een goede film gekeken.",
+    "example": "perfect: hebben... gekeken"
+  },
+  {
+    "id": 43,
+    "term": "She cooked dinner for us.",
+    "definition": "Zij heeft voor ons gekookt.",
+    "example": "perfect: heeft... gekookt"
+  },
+  {
+    "id": 44,
+    "term": "They traveled to Spain last summer.",
+    "definition": "Zij zijn afgelopen zomer naar Spanje gereisd.",
+    "example": "motion verbs take 'zijn' as their perfect auxiliary: zijn... gereisd"
+  },
+  {
+    "id": 45,
+    "term": "I finished my homework early.",
+    "definition": "Ik heb mijn huiswerk vroeg afgemaakt.",
+    "example": "separable perfect: heb... afgemaakt"
+  },
+  {
+    "id": 46,
+    "term": "He bought a new car.",
+    "definition": "Hij heeft een nieuwe auto gekocht.",
+    "example": "irregular participle: gekocht"
+  },
+  {
+    "id": 47,
+    "term": "We walked to the park.",
+    "definition": "We zijn naar het park gelopen.",
+    "example": "another motion verb taking 'zijn': zijn... gelopen"
+  },
+  {
+    "id": 48,
+    "term": "I called my friend this morning.",
+    "definition": "Ik heb vanochtend mijn vriend gebeld.",
+    "example": "perfect: heb... gebeld"
+  },
+  {
+    "id": 49,
+    "term": "She sold her old bicycle.",
+    "definition": "Zij heeft haar oude fiets verkocht.",
+    "example": "irregular participle: verkocht"
+  },
+  {
+    "id": 50,
+    "term": "We celebrated his birthday together.",
+    "definition": "We hebben samen zijn verjaardag gevierd.",
+    "example": "perfect: hebben... gevierd"
+  },
+  {
+    "id": 51,
+    "term": "I am going to visit my aunt.",
+    "definition": "Ik ga mijn tante bezoeken.",
+    "example": "'gaan' + infinitive — the standard near-future"
+  },
+  {
+    "id": 52,
+    "term": "We are going to have a party.",
+    "definition": "We gaan een feestje geven.",
+    "example": "gaan + infinitive"
+  },
+  {
+    "id": 53,
+    "term": "She is going to start a new job.",
+    "definition": "Zij gaat een nieuwe baan beginnen.",
+    "example": "gaat + infinitive"
+  },
+  {
+    "id": 54,
+    "term": "They are going to move to a new city.",
+    "definition": "Zij gaan naar een nieuwe stad verhuizen.",
+    "example": "gaan + infinitive"
+  },
+  {
+    "id": 55,
+    "term": "I am going to buy a new phone.",
+    "definition": "Ik ga een nieuwe telefoon kopen.",
+    "example": "ga + infinitive"
+  },
+  {
+    "id": 56,
+    "term": "He is going to learn to swim.",
+    "definition": "Hij gaat leren zwemmen.",
+    "example": "gaat + leren + infinitive"
+  },
+  {
+    "id": 57,
+    "term": "We are going to travel next month.",
+    "definition": "We gaan volgende maand reizen.",
+    "example": "gaan + infinitive"
+  },
+  {
+    "id": 58,
+    "term": "I am going to cook dinner tonight.",
+    "definition": "Ik ga vanavond koken.",
+    "example": "ga + infinitive"
+  },
+  {
+    "id": 59,
+    "term": "She is going to call you later.",
+    "definition": "Zij gaat je later bellen.",
+    "example": "gaat + infinitive"
+  },
+  {
+    "id": 60,
+    "term": "They are going to arrive tomorrow.",
+    "definition": "Zij komen morgen aan.",
+    "example": "present tense with a time word often covers the near future instead of 'gaan aankomen'"
+  },
+  {
+    "id": 61,
+    "term": "I like coffee and tea.",
+    "definition": "Ik houd van koffie en thee.",
+    "example": "'houden van' + noun"
+  },
+  {
+    "id": 62,
+    "term": "She is smart and kind.",
+    "definition": "Zij is slim en aardig.",
+    "example": "two adjectives joined with 'en'"
+  },
+  {
+    "id": 63,
+    "term": "I want to go, but I am tired.",
+    "definition": "Ik wil gaan, maar ik ben moe.",
+    "example": "'maar' = but"
+  },
+  {
+    "id": 64,
+    "term": "He is tall, but his brother is short.",
+    "definition": "Hij is lang, maar zijn broer is kort.",
+    "example": "'lang' also means 'tall' for people"
+  },
+  {
+    "id": 65,
+    "term": "Do you want tea or coffee?",
+    "definition": "Wil je thee of koffie?",
+    "example": "'of' = or"
+  },
+  {
+    "id": 66,
+    "term": "You can call me or send a message.",
+    "definition": "Je kunt me bellen of een bericht sturen.",
+    "example": "'of' linking two actions"
+  },
+  {
+    "id": 67,
+    "term": "I stayed home because it was raining.",
+    "definition": "Ik bleef thuis omdat het regende.",
+    "example": "'omdat' sends the verb to the end: het regende → omdat het regende"
+  },
+  {
+    "id": 68,
+    "term": "She was late because of the traffic.",
+    "definition": "Zij was laat door het verkeer.",
+    "example": "'door' = because of"
+  },
+  {
+    "id": 69,
+    "term": "I am happy because I passed the test.",
+    "definition": "Ik ben blij omdat ik voor de toets ben geslaagd.",
+    "example": "'slagen voor' = to pass (a test)"
+  },
+  {
+    "id": 70,
+    "term": "He is tired because he worked all day.",
+    "definition": "Hij is moe omdat hij de hele dag heeft gewerkt.",
+    "example": "'omdat' clause with perfect tense, verb cluster at the end"
+  },
+  {
+    "id": 71,
+    "term": "The bank is near the school.",
+    "definition": "De bank is dicht bij de school.",
+    "example": "'dicht bij' = near"
+  },
+  {
+    "id": 72,
+    "term": "The park is far from here.",
+    "definition": "Het park is ver van hier.",
+    "example": "'ver van' = far from"
+  },
+  {
+    "id": 73,
+    "term": "Turn left at the corner.",
+    "definition": "Sla linksaf bij de hoek.",
+    "example": "separable verb 'linksafslaan'"
+  },
+  {
+    "id": 74,
+    "term": "Turn right at the traffic light.",
+    "definition": "Sla rechtsaf bij het stoplicht.",
+    "example": "separable verb 'rechtsafslaan'"
+  },
+  {
+    "id": 75,
+    "term": "Go straight ahead.",
+    "definition": "Ga rechtdoor.",
+    "example": "'rechtdoor' = straight ahead"
+  },
+  {
+    "id": 76,
+    "term": "The hospital is next to the church.",
+    "definition": "Het ziekenhuis staat naast de kerk.",
+    "example": "'staan' — Dutch often uses 'staan' for a building's fixed location"
+  },
+  {
+    "id": 77,
+    "term": "The store is across from the hotel.",
+    "definition": "De winkel staat tegenover het hotel.",
+    "example": "'tegenover' = across from"
+  },
+  {
+    "id": 78,
+    "term": "It is behind the building.",
+    "definition": "Het staat achter het gebouw.",
+    "example": "'achter' = behind"
+  },
+  {
+    "id": 79,
+    "term": "It is in front of the station.",
+    "definition": "Het staat voor het station.",
+    "example": "'voor' = in front of"
+  },
+  {
+    "id": 80,
+    "term": "The bathroom is upstairs.",
+    "definition": "De badkamer is boven.",
+    "example": "'boven' = upstairs"
+  },
+  {
+    "id": 81,
+    "term": "The car is red.",
+    "definition": "De auto is rood.",
+    "example": "'de auto' — a common-gender noun"
+  },
+  {
+    "id": 82,
+    "term": "The house is white and big.",
+    "definition": "Het huis is wit en groot.",
+    "example": "'het huis' — a neuter noun"
+  },
+  {
+    "id": 83,
+    "term": "This box is heavy.",
+    "definition": "Deze doos is zwaar.",
+    "example": "'deze' — common-gender demonstrative"
+  },
+  {
+    "id": 84,
+    "term": "That bag is light.",
+    "definition": "Die tas is licht.",
+    "example": "'die' — common-gender demonstrative for 'that'"
+  },
+  {
+    "id": 85,
+    "term": "The room is clean.",
+    "definition": "De kamer is schoon.",
+    "example": "'schoon' = clean"
+  },
+  {
+    "id": 86,
+    "term": "The street is dirty.",
+    "definition": "De straat is vuil.",
+    "example": "'vuil' = dirty"
+  },
+  {
+    "id": 87,
+    "term": "This road is long.",
+    "definition": "Deze weg is lang.",
+    "example": "'lang' = long"
+  },
+  {
+    "id": 88,
+    "term": "That path is short.",
+    "definition": "Dat pad is kort.",
+    "example": "'dat' — neuter demonstrative for 'that'"
+  },
+  {
+    "id": 89,
+    "term": "The water is deep here.",
+    "definition": "Het water is hier diep.",
+    "example": "'het water' — a neuter noun"
+  },
+  {
+    "id": 90,
+    "term": "This lake is shallow.",
+    "definition": "Dit meer is ondiep.",
+    "example": "'ondiep' = shallow, literally 'un-deep'"
+  },
+  {
+    "id": 91,
+    "term": "I see her every day.",
+    "definition": "Ik zie haar elke dag.",
+    "example": "'haar' = her, object pronoun"
+  },
+  {
+    "id": 92,
+    "term": "He calls me every week.",
+    "definition": "Hij belt me elke week.",
+    "example": "'me' = me, object pronoun"
+  },
+  {
+    "id": 93,
+    "term": "We visit them on Sundays.",
+    "definition": "We bezoeken hen op zondag.",
+    "example": "'hen' = them, object pronoun"
+  },
+  {
+    "id": 94,
+    "term": "She waits for us at the station.",
+    "definition": "Zij wacht op ons bij het station.",
+    "example": "'wachten op' = to wait for"
+  },
+  {
+    "id": 95,
+    "term": "I don't see him here.",
+    "definition": "Ik zie hem hier niet.",
+    "example": "'hem' = him, object pronoun"
+  },
+  {
+    "id": 96,
+    "term": "They know you well.",
+    "definition": "Zij kennen je goed.",
+    "example": "'je' = you, object pronoun"
+  },
+  {
+    "id": 97,
+    "term": "Do you understand me?",
+    "definition": "Begrijp je me?",
+    "example": "verb-first for a yes/no question"
+  },
+  {
+    "id": 98,
+    "term": "I love you very much.",
+    "definition": "Ik hou heel veel van je.",
+    "example": "'houden van' + 'je'"
+  },
+  {
+    "id": 99,
+    "term": "Today's date is the fifth of August.",
+    "definition": "Vandaag is het vijf augustus.",
+    "example": "dates use a cardinal number, no ordinal"
+  },
+  {
+    "id": 100,
+    "term": "The number nine is my lucky number.",
+    "definition": "Het getal negen is mijn geluksgetal.",
+    "example": "'geluksgetal' = lucky number, a compound noun"
+  }
+];
+window.QM_SENTENCES_NL_LOWERINT_DATA = [
+  {
+    "id": 1,
+    "term": "I want to learn Dutch.",
+    "definition": "Ik wil Nederlands leren.",
+    "example": "willen + infinitive"
+  },
+  {
+    "id": 2,
+    "term": "I can help you tomorrow.",
+    "definition": "Ik kan je morgen helpen.",
+    "example": "kunnen + infinitive"
+  },
+  {
+    "id": 3,
+    "term": "I must go now.",
+    "definition": "Ik moet nu gaan.",
+    "example": "moeten + infinitive"
+  },
+  {
+    "id": 4,
+    "term": "You should rest.",
+    "definition": "Je zou moeten rusten.",
+    "example": "'zou moeten' — the conditional of 'moeten' softens it to 'should'"
+  },
+  {
+    "id": 5,
+    "term": "She should call her mother.",
+    "definition": "Zij zou haar moeder moeten bellen.",
+    "example": "same 'zou moeten' pattern"
+  },
+  {
+    "id": 6,
+    "term": "We want to visit Amsterdam.",
+    "definition": "We willen Amsterdam bezoeken.",
+    "example": "willen + infinitive"
+  },
+  {
+    "id": 7,
+    "term": "They can't come today.",
+    "definition": "Zij kunnen vandaag niet komen.",
+    "example": "'niet' negates the infinitive clause"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to eat now.",
+    "definition": "Ik wil nu niet eten.",
+    "example": "'niet' before the infinitive"
+  },
+  {
+    "id": 9,
+    "term": "Do you want some tea?",
+    "definition": "Wil je thee?",
+    "example": "no article needed for an uncountable noun"
+  },
+  {
+    "id": 10,
+    "term": "I would like to order a coffee.",
+    "definition": "Ik zou graag een koffie willen bestellen.",
+    "example": "'zou graag willen' — a more formal 'would like to'"
+  },
+  {
+    "id": 11,
+    "term": "You have to be careful.",
+    "definition": "Je moet voorzichtig zijn.",
+    "example": "moeten + zijn"
+  },
+  {
+    "id": 12,
+    "term": "It's necessary to buy bread.",
+    "definition": "Het is nodig om brood te kopen.",
+    "example": "'om... te' + infinitive"
+  },
+  {
+    "id": 13,
+    "term": "You can smoke here.",
+    "definition": "Je mag hier roken.",
+    "example": "'mogen' expresses permission"
+  },
+  {
+    "id": 14,
+    "term": "You can't park here.",
+    "definition": "Je mag hier niet parkeren.",
+    "example": "'mogen niet' = not allowed to"
+  },
+  {
+    "id": 15,
+    "term": "It's worth trying this soup.",
+    "definition": "Het is de moeite waard om deze soep te proberen.",
+    "example": "'de moeite waard' = worth it"
+  },
+  {
+    "id": 16,
+    "term": "It's not necessary to hurry.",
+    "definition": "Het is niet nodig om te haasten.",
+    "example": "'om... te' + infinitive"
+  },
+  {
+    "id": 17,
+    "term": "You shouldn't smoke.",
+    "definition": "Je zou niet moeten roken.",
+    "example": "negated 'zou moeten'"
+  },
+  {
+    "id": 18,
+    "term": "One has to work hard.",
+    "definition": "Je moet hard werken.",
+    "example": "generic 'je' — Dutch uses 'je' for 'one'"
+  },
+  {
+    "id": 19,
+    "term": "Everyone must follow the rules.",
+    "definition": "Iedereen moet de regels volgen.",
+    "example": "'iedereen' + singular verb"
+  },
+  {
+    "id": 20,
+    "term": "I have to finish this today.",
+    "definition": "Ik moet dit vandaag afmaken.",
+    "example": "separable verb 'afmaken' in a modal construction"
+  },
+  {
+    "id": 21,
+    "term": "I like this song.",
+    "definition": "Ik houd van dit liedje.",
+    "example": "'houden van' + noun"
+  },
+  {
+    "id": 22,
+    "term": "Do you like this city?",
+    "definition": "Houd je van deze stad?",
+    "example": "verb-first question with 'houden van'"
+  },
+  {
+    "id": 23,
+    "term": "We like this restaurant.",
+    "definition": "Wij houden van dit restaurant.",
+    "example": "plural: houden"
+  },
+  {
+    "id": 24,
+    "term": "They don't like this idea.",
+    "definition": "Zij houden niet van dit idee.",
+    "example": "'niet' between 'houden' and 'van'"
+  },
+  {
+    "id": 25,
+    "term": "My head hurts.",
+    "definition": "Mijn hoofd doet pijn.",
+    "example": "'pijn doen' = to hurt"
+  },
+  {
+    "id": 26,
+    "term": "My legs hurt.",
+    "definition": "Mijn benen doen pijn.",
+    "example": "plural: doen"
+  },
+  {
+    "id": 27,
+    "term": "Does your stomach hurt?",
+    "definition": "Doet je buik pijn?",
+    "example": "verb-first question"
+  },
+  {
+    "id": 28,
+    "term": "I feel sick.",
+    "definition": "Ik voel me ziek.",
+    "example": "reflexive: voel me"
+  },
+  {
+    "id": 29,
+    "term": "I am cold.",
+    "definition": "Ik heb het koud.",
+    "example": "'het koud hebben' — an idiomatic way to say 'I'm cold'"
+  },
+  {
+    "id": 30,
+    "term": "Are you hungry?",
+    "definition": "Heb je honger?",
+    "example": "'honger hebben' = to be hungry"
+  },
+  {
+    "id": 31,
+    "term": "The more you practice, the better you speak.",
+    "definition": "Hoe meer je oefent, hoe beter je spreekt.",
+    "example": "'hoe... hoe...' correlative comparative"
+  },
+  {
+    "id": 32,
+    "term": "The sooner, the better.",
+    "definition": "Hoe eerder, hoe beter.",
+    "example": "same 'hoe... hoe...' pattern, shortened"
+  },
+  {
+    "id": 33,
+    "term": "Both my sister and my brother live in Amsterdam.",
+    "definition": "Zowel mijn zus als mijn broer woont in Amsterdam.",
+    "example": "'zowel... als...' = both... and..."
+  },
+  {
+    "id": 34,
+    "term": "I like neither tea nor coffee.",
+    "definition": "Ik houd noch van thee, noch van koffie.",
+    "example": "'noch... noch...' = neither... nor..., a formal construction"
+  },
+  {
+    "id": 35,
+    "term": "This is the most beautiful city in the Netherlands.",
+    "definition": "Dit is de mooiste stad van Nederland.",
+    "example": "superlative: de mooiste"
+  },
+  {
+    "id": 36,
+    "term": "He is older than me.",
+    "definition": "Hij is ouder dan ik.",
+    "example": "'dan' = than"
+  },
+  {
+    "id": 37,
+    "term": "This is worse than I thought.",
+    "definition": "Dit is erger dan ik dacht.",
+    "example": "'erger' — irregular comparative of 'erg'"
+  },
+  {
+    "id": 38,
+    "term": "She sings better than he does.",
+    "definition": "Zij zingt beter dan hij.",
+    "example": "'beter' — irregular comparative of 'goed'"
+  },
+  {
+    "id": 39,
+    "term": "This task is easier than that one.",
+    "definition": "Deze taak is makkelijker dan die.",
+    "example": "'makkelijker dan'"
+  },
+  {
+    "id": 40,
+    "term": "He runs the fastest on our team.",
+    "definition": "Hij rent het snelst van ons team.",
+    "example": "superlative adverb: het snelst"
+  },
+  {
+    "id": 41,
+    "term": "I think that this is a good idea.",
+    "definition": "Ik denk dat dit een goed idee is.",
+    "example": "'dat' sends the verb to the end of its clause: dit... is"
+  },
+  {
+    "id": 42,
+    "term": "I know that you are right.",
+    "definition": "Ik weet dat je gelijk hebt.",
+    "example": "'gelijk hebben' = to be right"
+  },
+  {
+    "id": 43,
+    "term": "I hope that the weather will be nice.",
+    "definition": "Ik hoop dat het weer mooi wordt.",
+    "example": "'dat'-clause, verb to the end: mooi wordt"
+  },
+  {
+    "id": 44,
+    "term": "I am glad that you came.",
+    "definition": "Ik ben blij dat je gekomen bent.",
+    "example": "perfect tense inside a 'dat'-clause: gekomen bent"
+  },
+  {
+    "id": 45,
+    "term": "I don't think that it's true.",
+    "definition": "Ik denk niet dat het waar is.",
+    "example": "'niet' negates the main clause, not the 'dat'-clause"
+  },
+  {
+    "id": 46,
+    "term": "I am learning Dutch because I want to live in the Netherlands.",
+    "definition": "Ik leer Nederlands omdat ik in Nederland wil wonen.",
+    "example": "'omdat' sends the verb cluster to the end: wil wonen"
+  },
+  {
+    "id": 47,
+    "term": "I can't come because I am sick.",
+    "definition": "Ik kan niet komen omdat ik ziek ben.",
+    "example": "'omdat' clause, verb at the end: ziek ben"
+  },
+  {
+    "id": 48,
+    "term": "I am studying so that I can pass the exam.",
+    "definition": "Ik studeer zodat ik voor het examen kan slagen.",
+    "example": "'zodat' = so that"
+  },
+  {
+    "id": 49,
+    "term": "Call me when you arrive.",
+    "definition": "Bel me wanneer je aankomt.",
+    "example": "'wanneer' sends the verb to the end: aankomt"
+  },
+  {
+    "id": 50,
+    "term": "If it rains, we will stay home.",
+    "definition": "Als het regent, blijven we thuis.",
+    "example": "'als' clause triggers inversion in the main clause: blijven we"
+  },
+  {
+    "id": 51,
+    "term": "The woman who lives next door is a doctor.",
+    "definition": "De vrouw die naast ons woont, is dokter.",
+    "example": "'die' — relative pronoun for common-gender nouns"
+  },
+  {
+    "id": 52,
+    "term": "The man who called yesterday is my uncle.",
+    "definition": "De man die gisteren belde, is mijn oom.",
+    "example": "'die' for a person"
+  },
+  {
+    "id": 53,
+    "term": "The book that I am reading is very interesting.",
+    "definition": "Het boek dat ik lees, is erg interessant.",
+    "example": "'dat' — relative pronoun for neuter nouns"
+  },
+  {
+    "id": 54,
+    "term": "The children who play in the park are our neighbors.",
+    "definition": "De kinderen die in het park spelen, zijn onze buren.",
+    "example": "'die' stays the same for plural"
+  },
+  {
+    "id": 55,
+    "term": "This is the house in which I grew up.",
+    "definition": "Dit is het huis waarin ik ben opgegroeid.",
+    "example": "'waarin' = in which, a fused relative form"
+  },
+  {
+    "id": 56,
+    "term": "I don't remember the name of the street where we met.",
+    "definition": "Ik weet de naam niet meer van de straat waar we elkaar ontmoetten.",
+    "example": "'waar' = where"
+  },
+  {
+    "id": 57,
+    "term": "The people whom I met were very friendly.",
+    "definition": "De mensen die ik ontmoette, waren erg vriendelijk.",
+    "example": "'die' also covers 'whom'"
+  },
+  {
+    "id": 58,
+    "term": "This is the reason why I am late.",
+    "definition": "Dit is de reden waarom ik laat ben.",
+    "example": "'waarom' = why"
+  },
+  {
+    "id": 59,
+    "term": "The car that broke down is mine.",
+    "definition": "De auto die kapot ging, is van mij.",
+    "example": "'kapot gaan' = to break down"
+  },
+  {
+    "id": 60,
+    "term": "I found the keys that I lost.",
+    "definition": "Ik heb de sleutels gevonden die ik kwijt was.",
+    "example": "'kwijt zijn' = to have lost (something)"
+  },
+  {
+    "id": 61,
+    "term": "The meeting starts at three o'clock.",
+    "definition": "De vergadering begint om drie uur.",
+    "example": "'om' + time"
+  },
+  {
+    "id": 62,
+    "term": "I usually wake up before seven.",
+    "definition": "Ik word meestal voor zevenen wakker.",
+    "example": "'voor zevenen' = before seven"
+  },
+  {
+    "id": 63,
+    "term": "We will meet after the concert.",
+    "definition": "We ontmoeten elkaar na het concert.",
+    "example": "'na' = after"
+  },
+  {
+    "id": 64,
+    "term": "The shop is open from nine to six.",
+    "definition": "De winkel is open van negen tot zes.",
+    "example": "'van... tot...' = from... to..."
+  },
+  {
+    "id": 65,
+    "term": "I lived in the Netherlands for three years.",
+    "definition": "Ik heb drie jaar in Nederland gewoond.",
+    "example": "perfect tense for a completed span"
+  },
+  {
+    "id": 66,
+    "term": "I haven't seen him since last year.",
+    "definition": "Ik heb hem niet meer gezien sinds vorig jaar.",
+    "example": "'sinds' = since"
+  },
+  {
+    "id": 67,
+    "term": "During the summer, we travel a lot.",
+    "definition": "Tijdens de zomer reizen we veel.",
+    "example": "'tijdens' = during"
+  },
+  {
+    "id": 68,
+    "term": "On Mondays, I go to the gym.",
+    "definition": "Op maandag ga ik naar de sportschool.",
+    "example": "'op maandag' — no plural needed for a repeated day"
+  },
+  {
+    "id": 69,
+    "term": "Next week, I am going on vacation.",
+    "definition": "Volgende week ga ik op vakantie.",
+    "example": "'volgende week' = next week"
+  },
+  {
+    "id": 70,
+    "term": "Two years ago, I visited the Netherlands.",
+    "definition": "Twee jaar geleden heb ik Nederland bezocht.",
+    "example": "'geleden' = ago"
+  },
+  {
+    "id": 71,
+    "term": "There are a lot of people here.",
+    "definition": "Er zijn hier veel mensen.",
+    "example": "'er zijn' — existential 'there are'"
+  },
+  {
+    "id": 72,
+    "term": "I have little time.",
+    "definition": "Ik heb weinig tijd.",
+    "example": "'weinig' = little"
+  },
+  {
+    "id": 73,
+    "term": "I have a few questions.",
+    "definition": "Ik heb een paar vragen.",
+    "example": "'een paar' = a few"
+  },
+  {
+    "id": 74,
+    "term": "There are many opportunities here.",
+    "definition": "Er zijn hier veel kansen.",
+    "example": "'veel' = many"
+  },
+  {
+    "id": 75,
+    "term": "I have several friends in the Netherlands.",
+    "definition": "Ik heb verschillende vrienden in Nederland.",
+    "example": "'verschillende' = several"
+  },
+  {
+    "id": 76,
+    "term": "Not many people know about this.",
+    "definition": "Niet veel mensen weten hiervan.",
+    "example": "'hiervan' = about this"
+  },
+  {
+    "id": 77,
+    "term": "I need a bit more time.",
+    "definition": "Ik heb een beetje meer tijd nodig.",
+    "example": "'een beetje meer' = a bit more"
+  },
+  {
+    "id": 78,
+    "term": "Most people agree with this.",
+    "definition": "De meeste mensen zijn het hiermee eens.",
+    "example": "'het eens zijn met' = to agree with"
+  },
+  {
+    "id": 79,
+    "term": "I bought a lot of books.",
+    "definition": "Ik heb veel boeken gekocht.",
+    "example": "'veel' + plural noun"
+  },
+  {
+    "id": 80,
+    "term": "There isn't enough bread.",
+    "definition": "Er is niet genoeg brood.",
+    "example": "'genoeg' = enough"
+  },
+  {
+    "id": 81,
+    "term": "Sit down, please.",
+    "definition": "Ga zitten, alsjeblieft.",
+    "example": "'gaan zitten' — the standard 'sit down'"
+  },
+  {
+    "id": 82,
+    "term": "Wait for me!",
+    "definition": "Wacht op me!",
+    "example": "'wachten op' = to wait for"
+  },
+  {
+    "id": 83,
+    "term": "Don't worry.",
+    "definition": "Maak je geen zorgen.",
+    "example": "'zich zorgen maken' = to worry, negated with 'geen'"
+  },
+  {
+    "id": 84,
+    "term": "Close the door, please.",
+    "definition": "Doe de deur dicht, alsjeblieft.",
+    "example": "separable verb 'dichtdoen'"
+  },
+  {
+    "id": 85,
+    "term": "Let's go!",
+    "definition": "Laten we gaan!",
+    "example": "'laten we' + infinitive = let's"
+  },
+  {
+    "id": 86,
+    "term": "Let's eat something.",
+    "definition": "Laten we iets eten!",
+    "example": "'laten we' + infinitive"
+  },
+  {
+    "id": 87,
+    "term": "Be careful!",
+    "definition": "Wees voorzichtig!",
+    "example": "irregular imperative of 'zijn': wees"
+  },
+  {
+    "id": 88,
+    "term": "Don't be afraid.",
+    "definition": "Wees niet bang.",
+    "example": "negated imperative of 'zijn'"
+  },
+  {
+    "id": 89,
+    "term": "Help me, please.",
+    "definition": "Help me, alsjeblieft.",
+    "example": "bare stem as imperative: help"
+  },
+  {
+    "id": 90,
+    "term": "Listen to me!",
+    "definition": "Luister naar me!",
+    "example": "'luisteren naar' = to listen to"
+  },
+  {
+    "id": 91,
+    "term": "I don't know where he lives.",
+    "definition": "Ik weet niet waar hij woont.",
+    "example": "'waar' = where"
+  },
+  {
+    "id": 92,
+    "term": "I don't know what time it is.",
+    "definition": "Ik weet niet hoe laat het is.",
+    "example": "'hoe laat' = what time"
+  },
+  {
+    "id": 93,
+    "term": "Tell me why you are sad.",
+    "definition": "Vertel me waarom je verdrietig bent.",
+    "example": "'waarom' inside an indirect question"
+  },
+  {
+    "id": 94,
+    "term": "I wonder who called.",
+    "definition": "Ik vraag me af wie er belde.",
+    "example": "'zich afvragen' = to wonder"
+  },
+  {
+    "id": 95,
+    "term": "I am not sure if he is coming.",
+    "definition": "Ik weet niet zeker of hij komt.",
+    "example": "'of' = if/whether"
+  },
+  {
+    "id": 96,
+    "term": "She said that she was tired.",
+    "definition": "Zij zei dat ze moe was.",
+    "example": "'dat'-clause, verb to the end: moe was"
+  },
+  {
+    "id": 97,
+    "term": "He asked if I spoke Dutch.",
+    "definition": "Hij vroeg of ik Nederlands sprak.",
+    "example": "'of' = if/whether"
+  },
+  {
+    "id": 98,
+    "term": "If I had more time, I would learn Italian too.",
+    "definition": "Als ik meer tijd had, zou ik ook Italiaans leren.",
+    "example": "'als... had... zou... leren' — the standard conditional pair"
+  },
+  {
+    "id": 99,
+    "term": "If I were you, I would rest.",
+    "definition": "Als ik jou was, zou ik rusten.",
+    "example": "same conditional pattern"
+  },
+  {
+    "id": 100,
+    "term": "I would be very happy if you came.",
+    "definition": "Ik zou heel blij zijn als je kwam.",
+    "example": "'zou zijn' + 'als... kwam'"
+  }
+];
+window.QM_SENTENCES_NL_INTERMEDIATE_DATA = [
+  {
+    "id": 1,
+    "term": "I go there every day.",
+    "definition": "Ik ga er elke dag heen.",
+    "example": "'er... heen' — a directional 'there'"
+  },
+  {
+    "id": 2,
+    "term": "I don't believe it.",
+    "definition": "Ik geloof het niet.",
+    "example": "'het' stands in for 'it'"
+  },
+  {
+    "id": 3,
+    "term": "I think about it often.",
+    "definition": "Ik denk er vaak aan.",
+    "example": "'denken aan' splits around 'er': er... aan"
+  },
+  {
+    "id": 4,
+    "term": "How many books do you have? I have three of them.",
+    "definition": "Hoeveel boeken heb je? Ik heb er drie.",
+    "example": "'er' stands in for 'of them'"
+  },
+  {
+    "id": 5,
+    "term": "Do you want some wine? Yes, I want some.",
+    "definition": "Wil je wijn? Ja, ik wil er wel wat.",
+    "example": "'er... wat' = some (of it)"
+  },
+  {
+    "id": 6,
+    "term": "Do you need money? Yes, I need some.",
+    "definition": "Heb je geld nodig? Ja, ik heb er wat nodig.",
+    "example": "same 'er... wat' pattern"
+  },
+  {
+    "id": 7,
+    "term": "I'm leaving now.",
+    "definition": "Ik ga er nu vandoor.",
+    "example": "'ervandoor gaan' — a fixed idiom for 'to take off/leave'"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to talk about it.",
+    "definition": "Ik wil er niet over praten.",
+    "example": "'praten over' splits around 'er': er... over"
+  },
+  {
+    "id": 9,
+    "term": "How many sisters do you have? I have one.",
+    "definition": "Hoeveel zussen heb je? Ik heb er één.",
+    "example": "'er' again fills in for the noun"
+  },
+  {
+    "id": 10,
+    "term": "I'm sure of it.",
+    "definition": "Ik ben er zeker van.",
+    "example": "'zeker zijn van' splits around 'er': er... van"
+  },
+  {
+    "id": 11,
+    "term": "I used to read a lot as a child.",
+    "definition": "Als kind las ik veel.",
+    "example": "simple past for a repeated childhood habit: las"
+  },
+  {
+    "id": 12,
+    "term": "Yesterday I read that whole book.",
+    "definition": "Gisteren heb ik dat hele boek gelezen.",
+    "example": "perfect tense for a single completed event"
+  },
+  {
+    "id": 13,
+    "term": "I always drank coffee in the morning.",
+    "definition": "Ik dronk altijd koffie 's ochtends.",
+    "example": "simple past for a habitual action: dronk"
+  },
+  {
+    "id": 14,
+    "term": "This morning I drank two cups of coffee.",
+    "definition": "Vanochtend heb ik twee koppen koffie gedronken.",
+    "example": "perfect for a specific completed event"
+  },
+  {
+    "id": 15,
+    "term": "She was writing a letter when I called.",
+    "definition": "Zij was een brief aan het schrijven toen ik belde.",
+    "example": "'aan het' + infinitive — the Dutch progressive"
+  },
+  {
+    "id": 16,
+    "term": "She wrote the letter and sent it.",
+    "definition": "Zij heeft de brief geschreven en verstuurd.",
+    "example": "perfect for the completed sequence"
+  },
+  {
+    "id": 17,
+    "term": "We were watching a movie all evening.",
+    "definition": "We waren de hele avond een film aan het kijken.",
+    "example": "past progressive: waren... aan het kijken"
+  },
+  {
+    "id": 18,
+    "term": "We watched the whole movie in one sitting.",
+    "definition": "We hebben de hele film in één keer gekeken.",
+    "example": "perfect for the completed whole"
+  },
+  {
+    "id": 19,
+    "term": "I was learning Dutch for two years before I moved here.",
+    "definition": "Ik was al twee jaar Nederlands aan het leren voordat ik hierheen verhuisde.",
+    "example": "past progressive for an ongoing background action"
+  },
+  {
+    "id": 20,
+    "term": "I finally learned all the irregular verbs.",
+    "definition": "Ik heb eindelijk alle onregelmatige werkwoorden geleerd.",
+    "example": "perfect: heb... geleerd"
+  },
+  {
+    "id": 21,
+    "term": "This book was written by a famous author.",
+    "definition": "Dit boek is geschreven door een beroemde schrijver.",
+    "example": "passive: is geschreven"
+  },
+  {
+    "id": 22,
+    "term": "The house was built in 1920.",
+    "definition": "Het huis is gebouwd in 1920.",
+    "example": "passive: is gebouwd"
+  },
+  {
+    "id": 23,
+    "term": "The letter is being written now.",
+    "definition": "De brief wordt nu geschreven.",
+    "example": "'worden' + participle — the ongoing passive"
+  },
+  {
+    "id": 24,
+    "term": "The doors are closed at nine.",
+    "definition": "De deuren worden om negen uur gesloten.",
+    "example": "habitual passive: worden... gesloten"
+  },
+  {
+    "id": 25,
+    "term": "The problem will be solved soon.",
+    "definition": "Het probleem wordt snel opgelost.",
+    "example": "'worden' also covers the future passive here"
+  },
+  {
+    "id": 26,
+    "term": "The bridge was destroyed during the war.",
+    "definition": "De brug is tijdens de oorlog verwoest.",
+    "example": "passive: is verwoest"
+  },
+  {
+    "id": 27,
+    "term": "This song is known all over the world.",
+    "definition": "Dit lied is over de hele wereld bekend.",
+    "example": "'bekend zijn' — the natural way to say 'to be known', not a literal passive of 'kennen'"
+  },
+  {
+    "id": 28,
+    "term": "The cake was eaten by the children.",
+    "definition": "De taart is door de kinderen opgegeten.",
+    "example": "'door' introduces the agent in a passive"
+  },
+  {
+    "id": 29,
+    "term": "New rules were introduced last year.",
+    "definition": "Vorig jaar zijn nieuwe regels ingevoerd.",
+    "example": "plural passive: zijn... ingevoerd"
+  },
+  {
+    "id": 30,
+    "term": "The window was broken by the storm.",
+    "definition": "Het raam is door de storm kapotgemaakt.",
+    "example": "passive with 'door' + agent"
+  },
+  {
+    "id": 31,
+    "term": "It's said that he is very talented.",
+    "definition": "Er wordt gezegd dat hij erg getalenteerd is.",
+    "example": "'er wordt gezegd' — the impersonal passive"
+  },
+  {
+    "id": 32,
+    "term": "It's getting dark.",
+    "definition": "Het wordt donker.",
+    "example": "'worden' = to become"
+  },
+  {
+    "id": 33,
+    "term": "It's getting cold outside.",
+    "definition": "Het wordt koud buiten.",
+    "example": "'worden' for a change in progress"
+  },
+  {
+    "id": 34,
+    "term": "How do you say this in Dutch?",
+    "definition": "Hoe zeg je dit in het Nederlands?",
+    "example": "'in het Nederlands' — the language name needs 'het'"
+  },
+  {
+    "id": 35,
+    "term": "One eats dinner at eight here.",
+    "definition": "Hier eet men om acht uur.",
+    "example": "'men' — the generic, impersonal 'one'"
+  },
+  {
+    "id": 36,
+    "term": "You can't smoke here.",
+    "definition": "Je mag hier niet roken.",
+    "example": "generic 'je' for 'you/one'"
+  },
+  {
+    "id": 37,
+    "term": "It's not done that way.",
+    "definition": "Zo doe je dat niet.",
+    "example": "generic 'je' again"
+  },
+  {
+    "id": 38,
+    "term": "People say all sorts of things.",
+    "definition": "Mensen zeggen van alles.",
+    "example": "'mensen' as an explicit generic subject"
+  },
+  {
+    "id": 39,
+    "term": "This word is used often.",
+    "definition": "Dit woord wordt vaak gebruikt.",
+    "example": "passive: wordt... gebruikt"
+  },
+  {
+    "id": 40,
+    "term": "This is how the game is played.",
+    "definition": "Zo wordt dit spel gespeeld.",
+    "example": "passive: wordt... gespeeld"
+  },
+  {
+    "id": 41,
+    "term": "I told him to come.",
+    "definition": "Ik zei dat hij moest komen.",
+    "example": "Dutch reports a command with a 'dat'-clause and 'moeten', not a bare infinitive"
+  },
+  {
+    "id": 42,
+    "term": "She asked me to help her.",
+    "definition": "Zij vroeg of ik haar wilde helpen.",
+    "example": "'of' + 'willen' reports the request"
+  },
+  {
+    "id": 43,
+    "term": "The teacher told us to be quiet.",
+    "definition": "De leraar zei dat we stil moesten zijn.",
+    "example": "'dat... moesten zijn'"
+  },
+  {
+    "id": 44,
+    "term": "I want you to call me.",
+    "definition": "Ik wil dat je me belt.",
+    "example": "'willen dat' + clause"
+  },
+  {
+    "id": 45,
+    "term": "My mother told me not to be late.",
+    "definition": "Mijn moeder zei dat ik niet laat mocht zijn.",
+    "example": "'dat... mocht zijn'"
+  },
+  {
+    "id": 46,
+    "term": "He asked us to wait outside.",
+    "definition": "Hij vroeg of we buiten wilden wachten.",
+    "example": "'of' + 'willen'"
+  },
+  {
+    "id": 47,
+    "term": "I told them to stop.",
+    "definition": "Ik zei dat ze moesten stoppen.",
+    "example": "'dat... moesten stoppen'"
+  },
+  {
+    "id": 48,
+    "term": "She wants me to visit her.",
+    "definition": "Zij wil dat ik haar bezoek.",
+    "example": "'willen dat' + clause"
+  },
+  {
+    "id": 49,
+    "term": "The boss ordered us to finish the project.",
+    "definition": "De baas beval dat we het project moesten afmaken.",
+    "example": "'bevelen dat'"
+  },
+  {
+    "id": 50,
+    "term": "I asked her to be patient.",
+    "definition": "Ik vroeg of ze geduldig wilde zijn.",
+    "example": "'of' + 'willen zijn'"
+  },
+  {
+    "id": 51,
+    "term": "Although it was raining, we went for a walk.",
+    "definition": "Hoewel het regende, gingen we wandelen.",
+    "example": "'hoewel' = although"
+  },
+  {
+    "id": 52,
+    "term": "Even though he is tired, he keeps working.",
+    "definition": "Hoewel hij moe is, blijft hij doorwerken.",
+    "example": "'blijven' + infinitive = to keep on doing"
+  },
+  {
+    "id": 53,
+    "term": "Despite the cold, we went outside.",
+    "definition": "Ondanks de kou gingen we naar buiten.",
+    "example": "'ondanks' + noun"
+  },
+  {
+    "id": 54,
+    "term": "It's raining, but we're going out anyway.",
+    "definition": "Het regent, maar we gaan toch naar buiten.",
+    "example": "'toch' = anyway"
+  },
+  {
+    "id": 55,
+    "term": "I like her, even though she's sometimes difficult.",
+    "definition": "Ik mag haar graag, hoewel ze soms lastig is.",
+    "example": "'iemand graag mogen' = to like someone"
+  },
+  {
+    "id": 56,
+    "term": "He passed the exam despite not studying much.",
+    "definition": "Hij is voor het examen geslaagd, ondanks dat hij niet veel studeerde.",
+    "example": "'ondanks dat' + clause"
+  },
+  {
+    "id": 57,
+    "term": "It was cheap, yet good quality.",
+    "definition": "Het was goedkoop, maar toch van goede kwaliteit.",
+    "example": "'maar toch' = but yet"
+  },
+  {
+    "id": 58,
+    "term": "Nevertheless, I think we should try.",
+    "definition": "Toch denk ik dat we het moeten proberen.",
+    "example": "'toch' fronted = nevertheless"
+  },
+  {
+    "id": 59,
+    "term": "Although I disagree, I'll help you.",
+    "definition": "Hoewel ik het er niet mee eens ben, help ik je.",
+    "example": "'het ergens niet mee eens zijn' = to disagree"
+  },
+  {
+    "id": 60,
+    "term": "We won, although it wasn't easy.",
+    "definition": "We hebben gewonnen, hoewel het niet makkelijk was.",
+    "example": "'hoewel' clause after the main clause"
+  },
+  {
+    "id": 61,
+    "term": "Stay here until I come back.",
+    "definition": "Blijf hier totdat ik terugkom.",
+    "example": "'totdat' = until"
+  },
+  {
+    "id": 62,
+    "term": "I'll wait as long as you need.",
+    "definition": "Ik wacht zolang als je nodig hebt.",
+    "example": "'zolang als' = as long as"
+  },
+  {
+    "id": 63,
+    "term": "Before you leave, call me.",
+    "definition": "Voordat je vertrekt, bel me.",
+    "example": "'voordat' = before"
+  },
+  {
+    "id": 64,
+    "term": "I checked everything before I left.",
+    "definition": "Ik heb alles gecontroleerd voordat ik vertrok.",
+    "example": "'voordat' + simple past"
+  },
+  {
+    "id": 65,
+    "term": "I've known her since I was a child.",
+    "definition": "Ik ken haar sinds ik een kind was.",
+    "example": "'sinds' = since"
+  },
+  {
+    "id": 66,
+    "term": "Since he moved here, he's been much happier.",
+    "definition": "Sinds hij hierheen is verhuisd, is hij veel gelukkiger.",
+    "example": "'sinds' + perfect tense"
+  },
+  {
+    "id": 67,
+    "term": "Wait until the light turns green.",
+    "definition": "Wacht tot het licht groen wordt.",
+    "example": "'tot' = until"
+  },
+  {
+    "id": 68,
+    "term": "I won't leave until you answer me.",
+    "definition": "Ik ga niet weg totdat je me antwoordt.",
+    "example": "'totdat' = until"
+  },
+  {
+    "id": 69,
+    "term": "As soon as I get home, I'll call you.",
+    "definition": "Zodra ik thuis ben, bel ik je.",
+    "example": "'zodra' = as soon as"
+  },
+  {
+    "id": 70,
+    "term": "The moment I saw her, I knew.",
+    "definition": "Op het moment dat ik haar zag, wist ik het.",
+    "example": "'op het moment dat' = the moment that"
+  },
+  {
+    "id": 71,
+    "term": "Instead of coffee, I'll have tea.",
+    "definition": "In plaats van koffie neem ik thee.",
+    "example": "'in plaats van' = instead of"
+  },
+  {
+    "id": 72,
+    "term": "Instead of complaining, do something.",
+    "definition": "In plaats van te klagen, doe iets.",
+    "example": "'in plaats van te' + infinitive"
+  },
+  {
+    "id": 73,
+    "term": "Reading books is my favorite hobby.",
+    "definition": "Boeken lezen is mijn favoriete hobby.",
+    "example": "the bare infinitive works as a subject"
+  },
+  {
+    "id": 74,
+    "term": "Learning languages takes time.",
+    "definition": "Talen leren kost tijd.",
+    "example": "infinitive as subject"
+  },
+  {
+    "id": 75,
+    "term": "Swimming is good for your health.",
+    "definition": "Zwemmen is goed voor je gezondheid.",
+    "example": "infinitive as subject"
+  },
+  {
+    "id": 76,
+    "term": "Cooking dinner takes an hour.",
+    "definition": "Het avondeten koken kost een uur.",
+    "example": "infinitive phrase as subject"
+  },
+  {
+    "id": 77,
+    "term": "Smoking is bad for you.",
+    "definition": "Roken is slecht voor je.",
+    "example": "infinitive as subject"
+  },
+  {
+    "id": 78,
+    "term": "Waiting is the hardest part.",
+    "definition": "Wachten is het moeilijkste deel.",
+    "example": "infinitive as subject"
+  },
+  {
+    "id": 79,
+    "term": "Thank you for coming.",
+    "definition": "Bedankt dat je gekomen bent.",
+    "example": "'bedankt dat' + clause, not an infinitive"
+  },
+  {
+    "id": 80,
+    "term": "I'm tired of waiting.",
+    "definition": "Ik ben het wachten beu.",
+    "example": "'iets beu zijn' = to be tired/fed up of something"
+  },
+  {
+    "id": 81,
+    "term": "If I had known, I would have come.",
+    "definition": "Als ik het had geweten, was ik gekomen.",
+    "example": "past conditional built from simple past forms: had geweten / was gekomen"
+  },
+  {
+    "id": 82,
+    "term": "If you had called me, I would have helped.",
+    "definition": "Als je me had gebeld, had ik geholpen.",
+    "example": "same past-conditional pattern"
+  },
+  {
+    "id": 83,
+    "term": "She would have passed if she had studied more.",
+    "definition": "Zij was geslaagd als ze meer had gestudeerd.",
+    "example": "past conditional: was geslaagd / had gestudeerd"
+  },
+  {
+    "id": 84,
+    "term": "We wouldn't have been late if we had left earlier.",
+    "definition": "We waren niet te laat geweest als we eerder waren vertrokken.",
+    "example": "past conditional again"
+  },
+  {
+    "id": 85,
+    "term": "I have twenty-two books on this shelf.",
+    "definition": "Ik heb tweeëntwintig boeken op deze plank.",
+    "example": "'tweeëntwintig' — compound number, units before tens"
+  },
+  {
+    "id": 86,
+    "term": "There are thirty-five students in this class.",
+    "definition": "Er zitten vijfendertig leerlingen in deze klas.",
+    "example": "'zitten' — common Dutch verb for people being 'in' a class"
+  },
+  {
+    "id": 87,
+    "term": "I have been living here for eleven years.",
+    "definition": "Ik woon hier al elf jaar.",
+    "example": "present tense + 'al' for an ongoing span"
+  },
+  {
+    "id": 88,
+    "term": "The building has one hundred rooms.",
+    "definition": "Het gebouw heeft honderd kamers.",
+    "example": "'honderd' = one hundred exactly"
+  },
+  {
+    "id": 89,
+    "term": "I paid two hundred euros for this.",
+    "definition": "Ik heb hiervoor tweehonderd euro betaald.",
+    "example": "'euro' stays singular after a number"
+  },
+  {
+    "id": 90,
+    "term": "Only one person answered correctly.",
+    "definition": "Maar één persoon antwoordde goed.",
+    "example": "'maar' here means 'only'"
+  },
+  {
+    "id": 91,
+    "term": "He passed the exam, which made his parents happy.",
+    "definition": "Hij is geslaagd voor het examen, wat zijn ouders blij maakte.",
+    "example": "'wat' refers back to the whole preceding clause"
+  },
+  {
+    "id": 92,
+    "term": "She was late, which annoyed the teacher.",
+    "definition": "Zij was laat, wat de leraar irriteerde.",
+    "example": "'wat' again refers to the whole event"
+  },
+  {
+    "id": 93,
+    "term": "This is the best restaurant of all the ones I know.",
+    "definition": "Dit is het beste restaurant van allemaal die ik ken.",
+    "example": "'van allemaal die' = of all the ones that"
+  },
+  {
+    "id": 94,
+    "term": "He is the smartest of all my friends.",
+    "definition": "Hij is de slimste van al mijn vrienden.",
+    "example": "superlative + 'van al'"
+  },
+  {
+    "id": 95,
+    "term": "To be honest, I don't understand this.",
+    "definition": "Eerlijk gezegd begrijp ik dit niet.",
+    "example": "'eerlijk gezegd' = to be honest, a fixed opener"
+  },
+  {
+    "id": 96,
+    "term": "Generally speaking, the weather here is nice.",
+    "definition": "Over het algemeen is het weer hier mooi.",
+    "example": "'over het algemeen' = generally speaking"
+  },
+  {
+    "id": 97,
+    "term": "As far as I know, the shop is closed today.",
+    "definition": "Voor zover ik weet, is de winkel vandaag gesloten.",
+    "example": "'voor zover ik weet' = as far as I know"
+  },
+  {
+    "id": 98,
+    "term": "In my opinion, this is the right decision.",
+    "definition": "Naar mijn mening is dit de juiste beslissing.",
+    "example": "'naar mijn mening' = in my opinion"
+  },
+  {
+    "id": 99,
+    "term": "All things considered, it went well.",
+    "definition": "Al met al ging het goed.",
+    "example": "'al met al' = all things considered"
+  },
+  {
+    "id": 100,
+    "term": "In the end, everything turned out fine.",
+    "definition": "Uiteindelijk kwam alles goed.",
+    "example": "'uiteindelijk' = in the end"
+  }
+];
+window.QM_PHRASES_NL_DATA = [
+  {
+    "id": 1,
+    "term": "Good morning!",
+    "definition": "Goedemorgen!",
+    "example": "used until roughly midday"
+  },
+  {
+    "id": 2,
+    "term": "Good evening!",
+    "definition": "Goedenavond!",
+    "example": "used from early evening onward"
+  },
+  {
+    "id": 3,
+    "term": "Good night!",
+    "definition": "Welterusten!",
+    "example": "literally 'sleep well' — the standard farewell before bed"
+  },
+  {
+    "id": 4,
+    "term": "Hi! (informal)",
+    "definition": "Hoi!",
+    "example": "works at any time of day, casual register"
+  },
+  {
+    "id": 5,
+    "term": "How are you?",
+    "definition": "Hoe gaat het met je?",
+    "example": "'je' — informal address"
+  },
+  {
+    "id": 6,
+    "term": "I'm fine, thanks. And you?",
+    "definition": "Goed, bedankt. En met jou?",
+    "example": "'jou' — stressed object form of 'je'"
+  },
+  {
+    "id": 7,
+    "term": "Long time no see!",
+    "definition": "Lang niet gezien!",
+    "example": "literally 'long not seen'"
+  },
+  {
+    "id": 8,
+    "term": "Welcome!",
+    "definition": "Welkom!",
+    "example": "one word, no gender agreement needed"
+  },
+  {
+    "id": 9,
+    "term": "Nice to see you again.",
+    "definition": "Leuk je weer te zien.",
+    "example": "'weer' = again"
+  },
+  {
+    "id": 10,
+    "term": "What's up? (very informal)",
+    "definition": "Hoe is het?",
+    "example": "casual, among friends"
+  },
+  {
+    "id": 11,
+    "term": "Goodbye!",
+    "definition": "Tot ziens!",
+    "example": "literally 'until seeing (again)' — the standard farewell"
+  },
+  {
+    "id": 12,
+    "term": "See you later!",
+    "definition": "Tot straks!",
+    "example": "'tot' + time expression is the productive farewell pattern"
+  },
+  {
+    "id": 13,
+    "term": "See you tomorrow!",
+    "definition": "Tot morgen!",
+    "example": "same pattern: tot + morgen"
+  },
+  {
+    "id": 14,
+    "term": "Take care!",
+    "definition": "Pas goed op jezelf!",
+    "example": "'oppassen op' = to take care of"
+  },
+  {
+    "id": 15,
+    "term": "Have a good day!",
+    "definition": "Fijne dag!",
+    "example": "short, everyday send-off"
+  },
+  {
+    "id": 16,
+    "term": "Bye! (informal)",
+    "definition": "Doei!",
+    "example": "casual, common among friends"
+  },
+  {
+    "id": 17,
+    "term": "Until next time!",
+    "definition": "Tot de volgende keer!",
+    "example": "'tot de volgende keer'"
+  },
+  {
+    "id": 18,
+    "term": "Have a safe trip!",
+    "definition": "Goede reis!",
+    "example": "the standard send-off for travelers"
+  },
+  {
+    "id": 19,
+    "term": "Good night, sleep well.",
+    "definition": "Welterusten, slaap lekker.",
+    "example": "'slaap lekker' reinforces the same wish"
+  },
+  {
+    "id": 20,
+    "term": "Take care of yourself.",
+    "definition": "Zorg goed voor jezelf.",
+    "example": "'zorgen voor' = to take care of"
+  },
+  {
+    "id": 21,
+    "term": "Please.",
+    "definition": "Alsjeblieft.",
+    "example": "the informal form; 'alstublieft' is the formal counterpart"
+  },
+  {
+    "id": 22,
+    "term": "Thank you.",
+    "definition": "Dank je.",
+    "example": "informal 'je' register"
+  },
+  {
+    "id": 23,
+    "term": "Thank you very much.",
+    "definition": "Heel erg bedankt.",
+    "example": "'heel erg' intensifies the thanks"
+  },
+  {
+    "id": 24,
+    "term": "You're welcome.",
+    "definition": "Graag gedaan.",
+    "example": "literally 'gladly done'"
+  },
+  {
+    "id": 25,
+    "term": "No problem.",
+    "definition": "Geen probleem.",
+    "example": "'geen' negates the noun"
+  },
+  {
+    "id": 26,
+    "term": "Excuse me.",
+    "definition": "Sorry.",
+    "example": "borrowed and universally used"
+  },
+  {
+    "id": 27,
+    "term": "I'm really sorry.",
+    "definition": "Het spijt me echt.",
+    "example": "'het spijt me' = I'm sorry, a fixed impersonal phrase"
+  },
+  {
+    "id": 28,
+    "term": "Pardon? (didn't hear)",
+    "definition": "Wat zei je?",
+    "example": "literally 'what did you say'"
+  },
+  {
+    "id": 29,
+    "term": "No worries.",
+    "definition": "Geen zorgen.",
+    "example": "'geen' negates the noun"
+  },
+  {
+    "id": 30,
+    "term": "It's my pleasure.",
+    "definition": "Met plezier!",
+    "example": "literally 'with pleasure' — a warmer variant than 'graag gedaan'"
+  },
+  {
+    "id": 31,
+    "term": "My name is Anna.",
+    "definition": "Ik heet Anna.",
+    "example": "'heten' = to be called"
+  },
+  {
+    "id": 32,
+    "term": "Nice to meet you.",
+    "definition": "Leuk je te ontmoeten.",
+    "example": "'leuk je te' + infinitive"
+  },
+  {
+    "id": 33,
+    "term": "This is my friend Marco.",
+    "definition": "Dit is mijn vriend Marco.",
+    "example": "introducing someone"
+  },
+  {
+    "id": 34,
+    "term": "Where are you from?",
+    "definition": "Waar kom je vandaan?",
+    "example": "'vandaan komen' = to be from"
+  },
+  {
+    "id": 35,
+    "term": "I'm from England.",
+    "definition": "Ik kom uit Engeland.",
+    "example": "'komen uit' + country"
+  },
+  {
+    "id": 36,
+    "term": "What do you do for a living?",
+    "definition": "Wat doe je voor werk?",
+    "example": "asking about someone's job"
+  },
+  {
+    "id": 37,
+    "term": "I'm a student.",
+    "definition": "Ik ben student.",
+    "example": "no article before a profession/status noun"
+  },
+  {
+    "id": 38,
+    "term": "Likewise!",
+    "definition": "Insgelijks!",
+    "example": "a quick reply to a nice wish"
+  },
+  {
+    "id": 39,
+    "term": "It was nice meeting you.",
+    "definition": "Het was leuk je te ontmoeten.",
+    "example": "past tense: was, said when parting"
+  },
+  {
+    "id": 40,
+    "term": "Let's keep in touch.",
+    "definition": "Laten we contact houden.",
+    "example": "'contact houden' = to keep in touch"
+  },
+  {
+    "id": 41,
+    "term": "Happy birthday!",
+    "definition": "Gefeliciteerd met je verjaardag!",
+    "example": "'gefeliciteerd met' + occasion"
+  },
+  {
+    "id": 42,
+    "term": "Congratulations!",
+    "definition": "Van harte gefeliciteerd!",
+    "example": "'van harte' emphasizes this as general, heartfelt congratulations"
+  },
+  {
+    "id": 43,
+    "term": "Good luck!",
+    "definition": "Succes!",
+    "example": "one word, the standard well-wish"
+  },
+  {
+    "id": 44,
+    "term": "Best wishes!",
+    "definition": "Veel geluk gewenst!",
+    "example": "a warmer, more formal well-wish"
+  },
+  {
+    "id": 45,
+    "term": "Get well soon!",
+    "definition": "Beterschap!",
+    "example": "one word, said to someone unwell"
+  },
+  {
+    "id": 46,
+    "term": "Happy New Year!",
+    "definition": "Gelukkig Nieuwjaar!",
+    "example": "'gelukkig' + occasion, a productive pattern"
+  },
+  {
+    "id": 47,
+    "term": "Merry Christmas!",
+    "definition": "Fijne Kerst!",
+    "example": "'fijne' + occasion"
+  },
+  {
+    "id": 48,
+    "term": "Cheers! (a toast)",
+    "definition": "Proost!",
+    "example": "the standard toast"
+  },
+  {
+    "id": 49,
+    "term": "Have fun!",
+    "definition": "Veel plezier!",
+    "example": "'veel plezier' = have fun"
+  },
+  {
+    "id": 50,
+    "term": "Enjoy your meal!",
+    "definition": "Eet smakelijk!",
+    "example": "said before eating"
+  },
+  {
+    "id": 51,
+    "term": "Can you help me, please?",
+    "definition": "Kun je me helpen, alsjeblieft?",
+    "example": "'kunnen' + infinitive"
+  },
+  {
+    "id": 52,
+    "term": "I need help.",
+    "definition": "Ik heb hulp nodig.",
+    "example": "'nodig hebben' = to need"
+  },
+  {
+    "id": 53,
+    "term": "Where is the bathroom?",
+    "definition": "Waar is het toilet?",
+    "example": "'het toilet' — the common everyday word"
+  },
+  {
+    "id": 54,
+    "term": "How much does this cost?",
+    "definition": "Hoeveel kost dit?",
+    "example": "'kosten' = to cost"
+  },
+  {
+    "id": 55,
+    "term": "Do you have this in another color?",
+    "definition": "Heb je dit in een andere kleur?",
+    "example": "'in een andere kleur' = in another color"
+  },
+  {
+    "id": 56,
+    "term": "Can I have the bill, please?",
+    "definition": "Mag ik de rekening, alstublieft?",
+    "example": "'de rekening' — the check at a restaurant"
+  },
+  {
+    "id": 57,
+    "term": "One moment, please.",
+    "definition": "Een ogenblikje, alstublieft.",
+    "example": "diminutive '-je' softens 'ogenblik' into a polite phrase"
+  },
+  {
+    "id": 58,
+    "term": "Could you repeat that?",
+    "definition": "Kun je dat herhalen?",
+    "example": "'kunnen' + infinitive"
+  },
+  {
+    "id": 59,
+    "term": "I don't understand.",
+    "definition": "Ik begrijp het niet.",
+    "example": "'begrijpen' = to understand"
+  },
+  {
+    "id": 60,
+    "term": "Could you speak more slowly?",
+    "definition": "Kun je iets langzamer praten?",
+    "example": "'iets langzamer' = a bit more slowly"
+  },
+  {
+    "id": 61,
+    "term": "I agree.",
+    "definition": "Ik ben het ermee eens.",
+    "example": "'het ermee eens zijn' = to agree"
+  },
+  {
+    "id": 62,
+    "term": "I don't agree.",
+    "definition": "Ik ben het er niet mee eens.",
+    "example": "negated version"
+  },
+  {
+    "id": 63,
+    "term": "That's true.",
+    "definition": "Dat is waar.",
+    "example": "'waar' = true"
+  },
+  {
+    "id": 64,
+    "term": "That's not true.",
+    "definition": "Dat is niet waar.",
+    "example": "negated version"
+  },
+  {
+    "id": 65,
+    "term": "I think so.",
+    "definition": "Ik denk het wel.",
+    "example": "'wel' affirms the thought"
+  },
+  {
+    "id": 66,
+    "term": "I don't think so.",
+    "definition": "Ik denk het niet.",
+    "example": "'niet' negates it"
+  },
+  {
+    "id": 67,
+    "term": "Sounds good.",
+    "definition": "Klinkt goed.",
+    "example": "'klinken' = to sound"
+  },
+  {
+    "id": 68,
+    "term": "No way!",
+    "definition": "Echt niet!",
+    "example": "an emphatic refusal"
+  },
+  {
+    "id": 69,
+    "term": "Of course!",
+    "definition": "Natuurlijk!",
+    "example": "an emphatic agreement"
+  },
+  {
+    "id": 70,
+    "term": "Maybe.",
+    "definition": "Misschien.",
+    "example": "a single-word hedge"
+  },
+  {
+    "id": 71,
+    "term": "Really?",
+    "definition": "Echt waar?",
+    "example": "expressing mild disbelief"
+  },
+  {
+    "id": 72,
+    "term": "Wow!",
+    "definition": "Wauw!",
+    "example": "an interjection of surprise"
+  },
+  {
+    "id": 73,
+    "term": "That's great!",
+    "definition": "Dat is geweldig!",
+    "example": "'geweldig' = great"
+  },
+  {
+    "id": 74,
+    "term": "I'm sorry to hear that.",
+    "definition": "Wat vervelend om te horen.",
+    "example": "'wat vervelend' — an exclamatory sympathy phrase"
+  },
+  {
+    "id": 75,
+    "term": "What a shame.",
+    "definition": "Wat jammer.",
+    "example": "'wat jammer' — a fixed exclamation of sympathy"
+  },
+  {
+    "id": 76,
+    "term": "Oh no!",
+    "definition": "O nee!",
+    "example": "'o' — a common interjection of dismay"
+  },
+  {
+    "id": 77,
+    "term": "Exactly!",
+    "definition": "Precies!",
+    "example": "an emphatic agreement"
+  },
+  {
+    "id": 78,
+    "term": "I see.",
+    "definition": "Ik snap het.",
+    "example": "'snappen' — a colloquial verb for understanding"
+  },
+  {
+    "id": 79,
+    "term": "That makes sense.",
+    "definition": "Dat is logisch.",
+    "example": "'logisch' = logical/that makes sense"
+  },
+  {
+    "id": 80,
+    "term": "That's interesting.",
+    "definition": "Dat is interessant.",
+    "example": "straightforward observation"
+  },
+  {
+    "id": 81,
+    "term": "Hello? (on the phone)",
+    "definition": "Hallo?",
+    "example": "the standard Dutch phone greeting"
+  },
+  {
+    "id": 82,
+    "term": "Who's calling?",
+    "definition": "Met wie spreek ik?",
+    "example": "literally 'with whom am I speaking' — the standard phone phrase"
+  },
+  {
+    "id": 83,
+    "term": "Can I call you back?",
+    "definition": "Kan ik je terugbellen?",
+    "example": "separable verb 'terugbellen'"
+  },
+  {
+    "id": 84,
+    "term": "It was nice talking to you.",
+    "definition": "Het was leuk om met je te praten.",
+    "example": "'om... te' + infinitive"
+  },
+  {
+    "id": 85,
+    "term": "See you at the party!",
+    "definition": "Tot op het feestje!",
+    "example": "'tot op' + place/event"
+  },
+  {
+    "id": 86,
+    "term": "I'll text you.",
+    "definition": "Ik app je wel.",
+    "example": "'appen' — a colloquial verb from WhatsApp"
+  },
+  {
+    "id": 87,
+    "term": "Take it easy!",
+    "definition": "Rustig aan!",
+    "example": "'rustig aan' = take it easy"
+  },
+  {
+    "id": 88,
+    "term": "All the best!",
+    "definition": "Het allerbeste!",
+    "example": "a warm closing wish"
+  },
+  {
+    "id": 89,
+    "term": "I'll be right there.",
+    "definition": "Ik kom er zo aan.",
+    "example": "separable verb 'aankomen' with 'zo' = soon"
+  },
+  {
+    "id": 90,
+    "term": "I'm on my way.",
+    "definition": "Ik ben onderweg.",
+    "example": "'onderweg' = on the way"
+  },
+  {
+    "id": 91,
+    "term": "Watch out!",
+    "definition": "Pas op!",
+    "example": "separable verb 'opletten/oppassen' as a bare warning"
+  },
+  {
+    "id": 92,
+    "term": "No rush.",
+    "definition": "Geen haast.",
+    "example": "'geen' negates the noun"
+  },
+  {
+    "id": 93,
+    "term": "After you.",
+    "definition": "Na jou.",
+    "example": "a small courtesy at a doorway"
+  },
+  {
+    "id": 94,
+    "term": "Make yourself at home.",
+    "definition": "Doe alsof je thuis bent.",
+    "example": "'alsof' = as if"
+  },
+  {
+    "id": 95,
+    "term": "It's on me. (paying)",
+    "definition": "Ik trakteer!",
+    "example": "'trakteren' = to treat/pay for someone"
+  },
+  {
+    "id": 96,
+    "term": "Let's go!",
+    "definition": "Laten we gaan!",
+    "example": "'laten we' + infinitive"
+  },
+  {
+    "id": 97,
+    "term": "Welcome home!",
+    "definition": "Welkom thuis!",
+    "example": "'welkom' + thuis"
+  },
+  {
+    "id": 98,
+    "term": "Get home safe!",
+    "definition": "Kom goed thuis!",
+    "example": "informal imperative: kom"
+  },
+  {
+    "id": 99,
+    "term": "I'm looking forward to it.",
+    "definition": "Ik heb er zin in.",
+    "example": "'zin hebben in' = to look forward to/feel like"
+  },
+  {
+    "id": 100,
+    "term": "Thanks for everything.",
+    "definition": "Bedankt voor alles.",
+    "example": "'bedankt voor' + noun"
   }
 ];
