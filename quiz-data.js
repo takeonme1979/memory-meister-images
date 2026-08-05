@@ -2650,7 +2650,15 @@ window.QM_HIDDEN_QUIZZES = [
   "ltIntermediateSentences",
   "rltIntermediateSentences",
   "ltPhrases",
-  "rltPhrases"
+  "rltPhrases",
+  "ukUpperBeginnerSentences",
+  "rukUpperBeginnerSentences",
+  "ukLowerIntSentences",
+  "rukLowerIntSentences",
+  "ukIntermediateSentences",
+  "rukIntermediateSentences",
+  "ukPhrases",
+  "rukPhrases"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -131931,5 +131939,2413 @@ window.QM_PHRASES_LT_DATA = [
     "term": "Thanks for everything.",
     "definition": "Ačiū už viską.",
     "example": "'ačiū už' + accusative"
+  }
+];
+window.QM_SENTENCES_UK_UPPERBEGINNER_DATA = [
+  {
+    "id": 1,
+    "term": "My father is a farmer.",
+    "definition": "Мій тато фермер.",
+    "example": "zero copula — no verb needed for a simple identity statement"
+  },
+  {
+    "id": 2,
+    "term": "My mother is a teacher.",
+    "definition": "Моя мама вчителька.",
+    "example": "feminine profession noun"
+  },
+  {
+    "id": 3,
+    "term": "I have two brothers and one sister.",
+    "definition": "У мене два брати і одна сестра.",
+    "example": "'у мене' — the standard Ukrainian possession construction, literally 'at me'"
+  },
+  {
+    "id": 4,
+    "term": "My grandmother lives with us.",
+    "definition": "Моя бабуся живе з нами.",
+    "example": "'з' + instrumental = with"
+  },
+  {
+    "id": 5,
+    "term": "Our family is very big.",
+    "definition": "Наша сім'я дуже велика.",
+    "example": "'наша' — feminine agreement with сім'я"
+  },
+  {
+    "id": 6,
+    "term": "My son is five years old.",
+    "definition": "Моєму сину п'ять років.",
+    "example": "dative case states the age-holder: моєму сину"
+  },
+  {
+    "id": 7,
+    "term": "My daughter likes to draw.",
+    "definition": "Моя донька любить малювати.",
+    "example": "'любити' + infinitive = to like doing"
+  },
+  {
+    "id": 8,
+    "term": "We have a small dog and a big cat.",
+    "definition": "У нас є маленький пес і великий кіт.",
+    "example": "'у нас є' — possession with an optional 'є' for emphasis"
+  },
+  {
+    "id": 9,
+    "term": "My parents are on vacation.",
+    "definition": "Мої батьки у відпустці.",
+    "example": "locative: у відпустці"
+  },
+  {
+    "id": 10,
+    "term": "My best friend has three children.",
+    "definition": "У мого найкращого друга троє дітей.",
+    "example": "genitive possessor: у мого друга"
+  },
+  {
+    "id": 11,
+    "term": "I wake up early on Mondays.",
+    "definition": "По понеділках я прокидаюся рано.",
+    "example": "'по' + locative plural = on (repeated days)"
+  },
+  {
+    "id": 12,
+    "term": "On Saturdays, I sleep late.",
+    "definition": "По суботах я довго сплю.",
+    "example": "same 'по' + locative plural pattern"
+  },
+  {
+    "id": 13,
+    "term": "Today is Tuesday.",
+    "definition": "Сьогодні вівторок.",
+    "example": "zero copula, no article needed"
+  },
+  {
+    "id": 14,
+    "term": "Tomorrow is my birthday.",
+    "definition": "Завтра мій день народження.",
+    "example": "same simple pattern"
+  },
+  {
+    "id": 15,
+    "term": "Yesterday was a busy day.",
+    "definition": "Вчора був насичений день.",
+    "example": "past tense of 'бути' does appear here: був"
+  },
+  {
+    "id": 16,
+    "term": "In the morning, I drink coffee.",
+    "definition": "Вранці я п'ю каву.",
+    "example": "'вранці' = in the morning"
+  },
+  {
+    "id": 17,
+    "term": "In the evening, we watch television.",
+    "definition": "Увечері ми дивимося телевізор.",
+    "example": "'увечері' = in the evening"
+  },
+  {
+    "id": 18,
+    "term": "At night, I read a book.",
+    "definition": "Вночі я читаю книгу.",
+    "example": "'вночі' = at night"
+  },
+  {
+    "id": 19,
+    "term": "This afternoon, I have a meeting.",
+    "definition": "Сьогодні вдень у мене зустріч.",
+    "example": "'у мене' — possession again"
+  },
+  {
+    "id": 20,
+    "term": "Every weekend, we visit my parents.",
+    "definition": "Кожні вихідні ми відвідуємо моїх батьків.",
+    "example": "accusative object: моїх батьків"
+  },
+  {
+    "id": 21,
+    "term": "I would like a glass of water.",
+    "definition": "Я хотів би склянку води.",
+    "example": "'хотів би' — conditional of 'хотіти', the polite 'I would like' (masculine speaker)"
+  },
+  {
+    "id": 22,
+    "term": "Can I have the menu, please?",
+    "definition": "Можна мені меню, будь ласка?",
+    "example": "'можна' + dative = can I have"
+  },
+  {
+    "id": 23,
+    "term": "This soup is delicious.",
+    "definition": "Цей суп смачний.",
+    "example": "'цей' — masculine 'this'"
+  },
+  {
+    "id": 24,
+    "term": "I don't eat meat.",
+    "definition": "Я не їм м'яса.",
+    "example": "negated verbs take the genitive object: м'яса, not accusative"
+  },
+  {
+    "id": 25,
+    "term": "She likes sweet food.",
+    "definition": "Вона любить солодку їжу.",
+    "example": "accusative: їжу"
+  },
+  {
+    "id": 26,
+    "term": "We are having pizza for dinner.",
+    "definition": "Ми їмо піцу на вечерю.",
+    "example": "'на вечерю' = for dinner"
+  },
+  {
+    "id": 27,
+    "term": "The bread is fresh.",
+    "definition": "Хліб свіжий.",
+    "example": "no copula needed"
+  },
+  {
+    "id": 28,
+    "term": "I usually drink tea, not coffee.",
+    "definition": "Я зазвичай п'ю чай, а не каву.",
+    "example": "'а не' = and not"
+  },
+  {
+    "id": 29,
+    "term": "This restaurant is very popular.",
+    "definition": "Цей ресторан дуже популярний.",
+    "example": "no copula needed"
+  },
+  {
+    "id": 30,
+    "term": "The food here is cheap.",
+    "definition": "Їжа тут дешева.",
+    "example": "'тут' = here"
+  },
+  {
+    "id": 31,
+    "term": "It is sunny today.",
+    "definition": "Сьогодні сонячно.",
+    "example": "impersonal adverb form, no subject needed"
+  },
+  {
+    "id": 32,
+    "term": "It is raining outside.",
+    "definition": "Надворі дощить.",
+    "example": "'дощити' — impersonal weather verb"
+  },
+  {
+    "id": 33,
+    "term": "It is very windy.",
+    "definition": "Дуже вітряно.",
+    "example": "impersonal adverb form"
+  },
+  {
+    "id": 34,
+    "term": "It is snowing in the mountains.",
+    "definition": "У горах іде сніг.",
+    "example": "'іде сніг' = it's snowing, literally 'snow goes'"
+  },
+  {
+    "id": 35,
+    "term": "The weather is nice this week.",
+    "definition": "Цього тижня гарна погода.",
+    "example": "genitive: цього тижня"
+  },
+  {
+    "id": 36,
+    "term": "It is cloudy this morning.",
+    "definition": "Сьогодні вранці хмарно.",
+    "example": "impersonal adverb: хмарно"
+  },
+  {
+    "id": 37,
+    "term": "It is hot in the summer.",
+    "definition": "Влітку спекотно.",
+    "example": "'влітку' = in summer"
+  },
+  {
+    "id": 38,
+    "term": "It is cold in the winter.",
+    "definition": "Взимку холодно.",
+    "example": "'взимку' = in winter"
+  },
+  {
+    "id": 39,
+    "term": "There is a storm coming.",
+    "definition": "Насувається буря.",
+    "example": "reflexive verb: насуватися"
+  },
+  {
+    "id": 40,
+    "term": "The sky is blue today.",
+    "definition": "Сьогодні небо блакитне.",
+    "example": "no copula needed"
+  },
+  {
+    "id": 41,
+    "term": "I visited my grandparents last week.",
+    "definition": "Минулого тижня я відвідав своїх бабусю й дідуся.",
+    "example": "perfective past, masculine: відвідав"
+  },
+  {
+    "id": 42,
+    "term": "We watched a good movie yesterday.",
+    "definition": "Вчора ми подивилися хороший фільм.",
+    "example": "perfective: подивилися"
+  },
+  {
+    "id": 43,
+    "term": "She cooked dinner for us.",
+    "definition": "Вона приготувала нам вечерю.",
+    "example": "dative 'нам' = for us"
+  },
+  {
+    "id": 44,
+    "term": "They traveled to Spain last summer.",
+    "definition": "Минулого літа вони поїхали в Іспанію.",
+    "example": "'в' + accusative = to (a country)"
+  },
+  {
+    "id": 45,
+    "term": "I finished my homework early.",
+    "definition": "Я рано закінчив домашнє завдання.",
+    "example": "perfective, masculine: закінчив"
+  },
+  {
+    "id": 46,
+    "term": "He bought a new car.",
+    "definition": "Він купив нову машину.",
+    "example": "perfective: купив"
+  },
+  {
+    "id": 47,
+    "term": "We walked to the park.",
+    "definition": "Ми пішли пішки до парку.",
+    "example": "'пішки' = on foot"
+  },
+  {
+    "id": 48,
+    "term": "I called my friend this morning.",
+    "definition": "Сьогодні вранці я подзвонив другу.",
+    "example": "'дзвонити' takes a dative object: другу"
+  },
+  {
+    "id": 49,
+    "term": "She sold her old bicycle.",
+    "definition": "Вона продала свій старий велосипед.",
+    "example": "'свій' — the reflexive possessive, used since the owner is the subject"
+  },
+  {
+    "id": 50,
+    "term": "We celebrated his birthday together.",
+    "definition": "Ми разом святкували його день народження.",
+    "example": "'його' = his (not reflexive, since the owner isn't the subject)"
+  },
+  {
+    "id": 51,
+    "term": "I am going to visit my aunt.",
+    "definition": "Я збираюся відвідати свою тітку.",
+    "example": "'збиратися' + infinitive — the standard 'going to'"
+  },
+  {
+    "id": 52,
+    "term": "We are going to have a party.",
+    "definition": "Ми влаштуємо вечірку.",
+    "example": "simple future: влаштуємо"
+  },
+  {
+    "id": 53,
+    "term": "She is going to start a new job.",
+    "definition": "Вона почне нову роботу.",
+    "example": "simple future: почне"
+  },
+  {
+    "id": 54,
+    "term": "They are going to move to a new city.",
+    "definition": "Вони переїдуть у нове місто.",
+    "example": "simple future: переїдуть"
+  },
+  {
+    "id": 55,
+    "term": "I am going to buy a new phone.",
+    "definition": "Я куплю новий телефон.",
+    "example": "simple future: куплю"
+  },
+  {
+    "id": 56,
+    "term": "He is going to learn to swim.",
+    "definition": "Він навчиться плавати.",
+    "example": "simple future: навчиться"
+  },
+  {
+    "id": 57,
+    "term": "We are going to travel next month.",
+    "definition": "Ми подорожуватимемо наступного місяця.",
+    "example": "imperfective future: подорожуватимемо"
+  },
+  {
+    "id": 58,
+    "term": "I am going to cook dinner tonight.",
+    "definition": "Я приготую вечерю сьогодні ввечері.",
+    "example": "simple future: приготую"
+  },
+  {
+    "id": 59,
+    "term": "She is going to call you later.",
+    "definition": "Вона подзвонить тобі пізніше.",
+    "example": "simple future: подзвонить"
+  },
+  {
+    "id": 60,
+    "term": "They are going to arrive tomorrow.",
+    "definition": "Вони прибудуть завтра.",
+    "example": "simple future: прибудуть"
+  },
+  {
+    "id": 61,
+    "term": "I like coffee and tea.",
+    "definition": "Мені подобаються кава і чай.",
+    "example": "dative experiencer: мені подобаються"
+  },
+  {
+    "id": 62,
+    "term": "She is smart and kind.",
+    "definition": "Вона розумна і добра.",
+    "example": "no copula needed"
+  },
+  {
+    "id": 63,
+    "term": "I want to go, but I am tired.",
+    "definition": "Я хочу піти, але я втомлений.",
+    "example": "'але' = but"
+  },
+  {
+    "id": 64,
+    "term": "He is tall, but his brother is short.",
+    "definition": "Він високий, а його брат низький.",
+    "example": "'а' — a contrastive 'but'"
+  },
+  {
+    "id": 65,
+    "term": "Do you want tea or coffee?",
+    "definition": "Ти хочеш чай чи каву?",
+    "example": "'чи' = or"
+  },
+  {
+    "id": 66,
+    "term": "You can call me or send a message.",
+    "definition": "Ти можеш подзвонити мені або надіслати повідомлення.",
+    "example": "'або' = or, linking two actions"
+  },
+  {
+    "id": 67,
+    "term": "I stayed home because it was raining.",
+    "definition": "Я залишився вдома, бо йшов дощ.",
+    "example": "'бо' = because"
+  },
+  {
+    "id": 68,
+    "term": "She was late because of the traffic.",
+    "definition": "Вона запізнилася через затори.",
+    "example": "'через' = because of"
+  },
+  {
+    "id": 69,
+    "term": "I am happy because I passed the test.",
+    "definition": "Я щасливий, бо склав тест.",
+    "example": "'бо' clause"
+  },
+  {
+    "id": 70,
+    "term": "He is tired because he worked all day.",
+    "definition": "Він втомлений, бо працював цілий день.",
+    "example": "'бо' clause"
+  },
+  {
+    "id": 71,
+    "term": "The bank is near the school.",
+    "definition": "Банк знаходиться біля школи.",
+    "example": "'біля' + genitive = near"
+  },
+  {
+    "id": 72,
+    "term": "The park is far from here.",
+    "definition": "Парк далеко звідси.",
+    "example": "'звідси' = from here"
+  },
+  {
+    "id": 73,
+    "term": "Turn left at the corner.",
+    "definition": "На розі поверни ліворуч.",
+    "example": "'ліворуч' = to the left"
+  },
+  {
+    "id": 74,
+    "term": "Turn right at the traffic light.",
+    "definition": "На світлофорі поверни праворуч.",
+    "example": "'праворуч' = to the right"
+  },
+  {
+    "id": 75,
+    "term": "Go straight ahead.",
+    "definition": "Іди прямо.",
+    "example": "'прямо' = straight ahead"
+  },
+  {
+    "id": 76,
+    "term": "The hospital is next to the church.",
+    "definition": "Лікарня поруч із церквою.",
+    "example": "'поруч із' + instrumental = next to"
+  },
+  {
+    "id": 77,
+    "term": "The store is across from the hotel.",
+    "definition": "Магазин навпроти готелю.",
+    "example": "'навпроти' + genitive = across from"
+  },
+  {
+    "id": 78,
+    "term": "It is behind the building.",
+    "definition": "Це за будівлею.",
+    "example": "'за' + instrumental = behind"
+  },
+  {
+    "id": 79,
+    "term": "It is in front of the station.",
+    "definition": "Це перед вокзалом.",
+    "example": "'перед' + instrumental = in front of"
+  },
+  {
+    "id": 80,
+    "term": "The bathroom is upstairs.",
+    "definition": "Ванна кімната нагорі.",
+    "example": "'нагорі' = upstairs"
+  },
+  {
+    "id": 81,
+    "term": "The car is red.",
+    "definition": "Машина червона.",
+    "example": "no copula needed"
+  },
+  {
+    "id": 82,
+    "term": "The house is white and big.",
+    "definition": "Будинок білий і великий.",
+    "example": "no copula needed"
+  },
+  {
+    "id": 83,
+    "term": "This box is heavy.",
+    "definition": "Ця коробка важка.",
+    "example": "'ця' — feminine 'this'"
+  },
+  {
+    "id": 84,
+    "term": "That bag is light.",
+    "definition": "Та сумка легка.",
+    "example": "'та' — feminine 'that'"
+  },
+  {
+    "id": 85,
+    "term": "The room is clean.",
+    "definition": "Кімната чиста.",
+    "example": "no copula"
+  },
+  {
+    "id": 86,
+    "term": "The street is dirty.",
+    "definition": "Вулиця брудна.",
+    "example": "no copula"
+  },
+  {
+    "id": 87,
+    "term": "This road is long.",
+    "definition": "Ця дорога довга.",
+    "example": "'ця' — feminine 'this'"
+  },
+  {
+    "id": 88,
+    "term": "That path is short.",
+    "definition": "Та стежка коротка.",
+    "example": "'та' — feminine 'that'"
+  },
+  {
+    "id": 89,
+    "term": "The water is deep here.",
+    "definition": "Тут вода глибока.",
+    "example": "no copula"
+  },
+  {
+    "id": 90,
+    "term": "This lake is shallow.",
+    "definition": "Це озеро мілке.",
+    "example": "'це' — neuter 'this'"
+  },
+  {
+    "id": 91,
+    "term": "I see her every day.",
+    "definition": "Я бачу її щодня.",
+    "example": "accusative object pronoun: її"
+  },
+  {
+    "id": 92,
+    "term": "He calls me every week.",
+    "definition": "Він дзвонить мені щотижня.",
+    "example": "'дзвонити' takes a dative object: мені"
+  },
+  {
+    "id": 93,
+    "term": "We visit them on Sundays.",
+    "definition": "По неділях ми відвідуємо їх.",
+    "example": "accusative object pronoun: їх"
+  },
+  {
+    "id": 94,
+    "term": "She waits for us at the station.",
+    "definition": "Вона чекає на нас на вокзалі.",
+    "example": "'чекати на' + accusative = to wait for"
+  },
+  {
+    "id": 95,
+    "term": "I don't see him here.",
+    "definition": "Я не бачу його тут.",
+    "example": "accusative object pronoun: його"
+  },
+  {
+    "id": 96,
+    "term": "They know you well.",
+    "definition": "Вони добре тебе знають.",
+    "example": "accusative: тебе"
+  },
+  {
+    "id": 97,
+    "term": "Do you understand me?",
+    "definition": "Ти розумієш мене?",
+    "example": "accusative: мене"
+  },
+  {
+    "id": 98,
+    "term": "I love you very much.",
+    "definition": "Я дуже тебе люблю.",
+    "example": "accusative: тебе"
+  },
+  {
+    "id": 99,
+    "term": "Today's date is the fifth of August.",
+    "definition": "Сьогодні п'яте серпня.",
+    "example": "genitive month name: серпня"
+  },
+  {
+    "id": 100,
+    "term": "The number nine is my lucky number.",
+    "definition": "Число дев'ять моє щасливе число.",
+    "example": "'щасливе число' = lucky number"
+  }
+];
+window.QM_SENTENCES_UK_LOWERINT_DATA = [
+  {
+    "id": 1,
+    "term": "I want to learn Ukrainian.",
+    "definition": "Я хочу вивчити українську мову.",
+    "example": "'хотіти' + infinitive"
+  },
+  {
+    "id": 2,
+    "term": "I can help you tomorrow.",
+    "definition": "Я можу допомогти тобі завтра.",
+    "example": "'допомогти' takes a dative object: тобі"
+  },
+  {
+    "id": 3,
+    "term": "I must go now.",
+    "definition": "Я мушу йти зараз.",
+    "example": "'мусити' + infinitive"
+  },
+  {
+    "id": 4,
+    "term": "You should rest.",
+    "definition": "Тобі варто відпочити.",
+    "example": "dative + 'варто' softens it to 'should'"
+  },
+  {
+    "id": 5,
+    "term": "She should call her mother.",
+    "definition": "Їй варто подзвонити мамі.",
+    "example": "same 'варто' pattern"
+  },
+  {
+    "id": 6,
+    "term": "We want to visit Kyiv.",
+    "definition": "Ми хочемо відвідати Київ.",
+    "example": "хочемо + infinitive"
+  },
+  {
+    "id": 7,
+    "term": "They can't come today.",
+    "definition": "Вони не можуть прийти сьогодні.",
+    "example": "не можуть + infinitive"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to eat now.",
+    "definition": "Я не хочу їсти зараз.",
+    "example": "не хочу + infinitive"
+  },
+  {
+    "id": 9,
+    "term": "Do you want some tea?",
+    "definition": "Хочеш чаю?",
+    "example": "genitive/partitive object after 'хотіти': чаю"
+  },
+  {
+    "id": 10,
+    "term": "I would like to order a coffee.",
+    "definition": "Я хотів би замовити каву.",
+    "example": "'хотів би' softens the request"
+  },
+  {
+    "id": 11,
+    "term": "You have to be careful.",
+    "definition": "Ти маєш бути обережним.",
+    "example": "'мати' + infinitive = have to"
+  },
+  {
+    "id": 12,
+    "term": "It's necessary to buy bread.",
+    "definition": "Треба купити хліба.",
+    "example": "'треба' = it's necessary, no subject needed"
+  },
+  {
+    "id": 13,
+    "term": "You can smoke here.",
+    "definition": "Тут можна курити.",
+    "example": "'можна' = allowed"
+  },
+  {
+    "id": 14,
+    "term": "You can't park here.",
+    "definition": "Тут не можна паркуватися.",
+    "example": "'не можна' = not allowed"
+  },
+  {
+    "id": 15,
+    "term": "It's worth trying this soup.",
+    "definition": "Варто спробувати цей суп.",
+    "example": "'варто' = it's worth it"
+  },
+  {
+    "id": 16,
+    "term": "It's not necessary to hurry.",
+    "definition": "Не треба поспішати.",
+    "example": "'не треба' + infinitive"
+  },
+  {
+    "id": 17,
+    "term": "You shouldn't smoke.",
+    "definition": "Тобі не варто курити.",
+    "example": "negated 'варто'"
+  },
+  {
+    "id": 18,
+    "term": "One has to work hard.",
+    "definition": "Треба важко працювати.",
+    "example": "generic 'треба' + infinitive"
+  },
+  {
+    "id": 19,
+    "term": "Everyone must follow the rules.",
+    "definition": "Всі мають дотримуватися правил.",
+    "example": "'дотримуватися' + genitive = to follow/abide by"
+  },
+  {
+    "id": 20,
+    "term": "I have to finish this today.",
+    "definition": "Я маю закінчити це сьогодні.",
+    "example": "'мати' + infinitive"
+  },
+  {
+    "id": 21,
+    "term": "I like this song.",
+    "definition": "Мені подобається ця пісня.",
+    "example": "dative experiencer construction"
+  },
+  {
+    "id": 22,
+    "term": "Do you like this city?",
+    "definition": "Тобі подобається це місто?",
+    "example": "'тобі' = to you, dative"
+  },
+  {
+    "id": 23,
+    "term": "We like this restaurant.",
+    "definition": "Нам подобається цей ресторан.",
+    "example": "'нам' = to us, dative"
+  },
+  {
+    "id": 24,
+    "term": "They don't like this idea.",
+    "definition": "Їм не подобається ця ідея.",
+    "example": "'їм' = to them, dative"
+  },
+  {
+    "id": 25,
+    "term": "My head hurts.",
+    "definition": "У мене болить голова.",
+    "example": "'у мене' + 'болить' — the standard construction for bodily pain"
+  },
+  {
+    "id": 26,
+    "term": "My legs hurt.",
+    "definition": "У мене болять ноги.",
+    "example": "plural subject takes plural verb: болять"
+  },
+  {
+    "id": 27,
+    "term": "Does your stomach hurt?",
+    "definition": "У тебе болить живіт?",
+    "example": "'у тебе' = you, in this possession construction"
+  },
+  {
+    "id": 28,
+    "term": "I feel sick.",
+    "definition": "Я почуваюся погано.",
+    "example": "reflexive: почуваюся"
+  },
+  {
+    "id": 29,
+    "term": "I am cold.",
+    "definition": "Мені холодно.",
+    "example": "dative idiom, literally 'to me (it is) cold'"
+  },
+  {
+    "id": 30,
+    "term": "Are you hungry?",
+    "definition": "Ти голодний?",
+    "example": "'голодний' = hungry"
+  },
+  {
+    "id": 31,
+    "term": "The more you practice, the better you speak.",
+    "definition": "Чим більше ти практикуєшся, тим краще говориш.",
+    "example": "'чим... тим...' = the more... the more..."
+  },
+  {
+    "id": 32,
+    "term": "The sooner, the better.",
+    "definition": "Чим швидше, тим краще.",
+    "example": "same correlative, shortened"
+  },
+  {
+    "id": 33,
+    "term": "Both my sister and my brother live in Kyiv.",
+    "definition": "І моя сестра, і мій брат живуть у Києві.",
+    "example": "'і... і...' = both... and..."
+  },
+  {
+    "id": 34,
+    "term": "I like neither tea nor coffee.",
+    "definition": "Мені не подобається ні чай, ні кава.",
+    "example": "'ні... ні...' = neither... nor..."
+  },
+  {
+    "id": 35,
+    "term": "This is the most beautiful city in Ukraine.",
+    "definition": "Це найкрасивіше місто в Україні.",
+    "example": "superlative prefix най-: найкрасивіше"
+  },
+  {
+    "id": 36,
+    "term": "He is older than me.",
+    "definition": "Він старший за мене.",
+    "example": "'за' + accusative marks the comparison"
+  },
+  {
+    "id": 37,
+    "term": "This is worse than I thought.",
+    "definition": "Це гірше, ніж я думав.",
+    "example": "'ніж' = than"
+  },
+  {
+    "id": 38,
+    "term": "She sings better than he does.",
+    "definition": "Вона співає краще, ніж він.",
+    "example": "'краще, ніж' = better than"
+  },
+  {
+    "id": 39,
+    "term": "This task is easier than that one.",
+    "definition": "Це завдання легше, ніж те.",
+    "example": "'легше, ніж' = easier than"
+  },
+  {
+    "id": 40,
+    "term": "He runs the fastest on our team.",
+    "definition": "Він бігає найшвидше в нашій команді.",
+    "example": "superlative adverb: найшвидше"
+  },
+  {
+    "id": 41,
+    "term": "I think that this is a good idea.",
+    "definition": "Я думаю, що це гарна ідея.",
+    "example": "'що' = that"
+  },
+  {
+    "id": 42,
+    "term": "I know that you are right.",
+    "definition": "Я знаю, що ти маєш рацію.",
+    "example": "'мати рацію' = to be right"
+  },
+  {
+    "id": 43,
+    "term": "I hope that the weather will be nice.",
+    "definition": "Я сподіваюся, що погода буде гарна.",
+    "example": "'що' + future"
+  },
+  {
+    "id": 44,
+    "term": "I am glad that you came.",
+    "definition": "Я радий, що ти прийшов.",
+    "example": "'радий, що' + clause"
+  },
+  {
+    "id": 45,
+    "term": "I don't think that it's true.",
+    "definition": "Я не думаю, що це правда.",
+    "example": "negated main clause"
+  },
+  {
+    "id": 46,
+    "term": "I am learning Ukrainian because I want to live in Ukraine.",
+    "definition": "Я вивчаю українську, бо хочу жити в Україні.",
+    "example": "'бо' = because"
+  },
+  {
+    "id": 47,
+    "term": "I can't come because I am sick.",
+    "definition": "Я не можу прийти, бо я хворий.",
+    "example": "'бо' clause"
+  },
+  {
+    "id": 48,
+    "term": "I am studying so that I can pass the exam.",
+    "definition": "Я навчаюся, щоб скласти іспит.",
+    "example": "'щоб' = so that"
+  },
+  {
+    "id": 49,
+    "term": "Call me when you arrive.",
+    "definition": "Подзвони мені, коли приїдеш.",
+    "example": "'коли' = when"
+  },
+  {
+    "id": 50,
+    "term": "If it rains, we will stay home.",
+    "definition": "Якщо піде дощ, ми залишимося вдома.",
+    "example": "'якщо' = if"
+  },
+  {
+    "id": 51,
+    "term": "The woman who lives next door is a doctor.",
+    "definition": "Жінка, яка живе по сусідству, лікарка.",
+    "example": "'яка' — feminine relative pronoun"
+  },
+  {
+    "id": 52,
+    "term": "The man who called yesterday is my uncle.",
+    "definition": "Чоловік, який дзвонив учора, мій дядько.",
+    "example": "'який' — masculine relative pronoun"
+  },
+  {
+    "id": 53,
+    "term": "The book that I am reading is very interesting.",
+    "definition": "Книга, яку я читаю, дуже цікава.",
+    "example": "'яку' — accusative feminine relative pronoun"
+  },
+  {
+    "id": 54,
+    "term": "The children who play in the park are our neighbors.",
+    "definition": "Діти, які граються в парку, наші сусіди.",
+    "example": "'які' — plural relative pronoun"
+  },
+  {
+    "id": 55,
+    "term": "This is the house in which I grew up.",
+    "definition": "Це будинок, у якому я виріс.",
+    "example": "'у якому' = in which"
+  },
+  {
+    "id": 56,
+    "term": "I don't remember the name of the street where we met.",
+    "definition": "Я не пам'ятаю назву вулиці, де ми познайомилися.",
+    "example": "'де' = where"
+  },
+  {
+    "id": 57,
+    "term": "The people whom I met were very friendly.",
+    "definition": "Люди, яких я зустрів, були дуже привітні.",
+    "example": "'яких' — accusative plural relative pronoun"
+  },
+  {
+    "id": 58,
+    "term": "This is the reason why I am late.",
+    "definition": "Це причина, чому я запізнився.",
+    "example": "'чому' = why"
+  },
+  {
+    "id": 59,
+    "term": "The car that broke down is mine.",
+    "definition": "Машина, яка зламалася, моя.",
+    "example": "'зламатися' = to break down (of a machine)"
+  },
+  {
+    "id": 60,
+    "term": "I found the keys that I lost.",
+    "definition": "Я знайшов ключі, які загубив.",
+    "example": "'які' — plural relative pronoun"
+  },
+  {
+    "id": 61,
+    "term": "The meeting starts at three o'clock.",
+    "definition": "Зустріч починається о третій годині.",
+    "example": "'о' + locative for clock time"
+  },
+  {
+    "id": 62,
+    "term": "I usually wake up before seven.",
+    "definition": "Я зазвичай прокидаюся до сьомої.",
+    "example": "'до' + genitive = before"
+  },
+  {
+    "id": 63,
+    "term": "We will meet after the concert.",
+    "definition": "Ми зустрінемося після концерту.",
+    "example": "'після' + genitive = after"
+  },
+  {
+    "id": 64,
+    "term": "The shop is open from nine to six.",
+    "definition": "Магазин працює з дев'ятої до шостої.",
+    "example": "'з... до...' = from... to..."
+  },
+  {
+    "id": 65,
+    "term": "I lived in Ukraine for three years.",
+    "definition": "Я жив в Україні три роки.",
+    "example": "'три роки' — accusative duration"
+  },
+  {
+    "id": 66,
+    "term": "I haven't seen him since last year.",
+    "definition": "Я не бачив його з минулого року.",
+    "example": "'з' = since"
+  },
+  {
+    "id": 67,
+    "term": "During the summer, we travel a lot.",
+    "definition": "Влітку ми багато подорожуємо.",
+    "example": "'влітку' = during summer"
+  },
+  {
+    "id": 68,
+    "term": "On Mondays, I go to the gym.",
+    "definition": "По понеділках я ходжу в спортзал.",
+    "example": "'по' + locative plural"
+  },
+  {
+    "id": 69,
+    "term": "Next week, I am going on vacation.",
+    "definition": "Наступного тижня я йду у відпустку.",
+    "example": "'наступного тижня' = next week"
+  },
+  {
+    "id": 70,
+    "term": "Two years ago, I visited Ukraine.",
+    "definition": "Два роки тому я відвідав Україну.",
+    "example": "'тому' = ago"
+  },
+  {
+    "id": 71,
+    "term": "There are a lot of people here.",
+    "definition": "Тут багато людей.",
+    "example": "'багато' + genitive plural"
+  },
+  {
+    "id": 72,
+    "term": "I have little time.",
+    "definition": "У мене мало часу.",
+    "example": "'мало' + genitive"
+  },
+  {
+    "id": 73,
+    "term": "I have a few questions.",
+    "definition": "У мене кілька запитань.",
+    "example": "'кілька' = a few"
+  },
+  {
+    "id": 74,
+    "term": "There are many opportunities here.",
+    "definition": "Тут багато можливостей.",
+    "example": "'багато' + genitive plural"
+  },
+  {
+    "id": 75,
+    "term": "I have several friends in Ukraine.",
+    "definition": "У мене кілька друзів в Україні.",
+    "example": "'кілька' = several"
+  },
+  {
+    "id": 76,
+    "term": "Not many people know about this.",
+    "definition": "Не багато людей знають про це.",
+    "example": "'про' = about"
+  },
+  {
+    "id": 77,
+    "term": "I need a bit more time.",
+    "definition": "Мені потрібно трохи більше часу.",
+    "example": "'потрібно' + genitive"
+  },
+  {
+    "id": 78,
+    "term": "Most people agree with this.",
+    "definition": "Більшість людей погоджуються з цим.",
+    "example": "'більшість' + genitive = most of"
+  },
+  {
+    "id": 79,
+    "term": "I bought a lot of books.",
+    "definition": "Я купив багато книг.",
+    "example": "'багато' + genitive plural"
+  },
+  {
+    "id": 80,
+    "term": "There isn't enough bread.",
+    "definition": "Не вистачає хліба.",
+    "example": "'не вистачає' + genitive = not enough"
+  },
+  {
+    "id": 81,
+    "term": "Sit down, please.",
+    "definition": "Сідай, будь ласка.",
+    "example": "informal imperative: сідай"
+  },
+  {
+    "id": 82,
+    "term": "Wait for me!",
+    "definition": "Почекай на мене!",
+    "example": "'чекати на' + accusative = to wait for"
+  },
+  {
+    "id": 83,
+    "term": "Don't worry.",
+    "definition": "Не хвилюйся.",
+    "example": "negative imperative of the reflexive verb"
+  },
+  {
+    "id": 84,
+    "term": "Close the door, please.",
+    "definition": "Зачини двері, будь ласка.",
+    "example": "imperative: зачини"
+  },
+  {
+    "id": 85,
+    "term": "Let's go!",
+    "definition": "Ходімо!",
+    "example": "1st person plural imperative form"
+  },
+  {
+    "id": 86,
+    "term": "Let's eat something.",
+    "definition": "Давай щось поїмо!",
+    "example": "'давай' + 1st person = let's"
+  },
+  {
+    "id": 87,
+    "term": "Be careful!",
+    "definition": "Будь обережний!",
+    "example": "imperative of 'бути': будь"
+  },
+  {
+    "id": 88,
+    "term": "Don't be afraid.",
+    "definition": "Не бійся.",
+    "example": "negative imperative: не бійся"
+  },
+  {
+    "id": 89,
+    "term": "Help me, please.",
+    "definition": "Допоможи мені, будь ласка.",
+    "example": "'допомогти' takes a dative object: мені"
+  },
+  {
+    "id": 90,
+    "term": "Listen to me!",
+    "definition": "Слухай мене!",
+    "example": "'слухати' + accusative — no preposition needed"
+  },
+  {
+    "id": 91,
+    "term": "I don't know where he lives.",
+    "definition": "Я не знаю, де він живе.",
+    "example": "'де' = where"
+  },
+  {
+    "id": 92,
+    "term": "I don't know what time it is.",
+    "definition": "Я не знаю, котра година.",
+    "example": "'котра година' = what time is it"
+  },
+  {
+    "id": 93,
+    "term": "Tell me why you are sad.",
+    "definition": "Скажи мені, чому ти сумний.",
+    "example": "'чому' inside an indirect question"
+  },
+  {
+    "id": 94,
+    "term": "I wonder who called.",
+    "definition": "Цікаво, хто дзвонив.",
+    "example": "'цікаво' = I wonder, literally 'it's interesting'"
+  },
+  {
+    "id": 95,
+    "term": "I am not sure if he is coming.",
+    "definition": "Я не впевнений, чи він прийде.",
+    "example": "'чи' = if/whether"
+  },
+  {
+    "id": 96,
+    "term": "She said that she was tired.",
+    "definition": "Вона сказала, що втомилася.",
+    "example": "past tense inside reported speech: втомилася"
+  },
+  {
+    "id": 97,
+    "term": "He asked if I spoke Ukrainian.",
+    "definition": "Він запитав, чи я розмовляю українською.",
+    "example": "'чи' = if/whether"
+  },
+  {
+    "id": 98,
+    "term": "If I had more time, I would learn Italian too.",
+    "definition": "Якби у мене було більше часу, я б також вивчав італійську.",
+    "example": "'якби... б...' — the standard conditional pair"
+  },
+  {
+    "id": 99,
+    "term": "If I were you, I would rest.",
+    "definition": "Якби я був тобою, я б відпочив.",
+    "example": "same 'якби... б...' pattern"
+  },
+  {
+    "id": 100,
+    "term": "I would be very happy if you came.",
+    "definition": "Я був би дуже щасливий, якби ти прийшов.",
+    "example": "'б' + 'якби' — both sides conditional"
+  }
+];
+window.QM_SENTENCES_UK_INTERMEDIATE_DATA = [
+  {
+    "id": 1,
+    "term": "I go there every day.",
+    "definition": "Я ходжу туди щодня.",
+    "example": "'туди' = there (directional)"
+  },
+  {
+    "id": 2,
+    "term": "I don't believe it.",
+    "definition": "Я в це не вірю.",
+    "example": "'вірити в' + accusative = to believe in"
+  },
+  {
+    "id": 3,
+    "term": "I think about it often.",
+    "definition": "Я часто думаю про це.",
+    "example": "'думати про' = to think about"
+  },
+  {
+    "id": 4,
+    "term": "How many books do you have? I have three of them.",
+    "definition": "Скільки в тебе книг? У мене три.",
+    "example": "no extra pronoun needed — the number alone answers"
+  },
+  {
+    "id": 5,
+    "term": "Do you want some wine? Yes, I want some.",
+    "definition": "Хочеш вина? Так, хочу трохи.",
+    "example": "'трохи' fills in for 'some'"
+  },
+  {
+    "id": 6,
+    "term": "Do you need money? Yes, I need some.",
+    "definition": "Тобі потрібні гроші? Так, потрібно трохи.",
+    "example": "same 'трохи' pattern"
+  },
+  {
+    "id": 7,
+    "term": "I'm leaving now.",
+    "definition": "Я зараз йду.",
+    "example": "'йти' = to leave/go"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to talk about it.",
+    "definition": "Я не хочу говорити про це.",
+    "example": "'говорити про' = to talk about"
+  },
+  {
+    "id": 9,
+    "term": "How many sisters do you have? I have one.",
+    "definition": "Скільки в тебе сестер? У мене одна.",
+    "example": "'одна' agrees feminine with сестра"
+  },
+  {
+    "id": 10,
+    "term": "I'm sure of it.",
+    "definition": "Я в цьому впевнений.",
+    "example": "'впевнений в' + locative"
+  },
+  {
+    "id": 11,
+    "term": "I used to read a lot as a child.",
+    "definition": "У дитинстві я багато читав.",
+    "example": "imperfective aspect for a repeated childhood habit: читав"
+  },
+  {
+    "id": 12,
+    "term": "Yesterday I read that whole book.",
+    "definition": "Вчора я прочитав усю ту книгу.",
+    "example": "perfective aspect for a completed action: прочитав"
+  },
+  {
+    "id": 13,
+    "term": "I always drank coffee in the morning.",
+    "definition": "Я завжди пив каву вранці.",
+    "example": "imperfective: пив"
+  },
+  {
+    "id": 14,
+    "term": "This morning I drank two cups of coffee.",
+    "definition": "Сьогодні вранці я випив дві чашки кави.",
+    "example": "perfective: випив"
+  },
+  {
+    "id": 15,
+    "term": "She was writing a letter when I called.",
+    "definition": "Вона писала листа, коли я подзвонив.",
+    "example": "imperfective: писала"
+  },
+  {
+    "id": 16,
+    "term": "She wrote the letter and sent it.",
+    "definition": "Вона написала листа і надіслала його.",
+    "example": "perfective: написала"
+  },
+  {
+    "id": 17,
+    "term": "We were watching a movie all evening.",
+    "definition": "Ми дивилися фільм весь вечір.",
+    "example": "imperfective for an ongoing, unbounded activity"
+  },
+  {
+    "id": 18,
+    "term": "We watched the whole movie in one sitting.",
+    "definition": "Ми подивилися весь фільм за один раз.",
+    "example": "perfective: подивилися"
+  },
+  {
+    "id": 19,
+    "term": "I was learning Ukrainian for two years before I moved here.",
+    "definition": "Я вивчав українську два роки, перш ніж переїхав сюди.",
+    "example": "imperfective: вивчав"
+  },
+  {
+    "id": 20,
+    "term": "I finally learned all the irregular verbs.",
+    "definition": "Нарешті я вивчив усі неправильні дієслова.",
+    "example": "perfective: вивчив"
+  },
+  {
+    "id": 21,
+    "term": "This book was written by a famous author.",
+    "definition": "Цю книгу написав відомий автор.",
+    "example": "Ukrainian favors an active sentence with the agent as subject over a literal passive"
+  },
+  {
+    "id": 22,
+    "term": "The house was built in 1920.",
+    "definition": "Будинок був побудований у 1920 році.",
+    "example": "passive participle: був побудований"
+  },
+  {
+    "id": 23,
+    "term": "The letter is being written now.",
+    "definition": "Лист зараз пишеться.",
+    "example": "reflexive passive: пишеться"
+  },
+  {
+    "id": 24,
+    "term": "The doors are closed at nine.",
+    "definition": "Двері зачиняються о дев'ятій.",
+    "example": "reflexive passive: зачиняються"
+  },
+  {
+    "id": 25,
+    "term": "The problem will be solved soon.",
+    "definition": "Проблему скоро вирішать.",
+    "example": "impersonal 3rd plural, agentless: вирішать"
+  },
+  {
+    "id": 26,
+    "term": "The bridge was destroyed during the war.",
+    "definition": "Міст був зруйнований під час війни.",
+    "example": "passive participle: був зруйнований"
+  },
+  {
+    "id": 27,
+    "term": "This song is known all over the world.",
+    "definition": "Ця пісня відома в усьому світі.",
+    "example": "'відома' — passive participle used adjectivally"
+  },
+  {
+    "id": 28,
+    "term": "The cake was eaten by the children.",
+    "definition": "Торт з'їли діти.",
+    "example": "the agent stays the grammatical subject: діти"
+  },
+  {
+    "id": 29,
+    "term": "New rules were introduced last year.",
+    "definition": "Минулого року запровадили нові правила.",
+    "example": "impersonal 3rd plural: запровадили"
+  },
+  {
+    "id": 30,
+    "term": "The window was broken by the storm.",
+    "definition": "Вікно розбила буря.",
+    "example": "same active-agent pattern as #28"
+  },
+  {
+    "id": 31,
+    "term": "It's said that he is very talented.",
+    "definition": "Кажуть, що він дуже талановитий.",
+    "example": "impersonal 3rd plural: кажуть"
+  },
+  {
+    "id": 32,
+    "term": "It's getting dark.",
+    "definition": "Темнішає.",
+    "example": "a single verb for 'it's getting dark'"
+  },
+  {
+    "id": 33,
+    "term": "It's getting cold outside.",
+    "definition": "Надворі стає холодно.",
+    "example": "'ставати' = to become"
+  },
+  {
+    "id": 34,
+    "term": "How do you say this in Ukrainian?",
+    "definition": "Як це сказати українською?",
+    "example": "'українською' — the instrumental adverbial for 'in Ukrainian'"
+  },
+  {
+    "id": 35,
+    "term": "One eats dinner at eight here.",
+    "definition": "Тут вечеряють о восьмій.",
+    "example": "impersonal 3rd plural = generic 'one'"
+  },
+  {
+    "id": 36,
+    "term": "You can't smoke here.",
+    "definition": "Тут не можна курити.",
+    "example": "'не можна' = not allowed"
+  },
+  {
+    "id": 37,
+    "term": "It's not done that way.",
+    "definition": "Так не роблять.",
+    "example": "impersonal 3rd plural"
+  },
+  {
+    "id": 38,
+    "term": "People say all sorts of things.",
+    "definition": "Люди кажуть всякі речі.",
+    "example": "'люди' as an explicit generic subject"
+  },
+  {
+    "id": 39,
+    "term": "This word is used often.",
+    "definition": "Це слово часто використовують.",
+    "example": "impersonal 3rd plural: використовують"
+  },
+  {
+    "id": 40,
+    "term": "This is how the game is played.",
+    "definition": "Ось так грають у цю гру.",
+    "example": "impersonal 3rd plural: грають"
+  },
+  {
+    "id": 41,
+    "term": "I told him to come.",
+    "definition": "Я сказав йому прийти.",
+    "example": "dative + infinitive reports a command"
+  },
+  {
+    "id": 42,
+    "term": "She asked me to help her.",
+    "definition": "Вона попросила мене допомогти їй.",
+    "example": "'просити' takes an accusative object: мене"
+  },
+  {
+    "id": 43,
+    "term": "The teacher told us to be quiet.",
+    "definition": "Вчитель сказав нам мовчати.",
+    "example": "dative + infinitive: нам мовчати"
+  },
+  {
+    "id": 44,
+    "term": "I want you to call me.",
+    "definition": "Я хочу, щоб ти подзвонив мені.",
+    "example": "'щоб' + past-tense form used as a subjunctive"
+  },
+  {
+    "id": 45,
+    "term": "My mother told me not to be late.",
+    "definition": "Мама сказала мені не запізнюватися.",
+    "example": "dative + negated infinitive"
+  },
+  {
+    "id": 46,
+    "term": "He asked us to wait outside.",
+    "definition": "Він попросив нас почекати надворі.",
+    "example": "accusative object: нас"
+  },
+  {
+    "id": 47,
+    "term": "I told them to stop.",
+    "definition": "Я сказав їм зупинитися.",
+    "example": "dative + infinitive: їм зупинитися"
+  },
+  {
+    "id": 48,
+    "term": "She wants me to visit her.",
+    "definition": "Вона хоче, щоб я відвідав її.",
+    "example": "'щоб' + subjunctive-form clause"
+  },
+  {
+    "id": 49,
+    "term": "The boss ordered us to finish the project.",
+    "definition": "Начальник наказав нам завершити проект.",
+    "example": "dative + infinitive: нам завершити"
+  },
+  {
+    "id": 50,
+    "term": "I asked her to be patient.",
+    "definition": "Я попросив її бути терплячою.",
+    "example": "accusative object: її"
+  },
+  {
+    "id": 51,
+    "term": "Although it was raining, we went for a walk.",
+    "definition": "Хоча йшов дощ, ми пішли на прогулянку.",
+    "example": "'хоча' = although"
+  },
+  {
+    "id": 52,
+    "term": "Even though he is tired, he keeps working.",
+    "definition": "Хоча він втомлений, він продовжує працювати.",
+    "example": "'продовжувати' + infinitive = to keep on doing"
+  },
+  {
+    "id": 53,
+    "term": "Despite the cold, we went outside.",
+    "definition": "Незважаючи на холод, ми вийшли надвір.",
+    "example": "'незважаючи на' = despite"
+  },
+  {
+    "id": 54,
+    "term": "It's raining, but we're going out anyway.",
+    "definition": "Йде дощ, але ми все одно виходимо.",
+    "example": "'все одно' = anyway"
+  },
+  {
+    "id": 55,
+    "term": "I like her, even though she's sometimes difficult.",
+    "definition": "Вона мені подобається, хоча іноді вона складна.",
+    "example": "'хоча' clause"
+  },
+  {
+    "id": 56,
+    "term": "He passed the exam despite not studying much.",
+    "definition": "Він склав іспит, хоча не багато навчався.",
+    "example": "'хоча' + negated clause"
+  },
+  {
+    "id": 57,
+    "term": "It was cheap, yet good quality.",
+    "definition": "Це було дешево, але якісно.",
+    "example": "'але' = but/yet"
+  },
+  {
+    "id": 58,
+    "term": "Nevertheless, I think we should try.",
+    "definition": "Проте, я думаю, нам варто спробувати.",
+    "example": "'проте' = nevertheless"
+  },
+  {
+    "id": 59,
+    "term": "Although I disagree, I'll help you.",
+    "definition": "Хоча я не згоден, я допоможу тобі.",
+    "example": "'хоча' clause"
+  },
+  {
+    "id": 60,
+    "term": "We won, although it wasn't easy.",
+    "definition": "Ми перемогли, хоча це було нелегко.",
+    "example": "'хоча' after the main clause"
+  },
+  {
+    "id": 61,
+    "term": "Stay here until I come back.",
+    "definition": "Залишайся тут, поки я не повернуся.",
+    "example": "'поки не' — the standard construction for 'until'"
+  },
+  {
+    "id": 62,
+    "term": "I'll wait as long as you need.",
+    "definition": "Я почекаю стільки, скільки потрібно.",
+    "example": "'стільки, скільки' = as much as/as long as"
+  },
+  {
+    "id": 63,
+    "term": "Before you leave, call me.",
+    "definition": "Перш ніж підеш, подзвони мені.",
+    "example": "'перш ніж' = before"
+  },
+  {
+    "id": 64,
+    "term": "I checked everything before I left.",
+    "definition": "Я перевірив усе, перш ніж пішов.",
+    "example": "'перш ніж' + past tense"
+  },
+  {
+    "id": 65,
+    "term": "I've known her since I was a child.",
+    "definition": "Я знаю її з дитинства.",
+    "example": "'з' = since"
+  },
+  {
+    "id": 66,
+    "term": "Since he moved here, he's been much happier.",
+    "definition": "Відколи він переїхав сюди, він набагато щасливіший.",
+    "example": "'відколи' = since (a specific event)"
+  },
+  {
+    "id": 67,
+    "term": "Wait until the light turns green.",
+    "definition": "Почекай, поки не загориться зелене світло.",
+    "example": "'поки не' again for 'until'"
+  },
+  {
+    "id": 68,
+    "term": "I won't leave until you answer me.",
+    "definition": "Я не піду, поки ти мені не відповіси.",
+    "example": "same 'поки не' pattern"
+  },
+  {
+    "id": 69,
+    "term": "As soon as I get home, I'll call you.",
+    "definition": "Як тільки я прийду додому, подзвоню тобі.",
+    "example": "'як тільки' = as soon as"
+  },
+  {
+    "id": 70,
+    "term": "The moment I saw her, I knew.",
+    "definition": "У ту мить, коли я побачив її, я зрозумів.",
+    "example": "'у ту мить, коли' = the moment that"
+  },
+  {
+    "id": 71,
+    "term": "Instead of coffee, I'll have tea.",
+    "definition": "Замість кави я вип'ю чаю.",
+    "example": "'замість' + genitive = instead of"
+  },
+  {
+    "id": 72,
+    "term": "Instead of complaining, do something.",
+    "definition": "Замість того, щоб скаржитися, зроби щось.",
+    "example": "'замість того, щоб' + infinitive"
+  },
+  {
+    "id": 73,
+    "term": "Reading books is my favorite hobby.",
+    "definition": "Читання книг моє улюблене хобі.",
+    "example": "'читання' — the verbal noun works as the subject"
+  },
+  {
+    "id": 74,
+    "term": "Learning languages takes time.",
+    "definition": "Вивчення мов вимагає часу.",
+    "example": "'вивчення' — verbal noun as subject"
+  },
+  {
+    "id": 75,
+    "term": "Swimming is good for your health.",
+    "definition": "Плавання корисне для здоров'я.",
+    "example": "'плавання' — verbal noun as subject"
+  },
+  {
+    "id": 76,
+    "term": "Cooking dinner takes an hour.",
+    "definition": "Приготування вечері займає годину.",
+    "example": "'приготування' — verbal noun as subject"
+  },
+  {
+    "id": 77,
+    "term": "Smoking is bad for you.",
+    "definition": "Куріння шкідливе для здоров'я.",
+    "example": "'шкідливий для' = bad for"
+  },
+  {
+    "id": 78,
+    "term": "Waiting is the hardest part.",
+    "definition": "Очікування найважча частина.",
+    "example": "'очікування' — verbal noun as subject"
+  },
+  {
+    "id": 79,
+    "term": "Thank you for coming.",
+    "definition": "Дякую, що прийшов.",
+    "example": "'дякую, що' + clause"
+  },
+  {
+    "id": 80,
+    "term": "I'm tired of waiting.",
+    "definition": "Я втомився чекати.",
+    "example": "'втомитися' + infinitive = to be tired of doing"
+  },
+  {
+    "id": 81,
+    "term": "If I had known, I would have come.",
+    "definition": "Якби я знав, я б прийшов.",
+    "example": "'якби... б...' on both sides of a past hypothetical"
+  },
+  {
+    "id": 82,
+    "term": "If you had called me, I would have helped.",
+    "definition": "Якби ти подзвонив мені, я б допоміг.",
+    "example": "same past-conditional pattern"
+  },
+  {
+    "id": 83,
+    "term": "She would have passed if she had studied more.",
+    "definition": "Вона б склала іспит, якби більше навчалася.",
+    "example": "past conditional again"
+  },
+  {
+    "id": 84,
+    "term": "We wouldn't have been late if we had left earlier.",
+    "definition": "Ми б не запізнилися, якби вийшли раніше.",
+    "example": "past conditional, negated"
+  },
+  {
+    "id": 85,
+    "term": "I have twenty-two books on this shelf.",
+    "definition": "У мене двадцять дві книги на цій полиці.",
+    "example": "'двадцять дві' — compound number, feminine agreement"
+  },
+  {
+    "id": 86,
+    "term": "There are thirty-five students in this class.",
+    "definition": "У цьому класі тридцять п'ять учнів.",
+    "example": "'тридцять п'ять' — compound number"
+  },
+  {
+    "id": 87,
+    "term": "I have been living here for eleven years.",
+    "definition": "Я живу тут уже одинадцять років.",
+    "example": "present tense + 'уже' for an ongoing span"
+  },
+  {
+    "id": 88,
+    "term": "The building has one hundred rooms.",
+    "definition": "У будівлі сто кімнат.",
+    "example": "'сто' = one hundred exactly"
+  },
+  {
+    "id": 89,
+    "term": "I paid two hundred euros for this.",
+    "definition": "Я заплатив двісті євро за це.",
+    "example": "'двісті' — compound number"
+  },
+  {
+    "id": 90,
+    "term": "Only one person answered correctly.",
+    "definition": "Тільки одна людина відповіла правильно.",
+    "example": "'тільки' = only"
+  },
+  {
+    "id": 91,
+    "term": "He passed the exam, which made his parents happy.",
+    "definition": "Він склав іспит, що зробило його батьків щасливими.",
+    "example": "'що' refers back to the whole preceding clause"
+  },
+  {
+    "id": 92,
+    "term": "She was late, which annoyed the teacher.",
+    "definition": "Вона запізнилася, що роздратувало вчителя.",
+    "example": "'що' again refers to the whole event"
+  },
+  {
+    "id": 93,
+    "term": "This is the best restaurant of all the ones I know.",
+    "definition": "Це найкращий ресторан серед усіх, які я знаю.",
+    "example": "'серед усіх, які' = of all the ones that"
+  },
+  {
+    "id": 94,
+    "term": "He is the smartest of all my friends.",
+    "definition": "Він найрозумніший серед усіх моїх друзів.",
+    "example": "superlative + 'серед усіх'"
+  },
+  {
+    "id": 95,
+    "term": "To be honest, I don't understand this.",
+    "definition": "Чесно кажучи, я цього не розумію.",
+    "example": "'чесно кажучи' = to be honest, a fixed opener"
+  },
+  {
+    "id": 96,
+    "term": "Generally speaking, the weather here is nice.",
+    "definition": "Загалом, погода тут гарна.",
+    "example": "'загалом' = generally speaking"
+  },
+  {
+    "id": 97,
+    "term": "As far as I know, the shop is closed today.",
+    "definition": "Наскільки я знаю, магазин сьогодні закритий.",
+    "example": "'наскільки я знаю' = as far as I know"
+  },
+  {
+    "id": 98,
+    "term": "In my opinion, this is the right decision.",
+    "definition": "На мою думку, це правильне рішення.",
+    "example": "'на мою думку' = in my opinion"
+  },
+  {
+    "id": 99,
+    "term": "All things considered, it went well.",
+    "definition": "Загалом усе пройшло добре.",
+    "example": "'загалом' used here to mean 'all things considered'"
+  },
+  {
+    "id": 100,
+    "term": "In the end, everything turned out fine.",
+    "definition": "Врешті-решт усе вийшло добре.",
+    "example": "'врешті-решт' = in the end"
+  }
+];
+window.QM_PHRASES_UK_DATA = [
+  {
+    "id": 1,
+    "term": "Good morning!",
+    "definition": "Доброго ранку!",
+    "example": "genitive greeting form — a fixed wish, not a nominative statement"
+  },
+  {
+    "id": 2,
+    "term": "Good evening!",
+    "definition": "Доброго вечора!",
+    "example": "same genitive pattern"
+  },
+  {
+    "id": 3,
+    "term": "Good night!",
+    "definition": "Добраніч!",
+    "example": "a single fused word, unlike the other daytime greetings"
+  },
+  {
+    "id": 4,
+    "term": "Hi! (informal)",
+    "definition": "Привіт!",
+    "example": "works at any time of day, casual register"
+  },
+  {
+    "id": 5,
+    "term": "How are you?",
+    "definition": "Як справи?",
+    "example": "literally 'how (are) things'"
+  },
+  {
+    "id": 6,
+    "term": "I'm fine, thanks. And you?",
+    "definition": "Добре, дякую. А ти?",
+    "example": "'а ти' = and you (informal)"
+  },
+  {
+    "id": 7,
+    "term": "Long time no see!",
+    "definition": "Давно не бачилися!",
+    "example": "literally 'long haven't seen each other'"
+  },
+  {
+    "id": 8,
+    "term": "Welcome!",
+    "definition": "Ласкаво просимо!",
+    "example": "literally 'kindly we ask (you in)'"
+  },
+  {
+    "id": 9,
+    "term": "Nice to see you again.",
+    "definition": "Приємно знову тебе бачити.",
+    "example": "'знову' = again"
+  },
+  {
+    "id": 10,
+    "term": "What's up? (very informal)",
+    "definition": "Що нового?",
+    "example": "literally 'what's new'"
+  },
+  {
+    "id": 11,
+    "term": "Goodbye!",
+    "definition": "До побачення!",
+    "example": "literally 'until (the next) seeing'"
+  },
+  {
+    "id": 12,
+    "term": "See you later!",
+    "definition": "Побачимося пізніше!",
+    "example": "reflexive future: побачимося"
+  },
+  {
+    "id": 13,
+    "term": "See you tomorrow!",
+    "definition": "До завтра!",
+    "example": "'до' + time expression is the productive farewell pattern"
+  },
+  {
+    "id": 14,
+    "term": "Take care!",
+    "definition": "Бережи себе!",
+    "example": "'берегти себе' = to take care of oneself"
+  },
+  {
+    "id": 15,
+    "term": "Have a good day!",
+    "definition": "Гарного дня!",
+    "example": "genitive fixed-wish form"
+  },
+  {
+    "id": 16,
+    "term": "Bye! (informal)",
+    "definition": "Бувай!",
+    "example": "casual, common among friends"
+  },
+  {
+    "id": 17,
+    "term": "Until next time!",
+    "definition": "До наступного разу!",
+    "example": "'до' + genitive"
+  },
+  {
+    "id": 18,
+    "term": "Have a safe trip!",
+    "definition": "Гарної подорожі!",
+    "example": "genitive fixed-wish form"
+  },
+  {
+    "id": 19,
+    "term": "Good night, sleep well.",
+    "definition": "Добраніч, солодких снів.",
+    "example": "'солодких снів' = sweet dreams"
+  },
+  {
+    "id": 20,
+    "term": "Take care of yourself.",
+    "definition": "Бережи себе.",
+    "example": "same phrase as #14"
+  },
+  {
+    "id": 21,
+    "term": "Please.",
+    "definition": "Будь ласка.",
+    "example": "literally 'be kind'"
+  },
+  {
+    "id": 22,
+    "term": "Thank you.",
+    "definition": "Дякую.",
+    "example": "the everyday thanks"
+  },
+  {
+    "id": 23,
+    "term": "Thank you very much.",
+    "definition": "Дуже дякую.",
+    "example": "'дуже' intensifies the thanks"
+  },
+  {
+    "id": 24,
+    "term": "You're welcome.",
+    "definition": "Нема за що.",
+    "example": "literally 'there's nothing for (which to thank me)'"
+  },
+  {
+    "id": 25,
+    "term": "No problem.",
+    "definition": "Без проблем.",
+    "example": "'без' = without"
+  },
+  {
+    "id": 26,
+    "term": "Excuse me.",
+    "definition": "Вибачте.",
+    "example": "formal/plural imperative of 'вибачати'"
+  },
+  {
+    "id": 27,
+    "term": "I'm really sorry.",
+    "definition": "Мені дуже шкода.",
+    "example": "'мені шкода' — a dative idiom for 'I'm sorry'"
+  },
+  {
+    "id": 28,
+    "term": "Pardon? (didn't hear)",
+    "definition": "Перепрошую?",
+    "example": "distinct from 'вибачте', used specifically to ask for a repeat"
+  },
+  {
+    "id": 29,
+    "term": "No worries.",
+    "definition": "Не хвилюйся.",
+    "example": "negative imperative of the reflexive verb"
+  },
+  {
+    "id": 30,
+    "term": "It's my pleasure.",
+    "definition": "Мені приємно.",
+    "example": "a dative response"
+  },
+  {
+    "id": 31,
+    "term": "My name is Anna.",
+    "definition": "Мене звати Анна.",
+    "example": "'мене звати' — literally 'me they call', an accusative-based idiom"
+  },
+  {
+    "id": 32,
+    "term": "Nice to meet you.",
+    "definition": "Приємно познайомитися.",
+    "example": "a fixed introduction phrase"
+  },
+  {
+    "id": 33,
+    "term": "This is my friend Marco.",
+    "definition": "Це мій друг Марко.",
+    "example": "introducing someone"
+  },
+  {
+    "id": 34,
+    "term": "Where are you from?",
+    "definition": "Звідки ти?",
+    "example": "'звідки' = from where"
+  },
+  {
+    "id": 35,
+    "term": "I'm from England.",
+    "definition": "Я з Англії.",
+    "example": "'з' + genitive = from"
+  },
+  {
+    "id": 36,
+    "term": "What do you do for a living?",
+    "definition": "Ким ти працюєш?",
+    "example": "'ким' — instrumental case of 'хто', literally 'as whom do you work'"
+  },
+  {
+    "id": 37,
+    "term": "I'm a student.",
+    "definition": "Я студент.",
+    "example": "no article before a profession/status noun"
+  },
+  {
+    "id": 38,
+    "term": "Likewise!",
+    "definition": "Взаємно!",
+    "example": "literally 'mutually'"
+  },
+  {
+    "id": 39,
+    "term": "It was nice meeting you.",
+    "definition": "Було приємно познайомитися.",
+    "example": "past tense: було, said when parting"
+  },
+  {
+    "id": 40,
+    "term": "Let's keep in touch.",
+    "definition": "Давай підтримувати зв'язок.",
+    "example": "'підтримувати зв'язок' = to keep in touch"
+  },
+  {
+    "id": 41,
+    "term": "Happy birthday!",
+    "definition": "З днем народження!",
+    "example": "'з' + instrumental — the standard birthday greeting"
+  },
+  {
+    "id": 42,
+    "term": "Congratulations!",
+    "definition": "Вітаю!",
+    "example": "a distinct verb from the birthday greeting"
+  },
+  {
+    "id": 43,
+    "term": "Good luck!",
+    "definition": "Удачі!",
+    "example": "genitive of 'удача' (luck), used as an exclamation"
+  },
+  {
+    "id": 44,
+    "term": "Best wishes!",
+    "definition": "Всього найкращого!",
+    "example": "genitive fixed-wish form"
+  },
+  {
+    "id": 45,
+    "term": "Get well soon!",
+    "definition": "Одужуй швидше!",
+    "example": "'одужувати' = to recover"
+  },
+  {
+    "id": 46,
+    "term": "Happy New Year!",
+    "definition": "З Новим роком!",
+    "example": "'з' + instrumental, same pattern as the birthday greeting"
+  },
+  {
+    "id": 47,
+    "term": "Merry Christmas!",
+    "definition": "З Різдвом!",
+    "example": "'з' + instrumental"
+  },
+  {
+    "id": 48,
+    "term": "Cheers! (a toast)",
+    "definition": "Будьмо!",
+    "example": "literally 'let us be' — the standard Ukrainian toast"
+  },
+  {
+    "id": 49,
+    "term": "Have fun!",
+    "definition": "Гарно проведи час!",
+    "example": "'провести час' = to spend time"
+  },
+  {
+    "id": 50,
+    "term": "Enjoy your meal!",
+    "definition": "Смачного!",
+    "example": "genitive of 'смачний' (tasty), used as an exclamation"
+  },
+  {
+    "id": 51,
+    "term": "Can you help me, please?",
+    "definition": "Ти можеш мені допомогти, будь ласка?",
+    "example": "'допомогти' takes a dative object: мені"
+  },
+  {
+    "id": 52,
+    "term": "I need help.",
+    "definition": "Мені потрібна допомога.",
+    "example": "dative + 'потрібна' = I need"
+  },
+  {
+    "id": 53,
+    "term": "Where is the bathroom?",
+    "definition": "Де туалет?",
+    "example": "'туалет' — the everyday word for bathroom"
+  },
+  {
+    "id": 54,
+    "term": "How much does this cost?",
+    "definition": "Скільки це коштує?",
+    "example": "'коштувати' = to cost"
+  },
+  {
+    "id": 55,
+    "term": "Do you have this in another color?",
+    "definition": "У вас є це в іншому кольорі?",
+    "example": "locative 'в іншому кольорі' = in another color"
+  },
+  {
+    "id": 56,
+    "term": "Can I have the bill, please?",
+    "definition": "Можна рахунок, будь ласка?",
+    "example": "'рахунок' — the check at a restaurant"
+  },
+  {
+    "id": 57,
+    "term": "One moment, please.",
+    "definition": "Хвилинку, будь ласка.",
+    "example": "diminutive accusative: хвилинку"
+  },
+  {
+    "id": 58,
+    "term": "Could you repeat that?",
+    "definition": "Можеш повторити?",
+    "example": "'можеш' + infinitive"
+  },
+  {
+    "id": 59,
+    "term": "I don't understand.",
+    "definition": "Я не розумію.",
+    "example": "'розуміти' = to understand"
+  },
+  {
+    "id": 60,
+    "term": "Could you speak more slowly?",
+    "definition": "Можеш говорити повільніше?",
+    "example": "'повільніше' = more slowly"
+  },
+  {
+    "id": 61,
+    "term": "I agree.",
+    "definition": "Я згоден.",
+    "example": "'згоден' = agree (masculine)"
+  },
+  {
+    "id": 62,
+    "term": "I don't agree.",
+    "definition": "Я не згоден.",
+    "example": "negated version"
+  },
+  {
+    "id": 63,
+    "term": "That's true.",
+    "definition": "Це правда.",
+    "example": "'правда' = truth/true"
+  },
+  {
+    "id": 64,
+    "term": "That's not true.",
+    "definition": "Це неправда.",
+    "example": "negated version: неправда"
+  },
+  {
+    "id": 65,
+    "term": "I think so.",
+    "definition": "Думаю, так.",
+    "example": "'думаю, так' = I think so"
+  },
+  {
+    "id": 66,
+    "term": "I don't think so.",
+    "definition": "Думаю, ні.",
+    "example": "same opener, negated answer"
+  },
+  {
+    "id": 67,
+    "term": "Sounds good.",
+    "definition": "Звучить добре.",
+    "example": "'звучати' = to sound"
+  },
+  {
+    "id": 68,
+    "term": "No way!",
+    "definition": "Ні в якому разі!",
+    "example": "an emphatic refusal"
+  },
+  {
+    "id": 69,
+    "term": "Of course!",
+    "definition": "Звичайно!",
+    "example": "an emphatic agreement"
+  },
+  {
+    "id": 70,
+    "term": "Maybe.",
+    "definition": "Можливо.",
+    "example": "a single-word hedge"
+  },
+  {
+    "id": 71,
+    "term": "Really?",
+    "definition": "Справді?",
+    "example": "expressing mild disbelief"
+  },
+  {
+    "id": 72,
+    "term": "Wow!",
+    "definition": "Ого!",
+    "example": "an interjection of surprise"
+  },
+  {
+    "id": 73,
+    "term": "That's great!",
+    "definition": "Це чудово!",
+    "example": "'чудово' = great"
+  },
+  {
+    "id": 74,
+    "term": "I'm sorry to hear that.",
+    "definition": "Шкода це чути.",
+    "example": "'шкода' = it's a shame/pity"
+  },
+  {
+    "id": 75,
+    "term": "What a shame.",
+    "definition": "Як шкода.",
+    "example": "'як шкода' — a fixed exclamation of sympathy"
+  },
+  {
+    "id": 76,
+    "term": "Oh no!",
+    "definition": "О ні!",
+    "example": "'о' — a common interjection of dismay"
+  },
+  {
+    "id": 77,
+    "term": "Exactly!",
+    "definition": "Саме так!",
+    "example": "an emphatic agreement"
+  },
+  {
+    "id": 78,
+    "term": "I see.",
+    "definition": "Зрозуміло.",
+    "example": "'зрозуміло' used idiomatically for understanding"
+  },
+  {
+    "id": 79,
+    "term": "That makes sense.",
+    "definition": "Це має сенс.",
+    "example": "'мати сенс' = to make sense"
+  },
+  {
+    "id": 80,
+    "term": "That's interesting.",
+    "definition": "Це цікаво.",
+    "example": "straightforward observation"
+  },
+  {
+    "id": 81,
+    "term": "Hello? (on the phone)",
+    "definition": "Алло?",
+    "example": "the standard Ukrainian phone greeting"
+  },
+  {
+    "id": 82,
+    "term": "Who's calling?",
+    "definition": "Хто дзвонить?",
+    "example": "literally 'who is calling'"
+  },
+  {
+    "id": 83,
+    "term": "Can I call you back?",
+    "definition": "Можна я передзвоню тобі?",
+    "example": "'передзвонити' = to call back"
+  },
+  {
+    "id": 84,
+    "term": "It was nice talking to you.",
+    "definition": "Було приємно з тобою поговорити.",
+    "example": "'з тобою' = with you, instrumental"
+  },
+  {
+    "id": 85,
+    "term": "See you at the party!",
+    "definition": "Побачимося на вечірці!",
+    "example": "locative: на вечірці"
+  },
+  {
+    "id": 86,
+    "term": "I'll text you.",
+    "definition": "Я напишу тобі повідомлення.",
+    "example": "'написати повідомлення' = to text, literally 'write a message'"
+  },
+  {
+    "id": 87,
+    "term": "Take it easy!",
+    "definition": "Розслабся!",
+    "example": "reflexive imperative: розслабся"
+  },
+  {
+    "id": 88,
+    "term": "All the best!",
+    "definition": "Хай щастить!",
+    "example": "literally 'may (it) bring luck' — a warm closing wish"
+  },
+  {
+    "id": 89,
+    "term": "I'll be right there.",
+    "definition": "Я зараз буду.",
+    "example": "'зараз' = right away"
+  },
+  {
+    "id": 90,
+    "term": "I'm on my way.",
+    "definition": "Я вже йду.",
+    "example": "'вже' = already, marks it as under way"
+  },
+  {
+    "id": 91,
+    "term": "Watch out!",
+    "definition": "Обережно!",
+    "example": "a bare warning, no verb needed"
+  },
+  {
+    "id": 92,
+    "term": "No rush.",
+    "definition": "Не поспішай.",
+    "example": "negative imperative: don't hurry"
+  },
+  {
+    "id": 93,
+    "term": "After you.",
+    "definition": "Після тебе.",
+    "example": "'після' + genitive = after"
+  },
+  {
+    "id": 94,
+    "term": "Make yourself at home.",
+    "definition": "Почувайся як удома.",
+    "example": "reflexive imperative: почувайся"
+  },
+  {
+    "id": 95,
+    "term": "It's on me. (paying)",
+    "definition": "Я пригощаю.",
+    "example": "'пригощати' = to treat someone, offering to cover the bill"
+  },
+  {
+    "id": 96,
+    "term": "Let's go!",
+    "definition": "Ходімо!",
+    "example": "1st person plural imperative"
+  },
+  {
+    "id": 97,
+    "term": "Welcome home!",
+    "definition": "Ласкаво просимо додому!",
+    "example": "'ласкаво просимо' + додому"
+  },
+  {
+    "id": 98,
+    "term": "Get home safe!",
+    "definition": "Щасливо дістатися додому!",
+    "example": "'щасливо' = safely, luckily"
+  },
+  {
+    "id": 99,
+    "term": "I'm looking forward to it.",
+    "definition": "Я з нетерпінням чекаю на це.",
+    "example": "'з нетерпінням чекати' = to look forward to, literally 'wait with impatience'"
+  },
+  {
+    "id": 100,
+    "term": "Thanks for everything.",
+    "definition": "Дякую за все.",
+    "example": "'дякую за' + accusative"
   }
 ];
