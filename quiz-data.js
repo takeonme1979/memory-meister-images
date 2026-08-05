@@ -2582,7 +2582,9 @@ window.QM_HIDDEN_QUIZZES = [
   "ltSentences",
   "rltSentences",
   "huSentences",
-  "rhuSentences"
+  "rhuSentences",
+  "plPhrases",
+  "itPhrases"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -111395,5 +111397,1209 @@ window.QM_SENTENCES_IT_UPPERBEGINNER_DATA = [
     "term": "The number nine is my lucky number.",
     "definition": "Il numero nove è il mio numero fortunato.",
     "example": "'fortunato' (lucky) agrees masculine with 'numero'"
+  }
+];
+window.QM_PHRASES_PL_DATA = [
+  {
+    "id": 1,
+    "term": "Good morning!",
+    "definition": "Dzień dobry!",
+    "example": "used all day until evening — Polish doesn't split morning/afternoon greetings the way English does"
+  },
+  {
+    "id": 2,
+    "term": "Good evening!",
+    "definition": "Dobry wieczór!",
+    "example": "takes over from 'dzień dobry' once evening starts"
+  },
+  {
+    "id": 3,
+    "term": "Good night!",
+    "definition": "Dobranoc!",
+    "example": "said when parting for the night, not as a greeting"
+  },
+  {
+    "id": 4,
+    "term": "Hi! (informal)",
+    "definition": "Cześć!",
+    "example": "informal only — use dzień dobry with strangers or in formal settings"
+  },
+  {
+    "id": 5,
+    "term": "How are you?",
+    "definition": "Jak się masz?",
+    "example": "informal, to one person you know"
+  },
+  {
+    "id": 6,
+    "term": "I'm fine, thanks. And you?",
+    "definition": "W porządku, dzięki. A ty?",
+    "example": "the standard reply to 'jak się masz'"
+  },
+  {
+    "id": 7,
+    "term": "Long time no see!",
+    "definition": "Dawno się nie widzieliśmy!",
+    "example": "said on meeting someone after a while"
+  },
+  {
+    "id": 8,
+    "term": "Welcome!",
+    "definition": "Witaj!",
+    "example": "singular; 'witajcie' for a group"
+  },
+  {
+    "id": 9,
+    "term": "Nice to see you again.",
+    "definition": "Miło cię znowu widzieć.",
+    "example": "warmer/more personal than a plain greeting"
+  },
+  {
+    "id": 10,
+    "term": "What's up? (very informal)",
+    "definition": "Co słychać?",
+    "example": "casual, among friends"
+  },
+  {
+    "id": 11,
+    "term": "Goodbye!",
+    "definition": "Do widzenia!",
+    "example": "the standard, neutral goodbye — fine in both formal and informal settings"
+  },
+  {
+    "id": 12,
+    "term": "See you later!",
+    "definition": "Do zobaczenia później!",
+    "example": "when you'll meet again the same day"
+  },
+  {
+    "id": 13,
+    "term": "See you tomorrow!",
+    "definition": "Do zobaczenia jutro!",
+    "example": "specifies when you'll meet again"
+  },
+  {
+    "id": 14,
+    "term": "Take care!",
+    "definition": "Trzymaj się!",
+    "example": "casual parting phrase between friends"
+  },
+  {
+    "id": 15,
+    "term": "Have a good day!",
+    "definition": "Miłego dnia!",
+    "example": "genitive-shaped wish — a common pattern for well-wishes in Polish"
+  },
+  {
+    "id": 16,
+    "term": "Bye! (informal)",
+    "definition": "Pa!",
+    "example": "very casual, often doubled: 'Pa, pa!'"
+  },
+  {
+    "id": 17,
+    "term": "Until next time!",
+    "definition": "Do następnego razu!",
+    "example": "when you don't know exactly when you'll meet again"
+  },
+  {
+    "id": 18,
+    "term": "Have a safe trip!",
+    "definition": "Szczęśliwej podróży!",
+    "example": "said to someone setting off on a journey"
+  },
+  {
+    "id": 19,
+    "term": "Good night, sleep well.",
+    "definition": "Dobranoc, śpij dobrze.",
+    "example": "a warmer version of a plain 'dobranoc'"
+  },
+  {
+    "id": 20,
+    "term": "Take care of yourself.",
+    "definition": "Dbaj o siebie.",
+    "example": "more caring/sincere than the casual 'trzymaj się'"
+  },
+  {
+    "id": 21,
+    "term": "Please.",
+    "definition": "Proszę.",
+    "example": "also doubles as 'here you are' when handing something over"
+  },
+  {
+    "id": 22,
+    "term": "Thank you.",
+    "definition": "Dziękuję.",
+    "example": "the standard thank-you, any register"
+  },
+  {
+    "id": 23,
+    "term": "Thank you very much.",
+    "definition": "Dziękuję bardzo.",
+    "example": "'bardzo' (very) intensifies it"
+  },
+  {
+    "id": 24,
+    "term": "You're welcome.",
+    "definition": "Proszę bardzo.",
+    "example": "the same 'proszę' as 'please' — context tells them apart"
+  },
+  {
+    "id": 25,
+    "term": "No problem.",
+    "definition": "Nie ma problemu.",
+    "example": "casual response to thanks or an apology"
+  },
+  {
+    "id": 26,
+    "term": "Excuse me.",
+    "definition": "Przepraszam.",
+    "example": "used to get someone's attention or pass by"
+  },
+  {
+    "id": 27,
+    "term": "I'm really sorry.",
+    "definition": "Bardzo przepraszam.",
+    "example": "the same word as 'excuse me', intensified — context and tone tell them apart"
+  },
+  {
+    "id": 28,
+    "term": "Pardon? (didn't hear)",
+    "definition": "Słucham?",
+    "example": "literally 'I'm listening' — the everyday way to ask someone to repeat themselves"
+  },
+  {
+    "id": 29,
+    "term": "No worries.",
+    "definition": "Nie ma sprawy.",
+    "example": "casual, similar to 'nie ma problemu' but distinct wording"
+  },
+  {
+    "id": 30,
+    "term": "It's my pleasure.",
+    "definition": "Cała przyjemność po mojej stronie.",
+    "example": "a more formal reply than 'proszę bardzo'"
+  },
+  {
+    "id": 31,
+    "term": "My name is Anna.",
+    "definition": "Mam na imię Anna.",
+    "example": "literally 'I have for a name' — the standard way to introduce yourself"
+  },
+  {
+    "id": 32,
+    "term": "Nice to meet you.",
+    "definition": "Miło mi cię poznać.",
+    "example": "said on a first meeting"
+  },
+  {
+    "id": 33,
+    "term": "This is my friend Marco.",
+    "definition": "To jest mój przyjaciel Marco.",
+    "example": "the standard way to introduce someone"
+  },
+  {
+    "id": 34,
+    "term": "Where are you from?",
+    "definition": "Skąd jesteś?",
+    "example": "common small-talk opener"
+  },
+  {
+    "id": 35,
+    "term": "I'm from England.",
+    "definition": "Jestem z Anglii.",
+    "example": "'z' + genitive: Anglia → Anglii"
+  },
+  {
+    "id": 36,
+    "term": "What do you do for a living?",
+    "definition": "Czym się zajmujesz?",
+    "example": "literally 'what do you occupy yourself with'"
+  },
+  {
+    "id": 37,
+    "term": "I'm a student.",
+    "definition": "Jestem studentem.",
+    "example": "instrumental for a role, same rule as Sentences' Beginner level"
+  },
+  {
+    "id": 38,
+    "term": "Likewise!",
+    "definition": "Wzajemnie!",
+    "example": "reply to a compliment or well-wish, meaning 'same to you'"
+  },
+  {
+    "id": 39,
+    "term": "It was nice meeting you.",
+    "definition": "Miło było cię poznać.",
+    "example": "said when parting after a first meeting"
+  },
+  {
+    "id": 40,
+    "term": "Let's keep in touch.",
+    "definition": "Bądźmy w kontakcie.",
+    "example": "said when parting with someone you'd like to see again"
+  },
+  {
+    "id": 41,
+    "term": "Happy birthday!",
+    "definition": "Wszystkiego najlepszego z okazji urodzin!",
+    "example": "literally 'all the best on the occasion of your birthday'"
+  },
+  {
+    "id": 42,
+    "term": "Congratulations!",
+    "definition": "Gratulacje!",
+    "example": "for any achievement"
+  },
+  {
+    "id": 43,
+    "term": "Good luck!",
+    "definition": "Powodzenia!",
+    "example": "before an exam, interview, or any attempt at something"
+  },
+  {
+    "id": 44,
+    "term": "Best wishes!",
+    "definition": "Najlepsze życzenia!",
+    "example": "a general well-wish, often written on cards"
+  },
+  {
+    "id": 45,
+    "term": "Get well soon!",
+    "definition": "Szybkiego powrotu do zdrowia!",
+    "example": "literally 'a quick return to health'"
+  },
+  {
+    "id": 46,
+    "term": "Happy New Year!",
+    "definition": "Szczęśliwego Nowego Roku!",
+    "example": "genitive-shaped wish, same pattern as 'miłego dnia'"
+  },
+  {
+    "id": 47,
+    "term": "Merry Christmas!",
+    "definition": "Wesołych Świąt!",
+    "example": "genitive plural: święta (holidays) → świąt"
+  },
+  {
+    "id": 48,
+    "term": "Cheers! (a toast)",
+    "definition": "Na zdrowie!",
+    "example": "literally 'to health' — raised when drinking together"
+  },
+  {
+    "id": 49,
+    "term": "Have fun!",
+    "definition": "Baw się dobrze!",
+    "example": "said before someone heads off to enjoy themselves"
+  },
+  {
+    "id": 50,
+    "term": "Enjoy your meal!",
+    "definition": "Smacznego!",
+    "example": "said before eating — the Polish equivalent of 'bon appétit'"
+  },
+  {
+    "id": 51,
+    "term": "Can you help me, please?",
+    "definition": "Czy możesz mi pomóc?",
+    "example": "'pomóc' governs the dative: mi (to me)"
+  },
+  {
+    "id": 52,
+    "term": "I need help.",
+    "definition": "Potrzebuję pomocy.",
+    "example": "'potrzebować' governs the genitive: pomoc → pomocy"
+  },
+  {
+    "id": 53,
+    "term": "Where is the bathroom?",
+    "definition": "Gdzie jest toaleta?",
+    "example": "one of the most useful phrasebook lines there is"
+  },
+  {
+    "id": 54,
+    "term": "How much does this cost?",
+    "definition": "Ile to kosztuje?",
+    "example": "'ile' (how much/many) + kosztować (to cost)"
+  },
+  {
+    "id": 55,
+    "term": "Do you have this in another color?",
+    "definition": "Czy macie to w innym kolorze?",
+    "example": "'w' + locative: kolor → kolorze"
+  },
+  {
+    "id": 56,
+    "term": "Can I have the bill, please?",
+    "definition": "Czy mogę prosić o rachunek?",
+    "example": "'prosić o' (ask for) + accusative"
+  },
+  {
+    "id": 57,
+    "term": "One moment, please.",
+    "definition": "Chwileczkę, proszę.",
+    "example": "diminutive of chwila (moment) — feels softer/more polite"
+  },
+  {
+    "id": 58,
+    "term": "Could you repeat that?",
+    "definition": "Czy możesz to powtórzyć?",
+    "example": "polite request with 'móc' (can)"
+  },
+  {
+    "id": 59,
+    "term": "I don't understand.",
+    "definition": "Nie rozumiem.",
+    "example": "simple negation of 'rozumieć'"
+  },
+  {
+    "id": 60,
+    "term": "Could you speak more slowly?",
+    "definition": "Czy możesz mówić wolniej?",
+    "example": "comparative adverb: wolno → wolniej"
+  },
+  {
+    "id": 61,
+    "term": "I agree.",
+    "definition": "Zgadzam się.",
+    "example": "reflexive verb: zgadzać się"
+  },
+  {
+    "id": 62,
+    "term": "I don't agree.",
+    "definition": "Nie zgadzam się.",
+    "example": "negated reflexive"
+  },
+  {
+    "id": 63,
+    "term": "That's true.",
+    "definition": "To prawda.",
+    "example": "'to' + noun, a plain identity statement"
+  },
+  {
+    "id": 64,
+    "term": "That's not true.",
+    "definition": "To nieprawda.",
+    "example": "'nieprawda' — the negative baked right into the noun"
+  },
+  {
+    "id": 65,
+    "term": "I think so.",
+    "definition": "Chyba tak.",
+    "example": "'chyba' softens it into 'I suppose/probably'"
+  },
+  {
+    "id": 66,
+    "term": "I don't think so.",
+    "definition": "Chyba nie.",
+    "example": "same softener, negated"
+  },
+  {
+    "id": 67,
+    "term": "Sounds good.",
+    "definition": "Brzmi dobrze.",
+    "example": "'brzmieć' (to sound) + adverb"
+  },
+  {
+    "id": 68,
+    "term": "No way!",
+    "definition": "Nie ma mowy!",
+    "example": "literally 'there's no talk of it' — a firm refusal or disbelief"
+  },
+  {
+    "id": 69,
+    "term": "Of course!",
+    "definition": "Oczywiście!",
+    "example": "enthusiastic agreement"
+  },
+  {
+    "id": 70,
+    "term": "Maybe.",
+    "definition": "Może.",
+    "example": "a single-word hedge"
+  },
+  {
+    "id": 71,
+    "term": "Really?",
+    "definition": "Naprawdę?",
+    "example": "expressing surprise or asking for confirmation"
+  },
+  {
+    "id": 72,
+    "term": "Wow!",
+    "definition": "Wow!",
+    "example": "borrowed straight from English, very common in speech"
+  },
+  {
+    "id": 73,
+    "term": "That's great!",
+    "definition": "To świetnie!",
+    "example": "enthusiastic reaction"
+  },
+  {
+    "id": 74,
+    "term": "I'm sorry to hear that.",
+    "definition": "Przykro mi to słyszeć.",
+    "example": "expressing sympathy, not an apology"
+  },
+  {
+    "id": 75,
+    "term": "What a shame.",
+    "definition": "Jaka szkoda.",
+    "example": "'jaki/jaka' (what a) + noun, exclamatory"
+  },
+  {
+    "id": 76,
+    "term": "Oh no!",
+    "definition": "O nie!",
+    "example": "a simple exclamation of dismay"
+  },
+  {
+    "id": 77,
+    "term": "Exactly!",
+    "definition": "Dokładnie!",
+    "example": "strong agreement"
+  },
+  {
+    "id": 78,
+    "term": "I see.",
+    "definition": "Rozumiem.",
+    "example": "used as a filler acknowledging what was said, not just 'I understand a fact'"
+  },
+  {
+    "id": 79,
+    "term": "That makes sense.",
+    "definition": "To ma sens.",
+    "example": "'mieć sens' (to have sense/make sense)"
+  },
+  {
+    "id": 80,
+    "term": "That's interesting.",
+    "definition": "To interesujące.",
+    "example": "neuter adjective, agreeing with 'to'"
+  },
+  {
+    "id": 81,
+    "term": "Hello? (on the phone)",
+    "definition": "Halo?",
+    "example": "only used answering the phone — never a face-to-face greeting"
+  },
+  {
+    "id": 82,
+    "term": "Who's calling?",
+    "definition": "Kto dzwoni?",
+    "example": "asked when answering an unexpected call"
+  },
+  {
+    "id": 83,
+    "term": "Can I call you back?",
+    "definition": "Czy mogę oddzwonić?",
+    "example": "'oddzwonić' — a single verb for 'call back'"
+  },
+  {
+    "id": 84,
+    "term": "It was nice talking to you.",
+    "definition": "Miło było z tobą porozmawiać.",
+    "example": "'z tobą' (with you) + instrumental-governing 'z'"
+  },
+  {
+    "id": 85,
+    "term": "See you at the party!",
+    "definition": "Do zobaczenia na imprezie!",
+    "example": "'na' + locative: impreza → imprezie"
+  },
+  {
+    "id": 86,
+    "term": "I'll text you.",
+    "definition": "Napiszę do ciebie.",
+    "example": "literally 'I'll write to you' — how Polish says 'text'"
+  },
+  {
+    "id": 87,
+    "term": "Take it easy!",
+    "definition": "Spokojnie!",
+    "example": "literally 'calmly' — used to tell someone to relax or not worry"
+  },
+  {
+    "id": 88,
+    "term": "All the best!",
+    "definition": "Wszystkiego dobrego!",
+    "example": "genitive-shaped catch-all well-wish"
+  },
+  {
+    "id": 89,
+    "term": "I'll be right there.",
+    "definition": "Zaraz tam będę.",
+    "example": "'zaraz' (right away/shortly) + future of być"
+  },
+  {
+    "id": 90,
+    "term": "I'm on my way.",
+    "definition": "Już idę.",
+    "example": "present tense standing in for 'I'm coming right now'"
+  },
+  {
+    "id": 91,
+    "term": "Watch out!",
+    "definition": "Uważaj!",
+    "example": "a sharp warning, imperative"
+  },
+  {
+    "id": 92,
+    "term": "No rush.",
+    "definition": "Nie ma pośpiechu.",
+    "example": "reassuring someone they have time"
+  },
+  {
+    "id": 93,
+    "term": "After you.",
+    "definition": "Po tobie.",
+    "example": "letting someone go first; 'po' + instrumental"
+  },
+  {
+    "id": 94,
+    "term": "Make yourself at home.",
+    "definition": "Czuj się jak u siebie.",
+    "example": "literally 'feel as if at your own place'"
+  },
+  {
+    "id": 95,
+    "term": "It's on me. (paying)",
+    "definition": "Ja stawiam.",
+    "example": "literally 'I'm putting/standing [for it]' — offering to pay"
+  },
+  {
+    "id": 96,
+    "term": "Let's go!",
+    "definition": "Chodźmy!",
+    "example": "1st person plural imperative — 'let's...'"
+  },
+  {
+    "id": 97,
+    "term": "Welcome home!",
+    "definition": "Witaj w domu!",
+    "example": "said when someone returns"
+  },
+  {
+    "id": 98,
+    "term": "Get home safe!",
+    "definition": "Wracaj bezpiecznie do domu!",
+    "example": "said when someone is heading home"
+  },
+  {
+    "id": 99,
+    "term": "I'm looking forward to it.",
+    "definition": "Nie mogę się doczekać.",
+    "example": "literally 'I can't wait' — the natural Polish equivalent"
+  },
+  {
+    "id": 100,
+    "term": "Thanks for everything.",
+    "definition": "Dzięki za wszystko.",
+    "example": "'dzięki' — the casual short form of dziękuję"
+  }
+];
+window.QM_PHRASES_IT_DATA = [
+  {
+    "id": 1,
+    "term": "Good morning!",
+    "definition": "Buongiorno!",
+    "example": "used all morning and into the afternoon"
+  },
+  {
+    "id": 2,
+    "term": "Good evening!",
+    "definition": "Buonasera!",
+    "example": "takes over from 'buongiorno' in the late afternoon/evening"
+  },
+  {
+    "id": 3,
+    "term": "Good night!",
+    "definition": "Buonanotte!",
+    "example": "said when parting for the night, not as a greeting"
+  },
+  {
+    "id": 4,
+    "term": "Hi! (informal)",
+    "definition": "Ciao!",
+    "example": "informal only — use buongiorno/buonasera with strangers"
+  },
+  {
+    "id": 5,
+    "term": "How are you?",
+    "definition": "Come stai?",
+    "example": "informal, to one person; 'stare', not 'essere', for wellbeing"
+  },
+  {
+    "id": 6,
+    "term": "I'm fine, thanks. And you?",
+    "definition": "Sto bene, grazie. E tu?",
+    "example": "the standard reply to 'come stai'"
+  },
+  {
+    "id": 7,
+    "term": "Long time no see!",
+    "definition": "Quanto tempo!",
+    "example": "literally 'how much time!' — said on meeting someone after a while"
+  },
+  {
+    "id": 8,
+    "term": "Welcome!",
+    "definition": "Benvenuto!",
+    "example": "agrees masculine; 'benvenuta' for a woman, 'benvenuti' for a group"
+  },
+  {
+    "id": 9,
+    "term": "Nice to see you again.",
+    "definition": "Che piacere rivederti.",
+    "example": "warmer/more personal than a plain greeting"
+  },
+  {
+    "id": 10,
+    "term": "What's up? (very informal)",
+    "definition": "Come va?",
+    "example": "casual, works as both 'how's it going' and 'what's up'"
+  },
+  {
+    "id": 11,
+    "term": "Goodbye!",
+    "definition": "Arrivederci!",
+    "example": "the standard, neutral goodbye — fine in both formal and informal settings"
+  },
+  {
+    "id": 12,
+    "term": "See you later!",
+    "definition": "A dopo!",
+    "example": "when you'll meet again the same day"
+  },
+  {
+    "id": 13,
+    "term": "See you tomorrow!",
+    "definition": "Ci vediamo domani!",
+    "example": "specifies when you'll meet again"
+  },
+  {
+    "id": 14,
+    "term": "Take care!",
+    "definition": "Stammi bene!",
+    "example": "literally 'stay well for me' — a warm, casual farewell"
+  },
+  {
+    "id": 15,
+    "term": "Have a good day!",
+    "definition": "Buona giornata!",
+    "example": "a very common parting phrase"
+  },
+  {
+    "id": 16,
+    "term": "Bye! (informal)",
+    "definition": "Ciao ciao!",
+    "example": "doubling 'ciao' softens it into a casual goodbye — same word as #4's hello"
+  },
+  {
+    "id": 17,
+    "term": "Until next time!",
+    "definition": "Alla prossima!",
+    "example": "when you don't know exactly when you'll meet again"
+  },
+  {
+    "id": 18,
+    "term": "Have a safe trip!",
+    "definition": "Buon viaggio!",
+    "example": "said to someone setting off on a journey"
+  },
+  {
+    "id": 19,
+    "term": "Good night, sleep well.",
+    "definition": "Buonanotte, dormi bene.",
+    "example": "a warmer version of a plain 'buonanotte'"
+  },
+  {
+    "id": 20,
+    "term": "Take care of yourself.",
+    "definition": "Abbi cura di te.",
+    "example": "more caring/sincere than the casual 'stammi bene'"
+  },
+  {
+    "id": 21,
+    "term": "Please.",
+    "definition": "Per favore.",
+    "example": "the standard please, any register"
+  },
+  {
+    "id": 22,
+    "term": "Thank you.",
+    "definition": "Grazie.",
+    "example": "the standard thank-you"
+  },
+  {
+    "id": 23,
+    "term": "Thank you very much.",
+    "definition": "Grazie mille.",
+    "example": "literally 'a thousand thanks'"
+  },
+  {
+    "id": 24,
+    "term": "You're welcome.",
+    "definition": "Prego.",
+    "example": "the standard one-word reply to 'grazie'"
+  },
+  {
+    "id": 25,
+    "term": "No problem.",
+    "definition": "Nessun problema.",
+    "example": "casual response to thanks or an apology"
+  },
+  {
+    "id": 26,
+    "term": "Excuse me.",
+    "definition": "Scusa.",
+    "example": "informal; 'scusi' is the formal version, for strangers"
+  },
+  {
+    "id": 27,
+    "term": "I'm really sorry.",
+    "definition": "Mi dispiace davvero.",
+    "example": "'mi dispiace' (I'm sorry) + 'davvero' (really) to intensify it"
+  },
+  {
+    "id": 28,
+    "term": "Pardon? (didn't hear)",
+    "definition": "Come?",
+    "example": "the everyday, casual way to ask someone to repeat themselves"
+  },
+  {
+    "id": 29,
+    "term": "No worries.",
+    "definition": "Non preoccuparti.",
+    "example": "literally 'don't worry' — casual reassurance"
+  },
+  {
+    "id": 30,
+    "term": "It's my pleasure.",
+    "definition": "Il piacere è mio.",
+    "example": "a more formal reply than 'prego'"
+  },
+  {
+    "id": 31,
+    "term": "My name is Anna.",
+    "definition": "Mi chiamo Anna.",
+    "example": "reflexive 'chiamarsi' — literally 'I call myself Anna'"
+  },
+  {
+    "id": 32,
+    "term": "Nice to meet you.",
+    "definition": "Piacere di conoscerti.",
+    "example": "said on a first meeting"
+  },
+  {
+    "id": 33,
+    "term": "This is my friend Marco.",
+    "definition": "Questo è il mio amico Marco.",
+    "example": "the standard way to introduce someone"
+  },
+  {
+    "id": 34,
+    "term": "Where are you from?",
+    "definition": "Di dove sei?",
+    "example": "common small-talk opener"
+  },
+  {
+    "id": 35,
+    "term": "I'm from England.",
+    "definition": "Vengo dall'Inghilterra.",
+    "example": "'venire da' (come from) + 'da' + 'l'Inghilterra' elided into 'dall''"
+  },
+  {
+    "id": 36,
+    "term": "What do you do for a living?",
+    "definition": "Cosa fai nella vita?",
+    "example": "literally 'what do you do in life'"
+  },
+  {
+    "id": 37,
+    "term": "I'm a student.",
+    "definition": "Sono studente.",
+    "example": "no article for a profession, same rule as elsewhere in Italian"
+  },
+  {
+    "id": 38,
+    "term": "Likewise!",
+    "definition": "Altrettanto!",
+    "example": "reply to a compliment or well-wish, meaning 'same to you'"
+  },
+  {
+    "id": 39,
+    "term": "It was nice meeting you.",
+    "definition": "È stato un piacere conoscerti.",
+    "example": "said when parting after a first meeting"
+  },
+  {
+    "id": 40,
+    "term": "Let's keep in touch.",
+    "definition": "Teniamoci in contatto.",
+    "example": "reflexive-feeling construction: teniamoci"
+  },
+  {
+    "id": 41,
+    "term": "Happy birthday!",
+    "definition": "Buon compleanno!",
+    "example": "the standard birthday wish"
+  },
+  {
+    "id": 42,
+    "term": "Congratulations!",
+    "definition": "Congratulazioni!",
+    "example": "for any achievement"
+  },
+  {
+    "id": 43,
+    "term": "Good luck!",
+    "definition": "In bocca al lupo!",
+    "example": "literally 'into the wolf's mouth' — the traditional reply is 'Crepi!' ('may it die'), never 'grazie'"
+  },
+  {
+    "id": 44,
+    "term": "Best wishes!",
+    "definition": "I migliori auguri!",
+    "example": "a general well-wish, often written on cards"
+  },
+  {
+    "id": 45,
+    "term": "Get well soon!",
+    "definition": "Guarisci presto!",
+    "example": "informal imperative of guarire (to recover)"
+  },
+  {
+    "id": 46,
+    "term": "Happy New Year!",
+    "definition": "Buon anno!",
+    "example": "the standard New Year wish"
+  },
+  {
+    "id": 47,
+    "term": "Merry Christmas!",
+    "definition": "Buon Natale!",
+    "example": "the standard Christmas wish"
+  },
+  {
+    "id": 48,
+    "term": "Cheers! (a toast)",
+    "definition": "Salute!",
+    "example": "literally 'health' — raised when drinking together"
+  },
+  {
+    "id": 49,
+    "term": "Have fun!",
+    "definition": "Divertiti!",
+    "example": "informal imperative of divertirsi (to have fun)"
+  },
+  {
+    "id": 50,
+    "term": "Enjoy your meal!",
+    "definition": "Buon appetito!",
+    "example": "said before eating — famously borrowed into English too"
+  },
+  {
+    "id": 51,
+    "term": "Can you help me, please?",
+    "definition": "Puoi aiutarmi, per favore?",
+    "example": "object pronoun attaches to the infinitive: aiutarmi"
+  },
+  {
+    "id": 52,
+    "term": "I need help.",
+    "definition": "Ho bisogno di aiuto.",
+    "example": "'avere bisogno di' (to need) + noun"
+  },
+  {
+    "id": 53,
+    "term": "Where is the bathroom?",
+    "definition": "Dov'è il bagno?",
+    "example": "one of the most useful phrasebook lines there is"
+  },
+  {
+    "id": 54,
+    "term": "How much does this cost?",
+    "definition": "Quanto costa?",
+    "example": "'quanto' (how much) + costare"
+  },
+  {
+    "id": 55,
+    "term": "Do you have this in another color?",
+    "definition": "Ce l'avete in un altro colore?",
+    "example": "'ce l'avete' — a fixed way of asking 'do you (plural/formal) have it'"
+  },
+  {
+    "id": 56,
+    "term": "Can I have the bill, please?",
+    "definition": "Posso avere il conto, per favore?",
+    "example": "'potere' + avere"
+  },
+  {
+    "id": 57,
+    "term": "One moment, please.",
+    "definition": "Un momento, per favore.",
+    "example": "simple and universally understood"
+  },
+  {
+    "id": 58,
+    "term": "Could you repeat that?",
+    "definition": "Puoi ripetere?",
+    "example": "polite request with 'potere'"
+  },
+  {
+    "id": 59,
+    "term": "I don't understand.",
+    "definition": "Non capisco.",
+    "example": "simple negation of capire"
+  },
+  {
+    "id": 60,
+    "term": "Could you speak more slowly?",
+    "definition": "Puoi parlare più lentamente?",
+    "example": "comparative adverb: lentamente → più lentamente"
+  },
+  {
+    "id": 61,
+    "term": "I agree.",
+    "definition": "Sono d'accordo.",
+    "example": "'essere d'accordo' — literally 'to be in agreement'"
+  },
+  {
+    "id": 62,
+    "term": "I don't agree.",
+    "definition": "Non sono d'accordo.",
+    "example": "negated version"
+  },
+  {
+    "id": 63,
+    "term": "That's true.",
+    "definition": "È vero.",
+    "example": "simple identity statement"
+  },
+  {
+    "id": 64,
+    "term": "That's not true.",
+    "definition": "Non è vero.",
+    "example": "negated"
+  },
+  {
+    "id": 65,
+    "term": "I think so.",
+    "definition": "Penso di sì.",
+    "example": "'pensare di' + sì/no — a fixed pattern"
+  },
+  {
+    "id": 66,
+    "term": "I don't think so.",
+    "definition": "Penso di no.",
+    "example": "same pattern, negated"
+  },
+  {
+    "id": 67,
+    "term": "Sounds good.",
+    "definition": "Va bene!",
+    "example": "literally 'it goes well' — the everyday way to say 'that works'"
+  },
+  {
+    "id": 68,
+    "term": "No way!",
+    "definition": "Ma va!",
+    "example": "colloquial disbelief — literally 'but go!'"
+  },
+  {
+    "id": 69,
+    "term": "Of course!",
+    "definition": "Certo!",
+    "example": "enthusiastic agreement"
+  },
+  {
+    "id": 70,
+    "term": "Maybe.",
+    "definition": "Forse.",
+    "example": "a single-word hedge"
+  },
+  {
+    "id": 71,
+    "term": "Really?",
+    "definition": "Davvero?",
+    "example": "expressing surprise or asking for confirmation"
+  },
+  {
+    "id": 72,
+    "term": "Wow!",
+    "definition": "Wow!",
+    "example": "borrowed straight from English, very common in speech"
+  },
+  {
+    "id": 73,
+    "term": "That's great!",
+    "definition": "Fantastico!",
+    "example": "enthusiastic reaction"
+  },
+  {
+    "id": 74,
+    "term": "I'm sorry to hear that.",
+    "definition": "Mi dispiace saperlo.",
+    "example": "expressing sympathy, not an apology"
+  },
+  {
+    "id": 75,
+    "term": "What a shame.",
+    "definition": "Che peccato.",
+    "example": "'che' + noun, exclamatory"
+  },
+  {
+    "id": 76,
+    "term": "Oh no!",
+    "definition": "Oh no!",
+    "example": "a simple exclamation of dismay"
+  },
+  {
+    "id": 77,
+    "term": "Exactly!",
+    "definition": "Esatto!",
+    "example": "strong agreement"
+  },
+  {
+    "id": 78,
+    "term": "I see.",
+    "definition": "Capisco.",
+    "example": "used as a filler acknowledging what was said, not just 'I understand a fact'"
+  },
+  {
+    "id": 79,
+    "term": "That makes sense.",
+    "definition": "Ha senso.",
+    "example": "'avere senso' (to have sense/make sense)"
+  },
+  {
+    "id": 80,
+    "term": "That's interesting.",
+    "definition": "È interessante.",
+    "example": "'interessante' looks the same for any gender"
+  },
+  {
+    "id": 81,
+    "term": "Hello? (on the phone)",
+    "definition": "Pronto?",
+    "example": "only used answering the phone — genuinely different from 'ciao'"
+  },
+  {
+    "id": 82,
+    "term": "Who's calling?",
+    "definition": "Chi parla?",
+    "example": "literally 'who's speaking' — asked when answering an unexpected call"
+  },
+  {
+    "id": 83,
+    "term": "Can I call you back?",
+    "definition": "Posso richiamarti?",
+    "example": "'richiamare' — a single verb for 'call back'"
+  },
+  {
+    "id": 84,
+    "term": "It was nice talking to you.",
+    "definition": "È stato bello parlare con te.",
+    "example": "'con te' (with you) — the standalone pronoun after a preposition"
+  },
+  {
+    "id": 85,
+    "term": "See you at the party!",
+    "definition": "Ci vediamo alla festa!",
+    "example": "'a' + 'la' contract into 'alla'"
+  },
+  {
+    "id": 86,
+    "term": "I'll text you.",
+    "definition": "Ti scrivo un messaggio.",
+    "example": "literally 'I'll write you a message' — how Italian says 'text'"
+  },
+  {
+    "id": 87,
+    "term": "Take it easy!",
+    "definition": "Prenditela con calma!",
+    "example": "literally 'take it with calm' — a reflexive-feeling idiom, informal imperative"
+  },
+  {
+    "id": 88,
+    "term": "All the best!",
+    "definition": "Tanti auguri!",
+    "example": "a catch-all well-wish, distinct from 'i migliori auguri'"
+  },
+  {
+    "id": 89,
+    "term": "I'll be right there.",
+    "definition": "Arrivo subito.",
+    "example": "present tense standing in for 'I'll arrive right away'"
+  },
+  {
+    "id": 90,
+    "term": "I'm on my way.",
+    "definition": "Sto arrivando.",
+    "example": "present progressive: stare + gerundio"
+  },
+  {
+    "id": 91,
+    "term": "Watch out!",
+    "definition": "Attento!",
+    "example": "a sharp warning; 'attenta' if warning a woman"
+  },
+  {
+    "id": 92,
+    "term": "No rush.",
+    "definition": "Nessuna fretta.",
+    "example": "reassuring someone they have time"
+  },
+  {
+    "id": 93,
+    "term": "After you.",
+    "definition": "Dopo di te.",
+    "example": "letting someone go first"
+  },
+  {
+    "id": 94,
+    "term": "Make yourself at home.",
+    "definition": "Fai come se fossi a casa tua.",
+    "example": "literally 'do as if you were at your own house'"
+  },
+  {
+    "id": 95,
+    "term": "It's on me. (paying)",
+    "definition": "Offro io.",
+    "example": "literally 'I'm offering' — offering to pay"
+  },
+  {
+    "id": 96,
+    "term": "Let's go!",
+    "definition": "Andiamo!",
+    "example": "the plain 'noi' present doubling as 'let's...'"
+  },
+  {
+    "id": 97,
+    "term": "Welcome home!",
+    "definition": "Bentornato a casa!",
+    "example": "said when someone returns; 'bentornata' for a woman"
+  },
+  {
+    "id": 98,
+    "term": "Get home safe!",
+    "definition": "Arriva a casa sano e salvo!",
+    "example": "literally 'arrive home safe and sound'"
+  },
+  {
+    "id": 99,
+    "term": "I'm looking forward to it.",
+    "definition": "Non vedo l'ora.",
+    "example": "literally 'I can't see the hour' — the natural Italian equivalent"
+  },
+  {
+    "id": 100,
+    "term": "Thanks for everything.",
+    "definition": "Grazie di tutto.",
+    "example": "'grazie di' + noun, an alternative to 'grazie per'"
   }
 ];
