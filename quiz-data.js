@@ -2666,7 +2666,17 @@ window.QM_HIDDEN_QUIZZES = [
   "csIntermediateSentences",
   "rcsIntermediateSentences",
   "csPhrases",
-  "rcsPhrases"
+  "rcsPhrases",
+  "ritIdioms",
+  "rplIdioms",
+  "rfrIdioms",
+  "rdeIdioms",
+  "resIdioms",
+  "rptIdioms",
+  "rnlIdioms",
+  "rhuIdioms",
+  "rroIdioms",
+  "rcsIdioms"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -62958,9 +62968,10 @@ window.QM_IDIOMS_IT_DATA = [
   },
   {
     "id": 100,
-    "term": "Togliere le castagne dal fuoco",
-    "definition": "\"To take the chestnuts out of the fire\" — to sort out someone else’s mess",
-    "example": "Tocca sempre a me togliere le castagne dal fuoco."
+    "term": "Una corsa contro il tempo",
+    "definition": "\"A race against time\" — an urgent effort to finish something before a deadline",
+    "example": "È stata una corsa contro il tempo per finire il progetto in tempo.",
+    "enIdiom": "Race against time"
   }
 ];
 window.QM_IDIOMS_PL_DATA = [
@@ -63560,9 +63571,10 @@ window.QM_IDIOMS_PL_DATA = [
   },
   {
     "id": 100,
-    "term": "Wpaść komuś w oko",
-    "definition": "\"To fall into someone's eye\" — to catch someone's fancy",
-    "example": "Ta sukienka od razu wpadła jej w oko."
+    "term": "Wyścig z czasem",
+    "definition": "\"A race with time\" — a race against time; an urgent effort to finish before a deadline",
+    "example": "To był prawdziwy wyścig z czasem, żeby skończyć raport.",
+    "enIdiom": "Race against time"
   }
 ];
 window.QM_IDIOMS_FR_DATA = [
@@ -64168,9 +64180,10 @@ window.QM_IDIOMS_FR_DATA = [
   },
   {
     "id": 101,
-    "term": "Prendre racine",
-    "definition": "\"To take root\" — to outstay your welcome",
-    "example": "Il a pris racine dans le salon."
+    "term": "Une course contre la montre",
+    "definition": "\"A race against the clock\" — a race against time; an urgent effort to finish before a deadline",
+    "example": "C'était une course contre la montre pour terminer le rapport avant midi.",
+    "enIdiom": "Race against time"
   }
 ];
 window.QM_IDIOMS_DE_DATA = [
@@ -64770,9 +64783,10 @@ window.QM_IDIOMS_DE_DATA = [
   },
   {
     "id": 100,
-    "term": "Einen Vogel haben",
-    "definition": "\"To have a bird\" — to have a screw loose",
-    "example": "Du hast wohl einen Vogel!"
+    "term": "Ein Wettlauf mit der Zeit",
+    "definition": "\"A race with time\" — a race against time; an urgent effort to finish before a deadline",
+    "example": "Es war ein Wettlauf mit der Zeit, den Bericht rechtzeitig fertigzustellen.",
+    "enIdiom": "Race against time"
   }
 ];
 window.QM_IDIOMS_ES_DATA = [
@@ -65372,9 +65386,10 @@ window.QM_IDIOMS_ES_DATA = [
   },
   {
     "id": 100,
-    "term": "Ser el ojito derecho de alguien",
-    "definition": "\"To be someone’s little right eye\" — to be their favourite",
-    "example": "Es el ojito derecho de su abuela."
+    "term": "Una carrera contra el tiempo",
+    "definition": "\"A race against time\" — an urgent effort to finish something before a deadline",
+    "example": "Fue una carrera contra el tiempo para terminar el informe a tiempo.",
+    "enIdiom": "Race against time"
   }
 ];
 window.QM_IDIOMS_PT_DATA = [
@@ -65980,9 +65995,10 @@ window.QM_IDIOMS_PT_DATA = [
   },
   {
     "id": 101,
-    "term": "Ser o braço direito de alguém",
-    "definition": "“To be someone's right arm” — to be someone's indispensable helper",
-    "example": "É o braço direito do director há vinte anos."
+    "term": "Uma corrida contra o tempo",
+    "definition": "\"A race against time\" — an urgent effort to finish something before a deadline",
+    "example": "Foi uma corrida contra o tempo para terminar o relatório a tempo.",
+    "enIdiom": "Race against time"
   }
 ];
 window.QM_IDIOMS_NL_DATA = [
@@ -66594,9 +66610,10 @@ window.QM_IDIOMS_NL_DATA = [
   },
   {
     "id": 102,
-    "term": "Als een olifant in een porseleinkast",
-    "definition": "“Like an elephant in a china cabinet” — like a bull in a china shop",
-    "example": "Hij liep als een olifant in een porseleinkast door de vergadering."
+    "term": "Een race tegen de klok",
+    "definition": "\"A race against the clock\" — a race against time; an urgent effort to finish before a deadline",
+    "example": "Het was een race tegen de klok om het rapport op tijd af te krijgen.",
+    "enIdiom": "Race against time"
   }
 ];
 window.QM_IDIOMS_HU_DATA = [
@@ -67196,9 +67213,10 @@ window.QM_IDIOMS_HU_DATA = [
   },
   {
     "id": 100,
-    "term": "Kicsúszik a lába alól a talaj",
-    "definition": "\"The ground slips out from under his feet\" — he loses his footing in life",
-    "example": "Az elbocsátás után kicsúszott a lába alól a talaj."
+    "term": "Versenyfutás az idővel",
+    "definition": "\"A race with time\" — a race against time; an urgent effort to finish before a deadline",
+    "example": "Versenyfutás volt az idővel, hogy időben befejezzük a jelentést.",
+    "enIdiom": "Race against time"
   }
 ];
 window.QM_IDIOMS_RO_DATA = [
@@ -67810,9 +67828,10 @@ window.QM_IDIOMS_RO_DATA = [
   },
   {
     "id": 102,
-    "term": "A fi cu scaun la cap",
-    "definition": "“To have a chair at the head” — to be sensible",
-    "example": "E tânăr, dar e cu scaun la cap."
+    "term": "Cursă contra cronometru",
+    "definition": "\"A race against the stopwatch\" — a race against time; an urgent effort to finish before a deadline",
+    "example": "A fost o cursă contra cronometru pentru a termina raportul la timp.",
+    "enIdiom": "Race against time"
   }
 ];
 window.QM_IDIOMS_CS_DATA = [
@@ -68412,9 +68431,10 @@ window.QM_IDIOMS_CS_DATA = [
   },
   {
     "id": 100,
-    "term": "Být kost a kůže",
-    "definition": "\"To be bone and skin\" — to be skin and bone",
-    "example": "Po nemoci byl kost a kůže."
+    "term": "Závod s časem",
+    "definition": "\"A race with time\" — a race against time; an urgent effort to finish before a deadline",
+    "example": "Bylo to závod s časem dokončit zprávu včas.",
+    "enIdiom": "Race against time"
   }
 ];
 window.QM_NO3S5258_DATA = [
