@@ -57418,6 +57418,23 @@ window.QM_VOCAB_SPACE_DATA = [
     "focalX": 48.4023917434562,
     "focalY": 0,
     "zoom": 1.3
+  },
+  {
+    "id": "big-bang",
+    "english": "Big Bang",
+    "it": "il Big Bang",
+    "pl": "Wielki Wybuch",
+    "fr": "le Big Bang",
+    "de": "der Urknall",
+    "es": "el Big Bang",
+    "pt": "o Big Bang",
+    "nl": "de oerknal",
+    "hu": "ősrobbanás",
+    "ro": "Big Bang",
+    "lt": "Didysis sprogimas",
+    "uk": "Великий вибух",
+    "cs": "velký třesk",
+    "imageUrl": ""
   }
 ];
 window.QM_DOGBREEDS_DATA = [
