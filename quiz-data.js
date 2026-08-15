@@ -53892,7 +53892,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "nuobodžiaujantis",
     "uk": "знуджений",
     "cs": "znuděný",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-bored.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-bored.png",
+    "focalX": 63.81232502824914,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "jealous",
@@ -53909,7 +53916,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "pavydus",
     "uk": "ревнивий",
     "cs": "žárlivý",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-jealous.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-jealous.jpg",
+    "focalX": 54.78480904402133,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "proud",
@@ -53926,7 +53940,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "išdidus",
     "uk": "гордий",
     "cs": "hrdý",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-proud.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-proud.webp",
+    "focalX": 37.70536543771325,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "embarrassed",
@@ -53943,7 +53964,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "susigėdęs",
     "uk": "збентежений",
     "cs": "trapně",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-embarrassed.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-embarrassed.png",
+    "focalX": 80.78801651563177,
+    "focalY": 60.103557100627405,
+    "zoom": 1.1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "lonely",
@@ -53960,7 +53988,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "vienišas",
     "uk": "самотній",
     "cs": "osamělý",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-lonely.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-lonely.png",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "relieved",
@@ -53977,7 +54012,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "palengvėjęs",
     "uk": "полегшений",
     "cs": "ulevený",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-relieved.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-relieved.jpg",
+    "focalX": 33.635887136301825,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "nervous",
@@ -53994,7 +54036,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "nervingas",
     "uk": "знервований",
     "cs": "nervózní",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-nervous.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-nervous.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "worried",
