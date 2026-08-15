@@ -53844,7 +53844,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "nuobodžiaujantis",
     "uk": "знуджений",
     "cs": "znuděný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-bored.jpg"
   },
   {
     "id": "jealous",
@@ -53861,7 +53861,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "pavydus",
     "uk": "ревнивий",
     "cs": "žárlivý",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-jealous.jpg"
   },
   {
     "id": "proud",
@@ -53878,7 +53878,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "išdidus",
     "uk": "гордий",
     "cs": "hrdý",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-proud.jpg"
   },
   {
     "id": "embarrassed",
@@ -53895,7 +53895,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "susigėdęs",
     "uk": "збентежений",
     "cs": "trapně",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-embarrassed.jpg"
   },
   {
     "id": "lonely",
@@ -53912,7 +53912,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "vienišas",
     "uk": "самотній",
     "cs": "osamělý",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-lonely.jpg"
   },
   {
     "id": "relieved",
@@ -53929,7 +53929,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "palengvėjęs",
     "uk": "полегшений",
     "cs": "ulevený",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-relieved.jpg"
   },
   {
     "id": "nervous",
@@ -53946,7 +53946,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "nervingas",
     "uk": "знервований",
     "cs": "nervózní",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-nervous.jpg"
   },
   {
     "id": "worried",
@@ -53963,7 +53963,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "susirūpinęs",
     "uk": "стурбований",
     "cs": "ustaraný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-worried.jpg"
   },
   {
     "id": "shy",
@@ -53980,7 +53980,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "drovus",
     "uk": "сором’язливий",
     "cs": "stydlivý",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-shy.jpg"
   },
   {
     "id": "grateful",
@@ -53997,7 +53997,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "dėkingas",
     "uk": "вдячний",
     "cs": "vděčný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-grateful.jpg"
   },
   {
     "id": "hopeful",
@@ -54014,7 +54014,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "viltingas",
     "uk": "сповнений надії",
     "cs": "plný naděje",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-hopeful.jpg"
   },
   {
     "id": "disappointed",
@@ -54031,7 +54031,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "nusivylęs",
     "uk": "розчарований",
     "cs": "zklamaný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-disappointed.jpg"
   },
   {
     "id": "frustrated",
@@ -54048,7 +54048,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "susierzinęs",
     "uk": "фрустрований",
     "cs": "frustrovaný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-frustrated.jpg"
   },
   {
     "id": "guilty",
@@ -54065,7 +54065,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "kaltas",
     "uk": "винний",
     "cs": "provinilý",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-guilty.jpg"
   },
   {
     "id": "curious",
@@ -54082,7 +54082,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "smalsus",
     "uk": "допитливий",
     "cs": "zvědavý",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-curious.jpg"
   },
   {
     "id": "amused",
@@ -54099,7 +54099,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "pralinksmėjęs",
     "uk": "розвеселений",
     "cs": "pobavený",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-amused.jpg"
   },
   {
     "id": "content",
@@ -54116,7 +54116,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "patenkintas",
     "uk": "задоволений",
     "cs": "spokojený",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-content.jpg"
   },
   {
     "id": "annoyed",
@@ -54133,7 +54133,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "suirzęs",
     "uk": "роздратований",
     "cs": "otrávený",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-annoyed.jpg"
   },
   {
     "id": "furious",
@@ -54150,7 +54150,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "įtūžęs",
     "uk": "розлючений",
     "cs": "zuřivý",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-furious.jpg"
   },
   {
     "id": "terrified",
@@ -54167,7 +54167,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "persigandęs",
     "uk": "нажаханий",
     "cs": "vyděšený",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-terrified.jpg"
   },
   {
     "id": "shocked",
@@ -54184,7 +54184,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "šokiruotas",
     "uk": "шокований",
     "cs": "šokovaný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-shocked.jpg"
   },
   {
     "id": "exhausted",
@@ -54201,7 +54201,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "išsekęs",
     "uk": "виснажений",
     "cs": "vyčerpaný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-exhausted.jpg"
   },
   {
     "id": "relaxed",
@@ -54218,7 +54218,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "atsipalaidavęs",
     "uk": "розслаблений",
     "cs": "uvolněný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-relaxed.jpg"
   },
   {
     "id": "cheerful",
@@ -54235,7 +54235,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "linksmas",
     "uk": "веселий",
     "cs": "veselý",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-cheerful.jpg"
   },
   {
     "id": "miserable",
@@ -54252,7 +54252,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "apgailėtinas",
     "uk": "нещасний",
     "cs": "mizerný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-miserable.jpg"
   },
   {
     "id": "upset",
@@ -54269,7 +54269,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "sutrikdytas",
     "uk": "засмучений",
     "cs": "rozrušený",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-upset.jpg"
   },
   {
     "id": "determined",
@@ -54286,7 +54286,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "ryžtingas",
     "uk": "рішучий",
     "cs": "odhodlaný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-determined.jpg"
   },
   {
     "id": "overwhelmed",
@@ -54303,7 +54303,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "priblokštas",
     "uk": "приголомшений",
     "cs": "zahlcený",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-overwhelmed.jpg"
   },
   {
     "id": "confident",
@@ -54320,7 +54320,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "pasitikintis savimi",
     "uk": "упевнений",
     "cs": "sebejistý",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-confident.jpg"
   },
   {
     "id": "in-love",
@@ -54337,7 +54337,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "įsimylėjęs",
     "uk": "закоханий",
     "cs": "zamilovaný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-in-love.jpg"
   },
   {
     "id": "impatient",
@@ -54354,7 +54354,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "nekantrus",
     "uk": "нетерплячий",
     "cs": "netrpělivý",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-impatient.jpg"
   },
   {
     "id": "suspicious",
@@ -54371,7 +54371,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "įtarus",
     "uk": "підозрілий",
     "cs": "podezíravý",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-suspicious.jpg"
   },
   {
     "id": "hurt",
@@ -54388,7 +54388,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "įskaudintas",
     "uk": "ображений",
     "cs": "zraněný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-hurt.jpg"
   },
   {
     "id": "stressed",
@@ -54405,7 +54405,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "patiriantis stresą",
     "uk": "у стресі",
     "cs": "vystresovaný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-stressed.jpg"
   },
   {
     "id": "depressed",
@@ -54422,7 +54422,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "prislėgtas",
     "uk": "пригнічений",
     "cs": "sklíčený",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-depressed.jpg"
   },
   {
     "id": "indifferent",
@@ -54439,7 +54439,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "abejingas",
     "uk": "байдужий",
     "cs": "lhostejný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-indifferent.jpg"
   },
   {
     "id": "optimistic",
@@ -54456,7 +54456,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "optimistiškas",
     "uk": "оптимістичний",
     "cs": "optimistický",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-optimistic.jpg"
   },
   {
     "id": "pessimistic",
@@ -54473,7 +54473,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "pesimistiškas",
     "uk": "песимістичний",
     "cs": "pesimistický",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-pessimistic.jpg"
   },
   {
     "id": "astonished",
@@ -54490,7 +54490,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "apstulbęs",
     "uk": "вражений",
     "cs": "ohromený",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-astonished.jpg"
   },
   {
     "id": "affectionate",
@@ -54507,7 +54507,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "meilus",
     "uk": "лагідний",
     "cs": "láskyplný",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-affectionate.jpg"
   }
 ];
 window.QM_VOCAB_INSTRUMENTS_DATA = [
