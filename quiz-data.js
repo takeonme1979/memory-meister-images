@@ -2572,31 +2572,7 @@ window.QM_HIDDEN_QUIZZES = [
   "rnlIdioms",
   "rhuIdioms",
   "rroIdioms",
-  "rcsIdioms",
-  "itTransport",
-  "ritTransport",
-  "plTransport",
-  "rplTransport",
-  "frTransport",
-  "rfrTransport",
-  "deTransport",
-  "rdeTransport",
-  "esTransport",
-  "resTransport",
-  "ptTransport",
-  "rptTransport",
-  "nlTransport",
-  "rnlTransport",
-  "huTransport",
-  "rhuTransport",
-  "roTransport",
-  "rroTransport",
-  "ltTransport",
-  "rltTransport",
-  "ukTransport",
-  "rukTransport",
-  "csTransport",
-  "rcsTransport"
+  "rcsIdioms"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
