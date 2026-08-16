@@ -54679,7 +54679,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "automobilis",
     "uk": "автомобіль",
     "cs": "auto",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-car.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-car.jpg",
+    "focalX": 46.86075150352213,
+    "focalY": 59.072591504929676,
+    "zoom": 1.35,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "bus",
@@ -54696,7 +54703,10 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "autobusas",
     "uk": "автобус",
     "cs": "autobus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-bus.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-bus.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "train",
@@ -54713,7 +54723,10 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "traukinys",
     "uk": "поїзд",
     "cs": "vlak",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-train.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-train.jpg",
+    "focalX": 60.49054320034594,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "bicycle",
@@ -54781,7 +54794,10 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "valtis",
     "uk": "човен",
     "cs": "člun",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-boat.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-boat.jpg",
+    "focalX": 100,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ship",
@@ -54798,7 +54814,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "laivas",
     "uk": "корабель",
     "cs": "loď",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-ship.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-ship.jpg",
+    "focalX": 39.83201296839612,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "truck",
@@ -54832,7 +54855,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "taksi",
     "uk": "таксі",
     "cs": "taxík",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-taxi.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-taxi.webp",
+    "focalX": 60.262044270833336,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "helicopter",
@@ -54886,40 +54916,6 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-tram.jpg"
   },
   {
-    "id": "trolleybus",
-    "english": "Trolleybus",
-    "it": "il filobus",
-    "pl": "trolejbus",
-    "fr": "le trolleybus",
-    "de": "der Oberleitungsbus",
-    "es": "el trolebús",
-    "pt": "o troleicarro",
-    "nl": "de trolleybus",
-    "hu": "trolibusz",
-    "ro": "troleibuz",
-    "lt": "troleibusas",
-    "uk": "тролейбус",
-    "cs": "trolejbus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-trolleybus.jpg"
-  },
-  {
-    "id": "underground",
-    "english": "Underground",
-    "it": "la metropolitana",
-    "pl": "metro",
-    "fr": "le métro",
-    "de": "die U-Bahn",
-    "es": "el metro",
-    "pt": "o metro",
-    "nl": "de metro",
-    "hu": "metró",
-    "ro": "metrou",
-    "lt": "metro",
-    "uk": "метро",
-    "cs": "metro",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-underground.jpg"
-  },
-  {
     "id": "monorail",
     "english": "Monorail",
     "it": "la monorotaia",
@@ -54934,7 +54930,10 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "vienbėgis geležinkelis",
     "uk": "монорейка",
     "cs": "monorail",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-monorail.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-monorail.jpg",
+    "focalX": 38.657038192186825,
+    "focalY": 88.97082943713806,
+    "zoom": 1.1
   },
   {
     "id": "steam-locomotive",
@@ -54985,7 +54984,10 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "paspirtukas",
     "uk": "самокат",
     "cs": "koloběžka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-kick-scooter.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-kick-scooter.jpg",
+    "focalX": 50,
+    "focalY": 82.74364152717017,
+    "zoom": 1
   },
   {
     "id": "quad-bike",
@@ -55036,7 +55038,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "tandemas",
     "uk": "тандем",
     "cs": "tandem",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-tandem-bicycle.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-tandem-bicycle.jpg",
+    "focalX": 72.67659799366554,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "skateboard",
@@ -55053,7 +55062,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "riedlentė",
     "uk": "скейтборд",
     "cs": "skateboard",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-skateboard.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-skateboard.webp",
+    "focalX": 63.85565515148567,
+    "focalY": 0,
+    "zoom": 1.3,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "roller-skates",
@@ -55070,7 +55086,10 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "riedučiai",
     "uk": "ролики",
     "cs": "kolečkové brusle",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-roller-skates.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-roller-skates.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "van",
@@ -55087,7 +55106,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "furgonas",
     "uk": "фургон",
     "cs": "dodávka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-van.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-van.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "pickup-truck",
@@ -55121,7 +55147,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "greitoji pagalba",
     "uk": "швидка допомога",
     "cs": "sanitka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-ambulance.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-ambulance.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "fire-engine",
@@ -55138,7 +55171,10 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "gaisrinė mašina",
     "uk": "пожежна машина",
     "cs": "hasičské auto",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-fire-engine.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-fire-engine.jpg",
+    "focalX": 57.0561265435707,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "police-car",
@@ -55155,7 +55191,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "policijos automobilis",
     "uk": "поліцейський автомобіль",
     "cs": "policejní auto",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-police-car.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-police-car.jpg",
+    "focalX": 39.63815753642512,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "tractor",
