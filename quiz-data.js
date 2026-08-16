@@ -54060,7 +54060,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "susirūpinęs",
     "uk": "стурбований",
     "cs": "ustaraný",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-worried.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-worried.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "shy",
@@ -54077,7 +54084,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "drovus",
     "uk": "сором’язливий",
     "cs": "stydlivý",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-shy.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-shy.webp",
+    "focalX": 81.09022405206306,
+    "focalY": 100,
+    "zoom": 1.2,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "grateful",
@@ -54094,7 +54108,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "dėkingas",
     "uk": "вдячний",
     "cs": "vděčný",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-grateful.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-grateful.jpg",
+    "focalX": 48.04527930964052,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "hopeful",
@@ -54111,7 +54132,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "viltingas",
     "uk": "сповнений надії",
     "cs": "plný naděje",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-hopeful.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-hopeful.webp",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "disappointed",
@@ -54128,7 +54156,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "nusivylęs",
     "uk": "розчарований",
     "cs": "zklamaný",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-disappointed.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-disappointed.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "frustrated",
@@ -54145,7 +54180,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "susierzinęs",
     "uk": "фрустрований",
     "cs": "frustrovaný",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-frustrated.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-frustrated.jpg",
+    "focalX": 62.183015739666025,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "guilty",
@@ -54162,7 +54204,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "kaltas",
     "uk": "винний",
     "cs": "provinilý",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-guilty.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-guilty.jpg",
+    "focalX": 43.22398109702797,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "curious",
@@ -54179,7 +54228,14 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "smalsus",
     "uk": "допитливий",
     "cs": "zvědavý",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-curious.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-curious.jpg",
+    "focalX": 46.02341355550442,
+    "focalY": 100,
+    "zoom": 1.1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "amused",
