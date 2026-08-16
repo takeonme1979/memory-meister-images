@@ -55259,7 +55259,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "keltas",
     "uk": "пором",
     "cs": "trajekt",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-ferry.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-ferry.jpg",
+    "focalX": 50,
+    "focalY": 56.40949686731157,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "sailing-boat",
@@ -55293,7 +55300,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "jachta",
     "uk": "яхта",
     "cs": "jachta",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-yacht.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-yacht.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1.15,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "cruise-ship",
@@ -55412,7 +55426,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "vandens motociklas",
     "uk": "гідроцикл",
     "cs": "vodní skútr",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-jet-ski.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-jet-ski.jpg",
+    "focalX": 41.18585643654098,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "barge",
@@ -55429,7 +55450,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "baržа",
     "uk": "баржа",
     "cs": "nákladní člun",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-barge.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-barge.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "gondola",
@@ -55446,7 +55474,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "gondola",
     "uk": "гондола",
     "cs": "gondola",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-gondola.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-gondola.jpg",
+    "focalX": 57.82640475516829,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "hot-air-balloon",
@@ -55463,7 +55498,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "oro balionas",
     "uk": "повітряна куля",
     "cs": "horkovzdušný balon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-hot-air-balloon.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-hot-air-balloon.webp",
+    "focalX": 50,
+    "focalY": 89.37344030714854,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "glider",
@@ -55497,7 +55539,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "dirižablis",
     "uk": "дирижабль",
     "cs": "vzducholoď",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-airship.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-airship.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "cable-car",
@@ -55548,7 +55597,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "funikulierius",
     "uk": "фунікулер",
     "cs": "pozemní lanovka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-funicular.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-funicular.webp",
+    "focalX": 72.9440751183219,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "escalator",
@@ -55650,7 +55706,14 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "rikša",
     "uk": "рикша",
     "cs": "rikša",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-rickshaw.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-rickshaw.jpg",
+    "focalX": 27.8119535602654,
+    "focalY": 100,
+    "zoom": 1.05,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   }
 ];
 window.QM_VOCAB_INSTRUMENTS_DATA = [
