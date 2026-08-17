@@ -58659,7 +58659,14 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "kosmosas",
     "uk": "космос",
     "cs": "kosmos",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space.jpg",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "astronomy",
@@ -58676,7 +58683,14 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "astronomija",
     "uk": "астрономія",
     "cs": "astronomie/hvězdářství",
-    "imageUrl": ""
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/astronomy.webp",
+    "focalX": 50,
+    "focalY": 18,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "universe",
