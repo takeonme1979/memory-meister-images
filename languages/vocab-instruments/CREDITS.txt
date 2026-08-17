@@ -1,0 +1,10 @@
+
+# Landscape replacements sourced from Pexels (free for commercial use;
+# attribution not required, recorded as good practice).
+instrument-guitar — Paul Deetman via Pexels — https://www.pexels.com/photo/a-person-playing-an-acoustic-guitar-27508913/
+instrument-violin — Roxanne Minnish via Pexels — https://www.pexels.com/photo/people-playing-violins-12279545/
+instrument-cello — Roxanne Minnish via Pexels — https://www.pexels.com/photo/people-playing-cellos-12279497/
+instrument-doublebass — Los Muertos Crew via Pexels — https://www.pexels.com/photo/a-bearded-man-playing-the-cello-8280005/
+instrument-saxophone — Max Chen via Pexels — https://www.pexels.com/photo/people-playing-saxophones-11773322/
+instrument-harp — Jan Brndiar via Pexels — https://www.pexels.com/photo/a-person-playing-harp-25182746/
+instrument-bagpipes — Tamim  Hossain via Pexels — https://www.pexels.com/photo/uniformed-bagpipers-performing-outdoors-35281371/
