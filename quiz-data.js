@@ -9804,7 +9804,7 @@ window.QM_MALE70S_DATA = [
   {
     "id": "id_1784112229105_iu7bbxd9ro",
     "name": "George Harrison (The Beatles)",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/george-harrison.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/male-70s/george-harrison.jpg?v=1787005324543"
   },
   {
     "id": "id_1784112229105_0j86mujglg",
@@ -10758,7 +10758,7 @@ window.QM_GUITARISTS_DATA = [
   {
     "id": 50,
     "name": "John Williams",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/guitarists/john-williams.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/guitarists/john-williams.jpg?v=1787005324474"
   },
   {
     "id": 51,
@@ -54102,10 +54102,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "pralinksmėjęs",
     "uk": "розвеселений",
     "cs": "pobavený",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-amused.jpg",
-    "focalX": 71.56732021233971,
-    "focalY": 15.268619749127671,
-    "zoom": 1.1,
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-amused.jpg?v=1787005324607",
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
