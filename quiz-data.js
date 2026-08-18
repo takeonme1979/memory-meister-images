@@ -27644,7 +27644,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "laumžirgis",
     "uk": "бабка",
     "cs": "vážka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-dragonfly.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-dragonfly.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "ladybird",
@@ -27661,41 +27664,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "boružė",
     "uk": "сонечко",
     "cs": "beruška",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-ladybird.jpg"
-  },
-  {
-    "id": "wasp",
-    "english": "Wasp",
-    "it": "la vespa",
-    "pl": "osa",
-    "fr": "la guêpe",
-    "de": "die Wespe",
-    "es": "la avispa",
-    "pt": "a vespa",
-    "nl": "de wesp",
-    "hu": "darázs",
-    "ro": "viespe",
-    "lt": "vapsva",
-    "uk": "оса",
-    "cs": "vosa",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-wasp.jpg"
-  },
-  {
-    "id": "moth",
-    "english": "Moth",
-    "it": "la falena",
-    "pl": "ćma",
-    "fr": "le papillon de nuit",
-    "de": "die Motte",
-    "es": "la polilla",
-    "pt": "a mariposa",
-    "nl": "de mot",
-    "hu": "moly",
-    "ro": "molie",
-    "lt": "kandis",
-    "uk": "міль",
-    "cs": "můra",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-moth.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-ladybird.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "beetle",
@@ -27712,41 +27684,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "vabalas",
     "uk": "жук",
     "cs": "brouk",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-beetle.jpg"
-  },
-  {
-    "id": "grasshopper",
-    "english": "Grasshopper",
-    "it": "la cavalletta",
-    "pl": "konik polny",
-    "fr": "la sauterelle",
-    "de": "die Heuschrecke",
-    "es": "el saltamontes",
-    "pt": "o gafanhoto",
-    "nl": "de sprinkhaan",
-    "hu": "szöcske",
-    "ro": "lăcustă",
-    "lt": "žiogas",
-    "uk": "коник",
-    "cs": "kobylka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-grasshopper.jpg"
-  },
-  {
-    "id": "cricket",
-    "english": "Cricket",
-    "it": "il grillo",
-    "pl": "świerszcz",
-    "fr": "le grillon",
-    "de": "die Grille",
-    "es": "el grillo",
-    "pt": "o grilo",
-    "nl": "de krekel",
-    "hu": "tücsök",
-    "ro": "greier",
-    "lt": "svirplys",
-    "uk": "цвіркун",
-    "cs": "cvrček",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-cricket.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-beetle.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "fly",
@@ -27763,7 +27704,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "musė",
     "uk": "муха",
     "cs": "moucha",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-fly.jpg?v=1787018799033"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-fly.jpg?v=1787018799033",
+    "focalX": 34.94032753075639,
+    "focalY": 26.90608786800191,
+    "zoom": 1.05
   },
   {
     "id": "mosquito",
@@ -27780,24 +27724,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "uodas",
     "uk": "комар",
     "cs": "komár",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-mosquito.jpg"
-  },
-  {
-    "id": "cockroach",
-    "english": "Cockroach",
-    "it": "lo scarafaggio",
-    "pl": "karaluch",
-    "fr": "le cafard",
-    "de": "die Kakerlake",
-    "es": "la cucaracha",
-    "pt": "a barata",
-    "nl": "de kakkerlak",
-    "hu": "csótány",
-    "ro": "gândac de bucătărie",
-    "lt": "tarakonas",
-    "uk": "тарган",
-    "cs": "šváb",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-cockroach.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-mosquito.jpg",
+    "focalX": 41.21992657930959,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "caterpillar",
@@ -27814,24 +27744,14 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "vikšras",
     "uk": "гусениця",
     "cs": "housenka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-caterpillar.jpg"
-  },
-  {
-    "id": "firefly",
-    "english": "Firefly",
-    "it": "la lucciola",
-    "pl": "świetlik",
-    "fr": "la luciole",
-    "de": "das Glühwürmchen",
-    "es": "la luciérnaga",
-    "pt": "o vaga-lume",
-    "nl": "de vuurvlieg",
-    "hu": "szentjánosbogár",
-    "ro": "licurici",
-    "lt": "jonvabalis",
-    "uk": "світлячок",
-    "cs": "světluška",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-firefly.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-caterpillar.webp",
+    "focalX": 100,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "bumblebee",
@@ -27848,7 +27768,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "kamanė",
     "uk": "джміль",
     "cs": "čmelák",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-bumblebee.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-bumblebee.jpg",
+    "focalX": 50,
+    "focalY": 13.331147212131766,
+    "zoom": 1
   },
   {
     "id": "prayingmantis",
@@ -27865,24 +27788,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "dievamaldė",
     "uk": "богомол",
     "cs": "kudlanka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-prayingmantis.jpg"
-  },
-  {
-    "id": "centipede",
-    "english": "Centipede",
-    "it": "il centopiedi",
-    "pl": "stonoga",
-    "fr": "le mille-pattes",
-    "de": "der Hundertfüßer",
-    "es": "el ciempiés",
-    "pt": "a centopeia",
-    "nl": "de duizendpoot",
-    "hu": "százlábú",
-    "ro": "miriapod",
-    "lt": "šimtakojis",
-    "uk": "сколопендра",
-    "cs": "stonožka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-centipede.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-prayingmantis.jpg",
+    "focalX": 30.97638812847227,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "sealion",
@@ -27899,7 +27808,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "jūrų liūtas",
     "uk": "морський лев",
     "cs": "lachtan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-sealion.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-sealion.jpg",
+    "focalX": 37.66363525390624,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "walrus",
