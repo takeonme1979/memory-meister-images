@@ -1,0 +1,84 @@
+
+--- animals expansion, 2026-08-18 ---
+anim-dragonfly.jpg — Dragonfly — lead image of the English Wikipedia article "Dragonfly" — https://en.wikipedia.org/wiki/Dragonfly
+anim-ladybird.jpg — Ladybird — lead image of the English Wikipedia article "Coccinellidae" — https://en.wikipedia.org/wiki/Coccinellidae
+anim-wasp.jpg — Wasp — lead image of the English Wikipedia article "Wasp" — https://en.wikipedia.org/wiki/Wasp
+anim-moth.jpg — Moth — lead image of the English Wikipedia article "Moth" — https://en.wikipedia.org/wiki/Moth
+anim-grasshopper.jpg — Grasshopper — lead image of the English Wikipedia article "Grasshopper" — https://en.wikipedia.org/wiki/Grasshopper
+anim-cricket.jpg — Cricket — lead image of the English Wikipedia article "Cricket (insect)" — https://en.wikipedia.org/wiki/Cricket_(insect)
+anim-mosquito.jpg — Mosquito — lead image of the English Wikipedia article "Mosquito" — https://en.wikipedia.org/wiki/Mosquito
+anim-caterpillar.jpg — Caterpillar — lead image of the English Wikipedia article "Caterpillar" — https://en.wikipedia.org/wiki/Caterpillar
+anim-firefly.jpg — Firefly — lead image of the English Wikipedia article "Firefly" — https://en.wikipedia.org/wiki/Firefly
+anim-bumblebee.jpg — Bumblebee — lead image of the English Wikipedia article "Bumblebee" — https://en.wikipedia.org/wiki/Bumblebee
+anim-prayingmantis.jpg — Praying mantis — lead image of the English Wikipedia article "Mantis" — https://en.wikipedia.org/wiki/Mantis
+anim-sealion.jpg — Sea lion — lead image of the English Wikipedia article "Sea lion" — https://en.wikipedia.org/wiki/Sea_lion
+anim-walrus.jpg — Walrus — lead image of the English Wikipedia article "Walrus" — https://en.wikipedia.org/wiki/Walrus
+anim-killerwhale.jpg — Killer whale — lead image of the English Wikipedia article "Orca" — https://en.wikipedia.org/wiki/Orca
+anim-starfish.jpg — Starfish — lead image of the English Wikipedia article "Starfish" — https://en.wikipedia.org/wiki/Starfish
+anim-squid.jpg — Squid — lead image of the English Wikipedia article "Squid" — https://en.wikipedia.org/wiki/Squid
+anim-stingray.jpg — Stingray — lead image of the English Wikipedia article "Stingray" — https://en.wikipedia.org/wiki/Stingray
+anim-goldfish.jpg — Goldfish — lead image of the English Wikipedia article "Goldfish" — https://en.wikipedia.org/wiki/Goldfish
+anim-swordfish.jpg — Swordfish — lead image of the English Wikipedia article "Swordfish" — https://en.wikipedia.org/wiki/Swordfish
+anim-clownfish.jpg — Clownfish — lead image of the English Wikipedia article "Clownfish" — https://en.wikipedia.org/wiki/Clownfish
+anim-robin.jpg — Robin — lead image of the English Wikipedia article "European robin" — https://en.wikipedia.org/wiki/European_robin
+anim-seagull.jpg — Seagull — lead image of the English Wikipedia article "Gull" — https://en.wikipedia.org/wiki/Gull
+anim-woodpecker.jpg — Woodpecker — lead image of the English Wikipedia article "Woodpecker" — https://en.wikipedia.org/wiki/Woodpecker
+anim-kingfisher.jpg — Kingfisher — lead image of the English Wikipedia article "Kingfisher" — https://en.wikipedia.org/wiki/Kingfisher
+anim-stork.jpg — Stork — lead image of the English Wikipedia article "Stork" — https://en.wikipedia.org/wiki/Stork
+anim-pelican.jpg — Pelican — lead image of the English Wikipedia article "Pelican" — https://en.wikipedia.org/wiki/Pelican
+anim-vulture.jpg — Vulture — lead image of the English Wikipedia article "Vulture" — https://en.wikipedia.org/wiki/Vulture
+anim-raven.jpg — Raven — lead image of the English Wikipedia article "Common raven" — https://en.wikipedia.org/wiki/Common_raven
+anim-magpie.jpg — Magpie — lead image of the English Wikipedia article "Eurasian magpie" — https://en.wikipedia.org/wiki/Eurasian_magpie
+anim-blackbird.jpg — Blackbird — lead image of the English Wikipedia article "Common blackbird" — https://en.wikipedia.org/wiki/Common_blackbird
+anim-turkeybird.jpg — Turkey — lead image of the English Wikipedia article "Turkey (bird)" — https://en.wikipedia.org/wiki/Turkey_(bird)
+anim-puffin.jpg — Puffin — lead image of the English Wikipedia article "Atlantic puffin" — https://en.wikipedia.org/wiki/Atlantic_puffin
+anim-rooster.jpg — Rooster — lead image of the English Wikipedia article "Rooster" — https://en.wikipedia.org/wiki/Rooster
+anim-leopard.jpg — Leopard — lead image of the English Wikipedia article "Leopard" — https://en.wikipedia.org/wiki/Leopard
+anim-cheetah.jpg — Cheetah — lead image of the English Wikipedia article "Cheetah" — https://en.wikipedia.org/wiki/Cheetah
+anim-bison.jpg — Bison — lead image of the English Wikipedia article "Bison" — https://en.wikipedia.org/wiki/Bison
+anim-gazelle.jpg — Gazelle — lead image of the English Wikipedia article "Gazelle" — https://en.wikipedia.org/wiki/Gazelle
+anim-reindeer.jpg — Reindeer — lead image of the English Wikipedia article "Reindeer" — https://en.wikipedia.org/wiki/Reindeer
+anim-wildboar.jpg — Wild boar — lead image of the English Wikipedia article "Wild boar" — https://en.wikipedia.org/wiki/Wild_boar
+anim-porcupine.jpg — Porcupine — lead image of the English Wikipedia article "Porcupine" — https://en.wikipedia.org/wiki/Porcupine
+anim-chipmunk.jpg — Chipmunk — lead image of the English Wikipedia article "Chipmunk" — https://en.wikipedia.org/wiki/Chipmunk
+anim-hamster.jpg — Hamster — lead image of the English Wikipedia article "Hamster" — https://en.wikipedia.org/wiki/Hamster
+anim-guineapig.jpg — Guinea pig — lead image of the English Wikipedia article "Guinea pig" — https://en.wikipedia.org/wiki/Guinea_pig
+anim-hare.jpg — Hare — lead image of the English Wikipedia article "Hare" — https://en.wikipedia.org/wiki/Hare
+anim-orangutan.jpg — Orangutan — lead image of the English Wikipedia article "Orangutan" — https://en.wikipedia.org/wiki/Orangutan
+anim-puppy.jpg — Puppy — lead image of the English Wikipedia article "Puppy" — https://en.wikipedia.org/wiki/Puppy
+anim-kitten.jpg — Kitten — lead image of the English Wikipedia article "Kitten" — https://en.wikipedia.org/wiki/Kitten
+anim-iguana.jpg — Iguana — lead image of the English Wikipedia article "Iguana" — https://en.wikipedia.org/wiki/Iguana
+anim-chameleon.jpg — Chameleon — lead image of the English Wikipedia article "Chameleon" — https://en.wikipedia.org/wiki/Chameleon
+anim-cuttlefish.jpg — Cuttlefish — lead image of the English Wikipedia article "Cuttlefish" — https://en.wikipedia.org/wiki/Cuttlefish
+anim-seaanemone.jpg — Sea anemone — lead image of the English Wikipedia article "Sea anemone" — https://en.wikipedia.org/wiki/Sea_anemone
+anim-seaurchin.jpg — Sea urchin — lead image of the English Wikipedia article "Sea urchin" — https://en.wikipedia.org/wiki/Sea_urchin
+anim-coral.jpg — Coral — lead image of the English Wikipedia article "Coral" — https://en.wikipedia.org/wiki/Coral
+anim-nautilus.jpg — Nautilus — lead image of the English Wikipedia article "Nautilus" — https://en.wikipedia.org/wiki/Nautilus
+anim-hermitcrab.jpg — Hermit crab — lead image of the English Wikipedia article "Hermit crab" — https://en.wikipedia.org/wiki/Hermit_crab
+anim-oyster.jpg — Oyster — lead image of the English Wikipedia article "Oyster" — https://en.wikipedia.org/wiki/Oyster
+anim-mussel.jpg — Mussel — lead image of the English Wikipedia article "Mussel" — https://en.wikipedia.org/wiki/Mussel
+anim-mantaray.jpg — Manta ray — lead image of the English Wikipedia article "Manta ray" — https://en.wikipedia.org/wiki/Manta_ray
+anim-cockroach.jpg — Jari Lobo via Pexels — https://www.pexels.com/photo/close-up-of-cockroach-19294665/
+anim-centipede.jpg — Pixabay via Pexels — https://www.pexels.com/photo/brown-multi-leg-insect-42264/
+anim-tuna.jpg — isaac mijangos via Pexels — https://www.pexels.com/photo/underwater-photography-of-a-swimming-bluefin-12829694/
+anim-salmon.jpg — Timon Cornelissen via Pexels — https://www.pexels.com/photo/close-up-shot-of-sockeye-salmon-in-the-water-12801543/
+anim-heron.jpg — Eric Planet Olympus via Pexels — https://www.pexels.com/photo/elegant-grey-heron-in-a-natural-habitat-29978659/
+anim-hummingbird.jpg — Veronika Andrews via Pexels — https://www.pexels.com/photo/close-up-of-a-vibrant-hummingbird-in-flight-37491213/
+anim-lynx.jpg — Flickr via Pexels — https://www.pexels.com/photo/lynx-on-green-grass-during-daytime-146045/
+anim-anglerfish.jpg — Cliff Simon via Pexels — https://www.pexels.com/photo/close-up-of-fish-head-8065517/
+anim-seacucumber.jpg — Roger Gasper via Pexels — https://www.pexels.com/photo/close-up-of-a-sea-animal-16125716/
+anim-pufferfish.jpg — Kevin Lee via Pexels — https://www.pexels.com/photo/black-and-white-fish-in-the-fish-tank-5759926/
+anim-lamb.jpg — Lorna Pauli via Pexels — https://www.pexels.com/photo/adorable-lamb-grazing-in-sunlit-field-31507577/
+anim-beetle.jpg — cassius cardoso via Pexels — https://www.pexels.com/photo/close-up-of-a-beetle-sitting-on-a-leaf-26545021/
+anim-lizard.jpg — Egor Kamelev via Pexels — https://www.pexels.com/photo/green-reptile-927497/
+anim-eel.jpg — Alain Margreve via Pexels — https://www.pexels.com/photo/people-scuba-diving-in-tropical-waters-and-swimming-among-fish-and-coral-reef-13085964/
+anim-cobra.jpg — Anil  Sharma via Pexels — https://www.pexels.com/photo/indian-cobra-in-natural-habitat-close-up-30570505/
+anim-polarbear.jpg — Nathan Stein via Pexels — https://www.pexels.com/photo/beige-bear-standing-on-a-rock-7782488/
+anim-antelope.jpg — Francesco Ungaro via Pexels — https://www.pexels.com/photo/antelopes-on-savanna-26727717/
+anim-bull.jpg — Kevin Wiley via Pexels — https://www.pexels.com/photo/majestic-bulls-grazing-in-zephyrhills-field-29410715/
+anim-salamander.jpg — Alban Mehmeti via Pexels — https://www.pexels.com/photo/close-up-of-a-fire-salamander-in-grass-34672343/
+anim-jaguar.jpg — Pixabay via Pexels — https://www.pexels.com/photo/brown-leopard-on-green-grass-235674/
+anim-python.jpg — Erdal Erdal via Pexels — https://www.pexels.com/photo/a-large-snake-laying-on-the-ground-with-its-head-resting-on-its-body-27816151/
+anim-fish.jpg — Francisco Davids via Pexels — https://www.pexels.com/photo/school-of-fishes-swimming-14267350/
+anim-fly.jpg — Jeff McCrea via Pexels — https://www.pexels.com/photo/fly-insect-in-close-up-view-19816317/
+anim-swordfish.jpg — "Xiphias gladius Linnaeus, 1758" via Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Xiphias_gladius_Linnaeus,_1758_2599925021.jpg
