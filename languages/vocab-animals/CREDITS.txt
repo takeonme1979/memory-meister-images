@@ -82,3 +82,5 @@ anim-python.jpg — Erdal Erdal via Pexels — https://www.pexels.com/photo/a-la
 anim-fish.jpg — Francisco Davids via Pexels — https://www.pexels.com/photo/school-of-fishes-swimming-14267350/
 anim-fly.jpg — Jeff McCrea via Pexels — https://www.pexels.com/photo/fly-insect-in-close-up-view-19816317/
 anim-swordfish.jpg — "Xiphias gladius Linnaeus, 1758" via Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Xiphias_gladius_Linnaeus,_1758_2599925021.jpg
+
+anim-buffalo.jpg — Pixabay via Pexels — https://www.pexels.com/photo/two-water-buffalos-460223/  (replaced an American bison; the word means water buffalo)
