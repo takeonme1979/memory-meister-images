@@ -54102,7 +54102,7 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "pralinksmėjęs",
     "uk": "розвеселений",
     "cs": "pobavený",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-amused.webp",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-amused.jpg",
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
