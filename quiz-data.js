@@ -27806,9 +27806,9 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "uk": "морський лев",
     "cs": "lachtan",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-sealion.jpg",
-    "focalX": 37.66363525390624,
-    "focalY": 50,
-    "zoom": 1
+    "focalX": 17.464463726094507,
+    "focalY": 100,
+    "zoom": 1.1500000000000001
   },
   {
     "id": "walrus",
@@ -27825,24 +27825,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "vėplys",
     "uk": "морж",
     "cs": "mrož",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-walrus.jpg"
-  },
-  {
-    "id": "killerwhale",
-    "english": "Killer whale",
-    "it": "l'orca",
-    "pl": "orka",
-    "fr": "l'orque",
-    "de": "der Orca",
-    "es": "la orca",
-    "pt": "a orca",
-    "nl": "de orka",
-    "hu": "kardszárnyú delfin",
-    "ro": "orcă",
-    "lt": "orka",
-    "uk": "косатка",
-    "cs": "kosatka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-killerwhale.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-walrus.jpg",
+    "focalX": 50.3890667425133,
+    "focalY": 100,
+    "zoom": 1.05
   },
   {
     "id": "starfish",
@@ -27859,7 +27845,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "jūrų žvaigždė",
     "uk": "морська зірка",
     "cs": "hvězdice",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-starfish.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-starfish.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "squid",
@@ -27879,23 +27868,6 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-squid.jpg"
   },
   {
-    "id": "stingray",
-    "english": "Stingray",
-    "it": "la razza",
-    "pl": "płaszczka",
-    "fr": "la raie",
-    "de": "der Stechrochen",
-    "es": "la raya",
-    "pt": "a raia",
-    "nl": "de pijlstaartrog",
-    "hu": "tüskésrája",
-    "ro": "pisică de mare",
-    "lt": "dygliauodegė raja",
-    "uk": "скат",
-    "cs": "rejnok",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-stingray.jpg"
-  },
-  {
     "id": "salmon",
     "english": "Salmon",
     "it": "il salmone",
@@ -27910,24 +27882,14 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "lašiša",
     "uk": "лосось",
     "cs": "losos",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-salmon.jpg"
-  },
-  {
-    "id": "tuna",
-    "english": "Tuna",
-    "it": "il tonno",
-    "pl": "tuńczyk",
-    "fr": "le thon",
-    "de": "der Thunfisch",
-    "es": "el atún",
-    "pt": "o atum",
-    "nl": "de tonijn",
-    "hu": "tonhal",
-    "ro": "ton",
-    "lt": "tunas",
-    "uk": "тунець",
-    "cs": "tuňák",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-tuna.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-salmon.webp",
+    "focalX": 27.404131372857137,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1.16,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "eel",
@@ -27944,7 +27906,14 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "ungurys",
     "uk": "вугор",
     "cs": "úhoř",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-eel.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-eel.jpg",
+    "focalX": 48.83096280867214,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "goldfish",
@@ -27961,58 +27930,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "auksinė žuvelė",
     "uk": "золота рибка",
     "cs": "zlatá rybka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-goldfish.jpg"
-  },
-  {
-    "id": "swordfish",
-    "english": "Swordfish",
-    "it": "il pesce spada",
-    "pl": "włócznik",
-    "fr": "l'espadon",
-    "de": "der Schwertfisch",
-    "es": "el pez espada",
-    "pt": "o peixe-espada",
-    "nl": "de zwaardvis",
-    "hu": "kardhal",
-    "ro": "pește-spadă",
-    "lt": "durklažuvė",
-    "uk": "риба-меч",
-    "cs": "mečoun",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-swordfish.jpg"
-  },
-  {
-    "id": "clownfish",
-    "english": "Clownfish",
-    "it": "il pesce pagliaccio",
-    "pl": "błazenek",
-    "fr": "le poisson-clown",
-    "de": "der Clownfisch",
-    "es": "el pez payaso",
-    "pt": "o peixe-palhaço",
-    "nl": "de clownvis",
-    "hu": "bohóchal",
-    "ro": "pește-clovn",
-    "lt": "jūrų klounas",
-    "uk": "риба-клоун",
-    "cs": "klaun očkatý",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-clownfish.jpg"
-  },
-  {
-    "id": "robin",
-    "english": "Robin",
-    "it": "il pettirosso",
-    "pl": "rudzik",
-    "fr": "le rouge-gorge",
-    "de": "das Rotkehlchen",
-    "es": "el petirrojo",
-    "pt": "o pisco-de-peito-ruivo",
-    "nl": "het roodborstje",
-    "hu": "vörösbegy",
-    "ro": "măcăleandru",
-    "lt": "liepsnelė",
-    "uk": "вільшанка",
-    "cs": "červenka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-robin.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-goldfish.jpg",
+    "focalX": 86.1839698801751,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "seagull",
@@ -28029,126 +27950,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "kiras",
     "uk": "чайка",
     "cs": "racek",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-seagull.jpg"
-  },
-  {
-    "id": "woodpecker",
-    "english": "Woodpecker",
-    "it": "il picchio",
-    "pl": "dzięcioł",
-    "fr": "le pic",
-    "de": "der Specht",
-    "es": "el pájaro carpintero",
-    "pt": "o pica-pau",
-    "nl": "de specht",
-    "hu": "harkály",
-    "ro": "ciocănitoare",
-    "lt": "genys",
-    "uk": "дятел",
-    "cs": "datel",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-woodpecker.jpg"
-  },
-  {
-    "id": "kingfisher",
-    "english": "Kingfisher",
-    "it": "il martin pescatore",
-    "pl": "zimorodek",
-    "fr": "le martin-pêcheur",
-    "de": "der Eisvogel",
-    "es": "el martín pescador",
-    "pt": "o martim-pescador",
-    "nl": "de ijsvogel",
-    "hu": "jégmadár",
-    "ro": "pescăraș albastru",
-    "lt": "tulžys",
-    "uk": "рибалочка",
-    "cs": "ledňáček",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-kingfisher.jpg"
-  },
-  {
-    "id": "heron",
-    "english": "Heron",
-    "it": "l'airone",
-    "pl": "czapla",
-    "fr": "le héron",
-    "de": "der Reiher",
-    "es": "la garza",
-    "pt": "a garça",
-    "nl": "de reiger",
-    "hu": "gém",
-    "ro": "stârc",
-    "lt": "garnys",
-    "uk": "чапля",
-    "cs": "volavka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-heron.jpg"
-  },
-  {
-    "id": "stork",
-    "english": "Stork",
-    "it": "la cicogna",
-    "pl": "bocian",
-    "fr": "la cigogne",
-    "de": "der Storch",
-    "es": "la cigüeña",
-    "pt": "a cegonha",
-    "nl": "de ooievaar",
-    "hu": "gólya",
-    "ro": "barză",
-    "lt": "gandras",
-    "uk": "лелека",
-    "cs": "čáp",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-stork.jpg"
-  },
-  {
-    "id": "pelican",
-    "english": "Pelican",
-    "it": "il pellicano",
-    "pl": "pelikan",
-    "fr": "le pélican",
-    "de": "der Pelikan",
-    "es": "el pelícano",
-    "pt": "o pelicano",
-    "nl": "de pelikaan",
-    "hu": "pelikán",
-    "ro": "pelican",
-    "lt": "pelikanas",
-    "uk": "пелікан",
-    "cs": "pelikán",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-pelican.jpg"
-  },
-  {
-    "id": "vulture",
-    "english": "Vulture",
-    "it": "l'avvoltoio",
-    "pl": "sęp",
-    "fr": "le vautour",
-    "de": "der Geier",
-    "es": "el buitre",
-    "pt": "o abutre",
-    "nl": "de gier",
-    "hu": "keselyű",
-    "ro": "hoitar",
-    "lt": "grifas",
-    "uk": "гриф",
-    "cs": "sup",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-vulture.jpg"
-  },
-  {
-    "id": "raven",
-    "english": "Raven",
-    "it": "il corvo imperiale",
-    "pl": "kruk",
-    "fr": "le grand corbeau",
-    "de": "der Rabe",
-    "es": "el cuervo grande",
-    "pt": "o corvo-comum",
-    "nl": "de raaf",
-    "hu": "holló",
-    "ro": "corb",
-    "lt": "kranklys",
-    "uk": "крук",
-    "cs": "krkavec",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-raven.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-seagull.jpg",
+    "focalX": 55.442808022731306,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "magpie",
@@ -28165,41 +27970,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "šarka",
     "uk": "сорока",
     "cs": "straka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-magpie.jpg"
-  },
-  {
-    "id": "blackbird",
-    "english": "Blackbird",
-    "it": "il merlo",
-    "pl": "kos",
-    "fr": "le merle",
-    "de": "die Amsel",
-    "es": "el mirlo",
-    "pt": "o melro",
-    "nl": "de merel",
-    "hu": "feketerigó",
-    "ro": "mierlă",
-    "lt": "juodasis strazdas",
-    "uk": "чорний дрізд",
-    "cs": "kos černý",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-blackbird.jpg"
-  },
-  {
-    "id": "turkeybird",
-    "english": "Turkey",
-    "it": "il tacchino",
-    "pl": "indyk",
-    "fr": "la dinde",
-    "de": "der Truthahn",
-    "es": "el pavo",
-    "pt": "o peru",
-    "nl": "de kalkoen",
-    "hu": "pulyka",
-    "ro": "curcan",
-    "lt": "kalakutas",
-    "uk": "індик",
-    "cs": "krocan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-turkeybird.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-magpie.jpg",
+    "focalX": 85.1204529628041,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "hummingbird",
@@ -28216,41 +27990,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "kolibris",
     "uk": "колібрі",
     "cs": "kolibřík",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-hummingbird.jpg"
-  },
-  {
-    "id": "puffin",
-    "english": "Puffin",
-    "it": "la pulcinella di mare",
-    "pl": "maskonur",
-    "fr": "le macareux",
-    "de": "der Papageitaucher",
-    "es": "el frailecillo",
-    "pt": "o papagaio-do-mar",
-    "nl": "de papegaaiduiker",
-    "hu": "lunda",
-    "ro": "papagal de mare",
-    "lt": "atlantinis mormonas",
-    "uk": "іпатка",
-    "cs": "papuchalk",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-puffin.jpg"
-  },
-  {
-    "id": "rooster",
-    "english": "Rooster",
-    "it": "il gallo",
-    "pl": "kogut",
-    "fr": "le coq",
-    "de": "der Hahn",
-    "es": "el gallo",
-    "pt": "o galo",
-    "nl": "de haan",
-    "hu": "kakas",
-    "ro": "cocoș",
-    "lt": "gaidys",
-    "uk": "півень",
-    "cs": "kohout",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-rooster.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-hummingbird.jpg",
+    "focalX": 0,
+    "focalY": 64.39694437741315,
+    "zoom": 1.1500000000000001
   },
   {
     "id": "leopard",
@@ -28267,7 +28010,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "leopardas",
     "uk": "леопард",
     "cs": "leopard",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-leopard.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-leopard.jpg",
+    "focalX": 50,
+    "focalY": 37.95855040155793,
+    "zoom": 1
   },
   {
     "id": "cheetah",
@@ -28284,41 +28030,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "gepardas",
     "uk": "гепард",
     "cs": "gepard",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-cheetah.jpg"
-  },
-  {
-    "id": "jaguar",
-    "english": "Jaguar",
-    "it": "il giaguaro",
-    "pl": "jaguar",
-    "fr": "le jaguar",
-    "de": "der Jaguar",
-    "es": "el jaguar",
-    "pt": "a onça-pintada",
-    "nl": "de jaguar",
-    "hu": "jaguár",
-    "ro": "jaguar",
-    "lt": "jaguaras",
-    "uk": "ягуар",
-    "cs": "jaguár",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-jaguar.jpg"
-  },
-  {
-    "id": "lynx",
-    "english": "Lynx",
-    "it": "la lince",
-    "pl": "ryś",
-    "fr": "le lynx",
-    "de": "der Luchs",
-    "es": "el lince",
-    "pt": "o lince",
-    "nl": "de lynx",
-    "hu": "hiúz",
-    "ro": "râs",
-    "lt": "lūšis",
-    "uk": "рись",
-    "cs": "rys",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-lynx.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-cheetah.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "bison",
@@ -28335,7 +28050,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "bizonas",
     "uk": "бізон",
     "cs": "bizon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-bison.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-bison.jpg",
+    "focalX": 100,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "antelope",
@@ -28352,7 +28070,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "antilopė",
     "uk": "антилопа",
     "cs": "antilopa",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-antelope.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-antelope.jpg",
+    "focalX": 51.95110088014635,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "gazelle",
@@ -28369,7 +28090,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "gazelė",
     "uk": "газель",
     "cs": "gazela",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-gazelle.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-gazelle.jpg",
+    "focalX": 11.465060766923878,
+    "focalY": 50,
+    "zoom": 1.05
   },
   {
     "id": "reindeer",
@@ -28386,7 +28110,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "šiaurės elnias",
     "uk": "північний олень",
     "cs": "sob",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-reindeer.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-reindeer.jpg",
+    "focalX": 100,
+    "focalY": 0,
+    "zoom": 1.05
   },
   {
     "id": "wildboar",
@@ -28403,7 +28130,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "šernas",
     "uk": "кабан",
     "cs": "divočák",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-wildboar.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-wildboar.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1.05
   },
   {
     "id": "porcupine",
@@ -28420,24 +28150,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "dygliatriušis",
     "uk": "дикобраз",
     "cs": "dikobraz",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-porcupine.jpg"
-  },
-  {
-    "id": "chipmunk",
-    "english": "Chipmunk",
-    "it": "il tamia",
-    "pl": "burunduk",
-    "fr": "le tamia",
-    "de": "das Streifenhörnchen",
-    "es": "la ardilla listada",
-    "pt": "o esquilo-listrado",
-    "nl": "de wangzakeekhoorn",
-    "hu": "csíkos földimókus",
-    "ro": "veveriță dungată",
-    "lt": "burundukas",
-    "uk": "бурундук",
-    "cs": "burunduk",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-chipmunk.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-porcupine.jpg",
+    "focalX": 86.40110294283157,
+    "focalY": 0,
+    "zoom": 1.05
   },
   {
     "id": "hamster",
@@ -28454,7 +28170,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "žiurkėnas",
     "uk": "хом'як",
     "cs": "křeček",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-hamster.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-hamster.jpg",
+    "focalX": 18.29411294748917,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "guineapig",
@@ -28471,7 +28190,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "jūrų kiaulytė",
     "uk": "морська свинка",
     "cs": "morče",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-guineapig.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-guineapig.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1.05
   },
   {
     "id": "hare",
@@ -28488,24 +28210,14 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "kiškis",
     "uk": "заєць",
     "cs": "zajíc",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-hare.jpg"
-  },
-  {
-    "id": "orangutan",
-    "english": "Orangutan",
-    "it": "l'orango",
-    "pl": "orangutan",
-    "fr": "l'orang-outan",
-    "de": "der Orang-Utan",
-    "es": "el orangután",
-    "pt": "o orangotango",
-    "nl": "de orang-oetan",
-    "hu": "orangután",
-    "ro": "urangutan",
-    "lt": "orangutangas",
-    "uk": "орангутан",
-    "cs": "orangutan",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-orangutan.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-hare.jpg",
+    "focalX": 61.455395956515815,
+    "focalY": 50,
+    "zoom": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "gamma": 1
   },
   {
     "id": "polarbear",
@@ -28522,24 +28234,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "baltasis lokys",
     "uk": "білий ведмідь",
     "cs": "lední medvěd",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-polarbear.jpg"
-  },
-  {
-    "id": "bull",
-    "english": "Bull",
-    "it": "il toro",
-    "pl": "byk",
-    "fr": "le taureau",
-    "de": "der Stier",
-    "es": "el toro",
-    "pt": "o touro",
-    "nl": "de stier",
-    "hu": "bika",
-    "ro": "taur",
-    "lt": "bulius",
-    "uk": "бик",
-    "cs": "býk",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-bull.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-polarbear.jpg",
+    "focalX": 0,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "puppy",
@@ -28556,7 +28254,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "šuniukas",
     "uk": "цуценя",
     "cs": "štěně",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-puppy.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-puppy.jpg",
+    "focalX": 50,
+    "focalY": 22.28515000865467,
+    "zoom": 1
   },
   {
     "id": "kitten",
@@ -28573,7 +28274,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "kačiukas",
     "uk": "кошеня",
     "cs": "kotě",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-kitten.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-kitten.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "lamb",
@@ -28590,7 +28294,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "ėriukas",
     "uk": "ягня",
     "cs": "jehně",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-lamb.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-lamb.jpg",
+    "focalX": 100,
+    "focalY": 100,
+    "zoom": 1.1
   },
   {
     "id": "lizard",
@@ -28607,92 +28314,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "driežas",
     "uk": "ящірка",
     "cs": "ještěrka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-lizard.jpg"
-  },
-  {
-    "id": "iguana",
-    "english": "Iguana",
-    "it": "l'iguana",
-    "pl": "legwan",
-    "fr": "l'iguane",
-    "de": "der Leguan",
-    "es": "la iguana",
-    "pt": "a iguana",
-    "nl": "de leguaan",
-    "hu": "leguán",
-    "ro": "iguană",
-    "lt": "iguana",
-    "uk": "ігуана",
-    "cs": "leguán",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-iguana.jpg"
-  },
-  {
-    "id": "chameleon",
-    "english": "Chameleon",
-    "it": "il camaleonte",
-    "pl": "kameleon",
-    "fr": "le caméléon",
-    "de": "das Chamäleon",
-    "es": "el camaleón",
-    "pt": "o camaleão",
-    "nl": "de kameleon",
-    "hu": "kaméleon",
-    "ro": "cameleon",
-    "lt": "chameleonas",
-    "uk": "хамелеон",
-    "cs": "chameleon",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-chameleon.jpg"
-  },
-  {
-    "id": "cobra",
-    "english": "Cobra",
-    "it": "il cobra",
-    "pl": "kobra",
-    "fr": "le cobra",
-    "de": "die Kobra",
-    "es": "la cobra",
-    "pt": "a naja",
-    "nl": "de cobra",
-    "hu": "kobra",
-    "ro": "cobră",
-    "lt": "kobra",
-    "uk": "кобра",
-    "cs": "kobra",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-cobra.jpg"
-  },
-  {
-    "id": "python",
-    "english": "Python",
-    "it": "il pitone",
-    "pl": "pyton",
-    "fr": "le python",
-    "de": "die Python",
-    "es": "la pitón",
-    "pt": "a píton",
-    "nl": "de python",
-    "hu": "piton",
-    "ro": "piton",
-    "lt": "pitonas",
-    "uk": "пітон",
-    "cs": "krajta",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-python.jpg"
-  },
-  {
-    "id": "salamander",
-    "english": "Salamander",
-    "it": "la salamandra",
-    "pl": "salamandra",
-    "fr": "la salamandre",
-    "de": "der Salamander",
-    "es": "la salamandra",
-    "pt": "a salamandra",
-    "nl": "de salamander",
-    "hu": "szalamandra",
-    "ro": "salamandră",
-    "lt": "salamandra",
-    "uk": "саламандра",
-    "cs": "mlok",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-salamander.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-lizard.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "cuttlefish",
@@ -28709,7 +28334,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "sepija",
     "uk": "каракатиця",
     "cs": "sépie",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-cuttlefish.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-cuttlefish.jpg",
+    "focalX": 52.72384838643295,
+    "focalY": 0,
+    "zoom": 1.05
   },
   {
     "id": "seaanemone",
@@ -28726,24 +28354,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "jūrų anemonas",
     "uk": "актинія",
     "cs": "sasanka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-seaanemone.jpg"
-  },
-  {
-    "id": "seaurchin",
-    "english": "Sea urchin",
-    "it": "il riccio di mare",
-    "pl": "jeżowiec",
-    "fr": "l'oursin",
-    "de": "der Seeigel",
-    "es": "el erizo de mar",
-    "pt": "o ouriço-do-mar",
-    "nl": "de zee-egel",
-    "hu": "tengeri sün",
-    "ro": "arici de mare",
-    "lt": "jūrų ežys",
-    "uk": "морський їжак",
-    "cs": "ježovka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-seaurchin.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-seaanemone.jpg",
+    "focalX": 47.963592786991654,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "coral",
@@ -28760,75 +28374,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "koralas",
     "uk": "корал",
     "cs": "korál",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-coral.jpg"
-  },
-  {
-    "id": "nautilus",
-    "english": "Nautilus",
-    "it": "il nautilo",
-    "pl": "łodzik",
-    "fr": "le nautile",
-    "de": "das Perlboot",
-    "es": "el nautilo",
-    "pt": "o náutilo",
-    "nl": "de nautilus",
-    "hu": "nautilusz",
-    "ro": "nautil",
-    "lt": "nautilas",
-    "uk": "наутилус",
-    "cs": "loděnka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-nautilus.jpg"
-  },
-  {
-    "id": "hermitcrab",
-    "english": "Hermit crab",
-    "it": "il paguro",
-    "pl": "krab pustelnik",
-    "fr": "le bernard-l'ermite",
-    "de": "der Einsiedlerkrebs",
-    "es": "el cangrejo ermitaño",
-    "pt": "o caranguejo-eremita",
-    "nl": "de heremietkreeft",
-    "hu": "remeterák",
-    "ro": "crab pustnic",
-    "lt": "krabas atsiskyrėlis",
-    "uk": "рак-самітник",
-    "cs": "rak poustevníček",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-hermitcrab.jpg"
-  },
-  {
-    "id": "pufferfish",
-    "english": "Pufferfish",
-    "it": "il pesce palla",
-    "pl": "rozdymka",
-    "fr": "le poisson-globe",
-    "de": "der Kugelfisch",
-    "es": "el pez globo",
-    "pt": "o peixe-balão",
-    "nl": "de kogelvis",
-    "hu": "gömbhal",
-    "ro": "pește-balon",
-    "lt": "pūsliažuvė",
-    "uk": "риба-фугу",
-    "cs": "čtverzubec",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-pufferfish.jpg"
-  },
-  {
-    "id": "anglerfish",
-    "english": "Anglerfish",
-    "it": "la rana pescatrice",
-    "pl": "żabnica",
-    "fr": "la baudroie",
-    "de": "der Anglerfisch",
-    "es": "el rape",
-    "pt": "o tamboril",
-    "nl": "de zeeduivel",
-    "hu": "horgászhal",
-    "ro": "pește-pescar",
-    "lt": "velniažuvė",
-    "uk": "вудильник",
-    "cs": "ďas",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-anglerfish.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-coral.jpg",
+    "focalX": 0,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "oyster",
@@ -28845,7 +28394,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "austrė",
     "uk": "устриця",
     "cs": "ústřice",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-oyster.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-oyster.jpg",
+    "focalX": 0,
+    "focalY": 50,
+    "zoom": 1
   },
   {
     "id": "mussel",
@@ -28862,41 +28414,10 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "midija",
     "uk": "мідія",
     "cs": "slávka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-mussel.jpg"
-  },
-  {
-    "id": "seacucumber",
-    "english": "Sea cucumber",
-    "it": "il cetriolo di mare",
-    "pl": "strzykwa",
-    "fr": "le concombre de mer",
-    "de": "die Seegurke",
-    "es": "el pepino de mar",
-    "pt": "o pepino-do-mar",
-    "nl": "de zeekomkommer",
-    "hu": "tengeri uborka",
-    "ro": "castravete de mare",
-    "lt": "jūrų agurkas",
-    "uk": "морський огірок",
-    "cs": "sumýš",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-seacucumber.jpg"
-  },
-  {
-    "id": "mantaray",
-    "english": "Manta ray",
-    "it": "la manta",
-    "pl": "manta",
-    "fr": "la raie manta",
-    "de": "der Mantarochen",
-    "es": "la mantarraya",
-    "pt": "a manta",
-    "nl": "de mantarog",
-    "hu": "manta rája",
-    "ro": "diavol de mare",
-    "lt": "manta",
-    "uk": "манта",
-    "cs": "manta",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-mantaray.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-mussel.jpg",
+    "focalX": 50,
+    "focalY": 50,
+    "zoom": 1
   }
 ];
 window.QM_VOCAB_FOODS_DATA = [
