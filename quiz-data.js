@@ -2512,7 +2512,7 @@ window.QM_FLAGS_DATA = [
     "continent": "Africa"
   }
 ];
-window.QM_HIDDEN_QUIZZES = ["male60s","startrek","female70s","male70s","female80s","female60s","guitarists","womensTennis","worldChessChamps","classicRockBands","modernRockBands","puppies","itAdjectives","plAdjectives","frAdjectives","deAdjectives","esAdjectives","ptAdjectives","ritAdjectives","rplAdjectives","rfrAdjectives","rdeAdjectives","resAdjectives","rptAdjectives","ballets","nlAdjectives","rnlAdjectives","male80s","irishCounties","africaMap","scottishCounties","welshCounties","monarchs","huAdjectives","roAdjectives","ltAdjectives","rhuAdjectives","rroAdjectives","rltAdjectives","oscarActor40","oscarActress70","oscarActress40","oscarSupActor00","oscarSupActor70","oscarSupActor40","oscarSupActress00","oscarSupActress70","oscarSupActress40","oscarDirector00","oscarDirector70","ritIdioms","rplIdioms","rfrIdioms","rdeIdioms","resIdioms","rptIdioms","rnlIdioms","rhuIdioms","rroIdioms","rcsIdioms","trAnimals","rtrAnimals","trAnimals2","rtrAnimals2","trFoods","rtrFoods","trNouns","rtrNouns","trBodyparts","rtrBodyparts","trVerbs","rtrVerbs","trColours","rtrColours","trOccupations","rtrOccupations","trSports","rtrSports","trInstruments","rtrInstruments","trHobbies","rtrHobbies","trWeather","rtrWeather","trEmotions","rtrEmotions","trTransport","rtrTransport","trSpace","rtrSpace","trAdjectives","rtrAdjectives","trCalendar","rtrCalendar","trAfrica","rtrAfrica","trAsia","rtrAsia","trEurope","rtrEurope","trNamerica","rtrNamerica","trSamerica","rtrSamerica","trOceania","rtrOceania"];
+window.QM_HIDDEN_QUIZZES = ["male60s","startrek","female70s","male70s","female80s","female60s","guitarists","womensTennis","worldChessChamps","classicRockBands","modernRockBands","puppies","itAdjectives","plAdjectives","frAdjectives","deAdjectives","esAdjectives","ptAdjectives","ritAdjectives","rplAdjectives","rfrAdjectives","rdeAdjectives","resAdjectives","rptAdjectives","ballets","nlAdjectives","rnlAdjectives","male80s","irishCounties","africaMap","scottishCounties","welshCounties","monarchs","huAdjectives","roAdjectives","ltAdjectives","rhuAdjectives","rroAdjectives","rltAdjectives","oscarActor40","oscarActress70","oscarActress40","oscarSupActor00","oscarSupActor70","oscarSupActor40","oscarSupActress00","oscarSupActress70","oscarSupActress40","oscarDirector00","oscarDirector70","ritIdioms","rplIdioms","rfrIdioms","rdeIdioms","resIdioms","rptIdioms","rnlIdioms","rhuIdioms","rroIdioms","rcsIdioms","trAnimals","rtrAnimals","trAnimals2","rtrAnimals2","trFoods","rtrFoods","trNouns","rtrNouns","trBodyparts","rtrBodyparts","trVerbs","rtrVerbs","trColours","rtrColours","trOccupations","rtrOccupations","trSports","rtrSports","trInstruments","rtrInstruments","trHobbies","rtrHobbies","trWeather","rtrWeather","trEmotions","rtrEmotions","trTransport","rtrTransport","trSpace","rtrSpace","trAdjectives","rtrAdjectives","trCalendar","rtrCalendar","trAfrica","rtrAfrica","trAsia","rtrAsia","trEurope","rtrEurope","trNamerica","rtrNamerica","trSamerica","rtrSamerica","trOceania","rtrOceania","ukAdjectives","rukAdjectives","csAdjectives","rcsAdjectives"];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
   "male90s": {
@@ -58134,7 +58134,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "didelis",
     "uk": "великий",
     "cs": "velký",
-    "tr": "büyük"
+    "tr": "büyük",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_1.jpg"
   },
   {
     "id": "adj_2",
@@ -58151,7 +58152,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "mažas",
     "uk": "малий",
     "cs": "malý",
-    "tr": "küçük"
+    "tr": "küçük",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_2.jpg"
   },
   {
     "id": "adj_3",
@@ -58168,7 +58170,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "geras",
     "uk": "добрий",
     "cs": "dobrý",
-    "tr": "iyi"
+    "tr": "iyi",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_3.jpg"
   },
   {
     "id": "adj_4",
@@ -58185,7 +58188,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "blogas",
     "uk": "поганий",
     "cs": "špatný",
-    "tr": "kötü"
+    "tr": "kötü",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_4.jpg"
   },
   {
     "id": "adj_5",
@@ -58202,7 +58206,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "pikantiškas",
     "uk": "гострий",
     "cs": "pikantní",
-    "tr": "acılı"
+    "tr": "acılı",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_5.jpg"
   },
   {
     "id": "adj_6",
@@ -58219,7 +58224,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "garbanotas",
     "uk": "кучерявий",
     "cs": "kudrnatý",
-    "tr": "kıvırcık"
+    "tr": "kıvırcık",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_6.jpg"
   },
   {
     "id": "adj_7",
@@ -58236,7 +58242,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "karštas",
     "uk": "гарячий",
     "cs": "horký",
-    "tr": "sıcak"
+    "tr": "sıcak",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_7.jpg"
   },
   {
     "id": "adj_8",
@@ -58253,7 +58260,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "šaltas",
     "uk": "холодний",
     "cs": "studený",
-    "tr": "soğuk"
+    "tr": "soğuk",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_8.jpg"
   },
   {
     "id": "adj_9",
@@ -58270,7 +58278,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "naujas",
     "uk": "новий",
     "cs": "nový",
-    "tr": "yeni"
+    "tr": "yeni",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_9.jpg"
   },
   {
     "id": "adj_10",
@@ -58287,7 +58296,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "senas",
     "uk": "старий",
     "cs": "starý",
-    "tr": "eski"
+    "tr": "eski",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_10.jpg"
   },
   {
     "id": "adj_11",
@@ -58304,7 +58314,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "jaunas",
     "uk": "молодий",
     "cs": "mladý",
-    "tr": "genç"
+    "tr": "genç",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_11.jpg"
   },
   {
     "id": "adj_12",
@@ -58321,7 +58332,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "ilgas",
     "uk": "довгий",
     "cs": "dlouhý",
-    "tr": "uzun"
+    "tr": "uzun",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_12.jpg"
   },
   {
     "id": "adj_13",
@@ -58338,7 +58350,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "trumpas",
     "uk": "короткий",
     "cs": "krátký",
-    "tr": "kısa"
+    "tr": "kısa",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_13.jpg"
   },
   {
     "id": "adj_14",
@@ -58355,7 +58368,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "aukštas",
     "uk": "високий",
     "cs": "vysoký",
-    "tr": "uzun boylu"
+    "tr": "uzun boylu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_14.jpg"
   },
   {
     "id": "adj_15",
@@ -58372,7 +58386,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "greitas",
     "uk": "швидкий",
     "cs": "rychlý",
-    "tr": "hızlı"
+    "tr": "hızlı",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_15.jpg"
   },
   {
     "id": "adj_16",
@@ -58389,7 +58404,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "lėtas",
     "uk": "повільний",
     "cs": "pomalý",
-    "tr": "yavaş"
+    "tr": "yavaş",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_16.jpg"
   },
   {
     "id": "adj_17",
@@ -58406,7 +58422,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "stiprus",
     "uk": "сильний",
     "cs": "silný",
-    "tr": "güçlü"
+    "tr": "güçlü",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_17.jpg"
   },
   {
     "id": "adj_18",
@@ -58423,7 +58440,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "silpnas",
     "uk": "слабкий",
     "cs": "slabý",
-    "tr": "zayıf"
+    "tr": "zayıf",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_18.jpg"
   },
   {
     "id": "adj_19",
@@ -58440,7 +58458,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "gražus",
     "uk": "гарний",
     "cs": "krásný",
-    "tr": "güzel"
+    "tr": "güzel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_19.jpg"
   },
   {
     "id": "adj_20",
@@ -58457,7 +58476,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "bjaurus",
     "uk": "бридкий",
     "cs": "ošklivý",
-    "tr": "çirkin"
+    "tr": "çirkin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_20.jpg"
   },
   {
     "id": "adj_21",
@@ -58474,7 +58494,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "švarus",
     "uk": "чистий",
     "cs": "čistý",
-    "tr": "temiz"
+    "tr": "temiz",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_21.jpg"
   },
   {
     "id": "adj_22",
@@ -58491,7 +58512,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "nešvarus",
     "uk": "брудний",
     "cs": "špinavý",
-    "tr": "kirli"
+    "tr": "kirli",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_22.jpg"
   },
   {
     "id": "adj_23",
@@ -58525,7 +58547,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "sunkus",
     "uk": "важкий",
     "cs": "obtížný",
-    "tr": "zor"
+    "tr": "zor",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_24.jpg"
   },
   {
     "id": "adj_25",
@@ -58542,7 +58565,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "turtingas",
     "uk": "багатий",
     "cs": "bohatý",
-    "tr": "zengin"
+    "tr": "zengin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_25.jpg"
   },
   {
     "id": "adj_26",
@@ -58559,7 +58583,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "neturtingas",
     "uk": "бідний",
     "cs": "chudý",
-    "tr": "fakir"
+    "tr": "fakir",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_26.jpg"
   },
   {
     "id": "adj_27",
@@ -58576,7 +58601,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "sunkus",
     "uk": "важкий",
     "cs": "těžký",
-    "tr": "ağır"
+    "tr": "ağır",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_27.jpg"
   },
   {
     "id": "adj_28",
@@ -58593,7 +58619,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "lengvas",
     "uk": "легкий",
     "cs": "lehký",
-    "tr": "hafif"
+    "tr": "hafif",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_28.jpg"
   },
   {
     "id": "adj_29",
@@ -58610,7 +58637,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "tamsus",
     "uk": "темний",
     "cs": "tmavý",
-    "tr": "karanlık"
+    "tr": "karanlık",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_29.jpg"
   },
   {
     "id": "adj_30",
@@ -58627,7 +58655,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "šviesus",
     "uk": "яскравий",
     "cs": "jasný",
-    "tr": "aydınlık"
+    "tr": "aydınlık",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_30.jpg"
   },
   {
     "id": "adj_31",
@@ -58644,7 +58673,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "pilnas",
     "uk": "повний",
     "cs": "plný",
-    "tr": "dolu"
+    "tr": "dolu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_31.jpg"
   },
   {
     "id": "adj_32",
@@ -58661,7 +58691,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "tuščias",
     "uk": "порожній",
     "cs": "prázdný",
-    "tr": "boş"
+    "tr": "boş",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_32.jpg"
   },
   {
     "id": "adj_33",
@@ -58678,7 +58709,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "atviras",
     "uk": "відкритий",
     "cs": "otevřený",
-    "tr": "açık"
+    "tr": "açık",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_33.jpg"
   },
   {
     "id": "adj_34",
@@ -58695,7 +58727,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "uždaras",
     "uk": "закритий",
     "cs": "zavřený",
-    "tr": "kapalı"
+    "tr": "kapalı",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_34.jpg"
   },
   {
     "id": "adj_35",
@@ -58712,7 +58745,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "garsus",
     "uk": "гучний",
     "cs": "hlasitý",
-    "tr": "gürültülü"
+    "tr": "gürültülü",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_35.jpg"
   },
   {
     "id": "adj_36",
@@ -58729,7 +58763,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "tylus",
     "uk": "тихий",
     "cs": "tichý",
-    "tr": "sessiz"
+    "tr": "sessiz",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_36.jpg"
   },
   {
     "id": "adj_37",
@@ -58746,7 +58781,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "minkštas",
     "uk": "м'який",
     "cs": "měkký",
-    "tr": "yumuşak"
+    "tr": "yumuşak",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_37.jpg"
   },
   {
     "id": "adj_38",
@@ -58763,7 +58799,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "kietas",
     "uk": "твердий",
     "cs": "tvrdý",
-    "tr": "sert"
+    "tr": "sert",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_38.jpg"
   },
   {
     "id": "adj_39",
@@ -58780,7 +58817,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "šlapias",
     "uk": "мокрий",
     "cs": "mokrý",
-    "tr": "ıslak"
+    "tr": "ıslak",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_39.jpg"
   },
   {
     "id": "adj_40",
@@ -58797,7 +58835,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "sausas",
     "uk": "сухий",
     "cs": "suchý",
-    "tr": "kuru"
+    "tr": "kuru",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_40.jpg"
   },
   {
     "id": "adj_41",
@@ -58814,7 +58853,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "gilus",
     "uk": "глибокий",
     "cs": "hluboký",
-    "tr": "derin"
+    "tr": "derin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_41.jpg"
   },
   {
     "id": "adj_42",
@@ -58831,7 +58871,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "aukštas",
     "uk": "високий",
     "cs": "vysoký",
-    "tr": "yüksek"
+    "tr": "yüksek",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_42.jpg"
   },
   {
     "id": "adj_43",
@@ -58865,7 +58906,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "platus",
     "uk": "широкий",
     "cs": "široký",
-    "tr": "geniş"
+    "tr": "geniş",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_44.jpg"
   },
   {
     "id": "adj_45",
@@ -58882,7 +58924,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "siauras",
     "uk": "вузький",
     "cs": "úzký",
-    "tr": "dar"
+    "tr": "dar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_45.jpg"
   },
   {
     "id": "adj_46",
@@ -58899,7 +58942,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "storas",
     "uk": "товстий",
     "cs": "tlustý",
-    "tr": "kalın"
+    "tr": "kalın",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_46.jpg"
   },
   {
     "id": "adj_47",
@@ -58916,7 +58960,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "plonas",
     "uk": "тонкий",
     "cs": "tenký",
-    "tr": "ince"
+    "tr": "ince",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_47.jpg"
   },
   {
     "id": "adj_48",
@@ -58933,7 +58978,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "brangus",
     "uk": "дорогий",
     "cs": "drahý",
-    "tr": "pahalı"
+    "tr": "pahalı",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_48.jpg"
   },
   {
     "id": "adj_49",
@@ -58950,7 +58996,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "pigus",
     "uk": "дешевий",
     "cs": "levný",
-    "tr": "ucuz"
+    "tr": "ucuz",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_49.jpg"
   },
   {
     "id": "adj_50",
@@ -58967,7 +59014,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "svarbus",
     "uk": "важливий",
     "cs": "důležitý",
-    "tr": "önemli"
+    "tr": "önemli",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_50.jpg"
   },
   {
     "id": "adj_51",
@@ -58984,7 +59032,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "pavojingas",
     "uk": "небезпечний",
     "cs": "nebezpečný",
-    "tr": "tehlikeli"
+    "tr": "tehlikeli",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_51.jpg"
   },
   {
     "id": "adj_52",
@@ -59001,7 +59050,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "saugus",
     "uk": "безпечний",
     "cs": "bezpečný",
-    "tr": "güvenli"
+    "tr": "güvenli",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_52.jpg"
   },
   {
     "id": "adj_53",
@@ -59018,7 +59068,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "juokingas",
     "uk": "смішний",
     "cs": "legrační",
-    "tr": "komik"
+    "tr": "komik",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_53.jpg"
   },
   {
     "id": "adj_54",
@@ -59035,7 +59086,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "rimtas",
     "uk": "серйозний",
     "cs": "vážný",
-    "tr": "ciddi"
+    "tr": "ciddi",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_54.jpg"
   },
   {
     "id": "adj_55",
@@ -59052,7 +59104,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "malonus",
     "uk": "люб'язний",
     "cs": "laskavý",
-    "tr": "nazik"
+    "tr": "nazik",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_55.jpg"
   },
   {
     "id": "adj_56",
@@ -59069,7 +59122,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "žiaurus",
     "uk": "жорстокий",
     "cs": "krutý",
-    "tr": "zalim"
+    "tr": "zalim",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_56.jpg"
   },
   {
     "id": "adj_57",
@@ -59086,7 +59140,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "drąsus",
     "uk": "сміливий",
     "cs": "statečný",
-    "tr": "cesur"
+    "tr": "cesur",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_57.jpg"
   },
   {
     "id": "adj_58",
@@ -59103,7 +59158,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "išsigandęs",
     "uk": "наляканий",
     "cs": "bojácný",
-    "tr": "korkmuş"
+    "tr": "korkmuş",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_58.jpg"
   },
   {
     "id": "adj_59",
@@ -59120,7 +59176,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "blizgantis",
     "uk": "блискучий",
     "cs": "lesklý",
-    "tr": "parlak"
+    "tr": "parlak",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_59.jpg"
   },
   {
     "id": "adj_60",
@@ -59137,7 +59194,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "alkanas",
     "uk": "голодний",
     "cs": "hladový",
-    "tr": "aç"
+    "tr": "aç",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_60.jpg"
   },
   {
     "id": "adj_61",
@@ -59154,7 +59212,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "ištroškęs",
     "uk": "спраглий",
     "cs": "žíznivý",
-    "tr": "susamış"
+    "tr": "susamış",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_61.jpg"
   },
   {
     "id": "adj_62",
@@ -59171,7 +59230,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "sergantis",
     "uk": "хворий",
     "cs": "nemocný",
-    "tr": "hasta"
+    "tr": "hasta",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_62.jpg"
   },
   {
     "id": "adj_63",
@@ -59188,7 +59248,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "sveikas",
     "uk": "здоровий",
     "cs": "zdravý",
-    "tr": "sağlıklı"
+    "tr": "sağlıklı",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_63.jpg"
   },
   {
     "id": "adj_64",
@@ -59205,7 +59266,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "lipnus",
     "uk": "липкий",
     "cs": "lepkavý",
-    "tr": "yapışkan"
+    "tr": "yapışkan",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_64.jpg"
   },
   {
     "id": "adj_65",
@@ -59222,7 +59284,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "kvadratinis",
     "uk": "квадратний",
     "cs": "čtvercový",
-    "tr": "kare"
+    "tr": "kare",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_65.jpg"
   },
   {
     "id": "adj_66",
@@ -59239,7 +59302,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "užsiėmęs",
     "uk": "зайнятий",
     "cs": "zaneprázdněný",
-    "tr": "meşgul"
+    "tr": "meşgul",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_66.jpg"
   },
   {
     "id": "adj_67",
@@ -59256,7 +59320,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "laisvas",
     "uk": "вільний",
     "cs": "volný",
-    "tr": "serbest"
+    "tr": "serbest",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_67.jpg"
   },
   {
     "id": "adj_68",
@@ -59273,7 +59338,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "ankstyvas",
     "uk": "ранній",
     "cs": "brzký",
-    "tr": "erken"
+    "tr": "erken",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_68.jpg"
   },
   {
     "id": "adj_69",
@@ -59290,7 +59356,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "vėlyvas",
     "uk": "пізній",
     "cs": "pozdní",
-    "tr": "geç"
+    "tr": "geç",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_69.jpg"
   },
   {
     "id": "adj_70",
@@ -59307,7 +59374,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "teisingas",
     "uk": "правильний",
     "cs": "správný",
-    "tr": "doğru"
+    "tr": "doğru",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_70.jpg"
   },
   {
     "id": "adj_71",
@@ -59324,7 +59392,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "neteisingas",
     "uk": "неправильний",
     "cs": "nesprávný",
-    "tr": "yanlış"
+    "tr": "yanlış",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_71.jpg"
   },
   {
     "id": "adj_72",
@@ -59358,7 +59427,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "klaidingas",
     "uk": "фальшивий",
     "cs": "falešný",
-    "tr": "sahte"
+    "tr": "sahte",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_73.jpg"
   },
   {
     "id": "adj_74",
@@ -59409,7 +59479,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "protingas",
     "uk": "розумний",
     "cs": "chytrý",
-    "tr": "zeki"
+    "tr": "zeki",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_76.jpg"
   },
   {
     "id": "adj_77",
@@ -59443,7 +59514,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "žymus",
     "uk": "відомий",
     "cs": "slavný",
-    "tr": "ünlü"
+    "tr": "ünlü",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_78.jpg"
   },
   {
     "id": "adj_79",
@@ -59460,7 +59532,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "modernus",
     "uk": "сучасний",
     "cs": "moderní",
-    "tr": "modern"
+    "tr": "modern",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_79.jpg"
   },
   {
     "id": "adj_80",
@@ -59477,7 +59550,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "senovinis",
     "uk": "стародавній",
     "cs": "starověký",
-    "tr": "antik"
+    "tr": "antik",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_80.jpg"
   },
   {
     "id": "adj_81",
@@ -59494,7 +59568,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "šviežias",
     "uk": "свіжий",
     "cs": "čerstvý",
-    "tr": "taze"
+    "tr": "taze",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_81.jpg"
   },
   {
     "id": "adj_82",
@@ -59511,7 +59586,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "saldus",
     "uk": "цукерка",
     "cs": "sladkost",
-    "tr": "tatlı"
+    "tr": "tatlı",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_82.jpg"
   },
   {
     "id": "adj_83",
@@ -59528,7 +59604,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "rūgštus",
     "uk": "кислий",
     "cs": "kyselý",
-    "tr": "ekşi"
+    "tr": "ekşi",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_83.jpg"
   },
   {
     "id": "adj_84",
@@ -59545,7 +59622,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "kartus",
     "uk": "гіркий",
     "cs": "hořký",
-    "tr": "acı"
+    "tr": "acı",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_84.jpg"
   },
   {
     "id": "adj_85",
@@ -59562,7 +59640,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "sūrus",
     "uk": "солоний",
     "cs": "slaný",
-    "tr": "tuzlu"
+    "tr": "tuzlu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_85.jpg"
   },
   {
     "id": "adj_86",
@@ -59579,7 +59658,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "skanus",
     "uk": "смачний",
     "cs": "lahodný",
-    "tr": "lezzetli"
+    "tr": "lezzetli",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_86.jpg"
   },
   {
     "id": "adj_87",
@@ -59596,7 +59676,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "patogus",
     "uk": "зручний",
     "cs": "pohodlný",
-    "tr": "rahat"
+    "tr": "rahat",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_87.jpg"
   },
   {
     "id": "adj_88",
@@ -59613,7 +59694,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "lygus",
     "uk": "гладкий",
     "cs": "hladký",
-    "tr": "pürüzsüz"
+    "tr": "pürüzsüz",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_88.jpg"
   },
   {
     "id": "adj_89",
@@ -59630,7 +59712,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "šiurkštus",
     "uk": "шорсткий",
     "cs": "drsný",
-    "tr": "pürüzlü"
+    "tr": "pürüzlü",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_89.jpg"
   },
   {
     "id": "adj_90",
@@ -59647,7 +59730,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "aštrus",
     "uk": "гострий",
     "cs": "ostrý",
-    "tr": "keskin"
+    "tr": "keskin",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_90.jpg"
   },
   {
     "id": "adj_91",
@@ -59664,7 +59748,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "apvalus",
     "uk": "круглий",
     "cs": "kulatý",
-    "tr": "yuvarlak"
+    "tr": "yuvarlak",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_91.jpg"
   },
   {
     "id": "adj_92",
@@ -59681,7 +59766,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "plokščias",
     "uk": "плоский",
     "cs": "plochý",
-    "tr": "yassı"
+    "tr": "yassı",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_92.jpg"
   },
   {
     "id": "adj_93",
@@ -59698,7 +59784,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "tiesus",
     "uk": "прямий",
     "cs": "rovný",
-    "tr": "düz"
+    "tr": "düz",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_93.jpg"
   },
   {
     "id": "adj_94",
@@ -59715,7 +59802,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "kreivas",
     "uk": "кривий",
     "cs": "křivý",
-    "tr": "eğri"
+    "tr": "eğri",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_94.jpg"
   },
   {
     "id": "adj_95",
@@ -59732,7 +59820,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "švelnus",
     "uk": "ніжний",
     "cs": "jemný",
-    "tr": "yumuşak huylu"
+    "tr": "yumuşak huylu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_95.jpg"
   },
   {
     "id": "adj_96",
@@ -59749,7 +59838,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "mandagus",
     "uk": "ввічливий",
     "cs": "zdvořilý",
-    "tr": "kibar"
+    "tr": "kibar",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_96.jpg"
   },
   {
     "id": "adj_97",
@@ -59766,7 +59856,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "nemandagus",
     "uk": "грубий",
     "cs": "hrubý",
-    "tr": "kaba"
+    "tr": "kaba",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_97.jpg"
   },
   {
     "id": "adj_98",
@@ -59783,7 +59874,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "dosnus",
     "uk": "щедрий",
     "cs": "štědrý",
-    "tr": "cömert"
+    "tr": "cömert",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_98.jpg"
   },
   {
     "id": "adj_99",
@@ -59800,7 +59892,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "tingus",
     "uk": "лінивий",
     "cs": "líný",
-    "tr": "tembel"
+    "tr": "tembel",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_99.jpg"
   },
   {
     "id": "adj_100",
@@ -59817,7 +59910,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "lt": "išdidus",
     "uk": "гордий",
     "cs": "hrdý",
-    "tr": "gururlu"
+    "tr": "gururlu",
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-adjectives/adj-adj_100.jpg"
   }
 ];
 window.QM_VOCAB_CALENDAR_DATA = [
