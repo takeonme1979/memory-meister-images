@@ -2512,68 +2512,7 @@ window.QM_FLAGS_DATA = [
     "continent": "Africa"
   }
 ];
-window.QM_HIDDEN_QUIZZES = [
-  "male60s",
-  "startrek",
-  "female70s",
-  "male70s",
-  "female80s",
-  "female60s",
-  "guitarists",
-  "womensTennis",
-  "worldChessChamps",
-  "classicRockBands",
-  "modernRockBands",
-  "puppies",
-  "itAdjectives",
-  "plAdjectives",
-  "frAdjectives",
-  "deAdjectives",
-  "esAdjectives",
-  "ptAdjectives",
-  "ritAdjectives",
-  "rplAdjectives",
-  "rfrAdjectives",
-  "rdeAdjectives",
-  "resAdjectives",
-  "rptAdjectives",
-  "ballets",
-  "nlAdjectives",
-  "rnlAdjectives",
-  "male80s",
-  "irishCounties",
-  "africaMap",
-  "scottishCounties",
-  "welshCounties",
-  "monarchs",
-  "huAdjectives",
-  "roAdjectives",
-  "ltAdjectives",
-  "rhuAdjectives",
-  "rroAdjectives",
-  "rltAdjectives",
-  "oscarActor40",
-  "oscarActress70",
-  "oscarActress40",
-  "oscarSupActor00",
-  "oscarSupActor70",
-  "oscarSupActor40",
-  "oscarSupActress00",
-  "oscarSupActress70",
-  "oscarSupActress40",
-  "oscarDirector00",
-  "oscarDirector70",
-  "ritIdioms",
-  "rplIdioms",
-  "rfrIdioms",
-  "rdeIdioms",
-  "resIdioms",
-  "rptIdioms",
-  "rnlIdioms",
-  "rhuIdioms",
-  "rroIdioms",
-  "rcsIdioms"
-];
+window.QM_HIDDEN_QUIZZES = ["male60s","startrek","female70s","male70s","female80s","female60s","guitarists","womensTennis","worldChessChamps","classicRockBands","modernRockBands","puppies","itAdjectives","plAdjectives","frAdjectives","deAdjectives","esAdjectives","ptAdjectives","ritAdjectives","rplAdjectives","rfrAdjectives","rdeAdjectives","resAdjectives","rptAdjectives","ballets","nlAdjectives","rnlAdjectives","male80s","irishCounties","africaMap","scottishCounties","welshCounties","monarchs","huAdjectives","roAdjectives","ltAdjectives","rhuAdjectives","rroAdjectives","rltAdjectives","oscarActor40","oscarActress70","oscarActress40","oscarSupActor00","oscarSupActor70","oscarSupActor40","oscarSupActress00","oscarSupActress70","oscarSupActress40","oscarDirector00","oscarDirector70","ritIdioms","rplIdioms","rfrIdioms","rdeIdioms","resIdioms","rptIdioms","rnlIdioms","rhuIdioms","rroIdioms","rcsIdioms","trAnimals","rtrAnimals","trAnimals2","rtrAnimals2","trFoods","rtrFoods","trNouns","rtrNouns","trBodyparts","rtrBodyparts","trVerbs","rtrVerbs","trColours","rtrColours","trOccupations","rtrOccupations","trSports","rtrSports","trInstruments","rtrInstruments","trHobbies","rtrHobbies","trWeather","rtrWeather","trEmotions","rtrEmotions","trTransport","rtrTransport","trSpace","rtrSpace","trAdjectives","rtrAdjectives","trCalendar","rtrCalendar","trAfrica","rtrAfrica","trAsia","rtrAsia","trEurope","rtrEurope","trNamerica","rtrNamerica","trSamerica","rtrSamerica","trOceania","rtrOceania"];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
   "male90s": {
@@ -25630,7 +25569,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "câine",
     "lt": "šuo",
     "uk": "собака",
-    "cs": "pes"
+    "cs": "pes",
+    "tr": "köpek"
   },
   {
     "id": "cat",
@@ -25650,7 +25590,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "pisică",
     "lt": "katė",
     "uk": "кіт",
-    "cs": "kočka"
+    "cs": "kočka",
+    "tr": "kedi"
   },
   {
     "id": "horse",
@@ -25670,7 +25611,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "cal",
     "lt": "arklys",
     "uk": "кінь",
-    "cs": "kůň"
+    "cs": "kůň",
+    "tr": "at"
   },
   {
     "id": "cow",
@@ -25690,7 +25632,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "vacă",
     "lt": "karvė",
     "uk": "залякувати",
-    "cs": "kráva"
+    "cs": "kráva",
+    "tr": "inek"
   },
   {
     "id": "duck",
@@ -25710,7 +25653,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "rață",
     "lt": "antis",
     "uk": "качка",
-    "cs": "kachna"
+    "cs": "kachna",
+    "tr": "ördek"
   },
   {
     "id": "mouse",
@@ -25730,7 +25674,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "șoarece",
     "lt": "pelė",
     "uk": "миша",
-    "cs": "myš"
+    "cs": "myš",
+    "tr": "fare"
   },
   {
     "id": "rat",
@@ -25750,7 +25695,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "șobolan",
     "lt": "žiurkė",
     "uk": "пацюк",
-    "cs": "krysa"
+    "cs": "krysa",
+    "tr": "sıçan"
   },
   {
     "id": "wolf",
@@ -25770,7 +25716,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "lup",
     "lt": "vilkas",
     "uk": "вовк",
-    "cs": "vlk"
+    "cs": "vlk",
+    "tr": "kurt"
   },
   {
     "id": "bear",
@@ -25790,7 +25737,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "urs",
     "lt": "lokys",
     "uk": "ведмідь",
-    "cs": "medvěd"
+    "cs": "medvěd",
+    "tr": "ayı"
   },
   {
     "id": "lion",
@@ -25810,7 +25758,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "leu",
     "lt": "liūtas",
     "uk": "лев",
-    "cs": "lev"
+    "cs": "lev",
+    "tr": "aslan"
   },
   {
     "id": "tiger",
@@ -25830,7 +25779,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "tigru",
     "lt": "tigras",
     "uk": "тигр",
-    "cs": "tygr"
+    "cs": "tygr",
+    "tr": "kaplan"
   },
   {
     "id": "zebra",
@@ -25850,7 +25800,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "zebră",
     "lt": "zebras",
     "uk": "зебра",
-    "cs": "zebra"
+    "cs": "zebra",
+    "tr": "zebra"
   },
   {
     "id": "monkey",
@@ -25870,7 +25821,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "maimuță",
     "lt": "beždžionė",
     "uk": "мавпа",
-    "cs": "opičák"
+    "cs": "opičák",
+    "tr": "maymun"
   },
   {
     "id": "gorilla",
@@ -25890,7 +25842,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "gorilă",
     "lt": "gorila",
     "uk": "горила",
-    "cs": "gorila"
+    "cs": "gorila",
+    "tr": "goril"
   },
   {
     "id": "koala",
@@ -25910,7 +25863,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "koala",
     "lt": "koala",
     "uk": "коала",
-    "cs": "koala"
+    "cs": "koala",
+    "tr": "koala"
   },
   {
     "id": "moose",
@@ -25930,7 +25884,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "elan",
     "lt": "briedis",
     "uk": "лось",
-    "cs": "los"
+    "cs": "los",
+    "tr": "Kanada geyiği"
   },
   {
     "id": "camel",
@@ -25950,7 +25905,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "cămilă",
     "lt": "kupranugaris",
     "uk": "верблюд",
-    "cs": "velbloud"
+    "cs": "velbloud",
+    "tr": "deve"
   },
   {
     "id": "hippopotamus",
@@ -25970,7 +25926,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "hipopotam",
     "lt": "begemotas",
     "uk": "гіпопотам",
-    "cs": "hroch"
+    "cs": "hroch",
+    "tr": "su aygırı"
   },
   {
     "id": "rhinoceros",
@@ -25990,7 +25947,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "rinocer",
     "lt": "raganosis",
     "uk": "носоріг",
-    "cs": "nosorožec"
+    "cs": "nosorožec",
+    "tr": "gergedan"
   },
   {
     "id": "snake",
@@ -26010,7 +25968,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "șarpe",
     "lt": "gyvatė",
     "uk": "змія",
-    "cs": "had"
+    "cs": "had",
+    "tr": "yılan"
   },
   {
     "id": "turtle",
@@ -26030,7 +25989,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "broască țestoasă",
     "lt": "vėžlys",
     "uk": "черепаха",
-    "cs": "želva"
+    "cs": "želva",
+    "tr": "kaplumbağa"
   },
   {
     "id": "shark",
@@ -26050,7 +26010,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "rechin",
     "lt": "ryklys",
     "uk": "акула",
-    "cs": "žralok"
+    "cs": "žralok",
+    "tr": "köpekbalığı"
   },
   {
     "id": "dolphin",
@@ -26070,7 +26031,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "delfin",
     "lt": "delfinas",
     "uk": "дельфін",
-    "cs": "plískavice"
+    "cs": "plískavice",
+    "tr": "yunus"
   },
   {
     "id": "whale",
@@ -26090,7 +26052,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "balenă",
     "lt": "banginis",
     "uk": "кит",
-    "cs": "velryba"
+    "cs": "velryba",
+    "tr": "balina"
   },
   {
     "id": "jellyfish",
@@ -26110,7 +26073,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "meduză",
     "lt": "medūza",
     "uk": "медуза",
-    "cs": "medúza"
+    "cs": "medúza",
+    "tr": "denizanası"
   },
   {
     "id": "seal",
@@ -26130,7 +26094,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "focă",
     "lt": "ruonis",
     "uk": "тюлень",
-    "cs": "tuleň"
+    "cs": "tuleň",
+    "tr": "fok"
   },
   {
     "id": "otter",
@@ -26150,7 +26115,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "vidră",
     "lt": "ūdra",
     "uk": "видра",
-    "cs": "vydra"
+    "cs": "vydra",
+    "tr": "su samuru"
   },
   {
     "id": "bat",
@@ -26170,7 +26136,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "liliac",
     "lt": "šikšnosparnis",
     "uk": "кажан",
-    "cs": "netopýr"
+    "cs": "netopýr",
+    "tr": "yarasa"
   },
   {
     "id": "eagle",
@@ -26190,7 +26157,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "vultur",
     "lt": "erelis",
     "uk": "орел",
-    "cs": "orel"
+    "cs": "orel",
+    "tr": "kartal"
   },
   {
     "id": "falcon",
@@ -26210,7 +26178,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "șoim",
     "lt": "sakalas",
     "uk": "сокіл",
-    "cs": "sokol"
+    "cs": "sokol",
+    "tr": "şahin"
   },
   {
     "id": "parrot",
@@ -26230,7 +26199,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "papagal",
     "lt": "papūga",
     "uk": "папуга",
-    "cs": "papoušek"
+    "cs": "papoušek",
+    "tr": "papağan"
   },
   {
     "id": "ostrich",
@@ -26250,7 +26220,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "struț",
     "lt": "strutis",
     "uk": "страус",
-    "cs": "pštros"
+    "cs": "pštros",
+    "tr": "devekuşu"
   },
   {
     "id": "peacock",
@@ -26270,7 +26241,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "păun",
     "lt": "povas",
     "uk": "павич",
-    "cs": "páv"
+    "cs": "páv",
+    "tr": "tavus kuşu"
   },
   {
     "id": "flamingo",
@@ -26290,7 +26262,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "flamingo",
     "lt": "flamingas",
     "uk": "фламінго",
-    "cs": "plameňák"
+    "cs": "plameňák",
+    "tr": "flamingo"
   },
   {
     "id": "bee",
@@ -26310,7 +26283,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "albină",
     "lt": "bitė",
     "uk": "бджола",
-    "cs": "včela"
+    "cs": "včela",
+    "tr": "arı"
   },
   {
     "id": "butterfly",
@@ -26330,7 +26304,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "fluture",
     "lt": "drugelis",
     "uk": "метелик",
-    "cs": "motýl"
+    "cs": "motýl",
+    "tr": "kelebek"
   },
   {
     "id": "spider",
@@ -26350,7 +26325,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "păianjen",
     "lt": "voras",
     "uk": "павук",
-    "cs": "pavouk"
+    "cs": "pavouk",
+    "tr": "örümcek"
   },
   {
     "id": "scorpion",
@@ -26370,7 +26346,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "scorpion",
     "lt": "skorpionas",
     "uk": "скорпіон",
-    "cs": "štír"
+    "cs": "štír",
+    "tr": "akrep"
   },
   {
     "id": "donkey",
@@ -26390,7 +26367,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "măgar",
     "lt": "asilas",
     "uk": "віслюк",
-    "cs": "osel"
+    "cs": "osel",
+    "tr": "eşek"
   },
   {
     "id": "narwhal",
@@ -26410,7 +26388,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "narval",
     "lt": "narvalas",
     "uk": "нарвал",
-    "cs": "narval"
+    "cs": "narval",
+    "tr": "denizgergedanı"
   },
   {
     "id": "axolotl",
@@ -26430,7 +26409,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "axolotl",
     "lt": "aksolotlis",
     "uk": "аксолотль",
-    "cs": "axolotl"
+    "cs": "axolotl",
+    "tr": "aksolotl"
   },
   {
     "id": "aardvark",
@@ -26450,7 +26430,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "porc-furnicar",
     "lt": "žemės kiaulė",
     "uk": "трубкозуб",
-    "cs": "hrabáč"
+    "cs": "hrabáč",
+    "tr": "yer domuzu"
   },
   {
     "id": "wombat",
@@ -26470,7 +26451,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "vombat",
     "lt": "vombatas",
     "uk": "вомбат",
-    "cs": "vombat"
+    "cs": "vombat",
+    "tr": "vombat"
   },
   {
     "id": "meerkat",
@@ -26490,7 +26472,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "suricată",
     "lt": "surikata",
     "uk": "сурикат",
-    "cs": "surikata"
+    "cs": "surikata",
+    "tr": "mirket"
   },
   {
     "id": "platypus",
@@ -26510,7 +26493,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "ornitorinc",
     "lt": "ančiasnapis",
     "uk": "качкодзьоб",
-    "cs": "ptakopysk"
+    "cs": "ptakopysk",
+    "tr": "ornitorenk"
   },
   {
     "id": "armadillo",
@@ -26530,7 +26514,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "tatu",
     "lt": "šarvuotis",
     "uk": "броненосець",
-    "cs": "pásovec"
+    "cs": "pásovec",
+    "tr": "armadillo"
   },
   {
     "id": "chinchilla",
@@ -26550,7 +26535,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "cincila",
     "lt": "šinšila",
     "cs": "činčila",
-    "uk": "шиншила"
+    "uk": "шиншила",
+    "tr": "çinçilla"
   },
   {
     "id": "llama",
@@ -26570,7 +26556,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "lama",
     "lt": "lama",
     "uk": "лама",
-    "cs": "lama"
+    "cs": "lama",
+    "tr": "lama"
   },
   {
     "id": "weasel",
@@ -26590,7 +26577,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "nevăstuică",
     "lt": "žebenkštis",
     "uk": "ласка",
-    "cs": "lasice"
+    "cs": "lasice",
+    "tr": "gelincik"
   },
   {
     "id": "seahorse",
@@ -26610,7 +26598,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "ro": "căluț de mare",
     "lt": "jūrų arkliukas",
     "uk": "морський коник",
-    "cs": "mořský koník"
+    "cs": "mořský koník",
+    "tr": "denizatı"
   },
   {
     "id": "ladybird",
@@ -26630,7 +26619,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-ladybird.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "uğur böceği"
   },
   {
     "id": "beetle",
@@ -26650,7 +26640,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-beetle.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "böcek"
   },
   {
     "id": "fly",
@@ -26670,7 +26661,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-fly.jpg?v=1787018799033",
     "focalX": 34.94032753075639,
     "focalY": 26.90608786800191,
-    "zoom": 1.05
+    "zoom": 1.05,
+    "tr": "sinek"
   },
   {
     "id": "prayingmantis",
@@ -26690,7 +26682,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-prayingmantis.jpg",
     "focalX": 30.97638812847227,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "peygamber devesi"
   },
   {
     "id": "sealion",
@@ -26710,7 +26703,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-sealion.jpg",
     "focalX": 17.464463726094507,
     "focalY": 100,
-    "zoom": 1.1500000000000001
+    "zoom": 1.1500000000000001,
+    "tr": "deniz aslanı"
   },
   {
     "id": "starfish",
@@ -26730,7 +26724,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-starfish.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "denizyıldızı"
   },
   {
     "id": "squid",
@@ -26747,7 +26742,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "lt": "kalmaras",
     "uk": "кальмар",
     "cs": "oliheň",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-squid.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-squid.jpg",
+    "tr": "kalamar"
   },
   {
     "id": "seagull",
@@ -26767,7 +26763,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-seagull.jpg",
     "focalX": 55.442808022731306,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "martı"
   },
   {
     "id": "magpie",
@@ -26787,7 +26784,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-magpie.jpg",
     "focalX": 85.1204529628041,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "saksağan"
   },
   {
     "id": "hummingbird",
@@ -26807,7 +26805,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-hummingbird.jpg",
     "focalX": 0,
     "focalY": 64.39694437741315,
-    "zoom": 1.1500000000000001
+    "zoom": 1.1500000000000001,
+    "tr": "sinek kuşu"
   },
   {
     "id": "antelope",
@@ -26827,7 +26826,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-antelope.jpg",
     "focalX": 51.95110088014635,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "antilop"
   },
   {
     "id": "reindeer",
@@ -26847,7 +26847,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-reindeer.jpg",
     "focalX": 100,
     "focalY": 0,
-    "zoom": 1.05
+    "zoom": 1.05,
+    "tr": "ren geyiği"
   },
   {
     "id": "wildboar",
@@ -26867,7 +26868,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-wildboar.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1.05
+    "zoom": 1.05,
+    "tr": "yaban domuzu"
   },
   {
     "id": "porcupine",
@@ -26887,7 +26889,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-porcupine.jpg",
     "focalX": 86.40110294283157,
     "focalY": 0,
-    "zoom": 1.05
+    "zoom": 1.05,
+    "tr": "oklu kirpi"
   },
   {
     "id": "hamster",
@@ -26907,7 +26910,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-hamster.jpg",
     "focalX": 18.29411294748917,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "hamster"
   },
   {
     "id": "guineapig",
@@ -26927,7 +26931,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-guineapig.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1.05
+    "zoom": 1.05,
+    "tr": "kobay"
   },
   {
     "id": "hare",
@@ -26951,7 +26956,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "yaban tavşanı"
   },
   {
     "id": "lizard",
@@ -26971,7 +26977,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-lizard.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "kertenkele"
   },
   {
     "id": "coral",
@@ -26991,7 +26998,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-coral.jpg",
     "focalX": 0,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "mercan"
   },
   {
     "id": "mussel",
@@ -27011,7 +27019,8 @@ window.QM_VOCAB_ANIMALS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-mussel.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "midye"
   }
 ];
 window.QM_VOCAB_ANIMALS2_DATA = [
@@ -27033,7 +27042,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "porc",
     "lt": "kiaulė",
     "uk": "свиня",
-    "cs": "prase"
+    "cs": "prase",
+    "tr": "domuz"
   },
   {
     "id": "sheep",
@@ -27053,7 +27063,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "oaie",
     "lt": "avis",
     "uk": "вівця",
-    "cs": "ovce"
+    "cs": "ovce",
+    "tr": "koyun"
   },
   {
     "id": "goat",
@@ -27073,7 +27084,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "capră",
     "lt": "ožka",
     "uk": "коза",
-    "cs": "koza"
+    "cs": "koza",
+    "tr": "keçi"
   },
   {
     "id": "chicken",
@@ -27093,7 +27105,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "găină",
     "lt": "višta",
     "uk": "курча",
-    "cs": "slepice"
+    "cs": "slepice",
+    "tr": "tavuk"
   },
   {
     "id": "goose",
@@ -27113,7 +27126,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "gâscă",
     "lt": "žąsis",
     "uk": "гуска",
-    "cs": "husa"
+    "cs": "husa",
+    "tr": "kaz"
   },
   {
     "id": "rabbit",
@@ -27133,7 +27147,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "iepure",
     "lt": "triušis",
     "uk": "кріль",
-    "cs": "králík"
+    "cs": "králík",
+    "tr": "tavşan"
   },
   {
     "id": "fox",
@@ -27153,7 +27168,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "vulpe",
     "lt": "lapė",
     "uk": "лисиця",
-    "cs": "liška"
+    "cs": "liška",
+    "tr": "tilki"
   },
   {
     "id": "elephant",
@@ -27173,7 +27189,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "elefant",
     "lt": "dramblys",
     "uk": "слон",
-    "cs": "slon"
+    "cs": "slon",
+    "tr": "fil"
   },
   {
     "id": "giraffe",
@@ -27193,7 +27210,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "girafă",
     "lt": "žirafa",
     "uk": "жирафа",
-    "cs": "žirafa"
+    "cs": "žirafa",
+    "tr": "zürafa"
   },
   {
     "id": "chimpanzee",
@@ -27213,7 +27231,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "cimpanzeu",
     "lt": "šimpanzė",
     "uk": "шимпанзе",
-    "cs": "šimpanz"
+    "cs": "šimpanz",
+    "tr": "şempanze"
   },
   {
     "id": "kangaroo",
@@ -27233,7 +27252,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "cangur",
     "lt": "kengūra",
     "uk": "кенгуру",
-    "cs": "klokan"
+    "cs": "klokan",
+    "tr": "kanguru"
   },
   {
     "id": "panda",
@@ -27253,7 +27273,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "panda",
     "lt": "panda",
     "uk": "панда",
-    "cs": "panda velká"
+    "cs": "panda velká",
+    "tr": "panda"
   },
   {
     "id": "deer",
@@ -27273,7 +27294,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "cerb",
     "lt": "elnias",
     "uk": "олень",
-    "cs": "jelen"
+    "cs": "jelen",
+    "tr": "geyik"
   },
   {
     "id": "crocodile",
@@ -27293,7 +27315,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "crocodil",
     "lt": "krokodilas",
     "uk": "крокодил",
-    "cs": "krokodýl"
+    "cs": "krokodýl",
+    "tr": "timsah"
   },
   {
     "id": "alligator",
@@ -27313,7 +27336,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "aligator",
     "lt": "aligatorius",
     "uk": "алігатор",
-    "cs": "aligátor"
+    "cs": "aligátor",
+    "tr": "Amerikan timsahı"
   },
   {
     "id": "gecko",
@@ -27333,7 +27357,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "gecko",
     "lt": "gekonas",
     "uk": "гекон",
-    "cs": "gekon"
+    "cs": "gekon",
+    "tr": "geko"
   },
   {
     "id": "frog",
@@ -27353,7 +27378,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "broască",
     "lt": "varlė",
     "uk": "жаба",
-    "cs": "žába"
+    "cs": "žába",
+    "tr": "kurbağa"
   },
   {
     "id": "toad",
@@ -27373,7 +27399,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "broască râioasă",
     "lt": "rupūžė",
     "uk": "ропуха",
-    "cs": "ropucha"
+    "cs": "ropucha",
+    "tr": "kara kurbağası"
   },
   {
     "id": "fish",
@@ -27390,7 +27417,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "pește",
     "lt": "žuvis",
     "uk": "рибалити",
-    "cs": "rybařit"
+    "cs": "rybařit",
+    "tr": "balık"
   },
   {
     "id": "octopus",
@@ -27410,7 +27438,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "caracatiță",
     "lt": "aštuonkojis",
     "uk": "восьминіг",
-    "cs": "chobotnice"
+    "cs": "chobotnice",
+    "tr": "ahtapot"
   },
   {
     "id": "crab",
@@ -27430,7 +27459,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "crab",
     "lt": "krabas",
     "uk": "краб",
-    "cs": "krab"
+    "cs": "krab",
+    "tr": "yengeç"
   },
   {
     "id": "lobster",
@@ -27450,7 +27480,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "homar",
     "lt": "omaras",
     "uk": "омар",
-    "cs": "humr"
+    "cs": "humr",
+    "tr": "ıstakoz"
   },
   {
     "id": "shrimp",
@@ -27470,7 +27501,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "creveți",
     "lt": "krevetė",
     "uk": "креветка",
-    "cs": "kreveta"
+    "cs": "kreveta",
+    "tr": "karides"
   },
   {
     "id": "beaver",
@@ -27490,7 +27522,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "castor",
     "lt": "bebras",
     "uk": "бобер",
-    "cs": "bobr"
+    "cs": "bobr",
+    "tr": "kunduz"
   },
   {
     "id": "squirrel",
@@ -27510,7 +27543,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "veveriță",
     "lt": "voverė",
     "uk": "білка",
-    "cs": "veverka"
+    "cs": "veverka",
+    "tr": "sincap"
   },
   {
     "id": "hedgehog",
@@ -27530,7 +27564,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "arici",
     "lt": "ežys",
     "uk": "їжак",
-    "cs": "ježek"
+    "cs": "ježek",
+    "tr": "kirpi"
   },
   {
     "id": "owl",
@@ -27550,7 +27585,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "bufniță",
     "lt": "pelėda",
     "uk": "сова",
-    "cs": "sova"
+    "cs": "sova",
+    "tr": "baykuş"
   },
   {
     "id": "hawk",
@@ -27570,7 +27606,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "uliu",
     "lt": "vanagas",
     "uk": "яструб",
-    "cs": "jestřáb"
+    "cs": "jestřáb",
+    "tr": "atmaca"
   },
   {
     "id": "penguin",
@@ -27590,7 +27627,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "pinguin",
     "lt": "pingvinas",
     "uk": "пінгвін",
-    "cs": "tučňák"
+    "cs": "tučňák",
+    "tr": "penguen"
   },
   {
     "id": "swan",
@@ -27610,7 +27648,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "lebădă",
     "lt": "gulbė",
     "uk": "лебідь",
-    "cs": "labuť"
+    "cs": "labuť",
+    "tr": "kuğu"
   },
   {
     "id": "pigeon",
@@ -27630,7 +27669,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "porumbel",
     "lt": "balandis",
     "uk": "голуб",
-    "cs": "holub"
+    "cs": "holub",
+    "tr": "güvercin"
   },
   {
     "id": "sparrow",
@@ -27650,7 +27690,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "vrabie",
     "lt": "žvirblis",
     "uk": "горобець",
-    "cs": "vrabec"
+    "cs": "vrabec",
+    "tr": "serçe"
   },
   {
     "id": "crow",
@@ -27670,7 +27711,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "cioară",
     "lt": "varna",
     "uk": "ворона",
-    "cs": "vrána"
+    "cs": "vrána",
+    "tr": "karga"
   },
   {
     "id": "ant",
@@ -27690,7 +27732,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "furnică",
     "lt": "skruzdėlė",
     "uk": "мурашка",
-    "cs": "mravenec"
+    "cs": "mravenec",
+    "tr": "karınca"
   },
   {
     "id": "snail",
@@ -27710,7 +27753,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "melc",
     "lt": "sraigė",
     "uk": "равлик",
-    "cs": "hlemýžď"
+    "cs": "hlemýžď",
+    "tr": "salyangoz"
   },
   {
     "id": "worm",
@@ -27730,7 +27774,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "vierme",
     "lt": "kirminas",
     "uk": "черв'як",
-    "cs": "červ"
+    "cs": "červ",
+    "tr": "solucan"
   },
   {
     "id": "buffalo",
@@ -27747,7 +27792,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "bivol",
     "lt": "buivolas",
     "uk": "буйвіл",
-    "cs": "buvol"
+    "cs": "buvol",
+    "tr": "manda"
   },
   {
     "id": "pangolin",
@@ -27767,7 +27813,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "pangolin",
     "lt": "skujuotis",
     "uk": "панголін",
-    "cs": "luskoun"
+    "cs": "luskoun",
+    "tr": "pangolin"
   },
   {
     "id": "capybara",
@@ -27787,7 +27834,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "capibara",
     "lt": "kapibara",
     "uk": "капібара",
-    "cs": "plavoun"
+    "cs": "plavoun",
+    "tr": "kapibara"
   },
   {
     "id": "quokka",
@@ -27807,7 +27855,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "quokka",
     "lt": "kvoka",
     "uk": "квока",
-    "cs": "quokka"
+    "cs": "quokka",
+    "tr": "kuokka"
   },
   {
     "id": "tapir",
@@ -27827,7 +27876,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "tapir",
     "lt": "tapyras",
     "cs": "tapír",
-    "uk": "тапір"
+    "uk": "тапір",
+    "tr": "tapir"
   },
   {
     "id": "lemur",
@@ -27847,7 +27897,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "lemur",
     "lt": "lemūras",
     "uk": "лемур",
-    "cs": "lemur"
+    "cs": "lemur",
+    "tr": "lemur"
   },
   {
     "id": "hyena",
@@ -27867,7 +27918,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "hienă",
     "lt": "hiena",
     "uk": "гієна",
-    "cs": "hyena"
+    "cs": "hyena",
+    "tr": "sırtlan"
   },
   {
     "id": "alpaca",
@@ -27887,7 +27939,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "alpaca",
     "lt": "alpaka",
     "uk": "альпака",
-    "cs": "alpaka"
+    "cs": "alpaka",
+    "tr": "alpaka"
   },
   {
     "id": "ferret",
@@ -27907,7 +27960,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "dihor",
     "lt": "šeškas",
     "uk": "тхір",
-    "cs": "fretka"
+    "cs": "fretka",
+    "tr": "yaban gelinciği"
   },
   {
     "id": "badger",
@@ -27927,7 +27981,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "bursuc",
     "lt": "barsukas",
     "uk": "борсук",
-    "cs": "jezevec"
+    "cs": "jezevec",
+    "tr": "porsuk"
   },
   {
     "id": "mole",
@@ -27947,7 +28002,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "cârtiță",
     "lt": "kurmis",
     "uk": "кріт",
-    "cs": "krt"
+    "cs": "krt",
+    "tr": "köstebek"
   },
   {
     "id": "sloth",
@@ -27967,7 +28023,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "leneș",
     "lt": "tinginys",
     "uk": "лінивець",
-    "cs": "lenochod"
+    "cs": "lenochod",
+    "tr": "tembel hayvan"
   },
   {
     "id": "raccoon",
@@ -27987,7 +28044,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "raton",
     "lt": "meškėnas",
     "uk": "єнот",
-    "cs": "mýval"
+    "cs": "mýval",
+    "tr": "rakun"
   },
   {
     "id": "skunk",
@@ -28007,7 +28065,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "sconcs",
     "lt": "skunkas",
     "uk": "скунс",
-    "cs": "skunk"
+    "cs": "skunk",
+    "tr": "kokarca"
   },
   {
     "id": "manatee",
@@ -28027,7 +28086,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "ro": "lamantin",
     "lt": "lamantinas",
     "uk": "ламантин",
-    "cs": "kapustňák"
+    "cs": "kapustňák",
+    "tr": "deniz ineği"
   },
   {
     "id": "dragonfly",
@@ -28047,7 +28107,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-dragonfly.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "yusufçuk"
   },
   {
     "id": "mosquito",
@@ -28067,7 +28128,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-mosquito.jpg",
     "focalX": 41.21992657930959,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "sivrisinek"
   },
   {
     "id": "caterpillar",
@@ -28091,7 +28153,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "tırtıl"
   },
   {
     "id": "bumblebee",
@@ -28111,7 +28174,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-bumblebee.jpg",
     "focalX": 50,
     "focalY": 13.331147212131766,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "bombus arısı"
   },
   {
     "id": "walrus",
@@ -28131,7 +28195,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-walrus.jpg",
     "focalX": 50.3890667425133,
     "focalY": 100,
-    "zoom": 1.05
+    "zoom": 1.05,
+    "tr": "mors"
   },
   {
     "id": "salmon",
@@ -28155,7 +28220,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "brightness": 1.16,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "somon"
   },
   {
     "id": "eel",
@@ -28179,7 +28245,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "yılan balığı"
   },
   {
     "id": "goldfish",
@@ -28199,7 +28266,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-goldfish.jpg",
     "focalX": 86.1839698801751,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "japon balığı"
   },
   {
     "id": "leopard",
@@ -28219,7 +28287,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-leopard.jpg",
     "focalX": 50,
     "focalY": 37.95855040155793,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "leopar"
   },
   {
     "id": "cheetah",
@@ -28239,7 +28308,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-cheetah.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "çita"
   },
   {
     "id": "bison",
@@ -28259,7 +28329,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-bison.jpg",
     "focalX": 100,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "bizon"
   },
   {
     "id": "gazelle",
@@ -28279,7 +28350,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-gazelle.jpg",
     "focalX": 11.465060766923878,
     "focalY": 50,
-    "zoom": 1.05
+    "zoom": 1.05,
+    "tr": "ceylan"
   },
   {
     "id": "polarbear",
@@ -28299,7 +28371,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-polarbear.jpg",
     "focalX": 0,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "kutup ayısı"
   },
   {
     "id": "puppy",
@@ -28319,7 +28392,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-puppy.jpg",
     "focalX": 50,
     "focalY": 22.28515000865467,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "köpek yavrusu"
   },
   {
     "id": "kitten",
@@ -28339,7 +28413,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-kitten.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "kedi yavrusu"
   },
   {
     "id": "lamb",
@@ -28359,7 +28434,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-lamb.jpg",
     "focalX": 100,
     "focalY": 100,
-    "zoom": 1.1
+    "zoom": 1.1,
+    "tr": "kuzu"
   },
   {
     "id": "cuttlefish",
@@ -28379,7 +28455,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-cuttlefish.jpg",
     "focalX": 52.72384838643295,
     "focalY": 0,
-    "zoom": 1.05
+    "zoom": 1.05,
+    "tr": "mürekkep balığı"
   },
   {
     "id": "seaanemone",
@@ -28399,7 +28476,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-seaanemone.jpg",
     "focalX": 47.963592786991654,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "deniz anemonu"
   },
   {
     "id": "oyster",
@@ -28419,7 +28497,8 @@ window.QM_VOCAB_ANIMALS2_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-animals/anim-oyster.jpg",
     "focalX": 0,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "istiridye"
   }
 ];
 window.QM_VOCAB_FOODS_DATA = [
@@ -28441,7 +28520,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "măr",
     "lt": "obuolys",
     "uk": "яблуко",
-    "cs": "jablko"
+    "cs": "jablko",
+    "tr": "elma"
   },
   {
     "id": "banana",
@@ -28461,7 +28541,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "banană",
     "lt": "bananas",
     "uk": "банан",
-    "cs": "banán"
+    "cs": "banán",
+    "tr": "muz"
   },
   {
     "id": "orange",
@@ -28481,7 +28562,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "portocală",
     "lt": "apelsinas",
     "uk": "апельсин",
-    "cs": "pomeranč"
+    "cs": "pomeranč",
+    "tr": "portakal"
   },
   {
     "id": "grapes",
@@ -28501,7 +28583,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "struguri",
     "lt": "vynuogės",
     "uk": "виноград",
-    "cs": "hroznové víno"
+    "cs": "hroznové víno",
+    "tr": "üzüm"
   },
   {
     "id": "strawberry",
@@ -28521,7 +28604,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "căpșună",
     "lt": "braškė",
     "uk": "суниця",
-    "cs": "jahoda"
+    "cs": "jahoda",
+    "tr": "çilek"
   },
   {
     "id": "blueberry",
@@ -28541,7 +28625,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "afină",
     "lt": "mėlynė",
     "uk": "синенька",
-    "cs": "borůvka"
+    "cs": "borůvka",
+    "tr": "yaban mersini"
   },
   {
     "id": "watermelon",
@@ -28561,7 +28646,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "pepene verde",
     "lt": "arbūzas",
     "uk": "кавун",
-    "cs": "vodní meloun"
+    "cs": "vodní meloun",
+    "tr": "karpuz"
   },
   {
     "id": "pineapple",
@@ -28581,7 +28667,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "ananas",
     "lt": "ananasas",
     "uk": "ананас",
-    "cs": "ananas"
+    "cs": "ananas",
+    "tr": "ananas"
   },
   {
     "id": "mango",
@@ -28601,7 +28688,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "mango",
     "lt": "mangas",
     "uk": "манго",
-    "cs": "mango"
+    "cs": "mango",
+    "tr": "mango"
   },
   {
     "id": "peach",
@@ -28621,7 +28709,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "piersică",
     "lt": "persikas",
     "uk": "персик",
-    "cs": "broskev"
+    "cs": "broskev",
+    "tr": "şeftali"
   },
   {
     "id": "pear",
@@ -28641,7 +28730,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "pară",
     "lt": "kriaušė",
     "uk": "груша",
-    "cs": "hruška"
+    "cs": "hruška",
+    "tr": "armut"
   },
   {
     "id": "cherry",
@@ -28661,7 +28751,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "cireșe",
     "lt": "vyšnios",
     "uk": "черешні",
-    "cs": "třešně"
+    "cs": "třešně",
+    "tr": "kiraz"
   },
   {
     "id": "lemon",
@@ -28681,7 +28772,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "lămâie",
     "lt": "citrina",
     "uk": "лимон",
-    "cs": "citrón"
+    "cs": "citrón",
+    "tr": "limon"
   },
   {
     "id": "lime",
@@ -28701,7 +28793,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "lime",
     "lt": "laimas",
     "uk": "лайм",
-    "cs": "limetka"
+    "cs": "limetka",
+    "tr": "misket limonu"
   },
   {
     "id": "kiwi",
@@ -28721,7 +28814,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "kiwi",
     "lt": "kivis",
     "cs": "kiwi",
-    "uk": "ківі"
+    "uk": "ківі",
+    "tr": "kivi"
   },
   {
     "id": "avocado",
@@ -28741,7 +28835,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "avocado",
     "lt": "avokadas",
     "uk": "авокадо",
-    "cs": "avokádo"
+    "cs": "avokádo",
+    "tr": "avokado"
   },
   {
     "id": "coconut",
@@ -28761,7 +28856,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "nucă de cocos",
     "lt": "kokosas",
     "uk": "кокос",
-    "cs": "kokos"
+    "cs": "kokos",
+    "tr": "hindistan cevizi"
   },
   {
     "id": "fig",
@@ -28781,7 +28877,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "smochină",
     "lt": "figa",
     "uk": "фіга",
-    "cs": "fík"
+    "cs": "fík",
+    "tr": "incir"
   },
   {
     "id": "pomegranate",
@@ -28801,7 +28898,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "rodie",
     "lt": "granatas",
     "uk": "гранат",
-    "cs": "granátové jablko"
+    "cs": "granátové jablko",
+    "tr": "nar"
   },
   {
     "id": "raspberry",
@@ -28821,7 +28919,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "zmeură",
     "lt": "avietė",
     "uk": "малина",
-    "cs": "malina"
+    "cs": "malina",
+    "tr": "ahududu"
   },
   {
     "id": "tomato",
@@ -28841,7 +28940,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "roșie",
     "lt": "pomidoras",
     "uk": "помідор",
-    "cs": "rajče"
+    "cs": "rajče",
+    "tr": "domates"
   },
   {
     "id": "potato",
@@ -28861,7 +28961,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "cartof",
     "lt": "bulvė",
     "uk": "картопля",
-    "cs": "brambor"
+    "cs": "brambor",
+    "tr": "patates"
   },
   {
     "id": "carrot",
@@ -28881,7 +28982,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "morcov",
     "lt": "morka",
     "uk": "морква",
-    "cs": "mrkev"
+    "cs": "mrkev",
+    "tr": "havuç"
   },
   {
     "id": "onion",
@@ -28901,7 +29003,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "ceapă",
     "lt": "svogūnas",
     "uk": "цибуля",
-    "cs": "cibule"
+    "cs": "cibule",
+    "tr": "soğan"
   },
   {
     "id": "garlic",
@@ -28921,7 +29024,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "usturoi",
     "lt": "česnakas",
     "uk": "часник",
-    "cs": "česnek"
+    "cs": "česnek",
+    "tr": "sarımsak"
   },
   {
     "id": "cucumber",
@@ -28941,7 +29045,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "castravete",
     "lt": "agurkas",
     "uk": "огірок",
-    "cs": "okurka"
+    "cs": "okurka",
+    "tr": "salatalık"
   },
   {
     "id": "lettuce",
@@ -28958,7 +29063,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "salată verde",
     "lt": "salotos",
     "cs": "salát",
-    "uk": "салат"
+    "uk": "салат",
+    "tr": "marul"
   },
   {
     "id": "broccoli",
@@ -28978,7 +29084,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "broccoli",
     "lt": "brokoliai",
     "uk": "броколі",
-    "cs": "brokolice"
+    "cs": "brokolice",
+    "tr": "brokoli"
   },
   {
     "id": "cauliflower",
@@ -28998,7 +29105,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "conopidă",
     "lt": "žiediniai kopūstai",
     "uk": "цвітна капуста",
-    "cs": "květák"
+    "cs": "květák",
+    "tr": "karnabahar"
   },
   {
     "id": "cabbage",
@@ -29018,7 +29126,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "varză",
     "lt": "kopūstas",
     "uk": "капуста",
-    "cs": "zelí"
+    "cs": "zelí",
+    "tr": "lahana"
   },
   {
     "id": "spinach",
@@ -29038,7 +29147,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "spanac",
     "lt": "špinatas",
     "uk": "шпинат",
-    "cs": "špenát"
+    "cs": "špenát",
+    "tr": "ıspanak"
   },
   {
     "id": "pepper",
@@ -29058,7 +29168,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "ardei gras",
     "lt": "paprika",
     "uk": "болгарський перець",
-    "cs": "paprika"
+    "cs": "paprika",
+    "tr": "dolmalık biber"
   },
   {
     "id": "chili",
@@ -29078,7 +29189,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "ardei iute",
     "lt": "aitrioji paprika",
     "uk": "перець чилі",
-    "cs": "chilli paprička"
+    "cs": "chilli paprička",
+    "tr": "acı biber"
   },
   {
     "id": "corn",
@@ -29098,7 +29210,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "porumb",
     "lt": "kukurūzas",
     "uk": "мозоль",
-    "cs": "kuří oko"
+    "cs": "kuří oko",
+    "tr": "mısır"
   },
   {
     "id": "pumpkin",
@@ -29118,7 +29231,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "dovleac",
     "lt": "moliūgas",
     "uk": "гарбуз",
-    "cs": "dýně"
+    "cs": "dýně",
+    "tr": "balkabağı"
   },
   {
     "id": "zucchini",
@@ -29138,7 +29252,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "dovlecel",
     "lt": "cukinija",
     "uk": "кабачок",
-    "cs": "cuketa"
+    "cs": "cuketa",
+    "tr": "kabak"
   },
   {
     "id": "eggplant",
@@ -29158,7 +29273,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "vânătă",
     "lt": "baklažanas",
     "uk": "баклажан",
-    "cs": "baklažán"
+    "cs": "baklažán",
+    "tr": "patlıcan"
   },
   {
     "id": "mushroom",
@@ -29178,7 +29294,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "ciupercă",
     "lt": "grybas",
     "uk": "гриб",
-    "cs": "houba"
+    "cs": "houba",
+    "tr": "mantar"
   },
   {
     "id": "peas",
@@ -29198,7 +29315,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "mazăre",
     "lt": "žirniai",
     "uk": "горох",
-    "cs": "hrách"
+    "cs": "hrách",
+    "tr": "bezelye"
   },
   {
     "id": "beans",
@@ -29218,7 +29336,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "fasole verde",
     "lt": "žaliosios pupelės",
     "uk": "зелена квасоля",
-    "cs": "zelené fazolky"
+    "cs": "zelené fazolky",
+    "tr": "taze fasulye"
   },
   {
     "id": "bread",
@@ -29238,7 +29357,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "pâine",
     "lt": "duona",
     "uk": "хліб",
-    "cs": "chléb"
+    "cs": "chléb",
+    "tr": "ekmek"
   },
   {
     "id": "baguette",
@@ -29258,7 +29378,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "baghetă",
     "lt": "bagetė",
     "uk": "багет",
-    "cs": "bageta"
+    "cs": "bageta",
+    "tr": "baget"
   },
   {
     "id": "croissant",
@@ -29278,7 +29399,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "croissant",
     "lt": "kruasanas",
     "uk": "круасан",
-    "cs": "croissant"
+    "cs": "croissant",
+    "tr": "kruvasan"
   },
   {
     "id": "bagel",
@@ -29298,7 +29420,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "bagel",
     "lt": "beigelis",
     "uk": "бейгл",
-    "cs": "bagel"
+    "cs": "bagel",
+    "tr": "bagel"
   },
   {
     "id": "pancakes",
@@ -29318,7 +29441,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "clătite",
     "lt": "blynai",
     "uk": "млинці",
-    "cs": "palačinky"
+    "cs": "palačinky",
+    "tr": "krep"
   },
   {
     "id": "waffle",
@@ -29338,7 +29462,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "vafă",
     "lt": "vaflis",
     "uk": "вафля",
-    "cs": "vafle"
+    "cs": "vafle",
+    "tr": "waffle"
   },
   {
     "id": "cheese",
@@ -29358,7 +29483,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "brânză",
     "lt": "sūris",
     "cs": "sýr",
-    "uk": "сир"
+    "uk": "сир",
+    "tr": "peynir"
   },
   {
     "id": "butter",
@@ -29378,7 +29504,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "unt",
     "lt": "sviestas",
     "uk": "масло",
-    "cs": "máslo"
+    "cs": "máslo",
+    "tr": "tereyağı"
   },
   {
     "id": "milk",
@@ -29398,7 +29525,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "lapte",
     "lt": "pienas",
     "uk": "молоко",
-    "cs": "mléko"
+    "cs": "mléko",
+    "tr": "süt"
   },
   {
     "id": "yogurt",
@@ -29418,7 +29546,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "iaurt",
     "lt": "jogurtas",
     "uk": "йогурт",
-    "cs": "jogurt"
+    "cs": "jogurt",
+    "tr": "yoğurt"
   },
   {
     "id": "egg",
@@ -29438,7 +29567,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "ou",
     "lt": "kiaušinis",
     "uk": "яйце",
-    "cs": "vejce"
+    "cs": "vejce",
+    "tr": "yumurta"
   },
   {
     "id": "honey",
@@ -29458,7 +29588,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "miere",
     "lt": "medus",
     "uk": "мед",
-    "cs": "med"
+    "cs": "med",
+    "tr": "bal"
   },
   {
     "id": "jam",
@@ -29478,7 +29609,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "gem",
     "lt": "uogienė",
     "uk": "джем",
-    "cs": "džem"
+    "cs": "džem",
+    "tr": "reçel"
   },
   {
     "id": "rice",
@@ -29498,7 +29630,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "orez",
     "lt": "ryžiai",
     "uk": "рис",
-    "cs": "rýže"
+    "cs": "rýže",
+    "tr": "pirinç"
   },
   {
     "id": "pasta",
@@ -29518,7 +29651,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "paste",
     "lt": "makaronai",
     "uk": "макаронні вироби",
-    "cs": "těstoviny"
+    "cs": "těstoviny",
+    "tr": "makarna"
   },
   {
     "id": "noodles",
@@ -29538,7 +29672,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "tăiței",
     "lt": "lakštiniai",
     "uk": "локшина",
-    "cs": "nudle"
+    "cs": "nudle",
+    "tr": "erişte"
   },
   {
     "id": "pizza",
@@ -29558,7 +29693,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "pizza",
     "lt": "pica",
     "uk": "піца",
-    "cs": "pizza"
+    "cs": "pizza",
+    "tr": "pizza"
   },
   {
     "id": "burger",
@@ -29578,7 +29714,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "burger",
     "lt": "mėsainis",
     "uk": "бургер",
-    "cs": "hamburger"
+    "cs": "hamburger",
+    "tr": "hamburger"
   },
   {
     "id": "hotdog",
@@ -29598,7 +29735,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "hot dog",
     "lt": "dešrainis",
     "uk": "хот-дог",
-    "cs": "hotdog"
+    "cs": "hotdog",
+    "tr": "sosisli"
   },
   {
     "id": "sandwich",
@@ -29618,7 +29756,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "sandviș",
     "lt": "sumuštinis",
     "uk": "сендвіч",
-    "cs": "sendvič"
+    "cs": "sendvič",
+    "tr": "sandviç"
   },
   {
     "id": "taco",
@@ -29638,7 +29777,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "taco",
     "lt": "takas",
     "uk": "тако",
-    "cs": "taco"
+    "cs": "taco",
+    "tr": "tako"
   },
   {
     "id": "burrito",
@@ -29658,7 +29798,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "burrito",
     "lt": "buritas",
     "uk": "бурито",
-    "cs": "burrito"
+    "cs": "burrito",
+    "tr": "burrito"
   },
   {
     "id": "sushi",
@@ -29678,7 +29819,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "sushi",
     "lt": "sušis",
     "uk": "суші",
-    "cs": "suši"
+    "cs": "suši",
+    "tr": "suşi"
   },
   {
     "id": "friedrice",
@@ -29698,7 +29840,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "orez prăjit",
     "lt": "kepti ryžiai",
     "uk": "смажений рис",
-    "cs": "smažená rýže"
+    "cs": "smažená rýže",
+    "tr": "kızarmış pilav"
   },
   {
     "id": "soup",
@@ -29718,7 +29861,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "supă",
     "lt": "sriuba",
     "uk": "суп",
-    "cs": "polévka"
+    "cs": "polévka",
+    "tr": "çorba"
   },
   {
     "id": "salad",
@@ -29738,7 +29882,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "salată",
     "lt": "salotos",
     "uk": "салат",
-    "cs": "salát"
+    "cs": "salát",
+    "tr": "salata"
   },
   {
     "id": "friedchicken",
@@ -29758,7 +29903,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "pui prăjit",
     "lt": "kepta vištiena",
     "uk": "смажена курка",
-    "cs": "smažené kuře"
+    "cs": "smažené kuře",
+    "tr": "kızarmış tavuk"
   },
   {
     "id": "steak",
@@ -29778,7 +29924,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "friptură",
     "lt": "kepsnys",
     "uk": "стейк",
-    "cs": "steak"
+    "cs": "steak",
+    "tr": "biftek"
   },
   {
     "id": "bacon",
@@ -29798,7 +29945,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "bacon",
     "lt": "šoninė",
     "uk": "бекон",
-    "cs": "slanina"
+    "cs": "slanina",
+    "tr": "domuz pastırması"
   },
   {
     "id": "sausage",
@@ -29818,7 +29966,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "cârnat",
     "lt": "dešra",
     "uk": "ковбаса",
-    "cs": "klobása"
+    "cs": "klobása",
+    "tr": "sosis"
   },
   {
     "id": "ham",
@@ -29838,7 +29987,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "șuncă",
     "lt": "kumpis",
     "cs": "šunka",
-    "uk": "шинка"
+    "uk": "шинка",
+    "tr": "jambon"
   },
   {
     "id": "friedfish",
@@ -29858,7 +30008,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "pește prăjit",
     "lt": "kepta žuvis",
     "uk": "смажена риба",
-    "cs": "smažená ryba"
+    "cs": "smažená ryba",
+    "tr": "kızarmış balık"
   },
   {
     "id": "friedshrimp",
@@ -29878,7 +30029,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "creveți",
     "lt": "krevetės",
     "uk": "креветка",
-    "cs": "kreveta"
+    "cs": "kreveta",
+    "tr": "karides"
   },
   {
     "id": "frenchfries",
@@ -29898,7 +30050,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "cartofi prăjiți",
     "lt": "gruzdintos bulvytės",
     "uk": "картопля фрі",
-    "cs": "hranolky"
+    "cs": "hranolky",
+    "tr": "patates kızartması"
   },
   {
     "id": "chips",
@@ -29918,7 +30071,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "chipsuri",
     "lt": "bulvių traškučiai",
     "uk": "чіпси",
-    "cs": "brambůrky"
+    "cs": "brambůrky",
+    "tr": "cips"
   },
   {
     "id": "popcorn",
@@ -29938,7 +30092,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "popcorn",
     "lt": "spragėsiai",
     "uk": "попкорн",
-    "cs": "popcorn"
+    "cs": "popcorn",
+    "tr": "patlamış mısır"
   },
   {
     "id": "pretzel",
@@ -29958,7 +30113,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "covrig",
     "lt": "riestainis",
     "uk": "брецель",
-    "cs": "preclík"
+    "cs": "preclík",
+    "tr": "pretzel"
   },
   {
     "id": "donut",
@@ -29978,7 +30134,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "gogoașă",
     "lt": "spurga",
     "uk": "пончик",
-    "cs": "kobliha"
+    "cs": "kobliha",
+    "tr": "donut"
   },
   {
     "id": "cake",
@@ -29998,7 +30155,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "tort",
     "lt": "tortas",
     "uk": "торт",
-    "cs": "dort"
+    "cs": "dort",
+    "tr": "pasta"
   },
   {
     "id": "cupcake",
@@ -30018,7 +30176,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "cupcake",
     "lt": "keksiukas",
     "uk": "кекс",
-    "cs": "muffin"
+    "cs": "muffin",
+    "tr": "kapkek"
   },
   {
     "id": "cookie",
@@ -30038,7 +30197,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "biscuit",
     "lt": "sausainis",
     "uk": "печиво",
-    "cs": "sušenka"
+    "cs": "sušenka",
+    "tr": "kurabiye"
   },
   {
     "id": "chocolate",
@@ -30058,7 +30218,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "ciocolată",
     "lt": "šokoladas",
     "uk": "шоколад",
-    "cs": "čokoláda"
+    "cs": "čokoláda",
+    "tr": "çikolata"
   },
   {
     "id": "icecream",
@@ -30078,7 +30239,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "înghețată",
     "lt": "ledai",
     "uk": "морозиво",
-    "cs": "zmrzlina"
+    "cs": "zmrzlina",
+    "tr": "dondurma"
   },
   {
     "id": "candy",
@@ -30098,7 +30260,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "bomboană",
     "lt": "saldainis",
     "uk": "цукерка",
-    "cs": "sladkost"
+    "cs": "sladkost",
+    "tr": "şeker"
   },
   {
     "id": "pie",
@@ -30118,7 +30281,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "plăcintă",
     "lt": "pyragas",
     "uk": "пиріг",
-    "cs": "koláč"
+    "cs": "koláč",
+    "tr": "turta"
   },
   {
     "id": "muffin",
@@ -30138,7 +30302,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "brioșă",
     "lt": "keksiukas",
     "uk": "мафін",
-    "cs": "muffin"
+    "cs": "muffin",
+    "tr": "muffin"
   },
   {
     "id": "pudding",
@@ -30158,7 +30323,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "budincă",
     "lt": "pudingas",
     "cs": "pudink",
-    "uk": "пудинг"
+    "uk": "пудинг",
+    "tr": "puding"
   },
   {
     "id": "popsicle",
@@ -30178,7 +30344,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "înghețată pe băț",
     "lt": "ledai ant pagaliuko",
     "uk": "морозиво на паличці",
-    "cs": "nanuk"
+    "cs": "nanuk",
+    "tr": "buzlu şeker"
   },
   {
     "id": "salt",
@@ -30198,7 +30365,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "sare",
     "lt": "druska",
     "uk": "сіль",
-    "cs": "sůl"
+    "cs": "sůl",
+    "tr": "tuz"
   },
   {
     "id": "coffee",
@@ -30218,7 +30386,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "cafea",
     "lt": "kava",
     "uk": "кава",
-    "cs": "káva"
+    "cs": "káva",
+    "tr": "kahve"
   },
   {
     "id": "tea",
@@ -30238,7 +30407,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "ceai",
     "lt": "arbata",
     "uk": "чай",
-    "cs": "čaj"
+    "cs": "čaj",
+    "tr": "çay"
   },
   {
     "id": "juice",
@@ -30258,7 +30428,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "suc de portocale",
     "lt": "apelsinų sultys",
     "uk": "апельсиновий сік",
-    "cs": "pomerančový džus"
+    "cs": "pomerančový džus",
+    "tr": "portakal suyu"
   },
   {
     "id": "water",
@@ -30278,7 +30449,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "apă",
     "lt": "vanduo",
     "uk": "вода",
-    "cs": "voda"
+    "cs": "voda",
+    "tr": "su"
   },
   {
     "id": "soda",
@@ -30298,7 +30470,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "băutură răcoritoare",
     "lt": "gazuotas gėrimas",
     "uk": "газована вода",
-    "cs": "limonáda"
+    "cs": "limonáda",
+    "tr": "gazoz"
   },
   {
     "id": "wine",
@@ -30318,7 +30491,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "vin",
     "lt": "vynas",
     "uk": "вино",
-    "cs": "víno"
+    "cs": "víno",
+    "tr": "şarap"
   },
   {
     "id": "beer",
@@ -30338,7 +30512,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "bere",
     "lt": "alus",
     "uk": "пиво",
-    "cs": "pivo"
+    "cs": "pivo",
+    "tr": "bira"
   },
   {
     "id": "smoothie",
@@ -30358,7 +30533,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "smoothie",
     "lt": "vaisių kokteilis",
     "uk": "смузі",
-    "cs": "smoothie"
+    "cs": "smoothie",
+    "tr": "smoothie"
   },
   {
     "id": "nuts",
@@ -30378,7 +30554,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "nuci",
     "lt": "riešutai",
     "uk": "горіхи",
-    "cs": "ořechy"
+    "cs": "ořechy",
+    "tr": "kuruyemiş"
   },
   {
     "id": "peanutbutter",
@@ -30398,7 +30575,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "unt de arahide",
     "lt": "žemės riešutų sviestas",
     "uk": "арахісове масло",
-    "cs": "arašídové máslo"
+    "cs": "arašídové máslo",
+    "tr": "fıstık ezmesi"
   },
   {
     "id": "olive",
@@ -30418,7 +30596,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "măsline",
     "lt": "alyvuogės",
     "uk": "оливки",
-    "cs": "olivy"
+    "cs": "olivy",
+    "tr": "zeytin"
   },
   {
     "id": "meatballs",
@@ -30438,7 +30617,8 @@ window.QM_VOCAB_FOODS_DATA = [
     "ro": "chiftele",
     "lt": "mėsos kukuliai",
     "uk": "фрикадельки",
-    "cs": "masové kuličky"
+    "cs": "masové kuličky",
+    "tr": "köfte"
   }
 ];
 window.QM_VOCAB_NOUNS_DATA = [
@@ -30460,7 +30640,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "casă",
     "lt": "namas",
     "uk": "дім",
-    "cs": "dům"
+    "cs": "dům",
+    "tr": "ev"
   },
   {
     "id": "door",
@@ -30480,7 +30661,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "ușă",
     "lt": "durys",
     "uk": "двері",
-    "cs": "dveře"
+    "cs": "dveře",
+    "tr": "kapı"
   },
   {
     "id": "window",
@@ -30500,7 +30682,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "fereastră",
     "lt": "langas",
     "uk": "вікно",
-    "cs": "okno"
+    "cs": "okno",
+    "tr": "pencere"
   },
   {
     "id": "key",
@@ -30520,7 +30703,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cheie",
     "lt": "raktas",
     "uk": "ключ",
-    "cs": "klíč"
+    "cs": "klíč",
+    "tr": "anahtar"
   },
   {
     "id": "roof",
@@ -30540,7 +30724,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "acoperiș",
     "lt": "stogas",
     "uk": "дах",
-    "cs": "střecha"
+    "cs": "střecha",
+    "tr": "çatı"
   },
   {
     "id": "wall",
@@ -30560,7 +30745,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "perete",
     "lt": "siena",
     "uk": "стіна",
-    "cs": "zeď"
+    "cs": "zeď",
+    "tr": "duvar"
   },
   {
     "id": "floor",
@@ -30580,7 +30766,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "podea",
     "lt": "grindys",
     "uk": "підлога",
-    "cs": "podlaha"
+    "cs": "podlaha",
+    "tr": "zemin"
   },
   {
     "id": "stairs",
@@ -30600,7 +30787,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "scări",
     "lt": "laiptai",
     "uk": "сходи",
-    "cs": "schodiště"
+    "cs": "schodiště",
+    "tr": "merdiven"
   },
   {
     "id": "ceiling",
@@ -30620,7 +30808,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "tavan",
     "lt": "lubos",
     "uk": "стеля",
-    "cs": "strop"
+    "cs": "strop",
+    "tr": "tavan"
   },
   {
     "id": "chimney",
@@ -30640,7 +30829,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "coș de fum",
     "lt": "kaminas",
     "uk": "димар",
-    "cs": "komín"
+    "cs": "komín",
+    "tr": "baca"
   },
   {
     "id": "fence",
@@ -30660,7 +30850,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "gard",
     "lt": "tvora",
     "uk": "обгороджувати",
-    "cs": "oplocovat"
+    "cs": "oplocovat",
+    "tr": "çit"
   },
   {
     "id": "gate",
@@ -30680,7 +30871,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "poartă",
     "lt": "vartai",
     "uk": "ворота",
-    "cs": "brána"
+    "cs": "brána",
+    "tr": "bahçe kapısı"
   },
   {
     "id": "garden",
@@ -30700,7 +30892,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "grădină",
     "lt": "sodas",
     "uk": "сад",
-    "cs": "zahrada"
+    "cs": "zahrada",
+    "tr": "bahçe"
   },
   {
     "id": "balcony",
@@ -30720,7 +30913,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "balcon",
     "lt": "balkonas",
     "uk": "балкон",
-    "cs": "balkón"
+    "cs": "balkón",
+    "tr": "balkon"
   },
   {
     "id": "elevator",
@@ -30737,7 +30931,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "lift",
     "lt": "liftas",
     "uk": "ліфт",
-    "cs": "výtah"
+    "cs": "výtah",
+    "tr": "asansör"
   },
   {
     "id": "chair",
@@ -30757,7 +30952,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "scaun",
     "lt": "kėdė",
     "uk": "стілець",
-    "cs": "židle"
+    "cs": "židle",
+    "tr": "sandalye"
   },
   {
     "id": "table",
@@ -30777,7 +30973,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "masă",
     "lt": "stalas",
     "uk": "стіл",
-    "cs": "stůl"
+    "cs": "stůl",
+    "tr": "masa"
   },
   {
     "id": "bed",
@@ -30797,7 +30994,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pat",
     "lt": "lova",
     "uk": "ліжко",
-    "cs": "postel"
+    "cs": "postel",
+    "tr": "yatak"
   },
   {
     "id": "sofa",
@@ -30814,7 +31012,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "canapea",
     "lt": "sofa",
     "uk": "софа",
-    "cs": "pohovka"
+    "cs": "pohovka",
+    "tr": "kanepe"
   },
   {
     "id": "desk",
@@ -30834,7 +31033,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "birou",
     "lt": "rašomasis stalas",
     "uk": "письмовий стіл",
-    "cs": "psací stůl"
+    "cs": "psací stůl",
+    "tr": "çalışma masası"
   },
   {
     "id": "shelf",
@@ -30854,7 +31054,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "raft",
     "lt": "lentyna",
     "uk": "полиця",
-    "cs": "police"
+    "cs": "police",
+    "tr": "raf"
   },
   {
     "id": "cupboard",
@@ -30871,7 +31072,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "dulap",
     "lt": "spinta",
     "uk": "буфет",
-    "cs": "skříň"
+    "cs": "skříň",
+    "tr": "dolap"
   },
   {
     "id": "wardrobe",
@@ -30891,7 +31093,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "șifonier",
     "lt": "drabužių spinta",
     "uk": "шафа",
-    "cs": "skříň"
+    "cs": "skříň",
+    "tr": "gardırop"
   },
   {
     "id": "drawer",
@@ -30911,7 +31114,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "sertar",
     "lt": "stalčius",
     "uk": "шухляда",
-    "cs": "zásuvka"
+    "cs": "zásuvka",
+    "tr": "çekmece"
   },
   {
     "id": "stool",
@@ -30931,7 +31135,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "taburet",
     "lt": "taburetė",
     "uk": "табурет",
-    "cs": "stolička"
+    "cs": "stolička",
+    "tr": "tabure"
   },
   {
     "id": "mattress",
@@ -30951,7 +31156,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "saltea",
     "lt": "čiužinys",
     "uk": "матрац",
-    "cs": "matrace"
+    "cs": "matrace",
+    "tr": "şilte"
   },
   {
     "id": "curtain",
@@ -30971,7 +31177,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "perdea",
     "lt": "užuolaida",
     "uk": "штора",
-    "cs": "závěs"
+    "cs": "závěs",
+    "tr": "perde"
   },
   {
     "id": "carpet",
@@ -30991,7 +31198,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "covor",
     "lt": "kilimas",
     "uk": "килим",
-    "cs": "koberec"
+    "cs": "koberec",
+    "tr": "halı"
   },
   {
     "id": "lamp",
@@ -31011,7 +31219,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "lampă",
     "lt": "lempa",
     "uk": "лампа",
-    "cs": "lampa"
+    "cs": "lampa",
+    "tr": "lamba"
   },
   {
     "id": "candle",
@@ -31031,7 +31240,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "lumânare",
     "lt": "žvakė",
     "uk": "свічка",
-    "cs": "svíce"
+    "cs": "svíce",
+    "tr": "mum"
   },
   {
     "id": "mirror",
@@ -31051,7 +31261,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "oglindă",
     "lt": "veidrodis",
     "uk": "дзеркало",
-    "cs": "zrcadlo"
+    "cs": "zrcadlo",
+    "tr": "ayna"
   },
   {
     "id": "clock",
@@ -31071,7 +31282,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "ceas",
     "lt": "laikrodis",
     "uk": "годинник",
-    "cs": "hodiny"
+    "cs": "hodiny",
+    "tr": "saat"
   },
   {
     "id": "painting",
@@ -31091,7 +31303,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "tablou",
     "lt": "paveikslas",
     "uk": "живопис",
-    "cs": "malování"
+    "cs": "malování",
+    "tr": "tablo"
   },
   {
     "id": "photograph",
@@ -31111,7 +31324,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "fotografie",
     "lt": "nuotrauka",
     "uk": "фотографія",
-    "cs": "fotografie"
+    "cs": "fotografie",
+    "tr": "fotoğraf"
   },
   {
     "id": "calendar",
@@ -31131,7 +31345,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "calendar",
     "lt": "kalendorius",
     "uk": "календар",
-    "cs": "kalendář"
+    "cs": "kalendář",
+    "tr": "takvim"
   },
   {
     "id": "chandelier",
@@ -31151,7 +31366,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "candelabru",
     "lt": "sietynas",
     "uk": "люстра",
-    "cs": "lustr"
+    "cs": "lustr",
+    "tr": "avize"
   },
   {
     "id": "pillow",
@@ -31171,7 +31387,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pernă",
     "lt": "pagalvė",
     "uk": "подушка",
-    "cs": "polštář"
+    "cs": "polštář",
+    "tr": "yastık"
   },
   {
     "id": "blanket",
@@ -31191,7 +31408,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pătură",
     "lt": "antklodė",
     "uk": "ковдра",
-    "cs": "deka"
+    "cs": "deka",
+    "tr": "battaniye"
   },
   {
     "id": "towel",
@@ -31211,7 +31429,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "prosop",
     "lt": "rankšluostis",
     "uk": "рушник",
-    "cs": "ručník"
+    "cs": "ručník",
+    "tr": "havlu"
   },
   {
     "id": "soap",
@@ -31231,7 +31450,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "săpun",
     "lt": "muilas",
     "uk": "мило",
-    "cs": "mýdlo"
+    "cs": "mýdlo",
+    "tr": "sabun"
   },
   {
     "id": "toothbrush",
@@ -31251,7 +31471,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "periuță de dinți",
     "lt": "dantų šepetėlis",
     "uk": "зубна щітка",
-    "cs": "zubní kartáček"
+    "cs": "zubní kartáček",
+    "tr": "diş fırçası"
   },
   {
     "id": "toothpaste",
@@ -31271,7 +31492,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pastă de dinți",
     "lt": "dantų pasta",
     "uk": "зубна паста",
-    "cs": "zubní pasta"
+    "cs": "zubní pasta",
+    "tr": "diş macunu"
   },
   {
     "id": "comb",
@@ -31291,7 +31513,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pieptene",
     "lt": "šukos",
     "uk": "гребінець",
-    "cs": "hřeben"
+    "cs": "hřeben",
+    "tr": "tarak"
   },
   {
     "id": "perfume",
@@ -31311,7 +31534,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "parfum",
     "lt": "kvepalai",
     "uk": "парфуми",
-    "cs": "parfém"
+    "cs": "parfém",
+    "tr": "parfüm"
   },
   {
     "id": "bathtub",
@@ -31331,7 +31555,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cadă",
     "lt": "vonia",
     "uk": "ванна",
-    "cs": "vana"
+    "cs": "vana",
+    "tr": "küvet"
   },
   {
     "id": "shower",
@@ -31351,7 +31576,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "duș",
     "lt": "dušas",
     "uk": "душ",
-    "cs": "sprcha"
+    "cs": "sprcha",
+    "tr": "duş"
   },
   {
     "id": "toilet",
@@ -31371,7 +31597,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "toaletă",
     "lt": "tualetas",
     "uk": "туалет",
-    "cs": "záchod"
+    "cs": "záchod",
+    "tr": "tuvalet"
   },
   {
     "id": "plate",
@@ -31391,7 +31618,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "farfurie",
     "lt": "lėkštė",
     "uk": "тарілка",
-    "cs": "talíř"
+    "cs": "talíř",
+    "tr": "tabak"
   },
   {
     "id": "cup",
@@ -31411,7 +31639,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "ceașcă",
     "lt": "puodelis",
     "uk": "чашка",
-    "cs": "šálek"
+    "cs": "šálek",
+    "tr": "fincan"
   },
   {
     "id": "glass",
@@ -31431,7 +31660,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pahar",
     "lt": "stiklinė",
     "uk": "склянка",
-    "cs": "sklenice"
+    "cs": "sklenice",
+    "tr": "bardak"
   },
   {
     "id": "fork",
@@ -31451,7 +31681,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "furculiță",
     "lt": "šakutė",
     "uk": "виделка",
-    "cs": "vidlička"
+    "cs": "vidlička",
+    "tr": "çatal"
   },
   {
     "id": "spoon",
@@ -31471,7 +31702,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "lingură",
     "lt": "šaukštas",
     "uk": "ложка",
-    "cs": "lžíce"
+    "cs": "lžíce",
+    "tr": "kaşık"
   },
   {
     "id": "knife",
@@ -31491,7 +31723,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cuțit",
     "lt": "peilis",
     "uk": "ніж",
-    "cs": "nůž"
+    "cs": "nůž",
+    "tr": "bıçak"
   },
   {
     "id": "pot",
@@ -31511,7 +31744,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "oală",
     "lt": "puodas",
     "uk": "каструля",
-    "cs": "hrnec"
+    "cs": "hrnec",
+    "tr": "tencere"
   },
   {
     "id": "pan",
@@ -31531,7 +31765,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "tigaie",
     "lt": "keptuvė",
     "uk": "сковорода",
-    "cs": "pánev"
+    "cs": "pánev",
+    "tr": "tava"
   },
   {
     "id": "bowl",
@@ -31551,7 +31786,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "bol",
     "lt": "dubuo",
     "uk": "миска",
-    "cs": "miska"
+    "cs": "miska",
+    "tr": "kâse"
   },
   {
     "id": "kettle",
@@ -31571,7 +31807,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "ceainic",
     "lt": "virdulys",
     "uk": "чайник",
-    "cs": "kotel"
+    "cs": "kotel",
+    "tr": "su ısıtıcısı"
   },
   {
     "id": "oven",
@@ -31591,7 +31828,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cuptor",
     "lt": "orkaitė",
     "uk": "піч",
-    "cs": "trouba"
+    "cs": "trouba",
+    "tr": "fırın"
   },
   {
     "id": "refrigerator",
@@ -31611,7 +31849,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "frigider",
     "lt": "šaldytuvas",
     "uk": "холодильник",
-    "cs": "lednice"
+    "cs": "lednice",
+    "tr": "buzdolabı"
   },
   {
     "id": "stove",
@@ -31631,7 +31870,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "aragaz",
     "lt": "viryklė",
     "uk": "плита",
-    "cs": "sporák"
+    "cs": "sporák",
+    "tr": "ocak"
   },
   {
     "id": "sink",
@@ -31651,7 +31891,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "chiuvetă",
     "lt": "kriauklė",
     "uk": "раковина",
-    "cs": "dřez"
+    "cs": "dřez",
+    "tr": "lavabo"
   },
   {
     "id": "tray",
@@ -31671,7 +31912,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "tavă",
     "lt": "padėklas",
     "uk": "піднос",
-    "cs": "tác"
+    "cs": "tác",
+    "tr": "tepsi"
   },
   {
     "id": "shirt",
@@ -31691,7 +31933,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cămașă",
     "lt": "marškiniai",
     "uk": "сорочка",
-    "cs": "košile"
+    "cs": "košile",
+    "tr": "gömlek"
   },
   {
     "id": "trousers",
@@ -31711,7 +31954,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pantaloni",
     "lt": "kelnės",
     "uk": "штани",
-    "cs": "kalhoty"
+    "cs": "kalhoty",
+    "tr": "pantolon"
   },
   {
     "id": "dress",
@@ -31731,7 +31975,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "rochie",
     "lt": "suknelė",
     "uk": "плаття",
-    "cs": "šaty"
+    "cs": "šaty",
+    "tr": "elbise"
   },
   {
     "id": "skirt",
@@ -31751,7 +31996,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "fustă",
     "lt": "sijonas",
     "uk": "спідниця",
-    "cs": "sukně"
+    "cs": "sukně",
+    "tr": "etek"
   },
   {
     "id": "jacket",
@@ -31771,7 +32017,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "jachetă",
     "lt": "švarkas",
     "uk": "куртка",
-    "cs": "bunda"
+    "cs": "bunda",
+    "tr": "ceket"
   },
   {
     "id": "coat",
@@ -31791,7 +32038,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "palton",
     "lt": "paltas",
     "uk": "пальто",
-    "cs": "kabát"
+    "cs": "kabát",
+    "tr": "palto"
   },
   {
     "id": "shoes",
@@ -31811,7 +32059,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pantofi",
     "lt": "batai",
     "uk": "черевики",
-    "cs": "boty"
+    "cs": "boty",
+    "tr": "ayakkabı"
   },
   {
     "id": "boots",
@@ -31831,7 +32080,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cizme",
     "lt": "auliniai batai",
     "uk": "чоботи",
-    "cs": "holínky"
+    "cs": "holínky",
+    "tr": "çizme"
   },
   {
     "id": "socks",
@@ -31851,7 +32101,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "șosete",
     "lt": "kojinės",
     "uk": "шкарпетки",
-    "cs": "ponožky"
+    "cs": "ponožky",
+    "tr": "çorap"
   },
   {
     "id": "hat",
@@ -31871,7 +32122,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pălărie",
     "lt": "kepurė",
     "uk": "капелюх",
-    "cs": "klobouk"
+    "cs": "klobouk",
+    "tr": "şapka"
   },
   {
     "id": "gloves",
@@ -31891,7 +32143,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "mănuși",
     "lt": "pirštinės",
     "uk": "рукавички",
-    "cs": "rukavice"
+    "cs": "rukavice",
+    "tr": "eldiven"
   },
   {
     "id": "scarf",
@@ -31911,7 +32164,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "eșarfă",
     "lt": "šalikas",
     "uk": "шарф",
-    "cs": "šála"
+    "cs": "šála",
+    "tr": "atkı"
   },
   {
     "id": "belt",
@@ -31931,7 +32185,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "curea",
     "lt": "diržas",
     "uk": "пасок",
-    "cs": "pásek"
+    "cs": "pásek",
+    "tr": "kemer"
   },
   {
     "id": "tie",
@@ -31951,7 +32206,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cravată",
     "lt": "kaklaraištis",
     "uk": "краватка",
-    "cs": "kravata"
+    "cs": "kravata",
+    "tr": "kravat"
   },
   {
     "id": "sweater",
@@ -31971,7 +32227,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pulover",
     "lt": "megztinis",
     "uk": "светр",
-    "cs": "pulovr"
+    "cs": "pulovr",
+    "tr": "kazak"
   },
   {
     "id": "pajamas",
@@ -31991,7 +32248,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pijama",
     "lt": "pižama",
     "uk": "піжама",
-    "cs": "pyžamo"
+    "cs": "pyžamo",
+    "tr": "pijama"
   },
   {
     "id": "swimsuit",
@@ -32008,7 +32266,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "costum de baie",
     "lt": "maudymosi kostiumėlis",
     "uk": "купальний костюм",
-    "cs": "plavky"
+    "cs": "plavky",
+    "tr": "mayo"
   },
   {
     "id": "apron",
@@ -32028,7 +32287,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "șorț",
     "lt": "prijuostė",
     "uk": "фартух",
-    "cs": "zástěra"
+    "cs": "zástěra",
+    "tr": "önlük"
   },
   {
     "id": "button",
@@ -32048,7 +32308,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "nasture",
     "lt": "saga",
     "uk": "кнопка",
-    "cs": "tlačítko"
+    "cs": "tlačítko",
+    "tr": "düğme"
   },
   {
     "id": "umbrella",
@@ -32068,7 +32329,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "umbrelă",
     "lt": "skėtis",
     "uk": "парасолька",
-    "cs": "deštník"
+    "cs": "deštník",
+    "tr": "şemsiye"
   },
   {
     "id": "bag",
@@ -32088,7 +32350,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "geantă",
     "lt": "krepšys",
     "uk": "сумка",
-    "cs": "taška"
+    "cs": "taška",
+    "tr": "çanta"
   },
   {
     "id": "backpack",
@@ -32108,7 +32371,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "rucsac",
     "lt": "kuprinė",
     "uk": "рюкзак",
-    "cs": "batoh"
+    "cs": "batoh",
+    "tr": "sırt çantası"
   },
   {
     "id": "suitcase",
@@ -32128,7 +32392,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "valiză",
     "lt": "lagaminas",
     "uk": "валіза",
-    "cs": "kufr"
+    "cs": "kufr",
+    "tr": "bavul"
   },
   {
     "id": "wallet",
@@ -32148,7 +32413,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "portofel",
     "lt": "piniginė",
     "uk": "гаманець",
-    "cs": "peněženka"
+    "cs": "peněženka",
+    "tr": "cüzdan"
   },
   {
     "id": "glasses",
@@ -32168,7 +32434,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "ochelari",
     "lt": "akiniai",
     "uk": "окуляри",
-    "cs": "brýle"
+    "cs": "brýle",
+    "tr": "gözlük"
   },
   {
     "id": "watch",
@@ -32188,7 +32455,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "ceas de mână",
     "lt": "rankinis laikrodis",
     "uk": "наручний годинник",
-    "cs": "hodinky"
+    "cs": "hodinky",
+    "tr": "kol saati"
   },
   {
     "id": "ring",
@@ -32208,7 +32476,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "inel",
     "lt": "žiedas",
     "uk": "каблучка",
-    "cs": "prsten"
+    "cs": "prsten",
+    "tr": "yüzük"
   },
   {
     "id": "necklace",
@@ -32228,7 +32497,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "colier",
     "lt": "vėrinys",
     "uk": "намисто",
-    "cs": "náhrdelník"
+    "cs": "náhrdelník",
+    "tr": "kolye"
   },
   {
     "id": "earrings",
@@ -32248,7 +32518,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cercei",
     "lt": "auskarai",
     "uk": "сережки",
-    "cs": "náušnice"
+    "cs": "náušnice",
+    "tr": "küpe"
   },
   {
     "id": "car",
@@ -32268,7 +32539,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "mașină",
     "lt": "automobilis",
     "uk": "автомобіль",
-    "cs": "auto"
+    "cs": "auto",
+    "tr": "araba"
   },
   {
     "id": "bus",
@@ -32288,7 +32560,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "autobuz",
     "lt": "autobusas",
     "uk": "автобус",
-    "cs": "autobus"
+    "cs": "autobus",
+    "tr": "otobüs"
   },
   {
     "id": "train",
@@ -32308,7 +32581,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "tren",
     "lt": "traukinys",
     "uk": "поїзд",
-    "cs": "vlak"
+    "cs": "vlak",
+    "tr": "tren"
   },
   {
     "id": "bicycle",
@@ -32328,7 +32602,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "bicicletă",
     "lt": "dviratis",
     "uk": "велосипед",
-    "cs": "kolo"
+    "cs": "kolo",
+    "tr": "bisiklet"
   },
   {
     "id": "motorcycle",
@@ -32348,7 +32623,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "motocicletă",
     "lt": "motociklas",
     "uk": "мотоцикл",
-    "cs": "motocykl"
+    "cs": "motocykl",
+    "tr": "motosiklet"
   },
   {
     "id": "airplane",
@@ -32368,7 +32644,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "avion",
     "lt": "lėktuvas",
     "uk": "літак",
-    "cs": "letoun"
+    "cs": "letoun",
+    "tr": "uçak"
   },
   {
     "id": "boat",
@@ -32388,7 +32665,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "barcă",
     "lt": "valtis",
     "uk": "човен",
-    "cs": "člun"
+    "cs": "člun",
+    "tr": "tekne"
   },
   {
     "id": "ship",
@@ -32408,7 +32686,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "navă",
     "lt": "laivas",
     "uk": "корабель",
-    "cs": "loď"
+    "cs": "loď",
+    "tr": "gemi"
   },
   {
     "id": "truck",
@@ -32428,7 +32707,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "camion",
     "lt": "sunkvežimis",
     "uk": "вантажівка",
-    "cs": "kamión"
+    "cs": "kamión",
+    "tr": "kamyon"
   },
   {
     "id": "taxi",
@@ -32448,7 +32728,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "taxi",
     "lt": "taksi",
     "uk": "таксі",
-    "cs": "taxík"
+    "cs": "taxík",
+    "tr": "taksi"
   },
   {
     "id": "helicopter",
@@ -32468,7 +32749,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "elicopter",
     "lt": "sraigtasparnis",
     "uk": "вертоліт",
-    "cs": "vrtulník"
+    "cs": "vrtulník",
+    "tr": "helikopter"
   },
   {
     "id": "rocket",
@@ -32488,7 +32770,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "rachetă",
     "lt": "raketa",
     "uk": "ракета",
-    "cs": "raketa"
+    "cs": "raketa",
+    "tr": "roket"
   },
   {
     "id": "wheel",
@@ -32508,7 +32791,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "roată",
     "lt": "ratas",
     "uk": "колесо",
-    "cs": "kolo"
+    "cs": "kolo",
+    "tr": "tekerlek"
   },
   {
     "id": "road",
@@ -32528,7 +32812,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "drum",
     "lt": "kelias",
     "uk": "дорога",
-    "cs": "cesta"
+    "cs": "cesta",
+    "tr": "yol"
   },
   {
     "id": "bridge",
@@ -32548,7 +32833,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pod",
     "lt": "tiltas",
     "uk": "міст",
-    "cs": "most"
+    "cs": "most",
+    "tr": "köprü"
   },
   {
     "id": "trafficlight",
@@ -32568,7 +32854,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "semafor",
     "lt": "šviesoforas",
     "uk": "світлофор",
-    "cs": "semafor"
+    "cs": "semafor",
+    "tr": "trafik ışığı"
   },
   {
     "id": "sidewalk",
@@ -32588,7 +32875,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "trotuar",
     "lt": "šaligatvis",
     "uk": "хідник",
-    "cs": "chodník"
+    "cs": "chodník",
+    "tr": "kaldırım"
   },
   {
     "id": "tunnel",
@@ -32608,7 +32896,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "tunel",
     "lt": "tunelis",
     "uk": "тунель",
-    "cs": "tunel"
+    "cs": "tunel",
+    "tr": "tünel"
   },
   {
     "id": "station",
@@ -32628,7 +32917,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "gară",
     "lt": "stotis",
     "uk": "станція",
-    "cs": "nádraží"
+    "cs": "nádraží",
+    "tr": "istasyon"
   },
   {
     "id": "airport",
@@ -32648,7 +32938,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "aeroport",
     "lt": "oro uostas",
     "uk": "аеропорт",
-    "cs": "letiště"
+    "cs": "letiště",
+    "tr": "havalimanı"
   },
   {
     "id": "church",
@@ -32668,7 +32959,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "biserică",
     "lt": "bažnyčia",
     "uk": "церква",
-    "cs": "kostel"
+    "cs": "kostel",
+    "tr": "kilise"
   },
   {
     "id": "castle",
@@ -32688,7 +32980,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "castel",
     "lt": "pilis",
     "uk": "замок",
-    "cs": "hrad"
+    "cs": "hrad",
+    "tr": "kale"
   },
   {
     "id": "moon",
@@ -32708,7 +33001,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "lună",
     "lt": "mėnulis",
     "uk": "Місяць",
-    "cs": "Měsíc"
+    "cs": "Měsíc",
+    "tr": "Ay"
   },
   {
     "id": "star",
@@ -32728,7 +33022,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "stea",
     "lt": "žvaigždė",
     "uk": "зірка",
-    "cs": "hvězda"
+    "cs": "hvězda",
+    "tr": "yıldız"
   },
   {
     "id": "sky",
@@ -32748,7 +33043,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cer",
     "lt": "dangus",
     "uk": "небо",
-    "cs": "obloha"
+    "cs": "obloha",
+    "tr": "gökyüzü"
   },
   {
     "id": "thunder",
@@ -32768,7 +33064,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "tunet",
     "lt": "griaustinis",
     "uk": "грім",
-    "cs": "hrom"
+    "cs": "hrom",
+    "tr": "gök gürültüsü"
   },
   {
     "id": "storm",
@@ -32788,7 +33085,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "furtună",
     "lt": "audra",
     "uk": "буря",
-    "cs": "bouře"
+    "cs": "bouře",
+    "tr": "fırtına"
   },
   {
     "id": "tree",
@@ -32808,7 +33106,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "copac",
     "lt": "medis",
     "uk": "дерево",
-    "cs": "strom"
+    "cs": "strom",
+    "tr": "ağaç"
   },
   {
     "id": "flower",
@@ -32828,7 +33127,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "floare",
     "lt": "gėlė",
     "uk": "квітка",
-    "cs": "květina"
+    "cs": "květina",
+    "tr": "çiçek"
   },
   {
     "id": "leaf",
@@ -32848,7 +33148,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "frunză",
     "lt": "lapas",
     "uk": "листок",
-    "cs": "list"
+    "cs": "list",
+    "tr": "yaprak"
   },
   {
     "id": "grass",
@@ -32868,7 +33169,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "iarbă",
     "lt": "žolė",
     "uk": "трава",
-    "cs": "tráva"
+    "cs": "tráva",
+    "tr": "çimen"
   },
   {
     "id": "mountain",
@@ -32888,7 +33190,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "munte",
     "lt": "kalnas",
     "uk": "гора",
-    "cs": "hora"
+    "cs": "hora",
+    "tr": "dağ"
   },
   {
     "id": "river",
@@ -32908,7 +33211,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "râu",
     "lt": "upė",
     "uk": "річка",
-    "cs": "řeka"
+    "cs": "řeka",
+    "tr": "nehir"
   },
   {
     "id": "lake",
@@ -32928,7 +33232,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "lac",
     "lt": "ežeras",
     "uk": "озеро",
-    "cs": "jezero"
+    "cs": "jezero",
+    "tr": "göl"
   },
   {
     "id": "sea",
@@ -32948,7 +33253,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "mare",
     "lt": "jūra",
     "uk": "море",
-    "cs": "moře"
+    "cs": "moře",
+    "tr": "deniz"
   },
   {
     "id": "beach",
@@ -32968,7 +33274,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "plajă",
     "lt": "paplūdimys",
     "uk": "пляж",
-    "cs": "pláž"
+    "cs": "pláž",
+    "tr": "plaj"
   },
   {
     "id": "forest",
@@ -32988,7 +33295,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pădure",
     "lt": "miškas",
     "uk": "ліс",
-    "cs": "les"
+    "cs": "les",
+    "tr": "orman"
   },
   {
     "id": "rock",
@@ -33008,7 +33316,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "stâncă",
     "lt": "uola",
     "uk": "скеля",
-    "cs": "skála"
+    "cs": "skála",
+    "tr": "kaya"
   },
   {
     "id": "fire",
@@ -33028,7 +33337,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "foc",
     "lt": "ugnis",
     "uk": "вогонь",
-    "cs": "oheň"
+    "cs": "oheň",
+    "tr": "ateş"
   },
   {
     "id": "smoke",
@@ -33048,7 +33358,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "fum",
     "lt": "dūmai",
     "uk": "дим",
-    "cs": "kouř"
+    "cs": "kouř",
+    "tr": "duman"
   },
   {
     "id": "sand",
@@ -33068,7 +33379,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "nisip",
     "lt": "smėlis",
     "uk": "пісок",
-    "cs": "písek"
+    "cs": "písek",
+    "tr": "kum"
   },
   {
     "id": "mud",
@@ -33088,7 +33400,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "noroi",
     "lt": "purvas",
     "uk": "грязь",
-    "cs": "bláto"
+    "cs": "bláto",
+    "tr": "çamur"
   },
   {
     "id": "dust",
@@ -33108,7 +33421,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "praf",
     "lt": "dulkės",
     "uk": "пил",
-    "cs": "prach"
+    "cs": "prach",
+    "tr": "toz"
   },
   {
     "id": "man",
@@ -33128,7 +33442,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "bărbat",
     "lt": "vyras",
     "cs": "muž",
-    "uk": "чоловік"
+    "uk": "чоловік",
+    "tr": "adam"
   },
   {
     "id": "woman",
@@ -33148,7 +33463,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "femeie",
     "lt": "moteris",
     "uk": "жінка",
-    "cs": "žena"
+    "cs": "žena",
+    "tr": "kadın"
   },
   {
     "id": "boy",
@@ -33168,7 +33484,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "băiat",
     "lt": "berniukas",
     "uk": "хлопчик",
-    "cs": "chlapec"
+    "cs": "chlapec",
+    "tr": "erkek çocuk"
   },
   {
     "id": "girl",
@@ -33188,7 +33505,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "fată",
     "lt": "mergaitė",
     "uk": "дівчинка",
-    "cs": "dívka"
+    "cs": "dívka",
+    "tr": "kız çocuk"
   },
   {
     "id": "baby",
@@ -33208,7 +33526,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "bebeluș",
     "lt": "kūdikis",
     "uk": "дитина",
-    "cs": "děťátko"
+    "cs": "děťátko",
+    "tr": "bebek"
   },
   {
     "id": "father",
@@ -33228,7 +33547,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "tată",
     "lt": "tėvas",
     "uk": "батько",
-    "cs": "otec"
+    "cs": "otec",
+    "tr": "baba"
   },
   {
     "id": "mother",
@@ -33248,7 +33568,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "mamă",
     "lt": "motina",
     "uk": "мати",
-    "cs": "matka"
+    "cs": "matka",
+    "tr": "anne"
   },
   {
     "id": "brother",
@@ -33268,7 +33589,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "frate",
     "lt": "brolis",
     "uk": "брат",
-    "cs": "bratr"
+    "cs": "bratr",
+    "tr": "erkek kardeş"
   },
   {
     "id": "sister",
@@ -33288,7 +33610,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "soră",
     "lt": "sesuo",
     "uk": "сестра",
-    "cs": "sestra"
+    "cs": "sestra",
+    "tr": "kız kardeş"
   },
   {
     "id": "friend",
@@ -33308,7 +33631,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "prieten",
     "lt": "draugas",
     "uk": "друг",
-    "cs": "přítel"
+    "cs": "přítel",
+    "tr": "arkadaş"
   },
   {
     "id": "king",
@@ -33328,7 +33652,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "rege",
     "lt": "karalius",
     "uk": "король",
-    "cs": "král"
+    "cs": "král",
+    "tr": "kral"
   },
   {
     "id": "queen",
@@ -33348,7 +33673,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "regină",
     "lt": "karalienė",
     "uk": "королева",
-    "cs": "královna"
+    "cs": "královna",
+    "tr": "kraliçe"
   },
   {
     "id": "book",
@@ -33368,7 +33694,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "carte",
     "lt": "knyga",
     "uk": "книга",
-    "cs": "kniha"
+    "cs": "kniha",
+    "tr": "kitap"
   },
   {
     "id": "pen",
@@ -33388,7 +33715,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pix",
     "lt": "rašiklis",
     "uk": "ручка",
-    "cs": "pero"
+    "cs": "pero",
+    "tr": "kalem"
   },
   {
     "id": "paper",
@@ -33408,7 +33736,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "hârtie",
     "lt": "popierius",
     "uk": "папір",
-    "cs": "papír"
+    "cs": "papír",
+    "tr": "kâğıt"
   },
   {
     "id": "notebook",
@@ -33428,7 +33757,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "caiet",
     "lt": "sąsiuvinis",
     "uk": "зошит",
-    "cs": "sešit"
+    "cs": "sešit",
+    "tr": "defter"
   },
   {
     "id": "eraser",
@@ -33448,7 +33778,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "radieră",
     "lt": "trintukas",
     "uk": "гумка",
-    "cs": "guma"
+    "cs": "guma",
+    "tr": "silgi"
   },
   {
     "id": "ruler",
@@ -33468,7 +33799,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "riglă",
     "lt": "liniuotė",
     "uk": "лінійка",
-    "cs": "pravítko"
+    "cs": "pravítko",
+    "tr": "cetvel"
   },
   {
     "id": "scissors",
@@ -33488,7 +33820,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "foarfece",
     "lt": "žirklės",
     "uk": "ножиці",
-    "cs": "nůžky"
+    "cs": "nůžky",
+    "tr": "makas"
   },
   {
     "id": "envelope",
@@ -33508,7 +33841,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "plic",
     "lt": "vokas",
     "uk": "конверт",
-    "cs": "obálka"
+    "cs": "obálka",
+    "tr": "zarf"
   },
   {
     "id": "stamp",
@@ -33528,7 +33862,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "timbru",
     "lt": "pašto ženklas",
     "uk": "штамп",
-    "cs": "razítko"
+    "cs": "razítko",
+    "tr": "pul"
   },
   {
     "id": "letter",
@@ -33548,7 +33883,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "scrisoare",
     "lt": "laiškas",
     "uk": "лист",
-    "cs": "dopis"
+    "cs": "dopis",
+    "tr": "mektup"
   },
   {
     "id": "newspaper",
@@ -33568,7 +33904,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "ziar",
     "lt": "laikraštis",
     "uk": "газета",
-    "cs": "noviny"
+    "cs": "noviny",
+    "tr": "gazete"
   },
   {
     "id": "magazine",
@@ -33588,7 +33925,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "revistă",
     "lt": "žurnalas",
     "uk": "журнал",
-    "cs": "časopis"
+    "cs": "časopis",
+    "tr": "dergi"
   },
   {
     "id": "map",
@@ -33608,7 +33946,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "hartă",
     "lt": "žemėlapis",
     "uk": "карта",
-    "cs": "mapa"
+    "cs": "mapa",
+    "tr": "harita"
   },
   {
     "id": "calculator",
@@ -33628,7 +33967,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "calculator",
     "lt": "skaičiuotuvas",
     "uk": "калькулятор",
-    "cs": "kalkulačka"
+    "cs": "kalkulačka",
+    "tr": "hesap makinesi"
   },
   {
     "id": "television",
@@ -33648,7 +33988,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "televizor",
     "lt": "televizorius",
     "uk": "телевізор",
-    "cs": "televize"
+    "cs": "televize",
+    "tr": "televizyon"
   },
   {
     "id": "radio",
@@ -33668,7 +34009,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "radio",
     "lt": "radijas",
     "uk": "радіо",
-    "cs": "rádio"
+    "cs": "rádio",
+    "tr": "radyo"
   },
   {
     "id": "camera",
@@ -33688,7 +34030,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "aparat foto",
     "lt": "fotoaparatas",
     "uk": "фотоапарат",
-    "cs": "fotoaparát"
+    "cs": "fotoaparát",
+    "tr": "fotoğraf makinesi"
   },
   {
     "id": "telephone",
@@ -33708,7 +34051,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "telefon",
     "lt": "telefonas",
     "uk": "телефон",
-    "cs": "telefon"
+    "cs": "telefon",
+    "tr": "telefon"
   },
   {
     "id": "computer",
@@ -33728,7 +34072,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "calculator",
     "lt": "kompiuteris",
     "uk": "комп'ютер",
-    "cs": "počítač"
+    "cs": "počítač",
+    "tr": "bilgisayar"
   },
   {
     "id": "keyboard",
@@ -33748,7 +34093,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "tastatură",
     "lt": "klaviatūra",
     "cs": "klávesnice",
-    "uk": "клавіатура"
+    "uk": "клавіатура",
+    "tr": "klavye"
   },
   {
     "id": "computermouse",
@@ -33765,7 +34111,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "mouse",
     "lt": "pelė",
     "uk": "комп'ютерна миша",
-    "cs": "počítačová myš"
+    "cs": "počítačová myš",
+    "tr": "bilgisayar faresi"
   },
   {
     "id": "printer",
@@ -33785,7 +34132,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "imprimantă",
     "lt": "spausdintuvas",
     "uk": "принтер",
-    "cs": "tiskárna"
+    "cs": "tiskárna",
+    "tr": "yazıcı"
   },
   {
     "id": "battery",
@@ -33805,7 +34153,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "baterie",
     "lt": "baterija",
     "uk": "батарейка",
-    "cs": "baterie"
+    "cs": "baterie",
+    "tr": "pil"
   },
   {
     "id": "lightbulb",
@@ -33825,7 +34174,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "bec",
     "lt": "lemputė",
     "uk": "лампочка",
-    "cs": "žárovka"
+    "cs": "žárovka",
+    "tr": "ampul"
   },
   {
     "id": "fan",
@@ -33845,7 +34195,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "ventilator",
     "lt": "ventiliatorius",
     "uk": "вентилятор",
-    "cs": "ventilátor"
+    "cs": "ventilátor",
+    "tr": "vantilatör"
   },
   {
     "id": "remotecontrol",
@@ -33865,7 +34216,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "telecomandă",
     "lt": "nuotolinio valdymo pultas",
     "uk": "пульт",
-    "cs": "dálkový ovladač"
+    "cs": "dálkový ovladač",
+    "tr": "uzaktan kumanda"
   },
   {
     "id": "speaker",
@@ -33885,7 +34237,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "difuzor",
     "lt": "garsiakalbis",
     "uk": "динамік",
-    "cs": "reproduktor"
+    "cs": "reproduktor",
+    "tr": "hoparlör"
   },
   {
     "id": "microphone",
@@ -33905,7 +34258,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "microfon",
     "lt": "mikrofonas",
     "uk": "мікрофон",
-    "cs": "mikrofon"
+    "cs": "mikrofon",
+    "tr": "mikrofon"
   },
   {
     "id": "headphones",
@@ -33925,7 +34279,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "căști",
     "lt": "ausinės",
     "uk": "навушники",
-    "cs": "sluchátka"
+    "cs": "sluchátka",
+    "tr": "kulaklık"
   },
   {
     "id": "charger",
@@ -33945,7 +34300,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "încărcător",
     "lt": "įkroviklis",
     "uk": "зарядний пристрій",
-    "cs": "nabíječka"
+    "cs": "nabíječka",
+    "tr": "şarj aleti"
   },
   {
     "id": "screwdriver",
@@ -33965,7 +34321,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "șurubelniță",
     "lt": "atsuktuvas",
     "uk": "викрутка",
-    "cs": "šroubovák"
+    "cs": "šroubovák",
+    "tr": "tornavida"
   },
   {
     "id": "nail",
@@ -33985,7 +34342,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cui",
     "lt": "vinis",
     "uk": "цвях",
-    "cs": "hřebík"
+    "cs": "hřebík",
+    "tr": "çivi"
   },
   {
     "id": "screw",
@@ -34005,7 +34363,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "șurub",
     "lt": "varžtas",
     "uk": "гвинт",
-    "cs": "šroub"
+    "cs": "šroub",
+    "tr": "vida"
   },
   {
     "id": "saw",
@@ -34025,7 +34384,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "ferăstrău",
     "lt": "pjūklas",
     "uk": "пилка",
-    "cs": "pila"
+    "cs": "pila",
+    "tr": "testere"
   },
   {
     "id": "ladder",
@@ -34045,7 +34405,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "scară",
     "lt": "kopėčios",
     "uk": "драбина",
-    "cs": "žebřík"
+    "cs": "žebřík",
+    "tr": "el merdiveni"
   },
   {
     "id": "rope",
@@ -34065,7 +34426,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "frânghie",
     "lt": "virvė",
     "uk": "вірьовка",
-    "cs": "lano"
+    "cs": "lano",
+    "tr": "ip"
   },
   {
     "id": "bucket",
@@ -34085,7 +34447,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "găleată",
     "lt": "kibiras",
     "uk": "ківш",
-    "cs": "lopata"
+    "cs": "lopata",
+    "tr": "kova"
   },
   {
     "id": "broom",
@@ -34105,7 +34468,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "mătură",
     "lt": "šluota",
     "uk": "мітла",
-    "cs": "koště"
+    "cs": "koště",
+    "tr": "süpürge"
   },
   {
     "id": "shovel",
@@ -34125,7 +34489,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "lopată",
     "lt": "kastuvas",
     "uk": "лопата",
-    "cs": "lopata"
+    "cs": "lopata",
+    "tr": "kürek"
   },
   {
     "id": "drill",
@@ -34145,7 +34510,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "bormașină",
     "lt": "gręžtuvas",
     "uk": "дриль",
-    "cs": "vrtačka"
+    "cs": "vrtačka",
+    "tr": "matkap"
   },
   {
     "id": "wrench",
@@ -34165,7 +34531,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cheie fixă",
     "lt": "veržliaraktis",
     "uk": "гайковий ключ",
-    "cs": "klíč"
+    "cs": "klíč",
+    "tr": "ingiliz anahtarı"
   },
   {
     "id": "toolbox",
@@ -34185,7 +34552,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cutie de scule",
     "lt": "įrankių dėžė",
     "cs": "bedna na nářadí",
-    "uk": "ящик для інструментів"
+    "uk": "ящик для інструментів",
+    "tr": "alet çantası"
   },
   {
     "id": "paintbrush",
@@ -34205,7 +34573,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pensulă",
     "lt": "teptukas",
     "uk": "пензель",
-    "cs": "malířský štětec"
+    "cs": "malířský štětec",
+    "tr": "boya fırçası"
   },
   {
     "id": "money",
@@ -34225,7 +34594,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "bani",
     "lt": "pinigai",
     "uk": "гроші",
-    "cs": "peníze"
+    "cs": "peníze",
+    "tr": "para"
   },
   {
     "id": "coin",
@@ -34245,7 +34615,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "monedă",
     "lt": "moneta",
     "uk": "монета",
-    "cs": "mince"
+    "cs": "mince",
+    "tr": "madeni para"
   },
   {
     "id": "banknote",
@@ -34265,7 +34636,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "bancnotă",
     "lt": "banknotas",
     "uk": "банкнота",
-    "cs": "bankovka"
+    "cs": "bankovka",
+    "tr": "banknot"
   },
   {
     "id": "creditcard",
@@ -34285,7 +34657,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "card de credit",
     "lt": "kreditinė kortelė",
     "uk": "кредитна картка",
-    "cs": "kreditní karta"
+    "cs": "kreditní karta",
+    "tr": "kredi kartı"
   },
   {
     "id": "shoppingcart",
@@ -34305,7 +34678,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cărucior de cumpărături",
     "lt": "pirkinių vežimėlis",
     "uk": "візок для покупок",
-    "cs": "nákupní vozík"
+    "cs": "nákupní vozík",
+    "tr": "alışveriş arabası"
   },
   {
     "id": "store",
@@ -34325,7 +34699,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "magazin",
     "lt": "parduotuvė",
     "uk": "склад",
-    "cs": "sklad"
+    "cs": "sklad",
+    "tr": "mağaza"
   },
   {
     "id": "market",
@@ -34345,7 +34720,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "piață",
     "lt": "turgus",
     "uk": "ринок",
-    "cs": "trh"
+    "cs": "trh",
+    "tr": "pazar"
   },
   {
     "id": "receipt",
@@ -34365,7 +34741,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "bon",
     "lt": "kvitas",
     "uk": "чек",
-    "cs": "účtenka"
+    "cs": "účtenka",
+    "tr": "fiş"
   },
   {
     "id": "ballsports",
@@ -34385,7 +34762,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "minge",
     "lt": "kamuolys",
     "uk": "м'яч",
-    "cs": "míč"
+    "cs": "míč",
+    "tr": "top"
   },
   {
     "id": "drum",
@@ -34405,7 +34783,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "tobă",
     "lt": "būgnas",
     "uk": "барабан",
-    "cs": "buben"
+    "cs": "buben",
+    "tr": "davul"
   },
   {
     "id": "toy",
@@ -34425,7 +34804,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "jucărie",
     "lt": "žaislas",
     "uk": "іграшка",
-    "cs": "hračka"
+    "cs": "hračka",
+    "tr": "oyuncak"
   },
   {
     "id": "doll",
@@ -34442,7 +34822,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "păpușă",
     "lt": "lėlė",
     "uk": "лялька",
-    "cs": "panenka"
+    "cs": "panenka",
+    "tr": "oyuncak bebek"
   },
   {
     "id": "kite",
@@ -34462,7 +34843,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "zmeu",
     "lt": "aitvaras",
     "uk": "повітряний змій",
-    "cs": "drak"
+    "cs": "drak",
+    "tr": "uçurtma"
   },
   {
     "id": "balloon",
@@ -34482,7 +34864,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "balon",
     "lt": "balionas",
     "uk": "повітряна куля",
-    "cs": "balón"
+    "cs": "balón",
+    "tr": "balon"
   },
   {
     "id": "puzzle",
@@ -34502,7 +34885,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "puzzle",
     "lt": "dėlionė",
     "uk": "пазл",
-    "cs": "puzzle"
+    "cs": "puzzle",
+    "tr": "yapboz"
   },
   {
     "id": "skateboard",
@@ -34522,7 +34906,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "skateboard",
     "lt": "riedlentė",
     "uk": "скейтборд",
-    "cs": "skateboard"
+    "cs": "skateboard",
+    "tr": "kaykay"
   },
   {
     "id": "swing",
@@ -34542,7 +34927,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "leagăn",
     "lt": "sūpynės",
     "uk": "гойдалка",
-    "cs": "houpačka"
+    "cs": "houpačka",
+    "tr": "salıncak"
   },
   {
     "id": "box",
@@ -34562,7 +34948,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cutie",
     "lt": "dėžė",
     "uk": "коробка",
-    "cs": "krabice"
+    "cs": "krabice",
+    "tr": "kutu"
   },
   {
     "id": "basket",
@@ -34582,7 +34969,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "coș",
     "lt": "krepšys",
     "uk": "кошик",
-    "cs": "košík"
+    "cs": "košík",
+    "tr": "sepet"
   },
   {
     "id": "jar",
@@ -34602,7 +34990,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "borcan",
     "lt": "stiklainis",
     "uk": "банка",
-    "cs": "sklenice"
+    "cs": "sklenice",
+    "tr": "kavanoz"
   },
   {
     "id": "bottle",
@@ -34619,7 +35008,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "sticlă",
     "lt": "butelis",
     "uk": "пляшка",
-    "cs": "láhev"
+    "cs": "láhev",
+    "tr": "şişe"
   },
   {
     "id": "bell",
@@ -34639,7 +35029,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "clopot",
     "lt": "varpas",
     "uk": "дзвін",
-    "cs": "zvon"
+    "cs": "zvon",
+    "tr": "zil"
   },
   {
     "id": "flag",
@@ -34659,7 +35050,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "steag",
     "lt": "vėliava",
     "uk": "прапор",
-    "cs": "vlajka"
+    "cs": "vlajka",
+    "tr": "bayrak"
   },
   {
     "id": "compass",
@@ -34679,7 +35071,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "busolă",
     "lt": "kompasas",
     "uk": "компас",
-    "cs": "kompas"
+    "cs": "kompas",
+    "tr": "pusula"
   },
   {
     "id": "magnet",
@@ -34696,7 +35089,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "magnet",
     "lt": "magnetas",
     "uk": "магніт",
-    "cs": "magnet"
+    "cs": "magnet",
+    "tr": "mıknatıs"
   },
   {
     "id": "lock",
@@ -34716,7 +35110,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "lacăt",
     "lt": "spyna",
     "uk": "замок",
-    "cs": "zámek"
+    "cs": "zámek",
+    "tr": "kilit"
   },
   {
     "id": "chain",
@@ -34736,7 +35131,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "lanț",
     "lt": "grandinė",
     "uk": "ланцюг",
-    "cs": "řetěz"
+    "cs": "řetěz",
+    "tr": "zincir"
   },
   {
     "id": "needle",
@@ -34756,7 +35152,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "ac",
     "lt": "adata",
     "uk": "голка",
-    "cs": "jehla"
+    "cs": "jehla",
+    "tr": "iğne"
   },
   {
     "id": "thread",
@@ -34776,7 +35173,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "ață",
     "lt": "siūlas",
     "uk": "нитка",
-    "cs": "nit"
+    "cs": "nit",
+    "tr": "iplik"
   },
   {
     "id": "vacuumcleaner",
@@ -34796,7 +35194,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "aspirator",
     "lt": "dulkių siurblys",
     "uk": "пилосос",
-    "cs": "vysavač"
+    "cs": "vysavač",
+    "tr": "elektrikli süpürge"
   },
   {
     "id": "washingmachine",
@@ -34816,7 +35215,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "mașină de spălat",
     "lt": "skalbimo mašina",
     "uk": "пральна машина",
-    "cs": "pračka"
+    "cs": "pračka",
+    "tr": "çamaşır makinesi"
   },
   {
     "id": "microwave",
@@ -34836,7 +35236,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cuptor cu microunde",
     "lt": "mikrobangų krosnelė",
     "uk": "мікрохвиля",
-    "cs": "mikrovlna"
+    "cs": "mikrovlna",
+    "tr": "mikrodalga fırın"
   },
   {
     "id": "toaster",
@@ -34856,7 +35257,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "prăjitor de pâine",
     "lt": "skrudintuvas",
     "uk": "тостер",
-    "cs": "toustovač"
+    "cs": "toustovač",
+    "tr": "ekmek kızartma makinesi"
   },
   {
     "id": "blender",
@@ -34876,7 +35278,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "blender",
     "lt": "maišytuvas",
     "uk": "міксер",
-    "cs": "mixér"
+    "cs": "mixér",
+    "tr": "blender"
   },
   {
     "id": "iron",
@@ -34896,7 +35299,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "fier de călcat",
     "lt": "lygintuvas",
     "uk": "праска",
-    "cs": "žehlička"
+    "cs": "žehlička",
+    "tr": "ütü"
   },
   {
     "id": "alarmclock",
@@ -34916,7 +35320,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "ceas deșteptător",
     "lt": "žadintuvas",
     "uk": "будильник",
-    "cs": "budík"
+    "cs": "budík",
+    "tr": "çalar saat"
   },
   {
     "id": "sunglasses",
@@ -34936,7 +35341,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "ochelari de soare",
     "lt": "akiniai nuo saulės",
     "uk": "сонячний",
-    "cs": "sluneční brýle"
+    "cs": "sluneční brýle",
+    "tr": "güneş gözlüğü"
   },
   {
     "id": "trashcan",
@@ -34956,7 +35362,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "coș de gunoi",
     "lt": "šiukšliadėžė",
     "uk": "смітник",
-    "cs": "koš na odpadky"
+    "cs": "koš na odpadky",
+    "tr": "çöp kutusu"
   },
   {
     "id": "wheelbarrow",
@@ -34976,7 +35383,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "roabă",
     "lt": "karutis",
     "uk": "тачка",
-    "cs": "kolečko"
+    "cs": "kolečko",
+    "tr": "el arabası"
   },
   {
     "id": "crane",
@@ -34996,7 +35404,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "macara",
     "lt": "kranas",
     "uk": "підйомний кран",
-    "cs": "jeřáb"
+    "cs": "jeřáb",
+    "tr": "vinç"
   },
   {
     "id": "lighthouse",
@@ -35016,7 +35425,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "far",
     "lt": "švyturys",
     "uk": "маяк",
-    "cs": "maják"
+    "cs": "maják",
+    "tr": "deniz feneri"
   },
   {
     "id": "streetlamp",
@@ -35036,7 +35446,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "felinar stradal",
     "lt": "gatvės žibintas",
     "uk": "вуличний ліхтар",
-    "cs": "pouliční lampa"
+    "cs": "pouliční lampa",
+    "tr": "sokak lambası"
   },
   {
     "id": "mailbox",
@@ -35056,7 +35467,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cutie poștală",
     "lt": "pašto dėžutė",
     "uk": "поштова скринька",
-    "cs": "poštovní schránka"
+    "cs": "poštovní schránka",
+    "tr": "posta kutusu"
   },
   {
     "id": "doormat",
@@ -35076,7 +35488,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "preș",
     "lt": "kilimėlis",
     "cs": "rohožka",
-    "uk": "килимок біля дверей"
+    "uk": "килимок біля дверей",
+    "tr": "paspas"
   },
   {
     "id": "kitchen",
@@ -35096,7 +35509,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "bucătărie",
     "lt": "virtuvė",
     "uk": "кухня",
-    "cs": "kuchyně"
+    "cs": "kuchyně",
+    "tr": "mutfak"
   },
   {
     "id": "bathroom",
@@ -35116,7 +35530,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "baie",
     "lt": "vonios kambarys",
     "uk": "ванна кімната",
-    "cs": "koupelna"
+    "cs": "koupelna",
+    "tr": "banyo"
   },
   {
     "id": "bedroom",
@@ -35136,7 +35551,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "dormitor",
     "lt": "miegamasis",
     "uk": "спальня",
-    "cs": "ložnice"
+    "cs": "ložnice",
+    "tr": "yatak odası"
   },
   {
     "id": "livingroom",
@@ -35156,7 +35572,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "camera de zi",
     "lt": "svetainė",
     "uk": "вітальня",
-    "cs": "obývací pokoj"
+    "cs": "obývací pokoj",
+    "tr": "oturma odası"
   },
   {
     "id": "garage",
@@ -35176,7 +35593,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "garaj",
     "lt": "garažas",
     "uk": "гараж",
-    "cs": "garáž"
+    "cs": "garáž",
+    "tr": "garaj"
   },
   {
     "id": "attic",
@@ -35196,7 +35614,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "pod",
     "lt": "palėpė",
     "uk": "горище",
-    "cs": "půda"
+    "cs": "půda",
+    "tr": "çatı katı"
   },
   {
     "id": "basement",
@@ -35216,7 +35635,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "subsol",
     "lt": "rūsys",
     "uk": "підвал",
-    "cs": "sklep"
+    "cs": "sklep",
+    "tr": "bodrum"
   },
   {
     "id": "hallway",
@@ -35236,7 +35656,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "hol",
     "lt": "koridorius",
     "uk": "коридор",
-    "cs": "chodba"
+    "cs": "chodba",
+    "tr": "koridor"
   },
   {
     "id": "diningroom",
@@ -35256,7 +35677,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "sufragerie",
     "lt": "valgomasis",
     "uk": "їдальня",
-    "cs": "jídelna"
+    "cs": "jídelna",
+    "tr": "yemek odası"
   },
   {
     "id": "patio",
@@ -35276,7 +35698,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "terasă",
     "lt": "terasa",
     "cs": "terasa",
-    "uk": "тераса"
+    "uk": "тераса",
+    "tr": "veranda"
   },
   {
     "id": "homeoffice",
@@ -35296,7 +35719,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "birou de acasă",
     "lt": "namų biuras",
     "uk": "домашній кабінет",
-    "cs": "domácí kancelář"
+    "cs": "domácí kancelář",
+    "tr": "ev ofisi"
   },
   {
     "id": "pantry",
@@ -35316,7 +35740,8 @@ window.QM_VOCAB_NOUNS_DATA = [
     "ro": "cămară",
     "lt": "sandėliukas",
     "uk": "комора",
-    "cs": "spíž"
+    "cs": "spíž",
+    "tr": "kiler"
   }
 ];
 window.QM_VOCAB_VERBS_DATA = [
@@ -35338,7 +35763,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a sufla în lumânări",
     "lt": "pūsti žvakes",
     "uk": "задувати свічки",
-    "cs": "sfouknout svíčky"
+    "cs": "sfouknout svíčky",
+    "tr": "mumları üflemek"
   },
   {
     "id": "board_plane",
@@ -35358,7 +35784,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se îmbarca în avion",
     "lt": "lipti į lėktuvą",
     "uk": "сідати в літак",
-    "cs": "nastupovat do letadla"
+    "cs": "nastupovat do letadla",
+    "tr": "uçağa binmek"
   },
   {
     "id": "bounce",
@@ -35378,7 +35805,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a sălta",
     "lt": "atšokti",
     "uk": "відскакувати",
-    "cs": "odrážet se"
+    "cs": "odrážet se",
+    "tr": "sekmek"
   },
   {
     "id": "brushteeth",
@@ -35398,7 +35826,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se spăla pe dinți",
     "lt": "valyti dantis",
     "uk": "чистити зуби",
-    "cs": "čistit si zuby"
+    "cs": "čistit si zuby",
+    "tr": "diş fırçalamak"
   },
   {
     "id": "burn",
@@ -35418,7 +35847,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a arde",
     "lt": "degti",
     "uk": "горіти",
-    "cs": "hořet"
+    "cs": "hořet",
+    "tr": "yanmak"
   },
   {
     "id": "call",
@@ -35438,7 +35868,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a suna",
     "lt": "skambinti",
     "uk": "телефонувати",
-    "cs": "telefonovat"
+    "cs": "telefonovat",
+    "tr": "telefon etmek"
   },
   {
     "id": "catch",
@@ -35458,7 +35889,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a prinde",
     "lt": "gaudyti",
     "uk": "ловити",
-    "cs": "chytat"
+    "cs": "chytat",
+    "tr": "yakalamak"
   },
   {
     "id": "charge_phone",
@@ -35478,7 +35910,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a încărca telefonul",
     "lt": "krauti telefoną",
     "uk": "заряджати телефон",
-    "cs": "nabíjet telefon"
+    "cs": "nabíjet telefon",
+    "tr": "telefon şarj etmek"
   },
   {
     "id": "clean_window",
@@ -35498,7 +35931,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a spăla geamul",
     "lt": "plauti langą",
     "uk": "мити вікно",
-    "cs": "mýt okno"
+    "cs": "mýt okno",
+    "tr": "cam silmek"
   },
   {
     "id": "climb",
@@ -35518,7 +35952,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se cățăra",
     "lt": "lipti",
     "uk": "підійматися",
-    "cs": "šplhat"
+    "cs": "šplhat",
+    "tr": "tırmanmak"
   },
   {
     "id": "climb_ladder",
@@ -35538,7 +35973,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a urca pe scară",
     "lt": "lipti kopėčiomis",
     "uk": "підійматися драбиною",
-    "cs": "lézt po žebříku"
+    "cs": "lézt po žebříku",
+    "tr": "merdivene tırmanmak"
   },
   {
     "id": "climb_stairs",
@@ -35558,7 +35994,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a urca scările",
     "lt": "lipti laiptais",
     "uk": "підійматися сходами",
-    "cs": "stoupat po schodech"
+    "cs": "stoupat po schodech",
+    "tr": "merdiven çıkmak"
   },
   {
     "id": "cook",
@@ -35578,7 +36015,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a găti",
     "lt": "gaminti",
     "cs": "vařit",
-    "uk": "готувати"
+    "uk": "готувати",
+    "tr": "yemek pişirmek"
   },
   {
     "id": "cough",
@@ -35598,7 +36036,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a tuși",
     "lt": "kosėti",
     "uk": "кашляти",
-    "cs": "kašlat"
+    "cs": "kašlat",
+    "tr": "öksürmek"
   },
   {
     "id": "crawl",
@@ -35618,7 +36057,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se târî",
     "lt": "šliaužti",
     "uk": "повзати",
-    "cs": "plazit se"
+    "cs": "plazit se",
+    "tr": "emeklemek"
   },
   {
     "id": "cross_street",
@@ -35638,7 +36078,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a traversa strada",
     "lt": "pereiti gatvę",
     "uk": "переходити вулицю",
-    "cs": "přecházet ulici"
+    "cs": "přecházet ulici",
+    "tr": "caddeyi geçmek"
   },
   {
     "id": "cry",
@@ -35658,7 +36099,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a plânge",
     "lt": "verkti",
     "uk": "плакати",
-    "cs": "plakat"
+    "cs": "plakat",
+    "tr": "ağlamak"
   },
   {
     "id": "cut_bread",
@@ -35678,7 +36120,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a tăia pâine",
     "lt": "pjaustyti duoną",
     "uk": "різати хліб",
-    "cs": "krájet chléb"
+    "cs": "krájet chléb",
+    "tr": "ekmek kesmek"
   },
   {
     "id": "cut_hair",
@@ -35698,7 +36141,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a tunde părul",
     "lt": "kirpti plaukus",
     "uk": "стригти волосся",
-    "cs": "stříhat vlasy"
+    "cs": "stříhat vlasy",
+    "tr": "saç kesmek"
   },
   {
     "id": "die",
@@ -35718,7 +36162,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a muri",
     "lt": "mirti",
     "uk": "помирати",
-    "cs": "umírat"
+    "cs": "umírat",
+    "tr": "ölmek"
   },
   {
     "id": "dive",
@@ -35738,7 +36183,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se scufunda",
     "lt": "nerti",
     "uk": "пірнати",
-    "cs": "potápět se"
+    "cs": "potápět se",
+    "tr": "dalmak"
   },
   {
     "id": "draw_picture",
@@ -35758,7 +36204,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a desena",
     "lt": "piešti",
     "uk": "малювати малюнок",
-    "cs": "kreslit obrázek"
+    "cs": "kreslit obrázek",
+    "tr": "resim çizmek"
   },
   {
     "id": "drill_hole",
@@ -35778,7 +36225,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a găuri",
     "lt": "gręžti skylę",
     "uk": "свердлити отвір",
-    "cs": "vrtat díru"
+    "cs": "vrtat díru",
+    "tr": "delik delmek"
   },
   {
     "id": "drink",
@@ -35798,7 +36246,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a bea",
     "lt": "gerti",
     "uk": "пити",
-    "cs": "pít"
+    "cs": "pít",
+    "tr": "içmek"
   },
   {
     "id": "eat",
@@ -35818,7 +36267,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a mânca",
     "lt": "valgyti",
     "uk": "їсти",
-    "cs": "jíst"
+    "cs": "jíst",
+    "tr": "yemek"
   },
   {
     "id": "enter",
@@ -35838,7 +36288,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a intra",
     "lt": "įeiti",
     "uk": "входити",
-    "cs": "vstupovat"
+    "cs": "vstupovat",
+    "tr": "girmek"
   },
   {
     "id": "escape",
@@ -35858,7 +36309,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a evada",
     "lt": "pabėgti",
     "uk": "тікати",
-    "cs": "utíkat"
+    "cs": "utíkat",
+    "tr": "kaçmak"
   },
   {
     "id": "faint",
@@ -35878,7 +36330,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a leșina",
     "lt": "alpti",
     "uk": "непритомніти",
-    "cs": "omdlévat"
+    "cs": "omdlévat",
+    "tr": "bayılmak"
   },
   {
     "id": "feed",
@@ -35898,7 +36351,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a hrăni",
     "lt": "maitinti",
     "uk": "годувати",
-    "cs": "krmit"
+    "cs": "krmit",
+    "tr": "beslemek"
   },
   {
     "id": "fight",
@@ -35918,7 +36372,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se lupta",
     "lt": "kovoti",
     "uk": "битися",
-    "cs": "bojovat"
+    "cs": "bojovat",
+    "tr": "kavga etmek"
   },
   {
     "id": "find",
@@ -35938,7 +36393,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a găsi",
     "lt": "rasti",
     "uk": "знаходити",
-    "cs": "nacházet"
+    "cs": "nacházet",
+    "tr": "bulmak"
   },
   {
     "id": "finish",
@@ -35955,7 +36411,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a termina",
     "lt": "baigti",
     "uk": "закінчувати",
-    "cs": "dokončovat"
+    "cs": "dokončovat",
+    "tr": "bitirmek"
   },
   {
     "id": "fish",
@@ -35975,7 +36432,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a pescui",
     "lt": "žvejoti",
     "uk": "ловити рибу",
-    "cs": "rybařit"
+    "cs": "rybařit",
+    "tr": "balık tutmak"
   },
   {
     "id": "fly_bird",
@@ -35995,7 +36453,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a zbura",
     "lt": "skristi",
     "uk": "літати",
-    "cs": "létat"
+    "cs": "létat",
+    "tr": "uçmak"
   },
   {
     "id": "fly_plane",
@@ -36015,7 +36474,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a pilota un avion",
     "lt": "pilotuoti lėktuvą",
     "uk": "пілотувати літак",
-    "cs": "pilotovat letadlo"
+    "cs": "pilotovat letadlo",
+    "tr": "uçak uçurmak"
   },
   {
     "id": "fold",
@@ -36035,7 +36495,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a împături",
     "lt": "lankstyti",
     "uk": "складати",
-    "cs": "skládat"
+    "cs": "skládat",
+    "tr": "katlamak"
   },
   {
     "id": "follow",
@@ -36055,7 +36516,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a urma",
     "lt": "sekti",
     "uk": "слідувати",
-    "cs": "následovat"
+    "cs": "následovat",
+    "tr": "takip etmek"
   },
   {
     "id": "fry",
@@ -36075,7 +36537,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a prăji",
     "lt": "kepti",
     "uk": "смажити",
-    "cs": "smažit"
+    "cs": "smažit",
+    "tr": "kızartmak"
   },
   {
     "id": "givegift",
@@ -36095,7 +36558,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a da",
     "lt": "duoti",
     "uk": "давати",
-    "cs": "dávat"
+    "cs": "dávat",
+    "tr": "vermek"
   },
   {
     "id": "graduate",
@@ -36115,7 +36579,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a absolvi",
     "lt": "baigti mokslus",
     "cs": "absolvovat školu",
-    "uk": "закінчувати навчання"
+    "uk": "закінчувати навчання",
+    "tr": "mezun olmak"
   },
   {
     "id": "grate_food",
@@ -36135,7 +36600,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a rade",
     "lt": "tarkuoti",
     "uk": "натирати на тертці",
-    "cs": "strouhat"
+    "cs": "strouhat",
+    "tr": "rendelemek"
   },
   {
     "id": "heal",
@@ -36155,7 +36621,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a vindeca",
     "lt": "gydyti",
     "uk": "лікувати",
-    "cs": "léčit"
+    "cs": "léčit",
+    "tr": "iyileşmek"
   },
   {
     "id": "hear",
@@ -36175,7 +36642,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a auzi",
     "lt": "girdėti",
     "uk": "чути",
-    "cs": "slyšet"
+    "cs": "slyšet",
+    "tr": "duymak"
   },
   {
     "id": "help",
@@ -36195,7 +36663,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a ajuta",
     "lt": "padėti",
     "uk": "допомагати",
-    "cs": "pomáhat"
+    "cs": "pomáhat",
+    "tr": "yardım etmek"
   },
   {
     "id": "hug",
@@ -36215,7 +36684,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a îmbrățișa",
     "lt": "apkabinti",
     "uk": "обіймати",
-    "cs": "objímat"
+    "cs": "objímat",
+    "tr": "sarılmak"
   },
   {
     "id": "jump",
@@ -36235,7 +36705,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a sări",
     "lt": "šokti",
     "uk": "стрибати",
-    "cs": "skákat"
+    "cs": "skákat",
+    "tr": "zıplamak"
   },
   {
     "id": "jump_rope",
@@ -36255,7 +36726,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a sări coarda",
     "lt": "šokti per šokdynę",
     "uk": "стрибати через скакалку",
-    "cs": "skákat přes švihadlo"
+    "cs": "skákat přes švihadlo",
+    "tr": "ip atlamak"
   },
   {
     "id": "kneel",
@@ -36275,7 +36747,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a îngenunchea",
     "lt": "klūpėti",
     "uk": "клякати",
-    "cs": "kleknout"
+    "cs": "kleknout",
+    "tr": "diz çökmek"
   },
   {
     "id": "knit",
@@ -36295,7 +36768,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a tricota",
     "lt": "megzti",
     "uk": "в'язати",
-    "cs": "plést"
+    "cs": "plést",
+    "tr": "örgü örmek"
   },
   {
     "id": "knock",
@@ -36315,7 +36789,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a bate la ușă",
     "lt": "belsti",
     "uk": "стукати",
-    "cs": "klepat"
+    "cs": "klepat",
+    "tr": "kapıyı çalmak"
   },
   {
     "id": "leave",
@@ -36335,7 +36810,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a pleca",
     "lt": "išeiti",
     "uk": "йти геть",
-    "cs": "odcházet"
+    "cs": "odcházet",
+    "tr": "ayrılmak"
   },
   {
     "id": "listen",
@@ -36355,7 +36831,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a asculta",
     "lt": "klausytis",
     "uk": "слухати",
-    "cs": "poslouchat"
+    "cs": "poslouchat",
+    "tr": "dinlemek"
   },
   {
     "id": "mail_letter",
@@ -36375,7 +36852,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a expedia o scrisoare",
     "lt": "išsiųsti laišką",
     "uk": "відправляти лист",
-    "cs": "posílat dopis"
+    "cs": "posílat dopis",
+    "tr": "mektup göndermek"
   },
   {
     "id": "marry",
@@ -36395,7 +36873,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se căsători",
     "lt": "tuoktis",
     "uk": "одружуватися",
-    "cs": "brát se"
+    "cs": "brát se",
+    "tr": "evlenmek"
   },
   {
     "id": "massage",
@@ -36415,7 +36894,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a masa",
     "lt": "masažuoti",
     "uk": "масажувати",
-    "cs": "masírovat"
+    "cs": "masírovat",
+    "tr": "masaj yapmak"
   },
   {
     "id": "melt",
@@ -36435,7 +36915,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a topi",
     "lt": "tirpti",
     "uk": "танути",
-    "cs": "tát"
+    "cs": "tát",
+    "tr": "erimek"
   },
   {
     "id": "meow",
@@ -36455,7 +36936,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a mieuna",
     "lt": "miauksėti",
     "uk": "няв",
-    "cs": "mňoukat"
+    "cs": "mňoukat",
+    "tr": "miyavlamak"
   },
   {
     "id": "nail_hammer",
@@ -36475,7 +36957,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a bate un cui",
     "lt": "kalti vinį",
     "uk": "забивати цвях",
-    "cs": "zatloukat hřebík"
+    "cs": "zatloukat hřebík",
+    "tr": "çivi çakmak"
   },
   {
     "id": "open_umbrella",
@@ -36495,7 +36978,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a deschide umbrela",
     "lt": "atidaryti skėtį",
     "uk": "розкривати парасолю",
-    "cs": "otevírat deštník"
+    "cs": "otevírat deštník",
+    "tr": "şemsiye açmak"
   },
   {
     "id": "pack",
@@ -36515,7 +36999,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a împacheta",
     "lt": "pakuoti",
     "uk": "пакувати",
-    "cs": "balit"
+    "cs": "balit",
+    "tr": "bavul hazırlamak"
   },
   {
     "id": "paint_wall",
@@ -36535,7 +37020,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a vopsi un perete",
     "lt": "dažyti sieną",
     "uk": "фарбувати стіну",
-    "cs": "malovat zeď"
+    "cs": "malovat zeď",
+    "tr": "duvar boyamak"
   },
   {
     "id": "pay",
@@ -36555,7 +37041,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a plăti",
     "lt": "mokėti",
     "uk": "платити",
-    "cs": "platit"
+    "cs": "platit",
+    "tr": "ödemek"
   },
   {
     "id": "pet_animal",
@@ -36575,7 +37062,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a mângâia un animal",
     "lt": "glostyti gyvūną",
     "uk": "гладити тварину",
-    "cs": "hladit zvíře"
+    "cs": "hladit zvíře",
+    "tr": "hayvan sevmek"
   },
   {
     "id": "play",
@@ -36595,7 +37083,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se juca",
     "lt": "žaisti",
     "uk": "грати",
-    "cs": "hrát si"
+    "cs": "hrát si",
+    "tr": "oynamak"
   },
   {
     "id": "pour",
@@ -36615,7 +37104,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a turna",
     "lt": "pilti",
     "uk": "лити",
-    "cs": "lít"
+    "cs": "lít",
+    "tr": "dökmek"
   },
   {
     "id": "pray",
@@ -36635,7 +37125,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se ruga",
     "lt": "melstis",
     "uk": "молитися",
-    "cs": "modlit se"
+    "cs": "modlit se",
+    "tr": "dua etmek"
   },
   {
     "id": "push_ups",
@@ -36655,7 +37146,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a face flotări",
     "lt": "atsispaudinėti",
     "uk": "віджиматися",
-    "cs": "dělat kliky"
+    "cs": "dělat kliky",
+    "tr": "şınav çekmek"
   },
   {
     "id": "read",
@@ -36675,7 +37167,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a citi",
     "lt": "skaityti",
     "uk": "читати",
-    "cs": "číst"
+    "cs": "číst",
+    "tr": "okumak"
   },
   {
     "id": "repair",
@@ -36695,7 +37188,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a repara",
     "lt": "taisyti",
     "uk": "ремонтувати",
-    "cs": "opravovat"
+    "cs": "opravovat",
+    "tr": "tamir etmek"
   },
   {
     "id": "ring_bell",
@@ -36715,7 +37209,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a suna clopoțelul",
     "lt": "skambinti varpeliu",
     "uk": "дзвонити у дзвінок",
-    "cs": "zvonit"
+    "cs": "zvonit",
+    "tr": "zili çalmak"
   },
   {
     "id": "ride_bus",
@@ -36735,7 +37230,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a merge cu autobuzul",
     "lt": "važiuoti autobusu",
     "uk": "їхати автобусом",
-    "cs": "jet autobusem"
+    "cs": "jet autobusem",
+    "tr": "otobüse binmek"
   },
   {
     "id": "ride_horse",
@@ -36755,7 +37251,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a călări",
     "lt": "joti",
     "uk": "їздити верхи",
-    "cs": "jezdit na koni"
+    "cs": "jezdit na koni",
+    "tr": "ata binmek"
   },
   {
     "id": "ride_skateboard",
@@ -36775,7 +37272,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a merge cu skateboardul",
     "lt": "riedlente važinėti",
     "uk": "скейтборд",
-    "cs": "skateboard"
+    "cs": "skateboard",
+    "tr": "kaykay yapmak"
   },
   {
     "id": "row",
@@ -36795,7 +37293,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a vâsli",
     "lt": "irkluoti",
     "uk": "веслувати",
-    "cs": "veslovat"
+    "cs": "veslovat",
+    "tr": "kürek çekmek"
   },
   {
     "id": "sell",
@@ -36815,7 +37314,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a vinde",
     "lt": "parduoti",
     "uk": "продавати",
-    "cs": "prodávat"
+    "cs": "prodávat",
+    "tr": "satmak"
   },
   {
     "id": "serve_food",
@@ -36835,7 +37335,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a servi mâncare",
     "lt": "patiekti maistą",
     "uk": "подавати їжу",
-    "cs": "servírovat jídlo"
+    "cs": "servírovat jídlo",
+    "tr": "yemek servis etmek"
   },
   {
     "id": "set_table",
@@ -36855,7 +37356,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a pune masa",
     "lt": "dengti stalą",
     "uk": "накривати на стіл",
-    "cs": "prostírat stůl"
+    "cs": "prostírat stůl",
+    "tr": "sofra kurmak"
   },
   {
     "id": "sew",
@@ -36875,7 +37377,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a coase",
     "lt": "siūti",
     "uk": "шити",
-    "cs": "šít"
+    "cs": "šít",
+    "tr": "dikiş dikmek"
   },
   {
     "id": "shake",
@@ -36895,7 +37398,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a scutura",
     "lt": "purtyti",
     "uk": "трясти",
-    "cs": "třást"
+    "cs": "třást",
+    "tr": "sallamak"
   },
   {
     "id": "shiver",
@@ -36915,7 +37419,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a tremura",
     "lt": "drebėti",
     "uk": "тремтіти",
-    "cs": "třást se zimou"
+    "cs": "třást se zimou",
+    "tr": "titremek"
   },
   {
     "id": "skate",
@@ -36935,7 +37440,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a patina",
     "lt": "čiuožti",
     "cs": "bruslit",
-    "uk": "кататися на ковзанах"
+    "uk": "кататися на ковзанах",
+    "tr": "paten kaymak"
   },
   {
     "id": "ski",
@@ -36955,7 +37461,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a schia",
     "lt": "slidinėti",
     "uk": "кататися на лижах",
-    "cs": "lyžovat"
+    "cs": "lyžovat",
+    "tr": "kayak yapmak"
   },
   {
     "id": "sleep",
@@ -36975,7 +37482,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a dormi",
     "lt": "miegoti",
     "uk": "спати",
-    "cs": "spát"
+    "cs": "spát",
+    "tr": "uyumak"
   },
   {
     "id": "smile",
@@ -36995,7 +37503,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a zâmbi",
     "lt": "šypsotis",
     "uk": "усміхатися",
-    "cs": "usmívat"
+    "cs": "usmívat",
+    "tr": "gülümsemek"
   },
   {
     "id": "sneeze",
@@ -37015,7 +37524,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a strănuta",
     "lt": "čiaudėti",
     "uk": "чхати",
-    "cs": "kýchat"
+    "cs": "kýchat",
+    "tr": "hapşırmak"
   },
   {
     "id": "snow_verb",
@@ -37035,7 +37545,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a ninge",
     "lt": "snigti",
     "uk": "іти (про сніг)",
-    "cs": "sněžit"
+    "cs": "sněžit",
+    "tr": "kar yağmak"
   },
   {
     "id": "splash",
@@ -37055,7 +37566,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a stropi",
     "lt": "taškytis",
     "uk": "хлюпати",
-    "cs": "cákat"
+    "cs": "cákat",
+    "tr": "su sıçratmak"
   },
   {
     "id": "squeeze",
@@ -37075,7 +37587,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a stoarce",
     "lt": "spausti",
     "uk": "стискати",
-    "cs": "mačkat"
+    "cs": "mačkat",
+    "tr": "sıkmak"
   },
   {
     "id": "stir",
@@ -37095,7 +37608,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a amesteca",
     "lt": "maišyti",
     "uk": "помішувати",
-    "cs": "míchat"
+    "cs": "míchat",
+    "tr": "karıştırmak"
   },
   {
     "id": "stop",
@@ -37115,7 +37629,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a opri",
     "lt": "sustoti",
     "uk": "зупинятися",
-    "cs": "zastavovat se"
+    "cs": "zastavovat se",
+    "tr": "durmak"
   },
   {
     "id": "stretch",
@@ -37135,7 +37650,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se întinde",
     "lt": "temptis",
     "uk": "потягуватися",
-    "cs": "protahovat se"
+    "cs": "protahovat se",
+    "tr": "esnemek"
   },
   {
     "id": "surf",
@@ -37155,7 +37671,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a face surf",
     "lt": "banglente plaukti",
     "uk": "серфити",
-    "cs": "surfovat"
+    "cs": "surfovat",
+    "tr": "sörf yapmak"
   },
   {
     "id": "swim",
@@ -37175,7 +37692,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a înota",
     "lt": "plaukti",
     "uk": "плавати",
-    "cs": "plavat"
+    "cs": "plavat",
+    "tr": "yüzmek"
   },
   {
     "id": "swim_fish",
@@ -37195,7 +37713,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a înota",
     "lt": "plaukti",
     "uk": "плавати (риба)",
-    "cs": "plavat (ryba)"
+    "cs": "plavat (ryba)",
+    "tr": "balık yüzmek"
   },
   {
     "id": "take_bath",
@@ -37215,7 +37734,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a face baie",
     "lt": "maudytis",
     "uk": "приймати ванну",
-    "cs": "koupat se"
+    "cs": "koupat se",
+    "tr": "banyo yapmak"
   },
   {
     "id": "takephoto",
@@ -37235,7 +37755,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a face o poză",
     "lt": "fotografuoti",
     "uk": "фотографувати",
-    "cs": "fotografovat"
+    "cs": "fotografovat",
+    "tr": "fotoğraf çekmek"
   },
   {
     "id": "talk",
@@ -37255,7 +37776,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a vorbi",
     "lt": "kalbėti",
     "uk": "розмовляти",
-    "cs": "mluvit"
+    "cs": "mluvit",
+    "tr": "konuşmak"
   },
   {
     "id": "text",
@@ -37275,7 +37797,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a trimite un mesaj",
     "lt": "siųsti žinutę",
     "uk": "надсилати повідомлення",
-    "cs": "posílat zprávu"
+    "cs": "posílat zprávu",
+    "tr": "mesaj atmak"
   },
   {
     "id": "throw",
@@ -37295,7 +37818,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a arunca",
     "lt": "mesti",
     "uk": "кидати",
-    "cs": "házet"
+    "cs": "házet",
+    "tr": "atmak"
   },
   {
     "id": "touch",
@@ -37315,7 +37839,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a atinge",
     "lt": "liesti",
     "uk": "торкатися",
-    "cs": "dotýkat se"
+    "cs": "dotýkat se",
+    "tr": "dokunmak"
   },
   {
     "id": "turn_off",
@@ -37335,7 +37860,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a stinge",
     "lt": "išjungti",
     "uk": "вимикати",
-    "cs": "vypínat"
+    "cs": "vypínat",
+    "tr": "kapatmak"
   },
   {
     "id": "type",
@@ -37355,7 +37881,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a tasta",
     "lt": "spausdinti",
     "uk": "друкувати на клавіатурі",
-    "cs": "psát na klávesnici"
+    "cs": "psát na klávesnici",
+    "tr": "klavyede yazmak"
   },
   {
     "id": "vacuum",
@@ -37375,7 +37902,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a aspira",
     "lt": "siurbti dulkes",
     "uk": "пилососити",
-    "cs": "vysávat"
+    "cs": "vysávat",
+    "tr": "süpürmek"
   },
   {
     "id": "vomit",
@@ -37395,7 +37923,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a vomita",
     "lt": "vemti",
     "uk": "блювати",
-    "cs": "zvracet"
+    "cs": "zvracet",
+    "tr": "kusmak"
   },
   {
     "id": "walk",
@@ -37415,7 +37944,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a merge pe jos",
     "lt": "vaikščioti",
     "uk": "ходити",
-    "cs": "chodit"
+    "cs": "chodit",
+    "tr": "yürümek"
   },
   {
     "id": "wash",
@@ -37435,7 +37965,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a spăla",
     "lt": "plauti",
     "uk": "мити",
-    "cs": "mýt"
+    "cs": "mýt",
+    "tr": "yıkamak"
   },
   {
     "id": "whisk",
@@ -37455,7 +37986,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a bate cu telul",
     "lt": "plakti",
     "uk": "збивати",
-    "cs": "šlehat"
+    "cs": "šlehat",
+    "tr": "çırpmak"
   },
   {
     "id": "win",
@@ -37475,7 +38007,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a câștiga",
     "lt": "laimėti",
     "uk": "вигравати",
-    "cs": "vyhrávat"
+    "cs": "vyhrávat",
+    "tr": "kazanmak"
   },
   {
     "id": "wrap",
@@ -37495,7 +38028,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a împacheta",
     "lt": "vynioti",
     "uk": "загортати",
-    "cs": "zabalit"
+    "cs": "zabalit",
+    "tr": "paketlemek"
   },
   {
     "id": "sing",
@@ -37515,7 +38049,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a cânta",
     "lt": "dainuoti",
     "uk": "співати",
-    "cs": "zpívat"
+    "cs": "zpívat",
+    "tr": "şarkı söylemek"
   },
   {
     "id": "break",
@@ -37535,7 +38070,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a rupe",
     "lt": "laužti",
     "uk": "ламати",
-    "cs": "lámat"
+    "cs": "lámat",
+    "tr": "kırmak"
   },
   {
     "id": "wave",
@@ -37555,7 +38091,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a face cu mâna",
     "lt": "mojuoti",
     "uk": "махати рукою",
-    "cs": "mávat rukou"
+    "cs": "mávat rukou",
+    "tr": "el sallamak"
   },
   {
     "id": "hold",
@@ -37575,7 +38112,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a ține",
     "lt": "laikyti",
     "uk": "тримати",
-    "cs": "držet"
+    "cs": "držet",
+    "tr": "tutmak"
   },
   {
     "id": "tie",
@@ -37595,7 +38133,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a lega",
     "lt": "rišti",
     "uk": "зав'язувати",
-    "cs": "vázat"
+    "cs": "vázat",
+    "tr": "bağlamak"
   },
   {
     "id": "drop",
@@ -37615,7 +38154,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a scăpa",
     "lt": "numesti",
     "uk": "упускати",
-    "cs": "upouštět"
+    "cs": "upouštět",
+    "tr": "düşürmek"
   },
   {
     "id": "lose_game",
@@ -37635,7 +38175,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a pierde",
     "lt": "pralaimėti",
     "uk": "програвати",
-    "cs": "prohrávat"
+    "cs": "prohrávat",
+    "tr": "kaybetmek"
   },
   {
     "id": "mow_lawn",
@@ -37655,7 +38196,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a tunde iarba",
     "lt": "pjauti žolę",
     "uk": "косити газон",
-    "cs": "sekat trávník"
+    "cs": "sekat trávník",
+    "tr": "çim biçmek"
   },
   {
     "id": "take_notes",
@@ -37675,7 +38217,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a lua notițe",
     "lt": "konspektuoti",
     "uk": "робити нотатки",
-    "cs": "dělat si poznámky"
+    "cs": "dělat si poznámky",
+    "tr": "not almak"
   },
   {
     "id": "light_candle",
@@ -37695,7 +38238,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a aprinde o lumânare",
     "lt": "uždegti žvakę",
     "uk": "запалювати свічку",
-    "cs": "zapalovat svíčku"
+    "cs": "zapalovat svíčku",
+    "tr": "mum yakmak"
   },
   {
     "id": "freeze",
@@ -37715,7 +38259,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a îngheța",
     "lt": "šalti",
     "uk": "заморожувати",
-    "cs": "mrznout"
+    "cs": "mrznout",
+    "tr": "donmak"
   },
   {
     "id": "buzz",
@@ -37735,7 +38280,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a bâzâi",
     "lt": "zvimbti",
     "uk": "гудіти",
-    "cs": "bzučet"
+    "cs": "bzučet",
+    "tr": "vızıldamak"
   },
   {
     "id": "buy",
@@ -37755,7 +38301,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a cumpăra",
     "lt": "pirkti",
     "uk": "купувати",
-    "cs": "kupovat"
+    "cs": "kupovat",
+    "tr": "satın almak"
   },
   {
     "id": "camp",
@@ -37775,7 +38322,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a campa",
     "lt": "stovyklauti",
     "uk": "таборувати",
-    "cs": "kempovat"
+    "cs": "kempovat",
+    "tr": "kamp yapmak"
   },
   {
     "id": "clean",
@@ -37795,7 +38343,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a curăța",
     "lt": "valyti",
     "uk": "прибирати",
-    "cs": "uklízet"
+    "cs": "uklízet",
+    "tr": "temizlemek"
   },
   {
     "id": "climb_tree",
@@ -37815,7 +38364,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se urca în copac",
     "lt": "lipti į medį",
     "uk": "лізти на дерево",
-    "cs": "lézt na strom"
+    "cs": "lézt na strom",
+    "tr": "ağaca tırmanmak"
   },
   {
     "id": "close",
@@ -37835,7 +38385,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a închide",
     "lt": "uždaryti",
     "uk": "закривати",
-    "cs": "zavírat"
+    "cs": "zavírat",
+    "tr": "kapamak"
   },
   {
     "id": "crawl_insect",
@@ -37855,7 +38406,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se târî",
     "lt": "ropoti",
     "uk": "повзати (комаха)",
-    "cs": "lézt (hmyz)"
+    "cs": "lézt (hmyz)",
+    "tr": "sürünmek"
   },
   {
     "id": "dig",
@@ -37875,7 +38427,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a săpa",
     "lt": "kasti",
     "uk": "копати",
-    "cs": "kopat"
+    "cs": "kopat",
+    "tr": "kazmak"
   },
   {
     "id": "drive_car",
@@ -37895,7 +38448,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a conduce o mașină",
     "lt": "vairuoti automobilį",
     "uk": "керувати автомобілем",
-    "cs": "řídit auto"
+    "cs": "řídit auto",
+    "tr": "araba sürmek"
   },
   {
     "id": "explode",
@@ -37915,7 +38469,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a exploda",
     "lt": "sprogti",
     "uk": "вибухати",
-    "cs": "vybuchnout"
+    "cs": "vybuchnout",
+    "tr": "patlamak"
   },
   {
     "id": "fall",
@@ -37935,7 +38490,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a cădea",
     "lt": "kristi",
     "uk": "падати",
-    "cs": "padat"
+    "cs": "padat",
+    "tr": "düşmek"
   },
   {
     "id": "go_down",
@@ -37955,7 +38511,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a coborî",
     "lt": "leistis",
     "uk": "спускатися",
-    "cs": "sestupovat"
+    "cs": "sestupovat",
+    "tr": "aşağı inmek"
   },
   {
     "id": "grow",
@@ -37975,7 +38532,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a crește",
     "lt": "augti",
     "uk": "рости",
-    "cs": "růst"
+    "cs": "růst",
+    "tr": "büyümek"
   },
   {
     "id": "hike",
@@ -37995,7 +38553,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a face drumeții",
     "lt": "keliauti pėsčiomis",
     "uk": "мандрувати пішки",
-    "cs": "chodit na túry"
+    "cs": "chodit na túry",
+    "tr": "doğada yürümek"
   },
   {
     "id": "laugh",
@@ -38015,7 +38574,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a râde",
     "lt": "juoktis",
     "uk": "сміятися",
-    "cs": "smát se"
+    "cs": "smát se",
+    "tr": "gülmek"
   },
   {
     "id": "lay_egg",
@@ -38035,7 +38595,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a face un ou",
     "lt": "dėti kiaušinį",
     "uk": "нести яйце",
-    "cs": "snášet vejce"
+    "cs": "snášet vejce",
+    "tr": "yumurtlamak"
   },
   {
     "id": "measure",
@@ -38055,7 +38616,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a măsura",
     "lt": "matuoti",
     "uk": "захід",
-    "cs": "opatření"
+    "cs": "opatření",
+    "tr": "ölçmek"
   },
   {
     "id": "mix",
@@ -38075,7 +38637,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a amesteca",
     "lt": "maišyti",
     "uk": "змішувати",
-    "cs": "smíchat"
+    "cs": "smíchat",
+    "tr": "harmanlamak"
   },
   {
     "id": "pour_water",
@@ -38095,7 +38658,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a turna apă",
     "lt": "pilti vandenį",
     "uk": "наливати воду",
-    "cs": "nalévat vodu"
+    "cs": "nalévat vodu",
+    "tr": "su dökmek"
   },
   {
     "id": "pull",
@@ -38115,7 +38679,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a trage",
     "lt": "traukti",
     "uk": "тягнути",
-    "cs": "táhnout"
+    "cs": "táhnout",
+    "tr": "çekmek"
   },
   {
     "id": "run",
@@ -38135,7 +38700,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a alerga",
     "lt": "bėgti",
     "uk": "бігати",
-    "cs": "běhat"
+    "cs": "běhat",
+    "tr": "koşmak"
   },
   {
     "id": "sail",
@@ -38155,7 +38721,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a naviga",
     "lt": "plaukti burlaiviu",
     "uk": "плавати під вітрилом",
-    "cs": "plachtit"
+    "cs": "plachtit",
+    "tr": "yelken açmak"
   },
   {
     "id": "rain_verb",
@@ -38175,7 +38742,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a ploua",
     "lt": "lyti",
     "uk": "іти (про дощ)",
-    "cs": "pršet"
+    "cs": "pršet",
+    "tr": "yağmur yağmak"
   },
   {
     "id": "roll",
@@ -38195,7 +38763,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se rostogoli",
     "lt": "riedėti",
     "uk": "котитися",
-    "cs": "kutálet se"
+    "cs": "kutálet se",
+    "tr": "yuvarlamak"
   },
   {
     "id": "spin",
@@ -38215,7 +38784,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se învârti",
     "lt": "suktis",
     "uk": "крутитися",
-    "cs": "točit se"
+    "cs": "točit se",
+    "tr": "döndürmek"
   },
   {
     "id": "taste",
@@ -38235,7 +38805,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a gusta",
     "lt": "ragauti",
     "uk": "куштувати",
-    "cs": "ochutnávat"
+    "cs": "ochutnávat",
+    "tr": "tatmak"
   },
   {
     "id": "toast",
@@ -38255,7 +38826,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a toasta",
     "lt": "pakelti tostą",
     "uk": "виголошувати тост",
-    "cs": "připíjet"
+    "cs": "připíjet",
+    "tr": "kadeh kaldırmak"
   },
   {
     "id": "travel",
@@ -38275,7 +38847,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a călători",
     "lt": "keliauti",
     "uk": "подорожувати",
-    "cs": "cestovat"
+    "cs": "cestovat",
+    "tr": "seyahat etmek"
   },
   {
     "id": "vote",
@@ -38295,7 +38868,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a vota",
     "lt": "balsuoti",
     "uk": "голосувати",
-    "cs": "volit"
+    "cs": "volit",
+    "tr": "oy vermek"
   },
   {
     "id": "watch",
@@ -38315,7 +38889,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a se uita",
     "lt": "žiūrėti",
     "uk": "наручний годинник",
-    "cs": "hodinky"
+    "cs": "hodinky",
+    "tr": "izlemek"
   },
   {
     "id": "waterplants",
@@ -38335,7 +38910,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a uda plantele",
     "lt": "laistyti augalus",
     "uk": "поливати рослини",
-    "cs": "zalévat rostliny"
+    "cs": "zalévat rostliny",
+    "tr": "bitkileri sulamak"
   },
   {
     "id": "wear",
@@ -38355,7 +38931,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a purta",
     "lt": "dėvėti",
     "uk": "зношуватися",
-    "cs": "opotřebit se"
+    "cs": "opotřebit se",
+    "tr": "giymek"
   },
   {
     "id": "work",
@@ -38375,7 +38952,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a lucra",
     "lt": "dirbti",
     "uk": "працювати",
-    "cs": "pracovat"
+    "cs": "pracovat",
+    "tr": "çalışmak"
   },
   {
     "id": "write",
@@ -38395,7 +38973,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a scrie",
     "lt": "rašyti",
     "uk": "писати",
-    "cs": "psát"
+    "cs": "psát",
+    "tr": "yazmak"
   },
   {
     "id": "kiss",
@@ -38415,7 +38994,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a săruta",
     "lt": "bučiuoti",
     "uk": "цілувати",
-    "cs": "líbat"
+    "cs": "líbat",
+    "tr": "öpmek"
   },
   {
     "id": "build",
@@ -38435,7 +39015,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a construi",
     "lt": "statyti",
     "uk": "будувати",
-    "cs": "stavět"
+    "cs": "stavět",
+    "tr": "inşa etmek"
   },
   {
     "id": "go_up",
@@ -38455,7 +39036,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a urca",
     "lt": "kilti",
     "uk": "підійматися вгору",
-    "cs": "stoupat nahoru"
+    "cs": "stoupat nahoru",
+    "tr": "yukarı çıkmak"
   },
   {
     "id": "box_verb",
@@ -38475,7 +39057,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a boxa",
     "lt": "boksuoti",
     "uk": "боксувати",
-    "cs": "boxovat"
+    "cs": "boxovat",
+    "tr": "boks yapmak"
   },
   {
     "id": "applaud",
@@ -38495,7 +39078,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a aplauda",
     "lt": "ploti",
     "uk": "аплодувати",
-    "cs": "tleskat"
+    "cs": "tleskat",
+    "tr": "alkışlamak"
   },
   {
     "id": "shakehands",
@@ -38515,7 +39099,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a da mâna",
     "lt": "paspausti ranką",
     "uk": "тиснути руку",
-    "cs": "podávat si ruku"
+    "cs": "podávat si ruku",
+    "tr": "el sıkışmak"
   },
   {
     "id": "learn",
@@ -38535,7 +39120,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a învăța",
     "lt": "mokytis",
     "uk": "вчитися",
-    "cs": "učit se"
+    "cs": "učit se",
+    "tr": "öğrenmek"
   },
   {
     "id": "count",
@@ -38555,7 +39141,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a număra",
     "lt": "skaičiuoti",
     "uk": "рахувати",
-    "cs": "počítat"
+    "cs": "počítat",
+    "tr": "saymak"
   },
   {
     "id": "dance",
@@ -38575,7 +39162,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a dansa",
     "lt": "šokti",
     "uk": "танцювати",
-    "cs": "tancovat"
+    "cs": "tancovat",
+    "tr": "dans etmek"
   },
   {
     "id": "think",
@@ -38595,7 +39183,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a gândi",
     "lt": "galvoti",
     "uk": "думати",
-    "cs": "myslet"
+    "cs": "myslet",
+    "tr": "düşünmek"
   },
   {
     "id": "ridebike",
@@ -38615,7 +39204,8 @@ window.QM_VOCAB_VERBS_DATA = [
     "ro": "a merge cu bicicleta",
     "lt": "važiuoti dviračiu",
     "uk": "їздити на велосипеді",
-    "cs": "jezdit na kole"
+    "cs": "jezdit na kole",
+    "tr": "bisiklete binmek"
   }
 ];
 window.QM_VOCAB_BODYPARTS_DATA = [
@@ -38637,7 +39227,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "cap",
     "lt": "galva",
     "uk": "голова",
-    "cs": "hlava"
+    "cs": "hlava",
+    "tr": "baş"
   },
   {
     "id": "eye",
@@ -38657,7 +39248,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "ochi",
     "lt": "akis",
     "uk": "око",
-    "cs": "oko"
+    "cs": "oko",
+    "tr": "göz"
   },
   {
     "id": "ear",
@@ -38677,7 +39269,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "ureche",
     "lt": "ausis",
     "uk": "вухо",
-    "cs": "ucho"
+    "cs": "ucho",
+    "tr": "kulak"
   },
   {
     "id": "mouth",
@@ -38697,7 +39290,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "gură",
     "lt": "burna",
     "uk": "рот",
-    "cs": "ústa"
+    "cs": "ústa",
+    "tr": "ağız"
   },
   {
     "id": "teeth",
@@ -38717,7 +39311,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "dinți",
     "lt": "dantys",
     "uk": "зуби",
-    "cs": "zuby"
+    "cs": "zuby",
+    "tr": "dişler"
   },
   {
     "id": "tongue",
@@ -38734,7 +39329,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "limbă",
     "lt": "liežuvis",
     "uk": "язик",
-    "cs": "jazyk"
+    "cs": "jazyk",
+    "tr": "dil"
   },
   {
     "id": "neck",
@@ -38754,7 +39350,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "gât",
     "lt": "kaklas",
     "uk": "шия",
-    "cs": "krk"
+    "cs": "krk",
+    "tr": "boyun"
   },
   {
     "id": "shoulder",
@@ -38774,7 +39371,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "umăr",
     "lt": "petys",
     "uk": "плече",
-    "cs": "rameno"
+    "cs": "rameno",
+    "tr": "omuz"
   },
   {
     "id": "hand",
@@ -38794,7 +39392,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "mână",
     "lt": "ranka",
     "cs": "podat",
-    "uk": "рука"
+    "uk": "рука",
+    "tr": "el"
   },
   {
     "id": "finger",
@@ -38814,7 +39413,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "deget",
     "lt": "pirštas",
     "cs": "prstit",
-    "uk": "палець"
+    "uk": "палець",
+    "tr": "parmak"
   },
   {
     "id": "leg",
@@ -38834,7 +39434,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "picior",
     "lt": "koja",
     "uk": "нога",
-    "cs": "noha"
+    "cs": "noha",
+    "tr": "bacak"
   },
   {
     "id": "foot",
@@ -38854,7 +39455,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "laba piciorului",
     "lt": "pėda",
     "uk": "ступня",
-    "cs": "chodidlo"
+    "cs": "chodidlo",
+    "tr": "ayak"
   },
   {
     "id": "knee",
@@ -38874,7 +39476,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "genunchi",
     "lt": "kelis",
     "uk": "коліно",
-    "cs": "koleno"
+    "cs": "koleno",
+    "tr": "diz"
   },
   {
     "id": "brain",
@@ -38894,7 +39497,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "creier",
     "lt": "smegenys",
     "uk": "мозок",
-    "cs": "mozek"
+    "cs": "mozek",
+    "tr": "beyin"
   },
   {
     "id": "wrist",
@@ -38914,7 +39518,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "încheietura mâinii",
     "lt": "riešas",
     "uk": "зап'ястя",
-    "cs": "zápěstí"
+    "cs": "zápěstí",
+    "tr": "bilek"
   },
   {
     "id": "chin",
@@ -38934,7 +39539,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "bărbie",
     "lt": "smakras",
     "uk": "підборіддя",
-    "cs": "brada"
+    "cs": "brada",
+    "tr": "çene"
   },
   {
     "id": "face",
@@ -38954,7 +39560,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "față",
     "lt": "veidas",
     "cs": "čelit",
-    "uk": "обличчя"
+    "uk": "обличчя",
+    "tr": "yüz"
   },
   {
     "id": "forehead",
@@ -38974,7 +39581,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "frunte",
     "lt": "kakta",
     "uk": "лоб",
-    "cs": "čelo"
+    "cs": "čelo",
+    "tr": "alın"
   },
   {
     "id": "eyebrow",
@@ -38994,7 +39602,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "sprânceană",
     "lt": "antakis",
     "uk": "брова",
-    "cs": "obočí"
+    "cs": "obočí",
+    "tr": "kaş"
   },
   {
     "id": "eyelash",
@@ -39014,7 +39623,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "gene",
     "lt": "blakstienos",
     "uk": "вії",
-    "cs": "řasy"
+    "cs": "řasy",
+    "tr": "kirpikler"
   },
   {
     "id": "earlobe",
@@ -39034,7 +39644,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "lobul urechii",
     "lt": "ausies spenelis",
     "uk": "мочка вуха",
-    "cs": "ušní lalůček"
+    "cs": "ušní lalůček",
+    "tr": "kulak memesi"
   },
   {
     "id": "beard",
@@ -39054,7 +39665,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "barbă",
     "lt": "barzda",
     "uk": "борода",
-    "cs": "brada"
+    "cs": "brada",
+    "tr": "sakal"
   },
   {
     "id": "hair",
@@ -39074,7 +39686,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "păr",
     "lt": "plaukai",
     "uk": "волосся",
-    "cs": "vlasy"
+    "cs": "vlasy",
+    "tr": "saç"
   },
   {
     "id": "nostrils",
@@ -39094,7 +39707,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "nări",
     "lt": "šnervės",
     "uk": "ніздрі",
-    "cs": "nosní dírky"
+    "cs": "nosní dírky",
+    "tr": "burun delikleri"
   },
   {
     "id": "skull",
@@ -39114,7 +39728,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "craniu",
     "lt": "kaukolė",
     "uk": "череп",
-    "cs": "lebka"
+    "cs": "lebka",
+    "tr": "kafatası"
   },
   {
     "id": "spine",
@@ -39131,7 +39746,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "coloană vertebrală",
     "lt": "stuburas",
     "uk": "хребет",
-    "cs": "páteř"
+    "cs": "páteř",
+    "tr": "omurga"
   },
   {
     "id": "bellybutton",
@@ -39151,7 +39767,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "buric",
     "lt": "bamba",
     "uk": "пупок",
-    "cs": "pupek"
+    "cs": "pupek",
+    "tr": "göbek deliği"
   },
   {
     "id": "thumb",
@@ -39171,7 +39788,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "degetul mare",
     "lt": "nykštys",
     "uk": "великий палець",
-    "cs": "palec"
+    "cs": "palec",
+    "tr": "başparmak"
   },
   {
     "id": "palm",
@@ -39191,7 +39809,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "palmă",
     "lt": "delnas",
     "uk": "долоня",
-    "cs": "dlaň"
+    "cs": "dlaň",
+    "tr": "avuç içi"
   },
   {
     "id": "nails",
@@ -39211,7 +39830,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "unghii",
     "lt": "nagai",
     "uk": "нігті",
-    "cs": "nehty"
+    "cs": "nehty",
+    "tr": "tırnaklar"
   },
   {
     "id": "knuckles",
@@ -39231,7 +39851,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "încheieturile degetelor",
     "lt": "krumpliai",
     "uk": "кісточки пальців",
-    "cs": "klouby prstů"
+    "cs": "klouby prstů",
+    "tr": "parmak eklemleri"
   },
   {
     "id": "bigtoe",
@@ -39251,7 +39872,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "degetul mare de la picior",
     "lt": "didysis kojos pirštas",
     "cs": "palec",
-    "uk": "великий палець ноги"
+    "uk": "великий палець ноги",
+    "tr": "ayak başparmağı"
   },
   {
     "id": "toe",
@@ -39271,7 +39893,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "deget de la picior",
     "lt": "kojos pirštas",
     "uk": "палець",
-    "cs": "prst"
+    "cs": "prst",
+    "tr": "ayak parmağı"
   },
   {
     "id": "ankle",
@@ -39288,7 +39911,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "gleznă",
     "lt": "kulkšnis",
     "uk": "кісточка",
-    "cs": "kotník"
+    "cs": "kotník",
+    "tr": "ayak bileği"
   },
   {
     "id": "heart",
@@ -39305,7 +39929,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "inimă",
     "lt": "širdis",
     "cs": "srdíčkovat",
-    "uk": "серце"
+    "uk": "серце",
+    "tr": "kalp"
   },
   {
     "id": "lungs",
@@ -39325,7 +39950,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "plămâni",
     "lt": "plaučiai",
     "uk": "легені",
-    "cs": "plíce"
+    "cs": "plíce",
+    "tr": "akciğerler"
   },
   {
     "id": "kidney",
@@ -39345,7 +39971,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "rinichi",
     "lt": "inkstas",
     "uk": "нирка",
-    "cs": "ledvina"
+    "cs": "ledvina",
+    "tr": "böbrek"
   },
   {
     "id": "liver",
@@ -39365,7 +39992,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "ficat",
     "lt": "kepenys",
     "uk": "печінка",
-    "cs": "játra"
+    "cs": "játra",
+    "tr": "karaciğer"
   },
   {
     "id": "blood",
@@ -39385,7 +40013,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "sânge",
     "lt": "kraujas",
     "cs": "zkrvavit",
-    "uk": "кров"
+    "uk": "кров",
+    "tr": "kan"
   },
   {
     "id": "bones",
@@ -39405,7 +40034,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "oase",
     "lt": "kaulai",
     "uk": "кістки",
-    "cs": "kosti"
+    "cs": "kosti",
+    "tr": "kemikler"
   },
   {
     "id": "veins",
@@ -39425,7 +40055,8 @@ window.QM_VOCAB_BODYPARTS_DATA = [
     "ro": "vene",
     "lt": "venos",
     "uk": "вени",
-    "cs": "žíly"
+    "cs": "žíly",
+    "tr": "damarlar"
   }
 ];
 window.QM_COUNTRIES_AFRICA_DATA = [
@@ -39444,7 +40075,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Zimbabwe",
     "lt": "Zimbabvė",
     "uk": "Зімбабве",
-    "cs": "Zimbabwe"
+    "cs": "Zimbabwe",
+    "tr": "Zimbabve"
   },
   {
     "id": "zm",
@@ -39461,7 +40093,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Zambia",
     "lt": "Zambija",
     "uk": "Замбія",
-    "cs": "Zambie"
+    "cs": "Zambie",
+    "tr": "Zambiya"
   },
   {
     "id": "ug",
@@ -39478,7 +40111,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Uganda",
     "lt": "Uganda",
     "uk": "Уганда",
-    "cs": "Uganda"
+    "cs": "Uganda",
+    "tr": "Uganda"
   },
   {
     "id": "tn",
@@ -39495,7 +40129,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Tunisia",
     "lt": "Tunisas",
     "uk": "Туніс",
-    "cs": "Tunisko"
+    "cs": "Tunisko",
+    "tr": "Tunus"
   },
   {
     "id": "tg",
@@ -39512,7 +40147,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Togo",
     "lt": "Togas",
     "uk": "Того",
-    "cs": "Togo"
+    "cs": "Togo",
+    "tr": "Togo"
   },
   {
     "id": "tz",
@@ -39529,7 +40165,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Tanzania",
     "lt": "Tanzanija",
     "uk": "Танзанія",
-    "cs": "Tanzanie"
+    "cs": "Tanzanie",
+    "tr": "Tanzanya"
   },
   {
     "id": "sz",
@@ -39546,7 +40183,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Eswatini",
     "lt": "Esvatinis",
     "uk": "Есватіні",
-    "cs": "Eswatini"
+    "cs": "Eswatini",
+    "tr": "Esvatini"
   },
   {
     "id": "ss",
@@ -39563,7 +40201,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Sudanul de Sud",
     "lt": "Pietų Sudanas",
     "uk": "Південний Судан",
-    "cs": "Jižní Súdán"
+    "cs": "Jižní Súdán",
+    "tr": "Güney Sudan"
   },
   {
     "id": "sd",
@@ -39580,7 +40219,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Sudan",
     "lt": "Sudanas",
     "uk": "Судан",
-    "cs": "Súdán"
+    "cs": "Súdán",
+    "tr": "Sudan"
   },
   {
     "id": "za",
@@ -39597,7 +40237,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Africa de Sud",
     "lt": "Pietų Afrika",
     "uk": "Південна Африка",
-    "cs": "Jižní Afrika"
+    "cs": "Jižní Afrika",
+    "tr": "Güney Afrika"
   },
   {
     "id": "so",
@@ -39614,7 +40255,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Somalia",
     "lt": "Somalis",
     "uk": "Сомалі",
-    "cs": "Somálsko"
+    "cs": "Somálsko",
+    "tr": "Somali"
   },
   {
     "id": "sl",
@@ -39631,7 +40273,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Sierra Leone",
     "lt": "Siera Leonė",
     "uk": "Сьєрра-Леоне",
-    "cs": "Sierra Leone"
+    "cs": "Sierra Leone",
+    "tr": "Sierra Leone"
   },
   {
     "id": "sc",
@@ -39648,7 +40291,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Seychelles",
     "lt": "Seišeliai",
     "uk": "Сейшели",
-    "cs": "Seychely"
+    "cs": "Seychely",
+    "tr": "Seyşeller"
   },
   {
     "id": "sn",
@@ -39665,7 +40309,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Senegal",
     "lt": "Senegalas",
     "uk": "Сенегал",
-    "cs": "Senegal"
+    "cs": "Senegal",
+    "tr": "Senegal"
   },
   {
     "id": "st",
@@ -39682,7 +40327,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "São Tomé și Príncipe",
     "lt": "San Tomė ir Prinsipė",
     "uk": "Сан-Томе і Принсіпі",
-    "cs": "Svatý Tomáš a Princův ostrov"
+    "cs": "Svatý Tomáš a Princův ostrov",
+    "tr": "São Tomé ve Príncipe"
   },
   {
     "id": "rw",
@@ -39699,7 +40345,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Rwanda",
     "lt": "Ruanda",
     "uk": "Руанда",
-    "cs": "Rwanda"
+    "cs": "Rwanda",
+    "tr": "Ruanda"
   },
   {
     "id": "ng",
@@ -39716,7 +40363,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Nigeria",
     "lt": "Nigerija",
     "uk": "Нігерія",
-    "cs": "Nigérie"
+    "cs": "Nigérie",
+    "tr": "Nijerya"
   },
   {
     "id": "ne",
@@ -39733,7 +40381,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Niger",
     "lt": "Nigeris",
     "uk": "Нігер",
-    "cs": "Niger"
+    "cs": "Niger",
+    "tr": "Nijer"
   },
   {
     "id": "na",
@@ -39750,7 +40399,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Namibia",
     "lt": "Namibija",
     "uk": "Намібія",
-    "cs": "Namibie"
+    "cs": "Namibie",
+    "tr": "Namibya"
   },
   {
     "id": "mz",
@@ -39767,7 +40417,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Mozambic",
     "lt": "Mozambikas",
     "uk": "Мозамбік",
-    "cs": "Mozambik"
+    "cs": "Mozambik",
+    "tr": "Mozambik"
   },
   {
     "id": "ma",
@@ -39784,7 +40435,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Maroc",
     "lt": "Marokas",
     "uk": "Марокко",
-    "cs": "Maroko"
+    "cs": "Maroko",
+    "tr": "Fas"
   },
   {
     "id": "mu",
@@ -39801,7 +40453,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Mauritius",
     "lt": "Mauricijus",
     "uk": "Маврикій",
-    "cs": "Mauricius"
+    "cs": "Mauricius",
+    "tr": "Mauritius"
   },
   {
     "id": "mr",
@@ -39818,7 +40471,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Mauritania",
     "lt": "Mauritanija",
     "uk": "Мавританія",
-    "cs": "Mauritánie"
+    "cs": "Mauritánie",
+    "tr": "Moritanya"
   },
   {
     "id": "ml",
@@ -39835,7 +40489,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Mali",
     "lt": "Malis",
     "uk": "Малі",
-    "cs": "Mali"
+    "cs": "Mali",
+    "tr": "Mali"
   },
   {
     "id": "mw",
@@ -39852,7 +40507,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Malawi",
     "lt": "Malavis",
     "uk": "Малаві",
-    "cs": "Malawi"
+    "cs": "Malawi",
+    "tr": "Malavi"
   },
   {
     "id": "mg",
@@ -39869,7 +40525,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Madagascar",
     "lt": "Madagaskaras",
     "uk": "Мадагаскар",
-    "cs": "Madagaskar"
+    "cs": "Madagaskar",
+    "tr": "Madagaskar"
   },
   {
     "id": "ly",
@@ -39886,7 +40543,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Libia",
     "lt": "Libija",
     "uk": "Лівія",
-    "cs": "Libye"
+    "cs": "Libye",
+    "tr": "Libya"
   },
   {
     "id": "lr",
@@ -39903,7 +40561,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Liberia",
     "lt": "Liberija",
     "uk": "Ліберія",
-    "cs": "Libérie"
+    "cs": "Libérie",
+    "tr": "Liberya"
   },
   {
     "id": "ls",
@@ -39920,7 +40579,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Lesotho",
     "lt": "Lesotas",
     "uk": "Лесото",
-    "cs": "Lesotho"
+    "cs": "Lesotho",
+    "tr": "Lesotho"
   },
   {
     "id": "ke",
@@ -39937,7 +40597,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Kenya",
     "lt": "Kenija",
     "uk": "Кенія",
-    "cs": "Keňa"
+    "cs": "Keňa",
+    "tr": "Kenya"
   },
   {
     "id": "gw",
@@ -39954,7 +40615,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Guineea-Bissau",
     "lt": "Bisau Gvinėja",
     "uk": "Гвінея-Бісау",
-    "cs": "Guinea-Bissau"
+    "cs": "Guinea-Bissau",
+    "tr": "Gine-Bissau"
   },
   {
     "id": "gn",
@@ -39971,7 +40633,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Guineea",
     "lt": "Gvinėja",
     "uk": "Гвінея",
-    "cs": "Guinea"
+    "cs": "Guinea",
+    "tr": "Gine"
   },
   {
     "id": "gh",
@@ -39988,7 +40651,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Ghana",
     "lt": "Gana",
     "uk": "Гана",
-    "cs": "Ghana"
+    "cs": "Ghana",
+    "tr": "Gana"
   },
   {
     "id": "gm",
@@ -40005,7 +40669,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Gambia",
     "lt": "Gambija",
     "uk": "Гамбія",
-    "cs": "Gambie"
+    "cs": "Gambie",
+    "tr": "Gambiya"
   },
   {
     "id": "ga",
@@ -40022,7 +40687,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Gabon",
     "lt": "Gabonas",
     "uk": "Габон",
-    "cs": "Gabon"
+    "cs": "Gabon",
+    "tr": "Gabon"
   },
   {
     "id": "et",
@@ -40039,7 +40705,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Etiopia",
     "lt": "Etiopija",
     "uk": "Ефіопія",
-    "cs": "Etiopie"
+    "cs": "Etiopie",
+    "tr": "Etiyopya"
   },
   {
     "id": "er",
@@ -40056,7 +40723,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Eritreea",
     "lt": "Eritrėja",
     "uk": "Еритрея",
-    "cs": "Eritrea"
+    "cs": "Eritrea",
+    "tr": "Eritre"
   },
   {
     "id": "gq",
@@ -40073,7 +40741,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Guineea Ecuatorială",
     "lt": "Pusiaujo Gvinėja",
     "uk": "Екваторіальна Гвінея",
-    "cs": "Rovníková Guinea"
+    "cs": "Rovníková Guinea",
+    "tr": "Ekvator Ginesi"
   },
   {
     "id": "eg",
@@ -40090,7 +40759,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Egipt",
     "lt": "Egiptas",
     "uk": "Єгипет",
-    "cs": "Egypt"
+    "cs": "Egypt",
+    "tr": "Mısır"
   },
   {
     "id": "dj",
@@ -40107,7 +40777,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Djibouti",
     "lt": "Džibutis",
     "uk": "Джибуті",
-    "cs": "Džibutsko"
+    "cs": "Džibutsko",
+    "tr": "Cibuti"
   },
   {
     "id": "ci",
@@ -40124,7 +40795,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Coasta de Fildeș",
     "lt": "Dramblio Kaulo Krantas",
     "uk": "Кот-д'Івуар",
-    "cs": "Pobřeží slonoviny"
+    "cs": "Pobřeží slonoviny",
+    "tr": "Fildişi Sahili"
   },
   {
     "id": "cd",
@@ -40141,7 +40813,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Republica Democrată Congo",
     "lt": "Kongo Demokratinė Respublika",
     "uk": "Демократична Республіка Конго",
-    "cs": "Konžská demokratická republika"
+    "cs": "Konžská demokratická republika",
+    "tr": "Demokratik Kongo Cumhuriyeti"
   },
   {
     "id": "cg",
@@ -40158,7 +40831,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Congo",
     "lt": "Kongas",
     "uk": "Конго",
-    "cs": "Kongo"
+    "cs": "Kongo",
+    "tr": "Kongo"
   },
   {
     "id": "km",
@@ -40175,7 +40849,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Comore",
     "lt": "Komorai",
     "uk": "Коморські острови",
-    "cs": "Komory"
+    "cs": "Komory",
+    "tr": "Komorlar"
   },
   {
     "id": "td",
@@ -40192,7 +40867,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Ciad",
     "lt": "Čadas",
     "uk": "Чад",
-    "cs": "Čad"
+    "cs": "Čad",
+    "tr": "Çad"
   },
   {
     "id": "cf",
@@ -40209,7 +40885,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Republica Centrafricană",
     "lt": "Centrinės Afrikos Respublika",
     "uk": "Центральноафриканська Республіка",
-    "cs": "Středoafrická republika"
+    "cs": "Středoafrická republika",
+    "tr": "Orta Afrika Cumhuriyeti"
   },
   {
     "id": "cv",
@@ -40226,7 +40903,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Capul Verde",
     "lt": "Žaliasis Kyšulys",
     "uk": "Кабо-Верде",
-    "cs": "Kapverdy"
+    "cs": "Kapverdy",
+    "tr": "Cabo Verde"
   },
   {
     "id": "cm",
@@ -40243,7 +40921,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Camerun",
     "lt": "Kamerūnas",
     "uk": "Камерун",
-    "cs": "Kamerun"
+    "cs": "Kamerun",
+    "tr": "Kamerun"
   },
   {
     "id": "bi",
@@ -40260,7 +40939,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Burundi",
     "lt": "Burundis",
     "uk": "Бурунді",
-    "cs": "Burundi"
+    "cs": "Burundi",
+    "tr": "Burundi"
   },
   {
     "id": "bf",
@@ -40277,7 +40957,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Burkina Faso",
     "lt": "Burkina Fasas",
     "uk": "Буркіна-Фасо",
-    "cs": "Burkina Faso"
+    "cs": "Burkina Faso",
+    "tr": "Burkina Faso"
   },
   {
     "id": "bw",
@@ -40294,7 +40975,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Botswana",
     "lt": "Botsvana",
     "uk": "Ботсвана",
-    "cs": "Botswana"
+    "cs": "Botswana",
+    "tr": "Botsvana"
   },
   {
     "id": "bj",
@@ -40311,7 +40993,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Benin",
     "lt": "Beninas",
     "uk": "Бенін",
-    "cs": "Benin"
+    "cs": "Benin",
+    "tr": "Benin"
   },
   {
     "id": "ao",
@@ -40328,7 +41011,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Angola",
     "lt": "Angola",
     "uk": "Ангола",
-    "cs": "Angola"
+    "cs": "Angola",
+    "tr": "Angola"
   },
   {
     "id": "dz",
@@ -40345,7 +41029,8 @@ window.QM_COUNTRIES_AFRICA_DATA = [
     "ro": "Algeria",
     "lt": "Alžyras",
     "uk": "Алжир",
-    "cs": "Alžírsko"
+    "cs": "Alžírsko",
+    "tr": "Cezayir"
   }
 ];
 window.QM_COUNTRIES_ASIA_DATA = [
@@ -40364,7 +41049,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Yemen",
     "lt": "Jemenas",
     "uk": "Ємен",
-    "cs": "Jemen"
+    "cs": "Jemen",
+    "tr": "Yemen"
   },
   {
     "id": "vn",
@@ -40381,7 +41067,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Vietnam",
     "lt": "Vietnamas",
     "uk": "В'єтнам",
-    "cs": "Vietnam"
+    "cs": "Vietnam",
+    "tr": "Vietnam"
   },
   {
     "id": "uz",
@@ -40398,7 +41085,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Uzbekistan",
     "lt": "Uzbekistanas",
     "uk": "Узбекистан",
-    "cs": "Uzbekistán"
+    "cs": "Uzbekistán",
+    "tr": "Özbekistan"
   },
   {
     "id": "ae",
@@ -40415,7 +41103,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Emiratele Arabe Unite",
     "lt": "Jungtiniai Arabų Emyratai",
     "uk": "Об'єднані Арабські Емірати",
-    "cs": "Spojené arabské emiráty"
+    "cs": "Spojené arabské emiráty",
+    "tr": "Birleşik Arap Emirlikleri"
   },
   {
     "id": "tm",
@@ -40432,7 +41121,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Turkmenistan",
     "lt": "Turkmėnistanas",
     "uk": "Туркменістан",
-    "cs": "Turkmenistán"
+    "cs": "Turkmenistán",
+    "tr": "Türkmenistan"
   },
   {
     "id": "tr",
@@ -40449,7 +41139,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Turcia",
     "lt": "Turkija",
     "uk": "Туреччина",
-    "cs": "Turecko"
+    "cs": "Turecko",
+    "tr": "Türkiye"
   },
   {
     "id": "tl",
@@ -40466,7 +41157,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Timorul de Est",
     "lt": "Rytų Timoras",
     "uk": "Тимор-Лешті",
-    "cs": "Východní Timor"
+    "cs": "Východní Timor",
+    "tr": "Doğu Timor"
   },
   {
     "id": "th",
@@ -40483,7 +41175,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Thailanda",
     "lt": "Tailandas",
     "uk": "Таїланд",
-    "cs": "Thajsko"
+    "cs": "Thajsko",
+    "tr": "Tayland"
   },
   {
     "id": "tj",
@@ -40500,7 +41193,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Tadjikistan",
     "lt": "Tadžikistanas",
     "uk": "Таджикистан",
-    "cs": "Tádžikistán"
+    "cs": "Tádžikistán",
+    "tr": "Tacikistan"
   },
   {
     "id": "tw",
@@ -40517,7 +41211,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Taiwan",
     "lt": "Taivanas",
     "uk": "Тайвань",
-    "cs": "Tchaj-wan"
+    "cs": "Tchaj-wan",
+    "tr": "Tayvan"
   },
   {
     "id": "sy",
@@ -40534,7 +41229,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Siria",
     "lt": "Sirija",
     "uk": "Сирія",
-    "cs": "Sýrie"
+    "cs": "Sýrie",
+    "tr": "Suriye"
   },
   {
     "id": "lk",
@@ -40551,7 +41247,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Sri Lanka",
     "lt": "Šri Lanka",
     "uk": "Шрі-Ланка",
-    "cs": "Srí Lanka"
+    "cs": "Srí Lanka",
+    "tr": "Sri Lanka"
   },
   {
     "id": "kr",
@@ -40568,7 +41265,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Coreea de Sud",
     "lt": "Pietų Korėja",
     "uk": "Південна Корея",
-    "cs": "Jižní Korea"
+    "cs": "Jižní Korea",
+    "tr": "Güney Kore"
   },
   {
     "id": "sg",
@@ -40585,7 +41283,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Singapore",
     "lt": "Singapūras",
     "uk": "Сінгапур",
-    "cs": "Singapur"
+    "cs": "Singapur",
+    "tr": "Singapur"
   },
   {
     "id": "sa",
@@ -40602,7 +41301,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Arabia Saudită",
     "lt": "Saudo Arabija",
     "uk": "Саудівська Аравія",
-    "cs": "Saúdská Arábie"
+    "cs": "Saúdská Arábie",
+    "tr": "Suudi Arabistan"
   },
   {
     "id": "qa",
@@ -40619,7 +41319,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Qatar",
     "lt": "Kataras",
     "uk": "Катар",
-    "cs": "Katar"
+    "cs": "Katar",
+    "tr": "Katar"
   },
   {
     "id": "ph",
@@ -40636,7 +41337,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Filipine",
     "lt": "Filipinai",
     "uk": "Філіппіни",
-    "cs": "Filipíny"
+    "cs": "Filipíny",
+    "tr": "Filipinler"
   },
   {
     "id": "pk",
@@ -40653,7 +41355,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Pakistan",
     "lt": "Pakistanas",
     "uk": "Пакистан",
-    "cs": "Pákistán"
+    "cs": "Pákistán",
+    "tr": "Pakistan"
   },
   {
     "id": "om",
@@ -40670,7 +41373,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Oman",
     "lt": "Omanas",
     "uk": "Оман",
-    "cs": "Omán"
+    "cs": "Omán",
+    "tr": "Umman"
   },
   {
     "id": "kp",
@@ -40687,7 +41391,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Coreea de Nord",
     "lt": "Šiaurės Korėja",
     "uk": "Північна Корея",
-    "cs": "Severní Korea"
+    "cs": "Severní Korea",
+    "tr": "Kuzey Kore"
   },
   {
     "id": "np",
@@ -40704,7 +41409,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Nepal",
     "lt": "Nepalas",
     "uk": "Непал",
-    "cs": "Nepál"
+    "cs": "Nepál",
+    "tr": "Nepal"
   },
   {
     "id": "mn",
@@ -40721,7 +41427,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Mongolia",
     "lt": "Mongolija",
     "uk": "Монголія",
-    "cs": "Mongolsko"
+    "cs": "Mongolsko",
+    "tr": "Moğolistan"
   },
   {
     "id": "mv",
@@ -40738,7 +41445,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Maldive",
     "lt": "Maldyvai",
     "uk": "Мальдіви",
-    "cs": "Maledivy"
+    "cs": "Maledivy",
+    "tr": "Maldivler"
   },
   {
     "id": "my",
@@ -40755,7 +41463,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Malaysia",
     "lt": "Malaizija",
     "uk": "Малайзія",
-    "cs": "Malajsie"
+    "cs": "Malajsie",
+    "tr": "Malezya"
   },
   {
     "id": "lb",
@@ -40772,7 +41481,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Liban",
     "lt": "Libanas",
     "uk": "Ліван",
-    "cs": "Libanon"
+    "cs": "Libanon",
+    "tr": "Lübnan"
   },
   {
     "id": "la",
@@ -40789,7 +41499,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Laos",
     "lt": "Laosas",
     "uk": "Лаос",
-    "cs": "Laos"
+    "cs": "Laos",
+    "tr": "Laos"
   },
   {
     "id": "kg",
@@ -40806,7 +41517,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Kârgâzstan",
     "lt": "Kirgizija",
     "uk": "Киргизстан",
-    "cs": "Kyrgyzstán"
+    "cs": "Kyrgyzstán",
+    "tr": "Kırgızistan"
   },
   {
     "id": "kw",
@@ -40823,7 +41535,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Kuwait",
     "lt": "Kuveitas",
     "uk": "Кувейт",
-    "cs": "Kuvajt"
+    "cs": "Kuvajt",
+    "tr": "Kuveyt"
   },
   {
     "id": "kz",
@@ -40840,7 +41553,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Kazahstan",
     "lt": "Kazachstanas",
     "uk": "Казахстан",
-    "cs": "Kazachstán"
+    "cs": "Kazachstán",
+    "tr": "Kazakistan"
   },
   {
     "id": "jo",
@@ -40857,7 +41571,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Iordania",
     "lt": "Jordanija",
     "uk": "Йорданія",
-    "cs": "Jordánsko"
+    "cs": "Jordánsko",
+    "tr": "Ürdün"
   },
   {
     "id": "jp",
@@ -40874,7 +41589,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Japonia",
     "lt": "Japonija",
     "uk": "Японія",
-    "cs": "Japonsko"
+    "cs": "Japonsko",
+    "tr": "Japonya"
   },
   {
     "id": "il",
@@ -40891,7 +41607,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Israel",
     "lt": "Izraelis",
     "uk": "Ізраїль",
-    "cs": "Izrael"
+    "cs": "Izrael",
+    "tr": "İsrail"
   },
   {
     "id": "ps",
@@ -40908,7 +41625,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Palestina",
     "lt": "Palestina",
     "uk": "Палестина",
-    "cs": "Palestina"
+    "cs": "Palestina",
+    "tr": "Filistin"
   },
   {
     "id": "iq",
@@ -40925,7 +41643,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Irak",
     "lt": "Irakas",
     "uk": "Ірак",
-    "cs": "Irák"
+    "cs": "Irák",
+    "tr": "Irak"
   },
   {
     "id": "ir",
@@ -40942,7 +41661,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Iran",
     "lt": "Iranas",
     "uk": "Іран",
-    "cs": "Írán"
+    "cs": "Írán",
+    "tr": "İran"
   },
   {
     "id": "id",
@@ -40959,7 +41679,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Indonezia",
     "lt": "Indonezija",
     "uk": "Індонезія",
-    "cs": "Indonésie"
+    "cs": "Indonésie",
+    "tr": "Endonezya"
   },
   {
     "id": "in",
@@ -40976,7 +41697,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "India",
     "lt": "Indija",
     "uk": "Індія",
-    "cs": "Indie"
+    "cs": "Indie",
+    "tr": "Hindistan"
   },
   {
     "id": "ge",
@@ -40993,7 +41715,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Georgia",
     "lt": "Gruzija",
     "uk": "Грузія",
-    "cs": "Gruzie"
+    "cs": "Gruzie",
+    "tr": "Gürcistan"
   },
   {
     "id": "cy",
@@ -41010,7 +41733,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Cipru",
     "lt": "Kipras",
     "uk": "Кіпр",
-    "cs": "Kypr"
+    "cs": "Kypr",
+    "tr": "Kıbrıs"
   },
   {
     "id": "cn",
@@ -41027,7 +41751,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "China",
     "lt": "Kinija",
     "uk": "Китай",
-    "cs": "Čína"
+    "cs": "Čína",
+    "tr": "Çin"
   },
   {
     "id": "kh",
@@ -41044,7 +41769,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Cambodgia",
     "lt": "Kambodža",
     "uk": "Камбоджа",
-    "cs": "Kambodža"
+    "cs": "Kambodža",
+    "tr": "Kamboçya"
   },
   {
     "id": "mm",
@@ -41061,7 +41787,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Myanmar",
     "lt": "Mianmaras",
     "uk": "М'янма",
-    "cs": "Myanmar"
+    "cs": "Myanmar",
+    "tr": "Myanmar"
   },
   {
     "id": "bn",
@@ -41078,7 +41805,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Brunei",
     "lt": "Brunėjus",
     "uk": "Бруней",
-    "cs": "Brunej"
+    "cs": "Brunej",
+    "tr": "Brunei"
   },
   {
     "id": "bt",
@@ -41095,7 +41823,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Bhutan",
     "lt": "Butanas",
     "uk": "Бутан",
-    "cs": "Bhútán"
+    "cs": "Bhútán",
+    "tr": "Butan"
   },
   {
     "id": "bd",
@@ -41112,7 +41841,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Bangladesh",
     "lt": "Bangladešas",
     "uk": "Бангладеш",
-    "cs": "Bangladéš"
+    "cs": "Bangladéš",
+    "tr": "Bangladeş"
   },
   {
     "id": "bh",
@@ -41129,7 +41859,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Bahrain",
     "lt": "Bahreinas",
     "uk": "Бахрейн",
-    "cs": "Bahrajn"
+    "cs": "Bahrajn",
+    "tr": "Bahreyn"
   },
   {
     "id": "az",
@@ -41146,7 +41877,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Azerbaidjan",
     "lt": "Azerbaidžanas",
     "uk": "Азербайджан",
-    "cs": "Ázerbájdžán"
+    "cs": "Ázerbájdžán",
+    "tr": "Azerbaycan"
   },
   {
     "id": "am",
@@ -41163,7 +41895,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Armenia",
     "lt": "Armėnija",
     "uk": "Вірменія",
-    "cs": "Arménie"
+    "cs": "Arménie",
+    "tr": "Ermenistan"
   },
   {
     "id": "af",
@@ -41180,7 +41913,8 @@ window.QM_COUNTRIES_ASIA_DATA = [
     "ro": "Afganistan",
     "lt": "Afganistanas",
     "uk": "Афганістан",
-    "cs": "Afgánistán"
+    "cs": "Afgánistán",
+    "tr": "Afganistan"
   }
 ];
 window.QM_COUNTRIES_EUROPE_DATA = [
@@ -41199,7 +41933,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Vatican",
     "lt": "Vatikanas",
     "uk": "Ватикан",
-    "cs": "Vatikán"
+    "cs": "Vatikán",
+    "tr": "Vatikan"
   },
   {
     "id": "gb",
@@ -41216,7 +41951,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Regatul Unit",
     "lt": "Jungtinė Karalystė",
     "uk": "Сполучене Королівство",
-    "cs": "Spojené království"
+    "cs": "Spojené království",
+    "tr": "Birleşik Krallık"
   },
   {
     "id": "ua",
@@ -41233,7 +41969,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Ucraina",
     "lt": "Ukraina",
     "uk": "Україна",
-    "cs": "Ukrajina"
+    "cs": "Ukrajina",
+    "tr": "Ukrayna"
   },
   {
     "id": "ch",
@@ -41250,7 +41987,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Elveția",
     "lt": "Šveicarija",
     "uk": "Швейцарія",
-    "cs": "Švýcarsko"
+    "cs": "Švýcarsko",
+    "tr": "İsviçre"
   },
   {
     "id": "se",
@@ -41267,7 +42005,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Suedia",
     "lt": "Švedija",
     "uk": "Швеція",
-    "cs": "Švédsko"
+    "cs": "Švédsko",
+    "tr": "İsveç"
   },
   {
     "id": "es",
@@ -41284,7 +42023,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Spania",
     "lt": "Ispanija",
     "uk": "Іспанія",
-    "cs": "Španělsko"
+    "cs": "Španělsko",
+    "tr": "İspanya"
   },
   {
     "id": "sk",
@@ -41301,7 +42041,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Slovacia",
     "lt": "Slovakija",
     "uk": "Словаччина",
-    "cs": "Slovensko"
+    "cs": "Slovensko",
+    "tr": "Slovakya"
   },
   {
     "id": "si",
@@ -41318,7 +42059,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Slovenia",
     "lt": "Slovėnija",
     "uk": "Словенія",
-    "cs": "Slovinsko"
+    "cs": "Slovinsko",
+    "tr": "Slovenya"
   },
   {
     "id": "rs",
@@ -41335,7 +42077,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Serbia",
     "lt": "Serbija",
     "uk": "Сербія",
-    "cs": "Srbsko"
+    "cs": "Srbsko",
+    "tr": "Sırbistan"
   },
   {
     "id": "sm",
@@ -41352,7 +42095,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "San Marino",
     "lt": "San Marinas",
     "uk": "Сан-Марино",
-    "cs": "San Marino"
+    "cs": "San Marino",
+    "tr": "San Marino"
   },
   {
     "id": "ru",
@@ -41369,7 +42113,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Rusia",
     "lt": "Rusija",
     "uk": "Росія",
-    "cs": "Rusko"
+    "cs": "Rusko",
+    "tr": "Rusya"
   },
   {
     "id": "ro",
@@ -41386,7 +42131,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "România",
     "lt": "Rumunija",
     "uk": "Румунія",
-    "cs": "Rumunsko"
+    "cs": "Rumunsko",
+    "tr": "Romanya"
   },
   {
     "id": "pt",
@@ -41403,7 +42149,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Portugalia",
     "lt": "Portugalija",
     "uk": "Португалія",
-    "cs": "Portugalsko"
+    "cs": "Portugalsko",
+    "tr": "Portekiz"
   },
   {
     "id": "pl",
@@ -41420,7 +42167,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Polonia",
     "lt": "Lenkija",
     "uk": "Польща",
-    "cs": "Polsko"
+    "cs": "Polsko",
+    "tr": "Polonya"
   },
   {
     "id": "no",
@@ -41437,7 +42185,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Norvegia",
     "lt": "Norvegija",
     "uk": "Норвегія",
-    "cs": "Norsko"
+    "cs": "Norsko",
+    "tr": "Norveç"
   },
   {
     "id": "nl",
@@ -41454,7 +42203,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Țările de Jos",
     "lt": "Nyderlandai",
     "uk": "Нідерланди",
-    "cs": "Nizozemsko"
+    "cs": "Nizozemsko",
+    "tr": "Hollanda"
   },
   {
     "id": "me",
@@ -41471,7 +42221,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Muntenegru",
     "lt": "Juodkalnija",
     "uk": "Чорногорія",
-    "cs": "Černá Hora"
+    "cs": "Černá Hora",
+    "tr": "Karadağ"
   },
   {
     "id": "md",
@@ -41488,7 +42239,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Moldova",
     "lt": "Moldova",
     "uk": "Молдова",
-    "cs": "Moldavsko"
+    "cs": "Moldavsko",
+    "tr": "Moldova"
   },
   {
     "id": "mc",
@@ -41505,7 +42257,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Monaco",
     "lt": "Monakas",
     "uk": "Монако",
-    "cs": "Monako"
+    "cs": "Monako",
+    "tr": "Monako"
   },
   {
     "id": "mt",
@@ -41522,7 +42275,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Malta",
     "lt": "Malta",
     "uk": "Мальта",
-    "cs": "Malta"
+    "cs": "Malta",
+    "tr": "Malta"
   },
   {
     "id": "mk",
@@ -41539,7 +42293,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Macedonia de Nord",
     "lt": "Šiaurės Makedonija",
     "uk": "Північна Македонія",
-    "cs": "Severní Makedonie"
+    "cs": "Severní Makedonie",
+    "tr": "Kuzey Makedonya"
   },
   {
     "id": "lu",
@@ -41556,7 +42311,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Luxemburg",
     "lt": "Liuksemburgas",
     "uk": "Люксембург",
-    "cs": "Lucembursko"
+    "cs": "Lucembursko",
+    "tr": "Lüksemburg"
   },
   {
     "id": "lt",
@@ -41573,7 +42329,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Lituania",
     "lt": "Lietuva",
     "uk": "Литва",
-    "cs": "Litva"
+    "cs": "Litva",
+    "tr": "Litvanya"
   },
   {
     "id": "li",
@@ -41590,7 +42347,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Liechtenstein",
     "lt": "Lichtenšteinas",
     "uk": "Ліхтенштейн",
-    "cs": "Lichtenštejnsko"
+    "cs": "Lichtenštejnsko",
+    "tr": "Lihtenştayn"
   },
   {
     "id": "lv",
@@ -41607,7 +42365,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Letonia",
     "lt": "Latvija",
     "uk": "Латвія",
-    "cs": "Lotyšsko"
+    "cs": "Lotyšsko",
+    "tr": "Letonya"
   },
   {
     "id": "xk",
@@ -41624,7 +42383,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Kosovo",
     "lt": "Kosovas",
     "uk": "Косово",
-    "cs": "Kosovo"
+    "cs": "Kosovo",
+    "tr": "Kosova"
   },
   {
     "id": "it",
@@ -41641,7 +42401,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Italia",
     "lt": "Italija",
     "uk": "Італія",
-    "cs": "Itálie"
+    "cs": "Itálie",
+    "tr": "İtalya"
   },
   {
     "id": "ie",
@@ -41658,7 +42419,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Irlanda",
     "lt": "Airija",
     "uk": "Ірландія",
-    "cs": "Irsko"
+    "cs": "Irsko",
+    "tr": "İrlanda"
   },
   {
     "id": "is",
@@ -41675,7 +42437,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Islanda",
     "lt": "Islandija",
     "uk": "Ісландія",
-    "cs": "Island"
+    "cs": "Island",
+    "tr": "İzlanda"
   },
   {
     "id": "hu",
@@ -41692,7 +42455,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Ungaria",
     "lt": "Vengrija",
     "uk": "Угорщина",
-    "cs": "Maďarsko"
+    "cs": "Maďarsko",
+    "tr": "Macaristan"
   },
   {
     "id": "gr",
@@ -41709,7 +42473,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Grecia",
     "lt": "Graikija",
     "uk": "Греція",
-    "cs": "Řecko"
+    "cs": "Řecko",
+    "tr": "Yunanistan"
   },
   {
     "id": "de",
@@ -41726,7 +42491,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Germania",
     "lt": "Vokietija",
     "uk": "Німеччина",
-    "cs": "Německo"
+    "cs": "Německo",
+    "tr": "Almanya"
   },
   {
     "id": "fr",
@@ -41743,7 +42509,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Franța",
     "lt": "Prancūzija",
     "uk": "Франція",
-    "cs": "Francie"
+    "cs": "Francie",
+    "tr": "Fransa"
   },
   {
     "id": "fi",
@@ -41760,7 +42527,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Finlanda",
     "lt": "Suomija",
     "uk": "Фінляндія",
-    "cs": "Finsko"
+    "cs": "Finsko",
+    "tr": "Finlandiya"
   },
   {
     "id": "ee",
@@ -41777,7 +42545,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Estonia",
     "lt": "Estija",
     "uk": "Естонія",
-    "cs": "Estonsko"
+    "cs": "Estonsko",
+    "tr": "Estonya"
   },
   {
     "id": "dk",
@@ -41794,7 +42563,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Danemarca",
     "lt": "Danija",
     "uk": "Данія",
-    "cs": "Dánsko"
+    "cs": "Dánsko",
+    "tr": "Danimarka"
   },
   {
     "id": "cz",
@@ -41811,7 +42581,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Cehia",
     "lt": "Čekija",
     "uk": "Чехія",
-    "cs": "Česko"
+    "cs": "Česko",
+    "tr": "Çekya"
   },
   {
     "id": "hr",
@@ -41828,7 +42599,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Croația",
     "lt": "Kroatija",
     "uk": "Хорватія",
-    "cs": "Chorvatsko"
+    "cs": "Chorvatsko",
+    "tr": "Hırvatistan"
   },
   {
     "id": "bg",
@@ -41845,7 +42617,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Bulgaria",
     "lt": "Bulgarija",
     "uk": "Болгарія",
-    "cs": "Bulharsko"
+    "cs": "Bulharsko",
+    "tr": "Bulgaristan"
   },
   {
     "id": "ba",
@@ -41862,7 +42635,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Bosnia și Herțegovina",
     "lt": "Bosnija ir Hercegovina",
     "uk": "Боснія і Герцеговина",
-    "cs": "Bosna a Hercegovina"
+    "cs": "Bosna a Hercegovina",
+    "tr": "Bosna-Hersek"
   },
   {
     "id": "be",
@@ -41879,7 +42653,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Belgia",
     "lt": "Belgija",
     "uk": "Бельгія",
-    "cs": "Belgie"
+    "cs": "Belgie",
+    "tr": "Belçika"
   },
   {
     "id": "by",
@@ -41896,7 +42671,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Belarus",
     "lt": "Baltarusija",
     "uk": "Білорусь",
-    "cs": "Bělorusko"
+    "cs": "Bělorusko",
+    "tr": "Belarus"
   },
   {
     "id": "at",
@@ -41913,7 +42689,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Austria",
     "lt": "Austrija",
     "uk": "Австрія",
-    "cs": "Rakousko"
+    "cs": "Rakousko",
+    "tr": "Avusturya"
   },
   {
     "id": "ad",
@@ -41930,7 +42707,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Andorra",
     "lt": "Andora",
     "uk": "Андорра",
-    "cs": "Andorra"
+    "cs": "Andorra",
+    "tr": "Andorra"
   },
   {
     "id": "al",
@@ -41947,7 +42725,8 @@ window.QM_COUNTRIES_EUROPE_DATA = [
     "ro": "Albania",
     "lt": "Albanija",
     "uk": "Албанія",
-    "cs": "Albánie"
+    "cs": "Albánie",
+    "tr": "Arnavutluk"
   }
 ];
 window.QM_COUNTRIES_NAMERICA_DATA = [
@@ -41966,7 +42745,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Statele Unite ale Americii",
     "lt": "Jungtinės Amerikos Valstijos",
     "uk": "Сполучені Штати Америки",
-    "cs": "Spojené státy americké"
+    "cs": "Spojené státy americké",
+    "tr": "Amerika Birleşik Devletleri"
   },
   {
     "id": "tt",
@@ -41983,7 +42763,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Trinidad și Tobago",
     "lt": "Trinidadas ir Tobagas",
     "uk": "Тринідад і Тобаго",
-    "cs": "Trinidad a Tobago"
+    "cs": "Trinidad a Tobago",
+    "tr": "Trinidad ve Tobago"
   },
   {
     "id": "vc",
@@ -42000,7 +42781,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Saint Vincent și Grenadinele",
     "lt": "Sent Vinsentas ir Grenadinai",
     "uk": "Сент-Вінсент і Гренадини",
-    "cs": "Svatý Vincenc a Grenadiny"
+    "cs": "Svatý Vincenc a Grenadiny",
+    "tr": "Saint Vincent ve Grenadinler"
   },
   {
     "id": "lc",
@@ -42017,7 +42799,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Sfânta Lucia",
     "lt": "Sent Lusija",
     "uk": "Сент-Люсія",
-    "cs": "Svatá Lucie"
+    "cs": "Svatá Lucie",
+    "tr": "Saint Lucia"
   },
   {
     "id": "kn",
@@ -42034,7 +42817,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Saint Kitts și Nevis",
     "lt": "Sent Kitsas ir Nevis",
     "uk": "Сент-Кіттс і Невіс",
-    "cs": "Svatý Kryštof a Nevis"
+    "cs": "Svatý Kryštof a Nevis",
+    "tr": "Saint Kitts ve Nevis"
   },
   {
     "id": "pa",
@@ -42051,7 +42835,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Panama",
     "lt": "Panama",
     "uk": "Панама",
-    "cs": "Panama"
+    "cs": "Panama",
+    "tr": "Panama"
   },
   {
     "id": "ni",
@@ -42068,7 +42853,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Nicaragua",
     "lt": "Nikaragva",
     "uk": "Нікарагуа",
-    "cs": "Nikaragua"
+    "cs": "Nikaragua",
+    "tr": "Nikaragua"
   },
   {
     "id": "mx",
@@ -42085,7 +42871,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Mexic",
     "lt": "Meksika",
     "uk": "Мексика",
-    "cs": "Mexiko"
+    "cs": "Mexiko",
+    "tr": "Meksika"
   },
   {
     "id": "jm",
@@ -42102,7 +42889,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Jamaica",
     "lt": "Jamaika",
     "uk": "Ямайка",
-    "cs": "Jamajka"
+    "cs": "Jamajka",
+    "tr": "Jamaika"
   },
   {
     "id": "hn",
@@ -42119,7 +42907,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Honduras",
     "lt": "Hondūras",
     "uk": "Гондурас",
-    "cs": "Honduras"
+    "cs": "Honduras",
+    "tr": "Honduras"
   },
   {
     "id": "ht",
@@ -42136,7 +42925,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Haiti",
     "lt": "Haitis",
     "uk": "Гаїті",
-    "cs": "Haiti"
+    "cs": "Haiti",
+    "tr": "Haiti"
   },
   {
     "id": "gt",
@@ -42153,7 +42943,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Guatemala",
     "lt": "Gvatemala",
     "uk": "Гватемала",
-    "cs": "Guatemala"
+    "cs": "Guatemala",
+    "tr": "Guatemala"
   },
   {
     "id": "gd",
@@ -42170,7 +42961,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Grenada",
     "lt": "Grenada",
     "uk": "Гренада",
-    "cs": "Grenada"
+    "cs": "Grenada",
+    "tr": "Grenada"
   },
   {
     "id": "sv",
@@ -42187,7 +42979,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "El Salvador",
     "lt": "Salvadoras",
     "uk": "Сальвадор",
-    "cs": "Salvádor"
+    "cs": "Salvádor",
+    "tr": "El Salvador"
   },
   {
     "id": "do",
@@ -42204,7 +42997,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Republica Dominicană",
     "lt": "Dominikos Respublika",
     "uk": "Домініканська Республіка",
-    "cs": "Dominikánská republika"
+    "cs": "Dominikánská republika",
+    "tr": "Dominik Cumhuriyeti"
   },
   {
     "id": "dm",
@@ -42221,7 +43015,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Dominica",
     "lt": "Dominika",
     "uk": "Домініка",
-    "cs": "Dominika"
+    "cs": "Dominika",
+    "tr": "Dominika"
   },
   {
     "id": "cu",
@@ -42238,7 +43033,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Cuba",
     "lt": "Kuba",
     "uk": "Куба",
-    "cs": "Kuba"
+    "cs": "Kuba",
+    "tr": "Küba"
   },
   {
     "id": "cr",
@@ -42255,7 +43051,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Costa Rica",
     "lt": "Kosta Rika",
     "uk": "Коста-Рика",
-    "cs": "Kostarika"
+    "cs": "Kostarika",
+    "tr": "Kosta Rika"
   },
   {
     "id": "ca",
@@ -42272,7 +43069,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Canada",
     "lt": "Kanada",
     "uk": "Канада",
-    "cs": "Kanada"
+    "cs": "Kanada",
+    "tr": "Kanada"
   },
   {
     "id": "bz",
@@ -42289,7 +43087,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Belize",
     "lt": "Belizas",
     "uk": "Беліз",
-    "cs": "Belize"
+    "cs": "Belize",
+    "tr": "Belize"
   },
   {
     "id": "bb",
@@ -42306,7 +43105,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Barbados",
     "lt": "Barbadosas",
     "uk": "Барбадос",
-    "cs": "Barbados"
+    "cs": "Barbados",
+    "tr": "Barbados"
   },
   {
     "id": "bs",
@@ -42323,7 +43123,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Bahamas",
     "lt": "Bahamos",
     "uk": "Багами",
-    "cs": "Bahamy"
+    "cs": "Bahamy",
+    "tr": "Bahamalar"
   },
   {
     "id": "ag",
@@ -42340,7 +43141,8 @@ window.QM_COUNTRIES_NAMERICA_DATA = [
     "ro": "Antigua și Barbuda",
     "lt": "Antigva ir Barbuda",
     "uk": "Антигуа і Барбуда",
-    "cs": "Antigua a Barbuda"
+    "cs": "Antigua a Barbuda",
+    "tr": "Antigua ve Barbuda"
   }
 ];
 window.QM_COUNTRIES_SAMERICA_DATA = [
@@ -42359,7 +43161,8 @@ window.QM_COUNTRIES_SAMERICA_DATA = [
     "ro": "Venezuela",
     "lt": "Venesuela",
     "uk": "Венесуела",
-    "cs": "Venezuela"
+    "cs": "Venezuela",
+    "tr": "Venezuela"
   },
   {
     "id": "uy",
@@ -42376,7 +43179,8 @@ window.QM_COUNTRIES_SAMERICA_DATA = [
     "ro": "Uruguay",
     "lt": "Urugvajus",
     "uk": "Уругвай",
-    "cs": "Uruguay"
+    "cs": "Uruguay",
+    "tr": "Uruguay"
   },
   {
     "id": "sr",
@@ -42393,7 +43197,8 @@ window.QM_COUNTRIES_SAMERICA_DATA = [
     "ro": "Surinam",
     "lt": "Surinamas",
     "uk": "Суринам",
-    "cs": "Surinam"
+    "cs": "Surinam",
+    "tr": "Surinam"
   },
   {
     "id": "pe",
@@ -42410,7 +43215,8 @@ window.QM_COUNTRIES_SAMERICA_DATA = [
     "ro": "Peru",
     "lt": "Peru",
     "uk": "Перу",
-    "cs": "Peru"
+    "cs": "Peru",
+    "tr": "Peru"
   },
   {
     "id": "py",
@@ -42427,7 +43233,8 @@ window.QM_COUNTRIES_SAMERICA_DATA = [
     "ro": "Paraguay",
     "lt": "Paragvajus",
     "uk": "Парагвай",
-    "cs": "Paraguay"
+    "cs": "Paraguay",
+    "tr": "Paraguay"
   },
   {
     "id": "gy",
@@ -42444,7 +43251,8 @@ window.QM_COUNTRIES_SAMERICA_DATA = [
     "ro": "Guyana",
     "lt": "Gajana",
     "uk": "Гаяна",
-    "cs": "Guyana"
+    "cs": "Guyana",
+    "tr": "Guyana"
   },
   {
     "id": "ec",
@@ -42461,7 +43269,8 @@ window.QM_COUNTRIES_SAMERICA_DATA = [
     "ro": "Ecuador",
     "lt": "Ekvadoras",
     "uk": "Еквадор",
-    "cs": "Ekvádor"
+    "cs": "Ekvádor",
+    "tr": "Ekvador"
   },
   {
     "id": "co",
@@ -42478,7 +43287,8 @@ window.QM_COUNTRIES_SAMERICA_DATA = [
     "ro": "Columbia",
     "lt": "Kolumbija",
     "uk": "Колумбія",
-    "cs": "Kolumbie"
+    "cs": "Kolumbie",
+    "tr": "Kolombiya"
   },
   {
     "id": "cl",
@@ -42495,7 +43305,8 @@ window.QM_COUNTRIES_SAMERICA_DATA = [
     "ro": "Chile",
     "lt": "Čilė",
     "uk": "Чилі",
-    "cs": "Chile"
+    "cs": "Chile",
+    "tr": "Şili"
   },
   {
     "id": "br",
@@ -42512,7 +43323,8 @@ window.QM_COUNTRIES_SAMERICA_DATA = [
     "ro": "Brazilia",
     "lt": "Brazilija",
     "uk": "Бразилія",
-    "cs": "Brazílie"
+    "cs": "Brazílie",
+    "tr": "Brezilya"
   },
   {
     "id": "bo",
@@ -42529,7 +43341,8 @@ window.QM_COUNTRIES_SAMERICA_DATA = [
     "ro": "Bolivia",
     "lt": "Bolivija",
     "uk": "Болівія",
-    "cs": "Bolívie"
+    "cs": "Bolívie",
+    "tr": "Bolivya"
   },
   {
     "id": "ar",
@@ -42546,7 +43359,8 @@ window.QM_COUNTRIES_SAMERICA_DATA = [
     "ro": "Argentina",
     "lt": "Argentina",
     "uk": "Аргентина",
-    "cs": "Argentina"
+    "cs": "Argentina",
+    "tr": "Arjantin"
   }
 ];
 window.QM_COUNTRIES_OCEANIA_DATA = [
@@ -42565,7 +43379,8 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
     "ro": "Vanuatu",
     "lt": "Vanuatu",
     "uk": "Вануату",
-    "cs": "Vanuatu"
+    "cs": "Vanuatu",
+    "tr": "Vanuatu"
   },
   {
     "id": "fm",
@@ -42582,7 +43397,8 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
     "ro": "Micronezia",
     "lt": "Mikronezija",
     "uk": "Мікронезія",
-    "cs": "Mikronésie"
+    "cs": "Mikronésie",
+    "tr": "Mikronezya"
   },
   {
     "id": "mh",
@@ -42599,7 +43415,8 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
     "ro": "Insulele Marshall",
     "lt": "Maršalo Salos",
     "uk": "Маршалові острови",
-    "cs": "Marshallovy ostrovy"
+    "cs": "Marshallovy ostrovy",
+    "tr": "Marshall Adaları"
   },
   {
     "id": "to",
@@ -42616,7 +43433,8 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
     "ro": "Tonga",
     "lt": "Tonga",
     "uk": "Тонга",
-    "cs": "Tonga"
+    "cs": "Tonga",
+    "tr": "Tonga"
   },
   {
     "id": "sb",
@@ -42633,7 +43451,8 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
     "ro": "Insulele Solomon",
     "lt": "Saliamono Salos",
     "uk": "Соломонові острови",
-    "cs": "Šalamounovy ostrovy"
+    "cs": "Šalamounovy ostrovy",
+    "tr": "Solomon Adaları"
   },
   {
     "id": "ws",
@@ -42650,7 +43469,8 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
     "ro": "Samoa",
     "lt": "Samoa",
     "cs": "Samoa",
-    "uk": "Самоа"
+    "uk": "Самоа",
+    "tr": "Samoa"
   },
   {
     "id": "pg",
@@ -42667,7 +43487,8 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
     "ro": "Papua Noua Guinee",
     "lt": "Papua Naujoji Gvinėja",
     "uk": "Папуа-Нова Гвінея",
-    "cs": "Papua-Nová Guinea"
+    "cs": "Papua-Nová Guinea",
+    "tr": "Papua Yeni Gine"
   },
   {
     "id": "pw",
@@ -42684,7 +43505,8 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
     "ro": "Palau",
     "lt": "Palau",
     "cs": "Palau",
-    "uk": "Палау"
+    "uk": "Палау",
+    "tr": "Palau"
   },
   {
     "id": "nz",
@@ -42701,7 +43523,8 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
     "ro": "Noua Zeelandă",
     "lt": "Naujoji Zelandija",
     "uk": "Нова Зеландія",
-    "cs": "Nový Zéland"
+    "cs": "Nový Zéland",
+    "tr": "Yeni Zelanda"
   },
   {
     "id": "nr",
@@ -42718,7 +43541,8 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
     "ro": "Nauru",
     "lt": "Nauru",
     "uk": "Науру",
-    "cs": "Nauru"
+    "cs": "Nauru",
+    "tr": "Nauru"
   },
   {
     "id": "ki",
@@ -42735,7 +43559,8 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
     "ro": "Kiribati",
     "lt": "Kiribatis",
     "uk": "Кірибаті",
-    "cs": "Kiribati"
+    "cs": "Kiribati",
+    "tr": "Kiribati"
   },
   {
     "id": "fj",
@@ -42752,7 +43577,8 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
     "ro": "Fiji",
     "lt": "Fidžis",
     "uk": "Фіджі",
-    "cs": "Fidži"
+    "cs": "Fidži",
+    "tr": "Fiji"
   },
   {
     "id": "au",
@@ -42769,7 +43595,8 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
     "ro": "Australia",
     "lt": "Australija",
     "uk": "Австралія",
-    "cs": "Austrálie"
+    "cs": "Austrálie",
+    "tr": "Avustralya"
   },
   {
     "id": "tv",
@@ -42786,7 +43613,8 @@ window.QM_COUNTRIES_OCEANIA_DATA = [
     "ro": "Tuvalu",
     "lt": "Tuvalu",
     "uk": "Тувалу",
-    "cs": "Tuvalu"
+    "cs": "Tuvalu",
+    "tr": "Tuvalu"
   }
 ];
 window.QM_NATO_DATA = [
@@ -50476,7 +51304,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "roșu",
     "lt": "raudona",
     "uk": "червоний",
-    "cs": "červený"
+    "cs": "červený",
+    "tr": "kırmızı"
   },
   {
     "id": "orange_color",
@@ -50496,7 +51325,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "portocaliu",
     "lt": "oranžinė",
     "uk": "помаранчевий",
-    "cs": "oranžový"
+    "cs": "oranžový",
+    "tr": "turuncu"
   },
   {
     "id": "yellow",
@@ -50516,7 +51346,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "galben",
     "lt": "geltona",
     "uk": "жовтий",
-    "cs": "žlutý"
+    "cs": "žlutý",
+    "tr": "sarı"
   },
   {
     "id": "green",
@@ -50536,7 +51367,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "verde",
     "lt": "žalia",
     "uk": "зелений",
-    "cs": "zelený"
+    "cs": "zelený",
+    "tr": "yeşil"
   },
   {
     "id": "blue",
@@ -50556,7 +51388,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "albastru",
     "lt": "mėlyna",
     "uk": "синій",
-    "cs": "modrý"
+    "cs": "modrý",
+    "tr": "mavi"
   },
   {
     "id": "purple",
@@ -50576,7 +51409,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "mov",
     "lt": "violetinė",
     "uk": "фіолетовий",
-    "cs": "nachový"
+    "cs": "nachový",
+    "tr": "mor"
   },
   {
     "id": "pink",
@@ -50596,7 +51430,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "roz",
     "lt": "rožinė",
     "uk": "рожевий",
-    "cs": "růžový"
+    "cs": "růžový",
+    "tr": "pembe"
   },
   {
     "id": "brown",
@@ -50616,7 +51451,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "maro",
     "lt": "ruda",
     "uk": "коричневий",
-    "cs": "hnědý"
+    "cs": "hnědý",
+    "tr": "kahverengi"
   },
   {
     "id": "black",
@@ -50636,7 +51472,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "negru",
     "lt": "juoda",
     "uk": "чорний",
-    "cs": "černý"
+    "cs": "černý",
+    "tr": "siyah"
   },
   {
     "id": "white",
@@ -50656,7 +51493,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "alb",
     "lt": "balta",
     "uk": "білий",
-    "cs": "bílý"
+    "cs": "bílý",
+    "tr": "beyaz"
   },
   {
     "id": "grey",
@@ -50676,7 +51514,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "gri",
     "lt": "pilka",
     "uk": "сірий",
-    "cs": "šedý"
+    "cs": "šedý",
+    "tr": "gri"
   },
   {
     "id": "turquoise",
@@ -50696,7 +51535,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "turcoaz",
     "lt": "turkis",
     "uk": "бірюзовий",
-    "cs": "tyrkysový"
+    "cs": "tyrkysový",
+    "tr": "turkuaz"
   },
   {
     "id": "gold_color",
@@ -50716,7 +51556,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "auriu",
     "lt": "auksinė",
     "uk": "золотий",
-    "cs": "zlatý"
+    "cs": "zlatý",
+    "tr": "altın rengi"
   },
   {
     "id": "silver_color",
@@ -50736,7 +51577,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "argintiu",
     "lt": "sidabrinė",
     "uk": "срібний",
-    "cs": "stříbrný"
+    "cs": "stříbrný",
+    "tr": "gümüş rengi"
   },
   {
     "id": "beige",
@@ -50756,7 +51598,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "bej",
     "lt": "smėlinė",
     "uk": "бежевий",
-    "cs": "béžový"
+    "cs": "béžový",
+    "tr": "bej"
   },
   {
     "id": "navy",
@@ -50776,7 +51619,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "bleumarin",
     "lt": "tamsiai mėlyna",
     "uk": "темно-синій",
-    "cs": "tmavě modrý"
+    "cs": "tmavě modrý",
+    "tr": "lacivert"
   },
   {
     "id": "maroon",
@@ -50796,7 +51640,8 @@ window.QM_VOCAB_COLOURS_DATA = [
     "ro": "vișiniu",
     "lt": "kaštoninė",
     "uk": "бордовий",
-    "cs": "vínový"
+    "cs": "vínový",
+    "tr": "bordo"
   }
 ];
 window.QM_VOCAB_OCCUPATIONS_DATA = [
@@ -50815,7 +51660,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "bucătar",
     "lt": "virėjas",
     "uk": "шеф-кухар",
-    "cs": "šéfkuchař"
+    "cs": "šéfkuchař",
+    "tr": "aşçı"
   },
   {
     "id": "policeofficer",
@@ -50835,7 +51681,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "polițist",
     "lt": "policininkas",
     "uk": "поліцейський",
-    "cs": "policista"
+    "cs": "policista",
+    "tr": "polis memuru"
   },
   {
     "id": "firefighter",
@@ -50855,7 +51702,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "pompier",
     "lt": "ugniagesys",
     "uk": "пожежник",
-    "cs": "hasič"
+    "cs": "hasič",
+    "tr": "itfaiyeci"
   },
   {
     "id": "farmer",
@@ -50875,7 +51723,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "fermier",
     "lt": "ūkininkas",
     "uk": "Плужник",
-    "cs": "Sedlák"
+    "cs": "Sedlák",
+    "tr": "çiftçi"
   },
   {
     "id": "nurse",
@@ -50895,7 +51744,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "asistent medical",
     "lt": "slaugytojas",
     "uk": "няня",
-    "cs": "chůva"
+    "cs": "chůva",
+    "tr": "hemşire"
   },
   {
     "id": "mechanic",
@@ -50915,7 +51765,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "mecanic",
     "lt": "mechanikas",
     "uk": "механік",
-    "cs": "mechanik"
+    "cs": "mechanik",
+    "tr": "tamirci"
   },
   {
     "id": "pilot",
@@ -50935,7 +51786,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "pilot",
     "lt": "pilotas",
     "cs": "lodivod",
-    "uk": "пілот"
+    "uk": "пілот",
+    "tr": "pilot"
   },
   {
     "id": "waiter",
@@ -50955,7 +51807,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "chelner",
     "lt": "padavėjas",
     "uk": "офіціант",
-    "cs": "číšník"
+    "cs": "číšník",
+    "tr": "garson"
   },
   {
     "id": "hairdresser",
@@ -50975,7 +51828,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "coafor",
     "lt": "kirpėjas",
     "uk": "перукар",
-    "cs": "kadeřník"
+    "cs": "kadeřník",
+    "tr": "kuaför"
   },
   {
     "id": "dentist",
@@ -50995,7 +51849,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "dentist",
     "lt": "odontologas",
     "uk": "зубний лікар",
-    "cs": "zubař"
+    "cs": "zubař",
+    "tr": "diş hekimi"
   },
   {
     "id": "engineer",
@@ -51015,7 +51870,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "inginer",
     "lt": "inžinierius",
     "uk": "інженер",
-    "cs": "inženýr"
+    "cs": "inženýr",
+    "tr": "mühendis"
   },
   {
     "id": "artist",
@@ -51035,7 +51891,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "artist",
     "lt": "menininkas",
     "uk": "художник",
-    "cs": "umělec"
+    "cs": "umělec",
+    "tr": "sanatçı"
   },
   {
     "id": "scientist",
@@ -51055,7 +51912,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "om de știință",
     "lt": "mokslininkas",
     "uk": "вчений",
-    "cs": "vědec"
+    "cs": "vědec",
+    "tr": "bilim insanı"
   },
   {
     "id": "vet",
@@ -51075,7 +51933,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "veterinar",
     "lt": "veterinaras",
     "uk": "перевіряти",
-    "cs": "prověřit"
+    "cs": "prověřit",
+    "tr": "veteriner"
   },
   {
     "id": "soldier",
@@ -51095,7 +51954,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "soldat",
     "lt": "kareivis",
     "uk": "солдат",
-    "cs": "voják"
+    "cs": "voják",
+    "tr": "asker"
   },
   {
     "id": "judge",
@@ -51115,7 +51975,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "judecător",
     "lt": "teisėjas",
     "uk": "суддя",
-    "cs": "soudce"
+    "cs": "soudce",
+    "tr": "hâkim"
   },
   {
     "id": "baker",
@@ -51135,7 +51996,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "brutar",
     "lt": "kepėjas",
     "cs": "Pekař",
-    "uk": "пекар"
+    "uk": "пекар",
+    "tr": "fırıncı"
   },
   {
     "id": "fisherman",
@@ -51155,7 +52017,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "pescar",
     "lt": "žvejys",
     "uk": "рибалка",
-    "cs": "rybář"
+    "cs": "rybář",
+    "tr": "balıkçı"
   },
   {
     "id": "carpenter",
@@ -51175,7 +52038,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "tâmplar",
     "lt": "dailidė",
     "uk": "тесляр",
-    "cs": "tesař"
+    "cs": "tesař",
+    "tr": "marangoz"
   },
   {
     "id": "plumber",
@@ -51195,7 +52059,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "instalator",
     "lt": "santechnikas",
     "uk": "водопровідник",
-    "cs": "instalatér"
+    "cs": "instalatér",
+    "tr": "tesisatçı"
   },
   {
     "id": "electrician",
@@ -51215,7 +52080,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "electrician",
     "lt": "elektrikas",
     "uk": "електрик",
-    "cs": "elektrikář"
+    "cs": "elektrikář",
+    "tr": "elektrikçi"
   },
   {
     "id": "photographer",
@@ -51239,7 +52105,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "fotoğrafçı"
   },
   {
     "id": "astronaut",
@@ -51259,7 +52126,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "astronaut",
     "lt": "astronautas",
     "uk": "космонавт",
-    "cs": "kosmonaut"
+    "cs": "kosmonaut",
+    "tr": "astronot"
   },
   {
     "id": "architect",
@@ -51279,7 +52147,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "arhitect",
     "lt": "architektas",
     "uk": "архітектор",
-    "cs": "architekt"
+    "cs": "architekt",
+    "tr": "mimar"
   },
   {
     "id": "librarian",
@@ -51299,7 +52168,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "bibliotecar",
     "lt": "bibliotekininkas",
     "uk": "бібліотекар",
-    "cs": "knihovník"
+    "cs": "knihovník",
+    "tr": "kütüphaneci"
   },
   {
     "id": "priest",
@@ -51319,7 +52189,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "preot",
     "lt": "kunigas",
     "uk": "священик",
-    "cs": "kněz"
+    "cs": "kněz",
+    "tr": "rahip"
   },
   {
     "id": "nun",
@@ -51336,7 +52207,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "călugăriță",
     "lt": "vienuolė",
     "uk": "черниця",
-    "cs": "jeptiška"
+    "cs": "jeptiška",
+    "tr": "rahibe"
   },
   {
     "id": "cashier",
@@ -51356,7 +52228,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "casier",
     "lt": "kasininkas",
     "uk": "касир",
-    "cs": "pokladní"
+    "cs": "pokladní",
+    "tr": "kasiyer"
   },
   {
     "id": "musician",
@@ -51376,7 +52249,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "muzician",
     "lt": "muzikantas",
     "uk": "музикант",
-    "cs": "hudebník"
+    "cs": "hudebník",
+    "tr": "müzisyen"
   },
   {
     "id": "dj",
@@ -51396,7 +52270,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "DJ",
     "lt": "didžėjus",
     "uk": "діджей",
-    "cs": "dýdžej"
+    "cs": "dýdžej",
+    "tr": "DJ"
   },
   {
     "id": "journalist",
@@ -51416,7 +52291,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "jurnalist",
     "lt": "žurnalistas",
     "uk": "журналіст",
-    "cs": "novinář"
+    "cs": "novinář",
+    "tr": "gazeteci"
   },
   {
     "id": "teacher",
@@ -51436,7 +52312,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "profesor",
     "lt": "mokytojas",
     "uk": "вчитель",
-    "cs": "učitel"
+    "cs": "učitel",
+    "tr": "öğretmen"
   },
   {
     "id": "busdriver",
@@ -51456,7 +52333,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "șofer de autobuz",
     "lt": "autobuso vairuotojas",
     "uk": "водій автобуса",
-    "cs": "řidič autobusu"
+    "cs": "řidič autobusu",
+    "tr": "otobüs şoförü"
   },
   {
     "id": "bartender",
@@ -51476,7 +52354,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "barman",
     "lt": "barmenas",
     "uk": "бармен",
-    "cs": "barman"
+    "cs": "barman",
+    "tr": "barmen"
   },
   {
     "id": "receptionist",
@@ -51496,7 +52375,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "recepționer",
     "lt": "administratorius",
     "cs": "recepční",
-    "uk": "адміністратор"
+    "uk": "адміністратор",
+    "tr": "resepsiyonist"
   },
   {
     "id": "tailor",
@@ -51516,7 +52396,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "croitor",
     "lt": "siuvėjas",
     "uk": "кравець",
-    "cs": "krejčí"
+    "cs": "krejčí",
+    "tr": "terzi"
   },
   {
     "id": "bricklayer",
@@ -51536,7 +52417,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "zidar",
     "lt": "mūrininkas",
     "uk": "каменяр",
-    "cs": "zedník"
+    "cs": "zedník",
+    "tr": "duvarcı"
   },
   {
     "id": "surgeon",
@@ -51553,7 +52435,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "chirurg",
     "lt": "chirurgas",
     "uk": "хірург",
-    "cs": "chirurg"
+    "cs": "chirurg",
+    "tr": "cerrah"
   },
   {
     "id": "secretary",
@@ -51570,7 +52453,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "secretar",
     "lt": "sekretorius",
     "uk": "секретар",
-    "cs": "sekretář"
+    "cs": "sekretář",
+    "tr": "sekreter"
   },
   {
     "id": "butcher",
@@ -51590,7 +52474,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "măcelar",
     "lt": "mėsininkas",
     "uk": "м'ясник",
-    "cs": "řezník"
+    "cs": "řezník",
+    "tr": "kasap"
   },
   {
     "id": "doctor",
@@ -51607,7 +52492,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "doctor",
     "lt": "gydytojas",
     "uk": "доктор",
-    "cs": "doktor"
+    "cs": "doktor",
+    "tr": "doktor"
   },
   {
     "id": "taxidriver",
@@ -51627,7 +52513,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "taximetrist",
     "lt": "taksi vairuotojas",
     "uk": "таксист",
-    "cs": "taxikář"
+    "cs": "taxikář",
+    "tr": "taksi şoförü"
   },
   {
     "id": "gardener",
@@ -51647,7 +52534,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "ro": "grădinar",
     "lt": "sodininkas",
     "uk": "садівник",
-    "cs": "zahradník"
+    "cs": "zahradník",
+    "tr": "bahçıvan"
   },
   {
     "id": "actor",
@@ -51671,7 +52559,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "aktör"
   },
   {
     "id": "socialworker",
@@ -51695,7 +52584,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "sosyal hizmet uzmanı"
   },
   {
     "id": "lawyer",
@@ -51719,7 +52609,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "avukat"
   },
   {
     "id": "pharmacist",
@@ -51743,7 +52634,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "eczacı"
   },
   {
     "id": "postman",
@@ -51767,7 +52659,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "postacı"
   },
   {
     "id": "shopassistant",
@@ -51791,7 +52684,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "tezgâhtar"
   },
   {
     "id": "cleaner",
@@ -51815,7 +52709,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "temizlikçi"
   },
   {
     "id": "accountant",
@@ -51839,7 +52734,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "muhasebeci"
   },
   {
     "id": "taxinspector",
@@ -51863,7 +52759,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "vergi müfettişi"
   },
   {
     "id": "careworker",
@@ -51887,7 +52784,8 @@ window.QM_VOCAB_OCCUPATIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "bakıcı"
   }
 ];
 window.QM_VOCAB_SPORTS_DATA = [
@@ -51909,7 +52807,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "fotbal",
     "lt": "futbolas",
     "uk": "футбол",
-    "cs": "fotbal"
+    "cs": "fotbal",
+    "tr": "futbol"
   },
   {
     "id": "basketballsport",
@@ -51929,7 +52828,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "baschet",
     "lt": "krepšinis",
     "uk": "баскетбол",
-    "cs": "basketbal"
+    "cs": "basketbal",
+    "tr": "basketbol"
   },
   {
     "id": "tennis",
@@ -51949,7 +52849,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "tenis",
     "lt": "tenisas",
     "uk": "теніс",
-    "cs": "tenis"
+    "cs": "tenis",
+    "tr": "tenis"
   },
   {
     "id": "swimming",
@@ -51969,7 +52870,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "înot",
     "lt": "plaukimas",
     "uk": "плавання",
-    "cs": "plavání"
+    "cs": "plavání",
+    "tr": "yüzme"
   },
   {
     "id": "volleyball",
@@ -51989,7 +52891,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "volei",
     "lt": "tinklinis",
     "uk": "волейбольний м’яч",
-    "cs": "volejbalový míč"
+    "cs": "volejbalový míč",
+    "tr": "voleybol"
   },
   {
     "id": "baseball",
@@ -52009,7 +52912,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "baseball",
     "lt": "beisbolas",
     "uk": "бейсбол",
-    "cs": "baseball"
+    "cs": "baseball",
+    "tr": "beyzbol"
   },
   {
     "id": "golf",
@@ -52029,7 +52933,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "golf",
     "lt": "golfas",
     "uk": "гольф",
-    "cs": "golf"
+    "cs": "golf",
+    "tr": "golf"
   },
   {
     "id": "boxing",
@@ -52049,7 +52954,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "box",
     "lt": "boksas",
     "uk": "бокс",
-    "cs": "box"
+    "cs": "box",
+    "tr": "boks"
   },
   {
     "id": "cycling",
@@ -52069,7 +52975,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "ciclism",
     "lt": "dviračių sportas",
     "cs": "cyklistika",
-    "uk": "велоспорт"
+    "uk": "велоспорт",
+    "tr": "bisiklet sürme"
   },
   {
     "id": "running",
@@ -52089,7 +52996,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "alergare",
     "lt": "bėgimas",
     "uk": "біг",
-    "cs": "běh"
+    "cs": "běh",
+    "tr": "koşu"
   },
   {
     "id": "skiing",
@@ -52109,7 +53017,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "schi",
     "lt": "slidinėjimas",
     "cs": "lyžování",
-    "uk": "лижний спорт"
+    "uk": "лижний спорт",
+    "tr": "kayak"
   },
   {
     "id": "surfing",
@@ -52129,7 +53038,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "surf",
     "lt": "banglenčių sportas",
     "uk": "серфінг",
-    "cs": "surfování"
+    "cs": "surfování",
+    "tr": "sörf"
   },
   {
     "id": "rugby",
@@ -52149,7 +53059,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "rugby",
     "lt": "regbis",
     "uk": "регбі",
-    "cs": "rugby"
+    "cs": "rugby",
+    "tr": "ragbi"
   },
   {
     "id": "cricket",
@@ -52169,7 +53080,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "cricket",
     "lt": "kriketas",
     "uk": "крикет",
-    "cs": "kriket"
+    "cs": "kriket",
+    "tr": "kriket"
   },
   {
     "id": "icehockey",
@@ -52189,7 +53101,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "hochei pe gheață",
     "lt": "ledo ritulys",
     "uk": "хокей",
-    "cs": "lední hokej"
+    "cs": "lední hokej",
+    "tr": "buz hokeyi"
   },
   {
     "id": "tabletennis",
@@ -52209,7 +53122,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "tenis de masă",
     "lt": "stalo tenisas",
     "uk": "настільний теніс",
-    "cs": "stolní tenis"
+    "cs": "stolní tenis",
+    "tr": "masa tenisi"
   },
   {
     "id": "badminton",
@@ -52229,7 +53143,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "badminton",
     "lt": "badmintonas",
     "uk": "бадмінтон",
-    "cs": "badminton"
+    "cs": "badminton",
+    "tr": "badminton"
   },
   {
     "id": "gymnastics",
@@ -52249,7 +53164,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "gimnastică",
     "lt": "gimnastika",
     "uk": "гімнастика",
-    "cs": "gymnastika"
+    "cs": "gymnastika",
+    "tr": "jimnastik"
   },
   {
     "id": "wrestling",
@@ -52269,7 +53185,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "lupte",
     "lt": "imtynės",
     "uk": "боротьба",
-    "cs": "zápas"
+    "cs": "zápas",
+    "tr": "güreş"
   },
   {
     "id": "archery",
@@ -52289,7 +53206,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "tir cu arcul",
     "lt": "šaudymas iš lanko",
     "uk": "стрільба з лука",
-    "cs": "lukostřelba"
+    "cs": "lukostřelba",
+    "tr": "okçuluk"
   },
   {
     "id": "rowing",
@@ -52309,7 +53227,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "canotaj",
     "lt": "irklavimas",
     "cs": "veslování",
-    "uk": "веслування"
+    "uk": "веслування",
+    "tr": "kürek"
   },
   {
     "id": "soccerball",
@@ -52329,7 +53248,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "minge de fotbal",
     "lt": "futbolo kamuolys",
     "uk": "футбольний м'яч",
-    "cs": "fotbalový míč"
+    "cs": "fotbalový míč",
+    "tr": "futbol topu"
   },
   {
     "id": "basketballhoop",
@@ -52346,7 +53266,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "coș de baschet",
     "lt": "krepšinio lankas",
     "uk": "баскетбольне кільце",
-    "cs": "basketbalový koš"
+    "cs": "basketbalový koš",
+    "tr": "basketbol potası"
   },
   {
     "id": "tennisracket",
@@ -52366,7 +53287,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "rachetă de tenis",
     "lt": "teniso raketė",
     "uk": "тенісна ракетка",
-    "cs": "tenisová raketa"
+    "cs": "tenisová raketa",
+    "tr": "tenis raketi"
   },
   {
     "id": "baseballbat",
@@ -52386,7 +53308,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "bâtă de baseball",
     "lt": "beisbolo lazda",
     "uk": "бейсбольна бита",
-    "cs": "baseballová pálka"
+    "cs": "baseballová pálka",
+    "tr": "beyzbol sopası"
   },
   {
     "id": "baseballglove",
@@ -52403,7 +53326,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "mănușă de baseball",
     "lt": "beisbolo pirštinė",
     "uk": "бейсбольна рукавиця",
-    "cs": "baseballová rukavice"
+    "cs": "baseballová rukavice",
+    "tr": "beyzbol eldiveni"
   },
   {
     "id": "golfclub",
@@ -52423,7 +53347,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "crosă de golf",
     "lt": "golfo lazda",
     "uk": "ключка для гольфу",
-    "cs": "golfová hůl"
+    "cs": "golfová hůl",
+    "tr": "golf sopası"
   },
   {
     "id": "boxinggloves",
@@ -52440,7 +53365,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "mănuși de box",
     "lt": "bokso pirštinės",
     "uk": "боксерські рукавиці",
-    "cs": "boxerské rukavice"
+    "cs": "boxerské rukavice",
+    "tr": "boks eldiveni"
   },
   {
     "id": "skis",
@@ -52460,7 +53386,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "schiuri",
     "lt": "slidės",
     "uk": "лижі",
-    "cs": "lyže"
+    "cs": "lyže",
+    "tr": "kayak takımı"
   },
   {
     "id": "surfboard",
@@ -52480,7 +53407,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "placă de surf",
     "lt": "banglentė",
     "cs": "surfovací prkno",
-    "uk": "дошка для серфінгу"
+    "uk": "дошка для серфінгу",
+    "tr": "sörf tahtası"
   },
   {
     "id": "iceskates",
@@ -52500,7 +53428,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "patine",
     "lt": "pačiūžos",
     "uk": "ковзани",
-    "cs": "brusle"
+    "cs": "brusle",
+    "tr": "buz pateni"
   },
   {
     "id": "whistle",
@@ -52517,7 +53446,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "fluier",
     "lt": "švilpukas",
     "uk": "свисток",
-    "cs": "píšťalka"
+    "cs": "píšťalka",
+    "tr": "düdük"
   },
   {
     "id": "trophy",
@@ -52534,7 +53464,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "trofeu",
     "lt": "taurė",
     "uk": "трофей",
-    "cs": "trofej"
+    "cs": "trofej",
+    "tr": "kupa"
   },
   {
     "id": "medal",
@@ -52554,7 +53485,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "medalie",
     "lt": "medalis",
     "uk": "медаль",
-    "cs": "medaile"
+    "cs": "medaile",
+    "tr": "madalya"
   },
   {
     "id": "dumbbell",
@@ -52571,7 +53503,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "gantere",
     "lt": "hantelis",
     "uk": "гантель",
-    "cs": "činka"
+    "cs": "činka",
+    "tr": "dambıl"
   },
   {
     "id": "treadmill",
@@ -52591,7 +53524,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "bandă de alergat",
     "lt": "bėgimo takelis",
     "uk": "бігова доріжка",
-    "cs": "běžecký pás"
+    "cs": "běžecký pás",
+    "tr": "koşu bandı"
   },
   {
     "id": "yogamat",
@@ -52611,7 +53545,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "saltea de yoga",
     "lt": "jogos kilimėlis",
     "uk": "килимок для йоги",
-    "cs": "podložka na jógu"
+    "cs": "podložka na jógu",
+    "tr": "yoga matı"
   },
   {
     "id": "swimminggoggles",
@@ -52631,7 +53566,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "ochelari de înot",
     "lt": "plaukimo akiniai",
     "uk": "окуляри для плавання",
-    "cs": "plavecké brýle"
+    "cs": "plavecké brýle",
+    "tr": "yüzücü gözlüğü"
   },
   {
     "id": "basketball",
@@ -52651,7 +53587,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "minge de baschet",
     "lt": "krepšinio kamuolys",
     "uk": "баскетбол",
-    "cs": "basketbal"
+    "cs": "basketbal",
+    "tr": "basket topu"
   },
   {
     "id": "helmet",
@@ -52671,7 +53608,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "cască",
     "lt": "šalmas",
     "uk": "шолом",
-    "cs": "helma"
+    "cs": "helma",
+    "tr": "kask"
   },
   {
     "id": "chess",
@@ -52688,7 +53626,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "șah",
     "lt": "šachmatai",
     "uk": "шахи",
-    "cs": "šachy"
+    "cs": "šachy",
+    "tr": "satranç"
   },
   {
     "id": "bowling",
@@ -52705,7 +53644,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "bowling",
     "lt": "boulingas",
     "uk": "боулінг",
-    "cs": "bowling"
+    "cs": "bowling",
+    "tr": "bowling"
   },
   {
     "id": "video-games",
@@ -52725,7 +53665,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "jocuri video",
     "lt": "vaizdo žaidimai",
     "uk": "відеоігри",
-    "cs": "videohry"
+    "cs": "videohry",
+    "tr": "video oyunları"
   },
   {
     "id": "darts",
@@ -52745,7 +53686,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "darts",
     "lt": "smiginis",
     "uk": "дартс",
-    "cs": "šipky"
+    "cs": "šipky",
+    "tr": "dart"
   },
   {
     "id": "pool",
@@ -52765,7 +53707,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "biliard",
     "lt": "biliardas",
     "uk": "більярд",
-    "cs": "kulečník"
+    "cs": "kulečník",
+    "tr": "bilardo"
   },
   {
     "id": "board-game",
@@ -52785,7 +53728,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "joc de societate",
     "lt": "stalo žaidimas",
     "uk": "настільна гра",
-    "cs": "desková hra"
+    "cs": "desková hra",
+    "tr": "kutu oyunu"
   },
   {
     "id": "playing-cards",
@@ -52805,7 +53749,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "cărți de joc",
     "lt": "žaidimo kortos",
     "uk": "гральні карти",
-    "cs": "hrací karty"
+    "cs": "hrací karty",
+    "tr": "oyun kâğıtları"
   },
   {
     "id": "dominoes",
@@ -52825,7 +53770,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "domino",
     "lt": "domino",
     "uk": "доміно",
-    "cs": "domino"
+    "cs": "domino",
+    "tr": "domino"
   },
   {
     "id": "dice",
@@ -52845,7 +53791,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "zaruri",
     "lt": "kauliukai",
     "uk": "гральні кості",
-    "cs": "hrací kostky"
+    "cs": "hrací kostky",
+    "tr": "zar"
   },
   {
     "id": "jigsaw-puzzle",
@@ -52865,7 +53812,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "puzzle",
     "lt": "dėlionė",
     "uk": "пазл",
-    "cs": "puzzle"
+    "cs": "puzzle",
+    "tr": "yapboz"
   },
   {
     "id": "poker",
@@ -52882,7 +53830,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "poker",
     "lt": "pokeris",
     "uk": "покер",
-    "cs": "poker"
+    "cs": "poker",
+    "tr": "poker"
   },
   {
     "id": "bowls",
@@ -52899,7 +53848,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "petancă",
     "lt": "petankė",
     "uk": "боулз",
-    "cs": "bowls"
+    "cs": "bowls",
+    "tr": "çim bowlingu"
   },
   {
     "id": "backgammon",
@@ -52919,7 +53869,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "table",
     "lt": "nardai",
     "uk": "нарди",
-    "cs": "vrhcáby"
+    "cs": "vrhcáby",
+    "tr": "tavla"
   },
   {
     "id": "draughts",
@@ -52939,7 +53890,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "dame",
     "lt": "šaškės",
     "uk": "шашки",
-    "cs": "dáma"
+    "cs": "dáma",
+    "tr": "dama"
   },
   {
     "id": "table-football",
@@ -52956,7 +53908,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "fotbal de masă",
     "lt": "stalo futbolas",
     "uk": "настільний футбол",
-    "cs": "stolní fotbal"
+    "cs": "stolní fotbal",
+    "tr": "langırt"
   },
   {
     "id": "pinball",
@@ -52973,7 +53926,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "flipper",
     "lt": "pinbolas",
     "uk": "пінбол",
-    "cs": "pinball"
+    "cs": "pinball",
+    "tr": "pinball"
   },
   {
     "id": "snooker",
@@ -52993,7 +53947,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "snooker",
     "lt": "snukeris",
     "uk": "снукер",
-    "cs": "kulečník"
+    "cs": "kulečník",
+    "tr": "snuker"
   },
   {
     "id": "role-playing-game",
@@ -53010,7 +53965,8 @@ window.QM_VOCAB_SPORTS_DATA = [
     "ro": "joc de rol",
     "lt": "vaidmenų žaidimas",
     "uk": "рольова гра",
-    "cs": "hra na hrdiny"
+    "cs": "hra na hrdiny",
+    "tr": "rol yapma oyunu"
   }
 ];
 window.QM_VOCAB_HOBBIES_DATA = [
@@ -53029,7 +53985,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "artă topiară",
     "lt": "figūrinis karpymas",
     "cs": "tvarování keřů",
-    "uk": "фігурна стрижка кущів"
+    "uk": "фігурна стрижка кущів",
+    "tr": "süs budama"
   },
   {
     "id": "gardening",
@@ -53049,7 +54006,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "grădinărit",
     "lt": "sodininkystė",
     "uk": "садівництво",
-    "cs": "zahradnictví"
+    "cs": "zahradnictví",
+    "tr": "bahçecilik"
   },
   {
     "id": "knitting",
@@ -53069,7 +54027,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "tricotat",
     "lt": "mezgimas",
     "cs": "pletení",
-    "uk": "в'язання"
+    "uk": "в'язання",
+    "tr": "örgü örme"
   },
   {
     "id": "beekeeping",
@@ -53089,7 +54048,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "apicultură",
     "lt": "bitininkystė",
     "uk": "бджільництво",
-    "cs": "včelaření"
+    "cs": "včelaření",
+    "tr": "arıcılık"
   },
   {
     "id": "stamp-collecting",
@@ -53109,7 +54069,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "filatelie",
     "lt": "filatelija",
     "uk": "філателія",
-    "cs": "filatelie"
+    "cs": "filatelie",
+    "tr": "pul koleksiyonculuğu"
   },
   {
     "id": "photography",
@@ -53129,7 +54090,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "fotografie",
     "lt": "fotografija",
     "uk": "фотографія",
-    "cs": "fotografie"
+    "cs": "fotografie",
+    "tr": "fotoğrafçılık"
   },
   {
     "id": "fishing",
@@ -53149,7 +54111,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "pescuit",
     "lt": "žvejyba",
     "uk": "риболовля",
-    "cs": "rybaření"
+    "cs": "rybaření",
+    "tr": "balık tutma"
   },
   {
     "id": "painting",
@@ -53169,7 +54132,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "pictură",
     "lt": "tapyba",
     "uk": "живопис",
-    "cs": "malování"
+    "cs": "malování",
+    "tr": "resim yapma"
   },
   {
     "id": "pottery",
@@ -53189,7 +54153,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "olărit",
     "lt": "keramika",
     "uk": "гончарство",
-    "cs": "hrnčířství"
+    "cs": "hrnčířství",
+    "tr": "çömlekçilik"
   },
   {
     "id": "sewing",
@@ -53209,7 +54174,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "cusut",
     "lt": "siuvimas",
     "uk": "шиття",
-    "cs": "šití"
+    "cs": "šití",
+    "tr": "dikiş dikme"
   },
   {
     "id": "woodworking",
@@ -53229,7 +54195,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "prelucrarea lemnului",
     "lt": "medžio apdirbimas",
     "uk": "столярство",
-    "cs": "truhlářství"
+    "cs": "truhlářství",
+    "tr": "ahşap işçiliği"
   },
   {
     "id": "baking",
@@ -53249,7 +54216,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "copt",
     "lt": "kepimas",
     "uk": "випікання",
-    "cs": "pečení"
+    "cs": "pečení",
+    "tr": "hamur işi yapma"
   },
   {
     "id": "hiking",
@@ -53269,7 +54237,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "drumeție",
     "lt": "žygiai",
     "uk": "піші походи",
-    "cs": "turistika"
+    "cs": "turistika",
+    "tr": "doğa yürüyüşü"
   },
   {
     "id": "camping",
@@ -53289,7 +54258,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "camping",
     "lt": "stovyklavimas",
     "uk": "кемпінг",
-    "cs": "kempování"
+    "cs": "kempování",
+    "tr": "kamp yapma"
   },
   {
     "id": "birdwatching",
@@ -53309,7 +54279,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "observarea păsărilor",
     "lt": "paukščių stebėjimas",
     "uk": "спостереження за птахами",
-    "cs": "pozorování ptáků"
+    "cs": "pozorování ptáků",
+    "tr": "kuş gözlemciliği"
   },
   {
     "id": "astronomy",
@@ -53326,7 +54297,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "astronomie",
     "lt": "astronomija",
     "uk": "астрономія",
-    "cs": "hvězdářství"
+    "cs": "hvězdářství",
+    "tr": "astronomi"
   },
   {
     "id": "calligraphy",
@@ -53343,7 +54315,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "caligrafie",
     "lt": "kaligrafija",
     "uk": "каліграфія",
-    "cs": "kaligrafie"
+    "cs": "kaligrafie",
+    "tr": "hat sanatı"
   },
   {
     "id": "origami",
@@ -53363,7 +54336,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "origami",
     "lt": "origamis",
     "uk": "оріґамі",
-    "cs": "origami"
+    "cs": "origami",
+    "tr": "origami"
   },
   {
     "id": "coin-collecting",
@@ -53383,7 +54357,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "numismatică",
     "lt": "numizmatika",
     "uk": "нумізматика",
-    "cs": "numismatika"
+    "cs": "numismatika",
+    "tr": "madeni para koleksiyonculuğu"
   },
   {
     "id": "crochet",
@@ -53403,7 +54378,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "croșetat",
     "lt": "nėrimas",
     "uk": "в'язання гачком",
-    "cs": "háčkování"
+    "cs": "háčkování",
+    "tr": "tığ işi"
   },
   {
     "id": "model-building",
@@ -53423,7 +54399,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "modelism",
     "lt": "modeliavimas",
     "uk": "моделювання",
-    "cs": "modelářství"
+    "cs": "modelářství",
+    "tr": "maket yapımı"
   },
   {
     "id": "juggling",
@@ -53440,7 +54417,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "jonglerie",
     "lt": "žongliravimas",
     "uk": "жонглювання",
-    "cs": "žonglování"
+    "cs": "žonglování",
+    "tr": "hokkabazlık"
   },
   {
     "id": "drawing",
@@ -53457,7 +54435,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "ro": "desen",
     "lt": "piešimas",
     "uk": "малювання",
-    "cs": "kreslení"
+    "cs": "kreslení",
+    "tr": "çizim"
   },
   {
     "id": "bonsai",
@@ -53477,7 +54456,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "бонсай",
-    "cs": "bonsai"
+    "cs": "bonsai",
+    "tr": "bonsai"
   },
   {
     "id": "cake-decorating",
@@ -53497,7 +54477,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "декорування тортів",
-    "cs": "zdobení dortů"
+    "cs": "zdobení dortů",
+    "tr": "pasta süsleme"
   },
   {
     "id": "dancing",
@@ -53514,7 +54495,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "lt": "šokiai",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-hobbies/hobby-dancing.jpg",
     "uk": "танці",
-    "cs": "tanec"
+    "cs": "tanec",
+    "tr": "dans etme"
   },
   {
     "id": "embroidery",
@@ -53534,7 +54516,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "вишивка",
-    "cs": "vyšívání"
+    "cs": "vyšívání",
+    "tr": "nakış"
   },
   {
     "id": "flower-arranging",
@@ -53551,7 +54534,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "lt": "gėlių kompozicija",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-hobbies/hobby-flower-arranging.jpg",
     "uk": "аранжування квітів",
-    "cs": "aranžování květin"
+    "cs": "aranžování květin",
+    "tr": "çiçek düzenleme"
   },
   {
     "id": "horse-riding",
@@ -53571,7 +54555,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "верхова їзда",
-    "cs": "jízda na koni"
+    "cs": "jízda na koni",
+    "tr": "binicilik"
   },
   {
     "id": "jewellery-making",
@@ -53591,7 +54576,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "виготовлення прикрас",
-    "cs": "výroba šperků"
+    "cs": "výroba šperků",
+    "tr": "takı yapımı"
   },
   {
     "id": "kayaking",
@@ -53611,7 +54597,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "каякінг",
-    "cs": "kajakářství"
+    "cs": "kajakářství",
+    "tr": "kanoculuk"
   },
   {
     "id": "kite-flying",
@@ -53631,7 +54618,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "запускання повітряного змія",
-    "cs": "pouštění draka"
+    "cs": "pouštění draka",
+    "tr": "uçurtma uçurma"
   },
   {
     "id": "magic",
@@ -53651,7 +54639,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "фокуси",
-    "cs": "kouzelnické triky"
+    "cs": "kouzelnické triky",
+    "tr": "sihirbazlık"
   },
   {
     "id": "meditation",
@@ -53671,7 +54660,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "медитація",
-    "cs": "rozjímání"
+    "cs": "rozjímání",
+    "tr": "meditasyon"
   },
   {
     "id": "reading",
@@ -53691,7 +54681,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "читання",
-    "cs": "čtení"
+    "cs": "čtení",
+    "tr": "okuma"
   },
   {
     "id": "rock-climbing",
@@ -53708,7 +54699,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "lt": "uolų laipiojimas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-hobbies/hobby-rock-climbing.jpg",
     "uk": "скелелазіння",
-    "cs": "lezení po skalách"
+    "cs": "lezení po skalách",
+    "tr": "kaya tırmanışı"
   },
   {
     "id": "sailing",
@@ -53728,7 +54720,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "focalY": 50,
     "zoom": 1,
     "cs": "jachting",
-    "uk": "вітрильний спорт"
+    "uk": "вітрильний спорт",
+    "tr": "yelken"
   },
   {
     "id": "scuba-diving",
@@ -53745,7 +54738,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "lt": "nardymas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-hobbies/hobby-scuba-diving.jpg",
     "uk": "дайвінг",
-    "cs": "potápění"
+    "cs": "potápění",
+    "tr": "tüplü dalış"
   },
   {
     "id": "singing",
@@ -53765,7 +54759,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "спів",
-    "cs": "zpěv"
+    "cs": "zpěv",
+    "tr": "şarkı söyleme"
   },
   {
     "id": "weaving",
@@ -53782,7 +54777,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "lt": "audimas",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-hobbies/hobby-weaving.jpg",
     "cs": "tkaní",
-    "uk": "ткацтво"
+    "uk": "ткацтво",
+    "tr": "dokumacılık"
   },
   {
     "id": "writing",
@@ -53802,7 +54798,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "письмо",
-    "cs": "psaní"
+    "cs": "psaní",
+    "tr": "yazma"
   },
   {
     "id": "yoga",
@@ -53822,7 +54819,8 @@ window.QM_VOCAB_HOBBIES_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "йога",
-    "cs": "jóga"
+    "cs": "jóga",
+    "tr": "yoga"
   }
 ];
 window.QM_VOCAB_WEATHER_DATA = [
@@ -53844,7 +54842,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "сонце",
-    "cs": "slunce"
+    "cs": "slunce",
+    "tr": "güneş"
   },
   {
     "id": "rain",
@@ -53864,7 +54863,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "дощ",
-    "cs": "déšť"
+    "cs": "déšť",
+    "tr": "yağmur"
   },
   {
     "id": "snow",
@@ -53884,7 +54884,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "сніг",
-    "cs": "sníh"
+    "cs": "sníh",
+    "tr": "kar"
   },
   {
     "id": "cloud",
@@ -53904,7 +54905,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "cs": "zatemnit",
-    "uk": "хмара"
+    "uk": "хмара",
+    "tr": "bulut"
   },
   {
     "id": "wind",
@@ -53924,7 +54926,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "вітер",
-    "cs": "vítr"
+    "cs": "vítr",
+    "tr": "rüzgâr"
   },
   {
     "id": "lightning",
@@ -53944,7 +54947,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "блискавка",
-    "cs": "blesk"
+    "cs": "blesk",
+    "tr": "şimşek"
   },
   {
     "id": "thunderstorm",
@@ -53964,7 +54968,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "гроза",
-    "cs": "bouřka"
+    "cs": "bouřka",
+    "tr": "gök gürültülü fırtına"
   },
   {
     "id": "rainbow",
@@ -53984,7 +54989,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "веселка",
-    "cs": "duha"
+    "cs": "duha",
+    "tr": "gökkuşağı"
   },
   {
     "id": "fog",
@@ -54004,7 +55010,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "туман",
-    "cs": "mlha"
+    "cs": "mlha",
+    "tr": "sis"
   },
   {
     "id": "frost",
@@ -54024,7 +55031,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "мороз",
-    "cs": "mráz"
+    "cs": "mráz",
+    "tr": "kırağı"
   },
   {
     "id": "hail",
@@ -54044,7 +55052,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "град",
-    "cs": "kroupy"
+    "cs": "kroupy",
+    "tr": "dolu"
   },
   {
     "id": "tornado",
@@ -54064,7 +55073,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "смерч",
-    "cs": "tornádo"
+    "cs": "tornádo",
+    "tr": "hortum"
   },
   {
     "id": "snowflake",
@@ -54084,7 +55094,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "сніжинка",
-    "cs": "sněhová vločka"
+    "cs": "sněhová vločka",
+    "tr": "kar tanesi"
   },
   {
     "id": "dew",
@@ -54104,7 +55115,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "роса",
-    "cs": "rosa"
+    "cs": "rosa",
+    "tr": "çiy"
   },
   {
     "id": "flood",
@@ -54124,7 +55136,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "повінь",
-    "cs": "povodeň"
+    "cs": "povodeň",
+    "tr": "sel"
   },
   {
     "id": "drought",
@@ -54144,7 +55157,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "посуха",
-    "cs": "sucho"
+    "cs": "sucho",
+    "tr": "kuraklık"
   },
   {
     "id": "ice",
@@ -54164,7 +55178,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "лід",
-    "cs": "led"
+    "cs": "led",
+    "tr": "buz"
   },
   {
     "id": "puddle",
@@ -54184,7 +55199,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "калюжа",
-    "cs": "louže"
+    "cs": "louže",
+    "tr": "su birikintisi"
   },
   {
     "id": "hurricane",
@@ -54204,7 +55220,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "ураган",
-    "cs": "orkán"
+    "cs": "orkán",
+    "tr": "kasırga"
   },
   {
     "id": "blizzard",
@@ -54224,7 +55241,8 @@ window.QM_VOCAB_WEATHER_DATA = [
     "focalY": 50,
     "zoom": 1,
     "uk": "заметіль",
-    "cs": "blizard"
+    "cs": "blizard",
+    "tr": "tipi"
   }
 ];
 window.QM_VOCAB_EMOTIONS_DATA = [
@@ -54250,7 +55268,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "mutlu"
   },
   {
     "id": "sad",
@@ -54274,7 +55293,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "üzgün"
   },
   {
     "id": "angry",
@@ -54298,7 +55318,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "kızgın"
   },
   {
     "id": "scared",
@@ -54322,7 +55343,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "korkmuş"
   },
   {
     "id": "anxious",
@@ -54346,7 +55368,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "endişeli"
   },
   {
     "id": "surprised",
@@ -54370,7 +55393,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "şaşırmış"
   },
   {
     "id": "excited",
@@ -54394,7 +55418,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "heyecanlı"
   },
   {
     "id": "tired",
@@ -54418,7 +55443,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "yorgun"
   },
   {
     "id": "calm",
@@ -54442,7 +55468,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "sakin"
   },
   {
     "id": "confused",
@@ -54466,7 +55493,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "kafası karışık"
   },
   {
     "id": "crying",
@@ -54490,7 +55518,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "ağlayan"
   },
   {
     "id": "disgusted",
@@ -54514,7 +55543,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "iğrenmiş"
   },
   {
     "id": "bored",
@@ -54538,7 +55568,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "sıkılmış"
   },
   {
     "id": "jealous",
@@ -54562,7 +55593,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "kıskanç"
   },
   {
     "id": "proud",
@@ -54586,7 +55618,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "gururlu"
   },
   {
     "id": "embarrassed",
@@ -54610,7 +55643,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "utanmış"
   },
   {
     "id": "lonely",
@@ -54634,7 +55668,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "yalnız"
   },
   {
     "id": "relieved",
@@ -54658,7 +55693,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "rahatlamış"
   },
   {
     "id": "nervous",
@@ -54682,7 +55718,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "gergin"
   },
   {
     "id": "worried",
@@ -54706,7 +55743,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "kaygılı"
   },
   {
     "id": "shy",
@@ -54730,7 +55768,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "utangaç"
   },
   {
     "id": "grateful",
@@ -54754,7 +55793,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "minnettar"
   },
   {
     "id": "hopeful",
@@ -54778,7 +55818,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "umutlu"
   },
   {
     "id": "disappointed",
@@ -54802,7 +55843,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "hayal kırıklığına uğramış"
   },
   {
     "id": "frustrated",
@@ -54826,7 +55868,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "hüsrana uğramış"
   },
   {
     "id": "guilty",
@@ -54850,7 +55893,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "suçlu"
   },
   {
     "id": "curious",
@@ -54874,7 +55918,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "meraklı"
   },
   {
     "id": "amused",
@@ -54898,7 +55943,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "gamma": 1,
     "focalX": 50,
     "focalY": 22.497367348045387,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "eğlenmiş"
   },
   {
     "id": "content",
@@ -54922,7 +55968,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "hoşnut"
   },
   {
     "id": "annoyed",
@@ -54946,7 +55993,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "sinirlenmiş"
   },
   {
     "id": "furious",
@@ -54970,7 +56018,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "öfkeli"
   },
   {
     "id": "terrified",
@@ -54994,7 +56043,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "dehşete düşmüş"
   },
   {
     "id": "shocked",
@@ -55018,7 +56068,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "şoke olmuş"
   },
   {
     "id": "exhausted",
@@ -55042,7 +56093,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "bitkin"
   },
   {
     "id": "relaxed",
@@ -55066,7 +56118,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "rahat"
   },
   {
     "id": "cheerful",
@@ -55090,7 +56143,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "neşeli"
   },
   {
     "id": "miserable",
@@ -55114,7 +56168,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "perişan"
   },
   {
     "id": "upset",
@@ -55138,7 +56193,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "morali bozuk"
   },
   {
     "id": "determined",
@@ -55162,7 +56218,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "kararlı"
   },
   {
     "id": "overwhelmed",
@@ -55182,7 +56239,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-overwhelmed.jpg",
     "focalX": 31.52716892541721,
     "focalY": 55.77347803299952,
-    "zoom": 1.1
+    "zoom": 1.1,
+    "tr": "bunalmış"
   },
   {
     "id": "confident",
@@ -55206,7 +56264,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "kendine güvenen"
   },
   {
     "id": "in-love",
@@ -55227,7 +56286,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1.21,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "âşık"
   },
   {
     "id": "impatient",
@@ -55247,7 +56307,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-impatient.jpg",
     "focalX": 91.59606703911047,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "sabırsız"
   },
   {
     "id": "suspicious",
@@ -55271,7 +56332,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "şüpheci"
   },
   {
     "id": "hurt",
@@ -55295,7 +56357,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "incinmiş"
   },
   {
     "id": "stressed",
@@ -55319,7 +56382,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "stresli"
   },
   {
     "id": "depressed",
@@ -55343,7 +56407,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "depresif"
   },
   {
     "id": "indifferent",
@@ -55360,7 +56425,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "lt": "abejingas",
     "uk": "байдужий",
     "cs": "lhostejný",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-indifferent.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-indifferent.jpg",
+    "tr": "kayıtsız"
   },
   {
     "id": "optimistic",
@@ -55384,7 +56450,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "iyimser"
   },
   {
     "id": "pessimistic",
@@ -55408,7 +56475,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "kötümser"
   },
   {
     "id": "astonished",
@@ -55428,7 +56496,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-emotions/emotion-astonished.jpg",
     "focalX": 26.913490475641254,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "hayrete düşmüş"
   },
   {
     "id": "affectionate",
@@ -55452,7 +56521,8 @@ window.QM_VOCAB_EMOTIONS_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "sevecen"
   }
 ];
 window.QM_VOCAB_TRANSPORT_DATA = [
@@ -55478,7 +56548,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "araba"
   },
   {
     "id": "bus",
@@ -55498,7 +56569,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-bus.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "otobüs"
   },
   {
     "id": "train",
@@ -55518,7 +56590,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-train.jpg",
     "focalX": 60.49054320034594,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "tren"
   },
   {
     "id": "bicycle",
@@ -55535,7 +56608,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "dviratis",
     "uk": "велосипед",
     "cs": "kolo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-bicycle.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-bicycle.jpg",
+    "tr": "bisiklet"
   },
   {
     "id": "motorcycle",
@@ -55552,7 +56626,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "motociklas",
     "uk": "мотоцикл",
     "cs": "motocykl",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-motorcycle.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-motorcycle.jpg",
+    "tr": "motosiklet"
   },
   {
     "id": "airplane",
@@ -55569,7 +56644,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "lėktuvas",
     "uk": "літак",
     "cs": "letoun",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-airplane.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-airplane.jpg",
+    "tr": "uçak"
   },
   {
     "id": "boat",
@@ -55589,7 +56665,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-boat.jpg",
     "focalX": 100,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "tekne"
   },
   {
     "id": "ship",
@@ -55613,7 +56690,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "gemi"
   },
   {
     "id": "truck",
@@ -55630,7 +56708,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "sunkvežimis",
     "uk": "вантажівка",
     "cs": "kamión",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-truck.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-truck.jpg",
+    "tr": "kamyon"
   },
   {
     "id": "taxi",
@@ -55654,7 +56733,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "taksi"
   },
   {
     "id": "helicopter",
@@ -55671,7 +56751,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "sraigtasparnis",
     "uk": "вертоліт",
     "cs": "vrtulník",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-helicopter.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-helicopter.jpg",
+    "tr": "helikopter"
   },
   {
     "id": "coach",
@@ -55688,7 +56769,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "tolimojo susisiekimo autobusas",
     "uk": "туристичний автобус",
     "cs": "dálkový autobus",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-coach.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-coach.jpg",
+    "tr": "otokar"
   },
   {
     "id": "tram",
@@ -55705,7 +56787,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "tramvajus",
     "uk": "трамвай",
     "cs": "tramvaj",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-tram.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-tram.jpg",
+    "tr": "tramvay"
   },
   {
     "id": "monorail",
@@ -55725,7 +56808,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-monorail.jpg",
     "focalX": 38.657038192186825,
     "focalY": 88.97082943713806,
-    "zoom": 1.1
+    "zoom": 1.1,
+    "tr": "monoray"
   },
   {
     "id": "steam-locomotive",
@@ -55742,7 +56826,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "garvežys",
     "uk": "паровоз",
     "cs": "parní lokomotiva",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-steam-locomotive.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-steam-locomotive.jpg",
+    "tr": "buharlı lokomotif"
   },
   {
     "id": "moped",
@@ -55759,7 +56844,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "mopedas",
     "uk": "мопед",
     "cs": "moped",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-moped.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-moped.jpg",
+    "tr": "moped"
   },
   {
     "id": "kick-scooter",
@@ -55779,7 +56865,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-kick-scooter.jpg",
     "focalX": 50,
     "focalY": 82.74364152717017,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "scooter"
   },
   {
     "id": "quad-bike",
@@ -55796,7 +56883,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "keturratis",
     "uk": "квадроцикл",
     "cs": "čtyřkolka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-quad-bike.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-quad-bike.jpg",
+    "tr": "ATV"
   },
   {
     "id": "unicycle",
@@ -55813,7 +56901,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "vienratis",
     "uk": "моноцикл",
     "cs": "jednokolka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-unicycle.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-unicycle.jpg",
+    "tr": "tek tekerlekli bisiklet"
   },
   {
     "id": "tandem-bicycle",
@@ -55837,7 +56926,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "tandem bisiklet"
   },
   {
     "id": "skateboard",
@@ -55861,7 +56951,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "kaykay"
   },
   {
     "id": "roller-skates",
@@ -55881,7 +56972,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-roller-skates.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "tekerlekli paten"
   },
   {
     "id": "van",
@@ -55905,7 +56997,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "panelvan"
   },
   {
     "id": "pickup-truck",
@@ -55922,7 +57015,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "pikapas",
     "uk": "пікап",
     "cs": "pick-up",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-pickup-truck.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-pickup-truck.jpg",
+    "tr": "kamyonet"
   },
   {
     "id": "ambulance",
@@ -55946,7 +57040,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "ambulans"
   },
   {
     "id": "fire-engine",
@@ -55966,7 +57061,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-fire-engine.jpg",
     "focalX": 57.0561265435707,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "itfaiye aracı"
   },
   {
     "id": "police-car",
@@ -55990,7 +57086,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "polis arabası"
   },
   {
     "id": "tractor",
@@ -56007,7 +57104,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "traktorius",
     "uk": "трактор",
     "cs": "traktor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-tractor.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-tractor.jpg",
+    "tr": "traktör"
   },
   {
     "id": "bulldozer",
@@ -56024,7 +57122,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "buldozeris",
     "uk": "бульдозер",
     "cs": "buldozer",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-bulldozer.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-bulldozer.jpg",
+    "tr": "buldozer"
   },
   {
     "id": "caravan",
@@ -56041,7 +57140,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "namelis-priekaba",
     "uk": "причіп-дача",
     "cs": "obytný přívěs",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-caravan.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-caravan.jpg",
+    "tr": "karavan"
   },
   {
     "id": "motorhome",
@@ -56058,7 +57158,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "autonamis",
     "uk": "автодім",
     "cs": "obytný vůz",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-motorhome.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-motorhome.jpg",
+    "tr": "motokaravan"
   },
   {
     "id": "ferry",
@@ -56082,7 +57183,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "feribot"
   },
   {
     "id": "sailing-boat",
@@ -56099,7 +57201,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "burlaivis",
     "uk": "вітрильник",
     "cs": "plachetnice",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-sailing-boat.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-sailing-boat.jpg",
+    "tr": "yelkenli"
   },
   {
     "id": "yacht",
@@ -56123,7 +57226,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1.15,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "yat"
   },
   {
     "id": "cruise-ship",
@@ -56140,7 +57244,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "kruizinis laivas",
     "uk": "круїзний лайнер",
     "cs": "výletní loď",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-cruise-ship.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-cruise-ship.jpg",
+    "tr": "yolcu gemisi"
   },
   {
     "id": "canoe",
@@ -56157,7 +57262,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "kanoja",
     "uk": "каное",
     "cs": "kánoe",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-canoe.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-canoe.jpg",
+    "tr": "kano"
   },
   {
     "id": "kayak",
@@ -56174,7 +57280,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "baidarė",
     "uk": "каяк",
     "cs": "kajak",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-kayak.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-kayak.jpg",
+    "tr": "deniz kanosu"
   },
   {
     "id": "rowing-boat",
@@ -56191,7 +57298,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "irklinė valtis",
     "uk": "весловий човен",
     "cs": "veslice",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-rowing-boat.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-rowing-boat.jpg",
+    "tr": "kayık"
   },
   {
     "id": "submarine",
@@ -56208,7 +57316,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "povandeninis laivas",
     "uk": "підводний човен",
     "cs": "ponorka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-submarine.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-submarine.jpg",
+    "tr": "denizaltı"
   },
   {
     "id": "hovercraft",
@@ -56225,7 +57334,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "laivas su oro pagalve",
     "uk": "судно на повітряній подушці",
     "cs": "vznášedlo",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-hovercraft.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-hovercraft.jpg",
+    "tr": "hoverkraft"
   },
   {
     "id": "jet-ski",
@@ -56249,7 +57359,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "jet ski"
   },
   {
     "id": "barge",
@@ -56273,7 +57384,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "mavna"
   },
   {
     "id": "gondola",
@@ -56297,7 +57409,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "gondol"
   },
   {
     "id": "hot-air-balloon",
@@ -56321,7 +57434,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "sıcak hava balonu"
   },
   {
     "id": "glider",
@@ -56338,7 +57452,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "sklandytuvas",
     "uk": "планер",
     "cs": "kluzák",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-glider.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-glider.jpg",
+    "tr": "planör"
   },
   {
     "id": "airship",
@@ -56362,7 +57477,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "zeplin"
   },
   {
     "id": "cable-car",
@@ -56379,7 +57495,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "lynų kelias",
     "uk": "канатна дорога",
     "cs": "lanovka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-cable-car.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-cable-car.jpg",
+    "tr": "teleferik"
   },
   {
     "id": "chairlift",
@@ -56396,7 +57513,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "kėdutės keltuvas",
     "uk": "крісельний підйомник",
     "cs": "sedačková lanovka",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-chairlift.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-chairlift.jpg",
+    "tr": "telesiyej"
   },
   {
     "id": "funicular",
@@ -56420,7 +57538,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "füniküler"
   },
   {
     "id": "escalator",
@@ -56437,7 +57556,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "eskalatorius",
     "uk": "ескалатор",
     "cs": "eskalátor",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-escalator.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-escalator.jpg",
+    "tr": "yürüyen merdiven"
   },
   {
     "id": "lift",
@@ -56454,7 +57574,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "liftas",
     "uk": "ліфт",
     "cs": "výtah",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-lift.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-lift.jpg",
+    "tr": "asansör"
   },
   {
     "id": "sledge",
@@ -56471,7 +57592,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "rogės",
     "uk": "санчата",
     "cs": "sáně",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-sledge.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-sledge.jpg",
+    "tr": "kızak"
   },
   {
     "id": "snowmobile",
@@ -56488,7 +57610,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "sniego motociklas",
     "uk": "снігохід",
     "cs": "sněžný skútr",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-snowmobile.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-snowmobile.jpg",
+    "tr": "kar motosikleti"
   },
   {
     "id": "horse-drawn-carriage",
@@ -56505,7 +57628,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "lt": "karieta",
     "uk": "кінний екіпаж",
     "cs": "kočár",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-horse-drawn-carriage.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-transport/transport-horse-drawn-carriage.jpg",
+    "tr": "at arabası"
   },
   {
     "id": "rickshaw",
@@ -56529,7 +57653,8 @@ window.QM_VOCAB_TRANSPORT_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "çekçek"
   }
 ];
 window.QM_VOCAB_INSTRUMENTS_DATA = [
@@ -56548,7 +57673,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "chitară",
     "lt": "gitara",
     "uk": "гітара",
-    "cs": "kytara"
+    "cs": "kytara",
+    "tr": "gitar"
   },
   {
     "id": "electricguitar",
@@ -56565,7 +57691,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "chitară electrică",
     "lt": "elektrinė gitara",
     "uk": "електрогітара",
-    "cs": "elektrická kytara"
+    "cs": "elektrická kytara",
+    "tr": "elektro gitar"
   },
   {
     "id": "piano",
@@ -56582,7 +57709,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "pian",
     "lt": "pianinas",
     "uk": "фортепіано",
-    "cs": "klavír"
+    "cs": "klavír",
+    "tr": "piyano"
   },
   {
     "id": "violin",
@@ -56599,7 +57727,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "vioară",
     "lt": "smuikas",
     "uk": "скрипка",
-    "cs": "housle"
+    "cs": "housle",
+    "tr": "keman"
   },
   {
     "id": "cello",
@@ -56616,7 +57745,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "violoncel",
     "lt": "violončelė",
     "uk": "віолончель",
-    "cs": "violoncello"
+    "cs": "violoncello",
+    "tr": "çello"
   },
   {
     "id": "doublebass",
@@ -56633,7 +57763,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "contrabas",
     "lt": "kontrabosas",
     "uk": "контрабас",
-    "cs": "kontrabas"
+    "cs": "kontrabas",
+    "tr": "kontrbas"
   },
   {
     "id": "drums",
@@ -56653,7 +57784,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "tobe",
     "lt": "būgnai",
     "uk": "барабани",
-    "cs": "bicí"
+    "cs": "bicí",
+    "tr": "davul"
   },
   {
     "id": "flute",
@@ -56673,7 +57805,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "flaut",
     "lt": "fleita",
     "uk": "флейта",
-    "cs": "flétna"
+    "cs": "flétna",
+    "tr": "flüt"
   },
   {
     "id": "trumpet",
@@ -56693,7 +57826,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "trompetă",
     "lt": "trimitas",
     "uk": "труба",
-    "cs": "trubka"
+    "cs": "trubka",
+    "tr": "trompet"
   },
   {
     "id": "saxophone",
@@ -56710,7 +57844,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "saxofon",
     "lt": "saksofonas",
     "uk": "саксофон",
-    "cs": "saxofon"
+    "cs": "saxofon",
+    "tr": "saksofon"
   },
   {
     "id": "clarinet",
@@ -56727,7 +57862,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "clarinet",
     "lt": "klarnetas",
     "uk": "кларнет",
-    "cs": "klarinet"
+    "cs": "klarinet",
+    "tr": "klarnet"
   },
   {
     "id": "trombone",
@@ -56744,7 +57880,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "trombon",
     "lt": "trombonas",
     "uk": "тромбон",
-    "cs": "trombón"
+    "cs": "trombón",
+    "tr": "trombon"
   },
   {
     "id": "frenchhorn",
@@ -56764,7 +57901,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "corn",
     "lt": "valtorna",
     "uk": "валторна",
-    "cs": "lesní roh"
+    "cs": "lesní roh",
+    "tr": "korno"
   },
   {
     "id": "tuba",
@@ -56781,7 +57919,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "tubă",
     "lt": "tūba",
     "cs": "tuba",
-    "uk": "туба"
+    "uk": "туба",
+    "tr": "tuba"
   },
   {
     "id": "harp",
@@ -56798,7 +57937,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "harpă",
     "lt": "arfa",
     "uk": "арфа",
-    "cs": "harfa"
+    "cs": "harfa",
+    "tr": "arp"
   },
   {
     "id": "accordion",
@@ -56818,7 +57958,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "acordeon",
     "lt": "akordeonas",
     "uk": "акордеон",
-    "cs": "akordeon"
+    "cs": "akordeon",
+    "tr": "akordeon"
   },
   {
     "id": "oboe",
@@ -56835,7 +57976,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "oboi",
     "lt": "obojus",
     "uk": "гобой",
-    "cs": "hoboj"
+    "cs": "hoboj",
+    "tr": "obua"
   },
   {
     "id": "bagpipes",
@@ -56852,7 +57994,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "cimpoi",
     "lt": "dūdmaišis",
     "uk": "волинка",
-    "cs": "dudy"
+    "cs": "dudy",
+    "tr": "gayda"
   },
   {
     "id": "harmonica",
@@ -56872,7 +58015,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "muzicuță",
     "lt": "lūpinė armonikėlė",
     "uk": "губна гармоніка",
-    "cs": "harmonika"
+    "cs": "harmonika",
+    "tr": "mızıka"
   },
   {
     "id": "xylophone",
@@ -56892,7 +58036,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "xilofon",
     "lt": "ksilofonas",
     "uk": "ксилофон",
-    "cs": "xylofon"
+    "cs": "xylofon",
+    "tr": "ksilofon"
   },
   {
     "id": "ukulele",
@@ -56909,7 +58054,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "ukulele",
     "lt": "ukulelė",
     "uk": "укулеле",
-    "cs": "ukulele"
+    "cs": "ukulele",
+    "tr": "ukulele"
   },
   {
     "id": "tambourine",
@@ -56929,7 +58075,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "tamburină",
     "lt": "tamburinas",
     "uk": "бубон",
-    "cs": "tamburína"
+    "cs": "tamburína",
+    "tr": "tef"
   },
   {
     "id": "cymbals",
@@ -56949,7 +58096,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "talgere",
     "lt": "lėkštės",
     "uk": "тарілки",
-    "cs": "činely"
+    "cs": "činely",
+    "tr": "zil"
   },
   {
     "id": "banjo",
@@ -56966,7 +58114,8 @@ window.QM_VOCAB_INSTRUMENTS_DATA = [
     "ro": "banjo",
     "lt": "bandža",
     "uk": "банджо",
-    "cs": "banjo"
+    "cs": "banjo",
+    "tr": "banço"
   }
 ];
 window.QM_VOCAB_ADJECTIVES_DATA = [
@@ -56984,7 +58133,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "mare",
     "lt": "didelis",
     "uk": "великий",
-    "cs": "velký"
+    "cs": "velký",
+    "tr": "büyük"
   },
   {
     "id": "adj_2",
@@ -57000,7 +58150,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "mic",
     "lt": "mažas",
     "uk": "малий",
-    "cs": "malý"
+    "cs": "malý",
+    "tr": "küçük"
   },
   {
     "id": "adj_3",
@@ -57016,7 +58167,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "bun",
     "lt": "geras",
     "uk": "добрий",
-    "cs": "dobrý"
+    "cs": "dobrý",
+    "tr": "iyi"
   },
   {
     "id": "adj_4",
@@ -57032,7 +58184,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "rău",
     "lt": "blogas",
     "uk": "поганий",
-    "cs": "špatný"
+    "cs": "špatný",
+    "tr": "kötü"
   },
   {
     "id": "adj_5",
@@ -57048,7 +58201,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "picant",
     "lt": "pikantiškas",
     "uk": "гострий",
-    "cs": "pikantní"
+    "cs": "pikantní",
+    "tr": "acılı"
   },
   {
     "id": "adj_6",
@@ -57064,7 +58218,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "creț",
     "lt": "garbanotas",
     "uk": "кучерявий",
-    "cs": "kudrnatý"
+    "cs": "kudrnatý",
+    "tr": "kıvırcık"
   },
   {
     "id": "adj_7",
@@ -57080,7 +58235,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "fierbinte",
     "lt": "karštas",
     "uk": "гарячий",
-    "cs": "horký"
+    "cs": "horký",
+    "tr": "sıcak"
   },
   {
     "id": "adj_8",
@@ -57096,7 +58252,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "rece",
     "lt": "šaltas",
     "uk": "холодний",
-    "cs": "studený"
+    "cs": "studený",
+    "tr": "soğuk"
   },
   {
     "id": "adj_9",
@@ -57112,7 +58269,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "nou",
     "lt": "naujas",
     "uk": "новий",
-    "cs": "nový"
+    "cs": "nový",
+    "tr": "yeni"
   },
   {
     "id": "adj_10",
@@ -57128,7 +58286,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "vechi",
     "lt": "senas",
     "uk": "старий",
-    "cs": "starý"
+    "cs": "starý",
+    "tr": "eski"
   },
   {
     "id": "adj_11",
@@ -57144,7 +58303,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "tânăr",
     "lt": "jaunas",
     "uk": "молодий",
-    "cs": "mladý"
+    "cs": "mladý",
+    "tr": "genç"
   },
   {
     "id": "adj_12",
@@ -57160,7 +58320,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "lung",
     "lt": "ilgas",
     "uk": "довгий",
-    "cs": "dlouhý"
+    "cs": "dlouhý",
+    "tr": "uzun"
   },
   {
     "id": "adj_13",
@@ -57176,7 +58337,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "scurt",
     "lt": "trumpas",
     "uk": "короткий",
-    "cs": "krátký"
+    "cs": "krátký",
+    "tr": "kısa"
   },
   {
     "id": "adj_14",
@@ -57192,7 +58354,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "înalt",
     "lt": "aukštas",
     "uk": "високий",
-    "cs": "vysoký"
+    "cs": "vysoký",
+    "tr": "uzun boylu"
   },
   {
     "id": "adj_15",
@@ -57208,7 +58371,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "rapid",
     "lt": "greitas",
     "uk": "швидкий",
-    "cs": "rychlý"
+    "cs": "rychlý",
+    "tr": "hızlı"
   },
   {
     "id": "adj_16",
@@ -57224,7 +58388,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "lent",
     "lt": "lėtas",
     "uk": "повільний",
-    "cs": "pomalý"
+    "cs": "pomalý",
+    "tr": "yavaş"
   },
   {
     "id": "adj_17",
@@ -57240,7 +58405,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "puternic",
     "lt": "stiprus",
     "uk": "сильний",
-    "cs": "silný"
+    "cs": "silný",
+    "tr": "güçlü"
   },
   {
     "id": "adj_18",
@@ -57256,7 +58422,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "slab",
     "lt": "silpnas",
     "uk": "слабкий",
-    "cs": "slabý"
+    "cs": "slabý",
+    "tr": "zayıf"
   },
   {
     "id": "adj_19",
@@ -57272,7 +58439,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "frumos",
     "lt": "gražus",
     "uk": "гарний",
-    "cs": "krásný"
+    "cs": "krásný",
+    "tr": "güzel"
   },
   {
     "id": "adj_20",
@@ -57288,7 +58456,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "urât",
     "lt": "bjaurus",
     "uk": "бридкий",
-    "cs": "ošklivý"
+    "cs": "ošklivý",
+    "tr": "çirkin"
   },
   {
     "id": "adj_21",
@@ -57304,7 +58473,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "curat",
     "lt": "švarus",
     "uk": "чистий",
-    "cs": "čistý"
+    "cs": "čistý",
+    "tr": "temiz"
   },
   {
     "id": "adj_22",
@@ -57320,7 +58490,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "murdar",
     "lt": "nešvarus",
     "uk": "брудний",
-    "cs": "špinavý"
+    "cs": "špinavý",
+    "tr": "kirli"
   },
   {
     "id": "adj_23",
@@ -57336,7 +58507,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "ușor",
     "lt": "lengvas",
     "uk": "легкий",
-    "cs": "snadný"
+    "cs": "snadný",
+    "tr": "kolay"
   },
   {
     "id": "adj_24",
@@ -57352,7 +58524,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "dificil",
     "lt": "sunkus",
     "uk": "важкий",
-    "cs": "obtížný"
+    "cs": "obtížný",
+    "tr": "zor"
   },
   {
     "id": "adj_25",
@@ -57368,7 +58541,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "bogat",
     "lt": "turtingas",
     "uk": "багатий",
-    "cs": "bohatý"
+    "cs": "bohatý",
+    "tr": "zengin"
   },
   {
     "id": "adj_26",
@@ -57384,7 +58558,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "sărac",
     "lt": "neturtingas",
     "uk": "бідний",
-    "cs": "chudý"
+    "cs": "chudý",
+    "tr": "fakir"
   },
   {
     "id": "adj_27",
@@ -57400,7 +58575,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "greu",
     "lt": "sunkus",
     "uk": "важкий",
-    "cs": "těžký"
+    "cs": "těžký",
+    "tr": "ağır"
   },
   {
     "id": "adj_28",
@@ -57416,7 +58592,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "ușor",
     "lt": "lengvas",
     "uk": "легкий",
-    "cs": "lehký"
+    "cs": "lehký",
+    "tr": "hafif"
   },
   {
     "id": "adj_29",
@@ -57432,7 +58609,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "întunecat",
     "lt": "tamsus",
     "uk": "темний",
-    "cs": "tmavý"
+    "cs": "tmavý",
+    "tr": "karanlık"
   },
   {
     "id": "adj_30",
@@ -57448,7 +58626,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "luminos",
     "lt": "šviesus",
     "uk": "яскравий",
-    "cs": "jasný"
+    "cs": "jasný",
+    "tr": "aydınlık"
   },
   {
     "id": "adj_31",
@@ -57464,7 +58643,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "plin",
     "lt": "pilnas",
     "uk": "повний",
-    "cs": "plný"
+    "cs": "plný",
+    "tr": "dolu"
   },
   {
     "id": "adj_32",
@@ -57480,7 +58660,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "gol",
     "lt": "tuščias",
     "uk": "порожній",
-    "cs": "prázdný"
+    "cs": "prázdný",
+    "tr": "boş"
   },
   {
     "id": "adj_33",
@@ -57496,7 +58677,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "deschis",
     "lt": "atviras",
     "uk": "відкритий",
-    "cs": "otevřený"
+    "cs": "otevřený",
+    "tr": "açık"
   },
   {
     "id": "adj_34",
@@ -57512,7 +58694,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "închis",
     "lt": "uždaras",
     "uk": "закритий",
-    "cs": "zavřený"
+    "cs": "zavřený",
+    "tr": "kapalı"
   },
   {
     "id": "adj_35",
@@ -57528,7 +58711,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "zgomotos",
     "lt": "garsus",
     "uk": "гучний",
-    "cs": "hlasitý"
+    "cs": "hlasitý",
+    "tr": "gürültülü"
   },
   {
     "id": "adj_36",
@@ -57544,7 +58728,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "liniștit",
     "lt": "tylus",
     "uk": "тихий",
-    "cs": "tichý"
+    "cs": "tichý",
+    "tr": "sessiz"
   },
   {
     "id": "adj_37",
@@ -57560,7 +58745,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "moale",
     "lt": "minkštas",
     "uk": "м'який",
-    "cs": "měkký"
+    "cs": "měkký",
+    "tr": "yumuşak"
   },
   {
     "id": "adj_38",
@@ -57576,7 +58762,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "tare",
     "lt": "kietas",
     "uk": "твердий",
-    "cs": "tvrdý"
+    "cs": "tvrdý",
+    "tr": "sert"
   },
   {
     "id": "adj_39",
@@ -57592,7 +58779,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "ud",
     "lt": "šlapias",
     "uk": "мокрий",
-    "cs": "mokrý"
+    "cs": "mokrý",
+    "tr": "ıslak"
   },
   {
     "id": "adj_40",
@@ -57608,7 +58796,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "uscat",
     "lt": "sausas",
     "uk": "сухий",
-    "cs": "suchý"
+    "cs": "suchý",
+    "tr": "kuru"
   },
   {
     "id": "adj_41",
@@ -57624,7 +58813,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "adânc",
     "lt": "gilus",
     "uk": "глибокий",
-    "cs": "hluboký"
+    "cs": "hluboký",
+    "tr": "derin"
   },
   {
     "id": "adj_42",
@@ -57640,7 +58830,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "înalt",
     "lt": "aukštas",
     "uk": "високий",
-    "cs": "vysoký"
+    "cs": "vysoký",
+    "tr": "yüksek"
   },
   {
     "id": "adj_43",
@@ -57656,7 +58847,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "jos",
     "lt": "žemas",
     "uk": "низький",
-    "cs": "nízký"
+    "cs": "nízký",
+    "tr": "alçak"
   },
   {
     "id": "adj_44",
@@ -57672,7 +58864,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "lat",
     "lt": "platus",
     "uk": "широкий",
-    "cs": "široký"
+    "cs": "široký",
+    "tr": "geniş"
   },
   {
     "id": "adj_45",
@@ -57688,7 +58881,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "îngust",
     "lt": "siauras",
     "uk": "вузький",
-    "cs": "úzký"
+    "cs": "úzký",
+    "tr": "dar"
   },
   {
     "id": "adj_46",
@@ -57704,7 +58898,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "gros",
     "lt": "storas",
     "uk": "товстий",
-    "cs": "tlustý"
+    "cs": "tlustý",
+    "tr": "kalın"
   },
   {
     "id": "adj_47",
@@ -57720,7 +58915,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "subțire",
     "lt": "plonas",
     "uk": "тонкий",
-    "cs": "tenký"
+    "cs": "tenký",
+    "tr": "ince"
   },
   {
     "id": "adj_48",
@@ -57736,7 +58932,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "scump",
     "lt": "brangus",
     "uk": "дорогий",
-    "cs": "drahý"
+    "cs": "drahý",
+    "tr": "pahalı"
   },
   {
     "id": "adj_49",
@@ -57752,7 +58949,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "ieftin",
     "lt": "pigus",
     "uk": "дешевий",
-    "cs": "levný"
+    "cs": "levný",
+    "tr": "ucuz"
   },
   {
     "id": "adj_50",
@@ -57768,7 +58966,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "important",
     "lt": "svarbus",
     "uk": "важливий",
-    "cs": "důležitý"
+    "cs": "důležitý",
+    "tr": "önemli"
   },
   {
     "id": "adj_51",
@@ -57784,7 +58983,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "periculos",
     "lt": "pavojingas",
     "uk": "небезпечний",
-    "cs": "nebezpečný"
+    "cs": "nebezpečný",
+    "tr": "tehlikeli"
   },
   {
     "id": "adj_52",
@@ -57800,7 +59000,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "sigur",
     "lt": "saugus",
     "uk": "безпечний",
-    "cs": "bezpečný"
+    "cs": "bezpečný",
+    "tr": "güvenli"
   },
   {
     "id": "adj_53",
@@ -57816,7 +59017,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "amuzant",
     "lt": "juokingas",
     "uk": "смішний",
-    "cs": "legrační"
+    "cs": "legrační",
+    "tr": "komik"
   },
   {
     "id": "adj_54",
@@ -57832,7 +59034,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "serios",
     "lt": "rimtas",
     "uk": "серйозний",
-    "cs": "vážný"
+    "cs": "vážný",
+    "tr": "ciddi"
   },
   {
     "id": "adj_55",
@@ -57848,7 +59051,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "bun",
     "lt": "malonus",
     "uk": "люб'язний",
-    "cs": "laskavý"
+    "cs": "laskavý",
+    "tr": "nazik"
   },
   {
     "id": "adj_56",
@@ -57864,7 +59068,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "crud",
     "lt": "žiaurus",
     "uk": "жорстокий",
-    "cs": "krutý"
+    "cs": "krutý",
+    "tr": "zalim"
   },
   {
     "id": "adj_57",
@@ -57880,7 +59085,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "curajos",
     "lt": "drąsus",
     "uk": "сміливий",
-    "cs": "statečný"
+    "cs": "statečný",
+    "tr": "cesur"
   },
   {
     "id": "adj_58",
@@ -57896,7 +59102,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "speriat",
     "lt": "išsigandęs",
     "uk": "наляканий",
-    "cs": "bojácný"
+    "cs": "bojácný",
+    "tr": "korkmuş"
   },
   {
     "id": "adj_59",
@@ -57912,7 +59119,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "strălucitor",
     "lt": "blizgantis",
     "uk": "блискучий",
-    "cs": "lesklý"
+    "cs": "lesklý",
+    "tr": "parlak"
   },
   {
     "id": "adj_60",
@@ -57928,7 +59136,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "flămând",
     "lt": "alkanas",
     "uk": "голодний",
-    "cs": "hladový"
+    "cs": "hladový",
+    "tr": "aç"
   },
   {
     "id": "adj_61",
@@ -57944,7 +59153,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "însetat",
     "lt": "ištroškęs",
     "uk": "спраглий",
-    "cs": "žíznivý"
+    "cs": "žíznivý",
+    "tr": "susamış"
   },
   {
     "id": "adj_62",
@@ -57960,7 +59170,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "bolnav",
     "lt": "sergantis",
     "uk": "хворий",
-    "cs": "nemocný"
+    "cs": "nemocný",
+    "tr": "hasta"
   },
   {
     "id": "adj_63",
@@ -57976,7 +59187,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "sănătos",
     "lt": "sveikas",
     "uk": "здоровий",
-    "cs": "zdravý"
+    "cs": "zdravý",
+    "tr": "sağlıklı"
   },
   {
     "id": "adj_64",
@@ -57992,7 +59204,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "lipicios",
     "lt": "lipnus",
     "uk": "липкий",
-    "cs": "lepkavý"
+    "cs": "lepkavý",
+    "tr": "yapışkan"
   },
   {
     "id": "adj_65",
@@ -58008,7 +59221,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "pătrat",
     "lt": "kvadratinis",
     "uk": "квадратний",
-    "cs": "čtvercový"
+    "cs": "čtvercový",
+    "tr": "kare"
   },
   {
     "id": "adj_66",
@@ -58024,7 +59238,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "ocupat",
     "lt": "užsiėmęs",
     "uk": "зайнятий",
-    "cs": "zaneprázdněný"
+    "cs": "zaneprázdněný",
+    "tr": "meşgul"
   },
   {
     "id": "adj_67",
@@ -58040,7 +59255,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "liber",
     "lt": "laisvas",
     "uk": "вільний",
-    "cs": "volný"
+    "cs": "volný",
+    "tr": "serbest"
   },
   {
     "id": "adj_68",
@@ -58056,7 +59272,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "devreme",
     "lt": "ankstyvas",
     "uk": "ранній",
-    "cs": "brzký"
+    "cs": "brzký",
+    "tr": "erken"
   },
   {
     "id": "adj_69",
@@ -58072,7 +59289,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "târziu",
     "lt": "vėlyvas",
     "uk": "пізній",
-    "cs": "pozdní"
+    "cs": "pozdní",
+    "tr": "geç"
   },
   {
     "id": "adj_70",
@@ -58088,7 +59306,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "corect",
     "lt": "teisingas",
     "uk": "правильний",
-    "cs": "správný"
+    "cs": "správný",
+    "tr": "doğru"
   },
   {
     "id": "adj_71",
@@ -58104,7 +59323,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "greșit",
     "lt": "neteisingas",
     "uk": "неправильний",
-    "cs": "nesprávný"
+    "cs": "nesprávný",
+    "tr": "yanlış"
   },
   {
     "id": "adj_72",
@@ -58120,7 +59340,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "adevărat",
     "lt": "tikras",
     "uk": "правдивий",
-    "cs": "pravdivý"
+    "cs": "pravdivý",
+    "tr": "gerçek"
   },
   {
     "id": "adj_73",
@@ -58136,7 +59357,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "fals",
     "lt": "klaidingas",
     "uk": "фальшивий",
-    "cs": "falešný"
+    "cs": "falešný",
+    "tr": "sahte"
   },
   {
     "id": "adj_74",
@@ -58152,7 +59374,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "posibil",
     "lt": "įmanomas",
     "uk": "можливий",
-    "cs": "možný"
+    "cs": "možný",
+    "tr": "mümkün"
   },
   {
     "id": "adj_75",
@@ -58168,7 +59391,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "imposibil",
     "lt": "neįmanomas",
     "uk": "неможливий",
-    "cs": "nemožný"
+    "cs": "nemožný",
+    "tr": "imkânsız"
   },
   {
     "id": "adj_76",
@@ -58184,7 +59408,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "deștept",
     "lt": "protingas",
     "uk": "розумний",
-    "cs": "chytrý"
+    "cs": "chytrý",
+    "tr": "zeki"
   },
   {
     "id": "adj_77",
@@ -58200,7 +59425,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "prost",
     "lt": "kvailas",
     "uk": "дурний",
-    "cs": "hloupý"
+    "cs": "hloupý",
+    "tr": "aptal"
   },
   {
     "id": "adj_78",
@@ -58216,7 +59442,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "faimos",
     "lt": "žymus",
     "uk": "відомий",
-    "cs": "slavný"
+    "cs": "slavný",
+    "tr": "ünlü"
   },
   {
     "id": "adj_79",
@@ -58232,7 +59459,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "modern",
     "lt": "modernus",
     "uk": "сучасний",
-    "cs": "moderní"
+    "cs": "moderní",
+    "tr": "modern"
   },
   {
     "id": "adj_80",
@@ -58248,7 +59476,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "antic",
     "lt": "senovinis",
     "uk": "стародавній",
-    "cs": "starověký"
+    "cs": "starověký",
+    "tr": "antik"
   },
   {
     "id": "adj_81",
@@ -58264,7 +59493,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "proaspăt",
     "lt": "šviežias",
     "uk": "свіжий",
-    "cs": "čerstvý"
+    "cs": "čerstvý",
+    "tr": "taze"
   },
   {
     "id": "adj_82",
@@ -58280,7 +59510,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "dulce",
     "lt": "saldus",
     "uk": "цукерка",
-    "cs": "sladkost"
+    "cs": "sladkost",
+    "tr": "tatlı"
   },
   {
     "id": "adj_83",
@@ -58296,7 +59527,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "acru",
     "lt": "rūgštus",
     "uk": "кислий",
-    "cs": "kyselý"
+    "cs": "kyselý",
+    "tr": "ekşi"
   },
   {
     "id": "adj_84",
@@ -58312,7 +59544,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "amar",
     "lt": "kartus",
     "uk": "гіркий",
-    "cs": "hořký"
+    "cs": "hořký",
+    "tr": "acı"
   },
   {
     "id": "adj_85",
@@ -58328,7 +59561,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "sărat",
     "lt": "sūrus",
     "uk": "солоний",
-    "cs": "slaný"
+    "cs": "slaný",
+    "tr": "tuzlu"
   },
   {
     "id": "adj_86",
@@ -58344,7 +59578,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "delicios",
     "lt": "skanus",
     "uk": "смачний",
-    "cs": "lahodný"
+    "cs": "lahodný",
+    "tr": "lezzetli"
   },
   {
     "id": "adj_87",
@@ -58360,7 +59595,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "confortabil",
     "lt": "patogus",
     "uk": "зручний",
-    "cs": "pohodlný"
+    "cs": "pohodlný",
+    "tr": "rahat"
   },
   {
     "id": "adj_88",
@@ -58376,7 +59612,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "neted",
     "lt": "lygus",
     "uk": "гладкий",
-    "cs": "hladký"
+    "cs": "hladký",
+    "tr": "pürüzsüz"
   },
   {
     "id": "adj_89",
@@ -58392,7 +59629,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "aspru",
     "lt": "šiurkštus",
     "uk": "шорсткий",
-    "cs": "drsný"
+    "cs": "drsný",
+    "tr": "pürüzlü"
   },
   {
     "id": "adj_90",
@@ -58408,7 +59646,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "ascuțit",
     "lt": "aštrus",
     "uk": "гострий",
-    "cs": "ostrý"
+    "cs": "ostrý",
+    "tr": "keskin"
   },
   {
     "id": "adj_91",
@@ -58424,7 +59663,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "rotund",
     "lt": "apvalus",
     "uk": "круглий",
-    "cs": "kulatý"
+    "cs": "kulatý",
+    "tr": "yuvarlak"
   },
   {
     "id": "adj_92",
@@ -58440,7 +59680,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "plat",
     "lt": "plokščias",
     "uk": "плоский",
-    "cs": "plochý"
+    "cs": "plochý",
+    "tr": "yassı"
   },
   {
     "id": "adj_93",
@@ -58456,7 +59697,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "drept",
     "lt": "tiesus",
     "uk": "прямий",
-    "cs": "rovný"
+    "cs": "rovný",
+    "tr": "düz"
   },
   {
     "id": "adj_94",
@@ -58472,7 +59714,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "strâmb",
     "lt": "kreivas",
     "uk": "кривий",
-    "cs": "křivý"
+    "cs": "křivý",
+    "tr": "eğri"
   },
   {
     "id": "adj_95",
@@ -58488,7 +59731,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "blând",
     "lt": "švelnus",
     "uk": "ніжний",
-    "cs": "jemný"
+    "cs": "jemný",
+    "tr": "yumuşak huylu"
   },
   {
     "id": "adj_96",
@@ -58504,7 +59748,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "politicos",
     "lt": "mandagus",
     "uk": "ввічливий",
-    "cs": "zdvořilý"
+    "cs": "zdvořilý",
+    "tr": "kibar"
   },
   {
     "id": "adj_97",
@@ -58520,7 +59765,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "nepoliticos",
     "lt": "nemandagus",
     "uk": "грубий",
-    "cs": "hrubý"
+    "cs": "hrubý",
+    "tr": "kaba"
   },
   {
     "id": "adj_98",
@@ -58536,7 +59782,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "generos",
     "lt": "dosnus",
     "uk": "щедрий",
-    "cs": "štědrý"
+    "cs": "štědrý",
+    "tr": "cömert"
   },
   {
     "id": "adj_99",
@@ -58552,7 +59799,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "leneș",
     "lt": "tingus",
     "uk": "лінивий",
-    "cs": "líný"
+    "cs": "líný",
+    "tr": "tembel"
   },
   {
     "id": "adj_100",
@@ -58568,7 +59816,8 @@ window.QM_VOCAB_ADJECTIVES_DATA = [
     "ro": "mândru",
     "lt": "išdidus",
     "uk": "гордий",
-    "cs": "hrdý"
+    "cs": "hrdý",
+    "tr": "gururlu"
   }
 ];
 window.QM_VOCAB_CALENDAR_DATA = [
@@ -58586,7 +59835,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "luni",
     "lt": "pirmadienis",
     "uk": "понеділок",
-    "cs": "pondělí"
+    "cs": "pondělí",
+    "tr": "Pazartesi"
   },
   {
     "id": "cal_2",
@@ -58602,7 +59852,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "marți",
     "lt": "antradienis",
     "uk": "вівторок",
-    "cs": "úterý"
+    "cs": "úterý",
+    "tr": "Salı"
   },
   {
     "id": "cal_3",
@@ -58618,7 +59869,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "miercuri",
     "lt": "trečiadienis",
     "uk": "середа",
-    "cs": "středa"
+    "cs": "středa",
+    "tr": "Çarşamba"
   },
   {
     "id": "cal_4",
@@ -58634,7 +59886,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "joi",
     "lt": "ketvirtadienis",
     "uk": "четвер",
-    "cs": "čtvrtek"
+    "cs": "čtvrtek",
+    "tr": "Perşembe"
   },
   {
     "id": "cal_5",
@@ -58650,7 +59903,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "vineri",
     "lt": "penktadienis",
     "uk": "п'ятниця",
-    "cs": "pátek"
+    "cs": "pátek",
+    "tr": "Cuma"
   },
   {
     "id": "cal_6",
@@ -58666,7 +59920,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "sâmbătă",
     "lt": "šeštadienis",
     "uk": "субота",
-    "cs": "sobota"
+    "cs": "sobota",
+    "tr": "Cumartesi"
   },
   {
     "id": "cal_7",
@@ -58682,7 +59937,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "duminică",
     "lt": "sekmadienis",
     "uk": "неділя",
-    "cs": "neděle"
+    "cs": "neděle",
+    "tr": "Pazar"
   },
   {
     "id": "cal_8",
@@ -58698,7 +59954,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "ianuarie",
     "lt": "sausis",
     "uk": "січень",
-    "cs": "leden"
+    "cs": "leden",
+    "tr": "Ocak"
   },
   {
     "id": "cal_9",
@@ -58714,7 +59971,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "februarie",
     "lt": "vasaris",
     "uk": "лютий",
-    "cs": "únor"
+    "cs": "únor",
+    "tr": "Şubat"
   },
   {
     "id": "cal_10",
@@ -58730,7 +59988,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "martie",
     "lt": "kovas",
     "uk": "березень",
-    "cs": "březen"
+    "cs": "březen",
+    "tr": "Mart"
   },
   {
     "id": "cal_11",
@@ -58746,7 +60005,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "aprilie",
     "lt": "balandis",
     "uk": "квітень",
-    "cs": "duben"
+    "cs": "duben",
+    "tr": "Nisan"
   },
   {
     "id": "cal_12",
@@ -58762,7 +60022,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "mai",
     "lt": "gegužė",
     "uk": "травень",
-    "cs": "květen"
+    "cs": "květen",
+    "tr": "Mayıs"
   },
   {
     "id": "cal_13",
@@ -58778,7 +60039,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "iunie",
     "lt": "birželis",
     "uk": "червень",
-    "cs": "červen"
+    "cs": "červen",
+    "tr": "Haziran"
   },
   {
     "id": "cal_14",
@@ -58794,7 +60056,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "iulie",
     "lt": "liepa",
     "uk": "липень",
-    "cs": "červenec"
+    "cs": "červenec",
+    "tr": "Temmuz"
   },
   {
     "id": "cal_15",
@@ -58810,7 +60073,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "august",
     "lt": "rugpjūtis",
     "uk": "серпень",
-    "cs": "srpen"
+    "cs": "srpen",
+    "tr": "Ağustos"
   },
   {
     "id": "cal_16",
@@ -58826,7 +60090,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "septembrie",
     "lt": "rugsėjis",
     "uk": "вересень",
-    "cs": "září"
+    "cs": "září",
+    "tr": "Eylül"
   },
   {
     "id": "cal_17",
@@ -58842,7 +60107,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "octombrie",
     "lt": "spalis",
     "uk": "жовтень",
-    "cs": "říjen"
+    "cs": "říjen",
+    "tr": "Ekim"
   },
   {
     "id": "cal_18",
@@ -58858,7 +60124,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "noiembrie",
     "lt": "lapkritis",
     "uk": "листопад",
-    "cs": "listopad"
+    "cs": "listopad",
+    "tr": "Kasım"
   },
   {
     "id": "cal_19",
@@ -58874,7 +60141,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "decembrie",
     "lt": "gruodis",
     "uk": "грудень",
-    "cs": "prosinec"
+    "cs": "prosinec",
+    "tr": "Aralık"
   },
   {
     "id": "cal_20",
@@ -58890,7 +60158,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "primăvară",
     "lt": "pavasaris",
     "uk": "весна",
-    "cs": "jaro"
+    "cs": "jaro",
+    "tr": "ilkbahar"
   },
   {
     "id": "cal_21",
@@ -58906,7 +60175,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "vară",
     "lt": "vasara",
     "uk": "літо",
-    "cs": "léto"
+    "cs": "léto",
+    "tr": "yaz"
   },
   {
     "id": "cal_22",
@@ -58922,7 +60192,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "toamnă",
     "lt": "ruduo",
     "uk": "осінь",
-    "cs": "podzim"
+    "cs": "podzim",
+    "tr": "sonbahar"
   },
   {
     "id": "cal_23",
@@ -58938,7 +60209,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "iarnă",
     "lt": "žiema",
     "uk": "зима",
-    "cs": "zima"
+    "cs": "zima",
+    "tr": "kış"
   },
   {
     "id": "cal_24",
@@ -58954,7 +60226,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "zi",
     "lt": "diena",
     "uk": "день",
-    "cs": "den"
+    "cs": "den",
+    "tr": "gün"
   },
   {
     "id": "cal_25",
@@ -58970,7 +60243,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "săptămână",
     "lt": "savaitė",
     "uk": "тиждень",
-    "cs": "týden"
+    "cs": "týden",
+    "tr": "hafta"
   },
   {
     "id": "cal_26",
@@ -58986,7 +60260,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "lună",
     "lt": "mėnuo",
     "uk": "місяць",
-    "cs": "měsíc"
+    "cs": "měsíc",
+    "tr": "ay"
   },
   {
     "id": "cal_27",
@@ -59002,7 +60277,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "anotimp",
     "lt": "metų laikas",
     "uk": "пора року",
-    "cs": "roční období"
+    "cs": "roční období",
+    "tr": "mevsim"
   },
   {
     "id": "cal_28",
@@ -59018,7 +60294,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "an",
     "lt": "metai",
     "uk": "рік",
-    "cs": "rok"
+    "cs": "rok",
+    "tr": "yıl"
   },
   {
     "id": "cal_29",
@@ -59034,7 +60311,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "două săptămâni",
     "lt": "dvi savaitės",
     "uk": "два тижні",
-    "cs": "čtrnáct dní"
+    "cs": "čtrnáct dní",
+    "tr": "iki hafta"
   },
   {
     "id": "cal_30",
@@ -59050,7 +60328,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "deceniu",
     "lt": "dešimtmetis",
     "uk": "десятиліття",
-    "cs": "desetiletí"
+    "cs": "desetiletí",
+    "tr": "on yıl"
   },
   {
     "id": "cal_31",
@@ -59066,7 +60345,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "secol",
     "lt": "amžius",
     "uk": "століття",
-    "cs": "století"
+    "cs": "století",
+    "tr": "yüzyıl"
   },
   {
     "id": "cal_32",
@@ -59082,7 +60362,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "mileniu",
     "lt": "tūkstantmetis",
     "uk": "тисячоліття",
-    "cs": "tisíciletí"
+    "cs": "tisíciletí",
+    "tr": "bin yıl"
   },
   {
     "id": "cal_33",
@@ -59098,7 +60379,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "weekend",
     "lt": "savaitgalis",
     "uk": "вихідні",
-    "cs": "víkend"
+    "cs": "víkend",
+    "tr": "hafta sonu"
   },
   {
     "id": "cal_34",
@@ -59114,7 +60396,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "zi lucrătoare",
     "lt": "darbo diena",
     "uk": "будній день",
-    "cs": "všední den"
+    "cs": "všední den",
+    "tr": "hafta içi"
   },
   {
     "id": "cal_35",
@@ -59130,7 +60413,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "azi",
     "lt": "šiandien",
     "uk": "сьогодні",
-    "cs": "dnes"
+    "cs": "dnes",
+    "tr": "bugün"
   },
   {
     "id": "cal_36",
@@ -59146,7 +60430,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "mâine",
     "lt": "rytoj",
     "uk": "завтра",
-    "cs": "zítra"
+    "cs": "zítra",
+    "tr": "yarın"
   },
   {
     "id": "cal_37",
@@ -59162,7 +60447,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "ieri",
     "lt": "vakar",
     "uk": "вчора",
-    "cs": "včera"
+    "cs": "včera",
+    "tr": "dün"
   },
   {
     "id": "cal_38",
@@ -59178,7 +60464,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "dată",
     "lt": "data",
     "uk": "дата",
-    "cs": "datum"
+    "cs": "datum",
+    "tr": "tarih"
   },
   {
     "id": "cal_39",
@@ -59194,7 +60481,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "calendar",
     "lt": "kalendorius",
     "uk": "календар",
-    "cs": "kalendář"
+    "cs": "kalendář",
+    "tr": "takvim"
   },
   {
     "id": "cal_40",
@@ -59210,7 +60498,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "an bisect",
     "lt": "keliamieji metai",
     "uk": "високосний рік",
-    "cs": "přestupný rok"
+    "cs": "přestupný rok",
+    "tr": "artık yıl"
   },
   {
     "id": "cal_41",
@@ -59226,7 +60515,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "trimestru",
     "lt": "ketvirtis",
     "uk": "квартал",
-    "cs": "čtvrtletí"
+    "cs": "čtvrtletí",
+    "tr": "çeyrek"
   },
   {
     "id": "cal_42",
@@ -59242,7 +60532,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "semestru",
     "lt": "pusmetis",
     "uk": "півріччя",
-    "cs": "pololetí"
+    "cs": "pololetí",
+    "tr": "yarım yıl"
   },
   {
     "id": "cal_43",
@@ -59258,7 +60549,8 @@ window.QM_VOCAB_CALENDAR_DATA = [
     "ro": "aniversare",
     "lt": "metinės",
     "uk": "річниця",
-    "cs": "výročí"
+    "cs": "výročí",
+    "tr": "yıl dönümü"
   }
 ];
 window.QM_VOCAB_SPACE_DATA = [
@@ -59284,7 +60576,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "uzay"
   },
   {
     "id": "astronomy",
@@ -59308,7 +60601,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "brightness": 1,
     "contrast": 1,
     "saturation": 1,
-    "gamma": 1
+    "gamma": 1,
+    "tr": "astronomi"
   },
   {
     "id": "universe",
@@ -59328,7 +60622,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-universe.png",
     "focalX": 50,
     "focalY": 0,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "evren"
   },
   {
     "id": "galaxy",
@@ -59348,7 +60643,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-galaxy.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "galaksi"
   },
   {
     "id": "milky-way",
@@ -59368,7 +60664,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-milky-way.jpg",
     "focalX": 50,
     "focalY": 55.051997323656195,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "Samanyolu"
   },
   {
     "id": "sun",
@@ -59385,7 +60682,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "saulė",
     "uk": "сонце",
     "cs": "slunce",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-sun.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-sun.jpg",
+    "tr": "Güneş"
   },
   {
     "id": "moon",
@@ -59402,7 +60700,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "mėnulis",
     "uk": "місяць",
     "cs": "měsíc",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-moon.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-moon.jpg",
+    "tr": "Ay"
   },
   {
     "id": "planet",
@@ -59422,7 +60721,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-planet.jpg",
     "focalX": 50,
     "focalY": 66.84887004348467,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "gezegen"
   },
   {
     "id": "mercury",
@@ -59439,7 +60739,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "Merkurijus",
     "uk": "Меркурій",
     "cs": "Merkur",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-mercury.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-mercury.jpg",
+    "tr": "Merkür"
   },
   {
     "id": "venus",
@@ -59456,7 +60757,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "Venera",
     "uk": "Венера",
     "cs": "Venuše",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-venus.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-venus.jpg",
+    "tr": "Venüs"
   },
   {
     "id": "earth",
@@ -59473,7 +60775,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "Žemė",
     "uk": "Земля",
     "cs": "Země",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-earth.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-earth.jpg",
+    "tr": "Dünya"
   },
   {
     "id": "mars",
@@ -59490,7 +60793,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "Marsas",
     "uk": "Марс",
     "cs": "Mars",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-mars.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-mars.jpg",
+    "tr": "Mars"
   },
   {
     "id": "jupiter",
@@ -59507,7 +60811,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "Jupiteris",
     "uk": "Юпітер",
     "cs": "Jupiter",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-jupiter.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-jupiter.jpg",
+    "tr": "Jüpiter"
   },
   {
     "id": "saturn",
@@ -59527,7 +60832,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-saturn.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "Satürn"
   },
   {
     "id": "uranus",
@@ -59544,7 +60850,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "Uranas",
     "uk": "Уран",
     "cs": "Uran",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-uranus.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-uranus.jpg",
+    "tr": "Uranüs"
   },
   {
     "id": "neptune",
@@ -59561,7 +60868,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "Neptūnas",
     "uk": "Нептун",
     "cs": "Neptun",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-neptune.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-neptune.jpg",
+    "tr": "Neptün"
   },
   {
     "id": "pluto",
@@ -59578,7 +60886,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "Plutonas",
     "uk": "Плутон",
     "cs": "Pluto",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-pluto.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-pluto.jpg",
+    "tr": "Plüton"
   },
   {
     "id": "star",
@@ -59598,7 +60907,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-star.jpg",
     "focalX": 50,
     "focalY": 18,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "yıldız"
   },
   {
     "id": "constellation",
@@ -59618,7 +60928,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-constellation.png",
     "focalX": 49.74816145297296,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "takımyıldız"
   },
   {
     "id": "nebula",
@@ -59638,7 +60949,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-nebula.jpg",
     "focalX": 50,
     "focalY": 100,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "bulutsu"
   },
   {
     "id": "black-hole",
@@ -59655,7 +60967,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "juodoji skylė",
     "uk": "чорна діра",
     "cs": "černá díra",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-black-hole.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-black-hole.jpg",
+    "tr": "kara delik"
   },
   {
     "id": "supernova",
@@ -59672,7 +60985,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "supernova",
     "uk": "наднова",
     "cs": "supernova",
-    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-supernova.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-supernova.jpg",
+    "tr": "süpernova"
   },
   {
     "id": "comet",
@@ -59692,7 +61006,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-comet.jpg",
     "focalX": 55.43878084946863,
     "focalY": 100,
-    "zoom": 1.55
+    "zoom": 1.55,
+    "tr": "kuyrukluyıldız"
   },
   {
     "id": "asteroid",
@@ -59712,7 +61027,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-asteroid.jpg",
     "focalX": 0,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "asteroit"
   },
   {
     "id": "meteor",
@@ -59732,7 +61048,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-meteor.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "meteor"
   },
   {
     "id": "meteorite",
@@ -59752,7 +61069,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-meteorite.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "göktaşı"
   },
   {
     "id": "crater",
@@ -59772,7 +61090,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-crater.jpg",
     "focalX": 53.625212068173944,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "krater"
   },
   {
     "id": "solar-eclipse",
@@ -59792,7 +61111,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-solar-eclipse.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "güneş tutulması"
   },
   {
     "id": "aurora",
@@ -59812,7 +61132,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-aurora.jpg",
     "focalX": 100,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "kutup ışıkları"
   },
   {
     "id": "solar-flare",
@@ -59832,7 +61153,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-solar-flare.jpg",
     "focalX": 6.181079613234472,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "güneş patlaması"
   },
   {
     "id": "astronaut",
@@ -59852,7 +61174,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-astronaut.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "astronot"
   },
   {
     "id": "spacewalk",
@@ -59872,7 +61195,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-spacewalk.jpg",
     "focalX": 77.49750035502521,
     "focalY": 100,
-    "zoom": 1.4000000000000001
+    "zoom": 1.4000000000000001,
+    "tr": "uzay yürüyüşü"
   },
   {
     "id": "spacesuit",
@@ -59892,7 +61216,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-spacesuit.jpg",
     "focalX": 50,
     "focalY": 14.02259916392766,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "uzay giysisi"
   },
   {
     "id": "rocket",
@@ -59912,7 +61237,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-rocket.jpg",
     "focalX": 49.51062320878862,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "roket"
   },
   {
     "id": "space-shuttle",
@@ -59932,7 +61258,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-space-shuttle.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "uzay mekiği"
   },
   {
     "id": "space-station",
@@ -59952,7 +61279,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-space-station.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "uzay istasyonu"
   },
   {
     "id": "satellite",
@@ -59972,7 +61300,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-satellite.jpg",
     "focalX": 50,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "uydu"
   },
   {
     "id": "space-probe",
@@ -59992,7 +61321,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-space-probe.jpg",
     "focalX": 0,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "uzay sondası"
   },
   {
     "id": "telescope",
@@ -60012,7 +61342,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-telescope.jpg",
     "focalX": 20.041407000240074,
     "focalY": 50,
-    "zoom": 1
+    "zoom": 1,
+    "tr": "teleskop"
   },
   {
     "id": "observatory",
@@ -60032,7 +61363,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-observatory.jpg",
     "focalX": 44.08033676645228,
     "focalY": 100,
-    "zoom": 1.25
+    "zoom": 1.25,
+    "tr": "gözlemevi"
   },
   {
     "id": "moon-landing",
@@ -60052,7 +61384,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/languages/vocab-space/space-moon-landing.jpg",
     "focalX": 48.4023917434562,
     "focalY": 0,
-    "zoom": 1.3
+    "zoom": 1.3,
+    "tr": "Ay'a iniş"
   },
   {
     "id": "big-bang",
@@ -60069,7 +61402,8 @@ window.QM_VOCAB_SPACE_DATA = [
     "lt": "Didysis sprogimas",
     "uk": "Великий вибух",
     "cs": "velký třesk",
-    "imageUrl": ""
+    "imageUrl": "",
+    "tr": "Büyük Patlama"
   }
 ];
 window.QM_DOGBREEDS_DATA = [
