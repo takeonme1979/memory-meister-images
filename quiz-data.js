@@ -2708,7 +2708,7 @@ window.QM_VOCAB_CAT_META = {};
 window.QM_MUSICIANS_DATA = [
   {
     "id": "id_1783551205698_3q5hykqivs",
-    "name": "Adele Adkins",
+    "name": "Adele",
     "imageUrl": "https://raw.githubusercontent.com/takeonme1979/memory-meister-images/main/music/musicians/adele.jpg",
     "focalX": 50,
     "focalY": 16.268454591385805,
