@@ -2622,7 +2622,27 @@ window.QM_HIDDEN_QUIZZES = [
   "ukAdjectives",
   "rukAdjectives",
   "csAdjectives",
-  "rcsAdjectives"
+  "rcsAdjectives",
+  "trIdioms",
+  "rtrIdioms",
+  "trPhrases",
+  "rtrPhrases",
+  "trSentences",
+  "rtrSentences",
+  "trUpperBeginnerSentences",
+  "rtrUpperBeginnerSentences",
+  "trLowerIntSentences",
+  "rtrLowerIntSentences",
+  "trIntermediateSentences",
+  "rtrIntermediateSentences",
+  "greekAlphabet",
+  "phobiasCommon",
+  "phobiasUnusual",
+  "musicalTerms",
+  "collectiveNouns",
+  "cookingTerms",
+  "latinPhrases",
+  "wordOrigins"
 ];
 window.QM_HIDDEN_VOCAB_CATS = [];
 window.QM_QUIZ_META = {
@@ -51230,6 +51250,3766 @@ window.QM_TUDORELIZABETH_DATA = [
     "example": ""
   }
 ];
+window.QM_GREEKALPHABET_DATA = [
+  {
+    "id": 1,
+    "term": "Α α",
+    "definition": "Alpha",
+    "example": "Alpha particle in physics; α marks an angle in geometry and the significance level in statistics."
+  },
+  {
+    "id": 2,
+    "term": "Β β",
+    "definition": "Beta",
+    "example": "Beta testing; beta blockers; β is the second angle after α."
+  },
+  {
+    "id": 3,
+    "term": "Γ γ",
+    "definition": "Gamma",
+    "example": "Gamma rays and gamma correction; Γ is the gamma function in maths."
+  },
+  {
+    "id": 4,
+    "term": "Δ δ",
+    "definition": "Delta",
+    "example": "Δ means \"change in\" — Δt is elapsed time. A river delta is named for the triangular capital."
+  },
+  {
+    "id": 5,
+    "term": "Ε ε",
+    "definition": "Epsilon",
+    "example": "ε stands for a vanishingly small quantity, hence \"epsilon\" for a tiny margin."
+  },
+  {
+    "id": 6,
+    "term": "Ζ ζ",
+    "definition": "Zeta",
+    "example": "The Riemann zeta function, ζ(s), sits at the heart of the most famous unsolved problem in maths."
+  },
+  {
+    "id": 7,
+    "term": "Η η",
+    "definition": "Eta",
+    "example": "η is efficiency in engineering and viscosity in fluid mechanics."
+  },
+  {
+    "id": 8,
+    "term": "Θ θ",
+    "definition": "Theta",
+    "example": "θ is the default name for an unknown angle in trigonometry."
+  },
+  {
+    "id": 9,
+    "term": "Ι ι",
+    "definition": "Iota",
+    "example": "\"Not one iota\" — the smallest Greek letter, so the smallest possible amount."
+  },
+  {
+    "id": 10,
+    "term": "Κ κ",
+    "definition": "Kappa",
+    "example": "κ is curvature in geometry and the thermal conductivity of a material."
+  },
+  {
+    "id": 11,
+    "term": "Λ λ",
+    "definition": "Lambda",
+    "example": "λ is wavelength in physics, and names the anonymous function in programming."
+  },
+  {
+    "id": 12,
+    "term": "Μ μ",
+    "definition": "Mu",
+    "example": "μ is the SI prefix micro- (one millionth) and the mean of a population."
+  },
+  {
+    "id": 13,
+    "term": "Ν ν",
+    "definition": "Nu",
+    "example": "ν is frequency in physics — easy to confuse with an italic v."
+  },
+  {
+    "id": 14,
+    "term": "Ξ ξ",
+    "definition": "Xi",
+    "example": "Rarely met outside maths, where ξ is a generic variable. Pronounced \"zai\" or \"ksi\"."
+  },
+  {
+    "id": 15,
+    "term": "Ο ο",
+    "definition": "Omicron",
+    "example": "Literally \"little o\", as against omega, \"big o\". Named a Covid variant in 2021."
+  },
+  {
+    "id": 16,
+    "term": "Π π",
+    "definition": "Pi",
+    "example": "π is 3.14159…, the ratio of a circle's circumference to its diameter. Capital Π means \"product of\"."
+  },
+  {
+    "id": 17,
+    "term": "Ρ ρ",
+    "definition": "Rho",
+    "example": "ρ is density in physics and the correlation coefficient in statistics."
+  },
+  {
+    "id": 18,
+    "term": "Σ σ",
+    "definition": "Sigma",
+    "example": "Capital Σ means \"sum of\"; lowercase σ is standard deviation, hence Six Sigma."
+  },
+  {
+    "id": 19,
+    "term": "Τ τ",
+    "definition": "Tau",
+    "example": "τ is torque in physics, and the circle constant 2π to its supporters."
+  },
+  {
+    "id": 20,
+    "term": "Υ υ",
+    "definition": "Upsilon",
+    "example": "The ancestor of both U and Y in our own alphabet."
+  },
+  {
+    "id": 21,
+    "term": "Φ φ",
+    "definition": "Phi",
+    "example": "φ is the golden ratio, roughly 1.618, and names the magnetic flux in physics."
+  },
+  {
+    "id": 22,
+    "term": "Χ χ",
+    "definition": "Chi",
+    "example": "The chi-squared test, χ². The X in \"Xmas\" is this letter — the start of Christ in Greek."
+  },
+  {
+    "id": 23,
+    "term": "Ψ ψ",
+    "definition": "Psi",
+    "example": "ψ is the wave function in quantum mechanics, and the emblem of psychology."
+  },
+  {
+    "id": 24,
+    "term": "Ω ω",
+    "definition": "Omega",
+    "example": "Capital Ω is the ohm, unit of resistance. \"The alpha and the omega\" — the first and the last."
+  }
+];
+window.QM_PHOBIASCOMMON_DATA = [
+  {
+    "id": 1,
+    "term": "Arachnophobia",
+    "definition": "Fear of spiders",
+    "example": "From Greek arachne, spider — among the most common of all specific phobias."
+  },
+  {
+    "id": 2,
+    "term": "Acrophobia",
+    "definition": "Fear of heights",
+    "example": "From akron, summit. Often confused with vertigo, which is the spinning sensation, not the fear."
+  },
+  {
+    "id": 3,
+    "term": "Claustrophobia",
+    "definition": "Fear of enclosed spaces",
+    "example": "From Latin claustrum, a bolt or enclosure — the root behind \"cloister\" too."
+  },
+  {
+    "id": 4,
+    "term": "Agoraphobia",
+    "definition": "Fear of public places you cannot easily escape",
+    "example": "From agora, the Greek marketplace. Not simply a fear of open spaces, as often assumed."
+  },
+  {
+    "id": 5,
+    "term": "Ophidiophobia",
+    "definition": "Fear of snakes",
+    "example": "From ophis, serpent. With spiders, one of the two fears most often argued to be innate."
+  },
+  {
+    "id": 6,
+    "term": "Cynophobia",
+    "definition": "Fear of dogs",
+    "example": "From kyon, dog — the same root as \"cynic\", whose followers were called doglike."
+  },
+  {
+    "id": 7,
+    "term": "Ailurophobia",
+    "definition": "Fear of cats",
+    "example": "From ailouros, cat. Napoleon and Genghis Khan are both said to have had it."
+  },
+  {
+    "id": 8,
+    "term": "Entomophobia",
+    "definition": "Fear of insects",
+    "example": "From entomon, insect — literally \"cut into\", describing a segmented body."
+  },
+  {
+    "id": 9,
+    "term": "Apiphobia",
+    "definition": "Fear of bees",
+    "example": "From Latin apis, bee. Distinct from a genuine sting allergy, though the two often travel together."
+  },
+  {
+    "id": 10,
+    "term": "Musophobia",
+    "definition": "Fear of mice and rats",
+    "example": "From mus, mouse. The stereotype of an elephant fearing mice has no basis in fact."
+  },
+  {
+    "id": 11,
+    "term": "Ornithophobia",
+    "definition": "Fear of birds",
+    "example": "From ornis, bird. Hitchcock built an entire film on it."
+  },
+  {
+    "id": 12,
+    "term": "Herpetophobia",
+    "definition": "Fear of reptiles",
+    "example": "From herpeton, creeping thing. Broader than ophidiophobia, taking in lizards and crocodiles."
+  },
+  {
+    "id": 13,
+    "term": "Zoophobia",
+    "definition": "Fear of animals in general",
+    "example": "The umbrella term under which most of the individual animal fears sit."
+  },
+  {
+    "id": 14,
+    "term": "Nyctophobia",
+    "definition": "Fear of the dark",
+    "example": "From nyx, night. Common in children and usually outgrown; persistent cases are the phobia proper."
+  },
+  {
+    "id": 15,
+    "term": "Astraphobia",
+    "definition": "Fear of thunder and lightning",
+    "example": "From astrape, lightning. Widely seen in dogs as well as people."
+  },
+  {
+    "id": 16,
+    "term": "Thalassophobia",
+    "definition": "Fear of deep water or the open sea",
+    "example": "From thalassa, sea. Often triggered less by water than by not seeing the bottom."
+  },
+  {
+    "id": 17,
+    "term": "Aquaphobia",
+    "definition": "Fear of water",
+    "example": "Distinct from hydrophobia, an old name for rabies, in which swallowing becomes painful."
+  },
+  {
+    "id": 18,
+    "term": "Pyrophobia",
+    "definition": "Fear of fire",
+    "example": "From pyr, fire — the root of \"pyre\" and \"pyrotechnics\"."
+  },
+  {
+    "id": 19,
+    "term": "Iatrophobia",
+    "definition": "Fear of doctors",
+    "example": "From iatros, healer. It gives \"iatrogenic\": harm caused by the treatment itself."
+  },
+  {
+    "id": 20,
+    "term": "Trypanophobia",
+    "definition": "Fear of needles and injections",
+    "example": "From trypanon, borer. One of the few phobias that can cause fainting outright."
+  },
+  {
+    "id": 21,
+    "term": "Hemophobia",
+    "definition": "Fear of blood",
+    "example": "From haima, blood. Like needle fear, it can drop blood pressure rather than raise it."
+  },
+  {
+    "id": 22,
+    "term": "Odontophobia",
+    "definition": "Fear of dentistry",
+    "example": "From odous, tooth — the root of \"orthodontist\" and \"mastodon\", the nipple-toothed beast."
+  },
+  {
+    "id": 23,
+    "term": "Emetophobia",
+    "definition": "Fear of vomiting",
+    "example": "From emein, to vomit. More common than usually assumed, and often shapes eating habits."
+  },
+  {
+    "id": 24,
+    "term": "Mysophobia",
+    "definition": "Fear of germs and dirt",
+    "example": "From mysos, uncleanness. Sometimes called germophobia; often bound up with compulsive washing."
+  },
+  {
+    "id": 25,
+    "term": "Thanatophobia",
+    "definition": "Fear of death or dying",
+    "example": "From Thanatos, the Greek personification of death."
+  },
+  {
+    "id": 26,
+    "term": "Necrophobia",
+    "definition": "Fear of corpses",
+    "example": "From nekros, corpse. Distinct from thanatophobia, which is about the event, not the body."
+  },
+  {
+    "id": 27,
+    "term": "Taphophobia",
+    "definition": "Fear of being buried alive",
+    "example": "From taphos, grave. Widespread enough in the 1800s that coffins were fitted with bells."
+  },
+  {
+    "id": 28,
+    "term": "Phasmophobia",
+    "definition": "Fear of ghosts",
+    "example": "From phasma, apparition — the same root as \"phantom\" and \"phase\"."
+  },
+  {
+    "id": 29,
+    "term": "Coulrophobia",
+    "definition": "Fear of clowns",
+    "example": "A modern coinage, probably from kolobathristes, stilt-walker. It has no ancient pedigree."
+  },
+  {
+    "id": 30,
+    "term": "Pediophobia",
+    "definition": "Fear of dolls",
+    "example": "From paidion, little child. A narrower cousin of automatonophobia."
+  },
+  {
+    "id": 31,
+    "term": "Xenophobia",
+    "definition": "Fear or hatred of strangers and foreigners",
+    "example": "From xenos, stranger. Used far more often as a social term than a clinical one."
+  },
+  {
+    "id": 32,
+    "term": "Sociophobia",
+    "definition": "Fear of social situations",
+    "example": "Now usually called social anxiety disorder; the fear is of being judged."
+  },
+  {
+    "id": 33,
+    "term": "Glossophobia",
+    "definition": "Fear of public speaking",
+    "example": "From glossa, tongue. Regularly tops surveys of common fears, above death itself."
+  },
+  {
+    "id": 34,
+    "term": "Scopophobia",
+    "definition": "Fear of being stared at",
+    "example": "From skopein, to look — the root of \"telescope\" and \"microscope\"."
+  },
+  {
+    "id": 35,
+    "term": "Autophobia",
+    "definition": "Fear of being alone",
+    "example": "From autos, self. The fear is of isolation, not of oneself."
+  },
+  {
+    "id": 36,
+    "term": "Philophobia",
+    "definition": "Fear of falling in love",
+    "example": "From philein, to love — the same root as \"philosophy\", love of wisdom."
+  },
+  {
+    "id": 37,
+    "term": "Atychiphobia",
+    "definition": "Fear of failure",
+    "example": "From atyches, unfortunate. Often shows up as procrastination rather than open fear."
+  },
+  {
+    "id": 38,
+    "term": "Atelophobia",
+    "definition": "Fear of imperfection",
+    "example": "From ateles, incomplete. The perfectionist's phobia."
+  },
+  {
+    "id": 39,
+    "term": "Ergophobia",
+    "definition": "Fear of work",
+    "example": "From ergon, work — the root of \"energy\" and the erg, a unit of work."
+  },
+  {
+    "id": 40,
+    "term": "Somniphobia",
+    "definition": "Fear of falling asleep",
+    "example": "From Latin somnus, sleep. Often follows sleep paralysis or recurring nightmares."
+  },
+  {
+    "id": 41,
+    "term": "Aviophobia",
+    "definition": "Fear of flying",
+    "example": "From Latin avis, bird. Usually a blend of claustrophobia and fear of losing control."
+  },
+  {
+    "id": 42,
+    "term": "Gephyrophobia",
+    "definition": "Fear of crossing bridges",
+    "example": "From gephyra, bridge. Some American bridge authorities will drive nervous motorists across."
+  },
+  {
+    "id": 43,
+    "term": "Triskaidekaphobia",
+    "definition": "Fear of the number thirteen",
+    "example": "Why many hotels number the floor above the twelfth as fourteen."
+  },
+  {
+    "id": 44,
+    "term": "Megalophobia",
+    "definition": "Fear of very large objects",
+    "example": "From megas, great. Statues, ships and dams are common triggers."
+  },
+  {
+    "id": 45,
+    "term": "Trypophobia",
+    "definition": "Aversion to clusters of small holes",
+    "example": "Coined online in 2005. Widely reported, though not formally recognised as a phobia."
+  },
+  {
+    "id": 46,
+    "term": "Nomophobia",
+    "definition": "Fear of being without your mobile phone",
+    "example": "A contraction of \"no mobile phobia\", coined in a UK study in 2008."
+  },
+  {
+    "id": 47,
+    "term": "Technophobia",
+    "definition": "Fear or distrust of new machines and devices",
+    "example": "Older than it sounds: the Luddites were breaking looms by 1811."
+  },
+  {
+    "id": 48,
+    "term": "Telephonophobia",
+    "definition": "Fear of making or taking phone calls",
+    "example": "Increasingly reported among people who grew up with messaging instead."
+  },
+  {
+    "id": 49,
+    "term": "Phobophobia",
+    "definition": "Fear of developing a phobia",
+    "example": "The fear of fear itself — and the reason panic attacks so often feed on themselves."
+  },
+  {
+    "id": 50,
+    "term": "Cyberphobia",
+    "definition": "Fear of computers and technology",
+    "example": "From kybernetes, steersman — the same root as \"cybernetics\" and \"governor\"."
+  }
+];
+window.QM_PHOBIASUNUSUAL_DATA = [
+  {
+    "id": 1,
+    "term": "Ichthyophobia",
+    "definition": "Fear of fish",
+    "example": "From ichthys, fish — the same word as the early Christian fish symbol."
+  },
+  {
+    "id": 2,
+    "term": "Anemophobia",
+    "definition": "Fear of wind or draughts",
+    "example": "From anemos, wind, which also gives us the anemone, the windflower."
+  },
+  {
+    "id": 3,
+    "term": "Chionophobia",
+    "definition": "Fear of snow",
+    "example": "From chion, snow. Usually a fear of being snowed in or stranded rather than of the snow itself."
+  },
+  {
+    "id": 4,
+    "term": "Ombrophobia",
+    "definition": "Fear of rain",
+    "example": "From ombros, rainstorm. Botanists use the same word for plants that cannot tolerate rain."
+  },
+  {
+    "id": 5,
+    "term": "Heliophobia",
+    "definition": "Fear of sunlight",
+    "example": "From helios, sun. Sometimes secondary to a skin condition rather than a fear in itself."
+  },
+  {
+    "id": 6,
+    "term": "Selenophobia",
+    "definition": "Fear of the moon",
+    "example": "From selene, moon — the root of the element selenium, named after it."
+  },
+  {
+    "id": 7,
+    "term": "Nosocomephobia",
+    "definition": "Fear of hospitals",
+    "example": "From nosokomeion, hospital. The same root gives \"nosocomial\", meaning hospital-acquired."
+  },
+  {
+    "id": 8,
+    "term": "Tomophobia",
+    "definition": "Fear of surgery",
+    "example": "From tome, a cutting — the same root as \"atom\", meaning uncuttable."
+  },
+  {
+    "id": 9,
+    "term": "Pharmacophobia",
+    "definition": "Fear of taking medicine",
+    "example": "From pharmakon, which meant both remedy and poison in Greek."
+  },
+  {
+    "id": 10,
+    "term": "Pathophobia",
+    "definition": "Fear of disease",
+    "example": "From pathos, suffering — the root of \"pathology\" and \"sympathy\" alike."
+  },
+  {
+    "id": 11,
+    "term": "Nyctohylophobia",
+    "definition": "Fear of dark woods at night",
+    "example": "A compound of night and forest — the specific dread that fairy tales were built on."
+  },
+  {
+    "id": 12,
+    "term": "Automatonophobia",
+    "definition": "Fear of humanlike figures such as dummies and waxworks",
+    "example": "Closely tied to the \"uncanny valley\": almost human is more unsettling than plainly not."
+  },
+  {
+    "id": 13,
+    "term": "Masklophobia",
+    "definition": "Fear of masks and costumed characters",
+    "example": "Why toddlers so often recoil from mascots: the face does not move with the voice."
+  },
+  {
+    "id": 14,
+    "term": "Gamophobia",
+    "definition": "Fear of marriage or commitment",
+    "example": "From gamos, marriage, which also gives \"monogamy\" and \"polygamy\"."
+  },
+  {
+    "id": 15,
+    "term": "Kakorrhaphiophobia",
+    "definition": "Fear of defeat",
+    "example": "One of the longest names on the list, and among the least used."
+  },
+  {
+    "id": 16,
+    "term": "Decidophobia",
+    "definition": "Fear of making decisions",
+    "example": "Coined by the philosopher Walter Kaufmann in 1973."
+  },
+  {
+    "id": 17,
+    "term": "Chronophobia",
+    "definition": "Fear of time passing",
+    "example": "From Chronos, time. Documented among prisoners serving long sentences."
+  },
+  {
+    "id": 18,
+    "term": "Cathisophobia",
+    "definition": "Fear of sitting down",
+    "example": "Sometimes rooted in a physical condition that makes stillness unbearable."
+  },
+  {
+    "id": 19,
+    "term": "Oneirophobia",
+    "definition": "Fear of dreams",
+    "example": "From oneiros, dream — the root of \"oneiromancy\", divination by dreams."
+  },
+  {
+    "id": 20,
+    "term": "Phagophobia",
+    "definition": "Fear of swallowing",
+    "example": "From phagein, to eat, the same root as in \"oesophagus\" and \"sarcophagus\"."
+  },
+  {
+    "id": 21,
+    "term": "Cibophobia",
+    "definition": "Fear of food",
+    "example": "From Latin cibus, food. Distinct from an eating disorder, though the two can overlap."
+  },
+  {
+    "id": 22,
+    "term": "Mycophobia",
+    "definition": "Fear of mushrooms",
+    "example": "From mykes, fungus. Cultures are often described as mycophobic or mycophilic."
+  },
+  {
+    "id": 23,
+    "term": "Lachanophobia",
+    "definition": "Fear of vegetables",
+    "example": "From lachanon, garden herb. Rarer, and more genuinely disabling, than fussy eating."
+  },
+  {
+    "id": 24,
+    "term": "Alliumphobia",
+    "definition": "Fear of garlic",
+    "example": "From the Latin genus name Allium, which covers onions and leeks as well."
+  },
+  {
+    "id": 25,
+    "term": "Methyphobia",
+    "definition": "Fear of alcohol",
+    "example": "From methy, wine — the same root as \"methyl\" and so, distantly, \"methylated spirits\"."
+  },
+  {
+    "id": 26,
+    "term": "Amaxophobia",
+    "definition": "Fear of riding in a vehicle",
+    "example": "From hamaxa, wagon. Frequently follows a road accident."
+  },
+  {
+    "id": 27,
+    "term": "Siderodromophobia",
+    "definition": "Fear of trains and rail travel",
+    "example": "Literally \"iron-road fear\" — sideros, iron, plus dromos, a running track."
+  },
+  {
+    "id": 28,
+    "term": "Bathmophobia",
+    "definition": "Fear of stairs and steep slopes",
+    "example": "From bathmos, step. Distinct from acrophobia: the trigger is the incline, not the height."
+  },
+  {
+    "id": 29,
+    "term": "Batrachophobia",
+    "definition": "Fear of frogs and toads",
+    "example": "From batrachos, frog — the title of Aristophanes' comedy The Frogs."
+  },
+  {
+    "id": 30,
+    "term": "Myrmecophobia",
+    "definition": "Fear of ants",
+    "example": "From myrmex, ant, which gives the anteater its genus name Myrmecophaga."
+  },
+  {
+    "id": 31,
+    "term": "Lepidopterophobia",
+    "definition": "Fear of butterflies and moths",
+    "example": "From lepis, scale, and pteron, wing — scaly wings being what defines the order."
+  },
+  {
+    "id": 32,
+    "term": "Arachibutyrophobia",
+    "definition": "Fear of peanut butter sticking to the roof of the mouth",
+    "example": "Half a joke, but a genuine coinage — and oddly relatable."
+  },
+  {
+    "id": 33,
+    "term": "Tetraphobia",
+    "definition": "Fear of the number four",
+    "example": "Common across East Asia, where the word for four sounds like the word for death."
+  },
+  {
+    "id": 34,
+    "term": "Arithmophobia",
+    "definition": "Fear of numbers",
+    "example": "From arithmos, number — the root of \"arithmetic\" and \"logarithm\"."
+  },
+  {
+    "id": 35,
+    "term": "Paraskevidekatriaphobia",
+    "definition": "Fear of Friday the thirteenth",
+    "example": "Built from the Greek for Friday plus thirteen. Possibly the longest phobia name in use."
+  },
+  {
+    "id": 36,
+    "term": "Hippopotomonstrosesquippedaliophobia",
+    "definition": "Fear of long words",
+    "example": "A deliberate joke: the name is the longest word in the entire list."
+  },
+  {
+    "id": 37,
+    "term": "Panphobia",
+    "definition": "A vague dread of everything, with no fixed object",
+    "example": "From pan, all. Better described as free-floating anxiety than a true phobia."
+  },
+  {
+    "id": 38,
+    "term": "Astrophobia",
+    "definition": "Fear of stars and outer space",
+    "example": "From astron, star. Often the vastness rather than the stars themselves."
+  },
+  {
+    "id": 39,
+    "term": "Kenophobia",
+    "definition": "Fear of empty spaces or voids",
+    "example": "From kenos, empty — the root of the physics term \"kenotic\"."
+  },
+  {
+    "id": 40,
+    "term": "Microphobia",
+    "definition": "Fear of small things",
+    "example": "From mikros, small — the mirror image of megalophobia."
+  },
+  {
+    "id": 41,
+    "term": "Chirophobia",
+    "definition": "Fear of hands",
+    "example": "From cheir, hand — the root of \"chiropractor\" and \"surgeon\", via cheirourgos."
+  },
+  {
+    "id": 42,
+    "term": "Podophobia",
+    "definition": "Fear of feet",
+    "example": "From pous, foot, which also gives \"tripod\" and \"podium\"."
+  },
+  {
+    "id": 43,
+    "term": "Genuphobia",
+    "definition": "Fear of knees",
+    "example": "From Latin genu, knee — the root of \"genuflect\", to bend the knee."
+  },
+  {
+    "id": 44,
+    "term": "Pogonophobia",
+    "definition": "Fear of beards",
+    "example": "From pogon, beard. The word gained currency in Britain in the 1850s."
+  },
+  {
+    "id": 45,
+    "term": "Dentophobia",
+    "definition": "Fear of teeth",
+    "example": "From Latin dens. Distinct from odontophobia, which is about the dental surgery."
+  },
+  {
+    "id": 46,
+    "term": "Catoptrophobia",
+    "definition": "Fear of mirrors",
+    "example": "From katoptron, mirror — the root of \"catoptrics\", the study of reflection."
+  },
+  {
+    "id": 47,
+    "term": "Chromophobia",
+    "definition": "Fear or strong aversion to colours",
+    "example": "From chroma, colour. Also used in art criticism for a distrust of colour itself."
+  },
+  {
+    "id": 48,
+    "term": "Onomatophobia",
+    "definition": "Fear of hearing a certain word or name",
+    "example": "From onoma, name — the root of \"onomatopoeia\" and \"synonym\"."
+  },
+  {
+    "id": 49,
+    "term": "Xanthophobia",
+    "definition": "Fear of the colour yellow",
+    "example": "From xanthos, yellow, which also names the xanthophyll pigment in autumn leaves."
+  },
+  {
+    "id": 50,
+    "term": "Ligyrophobia",
+    "definition": "Fear of loud, sudden noises",
+    "example": "From ligyros, shrill — balloons and fireworks are the usual triggers."
+  }
+];
+window.QM_MUSICALTERMS_DATA = [
+  {
+    "id": 1,
+    "term": "Largo",
+    "definition": "Very slow and broad",
+    "example": "Italian for \"wide\". The slowest tempo marking in common use."
+  },
+  {
+    "id": 2,
+    "term": "Lento",
+    "definition": "Slow",
+    "example": "Plainer than largo, which asks for breadth as well as slowness."
+  },
+  {
+    "id": 3,
+    "term": "Adagio",
+    "definition": "Slow and stately",
+    "example": "Literally \"at ease\". Barber's Adagio for Strings is the famous one."
+  },
+  {
+    "id": 4,
+    "term": "Andante",
+    "definition": "At a walking pace",
+    "example": "From andare, to walk — the tempo you would stroll at."
+  },
+  {
+    "id": 5,
+    "term": "Moderato",
+    "definition": "At a moderate speed",
+    "example": "Often bolted onto another marking, as in allegro moderato."
+  },
+  {
+    "id": 6,
+    "term": "Allegro",
+    "definition": "Fast and lively",
+    "example": "Italian for \"cheerful\" — the mood matters as much as the speed."
+  },
+  {
+    "id": 7,
+    "term": "Vivace",
+    "definition": "Lively and brisk",
+    "example": "From vivo, alive. Usually sits between allegro and presto."
+  },
+  {
+    "id": 8,
+    "term": "Presto",
+    "definition": "Very fast",
+    "example": "The conjuror's \"hey presto\" is the same word: quickly, at once."
+  },
+  {
+    "id": 9,
+    "term": "Prestissimo",
+    "definition": "As fast as possible",
+    "example": "The -issimo ending is the Italian superlative, as in fortissimo."
+  },
+  {
+    "id": 10,
+    "term": "Grave",
+    "definition": "Very slow and solemn",
+    "example": "Pronounced \"GRAH-vay\". Slower even than largo, and heavier."
+  },
+  {
+    "id": 11,
+    "term": "Larghetto",
+    "definition": "A little less slow than largo",
+    "example": "The -etto ending softens a marking; compare allegretto."
+  },
+  {
+    "id": 12,
+    "term": "Allegretto",
+    "definition": "Slightly slower than allegro",
+    "example": "Beethoven's Seventh has the best-known example."
+  },
+  {
+    "id": 13,
+    "term": "Accelerando",
+    "definition": "Gradually getting faster",
+    "example": "Abbreviated accel. The mirror of ritardando."
+  },
+  {
+    "id": 14,
+    "term": "Ritardando",
+    "definition": "Gradually getting slower",
+    "example": "Abbreviated rit. — the standard way to ease into an ending."
+  },
+  {
+    "id": 15,
+    "term": "Ritenuto",
+    "definition": "Immediately slower, not gradually",
+    "example": "Confusingly also shortened to rit.; unlike ritardando the drop is at once."
+  },
+  {
+    "id": 16,
+    "term": "Rallentando",
+    "definition": "Gradually slowing and broadening",
+    "example": "Close to ritardando, with more of a sense of winding down."
+  },
+  {
+    "id": 17,
+    "term": "Rubato",
+    "definition": "Flexibly — steal time from one beat and pay it back to another",
+    "example": "Literally \"robbed\". Chopin is the composer most associated with it."
+  },
+  {
+    "id": 18,
+    "term": "A tempo",
+    "definition": "Return to the previous speed after a change",
+    "example": "Cancels a rit. or accel. and puts the music back on track."
+  },
+  {
+    "id": 19,
+    "term": "Tempo primo",
+    "definition": "Return to the tempo the piece opened with",
+    "example": "Used after several changes, when \"a tempo\" would be ambiguous."
+  },
+  {
+    "id": 20,
+    "term": "Fermata",
+    "definition": "Hold the note or rest longer than written",
+    "example": "The \"bird's eye\" symbol; how long is left to the performer."
+  },
+  {
+    "id": 21,
+    "term": "Pianissimo",
+    "definition": "Very quiet — written pp",
+    "example": "Composers occasionally go further: Tchaikovsky wrote pppppp."
+  },
+  {
+    "id": 22,
+    "term": "Piano",
+    "definition": "Quiet — written p",
+    "example": "The instrument's full name, pianoforte, means \"quiet-loud\"."
+  },
+  {
+    "id": 23,
+    "term": "Mezzo piano",
+    "definition": "Moderately quiet — written mp",
+    "example": "Mezzo means \"half\", so half-quiet."
+  },
+  {
+    "id": 24,
+    "term": "Mezzo forte",
+    "definition": "Moderately loud — written mf",
+    "example": "The most common dynamic of all, and the default if none is marked."
+  },
+  {
+    "id": 25,
+    "term": "Forte",
+    "definition": "Loud — written f",
+    "example": "The same word as in \"that's not my forte\", a strength."
+  },
+  {
+    "id": 26,
+    "term": "Fortissimo",
+    "definition": "Very loud — written ff",
+    "example": "Mahler and Shostakovich both push on to fff and beyond."
+  },
+  {
+    "id": 27,
+    "term": "Crescendo",
+    "definition": "Gradually getting louder",
+    "example": "Shown as an opening hairpin. Italian for \"growing\"."
+  },
+  {
+    "id": 28,
+    "term": "Diminuendo",
+    "definition": "Gradually getting quieter",
+    "example": "A closing hairpin; decrescendo means the same thing."
+  },
+  {
+    "id": 29,
+    "term": "Sforzando",
+    "definition": "With sudden force on a single note",
+    "example": "Written sfz. A stab of loudness, not a change of level."
+  },
+  {
+    "id": 30,
+    "term": "Fortepiano",
+    "definition": "Loud, then immediately quiet",
+    "example": "Written fp. Haydn's \"Surprise\" symphony makes a joke of the effect."
+  },
+  {
+    "id": 31,
+    "term": "Staccato",
+    "definition": "Short and detached",
+    "example": "Marked with a dot above the note. Italian for \"detached\"."
+  },
+  {
+    "id": 32,
+    "term": "Legato",
+    "definition": "Smoothly, with no gap between notes",
+    "example": "The opposite of staccato; on strings, played in one bow."
+  },
+  {
+    "id": 33,
+    "term": "Tenuto",
+    "definition": "Held for its full written value",
+    "example": "A short line over the note — give it all the time it is owed."
+  },
+  {
+    "id": 34,
+    "term": "Marcato",
+    "definition": "Marked and stressed",
+    "example": "Stronger than an accent, and usually a touch detached as well."
+  },
+  {
+    "id": 35,
+    "term": "Slur",
+    "definition": "A curved line joining notes to be played as one smooth phrase",
+    "example": "Identical in shape to a tie, but joining different pitches."
+  },
+  {
+    "id": 36,
+    "term": "Tie",
+    "definition": "Joins two notes of the same pitch into one longer sound",
+    "example": "The second note is not struck again — it is the first, extended."
+  },
+  {
+    "id": 37,
+    "term": "Portamento",
+    "definition": "Sliding continuously between two pitches",
+    "example": "Natural on a voice, violin or trombone, impossible on a piano."
+  },
+  {
+    "id": 38,
+    "term": "Glissando",
+    "definition": "A slide through every note between two pitches",
+    "example": "The whoop that opens Gershwin's Rhapsody in Blue."
+  },
+  {
+    "id": 39,
+    "term": "Pizzicato",
+    "definition": "Plucked with the finger instead of bowed",
+    "example": "Abbreviated pizz. Standard on strings, and the sound of the Pink Panther bass."
+  },
+  {
+    "id": 40,
+    "term": "Arco",
+    "definition": "Resume playing with the bow",
+    "example": "Cancels a pizzicato passage — Italian for \"bow\"."
+  },
+  {
+    "id": 41,
+    "term": "Tremolo",
+    "definition": "Rapid repetition of a note or alternation between two",
+    "example": "The shivering string sound that underpins most film suspense."
+  },
+  {
+    "id": 42,
+    "term": "Vibrato",
+    "definition": "A slight, rapid wavering of pitch to warm the tone",
+    "example": "A change in pitch, not volume — that would be tremolo."
+  },
+  {
+    "id": 43,
+    "term": "Trill",
+    "definition": "Rapid alternation between a note and the one above it",
+    "example": "Marked tr. One of the oldest ornaments in Western music."
+  },
+  {
+    "id": 44,
+    "term": "Mordent",
+    "definition": "A quick flick to an adjacent note and straight back",
+    "example": "Whether it goes above or below depends on the notation tradition."
+  },
+  {
+    "id": 45,
+    "term": "Turn",
+    "definition": "An ornament curling above and below the written note",
+    "example": "Marked with a small S on its side."
+  },
+  {
+    "id": 46,
+    "term": "Appoggiatura",
+    "definition": "A leaning grace note that takes time from the note it decorates",
+    "example": "From appoggiare, to lean. It creates a deliberate clash, then resolves."
+  },
+  {
+    "id": 47,
+    "term": "Acciaccatura",
+    "definition": "A crushed grace note played as quickly as possible",
+    "example": "Written as a small note with a stroke through its stem."
+  },
+  {
+    "id": 48,
+    "term": "Dolce",
+    "definition": "Sweetly",
+    "example": "The same word as in dolce vita, the sweet life."
+  },
+  {
+    "id": 49,
+    "term": "Cantabile",
+    "definition": "In a singing style",
+    "example": "From cantare, to sing — make the instrument sound like a voice."
+  },
+  {
+    "id": 50,
+    "term": "Espressivo",
+    "definition": "With expression",
+    "example": "Abbreviated espr. Deliberately leaves the how to the performer."
+  },
+  {
+    "id": 51,
+    "term": "Con brio",
+    "definition": "With vigour and spirit",
+    "example": "Beethoven's Fifth is marked allegro con brio."
+  },
+  {
+    "id": 52,
+    "term": "Con fuoco",
+    "definition": "With fire",
+    "example": "Fuoco is fire — the same root as \"focus\", once a hearth."
+  },
+  {
+    "id": 53,
+    "term": "Maestoso",
+    "definition": "Majestically",
+    "example": "Broad and dignified; often paired with a slower tempo."
+  },
+  {
+    "id": 54,
+    "term": "Giocoso",
+    "definition": "Playfully",
+    "example": "From gioco, a game."
+  },
+  {
+    "id": 55,
+    "term": "Agitato",
+    "definition": "Agitated and restless",
+    "example": "Usually asks for urgency rather than extra speed."
+  },
+  {
+    "id": 56,
+    "term": "Sostenuto",
+    "definition": "Sustained",
+    "example": "The middle pedal on a grand piano is the sostenuto pedal."
+  },
+  {
+    "id": 57,
+    "term": "Grazioso",
+    "definition": "Gracefully",
+    "example": "Light and elegant, without hurrying."
+  },
+  {
+    "id": 58,
+    "term": "Pesante",
+    "definition": "Heavily",
+    "example": "From peso, weight — put your weight into every note."
+  },
+  {
+    "id": 59,
+    "term": "Leggiero",
+    "definition": "Lightly and delicately",
+    "example": "The opposite instruction to pesante."
+  },
+  {
+    "id": 60,
+    "term": "Coda",
+    "definition": "The closing section that rounds off a piece",
+    "example": "Italian for \"tail\". A short one is a codetta."
+  },
+  {
+    "id": 61,
+    "term": "Da capo",
+    "definition": "Go back and repeat from the beginning",
+    "example": "Abbreviated D.C. — literally \"from the head\"."
+  },
+  {
+    "id": 62,
+    "term": "Dal segno",
+    "definition": "Go back and repeat from the sign",
+    "example": "Abbreviated D.S. The sign itself is a slashed S."
+  },
+  {
+    "id": 63,
+    "term": "Ostinato",
+    "definition": "A short pattern repeated insistently underneath the music",
+    "example": "Italian for \"obstinate\". Ravel's Boléro is one long example."
+  },
+  {
+    "id": 64,
+    "term": "Cadenza",
+    "definition": "A free, showy solo passage near the end of a movement",
+    "example": "Once improvised on the spot; now usually written out."
+  },
+  {
+    "id": 65,
+    "term": "Cadence",
+    "definition": "The chord progression that closes a phrase",
+    "example": "A perfect cadence sounds finished; an imperfect one leaves a question."
+  },
+  {
+    "id": 66,
+    "term": "Key signature",
+    "definition": "The sharps or flats set at the start of every stave",
+    "example": "Saves marking each accidental individually as it occurs."
+  },
+  {
+    "id": 67,
+    "term": "Time signature",
+    "definition": "The two numbers fixing how many beats fill each bar",
+    "example": "The top number counts the beats, the bottom names their value."
+  },
+  {
+    "id": 68,
+    "term": "Clef",
+    "definition": "The symbol that fixes which pitch each line of the stave carries",
+    "example": "The treble clef curls around the G line; the bass clef dots the F line."
+  },
+  {
+    "id": 69,
+    "term": "Rest",
+    "definition": "A measured silence",
+    "example": "Every note value has a matching rest of the same length."
+  },
+  {
+    "id": 70,
+    "term": "Bar",
+    "definition": "One group of beats, marked off by vertical lines",
+    "example": "Called a measure in American usage."
+  },
+  {
+    "id": 71,
+    "term": "Anacrusis",
+    "definition": "The upbeat note or notes before the first full bar",
+    "example": "Also called a pickup. \"Happy Birthday\" begins with one."
+  },
+  {
+    "id": 72,
+    "term": "Syncopation",
+    "definition": "Stressing the off-beats rather than the strong beats",
+    "example": "The engine of ragtime, jazz and most popular music since."
+  },
+  {
+    "id": 73,
+    "term": "Polyrhythm",
+    "definition": "Two conflicting rhythms sounded at the same time",
+    "example": "Three against four is the classic case, central to West African drumming."
+  },
+  {
+    "id": 74,
+    "term": "Hemiola",
+    "definition": "Three beats played in the time of two",
+    "example": "The lurch in \"I like to be in America\" from West Side Story."
+  },
+  {
+    "id": 75,
+    "term": "Triplet",
+    "definition": "Three notes squeezed into the time of two",
+    "example": "Written with a small 3 above the group."
+  },
+  {
+    "id": 76,
+    "term": "Octave",
+    "definition": "The interval between a note and the next of the same name",
+    "example": "The upper note vibrates at exactly twice the frequency."
+  },
+  {
+    "id": 77,
+    "term": "Interval",
+    "definition": "The distance in pitch between two notes",
+    "example": "Named by counting the letters inclusively: C to G is a fifth."
+  },
+  {
+    "id": 78,
+    "term": "Chord",
+    "definition": "Three or more notes sounded together",
+    "example": "Two notes alone make an interval, not yet a chord."
+  },
+  {
+    "id": 79,
+    "term": "Arpeggio",
+    "definition": "A chord played one note after another instead of together",
+    "example": "From arpa, harp — played harp-style."
+  },
+  {
+    "id": 80,
+    "term": "Scale",
+    "definition": "A stepwise ladder of notes running through a key",
+    "example": "From scala, staircase — the same root as \"escalator\"."
+  },
+  {
+    "id": 81,
+    "term": "Modulation",
+    "definition": "Changing from one key to another mid-piece",
+    "example": "The gear-change lift in a final chorus is the pop version."
+  },
+  {
+    "id": 82,
+    "term": "Transpose",
+    "definition": "Move a whole piece up or down into a different key",
+    "example": "Routine for singers, who need the tune inside their own range."
+  },
+  {
+    "id": 83,
+    "term": "Tonic",
+    "definition": "The home note that a key is built on and returns to",
+    "example": "The first degree of the scale — C in the key of C."
+  },
+  {
+    "id": 84,
+    "term": "Dominant",
+    "definition": "The fifth degree of the scale",
+    "example": "The chord that pulls hardest back towards the tonic."
+  },
+  {
+    "id": 85,
+    "term": "Relative minor",
+    "definition": "The minor key sharing a major key's key signature",
+    "example": "A minor is the relative minor of C major: no sharps, no flats."
+  },
+  {
+    "id": 86,
+    "term": "Enharmonic",
+    "definition": "Two different names for the very same pitch",
+    "example": "F sharp and G flat are the same key on a piano."
+  },
+  {
+    "id": 87,
+    "term": "Fugue",
+    "definition": "A piece in which voices enter one by one with the same subject",
+    "example": "From fuga, flight — the voices seem to chase each other. Bach's speciality."
+  },
+  {
+    "id": 88,
+    "term": "Canon",
+    "definition": "A piece where each voice copies the melody a fixed distance behind",
+    "example": "A round like \"Frère Jacques\" is the simplest kind."
+  },
+  {
+    "id": 89,
+    "term": "Concerto",
+    "definition": "A work for a solo instrument set against an orchestra",
+    "example": "Usually in three movements: fast, slow, fast."
+  },
+  {
+    "id": 90,
+    "term": "Symphony",
+    "definition": "A large work for full orchestra, usually in four movements",
+    "example": "From symphonia, sounding together."
+  },
+  {
+    "id": 91,
+    "term": "Overture",
+    "definition": "The orchestral piece that opens an opera or a concert",
+    "example": "A concert overture, like Tchaikovsky's 1812, opens nothing but itself."
+  },
+  {
+    "id": 92,
+    "term": "Nocturne",
+    "definition": "A reflective piece evoking the night",
+    "example": "Invented by John Field, then perfected by Chopin."
+  },
+  {
+    "id": 93,
+    "term": "Étude",
+    "definition": "A study piece written to drill one particular technique",
+    "example": "French for \"study\". Chopin's are hard enough to be concert pieces."
+  },
+  {
+    "id": 94,
+    "term": "Libretto",
+    "definition": "The words of an opera",
+    "example": "Italian for \"little book\" — the text was sold to the audience."
+  },
+  {
+    "id": 95,
+    "term": "A cappella",
+    "definition": "Sung with no instruments at all",
+    "example": "Literally \"in the chapel style\", where voices sang unaccompanied."
+  },
+  {
+    "id": 96,
+    "term": "Tutti",
+    "definition": "Everybody plays",
+    "example": "Italian for \"all\". Marks the orchestra's return after a solo."
+  },
+  {
+    "id": 97,
+    "term": "Divisi",
+    "definition": "A section splits into two or more separate parts",
+    "example": "Abbreviated div. Tells violinists not to attempt both notes at once."
+  },
+  {
+    "id": 98,
+    "term": "Opus",
+    "definition": "A composer's work, numbered in order of publication",
+    "example": "Abbreviated Op. Latin for \"work\"; the plural is opera."
+  },
+  {
+    "id": 99,
+    "term": "Chromatic",
+    "definition": "Moving by semitones, using notes from outside the key",
+    "example": "From chroma, colour — the notes between the plain steps of the scale."
+  },
+  {
+    "id": 100,
+    "term": "Timbre",
+    "definition": "The tone colour that tells one instrument from another",
+    "example": "Pronounced \"TAM-ber\". Why a flute and a violin playing the same note still sound different."
+  }
+];
+window.QM_COLLECTIVENOUNS_DATA = [
+  {
+    "id": 1,
+    "term": "Pigs",
+    "definition": "A drift or a drove — and a sounder if they are wild",
+    "example": "\"Sounder\" is the oldest of the three and is still the term for wild boar. Piglets together are a litter."
+  },
+  {
+    "id": 2,
+    "term": "Crows",
+    "definition": "A murder",
+    "example": "The best known term of venery of them all, recorded since the 1400s."
+  },
+  {
+    "id": 3,
+    "term": "Owls",
+    "definition": "A parliament",
+    "example": "Popularised by C. S. Lewis in the Narnia books, from an older \"parliament of fowls\"."
+  },
+  {
+    "id": 4,
+    "term": "Larks",
+    "definition": "An exaltation",
+    "example": "Named for the way they climb while singing. It gave James Lipton's book its title."
+  },
+  {
+    "id": 5,
+    "term": "Ravens",
+    "definition": "An unkindness",
+    "example": "Also given as a conspiracy — ravens have never had a good press."
+  },
+  {
+    "id": 6,
+    "term": "Starlings",
+    "definition": "A murmuration",
+    "example": "From the sound of thousands of wings; the swirling displays are murmurations too."
+  },
+  {
+    "id": 7,
+    "term": "Geese",
+    "definition": "A gaggle on the ground, a skein in the air",
+    "example": "A skein flying in tight formation may also be called a wedge or a V."
+  },
+  {
+    "id": 8,
+    "term": "Peacocks",
+    "definition": "An ostentation",
+    "example": "Sometimes a pride — either way the name is about the display."
+  },
+  {
+    "id": 9,
+    "term": "Flamingos",
+    "definition": "A flamboyance",
+    "example": "One of the newer coinages, and hard to argue with."
+  },
+  {
+    "id": 10,
+    "term": "Apes",
+    "definition": "A shrewdness",
+    "example": "From an old sense of \"shrewd\" meaning cunning rather than clever."
+  },
+  {
+    "id": 11,
+    "term": "Rhinoceroses",
+    "definition": "A crash",
+    "example": "Fitting for an animal that can run at thirty miles an hour."
+  },
+  {
+    "id": 12,
+    "term": "Hippopotamuses",
+    "definition": "A bloat",
+    "example": "Also a thunder when they are on the move."
+  },
+  {
+    "id": 13,
+    "term": "Giraffes",
+    "definition": "A tower",
+    "example": "A tower when standing, a journey when walking."
+  },
+  {
+    "id": 14,
+    "term": "Zebras",
+    "definition": "A dazzle",
+    "example": "The massed stripes make it hard for a predator to pick out one animal."
+  },
+  {
+    "id": 15,
+    "term": "Leopards",
+    "definition": "A leap",
+    "example": "Sometimes spelled \"lepe\" in the old hunting manuals."
+  },
+  {
+    "id": 16,
+    "term": "Lions",
+    "definition": "A pride",
+    "example": "The only truly social cat, so the only one that needed a word."
+  },
+  {
+    "id": 17,
+    "term": "Tigers",
+    "definition": "An ambush",
+    "example": "Also a streak — both describe how they hunt rather than how they gather."
+  },
+  {
+    "id": 18,
+    "term": "Otters",
+    "definition": "A raft on the water, a romp on land",
+    "example": "They hold paws while sleeping so the raft does not drift apart."
+  },
+  {
+    "id": 19,
+    "term": "Ferrets",
+    "definition": "A business",
+    "example": "A corruption of \"busyness\", which describes them exactly."
+  },
+  {
+    "id": 20,
+    "term": "Hedgehogs",
+    "definition": "An array",
+    "example": "They are solitary, so an array is a very rare sight."
+  },
+  {
+    "id": 21,
+    "term": "Porcupines",
+    "definition": "A prickle",
+    "example": "Their quills are modified hairs, not spines."
+  },
+  {
+    "id": 22,
+    "term": "Squirrels",
+    "definition": "A scurry",
+    "example": "A dray is the nest; a scurry is the animals themselves."
+  },
+  {
+    "id": 23,
+    "term": "Moles",
+    "definition": "A labour",
+    "example": "A single mole can dig twenty metres of tunnel in a day."
+  },
+  {
+    "id": 24,
+    "term": "Rats",
+    "definition": "A mischief",
+    "example": "Sometimes a plague, though that word properly belongs to locusts."
+  },
+  {
+    "id": 25,
+    "term": "Mice",
+    "definition": "A nest indoors, a horde in the fields",
+    "example": "A mischief is also used, though that word belongs first to rats."
+  },
+  {
+    "id": 26,
+    "term": "Bats",
+    "definition": "A colony",
+    "example": "A cauldron when they spiral upward out of a cave at dusk."
+  },
+  {
+    "id": 27,
+    "term": "Foxes",
+    "definition": "A skulk",
+    "example": "From an old Scandinavian word for lurking or hiding."
+  },
+  {
+    "id": 28,
+    "term": "Wolves",
+    "definition": "A pack — a route when they are on the move",
+    "example": "A rout or route is the old hunting term for a pack in motion."
+  },
+  {
+    "id": 29,
+    "term": "Bears",
+    "definition": "A sloth",
+    "example": "Also a sleuth, from the same root as \"sleuth-hound\", a tracking dog."
+  },
+  {
+    "id": 30,
+    "term": "Badgers",
+    "definition": "A cete",
+    "example": "Pronounced \"seet\". Their underground home is a sett."
+  },
+  {
+    "id": 31,
+    "term": "Deer",
+    "definition": "A herd — a parcel of roe deer",
+    "example": "A herd of red deer, but a bevy or parcel of the smaller roe."
+  },
+  {
+    "id": 32,
+    "term": "Kangaroos",
+    "definition": "A mob",
+    "example": "Australian and unimprovable. A troop is also used."
+  },
+  {
+    "id": 33,
+    "term": "Whales",
+    "definition": "A pod",
+    "example": "A gam when they gather at the surface to rest together."
+  },
+  {
+    "id": 34,
+    "term": "Dolphins",
+    "definition": "A school",
+    "example": "From the same Dutch root as a shoal of fish, not from schooling."
+  },
+  {
+    "id": 35,
+    "term": "Jellyfish",
+    "definition": "A smack",
+    "example": "A bloom when there are enough to close a beach."
+  },
+  {
+    "id": 36,
+    "term": "Sharks",
+    "definition": "A shiver",
+    "example": "Also a shoal or a frenzy, depending on what they are doing."
+  },
+  {
+    "id": 37,
+    "term": "Stingrays",
+    "definition": "A fever",
+    "example": "They gather in their thousands to migrate."
+  },
+  {
+    "id": 38,
+    "term": "Fish",
+    "definition": "A shoal, or a school when they swim as one",
+    "example": "A shoal is simply together; a school moves in the same direction at the same speed."
+  },
+  {
+    "id": 39,
+    "term": "Trout",
+    "definition": "A hover",
+    "example": "They hold position in the current, barely moving — hence the name."
+  },
+  {
+    "id": 40,
+    "term": "Eels",
+    "definition": "A swarm",
+    "example": "A bed when they are settled in the mud."
+  },
+  {
+    "id": 41,
+    "term": "Oysters",
+    "definition": "A bed",
+    "example": "The bed is both the animals and the ground they grow on."
+  },
+  {
+    "id": 42,
+    "term": "Crabs",
+    "definition": "A cast",
+    "example": "From the way they are cast up together on the tideline."
+  },
+  {
+    "id": 43,
+    "term": "Turtles",
+    "definition": "A bale",
+    "example": "Also a nest when they come ashore to lay."
+  },
+  {
+    "id": 44,
+    "term": "Frogs",
+    "definition": "An army",
+    "example": "An army of frogs, but a knot of toads — the old lists distinguish them."
+  },
+  {
+    "id": 45,
+    "term": "Toads",
+    "definition": "A knot",
+    "example": "They pile together in a tangle when they hibernate."
+  },
+  {
+    "id": 46,
+    "term": "Snakes",
+    "definition": "A den",
+    "example": "A den or a nest; a pit if you are being dramatic."
+  },
+  {
+    "id": 47,
+    "term": "Cobras",
+    "definition": "A quiver",
+    "example": "A quiver of cobras — the pun on arrows appears to be deliberate."
+  },
+  {
+    "id": 48,
+    "term": "Crocodiles",
+    "definition": "A bask",
+    "example": "A bask on the bank, a float when they are in the water."
+  },
+  {
+    "id": 49,
+    "term": "Alligators",
+    "definition": "A congregation",
+    "example": "They gather in numbers in the dry season around shrinking pools."
+  },
+  {
+    "id": 50,
+    "term": "Lizards",
+    "definition": "A lounge",
+    "example": "Named for the basking, which is most of what they do."
+  },
+  {
+    "id": 51,
+    "term": "Iguanas",
+    "definition": "A mess",
+    "example": "One of the more modern and less flattering coinages."
+  },
+  {
+    "id": 52,
+    "term": "Tortoises",
+    "definition": "A creep",
+    "example": "Slow enough that the word is simply a description."
+  },
+  {
+    "id": 53,
+    "term": "Ants",
+    "definition": "A colony, or an army on the march",
+    "example": "Army ants really do march — a column can be twenty metres wide."
+  },
+  {
+    "id": 54,
+    "term": "Bees",
+    "definition": "A swarm in flight, a hive at home",
+    "example": "A swarm is a colony that has split off to found a new nest."
+  },
+  {
+    "id": 55,
+    "term": "Locusts",
+    "definition": "A plague",
+    "example": "A single swarm can cover hundreds of square miles."
+  },
+  {
+    "id": 56,
+    "term": "Butterflies",
+    "definition": "A kaleidoscope",
+    "example": "Also a flutter, or a rabble when they are feeding together."
+  },
+  {
+    "id": 57,
+    "term": "Cockroaches",
+    "definition": "An intrusion",
+    "example": "Accurate, if unkind."
+  },
+  {
+    "id": 58,
+    "term": "Worms",
+    "definition": "A clew",
+    "example": "A clew is a ball of thread — the same word behind \"clue\"."
+  },
+  {
+    "id": 59,
+    "term": "Snails",
+    "definition": "An escargatoire",
+    "example": "Borrowed wholesale from French, and gloriously oversized for the animal."
+  },
+  {
+    "id": 60,
+    "term": "Ladybirds",
+    "definition": "A loveliness",
+    "example": "They gather in the hundreds to overwinter."
+  },
+  {
+    "id": 61,
+    "term": "Crickets",
+    "definition": "An orchestra",
+    "example": "Only the males sing, by rubbing their wings together."
+  },
+  {
+    "id": 62,
+    "term": "Eagles",
+    "definition": "A convocation",
+    "example": "Also an aerie, which is properly the nest rather than the birds."
+  },
+  {
+    "id": 63,
+    "term": "Hawks",
+    "definition": "A kettle when circling, a cast when hunting",
+    "example": "A kettle is the swirling column they form on a rising thermal."
+  },
+  {
+    "id": 64,
+    "term": "Vultures",
+    "definition": "A committee at rest, a wake when feeding",
+    "example": "In flight they too form a kettle."
+  },
+  {
+    "id": 65,
+    "term": "Magpies",
+    "definition": "A tiding",
+    "example": "Also a tittering or a charm — the rhyme counts them one for sorrow, two for joy."
+  },
+  {
+    "id": 66,
+    "term": "Rooks",
+    "definition": "A building",
+    "example": "Named for the colony of nests, the rookery, high in the trees."
+  },
+  {
+    "id": 67,
+    "term": "Jays",
+    "definition": "A party",
+    "example": "Also a band or a scold, which anyone who has heard one will accept."
+  },
+  {
+    "id": 68,
+    "term": "Woodpeckers",
+    "definition": "A descent",
+    "example": "They work their way down a trunk as they feed."
+  },
+  {
+    "id": 69,
+    "term": "Nightingales",
+    "definition": "A watch",
+    "example": "Named for the night singing, which is the male advertising for a mate."
+  },
+  {
+    "id": 70,
+    "term": "Swallows",
+    "definition": "A flight",
+    "example": "Also a gulp — a pun that has been circulating since at least the 1400s."
+  },
+  {
+    "id": 71,
+    "term": "Doves",
+    "definition": "A dule",
+    "example": "From the French deuil, mourning — for the mournful cooing."
+  },
+  {
+    "id": 72,
+    "term": "Pigeons",
+    "definition": "A kit in the air, a loft at home",
+    "example": "A kit is specifically racing or tumbling pigeons flying together."
+  },
+  {
+    "id": 73,
+    "term": "Sparrows",
+    "definition": "A host",
+    "example": "A biblical-sounding word for a very ordinary bird."
+  },
+  {
+    "id": 74,
+    "term": "Finches",
+    "definition": "A charm",
+    "example": "Probably from \"chirm\", an old word for a blended noise of voices."
+  },
+  {
+    "id": 75,
+    "term": "Swans",
+    "definition": "A bevy on the water, a wedge in the air",
+    "example": "A herd is also used, and on the Thames the young are counted at the annual swan upping."
+  },
+  {
+    "id": 76,
+    "term": "Ducks",
+    "definition": "A paddling on the water, a team in the air",
+    "example": "A raft when they are packed together, asleep on the surface."
+  },
+  {
+    "id": 77,
+    "term": "Cranes",
+    "definition": "A sedge",
+    "example": "Sedge is the marsh grass they nest among."
+  },
+  {
+    "id": 78,
+    "term": "Herons",
+    "definition": "A siege",
+    "example": "From the way they stand motionless at the water's edge, laying siege to it."
+  },
+  {
+    "id": 79,
+    "term": "Storks",
+    "definition": "A muster",
+    "example": "Also a phalanx when they are migrating in formation."
+  },
+  {
+    "id": 80,
+    "term": "Lapwings",
+    "definition": "A deceit",
+    "example": "For the broken-wing display they use to lure predators from the nest."
+  },
+  {
+    "id": 81,
+    "term": "Partridges",
+    "definition": "A covey",
+    "example": "From the French couvée, a brood — the family group that stays together."
+  },
+  {
+    "id": 82,
+    "term": "Pheasants",
+    "definition": "A nye on the ground, a bouquet when flushed",
+    "example": "Nye is a corruption of \"an eye\", itself from the French couvée."
+  },
+  {
+    "id": 83,
+    "term": "Turkeys",
+    "definition": "A rafter",
+    "example": "Probably from roosting up in the rafters of a barn."
+  },
+  {
+    "id": 84,
+    "term": "Chickens",
+    "definition": "A brood, or a peep of chicks",
+    "example": "A clutch is properly the eggs, not the birds that hatch from them."
+  },
+  {
+    "id": 85,
+    "term": "Parrots",
+    "definition": "A pandemonium",
+    "example": "Milton coined \"Pandemonium\" for the capital of Hell — the noise fits."
+  },
+  {
+    "id": 86,
+    "term": "Penguins",
+    "definition": "A raft at sea, a waddle on land",
+    "example": "A rookery is the breeding colony, borrowed from the rooks."
+  },
+  {
+    "id": 87,
+    "term": "Cormorants",
+    "definition": "A gulp",
+    "example": "They swallow fish whole, which is exactly where the word comes from."
+  },
+  {
+    "id": 88,
+    "term": "Puffins",
+    "definition": "A circus",
+    "example": "Also an improbability, which may be the finest of all the modern coinages."
+  },
+  {
+    "id": 89,
+    "term": "Cats",
+    "definition": "A clowder — a kindle of kittens",
+    "example": "Clowder is a variant of \"clutter\". A group of stray cats is a destruction."
+  },
+  {
+    "id": 90,
+    "term": "Dogs",
+    "definition": "A pack — a litter of puppies",
+    "example": "A kennel is where they live; a pack is what they are."
+  },
+  {
+    "id": 91,
+    "term": "Horses",
+    "definition": "A team in harness, a string at the stables",
+    "example": "Wild ones are a herd; a group of racehorses in training is a string."
+  },
+  {
+    "id": 92,
+    "term": "Cattle",
+    "definition": "A herd, or a drove on the move",
+    "example": "A drove is the old word for livestock being walked to market, hence drovers' roads."
+  },
+  {
+    "id": 93,
+    "term": "Sheep",
+    "definition": "A flock",
+    "example": "A fold is the pen; a mob in Australia and New Zealand."
+  },
+  {
+    "id": 94,
+    "term": "Goats",
+    "definition": "A tribe",
+    "example": "Also a trip, from an old Dutch word for a flock."
+  },
+  {
+    "id": 95,
+    "term": "Donkeys",
+    "definition": "A pace",
+    "example": "A drove when they are being driven, like cattle."
+  },
+  {
+    "id": 96,
+    "term": "Camels",
+    "definition": "A caravan",
+    "example": "The word originally meant the travelling company, animals and people together."
+  },
+  {
+    "id": 97,
+    "term": "Elephants",
+    "definition": "A parade",
+    "example": "Also a memory — a modern coinage playing on the proverb."
+  },
+  {
+    "id": 98,
+    "term": "Buffalo",
+    "definition": "An obstinacy",
+    "example": "Also a gang or, for American bison, a thunder."
+  },
+  {
+    "id": 99,
+    "term": "Monkeys",
+    "definition": "A troop",
+    "example": "A barrel is a joke that escaped from the toy box into the dictionaries."
+  },
+  {
+    "id": 100,
+    "term": "Hyenas",
+    "definition": "A cackle",
+    "example": "The laugh is not amusement — it signals stress or excitement."
+  }
+];
+window.QM_COOKINGTERMS_DATA = [
+  {
+    "id": 1,
+    "term": "Mise en place",
+    "definition": "Everything prepped, measured and within reach before you start",
+    "example": "French for \"putting in place\" — the single habit that separates calm cooking from chaos."
+  },
+  {
+    "id": 2,
+    "term": "Julienne",
+    "definition": "Cut into thin matchsticks",
+    "example": "About 3mm square and 5cm long. Square off the vegetable first or nothing will match."
+  },
+  {
+    "id": 3,
+    "term": "Brunoise",
+    "definition": "Diced very fine, roughly 3mm cubes",
+    "example": "Made by cutting a julienne first, then slicing across it."
+  },
+  {
+    "id": 4,
+    "term": "Batonnet",
+    "definition": "Cut into sticks about the size of a chip",
+    "example": "Thicker than a julienne; the stage before dicing into cubes."
+  },
+  {
+    "id": 5,
+    "term": "Chiffonade",
+    "definition": "Leaves stacked, rolled tight and sliced into fine ribbons",
+    "example": "For basil and mint. Slice once and serve — the cut edges blacken quickly."
+  },
+  {
+    "id": 6,
+    "term": "Mirepoix",
+    "definition": "Diced onion, carrot and celery used as a flavour base",
+    "example": "Classically two parts onion to one each of carrot and celery."
+  },
+  {
+    "id": 7,
+    "term": "Soffritto",
+    "definition": "The Italian base, cooked slowly in olive oil before anything else goes in",
+    "example": "Same three vegetables as a mirepoix, but softened first rather than added raw."
+  },
+  {
+    "id": 8,
+    "term": "Holy trinity",
+    "definition": "Onion, celery and green pepper — the Cajun and Creole base",
+    "example": "The Louisiana answer to mirepoix, with pepper in place of carrot."
+  },
+  {
+    "id": 9,
+    "term": "Concasse",
+    "definition": "Tomatoes skinned, deseeded and roughly chopped",
+    "example": "Score a cross, dip in boiling water for ten seconds and the skin slips off."
+  },
+  {
+    "id": 10,
+    "term": "Duxelles",
+    "definition": "Finely chopped mushrooms cooked down with shallots until dry",
+    "example": "The layer between the pastry and the beef in a Beef Wellington."
+  },
+  {
+    "id": 11,
+    "term": "Score",
+    "definition": "Cut shallow slits into the surface",
+    "example": "On pork skin it makes crackling; on a loaf it controls where the bread splits."
+  },
+  {
+    "id": 12,
+    "term": "Butterfly",
+    "definition": "Split almost through and open out flat",
+    "example": "Halves the cooking time and doubles the surface that browns."
+  },
+  {
+    "id": 13,
+    "term": "Spatchcock",
+    "definition": "Remove a bird's backbone so it lies flat",
+    "example": "A whole chicken roasts in about 40 minutes once flattened."
+  },
+  {
+    "id": 14,
+    "term": "Fillet",
+    "definition": "Cut the flesh cleanly away from the bones",
+    "example": "As a noun it is the piece itself; as a verb, the act of removing it."
+  },
+  {
+    "id": 15,
+    "term": "Supreme",
+    "definition": "Citrus segments cut free of all pith and membrane",
+    "example": "Slice the top and bottom flat, cut the peel away in strips, then cut between the membranes."
+  },
+  {
+    "id": 16,
+    "term": "Zest",
+    "definition": "The coloured outer layer of citrus peel, where the oils sit",
+    "example": "Stop at the white pith underneath — that part is only bitter."
+  },
+  {
+    "id": 17,
+    "term": "Blanch",
+    "definition": "Plunge briefly into boiling water, then straight into iced water",
+    "example": "Sets the colour of green vegetables and loosens skins from tomatoes and almonds."
+  },
+  {
+    "id": 18,
+    "term": "Refresh",
+    "definition": "Chill in iced water to stop the cooking dead",
+    "example": "The second half of blanching; skip it and the vegetables carry on cooking."
+  },
+  {
+    "id": 19,
+    "term": "Parboil",
+    "definition": "Boil partway, to be finished by another method",
+    "example": "Parboiled potatoes roughed up in the colander are what makes a roast potato crisp."
+  },
+  {
+    "id": 20,
+    "term": "Poach",
+    "definition": "Cook gently in liquid held below a simmer",
+    "example": "The surface should barely tremble — a rolling boil shreds fish and eggs."
+  },
+  {
+    "id": 21,
+    "term": "Simmer",
+    "definition": "Cook just below boiling, with small bubbles breaking the surface",
+    "example": "Around 85–95°C. A stock boiled hard turns cloudy."
+  },
+  {
+    "id": 22,
+    "term": "Braise",
+    "definition": "Brown first, then cook slowly in a little liquid, covered",
+    "example": "The meat sits partly above the liquid, so it roasts and stews at once."
+  },
+  {
+    "id": 23,
+    "term": "Stew",
+    "definition": "Cook slowly with the food fully submerged in liquid",
+    "example": "The difference from braising is simply the depth of the liquid."
+  },
+  {
+    "id": 24,
+    "term": "Sauté",
+    "definition": "Cook quickly in a little fat over a high heat, keeping it moving",
+    "example": "From sauter, to jump — the food is meant to be tossed, not stirred."
+  },
+  {
+    "id": 25,
+    "term": "Sweat",
+    "definition": "Cook gently in fat until soft, without letting it colour",
+    "example": "Low heat and a lid. Colour here means you have started to fry instead."
+  },
+  {
+    "id": 26,
+    "term": "Sear",
+    "definition": "Brown the surface hard and fast over fierce heat",
+    "example": "It does not \"seal in the juices\" — that idea was disproved long ago. It builds flavour."
+  },
+  {
+    "id": 27,
+    "term": "Maillard reaction",
+    "definition": "The browning of proteins and sugars that builds savoury flavour",
+    "example": "Named for Louis-Camille Maillard, 1912. It is why seared meat and toast taste of more than their ingredients."
+  },
+  {
+    "id": 28,
+    "term": "Caramelise",
+    "definition": "Cook sugars until they brown and turn nutty",
+    "example": "Strictly sugar alone — browning meat is the Maillard reaction, not caramelisation."
+  },
+  {
+    "id": 29,
+    "term": "Deglaze",
+    "definition": "Add liquid to a hot pan to lift the browned residue",
+    "example": "Wine, stock or even water. Those scrapings are most of the sauce."
+  },
+  {
+    "id": 30,
+    "term": "Fond",
+    "definition": "The browned residue stuck to the pan after searing",
+    "example": "French for \"base\" or \"foundation\" — which is exactly what it is for a sauce."
+  },
+  {
+    "id": 31,
+    "term": "Reduce",
+    "definition": "Boil to drive off liquid and concentrate the flavour",
+    "example": "Reducing by half roughly doubles the intensity, and the saltiness with it."
+  },
+  {
+    "id": 32,
+    "term": "Render",
+    "definition": "Melt the fat slowly out of meat",
+    "example": "Start duck or bacon in a cold pan so the fat runs before the outside burns."
+  },
+  {
+    "id": 33,
+    "term": "Confit",
+    "definition": "Cook slowly, fully submerged in fat",
+    "example": "Originally a way of preserving; duck legs will keep for months under their own fat."
+  },
+  {
+    "id": 34,
+    "term": "Sous vide",
+    "definition": "Cook sealed in a bag in precisely controlled water",
+    "example": "French for \"under vacuum\". Nothing can overcook, because the water never exceeds the target."
+  },
+  {
+    "id": 35,
+    "term": "Bain-marie",
+    "definition": "A water bath that shields delicate food from direct heat",
+    "example": "Named after Maria the Jewess, an alchemist of the third century."
+  },
+  {
+    "id": 36,
+    "term": "Steam",
+    "definition": "Cook in vapour, with the food clear of the water",
+    "example": "Gentler than boiling, and none of the flavour leaches out into the liquid."
+  },
+  {
+    "id": 37,
+    "term": "En papillote",
+    "definition": "Cooked sealed inside a paper parcel",
+    "example": "The food steams in its own moisture. Opened at the table for the burst of scent."
+  },
+  {
+    "id": 38,
+    "term": "Griddle",
+    "definition": "Cook on a flat or ridged hot plate with almost no fat",
+    "example": "The ridges are for the bar marks — they touch very little of the food."
+  },
+  {
+    "id": 39,
+    "term": "Deep-fry",
+    "definition": "Cook fully submerged in hot oil",
+    "example": "Around 180°C. Too cool and the food drinks the oil instead of sealing."
+  },
+  {
+    "id": 40,
+    "term": "Flambé",
+    "definition": "Add spirit and set it alight",
+    "example": "The flame burns off the harsh alcohol; most of the drama is for the diners."
+  },
+  {
+    "id": 41,
+    "term": "Gratin",
+    "definition": "Topped with cheese or crumbs and browned under heat",
+    "example": "The word means the crust that is scraped from the dish — the best bit."
+  },
+  {
+    "id": 42,
+    "term": "Baste",
+    "definition": "Spoon the hot fat and juices back over the food as it cooks",
+    "example": "Butter-basting a steak with thyme and garlic is the classic restaurant finish."
+  },
+  {
+    "id": 43,
+    "term": "Truss",
+    "definition": "Tie a bird into a compact shape with string",
+    "example": "Keeps the legs and wings from drying out before the breast is done."
+  },
+  {
+    "id": 44,
+    "term": "Bard",
+    "definition": "Wrap lean meat in a layer of fat before roasting",
+    "example": "Traditionally a sheet of pork back fat or streaky bacon."
+  },
+  {
+    "id": 45,
+    "term": "Lard",
+    "definition": "Thread strips of fat through the inside of lean meat",
+    "example": "Done with a larding needle. Bard is on the outside; lard is within."
+  },
+  {
+    "id": 46,
+    "term": "Brine",
+    "definition": "Soak in salted water to season throughout and hold moisture",
+    "example": "Around 6% salt. Transforms turkey and pork chops in particular."
+  },
+  {
+    "id": 47,
+    "term": "Cure",
+    "definition": "Preserve with salt, sugar or nitrates",
+    "example": "Salt draws out the water that bacteria need. Bacon, gravlax and prosciutto are all cured."
+  },
+  {
+    "id": 48,
+    "term": "Marinate",
+    "definition": "Steep in a seasoned liquid before cooking",
+    "example": "Acid tenderises only the surface; most of the effect is flavour, not texture."
+  },
+  {
+    "id": 49,
+    "term": "Macerate",
+    "definition": "Steep fruit in sugar or alcohol to draw out its juice",
+    "example": "The sugar pulls liquid from the fruit and turns it into a syrup."
+  },
+  {
+    "id": 50,
+    "term": "Pickle",
+    "definition": "Preserve in vinegar or a salt brine",
+    "example": "Quick pickles keep for weeks; properly canned ones for a year."
+  },
+  {
+    "id": 51,
+    "term": "Ferment",
+    "definition": "Let microbes transform the food, souring and preserving it",
+    "example": "Sourdough, kimchi, yoghurt, soy sauce and beer are all the same trick."
+  },
+  {
+    "id": 52,
+    "term": "Smoke",
+    "definition": "Flavour and preserve by hanging food over smouldering wood",
+    "example": "Cold smoking below 30°C flavours only; hot smoking cooks as well."
+  },
+  {
+    "id": 53,
+    "term": "Knead",
+    "definition": "Work dough to develop the gluten",
+    "example": "Stretching and folding lines up the proteins into an elastic web that traps gas."
+  },
+  {
+    "id": 54,
+    "term": "Autolyse",
+    "definition": "Rest flour and water together before adding salt and yeast",
+    "example": "Twenty minutes of rest does much of the kneading for you."
+  },
+  {
+    "id": 55,
+    "term": "Prove",
+    "definition": "Let shaped dough rise before it goes in the oven",
+    "example": "Also called proofing. The final rise, after the bulk ferment."
+  },
+  {
+    "id": 56,
+    "term": "Knock back",
+    "definition": "Press the air out of risen dough",
+    "example": "Redistributes the yeast and the gas for a finer, more even crumb."
+  },
+  {
+    "id": 57,
+    "term": "Blind bake",
+    "definition": "Bake a pastry case empty, weighted down",
+    "example": "Beans or ceramic weights on parchment stop the base rising and the sides slumping."
+  },
+  {
+    "id": 58,
+    "term": "Dock",
+    "definition": "Prick pastry all over so it cannot puff up",
+    "example": "A fork will do; a docking roller does it faster."
+  },
+  {
+    "id": 59,
+    "term": "Crimp",
+    "definition": "Seal and decorate the edge of a pastry",
+    "example": "On a Cornish pasty the crimp is the handle — traditionally not eaten."
+  },
+  {
+    "id": 60,
+    "term": "Rub in",
+    "definition": "Work fat into flour with the fingertips until it looks like breadcrumbs",
+    "example": "Keep everything cold: the fat should coat the flour, not melt into it."
+  },
+  {
+    "id": 61,
+    "term": "Cream",
+    "definition": "Beat fat and sugar together until pale and fluffy",
+    "example": "The sugar crystals cut air pockets into the butter — that is the rise in a sponge."
+  },
+  {
+    "id": 62,
+    "term": "Fold",
+    "definition": "Combine gently, cutting through and over, to keep the air in",
+    "example": "Stirring a whisked mixture undoes exactly the work you just did."
+  },
+  {
+    "id": 63,
+    "term": "Whip",
+    "definition": "Beat vigorously to force air into a mixture",
+    "example": "Cream doubles in volume; egg white can take eight times its own volume in air."
+  },
+  {
+    "id": 64,
+    "term": "Emulsify",
+    "definition": "Combine fat and liquid into one stable mixture",
+    "example": "Mayonnaise, hollandaise and vinaigrette are all emulsions, held together by egg or mustard."
+  },
+  {
+    "id": 65,
+    "term": "Temper",
+    "definition": "Raise the heat of eggs gradually so they thicken instead of scrambling",
+    "example": "Trickle the hot liquid into the yolks while whisking, never the other way round."
+  },
+  {
+    "id": 66,
+    "term": "Tempering chocolate",
+    "definition": "Heat and cool chocolate through set stages so it sets glossy and snaps",
+    "example": "Untempered chocolate dries dull and streaked, and melts on the fingers."
+  },
+  {
+    "id": 67,
+    "term": "Bloom",
+    "definition": "Soften gelatine in cold liquid before dissolving it",
+    "example": "Sheets need five minutes; add them dry to hot liquid and they clump."
+  },
+  {
+    "id": 68,
+    "term": "Roux",
+    "definition": "Flour cooked in fat, used to thicken a sauce",
+    "example": "White for béchamel, blond for velouté, brown for gumbo. The darker it cooks, the less it thickens."
+  },
+  {
+    "id": 69,
+    "term": "Beurre manié",
+    "definition": "Raw butter and flour kneaded together, whisked in to thicken at the end",
+    "example": "French for \"kneaded butter\". Unlike a roux, the flour is never cooked first."
+  },
+  {
+    "id": 70,
+    "term": "Slurry",
+    "definition": "Starch stirred into cold liquid before it meets the hot pan",
+    "example": "Cornflour added dry to a hot sauce turns to lumps instantly."
+  },
+  {
+    "id": 71,
+    "term": "Liaison",
+    "definition": "Egg yolk and cream stirred in to enrich and lightly thicken",
+    "example": "It must be tempered first, and the sauce must never boil afterwards."
+  },
+  {
+    "id": 72,
+    "term": "Monter au beurre",
+    "definition": "Whisk cold butter into a sauce off the heat to finish it",
+    "example": "Adds gloss and body. The sauce will split if it boils after the butter goes in."
+  },
+  {
+    "id": 73,
+    "term": "Nappe",
+    "definition": "Thick enough to coat the back of a spoon",
+    "example": "Draw a finger through it: if the line holds, it is there."
+  },
+  {
+    "id": 74,
+    "term": "Clarify",
+    "definition": "Remove the solids to leave a clear liquid or fat",
+    "example": "Clarified butter has the milk solids taken out, so it can take far more heat."
+  },
+  {
+    "id": 75,
+    "term": "Skim",
+    "definition": "Lift the foam or fat from the surface",
+    "example": "Skimming a stock in the first ten minutes is what keeps it clear."
+  },
+  {
+    "id": 76,
+    "term": "Strain",
+    "definition": "Pass through a sieve to take out the solids",
+    "example": "Press the solids for yield, or leave them alone for clarity — not both."
+  },
+  {
+    "id": 77,
+    "term": "Chinois",
+    "definition": "A fine conical strainer for the smoothest sauces",
+    "example": "Named for its resemblance to a Chinese hat."
+  },
+  {
+    "id": 78,
+    "term": "Dredge",
+    "definition": "Coat lightly in flour before frying",
+    "example": "Shake off the excess — a thick coating steams rather than browns."
+  },
+  {
+    "id": 79,
+    "term": "Breading",
+    "definition": "Coat in flour, then beaten egg, then breadcrumbs",
+    "example": "The standard three-stage crumb. Flour gives the egg something to cling to."
+  },
+  {
+    "id": 80,
+    "term": "Glaze",
+    "definition": "Brush with a coating that sets shiny",
+    "example": "Egg wash for pastry, reduced stock for meat, warmed jam for fruit tarts."
+  },
+  {
+    "id": 81,
+    "term": "Rest",
+    "definition": "Let cooked meat stand so the juices settle back through it",
+    "example": "Carve a steak straight off the heat and the juice runs out onto the board."
+  },
+  {
+    "id": 82,
+    "term": "Al dente",
+    "definition": "Cooked through but still firm to the bite",
+    "example": "Italian for \"to the tooth\". A cut strand should still show a thread of pale centre."
+  },
+  {
+    "id": 83,
+    "term": "Bouquet garni",
+    "definition": "A tied bundle of herbs added for flavour and lifted out later",
+    "example": "Classically thyme, parsley stalks and a bay leaf, bound in leek or muslin."
+  },
+  {
+    "id": 84,
+    "term": "Umami",
+    "definition": "The savoury fifth taste, alongside sweet, sour, salt and bitter",
+    "example": "Identified by Kikunae Ikeda in 1908. Parmesan, anchovy, soy and tomato are all loaded with it."
+  },
+  {
+    "id": 85,
+    "term": "Stock",
+    "definition": "Liquid simmered from bones and vegetables, used as an ingredient",
+    "example": "Bones give gelatine, which is what makes a stock set in the fridge."
+  },
+  {
+    "id": 86,
+    "term": "Broth",
+    "definition": "Simmered from meat and vegetables, seasoned to be drunk as it is",
+    "example": "Stock is a building block; broth is already a dish."
+  },
+  {
+    "id": 87,
+    "term": "Jus",
+    "definition": "A light, unthickened meat juice served as a sauce",
+    "example": "French for \"juice\". No flour, no cream — just the roasting juices, skimmed."
+  },
+  {
+    "id": 88,
+    "term": "Coulis",
+    "definition": "A smooth fruit or vegetable purée, sieved until it pours",
+    "example": "Raspberry coulis is the standard; red pepper the savoury version."
+  },
+  {
+    "id": 89,
+    "term": "Purée",
+    "definition": "Blended or sieved until entirely smooth",
+    "example": "A coulis is a purée thinned and strained to a pouring consistency."
+  },
+  {
+    "id": 90,
+    "term": "Compote",
+    "definition": "Fruit stewed slowly in syrup, left in recognisable pieces",
+    "example": "The point is that it holds its shape, unlike a jam."
+  },
+  {
+    "id": 91,
+    "term": "Ganache",
+    "definition": "Chocolate melted into hot cream",
+    "example": "Equal weights makes a filling; twice the cream makes a pouring glaze."
+  },
+  {
+    "id": 92,
+    "term": "Meringue",
+    "definition": "Egg white whipped with sugar",
+    "example": "French is raw, Swiss is warmed over water, Italian is cooked with hot sugar syrup."
+  },
+  {
+    "id": 93,
+    "term": "Crème anglaise",
+    "definition": "A pouring custard of egg yolk, sugar and milk",
+    "example": "Thickens at around 80°C and scrambles not far above it."
+  },
+  {
+    "id": 94,
+    "term": "Béchamel",
+    "definition": "Milk thickened with a white roux",
+    "example": "The base for cauliflower cheese, lasagne and every cheese sauce."
+  },
+  {
+    "id": 95,
+    "term": "Beurre blanc",
+    "definition": "A warm butter sauce built on reduced wine and shallots",
+    "example": "French for \"white butter\". Held together by emulsion alone, so it splits if it gets too hot."
+  },
+  {
+    "id": 96,
+    "term": "Hollandaise",
+    "definition": "An emulsion of egg yolk and butter, sharpened with lemon",
+    "example": "Add tarragon and a vinegar reduction and it becomes béarnaise."
+  },
+  {
+    "id": 97,
+    "term": "Mother sauces",
+    "definition": "The five classic bases: béchamel, velouté, espagnole, hollandaise and tomato",
+    "example": "Codified by Escoffier. Every other classical sauce is a variation on one of them."
+  },
+  {
+    "id": 98,
+    "term": "Roulade",
+    "definition": "Something rolled up around a filling",
+    "example": "From rouler, to roll. Works for meat, sponge and soufflé alike."
+  },
+  {
+    "id": 99,
+    "term": "Terrine",
+    "definition": "A coarse loaf of meat, cooked in a mould and served cold",
+    "example": "Named after the earthenware dish it is cooked in."
+  },
+  {
+    "id": 100,
+    "term": "Mince",
+    "definition": "Chop as finely as it will go",
+    "example": "Garlic minced with salt on the board turns to a paste under the blade."
+  }
+];
+window.QM_LATINPHRASES_DATA = [
+  {
+    "id": 1,
+    "term": "Ad hoc",
+    "definition": "Improvised for this one purpose",
+    "example": "Literally \"to this\". An ad hoc committee is formed for a single job and then dissolved."
+  },
+  {
+    "id": 2,
+    "term": "Ad infinitum",
+    "definition": "On and on without end",
+    "example": "\"Big fleas have little fleas… and so ad infinitum\" — Augustus De Morgan."
+  },
+  {
+    "id": 3,
+    "term": "Ad nauseam",
+    "definition": "Repeated so often it becomes sickening",
+    "example": "Literally \"to sickness\"."
+  },
+  {
+    "id": 4,
+    "term": "Ad hominem",
+    "definition": "Attacking the person instead of their argument",
+    "example": "\"To the man\". A fallacy, though it persuades far more often than it should."
+  },
+  {
+    "id": 5,
+    "term": "Ad libitum",
+    "definition": "At one's pleasure — made up on the spot",
+    "example": "Shortened to ad-lib. Also a music marking, leaving the passage to the performer."
+  },
+  {
+    "id": 6,
+    "term": "Ad astra",
+    "definition": "To the stars",
+    "example": "Per ardua ad astra — through adversity to the stars — is the RAF motto."
+  },
+  {
+    "id": 7,
+    "term": "Ad valorem",
+    "definition": "Charged in proportion to the value",
+    "example": "How VAT works: a percentage, not a flat sum per item."
+  },
+  {
+    "id": 8,
+    "term": "Alma mater",
+    "definition": "The school or university you attended",
+    "example": "Literally \"nourishing mother\", a title once given to Roman goddesses."
+  },
+  {
+    "id": 9,
+    "term": "Alter ego",
+    "definition": "A second self",
+    "example": "Literally \"the other I\". Cicero used it of a trusted friend, not a secret identity."
+  },
+  {
+    "id": 10,
+    "term": "Anno Domini",
+    "definition": "In the year of the Lord",
+    "example": "Abbreviated AD, and properly written before the year: AD 1066."
+  },
+  {
+    "id": 11,
+    "term": "Ante meridiem",
+    "definition": "Before midday",
+    "example": "Abbreviated a.m. Meridiem is the midpoint of the day."
+  },
+  {
+    "id": 12,
+    "term": "Post meridiem",
+    "definition": "After midday",
+    "example": "Abbreviated p.m. Which makes 12 p.m. genuinely ambiguous — hence \"noon\"."
+  },
+  {
+    "id": 13,
+    "term": "A priori",
+    "definition": "Reasoned from first principles, before any evidence",
+    "example": "\"All bachelors are unmarried\" needs no survey to confirm."
+  },
+  {
+    "id": 14,
+    "term": "A posteriori",
+    "definition": "Reasoned from the evidence, after observing it",
+    "example": "The mirror of a priori: knowledge that had to be looked up rather than worked out."
+  },
+  {
+    "id": 15,
+    "term": "Bona fide",
+    "definition": "Genuine, made in good faith",
+    "example": "The noun is bona fides — your credentials, your good standing."
+  },
+  {
+    "id": 16,
+    "term": "Carpe diem",
+    "definition": "Seize the day",
+    "example": "From Horace, who added \"trusting as little as possible in tomorrow\"."
+  },
+  {
+    "id": 17,
+    "term": "Casus belli",
+    "definition": "The act that provides a justification for war",
+    "example": "Literally \"an occasion of war\"."
+  },
+  {
+    "id": 18,
+    "term": "Caveat emptor",
+    "definition": "Let the buyer beware",
+    "example": "The old default rule of sale: inspect it yourself, because nobody else will."
+  },
+  {
+    "id": 19,
+    "term": "Circa",
+    "definition": "Around, approximately — used of dates",
+    "example": "Abbreviated c. or ca. \"Born c. 1340\" means the year is an estimate."
+  },
+  {
+    "id": 20,
+    "term": "Cogito, ergo sum",
+    "definition": "I think, therefore I am",
+    "example": "Descartes' one certainty: doubting proves there is a doubter."
+  },
+  {
+    "id": 21,
+    "term": "Compos mentis",
+    "definition": "Of sound mind",
+    "example": "Non compos mentis is the version that reaches the courts."
+  },
+  {
+    "id": 22,
+    "term": "Corpus delicti",
+    "definition": "Proof that a crime actually took place",
+    "example": "Literally \"the body of the offence\" — not necessarily a corpse."
+  },
+  {
+    "id": 23,
+    "term": "Cui bono?",
+    "definition": "Who benefits?",
+    "example": "Cicero's test for finding the guilty party: follow the advantage."
+  },
+  {
+    "id": 24,
+    "term": "De facto",
+    "definition": "In fact, whether or not it is official",
+    "example": "English is the de facto language of air traffic control."
+  },
+  {
+    "id": 25,
+    "term": "De jure",
+    "definition": "By right, as a matter of law",
+    "example": "The pair to de facto: what the rules say, rather than what happens."
+  },
+  {
+    "id": 26,
+    "term": "Deus ex machina",
+    "definition": "A contrived rescue arriving out of nowhere",
+    "example": "\"God from the machine\" — the crane that lowered a god onto the Greek stage."
+  },
+  {
+    "id": 27,
+    "term": "Dramatis personae",
+    "definition": "The cast of characters in a play",
+    "example": "Literally \"the persons of the drama\"."
+  },
+  {
+    "id": 28,
+    "term": "Ergo",
+    "definition": "Therefore",
+    "example": "Best known from cogito, ergo sum."
+  },
+  {
+    "id": 29,
+    "term": "Et cetera",
+    "definition": "And the rest",
+    "example": "Abbreviated etc. — and it is \"et\", never \"ect\"."
+  },
+  {
+    "id": 30,
+    "term": "Et alii",
+    "definition": "And others",
+    "example": "Abbreviated et al., used to shorten a long list of authors."
+  },
+  {
+    "id": 31,
+    "term": "Exempli gratia",
+    "definition": "For example",
+    "example": "Abbreviated e.g. — \"for the sake of an example\"."
+  },
+  {
+    "id": 32,
+    "term": "Id est",
+    "definition": "That is to say",
+    "example": "Abbreviated i.e. Use e.g. to give a sample, i.e. to restate."
+  },
+  {
+    "id": 33,
+    "term": "Ex gratia",
+    "definition": "Given as a favour, with no obligation to give it",
+    "example": "An ex gratia payment settles a claim without admitting fault."
+  },
+  {
+    "id": 34,
+    "term": "Ex libris",
+    "definition": "From the library of",
+    "example": "The formula printed on a bookplate, followed by the owner's name."
+  },
+  {
+    "id": 35,
+    "term": "Ex nihilo",
+    "definition": "Out of nothing",
+    "example": "Creatio ex nihilo — the doctrine that the universe was made from nothing at all."
+  },
+  {
+    "id": 36,
+    "term": "Ex officio",
+    "definition": "Held automatically by virtue of one's post",
+    "example": "A head teacher who sits on the board simply because they are the head teacher."
+  },
+  {
+    "id": 37,
+    "term": "Habeas corpus",
+    "definition": "A demand that a detainee be produced before a court",
+    "example": "Literally \"you shall have the body\" — the oldest safeguard against unlawful imprisonment."
+  },
+  {
+    "id": 38,
+    "term": "In absentia",
+    "definition": "While the person is not present",
+    "example": "Tried in absentia, or a degree awarded in absentia."
+  },
+  {
+    "id": 39,
+    "term": "In camera",
+    "definition": "In private, with the public excluded",
+    "example": "Literally \"in the chamber\" — the judge's room rather than the open court."
+  },
+  {
+    "id": 40,
+    "term": "In extremis",
+    "definition": "In the gravest circumstances, or at the point of death",
+    "example": "Used both medically and of any last-ditch situation."
+  },
+  {
+    "id": 41,
+    "term": "In flagrante delicto",
+    "definition": "Caught in the very act",
+    "example": "Literally \"while the offence is blazing\"."
+  },
+  {
+    "id": 42,
+    "term": "In loco parentis",
+    "definition": "Standing in the place of a parent",
+    "example": "The legal position of a school over its pupils during the day."
+  },
+  {
+    "id": 43,
+    "term": "In memoriam",
+    "definition": "In memory of",
+    "example": "Tennyson's long elegy for his friend Arthur Hallam carries the title."
+  },
+  {
+    "id": 44,
+    "term": "In situ",
+    "definition": "In its original position",
+    "example": "Archaeologists record a find in situ before anything is lifted."
+  },
+  {
+    "id": 45,
+    "term": "In toto",
+    "definition": "Entirely, as a whole",
+    "example": "Not to be confused with the dog in The Wizard of Oz."
+  },
+  {
+    "id": 46,
+    "term": "In vitro",
+    "definition": "In glass — carried out in a laboratory dish",
+    "example": "IVF is in vitro fertilisation: conception outside the body."
+  },
+  {
+    "id": 47,
+    "term": "In vivo",
+    "definition": "Inside a living organism",
+    "example": "The counterpart to in vitro. Results rarely transfer neatly from one to the other."
+  },
+  {
+    "id": 48,
+    "term": "Inter alia",
+    "definition": "Among other things",
+    "example": "Common in legal drafting, where the list is deliberately not exhaustive."
+  },
+  {
+    "id": 49,
+    "term": "Ipso facto",
+    "definition": "By that very fact",
+    "example": "\"He is a citizen and ipso facto entitled to vote.\""
+  },
+  {
+    "id": 50,
+    "term": "Magnum opus",
+    "definition": "A great work — an artist's masterpiece",
+    "example": "Literally \"great work\". The plural is magna opera."
+  },
+  {
+    "id": 51,
+    "term": "Mea culpa",
+    "definition": "Through my own fault — an admission of guilt",
+    "example": "From the Latin Mass, where the speaker strikes their breast at the words."
+  },
+  {
+    "id": 52,
+    "term": "Memento mori",
+    "definition": "A reminder that you will die",
+    "example": "The skull in a still life, or the slave said to whisper it to a triumphant general."
+  },
+  {
+    "id": 53,
+    "term": "Modus operandi",
+    "definition": "A characteristic way of going about things",
+    "example": "Abbreviated MO. In policing, the signature pattern in how a crime is committed."
+  },
+  {
+    "id": 54,
+    "term": "Modus vivendi",
+    "definition": "An arrangement that lets rivals coexist",
+    "example": "Literally \"way of living\" — not a solution, just a workable truce."
+  },
+  {
+    "id": 55,
+    "term": "Non sequitur",
+    "definition": "A conclusion that does not follow from what came before",
+    "example": "Literally \"it does not follow\"."
+  },
+  {
+    "id": 56,
+    "term": "Nota bene",
+    "definition": "Note well",
+    "example": "Abbreviated N.B., flagging the part you are most likely to skip."
+  },
+  {
+    "id": 57,
+    "term": "Per annum",
+    "definition": "For each year",
+    "example": "Abbreviated p.a. on salaries and interest rates."
+  },
+  {
+    "id": 58,
+    "term": "Per capita",
+    "definition": "For each head of population",
+    "example": "Literally \"by heads\". GDP per capita divides the total by everyone in the country."
+  },
+  {
+    "id": 59,
+    "term": "Per se",
+    "definition": "In itself, considered alone",
+    "example": "\"Not illegal per se\" means not illegal in and of itself."
+  },
+  {
+    "id": 60,
+    "term": "Persona non grata",
+    "definition": "An unwelcome person, formally unwanted",
+    "example": "In diplomacy, the declaration that expels a foreign envoy."
+  },
+  {
+    "id": 61,
+    "term": "Post mortem",
+    "definition": "After death — an examination of a body, or of a failure",
+    "example": "Literally \"after death\". Projects now hold them too, with less at stake."
+  },
+  {
+    "id": 62,
+    "term": "Post scriptum",
+    "definition": "Written afterwards",
+    "example": "Abbreviated P.S. — the afterthought added below the signature."
+  },
+  {
+    "id": 63,
+    "term": "Prima facie",
+    "definition": "On the face of it, at first sight",
+    "example": "A prima facie case is strong enough to answer unless it is rebutted."
+  },
+  {
+    "id": 64,
+    "term": "Pro bono",
+    "definition": "Done free of charge for the public good",
+    "example": "Short for pro bono publico. Most lawyers do some."
+  },
+  {
+    "id": 65,
+    "term": "Pro rata",
+    "definition": "In proportion",
+    "example": "A part-time salary quoted pro rata is scaled to the hours worked."
+  },
+  {
+    "id": 66,
+    "term": "Quid pro quo",
+    "definition": "Something given in return for something else",
+    "example": "Literally \"something for something\". Neutral in law, suspicious in politics."
+  },
+  {
+    "id": 67,
+    "term": "Quod erat demonstrandum",
+    "definition": "Which was the thing to be proved",
+    "example": "Abbreviated QED, written at the end of a proof. Euclid ended this way."
+  },
+  {
+    "id": 68,
+    "term": "Reductio ad absurdum",
+    "definition": "Disproving a claim by following it to an absurd conclusion",
+    "example": "A standard move in mathematics: assume the opposite and derive nonsense."
+  },
+  {
+    "id": 69,
+    "term": "Requiescat in pace",
+    "definition": "May they rest in peace",
+    "example": "Abbreviated RIP, which conveniently also fits the English."
+  },
+  {
+    "id": 70,
+    "term": "Semper fidelis",
+    "definition": "Always faithful",
+    "example": "The motto of the US Marine Corps, shortened to Semper Fi."
+  },
+  {
+    "id": 71,
+    "term": "Sic",
+    "definition": "Thus — quoted exactly, mistakes included",
+    "example": "Placed in brackets to show the error belongs to the original, not to you."
+  },
+  {
+    "id": 72,
+    "term": "Sine die",
+    "definition": "Adjourned with no date set to resume",
+    "example": "Literally \"without a day\"."
+  },
+  {
+    "id": 73,
+    "term": "Sine qua non",
+    "definition": "The condition without which the thing cannot exist",
+    "example": "Literally \"without which not\" — the absolutely essential element."
+  },
+  {
+    "id": 74,
+    "term": "Status quo",
+    "definition": "The existing state of affairs",
+    "example": "Status quo ante means the way things stood beforehand."
+  },
+  {
+    "id": 75,
+    "term": "Sub judice",
+    "definition": "Before the court, and so not to be discussed publicly",
+    "example": "Why reporting stops once proceedings are active."
+  },
+  {
+    "id": 76,
+    "term": "Sub rosa",
+    "definition": "In secret, in strict confidence",
+    "example": "\"Under the rose\" — a rose hung over a table meant nothing said was to be repeated."
+  },
+  {
+    "id": 77,
+    "term": "Tabula rasa",
+    "definition": "A blank slate",
+    "example": "Locke's image of the mind at birth: a wax tablet, scraped clean."
+  },
+  {
+    "id": 78,
+    "term": "Tempus fugit",
+    "definition": "Time flies",
+    "example": "From Virgil, whose fuller line is closer to \"time is fleeing irretrievably\"."
+  },
+  {
+    "id": 79,
+    "term": "Terra firma",
+    "definition": "Solid ground",
+    "example": "What you are relieved to be standing on after a rough crossing."
+  },
+  {
+    "id": 80,
+    "term": "Terra incognita",
+    "definition": "Unknown territory",
+    "example": "Written across the blank parts of old maps."
+  },
+  {
+    "id": 81,
+    "term": "Ultra vires",
+    "definition": "Beyond the legal power of the person acting",
+    "example": "An act taken ultra vires can be struck down however sensible it was."
+  },
+  {
+    "id": 82,
+    "term": "Vice versa",
+    "definition": "The other way round",
+    "example": "Literally \"the position having been turned\"."
+  },
+  {
+    "id": 83,
+    "term": "Vox populi",
+    "definition": "The voice of the people",
+    "example": "Shortened by broadcasters to \"vox pop\", the interview in the street."
+  },
+  {
+    "id": 84,
+    "term": "Veni, vidi, vici",
+    "definition": "I came, I saw, I conquered",
+    "example": "Caesar's report on a campaign he finished in five days."
+  },
+  {
+    "id": 85,
+    "term": "Verbatim",
+    "definition": "Word for word",
+    "example": "A verbatim transcript records the hesitations as well as the sentences."
+  },
+  {
+    "id": 86,
+    "term": "Viva voce",
+    "definition": "By the living voice — a spoken examination",
+    "example": "Shortened to viva: the oral defence of a thesis."
+  },
+  {
+    "id": 87,
+    "term": "Curriculum vitae",
+    "definition": "The course of one's life — a career summary",
+    "example": "Abbreviated CV. In American usage a résumé is the shorter form."
+  },
+  {
+    "id": 88,
+    "term": "Emeritus",
+    "definition": "Retired, but keeping the title as an honour",
+    "example": "A professor emeritus has stopped working, not stopped being a professor."
+  },
+  {
+    "id": 89,
+    "term": "Et tu, Brute?",
+    "definition": "You too, Brutus?",
+    "example": "Shakespeare's line, not history's — the ancient sources report something in Greek."
+  },
+  {
+    "id": 90,
+    "term": "Homo sapiens",
+    "definition": "Wise man — the name of our species",
+    "example": "Coined by Linnaeus in 1758. He classed us with the apes from the start."
+  },
+  {
+    "id": 91,
+    "term": "Locum tenens",
+    "definition": "Someone holding a post temporarily",
+    "example": "Shortened in Britain to locum, most often a stand-in doctor."
+  },
+  {
+    "id": 92,
+    "term": "Nolo contendere",
+    "definition": "I do not contest the charge",
+    "example": "A plea that accepts the punishment without admitting the guilt."
+  },
+  {
+    "id": 93,
+    "term": "Obiter dictum",
+    "definition": "A judge's remark in passing, which does not bind",
+    "example": "Literally \"said by the way\". Persuasive, but not precedent."
+  },
+  {
+    "id": 94,
+    "term": "Primus inter pares",
+    "definition": "First among equals",
+    "example": "The traditional description of a prime minister's place in cabinet."
+  },
+  {
+    "id": 95,
+    "term": "Res ipsa loquitur",
+    "definition": "The thing speaks for itself",
+    "example": "In negligence: a scalpel left inside a patient needs no further explanation."
+  },
+  {
+    "id": 96,
+    "term": "Annus horribilis",
+    "definition": "A dreadful year",
+    "example": "Elizabeth II used it of 1992, playing on the older annus mirabilis."
+  },
+  {
+    "id": 97,
+    "term": "Ceteris paribus",
+    "definition": "All other things being equal",
+    "example": "The economist's safety net: true, provided nothing else moves."
+  },
+  {
+    "id": 98,
+    "term": "Festina lente",
+    "definition": "Make haste slowly",
+    "example": "Augustus's motto — move fast, but do not rush."
+  },
+  {
+    "id": 99,
+    "term": "Panem et circenses",
+    "definition": "Bread and circuses",
+    "example": "Juvenal's charge that the public had traded its liberty for food and games."
+  },
+  {
+    "id": 100,
+    "term": "E pluribus unum",
+    "definition": "Out of many, one",
+    "example": "On the Great Seal of the United States since 1782."
+  }
+];
+window.QM_WORDORIGINS_DATA = [
+  {
+    "id": 1,
+    "term": "Quarantine",
+    "definition": "Italian quaranta giorni — the forty days a ship waited offshore",
+    "example": "Imposed at Venice and Ragusa during the plague years of the 1300s."
+  },
+  {
+    "id": 2,
+    "term": "Sandwich",
+    "definition": "The 4th Earl of Sandwich, who ate meat in bread at the card table",
+    "example": "His companions began ordering \"the same as Sandwich\"."
+  },
+  {
+    "id": 3,
+    "term": "Boycott",
+    "definition": "Captain Charles Boycott, shunned by his Irish tenants in 1880",
+    "example": "Within months the newspapers were using his name as a verb."
+  },
+  {
+    "id": 4,
+    "term": "Silhouette",
+    "definition": "Étienne de Silhouette, a French finance minister famous for penny-pinching",
+    "example": "His name became a byword for anything done on the cheap — including a portrait in outline."
+  },
+  {
+    "id": 5,
+    "term": "Nicotine",
+    "definition": "Jean Nicot, who sent tobacco from Portugal to the French court",
+    "example": "He presented it as a medicine, which it was briefly believed to be."
+  },
+  {
+    "id": 6,
+    "term": "Cardigan",
+    "definition": "The 7th Earl of Cardigan, whose officers wore knitted waistcoats in the Crimea",
+    "example": "The same earl led the Charge of the Light Brigade."
+  },
+  {
+    "id": 7,
+    "term": "Maverick",
+    "definition": "Samuel Maverick, a Texan rancher who would not brand his cattle",
+    "example": "An unbranded calf became a \"maverick\", then any independent-minded person."
+  },
+  {
+    "id": 8,
+    "term": "Saxophone",
+    "definition": "Adolphe Sax, the Belgian instrument maker who invented it",
+    "example": "Patented in 1846, and still the newest instrument in the orchestra."
+  },
+  {
+    "id": 9,
+    "term": "Shrapnel",
+    "definition": "Henry Shrapnel, the British officer who designed the exploding shell",
+    "example": "He worked on it for twenty years at his own expense."
+  },
+  {
+    "id": 10,
+    "term": "Guillotine",
+    "definition": "Joseph-Ignace Guillotin, who argued for it as a humane method",
+    "example": "He opposed the death penalty, and his family later petitioned to change their name."
+  },
+  {
+    "id": 11,
+    "term": "Mesmerise",
+    "definition": "Franz Mesmer, who claimed to heal through \"animal magnetism\"",
+    "example": "A royal commission including Benjamin Franklin investigated and dismissed him."
+  },
+  {
+    "id": 12,
+    "term": "Diesel",
+    "definition": "Rudolf Diesel, who patented the engine in 1892",
+    "example": "He vanished from a Channel ferry in 1913 and was never satisfactorily explained."
+  },
+  {
+    "id": 13,
+    "term": "Braille",
+    "definition": "Louis Braille, blinded at three, who devised the system aged fifteen",
+    "example": "He adapted a military code for reading messages in the dark."
+  },
+  {
+    "id": 14,
+    "term": "Bowdlerise",
+    "definition": "Thomas Bowdler, who published a Shakespeare with the rude parts cut",
+    "example": "His Family Shakspeare of 1807 removed anything that could not be read aloud at home."
+  },
+  {
+    "id": 15,
+    "term": "Chauvinism",
+    "definition": "Nicolas Chauvin, a supposedly fanatical soldier of Napoleon",
+    "example": "He may never have existed — the name spread through popular theatre."
+  },
+  {
+    "id": 16,
+    "term": "Sadism",
+    "definition": "The Marquis de Sade, who wrote his novels largely in prison",
+    "example": "Coined by a psychiatrist decades after his death."
+  },
+  {
+    "id": 17,
+    "term": "Masochism",
+    "definition": "Leopold von Sacher-Masoch, the Austrian novelist",
+    "example": "Named by the same psychiatrist, Krafft-Ebing, in the same book."
+  },
+  {
+    "id": 18,
+    "term": "Draconian",
+    "definition": "Draco, the Athenian lawgiver whose code punished nearly everything with death",
+    "example": "Asked why, he is said to have replied that small crimes deserved death and he could find nothing worse for large ones."
+  },
+  {
+    "id": 19,
+    "term": "Laconic",
+    "definition": "Laconia, the region around Sparta, whose people spoke very briefly",
+    "example": "Threatened with \"If I enter Laconia, I will raze it\", the Spartans replied: \"If.\""
+  },
+  {
+    "id": 20,
+    "term": "Stoic",
+    "definition": "The Stoa Poikile, the painted porch in Athens where the school met",
+    "example": "The philosophy is named after a piece of architecture, not a founder."
+  },
+  {
+    "id": 21,
+    "term": "Academy",
+    "definition": "Akademia, the olive grove near Athens where Plato taught",
+    "example": "The grove was named for the hero Akademos."
+  },
+  {
+    "id": 22,
+    "term": "Cynic",
+    "definition": "Greek kyon, dog — the philosophers were mocked for living like them",
+    "example": "Diogenes slept in a large jar and took the insult as a compliment."
+  },
+  {
+    "id": 23,
+    "term": "Sarcasm",
+    "definition": "Greek sarkazein, to tear the flesh",
+    "example": "Literally what a sarcastic remark is felt to do."
+  },
+  {
+    "id": 24,
+    "term": "Nightmare",
+    "definition": "Old English mare, a demon believed to crush sleepers' chests",
+    "example": "Nothing to do with horses — the resemblance is a coincidence."
+  },
+  {
+    "id": 25,
+    "term": "Muscle",
+    "definition": "Latin musculus, \"little mouse\", from the way a flexed bicep moves",
+    "example": "The Greeks saw the same thing and used their own word for mouse."
+  },
+  {
+    "id": 26,
+    "term": "Companion",
+    "definition": "Latin com and panis — one you break bread with",
+    "example": "The same root gives \"company\" and the pantry."
+  },
+  {
+    "id": 27,
+    "term": "Dandelion",
+    "definition": "French dent de lion, lion's tooth, for the jagged leaves",
+    "example": "The French themselves call it pissenlit, for its diuretic effect."
+  },
+  {
+    "id": 28,
+    "term": "Daisy",
+    "definition": "Old English dæges eage, \"day's eye\" — it opens at dawn",
+    "example": "The flower closes again at dusk, which is the whole of the name."
+  },
+  {
+    "id": 29,
+    "term": "Window",
+    "definition": "Old Norse vindauga, \"wind eye\"",
+    "example": "Before glass, a window was simply a hole that let in the weather."
+  },
+  {
+    "id": 30,
+    "term": "Breakfast",
+    "definition": "The meal that breaks the overnight fast",
+    "example": "French déjeuner and Spanish desayuno say exactly the same thing."
+  },
+  {
+    "id": 31,
+    "term": "Goodbye",
+    "definition": "A contraction of \"God be with ye\"",
+    "example": "The \"good\" crept in by analogy with good day and good night."
+  },
+  {
+    "id": 32,
+    "term": "Alphabet",
+    "definition": "Alpha and beta, the first two Greek letters",
+    "example": "The Greeks took the idea, and the letter names, from the Phoenicians."
+  },
+  {
+    "id": 33,
+    "term": "Pupil",
+    "definition": "Latin pupilla, \"little doll\" — the tiny figure you see reflected in an eye",
+    "example": "The same word gives \"pupil\" meaning schoolchild, from a different sense: a minor."
+  },
+  {
+    "id": 34,
+    "term": "Vaccine",
+    "definition": "Latin vacca, cow — Jenner used cowpox to protect against smallpox",
+    "example": "Pasteur later extended the word to every inoculation, in Jenner's honour."
+  },
+  {
+    "id": 35,
+    "term": "Malaria",
+    "definition": "Italian mala aria, \"bad air\" — long blamed on marsh vapours",
+    "example": "The mosquito was not confirmed as the carrier until 1897."
+  },
+  {
+    "id": 36,
+    "term": "Influenza",
+    "definition": "Italian for \"influence\" — of the stars, once blamed for outbreaks",
+    "example": "Shortened to flu in the 1800s."
+  },
+  {
+    "id": 37,
+    "term": "Disaster",
+    "definition": "Greek dis and astron — \"ill-starred\"",
+    "example": "An astrological word: the stars had turned against you."
+  },
+  {
+    "id": 38,
+    "term": "Lunatic",
+    "definition": "Latin luna, moon — madness was blamed on its phases",
+    "example": "English law used \"lunatic\" as a formal term into the twentieth century."
+  },
+  {
+    "id": 39,
+    "term": "Panic",
+    "definition": "The god Pan, who was thought to cause sudden terror in lonely places",
+    "example": "The Greeks credited him with the groundless fear that strikes a herd or an army."
+  },
+  {
+    "id": 40,
+    "term": "Tantalise",
+    "definition": "Tantalus, condemned to stand in water he could never drink",
+    "example": "Fruit hung above him and drew back whenever he reached."
+  },
+  {
+    "id": 41,
+    "term": "Narcissism",
+    "definition": "Narcissus, who fell in love with his own reflection",
+    "example": "He pined away beside the pool, and the flower grew where he had been."
+  },
+  {
+    "id": 42,
+    "term": "Echo",
+    "definition": "The nymph Echo, cursed to repeat only the words of others",
+    "example": "She loved Narcissus, and could not tell him so."
+  },
+  {
+    "id": 43,
+    "term": "Volcano",
+    "definition": "Vulcan, the Roman god of fire and the forge",
+    "example": "His workshop was said to lie beneath Mount Etna."
+  },
+  {
+    "id": 44,
+    "term": "Museum",
+    "definition": "A seat of the Muses, the nine goddesses of the arts",
+    "example": "The first was at Alexandria, a research institute as much as a collection."
+  },
+  {
+    "id": 45,
+    "term": "Atlas",
+    "definition": "The Titan Atlas, shown holding up the heavens on early map collections",
+    "example": "Mercator put him on a frontispiece in 1595 and the name stuck to the book."
+  },
+  {
+    "id": 46,
+    "term": "January",
+    "definition": "Janus, the two-faced god who looks back and forward at once",
+    "example": "He was the god of doorways, which is what a new year is."
+  },
+  {
+    "id": 47,
+    "term": "Jovial",
+    "definition": "Born under Jupiter, or Jove — a planet held to make people cheerful",
+    "example": "Astrology has quietly left four temperaments in the language."
+  },
+  {
+    "id": 48,
+    "term": "Mercurial",
+    "definition": "Mercury — quick, changeable, hard to hold",
+    "example": "The metal is named for the same god, for the same reason."
+  },
+  {
+    "id": 49,
+    "term": "Sinister",
+    "definition": "Latin for \"left\" — the left-hand side was the unlucky one",
+    "example": "In heraldry it still simply means the left of the shield."
+  },
+  {
+    "id": 50,
+    "term": "Dexterity",
+    "definition": "Latin dexter, right-handed, and so skilful",
+    "example": "The bias runs deep: \"gauche\" is just French for left."
+  },
+  {
+    "id": 51,
+    "term": "Robot",
+    "definition": "Czech robota, forced labour, coined for Karel Čapek's play R.U.R.",
+    "example": "His brother Josef suggested the word. The play's robots destroy humanity."
+  },
+  {
+    "id": 52,
+    "term": "Nice",
+    "definition": "Latin nescius, ignorant — it first meant foolish",
+    "example": "It travelled through timid, fussy and precise before arriving at pleasant."
+  },
+  {
+    "id": 53,
+    "term": "Silly",
+    "definition": "Old English sælig, happy and blessed",
+    "example": "Blessed became innocent, innocent became simple, and simple became foolish."
+  },
+  {
+    "id": 54,
+    "term": "Awful",
+    "definition": "Full of awe — it once meant awe-inspiring",
+    "example": "\"Awesome\" now carries the old meaning that \"awful\" abandoned."
+  },
+  {
+    "id": 55,
+    "term": "Clue",
+    "definition": "A clew — the ball of thread Theseus unwound in the labyrinth",
+    "example": "A clue is what lets you retrace your way out."
+  },
+  {
+    "id": 56,
+    "term": "Assassin",
+    "definition": "Arabic hashshashin, the name given to a medieval sect in Persia and Syria",
+    "example": "Brought back by crusaders, along with the stories about them."
+  },
+  {
+    "id": 57,
+    "term": "Algebra",
+    "definition": "Arabic al-jabr, \"the reunion of broken parts\"",
+    "example": "From the title of a ninth-century book on solving equations."
+  },
+  {
+    "id": 58,
+    "term": "Algorithm",
+    "definition": "Al-Khwarizmi, the Persian mathematician who wrote that book",
+    "example": "His name gave us the method; his book's title gave us algebra."
+  },
+  {
+    "id": 59,
+    "term": "Alcohol",
+    "definition": "Arabic al-kuhl, the fine powder used as eyeliner",
+    "example": "It meant any refined essence before it settled on distilled spirit."
+  },
+  {
+    "id": 60,
+    "term": "Sugar",
+    "definition": "Sanskrit sharkara, meaning grit or gravel",
+    "example": "It travelled through Persian, Arabic and Italian to reach English."
+  },
+  {
+    "id": 61,
+    "term": "Orange",
+    "definition": "Sanskrit naranga — English lost the initial n from \"a norange\"",
+    "example": "Spanish kept it: naranja."
+  },
+  {
+    "id": 62,
+    "term": "Apron",
+    "definition": "The same slip in reverse: \"a napron\" was misheard as \"an apron\"",
+    "example": "A napron was a little cloth — the same root as \"napkin\"."
+  },
+  {
+    "id": 63,
+    "term": "Nickname",
+    "definition": "\"An eke name\" — eke meaning also, or additional",
+    "example": "Misdivided exactly as apron was, but in the other direction."
+  },
+  {
+    "id": 64,
+    "term": "Ketchup",
+    "definition": "A Hokkien Chinese word for a fermented fish sauce",
+    "example": "It reached England as a mushroom or walnut sauce; the tomato came much later."
+  },
+  {
+    "id": 65,
+    "term": "Shampoo",
+    "definition": "Hindi champo, to press or knead",
+    "example": "It meant a massage first; washing hair was a later, English narrowing."
+  },
+  {
+    "id": 66,
+    "term": "Bungalow",
+    "definition": "Hindi bangla, \"of Bengal\" — a house in the Bengali style",
+    "example": "The defining feature was the single storey and the wide veranda."
+  },
+  {
+    "id": 67,
+    "term": "Juggernaut",
+    "definition": "Jagannath, the vast temple cart drawn through Puri",
+    "example": "European accounts exaggerated the danger of the procession considerably."
+  },
+  {
+    "id": 68,
+    "term": "Pyjamas",
+    "definition": "Persian and Urdu pay-jama, \"leg garment\"",
+    "example": "Adopted by the British in India as nightwear, which was never the original use."
+  },
+  {
+    "id": 69,
+    "term": "Thug",
+    "definition": "Hindi thag, a member of a band of robbers",
+    "example": "The word entered English through colonial policing in the 1830s."
+  },
+  {
+    "id": 70,
+    "term": "Jungle",
+    "definition": "Sanskrit jangala — which meant dry, uncultivated ground",
+    "example": "English reversed the sense entirely, to dense wet forest."
+  },
+  {
+    "id": 71,
+    "term": "Tycoon",
+    "definition": "Japanese taikun, \"great lord\"",
+    "example": "Brought back by American diplomats in the 1860s, and applied to businessmen."
+  },
+  {
+    "id": 72,
+    "term": "Tsunami",
+    "definition": "Japanese for \"harbour wave\"",
+    "example": "Named from the shore, where the wave is felt, not from the sea floor where it starts."
+  },
+  {
+    "id": 73,
+    "term": "Emoji",
+    "definition": "Japanese e, picture, plus moji, character",
+    "example": "The resemblance to \"emotion\" is pure coincidence."
+  },
+  {
+    "id": 74,
+    "term": "Karaoke",
+    "definition": "Japanese for \"empty orchestra\"",
+    "example": "Kara, empty, is the same syllable as in karate — empty hand."
+  },
+  {
+    "id": 75,
+    "term": "Chocolate",
+    "definition": "Nahuatl chocolatl, from the language of the Aztecs",
+    "example": "It was drunk, unsweetened and spiced, long before it was eaten."
+  },
+  {
+    "id": 76,
+    "term": "Hurricane",
+    "definition": "Taino hurakan, the name of a storm god of the Caribbean",
+    "example": "Brought into Spanish, then English, by the earliest voyages."
+  },
+  {
+    "id": 77,
+    "term": "Barbecue",
+    "definition": "Taino barbacoa, a wooden frame for cooking over a fire",
+    "example": "The frame came first; the social occasion is an American addition."
+  },
+  {
+    "id": 78,
+    "term": "Denim",
+    "definition": "\"De Nîmes\" — the French city where the cloth was woven",
+    "example": "The serge de Nîmes was a sturdy twill long before Levi Strauss."
+  },
+  {
+    "id": 79,
+    "term": "Bikini",
+    "definition": "Bikini Atoll, days after the nuclear tests there",
+    "example": "Its designer wanted a name suggesting an explosive reaction. It worked."
+  },
+  {
+    "id": 80,
+    "term": "Marathon",
+    "definition": "The plain of Marathon, from which a runner is said to have carried the news",
+    "example": "The 26.2-mile distance was fixed in 1908 to suit the route at the London Games."
+  },
+  {
+    "id": 81,
+    "term": "Bedlam",
+    "definition": "Bethlem, the London hospital that took in the mentally ill",
+    "example": "Its name is a worn-down form of Bethlehem."
+  },
+  {
+    "id": 82,
+    "term": "Gymnasium",
+    "definition": "Greek gymnos, naked — the state in which Greek men trained",
+    "example": "In Germany the word still means a grammar school, where clothing is standard."
+  },
+  {
+    "id": 83,
+    "term": "Curfew",
+    "definition": "French couvre-feu, \"cover the fire\"",
+    "example": "A bell rang at night to tell the town to bank its hearths against fire."
+  },
+  {
+    "id": 84,
+    "term": "Villain",
+    "definition": "Latin villanus, a labourer tied to a villa or farm",
+    "example": "It slid from peasant to scoundrel by way of simple class contempt."
+  },
+  {
+    "id": 85,
+    "term": "Trivia",
+    "definition": "Latin trivium, a place where three roads meet",
+    "example": "What is discussed at a crossroads is common talk, and so trivial."
+  },
+  {
+    "id": 86,
+    "term": "Deadline",
+    "definition": "A line at a prison camp beyond which prisoners would be shot",
+    "example": "Recorded in the American Civil War; the publishing sense came later."
+  },
+  {
+    "id": 87,
+    "term": "Checkmate",
+    "definition": "Persian shah mat — \"the king is helpless\"",
+    "example": "Not \"the king is dead\", though that translation is often given."
+  },
+  {
+    "id": 88,
+    "term": "Magazine",
+    "definition": "Arabic makhazin, storehouses",
+    "example": "A store of articles, a store of gunpowder, a store of cartridges — all the same word."
+  },
+  {
+    "id": 89,
+    "term": "Admiral",
+    "definition": "Arabic amir al-bahr, commander of the sea",
+    "example": "The stray d crept in by association with Latin admirari, to wonder at."
+  },
+  {
+    "id": 90,
+    "term": "Safari",
+    "definition": "Swahili for a journey, from Arabic safar",
+    "example": "It meant any trip, not specifically one to look at animals."
+  },
+  {
+    "id": 91,
+    "term": "Gerrymander",
+    "definition": "Governor Elbridge Gerry, plus salamander — the shape of his rigged district",
+    "example": "Coined by a Boston newspaper in 1812, complete with a cartoon."
+  },
+  {
+    "id": 92,
+    "term": "Dunce",
+    "definition": "John Duns Scotus, a subtle medieval theologian mocked by later scholars",
+    "example": "His followers were called Dunsmen, and the name became an insult."
+  },
+  {
+    "id": 93,
+    "term": "Ostracise",
+    "definition": "Greek ostrakon, the potsherd on which Athenians wrote a name to exile him",
+    "example": "Six thousand votes sent a citizen away for ten years."
+  },
+  {
+    "id": 94,
+    "term": "Candidate",
+    "definition": "Latin candidatus, \"clothed in white\" — the toga worn while seeking office",
+    "example": "The same root gives \"candid\", and the element cadmium's cousin, candour."
+  },
+  {
+    "id": 95,
+    "term": "Rival",
+    "definition": "Latin rivalis — one who draws water from the same stream",
+    "example": "Neighbours sharing a river had the most reliable reason to quarrel."
+  },
+  {
+    "id": 96,
+    "term": "Sheriff",
+    "definition": "Shire reeve — the king's officer in a shire",
+    "example": "An English office nearly a thousand years old, exported to America wholesale."
+  },
+  {
+    "id": 97,
+    "term": "Lord",
+    "definition": "Old English hlafweard, \"loaf-keeper\"",
+    "example": "The lord was the one who had the bread and handed it out."
+  },
+  {
+    "id": 98,
+    "term": "Lady",
+    "definition": "Old English hlæfdige, \"loaf-kneader\"",
+    "example": "The pair to lord, and a reminder that both titles began in the kitchen."
+  },
+  {
+    "id": 99,
+    "term": "Serendipity",
+    "definition": "Coined by Horace Walpole from the Persian tale The Three Princes of Serendip",
+    "example": "Serendip is an old name for Sri Lanka. The princes kept finding what they were not seeking."
+  },
+  {
+    "id": 100,
+    "term": "Utopia",
+    "definition": "Thomas More's coinage from Greek ou-topos, \"no place\"",
+    "example": "He built in the joke: the perfect society is the one that is nowhere."
+  }
+];
 window.QM_BALLETPIX_DATA = [
   {
     "id": 1,
@@ -73242,6 +77022,609 @@ window.QM_IDIOMS_CS_DATA = [
     "enIdiom": "Race against time"
   }
 ];
+window.QM_IDIOMS_TR_DATA = [
+  {
+    "id": 1,
+    "term": "Pireyi deve yapmak",
+    "definition": "\"To make a camel out of a flea\" — to make a mountain out of a molehill",
+    "example": "Pireyi deve yapma, önemli bir şey değil."
+  },
+  {
+    "id": 2,
+    "term": "Ayağını yorganına göre uzatmak",
+    "definition": "\"To stretch your legs according to your quilt\" — to live within your means",
+    "example": "Ayağını yorganına göre uzat, bu arabayı alamazsın."
+  },
+  {
+    "id": 3,
+    "term": "Damlaya damlaya göl olur",
+    "definition": "\"Drop by drop it becomes a lake\" — small amounts add up to a great deal",
+    "example": "Her ay biraz biriktir; damlaya damlaya göl olur."
+  },
+  {
+    "id": 4,
+    "term": "Armut piş ağzıma düş",
+    "definition": "\"Pear, ripen and fall into my mouth\" — expecting rewards without any effort",
+    "example": "Hiç çalışmadan kazanmak istiyor: armut piş ağzıma düş."
+  },
+  {
+    "id": 5,
+    "term": "Bir taşla iki kuş vurmak",
+    "definition": "\"To hit two birds with one stone\" — to settle two matters with one action",
+    "example": "Markete giderken kargoyu da aldım, bir taşla iki kuş vurdum."
+  },
+  {
+    "id": 6,
+    "term": "Göz atmak",
+    "definition": "\"To throw an eye\" — to take a quick look at something",
+    "example": "Rapora bir göz attım ama detaylı okumadım."
+  },
+  {
+    "id": 7,
+    "term": "Kafayı yemek",
+    "definition": "\"To eat the head\" — to lose one's mind",
+    "example": "Bu gürültüde kafayı yiyeceğim."
+  },
+  {
+    "id": 8,
+    "term": "Etekleri zil çalmak",
+    "definition": "\"One's skirts ring like bells\" — to be overjoyed",
+    "example": "Haberi duyunca etekleri zil çaldı."
+  },
+  {
+    "id": 9,
+    "term": "Burnu havada olmak",
+    "definition": "\"To have one's nose in the air\" — to be arrogant and look down on others",
+    "example": "Terfi aldıktan sonra burnu havada."
+  },
+  {
+    "id": 10,
+    "term": "Ağzı kulaklarına varmak",
+    "definition": "\"One's mouth reaches one's ears\" — to grin from ear to ear",
+    "example": "Hediyeyi görünce ağzı kulaklarına vardı."
+  },
+  {
+    "id": 11,
+    "term": "El üstünde tutmak",
+    "definition": "\"To hold above the hand\" — to treat someone with great care and respect",
+    "example": "Misafirlerini her zaman el üstünde tutar."
+  },
+  {
+    "id": 12,
+    "term": "İpe un sermek",
+    "definition": "\"To spread flour on a rope\" — to invent feeble excuses to dodge a task",
+    "example": "Yardım etmesini istedim ama ipe un serdi."
+  },
+  {
+    "id": 13,
+    "term": "Pabucu dama atılmak",
+    "definition": "\"One's shoe is thrown onto the roof\" — to fall out of favour, replaced by someone else",
+    "example": "Yeni müdür gelince onun pabucu dama atıldı."
+  },
+  {
+    "id": 14,
+    "term": "Ateş pahası",
+    "definition": "\"The price of fire\" — outrageously expensive",
+    "example": "Bu semtte kiralar ateş pahası."
+  },
+  {
+    "id": 15,
+    "term": "Kulak misafiri olmak",
+    "definition": "\"To be an ear guest\" — to overhear something not meant for you",
+    "example": "İstemeden konuşmalarına kulak misafiri oldum."
+  },
+  {
+    "id": 16,
+    "term": "Göze girmek",
+    "definition": "\"To enter the eye\" — to win someone's favour",
+    "example": "Çalışkanlığıyla patronun gözüne girdi."
+  },
+  {
+    "id": 17,
+    "term": "Dokuz doğurmak",
+    "definition": "\"To give birth nine times\" — to wait in agonising suspense",
+    "example": "Sen gelene kadar dokuz doğurdum."
+  },
+  {
+    "id": 18,
+    "term": "Çantada keklik",
+    "definition": "\"A partridge in the bag\" — something assumed to be already won",
+    "example": "Bu maçı kazanmak çantada keklik sanma."
+  },
+  {
+    "id": 19,
+    "term": "Balık kavağa çıkınca",
+    "definition": "\"When the fish climbs the poplar tree\" — never; on a day that will not come",
+    "example": "O borcunu balık kavağa çıkınca öder."
+  },
+  {
+    "id": 20,
+    "term": "Havanda su dövmek",
+    "definition": "\"To pound water in a mortar\" — to labour at something utterly pointless",
+    "example": "Onu ikna etmeye çalışmak havanda su dövmek."
+  },
+  {
+    "id": 21,
+    "term": "Ağaç yaşken eğilir",
+    "definition": "\"A tree bends while it is young\" — character must be shaped early",
+    "example": "Çocuğa şimdi öğret; ağaç yaşken eğilir."
+  },
+  {
+    "id": 22,
+    "term": "Sütten ağzı yanan yoğurdu üfleyerek yer",
+    "definition": "\"One whose mouth was burnt by milk blows on yogurt before eating it\" — once bitten, twice shy",
+    "example": "Bir daha kimseye güvenmiyor; sütten ağzı yanan yoğurdu üfleyerek yer."
+  },
+  {
+    "id": 23,
+    "term": "Bir elin nesi var, iki elin sesi var",
+    "definition": "\"What does one hand have? Two hands make a sound\" — more is achieved together",
+    "example": "Beraber yapalım: bir elin nesi var, iki elin sesi var."
+  },
+  {
+    "id": 24,
+    "term": "Gözden düşmek",
+    "definition": "\"To fall from the eye\" — to lose the esteem one once had",
+    "example": "O olaydan sonra herkesin gözünden düştü."
+  },
+  {
+    "id": 25,
+    "term": "Kaş yapayım derken göz çıkarmak",
+    "definition": "\"To poke out an eye while trying to shape an eyebrow\" — to make things worse by trying to help",
+    "example": "Tamir edeyim derken bozdu; kaş yapayım derken göz çıkardı."
+  },
+  {
+    "id": 26,
+    "term": "Ağzından baklayı çıkarmak",
+    "definition": "\"To take the bean out of one's mouth\" — to blurt out at last what one was holding back",
+    "example": "Israr edince ağzından baklayı çıkardı."
+  },
+  {
+    "id": 27,
+    "term": "Pişmiş aşa soğuk su katmak",
+    "definition": "\"To pour cold water into cooked food\" — to spoil something already settled",
+    "example": "Her şey yolundaydı, o gelip pişmiş aşa soğuk su kattı."
+  },
+  {
+    "id": 28,
+    "term": "Aba altından sopa göstermek",
+    "definition": "\"To show the stick from under the cloak\" — to threaten while appearing friendly",
+    "example": "Güler yüzle konuştu ama aba altından sopa gösterdi."
+  },
+  {
+    "id": 29,
+    "term": "İğneyle kuyu kazmak",
+    "definition": "\"To dig a well with a needle\" — to attempt something huge with hopelessly small means",
+    "example": "Bu tezi tek başıma yazmak iğneyle kuyu kazmak gibi."
+  },
+  {
+    "id": 30,
+    "term": "Turp gibi olmak",
+    "definition": "\"To be like a radish\" — to be in robust health",
+    "example": "Ameliyattan sonra turp gibi oldu."
+  },
+  {
+    "id": 31,
+    "term": "Eli kulağında",
+    "definition": "\"It is at one's hand and ear\" — about to happen at any moment",
+    "example": "Sonuçların açıklanması eli kulağında."
+  },
+  {
+    "id": 32,
+    "term": "Göz göre göre",
+    "definition": "\"Eye seeing, seeing\" — blatantly, right in front of everyone",
+    "example": "Göz göre göre yalan söyledi."
+  },
+  {
+    "id": 33,
+    "term": "Baş göz üstüne",
+    "definition": "\"Upon the head and the eye\" — gladly, most willingly",
+    "example": "İsteğiniz baş göz üstüne."
+  },
+  {
+    "id": 34,
+    "term": "Ağzına sağlık",
+    "definition": "\"Health to your mouth\" — well said, or well cooked",
+    "example": "Çok güzel konuştun, ağzına sağlık."
+  },
+  {
+    "id": 35,
+    "term": "Eline sağlık",
+    "definition": "\"Health to your hand\" — praise for something made by hand",
+    "example": "Yemek nefisti, eline sağlık."
+  },
+  {
+    "id": 36,
+    "term": "Kolay gelsin",
+    "definition": "\"May it come easy\" — said to anyone found at work",
+    "example": "Çalışanlara kolay gelsin dedim."
+  },
+  {
+    "id": 37,
+    "term": "Gözü yolda kalmak",
+    "definition": "\"One's eye stays on the road\" — to wait anxiously for someone to arrive",
+    "example": "Annemin gözü yolda kaldı, hemen dönmeliyim."
+  },
+  {
+    "id": 38,
+    "term": "Yüreği ağzına gelmek",
+    "definition": "\"One's heart comes up to one's mouth\" — to get a bad fright",
+    "example": "Ani fren yapınca yüreğim ağzıma geldi."
+  },
+  {
+    "id": 39,
+    "term": "Burnundan kıl aldırmamak",
+    "definition": "\"To let no hair be taken from one's nose\" — to be touchy and impossible to approach",
+    "example": "O günlerde burnundan kıl aldırmıyordu."
+  },
+  {
+    "id": 40,
+    "term": "Aklı başına gelmek",
+    "definition": "\"One's mind comes back to one's head\" — to come to one's senses",
+    "example": "Kazadan sonra aklı başına geldi."
+  },
+  {
+    "id": 41,
+    "term": "Kafa kafaya vermek",
+    "definition": "\"To give head to head\" — to put heads together over a problem",
+    "example": "Kafa kafaya verip bir çözüm bulduk."
+  },
+  {
+    "id": 42,
+    "term": "Ağzı var dili yok",
+    "definition": "\"Has a mouth but no tongue\" — exceedingly meek and silent",
+    "example": "Çok sessiz bir çocuk, ağzı var dili yok."
+  },
+  {
+    "id": 43,
+    "term": "İki ayağını bir pabuca sokmak",
+    "definition": "\"To force both feet into one shoe\" — to hurry someone mercilessly",
+    "example": "Müdür iki ayağımızı bir pabuca soktu."
+  },
+  {
+    "id": 44,
+    "term": "Deveye hendek atlatmak",
+    "definition": "\"To make a camel jump a ditch\" — an all but impossible undertaking",
+    "example": "Ona bir şey anlatmak deveye hendek atlatmak gibi."
+  },
+  {
+    "id": 45,
+    "term": "Tuzu kuru",
+    "definition": "\"One's salt is dry\" — comfortably off, and so untroubled by others' worries",
+    "example": "Kolay konuşuyor, onun tuzu kuru."
+  },
+  {
+    "id": 46,
+    "term": "Çam devirmek",
+    "definition": "\"To fell a pine tree\" — to commit a spectacular social blunder",
+    "example": "Toplantıda yine çam devirdi."
+  },
+  {
+    "id": 47,
+    "term": "Foyası meydana çıkmak",
+    "definition": "\"One's tinsel comes to light\" — to be exposed as a fraud",
+    "example": "Kısa sürede foyası meydana çıktı."
+  },
+  {
+    "id": 48,
+    "term": "Küplere binmek",
+    "definition": "\"To ride on jars\" — to fly into a towering rage",
+    "example": "Haberi duyunca küplere bindi."
+  },
+  {
+    "id": 49,
+    "term": "Bardağı taşıran son damla",
+    "definition": "\"The last drop that overflows the glass\" — the final straw",
+    "example": "Bu söz bardağı taşıran son damla oldu."
+  },
+  {
+    "id": 50,
+    "term": "Ayvayı yemek",
+    "definition": "\"To eat the quince\" — to land oneself in serious trouble",
+    "example": "Sınavdan kalırsam ayvayı yedim."
+  },
+  {
+    "id": 51,
+    "term": "Yağmurdan kaçarken doluya tutulmak",
+    "definition": "\"To be caught in hail while fleeing the rain\" — out of the frying pan into the fire",
+    "example": "İşi bıraktı ama yağmurdan kaçarken doluya tutuldu."
+  },
+  {
+    "id": 52,
+    "term": "Bin pişman olmak",
+    "definition": "\"To be a thousand times sorry\" — to regret something bitterly",
+    "example": "Söylediklerine bin pişman oldu."
+  },
+  {
+    "id": 53,
+    "term": "Gözü kara",
+    "definition": "\"Black-eyed\" — fearless to the point of recklessness",
+    "example": "Gözü kara bir sürücüydü."
+  },
+  {
+    "id": 54,
+    "term": "Elini çabuk tutmak",
+    "definition": "\"To hold one's hand quickly\" — to get a move on",
+    "example": "Elini çabuk tut, tren kalkıyor."
+  },
+  {
+    "id": 55,
+    "term": "Kulağına küpe olmak",
+    "definition": "\"To become an earring for one's ear\" — to be a lesson one never forgets",
+    "example": "Bu olay sana kulağına küpe olsun."
+  },
+  {
+    "id": 56,
+    "term": "Ağzını bıçak açmamak",
+    "definition": "\"A knife cannot open one's mouth\" — to be too wretched to say a word",
+    "example": "Haberden sonra ağzını bıçak açmadı."
+  },
+  {
+    "id": 57,
+    "term": "Dört gözle beklemek",
+    "definition": "\"To wait with four eyes\" — to look forward to something eagerly",
+    "example": "Tatili dört gözle bekliyorum."
+  },
+  {
+    "id": 58,
+    "term": "İşi başından aşkın olmak",
+    "definition": "\"One's work overflows one's head\" — to be completely swamped",
+    "example": "Bu hafta işim başımdan aşkın."
+  },
+  {
+    "id": 59,
+    "term": "Kırk yılda bir",
+    "definition": "\"Once in forty years\" — hardly ever",
+    "example": "Kırk yılda bir arıyor."
+  },
+  {
+    "id": 60,
+    "term": "Canı burnuna gelmek",
+    "definition": "\"One's soul comes to one's nose\" — to be worn out and at the end of one's patience",
+    "example": "Bu işten canım burnuma geldi."
+  },
+  {
+    "id": 61,
+    "term": "Gönlünü almak",
+    "definition": "\"To take someone's heart\" — to make amends and win someone round",
+    "example": "Küstüğü için gönlünü almaya çalıştım."
+  },
+  {
+    "id": 62,
+    "term": "Kafasına göre takılmak",
+    "definition": "\"To drift about according to one's own head\" — to please oneself and heed nobody",
+    "example": "Kimseyi dinlemez, kafasına göre takılır."
+  },
+  {
+    "id": 63,
+    "term": "Ununu elemiş eleğini asmış",
+    "definition": "\"Has sifted the flour and hung up the sieve\" — to have withdrawn from active life",
+    "example": "Artık çalışmıyor; ununu elemiş eleğini asmış."
+  },
+  {
+    "id": 64,
+    "term": "Yüz göz olmak",
+    "definition": "\"To become face and eye\" — to grow so familiar that respect is lost",
+    "example": "Fazla samimi olma, yüz göz olur."
+  },
+  {
+    "id": 65,
+    "term": "Burnunun dikine gitmek",
+    "definition": "\"To go straight along the ridge of one's nose\" — to be stubbornly self-willed",
+    "example": "Kimseyi dinlemedi, burnunun dikine gitti."
+  },
+  {
+    "id": 66,
+    "term": "Gözünü karartmak",
+    "definition": "\"To darken one's eye\" — to steel oneself and take the risk",
+    "example": "Gözünü kararttı ve istifa etti."
+  },
+  {
+    "id": 67,
+    "term": "İpin ucunu kaçırmak",
+    "definition": "\"To lose the end of the rope\" — to let a thing get out of hand",
+    "example": "Şaka olarak başladı ama ipin ucunu kaçırdılar."
+  },
+  {
+    "id": 68,
+    "term": "Diken üstünde oturmak",
+    "definition": "\"To sit on thorns\" — to be on tenterhooks",
+    "example": "Sonuçları beklerken diken üstünde oturdum."
+  },
+  {
+    "id": 69,
+    "term": "Boşa kürek çekmek",
+    "definition": "\"To row for nothing\" — to spend effort that leads nowhere",
+    "example": "Onu ikna edemezsin, boşa kürek çekiyorsun."
+  },
+  {
+    "id": 70,
+    "term": "Ağzından çıkanı kulağı duymamak",
+    "definition": "\"One's ear does not hear what leaves one's mouth\" — to rant without hearing oneself",
+    "example": "Sinirlenince ağzından çıkanı kulağı duymuyor."
+  },
+  {
+    "id": 71,
+    "term": "Kaz gelecek yerden tavuk esirgenmez",
+    "definition": "\"Where a goose will come from, a chicken is not begrudged\" — a small outlay is worth a large return",
+    "example": "Hediyeyi al; kaz gelecek yerden tavuk esirgenmez."
+  },
+  {
+    "id": 72,
+    "term": "Sakla samanı gelir zamanı",
+    "definition": "\"Store the straw, its time will come\" — keep a thing; its use will appear",
+    "example": "Atma şunu, sakla samanı gelir zamanı."
+  },
+  {
+    "id": 73,
+    "term": "Ne ekersen onu biçersin",
+    "definition": "\"You reap whatever you sow\" — you get back what you put in",
+    "example": "Kimseye yardım etmedi; ne ekersen onu biçersin."
+  },
+  {
+    "id": 74,
+    "term": "Görünen köy kılavuz istemez",
+    "definition": "\"A village in plain sight needs no guide\" — the obvious needs no explaining",
+    "example": "Sonuç belli, görünen köy kılavuz istemez."
+  },
+  {
+    "id": 75,
+    "term": "Üzüm üzüme baka baka kararır",
+    "definition": "\"Grapes darken by looking at one another\" — people take on the traits of their company",
+    "example": "Arkadaşlarına dikkat et; üzüm üzüme baka baka kararır."
+  },
+  {
+    "id": 76,
+    "term": "El elden üstündür",
+    "definition": "\"One hand is above another hand\" — however good you are, someone is better",
+    "example": "Fazla övünme, el elden üstündür."
+  },
+  {
+    "id": 77,
+    "term": "Sudan çıkmış balığa dönmek",
+    "definition": "\"To turn into a fish out of water\" — to be entirely out of one's element",
+    "example": "Yeni okulda sudan çıkmış balığa döndü."
+  },
+  {
+    "id": 78,
+    "term": "Tencere yuvarlanmış kapağını bulmuş",
+    "definition": "\"The pot rolled along and found its lid\" — two of a kind have found each other",
+    "example": "İkisi de çok dağınık; tencere yuvarlanmış kapağını bulmuş."
+  },
+  {
+    "id": 79,
+    "term": "Bir baltaya sap olmak",
+    "definition": "\"To become the handle of an axe\" — to settle at last into a proper job",
+    "example": "Artık bir baltaya sap olsun istiyorum."
+  },
+  {
+    "id": 80,
+    "term": "Ayıkla pirincin taşını",
+    "definition": "\"Now pick the stones out of the rice\" — now untangle this mess",
+    "example": "Bütün dosyalar karıştı, ayıkla pirincin taşını."
+  },
+  {
+    "id": 81,
+    "term": "Dilinin ucunda olmak",
+    "definition": "\"To be on the tip of one's tongue\" — almost remembered, but not quite",
+    "example": "İsmi dilimin ucunda ama bir türlü hatırlayamıyorum."
+  },
+  {
+    "id": 82,
+    "term": "Kulağı delik",
+    "definition": "\"Having a pierced ear\" — always the first to know what is going on",
+    "example": "Ona sor, onun kulağı deliktir."
+  },
+  {
+    "id": 83,
+    "term": "Eli boş dönmek",
+    "definition": "\"To return with an empty hand\" — to come back having got nothing",
+    "example": "Pazardan eli boş döndü."
+  },
+  {
+    "id": 84,
+    "term": "Gözü tok",
+    "definition": "\"One's eye is full\" — content with what one has, never greedy",
+    "example": "Gözü tok bir insandır, fazlasını istemez."
+  },
+  {
+    "id": 85,
+    "term": "Ağır başlı olmak",
+    "definition": "\"To be heavy-headed\" — to be dignified and serious in manner",
+    "example": "Çok ağır başlı bir çocuk."
+  },
+  {
+    "id": 86,
+    "term": "Kanı kaynamak",
+    "definition": "\"One's blood boils\" — to warm to someone the instant you meet",
+    "example": "Tanışır tanışmaz kanımız kaynadı."
+  },
+  {
+    "id": 87,
+    "term": "Yüzü tutmamak",
+    "definition": "\"One's face does not hold\" — to be too embarrassed to ask",
+    "example": "İstemeye yüzüm tutmadı."
+  },
+  {
+    "id": 88,
+    "term": "Ayağının tozuyla",
+    "definition": "\"With the dust still on one's feet\" — the very moment one arrives",
+    "example": "Ayağının tozuyla işe başladı."
+  },
+  {
+    "id": 89,
+    "term": "İki dirhem bir çekirdek",
+    "definition": "\"Two drams and one seed\" — turned out immaculately, dressed to the nines",
+    "example": "Düğüne iki dirhem bir çekirdek geldi."
+  },
+  {
+    "id": 90,
+    "term": "Ateşle oynamak",
+    "definition": "\"To play with fire\" — to court an obvious danger",
+    "example": "Böyle davranarak ateşle oynuyorsun."
+  },
+  {
+    "id": 91,
+    "term": "Baltayı taşa vurmak",
+    "definition": "\"To strike the axe against a stone\" — to say precisely the wrong thing",
+    "example": "O soruyu sorarak baltayı taşa vurdu."
+  },
+  {
+    "id": 92,
+    "term": "Devede kulak",
+    "definition": "\"An ear on a camel\" — a trifling amount next to the whole",
+    "example": "Bu zam devede kulak kaldı."
+  },
+  {
+    "id": 93,
+    "term": "Havadan sudan konuşmak",
+    "definition": "\"To talk of air and water\" — to make small talk",
+    "example": "Bir saat havadan sudan konuştuk."
+  },
+  {
+    "id": 94,
+    "term": "Saman altından su yürütmek",
+    "definition": "\"To run water under the straw\" — to scheme quietly behind a calm face",
+    "example": "Sessiz duruyor ama saman altından su yürütüyor."
+  },
+  {
+    "id": 95,
+    "term": "Bir kulağından girip diğerinden çıkmak",
+    "definition": "\"To go in one ear and out the other\" — to be heard and instantly ignored",
+    "example": "Söylediklerim bir kulağından girip diğerinden çıkıyor."
+  },
+  {
+    "id": 96,
+    "term": "Yüzüne gözüne bulaştırmak",
+    "definition": "\"To smear it over one's face and eyes\" — to make a thorough mess of a job",
+    "example": "Tamir edeyim derken yüzüne gözüne bulaştırdı."
+  },
+  {
+    "id": 97,
+    "term": "Burnu sürtülmek",
+    "definition": "\"To have one's nose rubbed in it\" — to be humbled by hard experience",
+    "example": "Zorluk görünce burnu sürtüldü."
+  },
+  {
+    "id": 98,
+    "term": "Kendi düşen ağlamaz",
+    "definition": "\"He who falls by himself does not weep\" — you cannot complain of your own doing",
+    "example": "Seni uyarmıştım; kendi düşen ağlamaz."
+  },
+  {
+    "id": 99,
+    "term": "Son gülen iyi güler",
+    "definition": "\"He who laughs last laughs well\" — it is the final outcome that counts",
+    "example": "Şimdiden sevinme, son gülen iyi güler."
+  },
+  {
+    "id": 100,
+    "term": "Zamana karşı yarış",
+    "definition": "\"A race against time\" — an urgent effort to finish before a deadline",
+    "example": "Raporu yetiştirmek için zamana karşı yarıştı.",
+    "enIdiom": "Race against time"
+  }
+];
 window.QM_PHRASES_IT_DATA = [
   {
     "id": 1,
@@ -80464,6 +84847,608 @@ window.QM_PHRASES_CS_DATA = [
     "term": "Thanks for everything.",
     "definition": "Díky za všechno.",
     "example": "'díky za' + accusative"
+  }
+];
+window.QM_PHRASES_TR_DATA = [
+  {
+    "id": 1,
+    "term": "Good morning!",
+    "definition": "Günaydın!",
+    "example": "one word, from 'gün' (day) + 'aydın' (bright); used until roughly midday"
+  },
+  {
+    "id": 2,
+    "term": "Good evening!",
+    "definition": "İyi akşamlar!",
+    "example": "greetings take the plural -lar as a politeness marker, not a real plural"
+  },
+  {
+    "id": 3,
+    "term": "Good night!",
+    "definition": "İyi geceler!",
+    "example": "same -ler plural; both a late greeting and a farewell"
+  },
+  {
+    "id": 4,
+    "term": "Hi! (informal)",
+    "definition": "Selam!",
+    "example": "informal, among friends; from the Arabic greeting"
+  },
+  {
+    "id": 5,
+    "term": "How are you?",
+    "definition": "Nasılsın?",
+    "example": "informal 'sen' address — the -sın ending IS 'you are', no separate verb"
+  },
+  {
+    "id": 6,
+    "term": "I'm fine, thanks. And you?",
+    "definition": "İyiyim, teşekkürler. Ya sen?",
+    "example": "'ya sen' = and you (informal)"
+  },
+  {
+    "id": 7,
+    "term": "Long time no see!",
+    "definition": "Görüşmeyeli çok oldu!",
+    "example": "literally 'it has become much since we last met'"
+  },
+  {
+    "id": 8,
+    "term": "Welcome!",
+    "definition": "Hoş geldiniz!",
+    "example": "literally 'you came pleasantly' — the set reply is 'hoş bulduk'"
+  },
+  {
+    "id": 9,
+    "term": "Nice to see you again.",
+    "definition": "Seni tekrar görmek güzel.",
+    "example": "'tekrar' = again"
+  },
+  {
+    "id": 10,
+    "term": "What's up? (very informal)",
+    "definition": "Ne haber?",
+    "example": "literally 'what news', casual among friends"
+  },
+  {
+    "id": 11,
+    "term": "Goodbye!",
+    "definition": "Hoşça kal!",
+    "example": "said BY the one leaving TO the one staying — the pair to 'güle güle'"
+  },
+  {
+    "id": 12,
+    "term": "See you later!",
+    "definition": "Sonra görüşürüz!",
+    "example": "'görüşürüz' = we will see one another, the reciprocal -ş- on 'görmek'"
+  },
+  {
+    "id": 13,
+    "term": "See you tomorrow!",
+    "definition": "Yarın görüşürüz!",
+    "example": "'yarın' = tomorrow"
+  },
+  {
+    "id": 14,
+    "term": "Take care!",
+    "definition": "Kendine iyi bak!",
+    "example": "literally 'look after yourself well', dative 'kendine'"
+  },
+  {
+    "id": 15,
+    "term": "Have a good day!",
+    "definition": "İyi günler!",
+    "example": "the -ler wish form again — a bare noun phrase, no verb"
+  },
+  {
+    "id": 16,
+    "term": "Bye! (informal)",
+    "definition": "Güle güle!",
+    "example": "said by the one STAYING to the one leaving — literally 'laughing, laughing'"
+  },
+  {
+    "id": 17,
+    "term": "Until next time!",
+    "definition": "Görüşmek üzere!",
+    "example": "'üzere' = on the point of, a postposition after the infinitive"
+  },
+  {
+    "id": 18,
+    "term": "Have a safe trip!",
+    "definition": "İyi yolculuklar!",
+    "example": "another -lar wish; 'yolculuk' = journey, from 'yol' (road)"
+  },
+  {
+    "id": 19,
+    "term": "Good night, sleep well.",
+    "definition": "İyi geceler, rahat uyu.",
+    "example": "'rahat' works adverbially here — comfortably"
+  },
+  {
+    "id": 20,
+    "term": "Take care of yourself.",
+    "definition": "Kendine dikkat et.",
+    "example": "'dikkat etmek' = to pay attention; a compound verb built with 'etmek'"
+  },
+  {
+    "id": 21,
+    "term": "Please.",
+    "definition": "Lütfen.",
+    "example": "sits anywhere in the sentence, most often at the front or the end"
+  },
+  {
+    "id": 22,
+    "term": "Thank you.",
+    "definition": "Teşekkür ederim.",
+    "example": "literally 'I make thanks' — 'etmek' again, here fully conjugated"
+  },
+  {
+    "id": 23,
+    "term": "Thank you very much.",
+    "definition": "Çok teşekkür ederim.",
+    "example": "'çok' = very/much, placed before what it intensifies"
+  },
+  {
+    "id": 24,
+    "term": "You're welcome.",
+    "definition": "Rica ederim.",
+    "example": "literally 'I request' — the standard reply to thanks"
+  },
+  {
+    "id": 25,
+    "term": "No problem.",
+    "definition": "Sorun değil.",
+    "example": "'değil' negates a noun or adjective; verbs use a suffix instead"
+  },
+  {
+    "id": 26,
+    "term": "Excuse me.",
+    "definition": "Affedersiniz.",
+    "example": "polite 'siz' form, for getting attention or apologising lightly"
+  },
+  {
+    "id": 27,
+    "term": "I'm really sorry.",
+    "definition": "Gerçekten çok üzgünüm.",
+    "example": "'üzgün' = saddened; -üm is 'I am', harmonising to the ü"
+  },
+  {
+    "id": 28,
+    "term": "Pardon? (didn't hear)",
+    "definition": "Efendim?",
+    "example": "literally 'my master' — the all-purpose polite 'sorry, what?'"
+  },
+  {
+    "id": 29,
+    "term": "No worries.",
+    "definition": "Merak etme.",
+    "example": "literally 'do not worry' — negative imperative -me on 'etmek'"
+  },
+  {
+    "id": 30,
+    "term": "It's my pleasure.",
+    "definition": "Benim için zevk.",
+    "example": "'için' = for, a postposition that FOLLOWS its noun"
+  },
+  {
+    "id": 31,
+    "term": "My name is Anna.",
+    "definition": "Benim adım Anna.",
+    "example": "'adım' = my name — the possessive suffix -ım does the work of 'my'"
+  },
+  {
+    "id": 32,
+    "term": "Nice to meet you.",
+    "definition": "Tanıştığımıza memnun oldum.",
+    "example": "literally 'I became pleased at our having met'"
+  },
+  {
+    "id": 33,
+    "term": "This is my friend Marco.",
+    "definition": "Bu arkadaşım Marco.",
+    "example": "possessive -ım again; no verb 'is' is needed in the present"
+  },
+  {
+    "id": 34,
+    "term": "Where are you from?",
+    "definition": "Nerelisin?",
+    "example": "one word: 'nere' (where) + -li (from) + -sin (you are)"
+  },
+  {
+    "id": 35,
+    "term": "I'm from England.",
+    "definition": "İngiltereliyim.",
+    "example": "the same -li, then -yim: derivational suffixes join proper nouns with no apostrophe"
+  },
+  {
+    "id": 36,
+    "term": "What do you do for a living?",
+    "definition": "Ne iş yapıyorsun?",
+    "example": "literally 'what work do you do'"
+  },
+  {
+    "id": 37,
+    "term": "I'm a student.",
+    "definition": "Öğrenciyim.",
+    "example": "no article and no verb — 'I am' is just the -yim ending"
+  },
+  {
+    "id": 38,
+    "term": "Likewise!",
+    "definition": "Ben de!",
+    "example": "'de' = too/also, written separately and never joined to the word"
+  },
+  {
+    "id": 39,
+    "term": "It was nice meeting you.",
+    "definition": "Sizinle tanışmak güzeldi.",
+    "example": "'sizinle' = with you, the instrumental -le fused onto the pronoun"
+  },
+  {
+    "id": 40,
+    "term": "Let's keep in touch.",
+    "definition": "İletişimde kalalım.",
+    "example": "optative -alım = let's; 'iletişimde' is locative — in contact"
+  },
+  {
+    "id": 41,
+    "term": "Happy birthday!",
+    "definition": "Doğum günün kutlu olsun!",
+    "example": "literally 'may your birthday be blessed' — the 'kutlu olsun' wish frame"
+  },
+  {
+    "id": 42,
+    "term": "Congratulations!",
+    "definition": "Tebrikler!",
+    "example": "the -ler plural doing wish duty once more"
+  },
+  {
+    "id": 43,
+    "term": "Good luck!",
+    "definition": "Bol şans!",
+    "example": "literally 'abundant luck'"
+  },
+  {
+    "id": 44,
+    "term": "Best wishes!",
+    "definition": "En iyi dileklerimle!",
+    "example": "'en' forms the superlative; -imle = with my"
+  },
+  {
+    "id": 45,
+    "term": "Get well soon!",
+    "definition": "Geçmiş olsun!",
+    "example": "literally 'may it have passed' — said to anyone unwell, or after any ordeal"
+  },
+  {
+    "id": 46,
+    "term": "Happy New Year!",
+    "definition": "Yeni yılın kutlu olsun!",
+    "example": "the same 'kutlu olsun' frame as the birthday wish"
+  },
+  {
+    "id": 47,
+    "term": "Merry Christmas!",
+    "definition": "Mutlu Noeller!",
+    "example": "-ler again; Noel is borrowed from French Noël"
+  },
+  {
+    "id": 48,
+    "term": "Cheers! (a toast)",
+    "definition": "Şerefe!",
+    "example": "literally 'to honour' — the dative -e on 'şeref'"
+  },
+  {
+    "id": 49,
+    "term": "Have fun!",
+    "definition": "İyi eğlenceler!",
+    "example": "the -ler wish form, exactly like 'iyi günler'"
+  },
+  {
+    "id": 50,
+    "term": "Enjoy your meal!",
+    "definition": "Afiyet olsun!",
+    "example": "literally 'may there be health' — said before OR after eating"
+  },
+  {
+    "id": 51,
+    "term": "Can you help me, please?",
+    "definition": "Bana yardım eder misiniz, lütfen?",
+    "example": "the question particle 'mi' is written as a separate word but still harmonises"
+  },
+  {
+    "id": 52,
+    "term": "I need help.",
+    "definition": "Yardıma ihtiyacım var.",
+    "example": "literally 'my need for help exists' — Turkish says 'var', not 'I have'"
+  },
+  {
+    "id": 53,
+    "term": "Where is the bathroom?",
+    "definition": "Tuvalet nerede?",
+    "example": "'nerede' = where, the locative -de on 'nere'"
+  },
+  {
+    "id": 54,
+    "term": "How much does this cost?",
+    "definition": "Bu ne kadar?",
+    "example": "literally 'this how much' — no verb required"
+  },
+  {
+    "id": 55,
+    "term": "Do you have this in another color?",
+    "definition": "Bunun başka rengi var mı?",
+    "example": "'var mı' = does it exist; note 'renk' softens to 'rengi'"
+  },
+  {
+    "id": 56,
+    "term": "Can I have the bill, please?",
+    "definition": "Hesabı alabilir miyim, lütfen?",
+    "example": "-abil- inserted into the verb marks ability or permission"
+  },
+  {
+    "id": 57,
+    "term": "One moment, please.",
+    "definition": "Bir dakika, lütfen.",
+    "example": "literally 'one minute'"
+  },
+  {
+    "id": 58,
+    "term": "Could you repeat that?",
+    "definition": "Tekrar eder misiniz?",
+    "example": "the 'etmek' compound again, in the polite 'siz' question"
+  },
+  {
+    "id": 59,
+    "term": "I don't understand.",
+    "definition": "Anlamıyorum.",
+    "example": "the negative -ma- sits INSIDE the verb, before the tense ending"
+  },
+  {
+    "id": 60,
+    "term": "Could you speak more slowly?",
+    "definition": "Daha yavaş konuşur musunuz?",
+    "example": "'daha' = more, forming the comparative"
+  },
+  {
+    "id": 61,
+    "term": "I agree.",
+    "definition": "Katılıyorum.",
+    "example": "'katılmak' = to join — Turkish joins an opinion rather than agreeing with it"
+  },
+  {
+    "id": 62,
+    "term": "I don't agree.",
+    "definition": "Katılmıyorum.",
+    "example": "the same verb with -mı- inserted; vowel harmony picks ı, not a"
+  },
+  {
+    "id": 63,
+    "term": "That's true.",
+    "definition": "Bu doğru.",
+    "example": "a bare adjective is a complete sentence — no copula in the present"
+  },
+  {
+    "id": 64,
+    "term": "That's not true.",
+    "definition": "Bu doğru değil.",
+    "example": "'değil' is how you negate that adjective; a verb could not use it"
+  },
+  {
+    "id": 65,
+    "term": "I think so.",
+    "definition": "Bence öyle.",
+    "example": "'bence' = in my opinion, the equative -ce on 'ben'"
+  },
+  {
+    "id": 66,
+    "term": "I don't think so.",
+    "definition": "Sanmıyorum.",
+    "example": "'sanmak' = to suppose, negated — Turkish prefers this to negating 'think so'"
+  },
+  {
+    "id": 67,
+    "term": "Sounds good.",
+    "definition": "Kulağa hoş geliyor.",
+    "example": "literally 'it comes pleasant to the ear', dative 'kulağa'"
+  },
+  {
+    "id": 68,
+    "term": "No way!",
+    "definition": "Olamaz!",
+    "example": "'olmak' plus the NEGATIVE of -abil-: literally 'it cannot be'"
+  },
+  {
+    "id": 69,
+    "term": "Of course!",
+    "definition": "Tabii ki!",
+    "example": "'ki' is a borrowed connector, here simply reinforcing"
+  },
+  {
+    "id": 70,
+    "term": "Maybe.",
+    "definition": "Belki.",
+    "example": "usually opens the sentence"
+  },
+  {
+    "id": 71,
+    "term": "Really?",
+    "definition": "Gerçekten mi?",
+    "example": "the 'mi' particle stands alone as a word but harmonises to the vowel before it"
+  },
+  {
+    "id": 72,
+    "term": "Wow!",
+    "definition": "Vay canına!",
+    "example": "literally 'oh, to its soul' — a fixed exclamation"
+  },
+  {
+    "id": 73,
+    "term": "That's great!",
+    "definition": "Harika!",
+    "example": "one adjective: no verb, no subject"
+  },
+  {
+    "id": 74,
+    "term": "I'm sorry to hear that.",
+    "definition": "Bunu duyduğuma üzüldüm.",
+    "example": "literally 'I became sad at my having heard this'"
+  },
+  {
+    "id": 75,
+    "term": "What a shame.",
+    "definition": "Ne yazık.",
+    "example": "'ne' = what, used for exclamations as well as questions"
+  },
+  {
+    "id": 76,
+    "term": "Oh no!",
+    "definition": "Eyvah!",
+    "example": "a pure interjection, borrowed from Persian"
+  },
+  {
+    "id": 77,
+    "term": "Exactly!",
+    "definition": "Aynen!",
+    "example": "from 'ayn' (same) — very common in speech, informal in writing"
+  },
+  {
+    "id": 78,
+    "term": "I see.",
+    "definition": "Anladım.",
+    "example": "literally 'I understood' — Turkish uses the past where English uses the present"
+  },
+  {
+    "id": 79,
+    "term": "That makes sense.",
+    "definition": "Mantıklı.",
+    "example": "literally 'logical' — again a bare adjective standing as a whole sentence"
+  },
+  {
+    "id": 80,
+    "term": "That's interesting.",
+    "definition": "İlginç.",
+    "example": "from 'ilgi' (interest) plus -nç"
+  },
+  {
+    "id": 81,
+    "term": "Hello? (on the phone)",
+    "definition": "Alo?",
+    "example": "used ONLY on the phone, never face to face"
+  },
+  {
+    "id": 82,
+    "term": "Who's calling?",
+    "definition": "Kimsiniz?",
+    "example": "literally 'who are you' — 'kim' plus the polite -siniz ending"
+  },
+  {
+    "id": 83,
+    "term": "Can I call you back?",
+    "definition": "Sizi sonra arayabilir miyim?",
+    "example": "'aramak' = to search, and also to phone"
+  },
+  {
+    "id": 84,
+    "term": "It was nice talking to you.",
+    "definition": "Sizinle konuşmak güzeldi.",
+    "example": "the infinitive 'konuşmak' as subject; -di makes 'güzel' past"
+  },
+  {
+    "id": 85,
+    "term": "See you at the party!",
+    "definition": "Partide görüşürüz!",
+    "example": "locative -de = at; the vowel harmonises to the e of 'parti'"
+  },
+  {
+    "id": 86,
+    "term": "I'll text you.",
+    "definition": "Sana mesaj atarım.",
+    "example": "literally 'I throw you a message' — 'atmak' is the verb Turkish uses"
+  },
+  {
+    "id": 87,
+    "term": "Take it easy!",
+    "definition": "Sakin ol!",
+    "example": "literally 'be calm' — the imperative of 'olmak' is the bare stem"
+  },
+  {
+    "id": 88,
+    "term": "All the best!",
+    "definition": "Her şey gönlünce olsun!",
+    "example": "'gönlünce' = according to one's heart, the equative -ce again"
+  },
+  {
+    "id": 89,
+    "term": "I'll be right there.",
+    "definition": "Hemen geliyorum.",
+    "example": "the present continuous covers the immediate future"
+  },
+  {
+    "id": 90,
+    "term": "I'm on my way.",
+    "definition": "Yoldayım.",
+    "example": "one word: 'yol' (road) + locative -da + -yım (I am)"
+  },
+  {
+    "id": 91,
+    "term": "Watch out!",
+    "definition": "Dikkat et!",
+    "example": "the plain imperative of the 'dikkat etmek' compound"
+  },
+  {
+    "id": 92,
+    "term": "No rush.",
+    "definition": "Acele yok.",
+    "example": "'yok' is the negative of 'var' — literally 'haste does not exist'"
+  },
+  {
+    "id": 93,
+    "term": "After you.",
+    "definition": "Önce siz.",
+    "example": "literally 'first you', with the polite pronoun"
+  },
+  {
+    "id": 94,
+    "term": "Make yourself at home.",
+    "definition": "Kendi evin gibi rahat ol.",
+    "example": "'gibi' = like, a postposition following its noun"
+  },
+  {
+    "id": 95,
+    "term": "It's on me. (paying)",
+    "definition": "Hesap benden.",
+    "example": "ablative -den = from; literally 'the bill is from me'"
+  },
+  {
+    "id": 96,
+    "term": "Let's go!",
+    "definition": "Hadi gidelim!",
+    "example": "'hadi' urges; -elim is the optative — let us"
+  },
+  {
+    "id": 97,
+    "term": "Welcome home!",
+    "definition": "Eve hoş geldin!",
+    "example": "dative 'eve' = to the house, with the informal -din"
+  },
+  {
+    "id": 98,
+    "term": "Get home safe!",
+    "definition": "Sağ salim eve git!",
+    "example": "'sağ salim' = safe and sound, a fixed rhyming pair"
+  },
+  {
+    "id": 99,
+    "term": "I'm looking forward to it.",
+    "definition": "Sabırsızlıkla bekliyorum.",
+    "example": "literally 'I wait with impatience' — the instrumental -la on a long derived noun"
+  },
+  {
+    "id": 100,
+    "term": "Thanks for everything.",
+    "definition": "Her şey için teşekkürler.",
+    "example": "'için' = for, again FOLLOWING the noun it governs"
   }
 ];
 window.QM_SENTENCES_IT_DATA = [
@@ -109360,6 +114345,2414 @@ window.QM_SENTENCES_CS_INTERMEDIATE_DATA = [
     "term": "In the end, everything turned out fine.",
     "definition": "Nakonec všechno dobře dopadlo.",
     "example": "'nakonec' = in the end"
+  }
+];
+window.QM_SENTENCES_TR_DATA = [
+  {
+    "id": 1,
+    "term": "I am a teacher.",
+    "definition": "Öğretmenim.",
+    "example": "no article, and no separate verb — 'I am' is just the -im ending"
+  },
+  {
+    "id": 2,
+    "term": "I am a woman.",
+    "definition": "Kadınım.",
+    "example": "the same ending, harmonised to -ım after the back vowel a"
+  },
+  {
+    "id": 3,
+    "term": "You are a good friend.",
+    "definition": "İyi bir arkadaşsın.",
+    "example": "'bir' = a; the adjective comes first; -sın = you are"
+  },
+  {
+    "id": 4,
+    "term": "He is a doctor.",
+    "definition": "O doktor.",
+    "example": "the 3rd person takes NO ending at all — and 'o' covers he, she and it alike"
+  },
+  {
+    "id": 5,
+    "term": "She is a nurse.",
+    "definition": "O hemşire.",
+    "example": "the same 'o' as the last one — Turkish pronouns never show gender"
+  },
+  {
+    "id": 6,
+    "term": "We are friends.",
+    "definition": "Arkadaşız.",
+    "example": "-ız = we are"
+  },
+  {
+    "id": 7,
+    "term": "You (plural) are students.",
+    "definition": "Öğrencisiniz.",
+    "example": "-siniz = you are, used for a group and for one person politely"
+  },
+  {
+    "id": 8,
+    "term": "They are teachers.",
+    "definition": "Onlar öğretmen.",
+    "example": "the noun stays SINGULAR after a plural subject"
+  },
+  {
+    "id": 9,
+    "term": "The teachers are here.",
+    "definition": "Öğretmenler burada.",
+    "example": "plural -ler on the noun; 'burada' = here, a locative"
+  },
+  {
+    "id": 10,
+    "term": "I am not a teacher.",
+    "definition": "Öğretmen değilim.",
+    "example": "'değil' negates the noun and carries the personal ending itself"
+  },
+  {
+    "id": 11,
+    "term": "This is a book.",
+    "definition": "Bu bir kitap.",
+    "example": "'bu' = this; still no verb"
+  },
+  {
+    "id": 12,
+    "term": "This is my house.",
+    "definition": "Bu benim evim.",
+    "example": "the possessive -im does the work of 'my'; 'benim' merely reinforces it"
+  },
+  {
+    "id": 13,
+    "term": "This is my car.",
+    "definition": "Bu benim arabam.",
+    "example": "after a vowel the possessive is just -m"
+  },
+  {
+    "id": 14,
+    "term": "This is my sister.",
+    "definition": "Bu benim kız kardeşim.",
+    "example": "'kız kardeş' = girl-sibling; Turkish specifies the sex of the sibling, not of the owner"
+  },
+  {
+    "id": 15,
+    "term": "This is your dog.",
+    "definition": "Bu senin köpeğin.",
+    "example": "2nd person possessive -in, and the k of 'köpek' softens to ğ"
+  },
+  {
+    "id": 16,
+    "term": "This is his cat.",
+    "definition": "Bu onun kedisi.",
+    "example": "3rd person possessive -si"
+  },
+  {
+    "id": 17,
+    "term": "This is her book.",
+    "definition": "Bu onun kitabı.",
+    "example": "the same 'onun' — gender is never marked; the p of 'kitap' softens to b"
+  },
+  {
+    "id": 18,
+    "term": "This is our house.",
+    "definition": "Bu bizim evimiz.",
+    "example": "-imiz = our"
+  },
+  {
+    "id": 19,
+    "term": "This is your (plural) apartment.",
+    "definition": "Bu sizin daireniz.",
+    "example": "-iniz = your, for a group"
+  },
+  {
+    "id": 20,
+    "term": "This is their car.",
+    "definition": "Bu onların arabası.",
+    "example": "'onların' with the 3rd person -sı"
+  },
+  {
+    "id": 21,
+    "term": "The big house is beautiful.",
+    "definition": "Büyük ev güzel.",
+    "example": "adjectives never change to agree with the noun"
+  },
+  {
+    "id": 22,
+    "term": "I have a dog.",
+    "definition": "Bir köpeğim var.",
+    "example": "literally 'my dog exists' — Turkish has NO verb 'to have'"
+  },
+  {
+    "id": 23,
+    "term": "I have a car.",
+    "definition": "Bir arabam var.",
+    "example": "the same possessive + 'var' pattern"
+  },
+  {
+    "id": 24,
+    "term": "I have a sister.",
+    "definition": "Bir kız kardeşim var.",
+    "example": "'var' again — the thing owned is the grammatical subject"
+  },
+  {
+    "id": 25,
+    "term": "I have a book.",
+    "definition": "Bir kitabım var.",
+    "example": "'kitap' softens to 'kitabım' before the possessive"
+  },
+  {
+    "id": 26,
+    "term": "Do you have time?",
+    "definition": "Vaktin var mı?",
+    "example": "'var mı' turns it into a question; 'vakit' drops its second vowel"
+  },
+  {
+    "id": 27,
+    "term": "He has a new phone.",
+    "definition": "Onun yeni bir telefonu var.",
+    "example": "3rd person possessive -u, harmonised to the o of 'telefon'"
+  },
+  {
+    "id": 28,
+    "term": "We have two children.",
+    "definition": "İki çocuğumuz var.",
+    "example": "after a number the noun stays SINGULAR — never 'iki çocuklar'"
+  },
+  {
+    "id": 29,
+    "term": "They have a big house.",
+    "definition": "Onların büyük bir evi var.",
+    "example": "the adjective sits between 'bir' and the noun it describes"
+  },
+  {
+    "id": 30,
+    "term": "I don't have a car.",
+    "definition": "Arabam yok.",
+    "example": "'yok' is the flat negative of 'var' — literally 'my car does not exist'"
+  },
+  {
+    "id": 31,
+    "term": "I don't have time.",
+    "definition": "Vaktim yok.",
+    "example": "'yok' again, with the possessive on 'vakit'"
+  },
+  {
+    "id": 32,
+    "term": "I don't have a sister.",
+    "definition": "Kız kardeşim yok.",
+    "example": "same shape once more — this is the only way to say it"
+  },
+  {
+    "id": 33,
+    "term": "She doesn't have a book.",
+    "definition": "Onun kitabı yok.",
+    "example": "3rd person possessive plus 'yok'"
+  },
+  {
+    "id": 34,
+    "term": "We don't have money.",
+    "definition": "Paramız yok.",
+    "example": "-mız = our, then 'yok'"
+  },
+  {
+    "id": 35,
+    "term": "There is no water.",
+    "definition": "Su yok.",
+    "example": "'yok' with no possessor at all — plain non-existence"
+  },
+  {
+    "id": 36,
+    "term": "There is no problem.",
+    "definition": "Sorun yok.",
+    "example": "the same bare 'yok'"
+  },
+  {
+    "id": 37,
+    "term": "I don't know.",
+    "definition": "Bilmiyorum.",
+    "example": "the negative -mi- sits INSIDE the verb, before the tense ending"
+  },
+  {
+    "id": 38,
+    "term": "I don't understand.",
+    "definition": "Anlamıyorum.",
+    "example": "the same shape; vowel harmony makes it -mı- here"
+  },
+  {
+    "id": 39,
+    "term": "I don't like coffee.",
+    "definition": "Kahveyi sevmiyorum.",
+    "example": "a whole class of thing takes the accusative -yi in Turkish"
+  },
+  {
+    "id": 40,
+    "term": "I live in Istanbul.",
+    "definition": "İstanbul'da yaşıyorum.",
+    "example": "locative -da = in; a proper noun takes an APOSTROPHE before a case ending"
+  },
+  {
+    "id": 41,
+    "term": "The book is on the table.",
+    "definition": "Kitap masanın üstünde.",
+    "example": "'üstünde' = at its top — Turkish uses a possessed noun where English uses 'on'"
+  },
+  {
+    "id": 42,
+    "term": "I am going to the store.",
+    "definition": "Mağazaya gidiyorum.",
+    "example": "dative -ya = to"
+  },
+  {
+    "id": 43,
+    "term": "She is coming back from school.",
+    "definition": "Okuldan dönüyor.",
+    "example": "ablative -dan = from"
+  },
+  {
+    "id": 44,
+    "term": "I am talking with my friend.",
+    "definition": "Arkadaşımla konuşuyorum.",
+    "example": "instrumental -la = with, fused straight onto the noun"
+  },
+  {
+    "id": 45,
+    "term": "This gift is for you.",
+    "definition": "Bu hediye senin için.",
+    "example": "'için' = for, a postposition that FOLLOWS the pronoun"
+  },
+  {
+    "id": 46,
+    "term": "We are walking through the park.",
+    "definition": "Parkın içinden yürüyoruz.",
+    "example": "'içinden' = from its inside — literally through it"
+  },
+  {
+    "id": 47,
+    "term": "The cat is under the table.",
+    "definition": "Kedi masanın altında.",
+    "example": "'altında' = at its underside, mirroring 'üstünde'"
+  },
+  {
+    "id": 48,
+    "term": "The lamp is above the table.",
+    "definition": "Lamba masanın üzerinde.",
+    "example": "'üzerinde' is the higher, not-touching counterpart of 'üstünde'"
+  },
+  {
+    "id": 49,
+    "term": "I am waiting for the bus.",
+    "definition": "Otobüsü bekliyorum.",
+    "example": "'beklemek' takes a direct object — there is no word for 'for' here"
+  },
+  {
+    "id": 50,
+    "term": "He works at the university.",
+    "definition": "Üniversitede çalışıyor.",
+    "example": "locative -de = at"
+  },
+  {
+    "id": 51,
+    "term": "I am thinking about you.",
+    "definition": "Seni düşünüyorum.",
+    "example": "'düşünmek' also takes a plain object — no 'about'"
+  },
+  {
+    "id": 52,
+    "term": "Between the house and the garden.",
+    "definition": "Evle bahçenin arasında.",
+    "example": "'arasında' = in their between; the two nouns are joined by -le"
+  },
+  {
+    "id": 53,
+    "term": "I am going home.",
+    "definition": "Eve gidiyorum.",
+    "example": "dative on 'ev' gives 'eve' — to the house"
+  },
+  {
+    "id": 54,
+    "term": "The keys are in my bag.",
+    "definition": "Anahtarlar çantamda.",
+    "example": "possessive then locative, stacked in that order"
+  },
+  {
+    "id": 55,
+    "term": "She is standing next to the window.",
+    "definition": "Pencerenin yanında duruyor.",
+    "example": "'yanında' = at its side"
+  },
+  {
+    "id": 56,
+    "term": "After the meeting, we will go home.",
+    "definition": "Toplantıdan sonra eve gideceğiz.",
+    "example": "'sonra' demands the ABLATIVE on the noun before it"
+  },
+  {
+    "id": 57,
+    "term": "I read books every day.",
+    "definition": "Her gün kitap okurum.",
+    "example": "the aorist -ur is the habit tense, not the continuous"
+  },
+  {
+    "id": 58,
+    "term": "You read a lot.",
+    "definition": "Çok okursun.",
+    "example": "the aorist with the 2nd person -sun"
+  },
+  {
+    "id": 59,
+    "term": "He writes letters.",
+    "definition": "Mektup yazar.",
+    "example": "aorist -ar; the 3rd person adds nothing, and the object stays bare"
+  },
+  {
+    "id": 60,
+    "term": "We speak Turkish.",
+    "definition": "Türkçe konuşuruz.",
+    "example": "'Türkçe' is both the name of the language and 'in Turkish'"
+  },
+  {
+    "id": 61,
+    "term": "You (plural) watch TV.",
+    "definition": "Televizyon izlersiniz.",
+    "example": "aorist plus -siniz"
+  },
+  {
+    "id": 62,
+    "term": "They play football.",
+    "definition": "Futbol oynarlar.",
+    "example": "aorist plus the plural -lar"
+  },
+  {
+    "id": 63,
+    "term": "I wake up at seven.",
+    "definition": "Saat yedide kalkarım.",
+    "example": "the hour takes the locative — 'at seven' is 'in seven'"
+  },
+  {
+    "id": 64,
+    "term": "She gets dressed quickly.",
+    "definition": "Hızlıca giyinir.",
+    "example": "the reflexive -in- on 'giymek' turns wearing into dressing oneself"
+  },
+  {
+    "id": 65,
+    "term": "We are learning Turkish.",
+    "definition": "Türkçe öğreniyoruz.",
+    "example": "the continuous, because it is happening now — unlike the habitual aorists above"
+  },
+  {
+    "id": 66,
+    "term": "I am not afraid.",
+    "definition": "Korkmuyorum.",
+    "example": "negative -mu- inside the continuous"
+  },
+  {
+    "id": 67,
+    "term": "I was tired.",
+    "definition": "Yorgundum.",
+    "example": "the past copula -dum attaches straight to the adjective, with no verb"
+  },
+  {
+    "id": 68,
+    "term": "You were at home.",
+    "definition": "Evdeydin.",
+    "example": "locative first, then the past copula -ydin"
+  },
+  {
+    "id": 69,
+    "term": "He was happy.",
+    "definition": "Mutluydu.",
+    "example": "-ydu, the form the past copula takes after a vowel"
+  },
+  {
+    "id": 70,
+    "term": "We were in Turkey last year.",
+    "definition": "Geçen yıl Türkiye'deydik.",
+    "example": "apostrophe, locative and past copula stacked on the proper noun"
+  },
+  {
+    "id": 71,
+    "term": "I read that book. (and finished it)",
+    "definition": "O kitabı okudum.",
+    "example": "definite past -du; a specific object takes the accusative -ı"
+  },
+  {
+    "id": 72,
+    "term": "She wrote a letter.",
+    "definition": "Bir mektup yazdı.",
+    "example": "an INDEFINITE object takes no accusative ending at all"
+  },
+  {
+    "id": 73,
+    "term": "We ate dinner.",
+    "definition": "Akşam yemeği yedik.",
+    "example": "'akşam yemeği' = evening's meal, a compound held together by -i"
+  },
+  {
+    "id": 74,
+    "term": "They didn't come.",
+    "definition": "Gelmediler.",
+    "example": "negative -me- comes before the past -di"
+  },
+  {
+    "id": 75,
+    "term": "I will be happy.",
+    "definition": "Mutlu olacağım.",
+    "example": "future -acak; its k softens to ğ before the vowel of the ending"
+  },
+  {
+    "id": 76,
+    "term": "I will read this book. (and finish it)",
+    "definition": "Bu kitabı okuyacağım.",
+    "example": "the future with a definite, accusative-marked object"
+  },
+  {
+    "id": 77,
+    "term": "We will go to the cinema.",
+    "definition": "Sinemaya gideceğiz.",
+    "example": "the same future, harmonised to -ecek after a front vowel"
+  },
+  {
+    "id": 78,
+    "term": "She will call you tomorrow.",
+    "definition": "Yarın seni arayacak.",
+    "example": "'aramak' = to phone; the time word comes first"
+  },
+  {
+    "id": 79,
+    "term": "They will not come.",
+    "definition": "Gelmeyecekler.",
+    "example": "negative -me- ahead of the future, then the plural"
+  },
+  {
+    "id": 80,
+    "term": "I will help you.",
+    "definition": "Sana yardım edeceğim.",
+    "example": "'yardım etmek' takes the DATIVE — you help TO someone"
+  },
+  {
+    "id": 81,
+    "term": "Where do you live?",
+    "definition": "Nerede yaşıyorsun?",
+    "example": "question words stay where the answer would go — nothing is inverted"
+  },
+  {
+    "id": 82,
+    "term": "Where is the book?",
+    "definition": "Kitap nerede?",
+    "example": "no verb at all, just noun and question word"
+  },
+  {
+    "id": 83,
+    "term": "What color is the car?",
+    "definition": "Araba ne renk?",
+    "example": "'ne' = what, sitting straight before the noun"
+  },
+  {
+    "id": 84,
+    "term": "Why are you sad?",
+    "definition": "Neden üzgünsün?",
+    "example": "'neden' = why, literally 'from what'"
+  },
+  {
+    "id": 85,
+    "term": "When does the train leave?",
+    "definition": "Tren ne zaman kalkıyor?",
+    "example": "'ne zaman' = what time"
+  },
+  {
+    "id": 86,
+    "term": "Who is this?",
+    "definition": "Bu kim?",
+    "example": "'kim' = who; again no copula"
+  },
+  {
+    "id": 87,
+    "term": "What are you doing?",
+    "definition": "Ne yapıyorsun?",
+    "example": "the object slot is where 'ne' belongs"
+  },
+  {
+    "id": 88,
+    "term": "Do you speak English?",
+    "definition": "İngilizce biliyor musun?",
+    "example": "literally 'do you know English'; the 'mu' particle splits off as its own word"
+  },
+  {
+    "id": 89,
+    "term": "I have one brother.",
+    "definition": "Bir erkek kardeşim var.",
+    "example": "'erkek kardeş' = male-sibling, the mirror of 'kız kardeş'"
+  },
+  {
+    "id": 90,
+    "term": "I have two brothers.",
+    "definition": "İki erkek kardeşim var.",
+    "example": "still singular — the number already carries the plurality"
+  },
+  {
+    "id": 91,
+    "term": "I have five brothers.",
+    "definition": "Beş erkek kardeşim var.",
+    "example": "unchanged after 'beş' too; the noun is never pluralised here"
+  },
+  {
+    "id": 92,
+    "term": "I see two cats.",
+    "definition": "İki kedi görüyorum.",
+    "example": "the same rule with an object: no -ler after a number"
+  },
+  {
+    "id": 93,
+    "term": "I see five cats.",
+    "definition": "Beş kedi görüyorum.",
+    "example": "'beş' behaves exactly like 'iki'"
+  },
+  {
+    "id": 94,
+    "term": "This book is bigger than that one.",
+    "definition": "Bu kitap şundan daha büyük.",
+    "example": "comparison puts the ABLATIVE on the thing compared against, plus 'daha'"
+  },
+  {
+    "id": 95,
+    "term": "She is the tallest in the class.",
+    "definition": "Sınıfın en uzunu.",
+    "example": "'en' makes any adjective superlative"
+  },
+  {
+    "id": 96,
+    "term": "I like tea more than coffee.",
+    "definition": "Çayı kahveden daha çok severim.",
+    "example": "the ablative again for what is beaten"
+  },
+  {
+    "id": 97,
+    "term": "It's the best day of my life.",
+    "definition": "Hayatımın en güzel günü.",
+    "example": "a possessive chain: -ın on the owner, -ü on the thing owned"
+  },
+  {
+    "id": 98,
+    "term": "I like cats.",
+    "definition": "Kedileri severim.",
+    "example": "cats as a class take the accusative plural"
+  },
+  {
+    "id": 99,
+    "term": "She is my best friend.",
+    "definition": "O benim en iyi arkadaşım.",
+    "example": "'en iyi' = best, sitting inside the possessive phrase"
+  },
+  {
+    "id": 100,
+    "term": "I have a headache.",
+    "definition": "Başım ağrıyor.",
+    "example": "literally 'my head aches' — the body part takes the possessive and does the verb"
+  }
+];
+window.QM_SENTENCES_TR_UPPERBEGINNER_DATA = [
+  {
+    "id": 1,
+    "term": "My father is a farmer.",
+    "definition": "Babam çiftçi.",
+    "example": "possessive -m, and nothing at all for 'is'"
+  },
+  {
+    "id": 2,
+    "term": "My mother is a teacher.",
+    "definition": "Annem öğretmen.",
+    "example": "the same zero-copula shape"
+  },
+  {
+    "id": 3,
+    "term": "I have two brothers and one sister.",
+    "definition": "İki erkek kardeşim ve bir kız kardeşim var.",
+    "example": "one 'var' does the having; 've' joins the two"
+  },
+  {
+    "id": 4,
+    "term": "My grandmother lives with us.",
+    "definition": "Babaannem bizimle yaşıyor.",
+    "example": "'babaanne' is specifically the FATHER's mother; 'bizimle' = with us"
+  },
+  {
+    "id": 5,
+    "term": "Our family is very big.",
+    "definition": "Ailemiz çok büyük.",
+    "example": "-miz = our"
+  },
+  {
+    "id": 6,
+    "term": "My son is five years old.",
+    "definition": "Oğlum beş yaşında.",
+    "example": "literally 'my son is in five ages' — age uses the locative"
+  },
+  {
+    "id": 7,
+    "term": "My daughter likes to draw.",
+    "definition": "Kızım resim yapmayı seviyor.",
+    "example": "the verbal noun -ma, then the accusative -yı, to be the object of 'like'"
+  },
+  {
+    "id": 8,
+    "term": "We have a small dog and a big cat.",
+    "definition": "Küçük bir köpeğimiz ve büyük bir kedimiz var.",
+    "example": "a single 'var' closes both halves"
+  },
+  {
+    "id": 9,
+    "term": "My parents are on vacation.",
+    "definition": "Annem babam tatilde.",
+    "example": "'annem babam' — my mother my father, the ordinary way to say parents"
+  },
+  {
+    "id": 10,
+    "term": "My best friend has three children.",
+    "definition": "En iyi arkadaşımın üç çocuğu var.",
+    "example": "the owner takes the genitive -ın, the thing owned takes -u"
+  },
+  {
+    "id": 11,
+    "term": "I wake up early on Mondays.",
+    "definition": "Pazartesileri erken kalkarım.",
+    "example": "the plural on a weekday means 'every Monday'"
+  },
+  {
+    "id": 12,
+    "term": "On Saturdays, I sleep late.",
+    "definition": "Cumartesileri geç uyurum.",
+    "example": "the same repeated-day plural"
+  },
+  {
+    "id": 13,
+    "term": "Today is Tuesday.",
+    "definition": "Bugün salı.",
+    "example": "no copula, and weekdays are lower case mid-sentence"
+  },
+  {
+    "id": 14,
+    "term": "Tomorrow is my birthday.",
+    "definition": "Yarın doğum günüm.",
+    "example": "'doğum günü' takes the possessive as one unit"
+  },
+  {
+    "id": 15,
+    "term": "Yesterday was a busy day.",
+    "definition": "Dün yoğun bir gündü.",
+    "example": "the past copula -dü lands on the noun itself"
+  },
+  {
+    "id": 16,
+    "term": "In the morning, I drink coffee.",
+    "definition": "Sabahları kahve içerim.",
+    "example": "'sabahları' = mornings — the habitual plural again"
+  },
+  {
+    "id": 17,
+    "term": "In the evening, we watch television.",
+    "definition": "Akşamları televizyon izleriz.",
+    "example": "the same -ları with the aorist for a habit"
+  },
+  {
+    "id": 18,
+    "term": "At night, I read a book.",
+    "definition": "Geceleri kitap okurum.",
+    "example": "and once more — Turkish marks 'every night' on the noun"
+  },
+  {
+    "id": 19,
+    "term": "This afternoon, I have a meeting.",
+    "definition": "Bu öğleden sonra toplantım var.",
+    "example": "'öğleden sonra' = after noon, built on an ablative"
+  },
+  {
+    "id": 20,
+    "term": "Every weekend, we visit my parents.",
+    "definition": "Her hafta sonu annemi ve babamı ziyaret ederiz.",
+    "example": "both objects take the accusative because both are specific people"
+  },
+  {
+    "id": 21,
+    "term": "I would like a glass of water.",
+    "definition": "Bir bardak su istiyorum.",
+    "example": "the measure word takes no ending — 'bir bardak su', not 'suyun'"
+  },
+  {
+    "id": 22,
+    "term": "Can I have the menu, please?",
+    "definition": "Menüyü alabilir miyim, lütfen?",
+    "example": "-abil- asks permission; the menu is specific, so accusative"
+  },
+  {
+    "id": 23,
+    "term": "This soup is delicious.",
+    "definition": "Bu çorba çok lezzetli.",
+    "example": "-li = having; 'lezzetli' is literally 'with taste'"
+  },
+  {
+    "id": 24,
+    "term": "I don't eat meat.",
+    "definition": "Et yemem.",
+    "example": "the NEGATIVE aorist -mem is what you use for a standing habit"
+  },
+  {
+    "id": 25,
+    "term": "She likes sweet food.",
+    "definition": "Tatlı yemekleri sever.",
+    "example": "a whole class of food takes the accusative plural"
+  },
+  {
+    "id": 26,
+    "term": "We are having pizza for dinner.",
+    "definition": "Akşam yemeğinde pizza yiyoruz.",
+    "example": "locative on the compound 'akşam yemeği'"
+  },
+  {
+    "id": 27,
+    "term": "The bread is fresh.",
+    "definition": "Ekmek taze.",
+    "example": "bare noun, bare adjective, nothing between them"
+  },
+  {
+    "id": 28,
+    "term": "I usually drink tea, not coffee.",
+    "definition": "Genelde kahve değil çay içerim.",
+    "example": "'değil' can negate a single word rather than the whole sentence"
+  },
+  {
+    "id": 29,
+    "term": "This restaurant is very popular.",
+    "definition": "Bu restoran çok popüler.",
+    "example": "'çok' intensifies the adjective that follows it"
+  },
+  {
+    "id": 30,
+    "term": "The food here is cheap.",
+    "definition": "Buradaki yemekler ucuz.",
+    "example": "-ki turns a place into an adjective: the food that is here"
+  },
+  {
+    "id": 31,
+    "term": "It is sunny today.",
+    "definition": "Bugün hava güneşli.",
+    "example": "weather needs 'hava' as its subject — there is no empty 'it'"
+  },
+  {
+    "id": 32,
+    "term": "It is raining outside.",
+    "definition": "Dışarıda yağmur yağıyor.",
+    "example": "literally 'rain is raining' — the noun and verb share a root"
+  },
+  {
+    "id": 33,
+    "term": "It is very windy.",
+    "definition": "Hava çok rüzgârlı.",
+    "example": "-lı again, on 'rüzgâr' (wind)"
+  },
+  {
+    "id": 34,
+    "term": "It is snowing in the mountains.",
+    "definition": "Dağlarda kar yağıyor.",
+    "example": "the same verb 'yağmak' serves snow as well as rain"
+  },
+  {
+    "id": 35,
+    "term": "The weather is nice this week.",
+    "definition": "Bu hafta hava güzel.",
+    "example": "the time phrase opens the sentence"
+  },
+  {
+    "id": 36,
+    "term": "It is cloudy this morning.",
+    "definition": "Bu sabah hava bulutlu.",
+    "example": "-lu, harmonised to the u of 'bulut'"
+  },
+  {
+    "id": 37,
+    "term": "It is hot in the summer.",
+    "definition": "Yazın hava sıcak olur.",
+    "example": "'yazın' = in summer, a fossilised adverbial ending"
+  },
+  {
+    "id": 38,
+    "term": "It is cold in the winter.",
+    "definition": "Kışın hava soğuk olur.",
+    "example": "'kışın' is built the same way as 'yazın'"
+  },
+  {
+    "id": 39,
+    "term": "There is a storm coming.",
+    "definition": "Fırtına geliyor.",
+    "example": "the continuous covers an event on its way"
+  },
+  {
+    "id": 40,
+    "term": "The sky is blue today.",
+    "definition": "Bugün gökyüzü mavi.",
+    "example": "'gökyüzü' = sky-face, a compound"
+  },
+  {
+    "id": 41,
+    "term": "I visited my grandparents last week.",
+    "definition": "Geçen hafta büyükannemi ve büyükbabamı ziyaret ettim.",
+    "example": "'ziyaret etmek' with two accusative objects"
+  },
+  {
+    "id": 42,
+    "term": "We watched a good movie yesterday.",
+    "definition": "Dün güzel bir film izledik.",
+    "example": "an indefinite object takes NO accusative"
+  },
+  {
+    "id": 43,
+    "term": "She cooked dinner for us.",
+    "definition": "Bizim için akşam yemeği pişirdi.",
+    "example": "'için' follows the pronoun it governs"
+  },
+  {
+    "id": 44,
+    "term": "They traveled to Spain last summer.",
+    "definition": "Geçen yaz İspanya'ya seyahat ettiler.",
+    "example": "a proper noun takes an apostrophe before the dative"
+  },
+  {
+    "id": 45,
+    "term": "I finished my homework early.",
+    "definition": "Ödevimi erken bitirdim.",
+    "example": "possessive then accusative, fused into -imi"
+  },
+  {
+    "id": 46,
+    "term": "He bought a new car.",
+    "definition": "Yeni bir araba aldı.",
+    "example": "'almak' means both to take and to buy"
+  },
+  {
+    "id": 47,
+    "term": "We walked to the park.",
+    "definition": "Parka yürüdük.",
+    "example": "the destination takes the dative"
+  },
+  {
+    "id": 48,
+    "term": "I called my friend this morning.",
+    "definition": "Bu sabah arkadaşımı aradım.",
+    "example": "a specific friend, so the accusative appears"
+  },
+  {
+    "id": 49,
+    "term": "She sold her old bicycle.",
+    "definition": "Eski bisikletini sattı.",
+    "example": "-ini is the possessive and accusative run together"
+  },
+  {
+    "id": 50,
+    "term": "We celebrated his birthday together.",
+    "definition": "Doğum gününü birlikte kutladık.",
+    "example": "'birlikte' = together, from 'bir' (one)"
+  },
+  {
+    "id": 51,
+    "term": "I am going to visit my aunt.",
+    "definition": "Teyzemi ziyaret edeceğim.",
+    "example": "the plain future -ecek covers English 'going to'"
+  },
+  {
+    "id": 52,
+    "term": "We are going to have a party.",
+    "definition": "Parti vereceğiz.",
+    "example": "literally 'we will give a party'"
+  },
+  {
+    "id": 53,
+    "term": "She is going to start a new job.",
+    "definition": "Yeni bir işe başlayacak.",
+    "example": "'başlamak' takes the DATIVE — you start TO something"
+  },
+  {
+    "id": 54,
+    "term": "They are going to move to a new city.",
+    "definition": "Yeni bir şehre taşınacaklar.",
+    "example": "the reflexive -ın- turns 'carry' into 'move oneself'"
+  },
+  {
+    "id": 55,
+    "term": "I am going to buy a new phone.",
+    "definition": "Yeni bir telefon alacağım.",
+    "example": "the k of -acak softens to ğ before the ending"
+  },
+  {
+    "id": 56,
+    "term": "He is going to learn to swim.",
+    "definition": "Yüzmeyi öğrenecek.",
+    "example": "verbal noun -me plus accusative, as the thing learnt"
+  },
+  {
+    "id": 57,
+    "term": "We are going to travel next month.",
+    "definition": "Gelecek ay seyahat edeceğiz.",
+    "example": "'gelecek' = coming, and so 'next'"
+  },
+  {
+    "id": 58,
+    "term": "I am going to cook dinner tonight.",
+    "definition": "Bu akşam yemek pişireceğim.",
+    "example": "'yemek' is both the noun food and the verb to eat"
+  },
+  {
+    "id": 59,
+    "term": "She is going to call you later.",
+    "definition": "Sonra seni arayacak.",
+    "example": "'seni' = you, accusative"
+  },
+  {
+    "id": 60,
+    "term": "They are going to arrive tomorrow.",
+    "definition": "Yarın varacaklar.",
+    "example": "'varmak' = to arrive, plural -lar on the future"
+  },
+  {
+    "id": 61,
+    "term": "I like coffee and tea.",
+    "definition": "Kahveyi ve çayı severim.",
+    "example": "both take the accusative — liking a class of thing marks it"
+  },
+  {
+    "id": 62,
+    "term": "She is smart and kind.",
+    "definition": "O akıllı ve nazik.",
+    "example": "'ve' joining two adjectives, no copula anywhere"
+  },
+  {
+    "id": 63,
+    "term": "I want to go, but I am tired.",
+    "definition": "Gitmek istiyorum ama yorgunum.",
+    "example": "'ama' = but; 'yorgunum' carries its own 'I am'"
+  },
+  {
+    "id": 64,
+    "term": "He is tall, but his brother is short.",
+    "definition": "O uzun ama kardeşi kısa.",
+    "example": "'kardeşi' = his sibling, the 3rd person possessive"
+  },
+  {
+    "id": 65,
+    "term": "Do you want tea or coffee?",
+    "definition": "Çay mı kahve mi istersin?",
+    "example": "in an either/or question EACH option gets its own 'mı'"
+  },
+  {
+    "id": 66,
+    "term": "You can call me or send a message.",
+    "definition": "Beni arayabilir ya da mesaj gönderebilirsin.",
+    "example": "'ya da' = or; -abil- appears on both verbs"
+  },
+  {
+    "id": 67,
+    "term": "I stayed home because it was raining.",
+    "definition": "Yağmur yağdığı için evde kaldım.",
+    "example": "'-dığı için' is how Turkish says because — a participle plus 'için'"
+  },
+  {
+    "id": 68,
+    "term": "She was late because of the traffic.",
+    "definition": "Trafik yüzünden geç kaldı.",
+    "example": "'yüzünden' = because of, reserved for causes with a bad result"
+  },
+  {
+    "id": 69,
+    "term": "I am happy because I passed the test.",
+    "definition": "Sınavı geçtiğim için mutluyum.",
+    "example": "the same '-dığı için' frame, here in the first person"
+  },
+  {
+    "id": 70,
+    "term": "He is tired because he worked all day.",
+    "definition": "Bütün gün çalıştığı için yorgun.",
+    "example": "'bütün gün' = the whole day, with no case ending"
+  },
+  {
+    "id": 71,
+    "term": "The bank is near the school.",
+    "definition": "Banka okula yakın.",
+    "example": "'yakın' governs the DATIVE — near TO the school"
+  },
+  {
+    "id": 72,
+    "term": "The park is far from here.",
+    "definition": "Park buradan uzak.",
+    "example": "'uzak' governs the ABLATIVE instead — the mirror of 'yakın'"
+  },
+  {
+    "id": 73,
+    "term": "Turn left at the corner.",
+    "definition": "Köşeden sola dön.",
+    "example": "ablative for where you turn, dative for which way"
+  },
+  {
+    "id": 74,
+    "term": "Turn right at the traffic light.",
+    "definition": "Işıklardan sağa dön.",
+    "example": "the same pairing of cases"
+  },
+  {
+    "id": 75,
+    "term": "Go straight ahead.",
+    "definition": "Düz git.",
+    "example": "the imperative is the bare verb stem"
+  },
+  {
+    "id": 76,
+    "term": "The hospital is next to the church.",
+    "definition": "Hastane kilisenin yanında.",
+    "example": "'yanında' = at its side, with the genitive on the church"
+  },
+  {
+    "id": 77,
+    "term": "The store is across from the hotel.",
+    "definition": "Mağaza otelin karşısında.",
+    "example": "'karşısında' = at its opposite"
+  },
+  {
+    "id": 78,
+    "term": "It is behind the building.",
+    "definition": "Binanın arkasında.",
+    "example": "'arkasında' = at its back"
+  },
+  {
+    "id": 79,
+    "term": "It is in front of the station.",
+    "definition": "İstasyonun önünde.",
+    "example": "'önünde' = at its front — all of these are possessed nouns, not prepositions"
+  },
+  {
+    "id": 80,
+    "term": "The bathroom is upstairs.",
+    "definition": "Banyo üst katta.",
+    "example": "'üst kat' = upper floor, then the locative"
+  },
+  {
+    "id": 81,
+    "term": "The car is red.",
+    "definition": "Araba kırmızı.",
+    "example": "colour adjectives behave like any other"
+  },
+  {
+    "id": 82,
+    "term": "The house is white and big.",
+    "definition": "Ev beyaz ve büyük.",
+    "example": "two adjectives joined by 've'"
+  },
+  {
+    "id": 83,
+    "term": "This box is heavy.",
+    "definition": "Bu kutu ağır.",
+    "example": "'bu' for what is close at hand"
+  },
+  {
+    "id": 84,
+    "term": "That bag is light.",
+    "definition": "Şu çanta hafif.",
+    "example": "'şu' is a third demonstrative — that one there, nearer than 'o'"
+  },
+  {
+    "id": 85,
+    "term": "The room is clean.",
+    "definition": "Oda temiz.",
+    "example": "still no copula in the present"
+  },
+  {
+    "id": 86,
+    "term": "The street is dirty.",
+    "definition": "Sokak kirli.",
+    "example": "-li once more, on 'kir' (dirt)"
+  },
+  {
+    "id": 87,
+    "term": "This road is long.",
+    "definition": "Bu yol uzun.",
+    "example": "'uzun' = long, and also tall"
+  },
+  {
+    "id": 88,
+    "term": "That path is short.",
+    "definition": "Şu patika kısa.",
+    "example": "'şu' again for the middle distance"
+  },
+  {
+    "id": 89,
+    "term": "The water is deep here.",
+    "definition": "Burada su derin.",
+    "example": "the place word can open the sentence"
+  },
+  {
+    "id": 90,
+    "term": "This lake is shallow.",
+    "definition": "Bu göl sığ.",
+    "example": "'sığ' — one of the few Turkish words ending in ğ"
+  },
+  {
+    "id": 91,
+    "term": "I see her every day.",
+    "definition": "Onu her gün görürüm.",
+    "example": "'onu' is the accusative of 'o' — still no gender"
+  },
+  {
+    "id": 92,
+    "term": "He calls me every week.",
+    "definition": "Beni her hafta arar.",
+    "example": "'beni' = me; 'her hafta' takes no ending"
+  },
+  {
+    "id": 93,
+    "term": "We visit them on Sundays.",
+    "definition": "Pazarları onları ziyaret ederiz.",
+    "example": "the habitual day plural, plus 'onları' = them"
+  },
+  {
+    "id": 94,
+    "term": "She waits for us at the station.",
+    "definition": "İstasyonda bizi bekler.",
+    "example": "'bizi' = us, and 'beklemek' needs no word for 'for'"
+  },
+  {
+    "id": 95,
+    "term": "I don't see him here.",
+    "definition": "Onu burada görmüyorum.",
+    "example": "negative -mü- inside the continuous"
+  },
+  {
+    "id": 96,
+    "term": "They know you well.",
+    "definition": "Seni iyi tanırlar.",
+    "example": "'tanımak' is knowing a PERSON; knowing a fact is 'bilmek'"
+  },
+  {
+    "id": 97,
+    "term": "Do you understand me?",
+    "definition": "Beni anlıyor musun?",
+    "example": "the question particle detaches as its own word"
+  },
+  {
+    "id": 98,
+    "term": "I love you very much.",
+    "definition": "Seni çok seviyorum.",
+    "example": "the same 'sevmek' that covers liking"
+  },
+  {
+    "id": 99,
+    "term": "Today's date is the fifth of August.",
+    "definition": "Bugünün tarihi beş Ağustos.",
+    "example": "day before month, and a plain number — no ordinal"
+  },
+  {
+    "id": 100,
+    "term": "The number nine is my lucky number.",
+    "definition": "Dokuz sayısı benim şanslı sayım.",
+    "example": "'sayısı' then 'sayım' — the same noun, two different possessors"
+  }
+];
+window.QM_SENTENCES_TR_LOWERINT_DATA = [
+  {
+    "id": 1,
+    "term": "I want to learn Turkish.",
+    "definition": "Türkçe öğrenmek istiyorum.",
+    "example": "the infinitive comes first and 'istemek' closes the sentence"
+  },
+  {
+    "id": 2,
+    "term": "I can help you tomorrow.",
+    "definition": "Yarın sana yardım edebilirim.",
+    "example": "-ebil- inside the verb is how Turkish says can"
+  },
+  {
+    "id": 3,
+    "term": "I must go now.",
+    "definition": "Şimdi gitmeliyim.",
+    "example": "the necessity suffix -meli, with no separate modal word"
+  },
+  {
+    "id": 4,
+    "term": "You should rest.",
+    "definition": "Dinlenmelisin.",
+    "example": "the same -meli covers 'should' as well as 'must'"
+  },
+  {
+    "id": 5,
+    "term": "She should call her mother.",
+    "definition": "Annesini aramalı.",
+    "example": "-malı after a back vowel; 'annesini' is possessive plus accusative"
+  },
+  {
+    "id": 6,
+    "term": "We want to visit Istanbul.",
+    "definition": "İstanbul'u ziyaret etmek istiyoruz.",
+    "example": "the proper noun takes an apostrophe before the accusative -u"
+  },
+  {
+    "id": 7,
+    "term": "They can't come today.",
+    "definition": "Bugün gelemezler.",
+    "example": "the negative of ability is -eme-, not a separate word"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to eat now.",
+    "definition": "Şimdi yemek istemiyorum.",
+    "example": "the negative sits on 'istemek', not on the infinitive"
+  },
+  {
+    "id": 9,
+    "term": "Do you want some tea?",
+    "definition": "Çay ister misin?",
+    "example": "the aorist, not the continuous, is the polite way to offer"
+  },
+  {
+    "id": 10,
+    "term": "I would like to order a coffee.",
+    "definition": "Bir kahve sipariş etmek istiyorum.",
+    "example": "'sipariş etmek' — another 'etmek' compound"
+  },
+  {
+    "id": 11,
+    "term": "You have to be careful.",
+    "definition": "Dikkatli olmalısın.",
+    "example": "-malı on 'olmak' when the necessity is about being something"
+  },
+  {
+    "id": 12,
+    "term": "It's necessary to buy bread.",
+    "definition": "Ekmek almak gerekiyor.",
+    "example": "'gerekmek' = to be needed, used impersonally"
+  },
+  {
+    "id": 13,
+    "term": "You can smoke here.",
+    "definition": "Burada sigara içebilirsin.",
+    "example": "Turkish DRINKS a cigarette — 'sigara içmek'"
+  },
+  {
+    "id": 14,
+    "term": "You can't park here.",
+    "definition": "Buraya park edemezsin.",
+    "example": "the -eme- negative of ability again"
+  },
+  {
+    "id": 15,
+    "term": "It's worth trying this soup.",
+    "definition": "Bu çorbayı denemeye değer.",
+    "example": "'değer' = it is worth, following a dative verbal noun"
+  },
+  {
+    "id": 16,
+    "term": "It's not necessary to hurry.",
+    "definition": "Acele etmeye gerek yok.",
+    "example": "'gerek yok' — literally 'need does not exist'"
+  },
+  {
+    "id": 17,
+    "term": "You shouldn't smoke.",
+    "definition": "Sigara içmemelisin.",
+    "example": "negative -me- goes before the necessity -meli"
+  },
+  {
+    "id": 18,
+    "term": "One has to work hard.",
+    "definition": "Çok çalışmak gerekir.",
+    "example": "the aorist of 'gerekmek' states a general truth"
+  },
+  {
+    "id": 19,
+    "term": "Everyone must follow the rules.",
+    "definition": "Herkes kurallara uymalı.",
+    "example": "'uymak' governs the DATIVE — you conform TO rules"
+  },
+  {
+    "id": 20,
+    "term": "I have to finish this today.",
+    "definition": "Bunu bugün bitirmeliyim.",
+    "example": "'bunu' = this, accusative"
+  },
+  {
+    "id": 21,
+    "term": "I like this song.",
+    "definition": "Bu şarkıyı beğeniyorum.",
+    "example": "'beğenmek' is liking a particular thing; 'sevmek' is a lasting love"
+  },
+  {
+    "id": 22,
+    "term": "Do you like this city?",
+    "definition": "Bu şehri beğeniyor musun?",
+    "example": "'şehir' drops its second vowel before the ending"
+  },
+  {
+    "id": 23,
+    "term": "We like this restaurant.",
+    "definition": "Bu restoranı beğeniyoruz.",
+    "example": "'beğenmek' again, with the accusative"
+  },
+  {
+    "id": 24,
+    "term": "They don't like this idea.",
+    "definition": "Bu fikri beğenmiyorlar.",
+    "example": "'fikir' also drops its second vowel"
+  },
+  {
+    "id": 25,
+    "term": "My head hurts.",
+    "definition": "Başım ağrıyor.",
+    "example": "the body part takes the possessive and becomes the subject"
+  },
+  {
+    "id": 26,
+    "term": "My legs hurt.",
+    "definition": "Bacaklarım ağrıyor.",
+    "example": "a plural NON-human subject still takes a singular verb"
+  },
+  {
+    "id": 27,
+    "term": "Does your stomach hurt?",
+    "definition": "Karnın ağrıyor mu?",
+    "example": "'karın' loses its ı when the possessive arrives"
+  },
+  {
+    "id": 28,
+    "term": "I feel sick.",
+    "definition": "Kendimi hasta hissediyorum.",
+    "example": "'kendimi' = myself, in the accusative"
+  },
+  {
+    "id": 29,
+    "term": "I am cold.",
+    "definition": "Üşüyorum.",
+    "example": "a whole VERB meaning to feel cold — never 'I am cold'"
+  },
+  {
+    "id": 30,
+    "term": "Are you hungry?",
+    "definition": "Aç mısın?",
+    "example": "'aç' is an adjective, so the question particle simply follows it"
+  },
+  {
+    "id": 31,
+    "term": "The more you practice, the better you speak.",
+    "definition": "Ne kadar çok pratik yaparsan o kadar iyi konuşursun.",
+    "example": "'ne kadar... o kadar' frames the whole correlation"
+  },
+  {
+    "id": 32,
+    "term": "The sooner, the better.",
+    "definition": "Ne kadar erken olursa o kadar iyi.",
+    "example": "the same frame, stripped to its bones"
+  },
+  {
+    "id": 33,
+    "term": "Both my sister and my brother live in Istanbul.",
+    "definition": "Hem kız kardeşim hem de erkek kardeşim İstanbul'da yaşıyor.",
+    "example": "'hem... hem de' = both... and"
+  },
+  {
+    "id": 34,
+    "term": "I like neither tea nor coffee.",
+    "definition": "Ne çayı ne de kahveyi severim.",
+    "example": "'ne... ne de' is already negative, so the verb stays POSITIVE"
+  },
+  {
+    "id": 35,
+    "term": "This is the most beautiful city in Turkey.",
+    "definition": "Bu, Türkiye'nin en güzel şehri.",
+    "example": "genitive on the country, possessive -i on the city"
+  },
+  {
+    "id": 36,
+    "term": "He is older than me.",
+    "definition": "O benden büyük.",
+    "example": "the ablative 'benden' is all that 'than' needs"
+  },
+  {
+    "id": 37,
+    "term": "This is worse than I thought.",
+    "definition": "Bu düşündüğümden daha kötü.",
+    "example": "an ablative on a participle — than the thing I thought"
+  },
+  {
+    "id": 38,
+    "term": "She sings better than he does.",
+    "definition": "O ondan daha iyi şarkı söyler.",
+    "example": "'şarkı söylemek' — Turkish SAYS a song"
+  },
+  {
+    "id": 39,
+    "term": "This task is easier than that one.",
+    "definition": "Bu görev şundan daha kolay.",
+    "example": "'şundan' — the ablative of 'şu'"
+  },
+  {
+    "id": 40,
+    "term": "He runs the fastest on our team.",
+    "definition": "Takımımızda en hızlı o koşar.",
+    "example": "'en' makes the superlative, and the aorist states the habit"
+  },
+  {
+    "id": 41,
+    "term": "I think that this is a good idea.",
+    "definition": "Bunun iyi bir fikir olduğunu düşünüyorum.",
+    "example": "Turkish has NO word for 'that' — the clause becomes a -duğu participle"
+  },
+  {
+    "id": 42,
+    "term": "I know that you are right.",
+    "definition": "Haklı olduğunu biliyorum.",
+    "example": "the same -duğu participle, then the accusative"
+  },
+  {
+    "id": 43,
+    "term": "I hope that the weather will be nice.",
+    "definition": "Havanın güzel olacağını umuyorum.",
+    "example": "the FUTURE participle -acağı, because it has not happened yet"
+  },
+  {
+    "id": 44,
+    "term": "I am glad that you came.",
+    "definition": "Geldiğine sevindim.",
+    "example": "the participle takes the dative because 'sevinmek' does"
+  },
+  {
+    "id": 45,
+    "term": "I don't think that it's true.",
+    "definition": "Bunun doğru olduğunu sanmıyorum.",
+    "example": "the negative lands on the main verb, not inside the clause"
+  },
+  {
+    "id": 46,
+    "term": "I am learning Turkish because I want to live in Turkey.",
+    "definition": "Türkiye'de yaşamak istediğim için Türkçe öğreniyorum.",
+    "example": "'-diği için' = because; the reason clause comes FIRST"
+  },
+  {
+    "id": 47,
+    "term": "I can't come because I am sick.",
+    "definition": "Hasta olduğum için gelemiyorum.",
+    "example": "the same because-frame, built on 'olmak'"
+  },
+  {
+    "id": 48,
+    "term": "I am studying so that I can pass the exam.",
+    "definition": "Sınavı geçebilmek için çalışıyorum.",
+    "example": "'için' after an infinitive means in order to"
+  },
+  {
+    "id": 49,
+    "term": "Call me when you arrive.",
+    "definition": "Vardığında beni ara.",
+    "example": "'-dığında' = when — a participle carrying a locative"
+  },
+  {
+    "id": 50,
+    "term": "If it rains, we will stay home.",
+    "definition": "Yağmur yağarsa evde kalacağız.",
+    "example": "the conditional -sa attaches straight to the verb"
+  },
+  {
+    "id": 51,
+    "term": "The woman who lives next door is a doctor.",
+    "definition": "Yan komşuda oturan kadın doktor.",
+    "example": "the -an participle replaces 'who' — and it comes BEFORE the noun"
+  },
+  {
+    "id": 52,
+    "term": "The man who called yesterday is my uncle.",
+    "definition": "Dün arayan adam amcam.",
+    "example": "-an again, the form used when the noun is the clause's subject"
+  },
+  {
+    "id": 53,
+    "term": "The book that I am reading is very interesting.",
+    "definition": "Okuduğum kitap çok ilginç.",
+    "example": "a DIFFERENT participle, -duğu, because the book is the object of the reading"
+  },
+  {
+    "id": 54,
+    "term": "The children who play in the park are our neighbors.",
+    "definition": "Parkta oynayan çocuklar komşularımız.",
+    "example": "subject relative, so -an once more"
+  },
+  {
+    "id": 55,
+    "term": "This is the house in which I grew up.",
+    "definition": "Bu, büyüdüğüm ev.",
+    "example": "-düğü covers 'in which' with no preposition anywhere"
+  },
+  {
+    "id": 56,
+    "term": "I don't remember the name of the street where we met.",
+    "definition": "Tanıştığımız sokağın adını hatırlamıyorum.",
+    "example": "a participle inside a genitive chain"
+  },
+  {
+    "id": 57,
+    "term": "The people whom I met were very friendly.",
+    "definition": "Tanıştığım insanlar çok samimiydi.",
+    "example": "object relative -dığı, and a past copula on the adjective"
+  },
+  {
+    "id": 58,
+    "term": "This is the reason why I am late.",
+    "definition": "Bu, geç kalmamın sebebi.",
+    "example": "a verbal noun with a possessive — my being late"
+  },
+  {
+    "id": 59,
+    "term": "The car that broke down is mine.",
+    "definition": "Bozulan araba benim.",
+    "example": "subject relative -an, from 'bozulmak' (to break down)"
+  },
+  {
+    "id": 60,
+    "term": "I found the keys that I lost.",
+    "definition": "Kaybettiğim anahtarları buldum.",
+    "example": "object relative -diği, then the accusative plural"
+  },
+  {
+    "id": 61,
+    "term": "The meeting starts at three o'clock.",
+    "definition": "Toplantı saat üçte başlıyor.",
+    "example": "clock time takes the locative — 'in three'"
+  },
+  {
+    "id": 62,
+    "term": "I usually wake up before seven.",
+    "definition": "Genelde yediden önce kalkarım.",
+    "example": "'önce' demands the ablative before it"
+  },
+  {
+    "id": 63,
+    "term": "We will meet after the concert.",
+    "definition": "Konserden sonra buluşacağız.",
+    "example": "'sonra' takes the ablative too; 'buluşmak' is reciprocal"
+  },
+  {
+    "id": 64,
+    "term": "The shop is open from nine to six.",
+    "definition": "Dükkân dokuzdan altıya kadar açık.",
+    "example": "ablative for the start, dative plus 'kadar' for the end"
+  },
+  {
+    "id": 65,
+    "term": "I lived in Turkey for three years.",
+    "definition": "Türkiye'de üç yıl yaşadım.",
+    "example": "a duration needs no preposition and no ending at all"
+  },
+  {
+    "id": 66,
+    "term": "I haven't seen him since last year.",
+    "definition": "Geçen yıldan beri onu görmedim.",
+    "example": "'beri' = since, following an ablative"
+  },
+  {
+    "id": 67,
+    "term": "During the summer, we travel a lot.",
+    "definition": "Yaz boyunca çok seyahat ederiz.",
+    "example": "'boyunca' = throughout, a postposition"
+  },
+  {
+    "id": 68,
+    "term": "On Mondays, I go to the gym.",
+    "definition": "Pazartesileri spor salonuna giderim.",
+    "example": "the habitual day plural, with a dative destination"
+  },
+  {
+    "id": 69,
+    "term": "Next week, I am going on vacation.",
+    "definition": "Gelecek hafta tatile çıkıyorum.",
+    "example": "literally 'I go out to vacation' — dative on 'tatil'"
+  },
+  {
+    "id": 70,
+    "term": "Two years ago, I visited Turkey.",
+    "definition": "İki yıl önce Türkiye'yi ziyaret ettim.",
+    "example": "'önce' after a bare duration means ago"
+  },
+  {
+    "id": 71,
+    "term": "There are a lot of people here.",
+    "definition": "Burada çok insan var.",
+    "example": "'çok' leaves the noun SINGULAR"
+  },
+  {
+    "id": 72,
+    "term": "I have little time.",
+    "definition": "Az vaktim var.",
+    "example": "'az' = little or few, depending on the noun"
+  },
+  {
+    "id": 73,
+    "term": "I have a few questions.",
+    "definition": "Birkaç sorum var.",
+    "example": "'birkaç' also leaves the noun singular"
+  },
+  {
+    "id": 74,
+    "term": "There are many opportunities here.",
+    "definition": "Burada birçok fırsat var.",
+    "example": "'birçok' = many, and still no plural ending"
+  },
+  {
+    "id": 75,
+    "term": "I have several friends in Turkey.",
+    "definition": "Türkiye'de birkaç arkadaşım var.",
+    "example": "'birkaç' covers both 'a few' and 'several'"
+  },
+  {
+    "id": 76,
+    "term": "Not many people know about this.",
+    "definition": "Bunu çok az kişi biliyor.",
+    "example": "'çok az' = very few; 'kişi' is the counting word for people"
+  },
+  {
+    "id": 77,
+    "term": "I need a bit more time.",
+    "definition": "Biraz daha vakte ihtiyacım var.",
+    "example": "'ihtiyaç' governs the dative — a need TO something"
+  },
+  {
+    "id": 78,
+    "term": "Most people agree with this.",
+    "definition": "İnsanların çoğu buna katılıyor.",
+    "example": "'çoğu' = most of them, itself a possessed form"
+  },
+  {
+    "id": 79,
+    "term": "I bought a lot of books.",
+    "definition": "Çok kitap aldım.",
+    "example": "singular after 'çok' once again"
+  },
+  {
+    "id": 80,
+    "term": "There isn't enough bread.",
+    "definition": "Yeterli ekmek yok.",
+    "example": "'yok' supplies the whole negative existence"
+  },
+  {
+    "id": 81,
+    "term": "Sit down, please.",
+    "definition": "Lütfen oturun.",
+    "example": "the polite imperative -un, for 'siz'"
+  },
+  {
+    "id": 82,
+    "term": "Wait for me!",
+    "definition": "Beni bekle!",
+    "example": "the familiar imperative is the bare stem, with no ending"
+  },
+  {
+    "id": 83,
+    "term": "Don't worry.",
+    "definition": "Endişelenme.",
+    "example": "the negative imperative is simply -me"
+  },
+  {
+    "id": 84,
+    "term": "Close the door, please.",
+    "definition": "Lütfen kapıyı kapatın.",
+    "example": "polite imperative with a definite, accusative object"
+  },
+  {
+    "id": 85,
+    "term": "Let's go!",
+    "definition": "Gidelim!",
+    "example": "the optative -elim on its own means let us"
+  },
+  {
+    "id": 86,
+    "term": "Let's eat something.",
+    "definition": "Bir şeyler yiyelim.",
+    "example": "'bir şeyler' = some things, a vague plural"
+  },
+  {
+    "id": 87,
+    "term": "Be careful!",
+    "definition": "Dikkatli ol!",
+    "example": "the imperative of 'olmak' is the bare stem 'ol'"
+  },
+  {
+    "id": 88,
+    "term": "Don't be afraid.",
+    "definition": "Korkma.",
+    "example": "negative imperative on 'korkmak'"
+  },
+  {
+    "id": 89,
+    "term": "Help me, please.",
+    "definition": "Lütfen bana yardım et.",
+    "example": "the dative 'bana', as 'yardım etmek' always requires"
+  },
+  {
+    "id": 90,
+    "term": "Listen to me!",
+    "definition": "Beni dinle!",
+    "example": "'dinlemek' takes a plain object — there is no 'to'"
+  },
+  {
+    "id": 91,
+    "term": "I don't know where he lives.",
+    "definition": "Nerede oturduğunu bilmiyorum.",
+    "example": "an embedded question also becomes a -duğu participle"
+  },
+  {
+    "id": 92,
+    "term": "I don't know what time it is.",
+    "definition": "Saatin kaç olduğunu bilmiyorum.",
+    "example": "the same participle, built on 'olmak'"
+  },
+  {
+    "id": 93,
+    "term": "Tell me why you are sad.",
+    "definition": "Neden üzgün olduğunu söyle.",
+    "example": "the question word stays inside the participle clause"
+  },
+  {
+    "id": 94,
+    "term": "I wonder who called.",
+    "definition": "Kim aradı acaba.",
+    "example": "'acaba' carries the wondering, and sits at the very end"
+  },
+  {
+    "id": 95,
+    "term": "I am not sure if he is coming.",
+    "definition": "Gelip gelmediğinden emin değilim.",
+    "example": "'whether' is the verb POSITIVE then NEGATIVE: gelip gelmediği"
+  },
+  {
+    "id": 96,
+    "term": "She said that she was tired.",
+    "definition": "Yorgun olduğunu söyledi.",
+    "example": "reported speech uses the same participle as 'I think that...'"
+  },
+  {
+    "id": 97,
+    "term": "He asked if I spoke Turkish.",
+    "definition": "Türkçe konuşup konuşmadığımı sordu.",
+    "example": "the positive-then-negative pair again, for an indirect yes/no question"
+  },
+  {
+    "id": 98,
+    "term": "If I had more time, I would learn Italian too.",
+    "definition": "Daha çok vaktim olsaydı İtalyanca da öğrenirdim.",
+    "example": "unreal -saydı in the if-half, aorist past in the answer"
+  },
+  {
+    "id": 99,
+    "term": "If I were you, I would rest.",
+    "definition": "Senin yerinde olsam dinlenirdim.",
+    "example": "literally 'if I were in your place'"
+  },
+  {
+    "id": 100,
+    "term": "I would be very happy if you came.",
+    "definition": "Gelseydin çok mutlu olurdum.",
+    "example": "the conditional clause can follow instead of leading"
+  }
+];
+window.QM_SENTENCES_TR_INTERMEDIATE_DATA = [
+  {
+    "id": 1,
+    "term": "I go there every day.",
+    "definition": "Her gün oraya giderim.",
+    "example": "the aorist for a habit; 'oraya' = to there, a dative"
+  },
+  {
+    "id": 2,
+    "term": "I don't believe it.",
+    "definition": "Buna inanmıyorum.",
+    "example": "'inanmak' governs the DATIVE — you believe TO something"
+  },
+  {
+    "id": 3,
+    "term": "I think about it often.",
+    "definition": "Sık sık onu düşünürüm.",
+    "example": "'sık sık' — Turkish doubles the word to mean often"
+  },
+  {
+    "id": 4,
+    "term": "How many books do you have? I have three of them.",
+    "definition": "Kaç kitabın var? Üç tane var.",
+    "example": "'tane' is the counting word that stands in for the repeated noun"
+  },
+  {
+    "id": 5,
+    "term": "Do you want some wine? Yes, I want some.",
+    "definition": "Şarap ister misin? Evet, isterim.",
+    "example": "there is no word for 'some' — the verb is simply repeated"
+  },
+  {
+    "id": 6,
+    "term": "Do you need money? Yes, I need some.",
+    "definition": "Paraya ihtiyacın var mı? Evet, var.",
+    "example": "'var' alone is a complete answer"
+  },
+  {
+    "id": 7,
+    "term": "I'm leaving now.",
+    "definition": "Şimdi gidiyorum.",
+    "example": "the continuous covers an action starting this moment"
+  },
+  {
+    "id": 8,
+    "term": "I don't want to talk about it.",
+    "definition": "Bunun hakkında konuşmak istemiyorum.",
+    "example": "'hakkında' = about, following a genitive"
+  },
+  {
+    "id": 9,
+    "term": "How many sisters do you have? I have one.",
+    "definition": "Kaç kız kardeşin var? Bir tane var.",
+    "example": "'tane' again, avoiding the repetition"
+  },
+  {
+    "id": 10,
+    "term": "I'm sure of it.",
+    "definition": "Bundan eminim.",
+    "example": "'emin' takes the ablative — sure FROM it"
+  },
+  {
+    "id": 11,
+    "term": "I used to read a lot as a child.",
+    "definition": "Çocukken çok kitap okurdum.",
+    "example": "the habitual past -ardı; 'çocukken' = while being a child"
+  },
+  {
+    "id": 12,
+    "term": "Yesterday I read that whole book.",
+    "definition": "Dün o kitabın tamamını okudum.",
+    "example": "the plain past for one completed act — contrast the habitual above"
+  },
+  {
+    "id": 13,
+    "term": "I always drank coffee in the morning.",
+    "definition": "Sabahları hep kahve içerdim.",
+    "example": "-erdi again for what used to happen repeatedly"
+  },
+  {
+    "id": 14,
+    "term": "This morning I drank two cups of coffee.",
+    "definition": "Bu sabah iki fincan kahve içtim.",
+    "example": "the definite past, because it was a single occasion"
+  },
+  {
+    "id": 15,
+    "term": "She was writing a letter when I called.",
+    "definition": "Aradığımda mektup yazıyordu.",
+    "example": "past continuous -yordu for the action already underway"
+  },
+  {
+    "id": 16,
+    "term": "She wrote the letter and sent it.",
+    "definition": "Mektubu yazdı ve gönderdi.",
+    "example": "two finished acts, both in the plain past"
+  },
+  {
+    "id": 17,
+    "term": "We were watching a movie all evening.",
+    "definition": "Bütün akşam film izliyorduk.",
+    "example": "-yorduk stretches the action across the whole evening"
+  },
+  {
+    "id": 18,
+    "term": "We watched the whole movie in one sitting.",
+    "definition": "Filmin tamamını bir oturuşta izledik.",
+    "example": "'oturuşta' — a verbal noun in the locative"
+  },
+  {
+    "id": 19,
+    "term": "I was learning Turkish for two years before I moved here.",
+    "definition": "Buraya taşınmadan önce iki yıl Türkçe öğreniyordum.",
+    "example": "'-madan önce' = before doing, with no tense of its own"
+  },
+  {
+    "id": 20,
+    "term": "I finally learned all the irregular verbs.",
+    "definition": "Sonunda bütün düzensiz fiilleri öğrendim.",
+    "example": "'sonunda' = at its end, i.e. finally"
+  },
+  {
+    "id": 21,
+    "term": "This book was written by a famous author.",
+    "definition": "Bu kitap ünlü bir yazar tarafından yazıldı.",
+    "example": "the passive -ıl-, and 'tarafından' = by"
+  },
+  {
+    "id": 22,
+    "term": "The house was built in 1920.",
+    "definition": "Ev 1920'de inşa edildi.",
+    "example": "an 'etmek' compound turns passive as 'edilmek'"
+  },
+  {
+    "id": 23,
+    "term": "The letter is being written now.",
+    "definition": "Mektup şimdi yazılıyor.",
+    "example": "passive and continuous stacked on one stem"
+  },
+  {
+    "id": 24,
+    "term": "The doors are closed at nine.",
+    "definition": "Kapılar dokuzda kapatılır.",
+    "example": "the aorist passive states a standing rule"
+  },
+  {
+    "id": 25,
+    "term": "The problem will be solved soon.",
+    "definition": "Sorun yakında çözülecek.",
+    "example": "passive plus future"
+  },
+  {
+    "id": 26,
+    "term": "The bridge was destroyed during the war.",
+    "definition": "Köprü savaş sırasında yıkıldı.",
+    "example": "'sırasında' = during, literally in its row"
+  },
+  {
+    "id": 27,
+    "term": "This song is known all over the world.",
+    "definition": "Bu şarkı bütün dünyada biliniyor.",
+    "example": "the passive of 'bilmek'"
+  },
+  {
+    "id": 28,
+    "term": "The cake was eaten by the children.",
+    "definition": "Pasta çocuklar tarafından yendi.",
+    "example": "'tarafından' names a real, deliberate agent"
+  },
+  {
+    "id": 29,
+    "term": "New rules were introduced last year.",
+    "definition": "Geçen yıl yeni kurallar getirildi.",
+    "example": "the agent is simply left out"
+  },
+  {
+    "id": 30,
+    "term": "The window was broken by the storm.",
+    "definition": "Pencere fırtına yüzünden kırıldı.",
+    "example": "'yüzünden', not 'tarafından' — a storm is a cause, not an agent"
+  },
+  {
+    "id": 31,
+    "term": "It's said that he is very talented.",
+    "definition": "Çok yetenekli olduğu söyleniyor.",
+    "example": "an impersonal passive over a participle clause"
+  },
+  {
+    "id": 32,
+    "term": "It's getting dark.",
+    "definition": "Hava kararıyor.",
+    "example": "'hava' is the subject, and 'kararmak' = to become dark"
+  },
+  {
+    "id": 33,
+    "term": "It's getting cold outside.",
+    "definition": "Dışarısı soğuyor.",
+    "example": "'soğumak' packs 'become cold' into one verb"
+  },
+  {
+    "id": 34,
+    "term": "How do you say this in Turkish?",
+    "definition": "Bu Türkçe nasıl denir?",
+    "example": "'denir' is the impersonal passive — how is it said"
+  },
+  {
+    "id": 35,
+    "term": "One eats dinner at eight here.",
+    "definition": "Burada akşam yemeği sekizde yenir.",
+    "example": "the passive does the work of English 'one'"
+  },
+  {
+    "id": 36,
+    "term": "You can't smoke here.",
+    "definition": "Burada sigara içilmez.",
+    "example": "negative aorist passive: literally 'it is not smoked'"
+  },
+  {
+    "id": 37,
+    "term": "It's not done that way.",
+    "definition": "Öyle yapılmaz.",
+    "example": "the same impersonal passive, with 'öyle' = that way"
+  },
+  {
+    "id": 38,
+    "term": "People say all sorts of things.",
+    "definition": "İnsanlar her şeyi söyler.",
+    "example": "here a real subject appears, so no passive is needed"
+  },
+  {
+    "id": 39,
+    "term": "This word is used often.",
+    "definition": "Bu kelime sık kullanılır.",
+    "example": "aorist passive for what is generally true"
+  },
+  {
+    "id": 40,
+    "term": "This is how the game is played.",
+    "definition": "Oyun böyle oynanır.",
+    "example": "'böyle' = thus, again with the passive"
+  },
+  {
+    "id": 41,
+    "term": "I told him to come.",
+    "definition": "Ona gelmesini söyledim.",
+    "example": "a reported command becomes a verbal noun with a possessive — 'his coming'"
+  },
+  {
+    "id": 42,
+    "term": "She asked me to help her.",
+    "definition": "Benden ona yardım etmemi istedi.",
+    "example": "'istemek' puts the person asked in the ABLATIVE"
+  },
+  {
+    "id": 43,
+    "term": "The teacher told us to be quiet.",
+    "definition": "Öğretmen bize sessiz olmamızı söyledi.",
+    "example": "'olmamızı' = our being, the plural possessive on the verbal noun"
+  },
+  {
+    "id": 44,
+    "term": "I want you to call me.",
+    "definition": "Beni aramanı istiyorum.",
+    "example": "literally 'I want your calling me' — no infinitive is possible here"
+  },
+  {
+    "id": 45,
+    "term": "My mother told me not to be late.",
+    "definition": "Annem geç kalmamamı söyledi.",
+    "example": "the negative goes INSIDE the verbal noun"
+  },
+  {
+    "id": 46,
+    "term": "He asked us to wait outside.",
+    "definition": "Bizden dışarıda beklememizi istedi.",
+    "example": "ablative for the asked, possessive on what is asked"
+  },
+  {
+    "id": 47,
+    "term": "I told them to stop.",
+    "definition": "Onlara durmalarını söyledim.",
+    "example": "the plural possessive -ları on the verbal noun"
+  },
+  {
+    "id": 48,
+    "term": "She wants me to visit her.",
+    "definition": "Onu ziyaret etmemi istiyor.",
+    "example": "'etmemi' = my doing, carrying the accusative"
+  },
+  {
+    "id": 49,
+    "term": "The boss ordered us to finish the project.",
+    "definition": "Patron projeyi bitirmemizi emretti.",
+    "example": "'emretmek' takes the same verbal-noun object"
+  },
+  {
+    "id": 50,
+    "term": "I asked her to be patient.",
+    "definition": "Ondan sabırlı olmasını istedim.",
+    "example": "ablative plus verbal noun once more"
+  },
+  {
+    "id": 51,
+    "term": "Although it was raining, we went for a walk.",
+    "definition": "Yağmur yağmasına rağmen yürüyüşe çıktık.",
+    "example": "'-mesine rağmen' = despite its doing"
+  },
+  {
+    "id": 52,
+    "term": "Even though he is tired, he keeps working.",
+    "definition": "Yorgun olmasına rağmen çalışmaya devam ediyor.",
+    "example": "'devam etmek' takes a DATIVE verbal noun"
+  },
+  {
+    "id": 53,
+    "term": "Despite the cold, we went outside.",
+    "definition": "Soğuğa rağmen dışarı çıktık.",
+    "example": "'rağmen' governs the dative"
+  },
+  {
+    "id": 54,
+    "term": "It's raining, but we're going out anyway.",
+    "definition": "Yağmur yağıyor ama yine de çıkıyoruz.",
+    "example": "'yine de' = even so"
+  },
+  {
+    "id": 55,
+    "term": "I like her, even though she's sometimes difficult.",
+    "definition": "Bazen zor olsa da onu severim.",
+    "example": "'-sa da' = even if, built on the conditional"
+  },
+  {
+    "id": 56,
+    "term": "He passed the exam despite not studying much.",
+    "definition": "Çok çalışmamasına rağmen sınavı geçti.",
+    "example": "the negative sits inside the 'rağmen' clause"
+  },
+  {
+    "id": 57,
+    "term": "It was cheap, yet good quality.",
+    "definition": "Ucuzdu ama kaliteliydi.",
+    "example": "two past copulas, one on each adjective"
+  },
+  {
+    "id": 58,
+    "term": "Nevertheless, I think we should try.",
+    "definition": "Yine de bence denemeliyiz.",
+    "example": "'yine de' opening the sentence, plus the necessity -meli"
+  },
+  {
+    "id": 59,
+    "term": "Although I disagree, I'll help you.",
+    "definition": "Katılmasam da sana yardım edeceğim.",
+    "example": "'-sa da' again, this time negated"
+  },
+  {
+    "id": 60,
+    "term": "We won, although it wasn't easy.",
+    "definition": "Kolay olmasa da kazandık.",
+    "example": "the concessive clause can lead the sentence"
+  },
+  {
+    "id": 61,
+    "term": "Stay here until I come back.",
+    "definition": "Ben dönene kadar burada kal.",
+    "example": "'-ene kadar' = until, a participle plus 'kadar'"
+  },
+  {
+    "id": 62,
+    "term": "I'll wait as long as you need.",
+    "definition": "İhtiyacın olduğu sürece bekleyeceğim.",
+    "example": "'sürece' = for as long as"
+  },
+  {
+    "id": 63,
+    "term": "Before you leave, call me.",
+    "definition": "Gitmeden önce beni ara.",
+    "example": "'-meden önce' carries no tense — the main verb sets it"
+  },
+  {
+    "id": 64,
+    "term": "I checked everything before I left.",
+    "definition": "Çıkmadan önce her şeyi kontrol ettim.",
+    "example": "the identical frame, now with a past main verb"
+  },
+  {
+    "id": 65,
+    "term": "I've known her since I was a child.",
+    "definition": "Çocukluğumdan beri onu tanıyorum.",
+    "example": "'beri' with an ablative — and Turkish uses the PRESENT tense here"
+  },
+  {
+    "id": 66,
+    "term": "Since he moved here, he's been much happier.",
+    "definition": "Buraya taşındığından beri çok daha mutlu.",
+    "example": "participle, then ablative, then 'beri'"
+  },
+  {
+    "id": 67,
+    "term": "Wait until the light turns green.",
+    "definition": "Işık yeşile dönene kadar bekle.",
+    "example": "'-ene kadar' with a dative for what it turns into"
+  },
+  {
+    "id": 68,
+    "term": "I won't leave until you answer me.",
+    "definition": "Sen bana cevap verene kadar gitmeyeceğim.",
+    "example": "the until-clause stays positive while the main verb is negative"
+  },
+  {
+    "id": 69,
+    "term": "As soon as I get home, I'll call you.",
+    "definition": "Eve varır varmaz seni arayacağım.",
+    "example": "'varır varmaz' — the aorist positive then negative means 'as soon as'"
+  },
+  {
+    "id": 70,
+    "term": "The moment I saw her, I knew.",
+    "definition": "Onu gördüğüm anda anladım.",
+    "example": "'anda' = at the moment, on a participle"
+  },
+  {
+    "id": 71,
+    "term": "Instead of coffee, I'll have tea.",
+    "definition": "Kahve yerine çay içeceğim.",
+    "example": "'yerine' = in the place of"
+  },
+  {
+    "id": 72,
+    "term": "Instead of complaining, do something.",
+    "definition": "Şikâyet etmek yerine bir şey yap.",
+    "example": "'yerine' can follow a whole infinitive"
+  },
+  {
+    "id": 73,
+    "term": "Reading books is my favorite hobby.",
+    "definition": "Kitap okumak en sevdiğim hobi.",
+    "example": "the bare infinitive serves as the subject"
+  },
+  {
+    "id": 74,
+    "term": "Learning languages takes time.",
+    "definition": "Dil öğrenmek zaman alır.",
+    "example": "'zaman almak' = to take time, as in English"
+  },
+  {
+    "id": 75,
+    "term": "Swimming is good for your health.",
+    "definition": "Yüzmek sağlığa iyi gelir.",
+    "example": "'iyi gelmek' = to do good, with the dative"
+  },
+  {
+    "id": 76,
+    "term": "Cooking dinner takes an hour.",
+    "definition": "Akşam yemeği pişirmek bir saat sürer.",
+    "example": "'sürmek' = to last"
+  },
+  {
+    "id": 77,
+    "term": "Smoking is bad for you.",
+    "definition": "Sigara içmek zararlıdır.",
+    "example": "the -dır ending gives a general statement its formal ring"
+  },
+  {
+    "id": 78,
+    "term": "Waiting is the hardest part.",
+    "definition": "Beklemek en zor kısım.",
+    "example": "an infinitive subject with a superlative predicate"
+  },
+  {
+    "id": 79,
+    "term": "Thank you for coming.",
+    "definition": "Geldiğiniz için teşekkür ederim.",
+    "example": "'-diği için' turns up again, here carrying thanks"
+  },
+  {
+    "id": 80,
+    "term": "I'm tired of waiting.",
+    "definition": "Beklemekten yoruldum.",
+    "example": "the ablative on the infinitive — tired FROM waiting"
+  },
+  {
+    "id": 81,
+    "term": "If I had known, I would have come.",
+    "definition": "Bilseydim gelirdim.",
+    "example": "the past unreal: -seydi in the if-half, aorist past in the answer"
+  },
+  {
+    "id": 82,
+    "term": "If you had called me, I would have helped.",
+    "definition": "Beni arasaydın yardım ederdim.",
+    "example": "the same pairing, in the second person"
+  },
+  {
+    "id": 83,
+    "term": "She would have passed if she had studied more.",
+    "definition": "Daha çok çalışsaydı geçerdi.",
+    "example": "the two halves can be given in either order"
+  },
+  {
+    "id": 84,
+    "term": "We wouldn't have been late if we had left earlier.",
+    "definition": "Daha erken çıksaydık geç kalmazdık.",
+    "example": "both halves negative — 'kalmazdık' is the negative aorist past"
+  },
+  {
+    "id": 85,
+    "term": "I have twenty-two books on this shelf.",
+    "definition": "Bu rafta yirmi iki kitabım var.",
+    "example": "compound numbers are simply written one after the other"
+  },
+  {
+    "id": 86,
+    "term": "There are thirty-five students in this class.",
+    "definition": "Bu sınıfta otuz beş öğrenci var.",
+    "example": "still no plural ending after a number"
+  },
+  {
+    "id": 87,
+    "term": "I have been living here for eleven years.",
+    "definition": "On bir yıldır burada yaşıyorum.",
+    "example": "'-dır' on the duration, and the PRESENT tense — not the past"
+  },
+  {
+    "id": 88,
+    "term": "The building has one hundred rooms.",
+    "definition": "Binanın yüz odası var.",
+    "example": "genitive owner, possessed noun, then 'var'"
+  },
+  {
+    "id": 89,
+    "term": "I paid two hundred euros for this.",
+    "definition": "Bunun için iki yüz euro ödedim.",
+    "example": "'için' after the genitive 'bunun'"
+  },
+  {
+    "id": 90,
+    "term": "Only one person answered correctly.",
+    "definition": "Sadece bir kişi doğru cevap verdi.",
+    "example": "'cevap vermek' = to give an answer"
+  },
+  {
+    "id": 91,
+    "term": "He passed the exam, which made his parents happy.",
+    "definition": "Sınavı geçti, bu da ailesini mutlu etti.",
+    "example": "'bu da' picks up the entire preceding clause"
+  },
+  {
+    "id": 92,
+    "term": "She was late, which annoyed the teacher.",
+    "definition": "Geç kaldı, bu da öğretmeni kızdırdı.",
+    "example": "'kızdırmak' is the causative of 'kızmak' — to make angry"
+  },
+  {
+    "id": 93,
+    "term": "This is the best restaurant of all the ones I know.",
+    "definition": "Bu, bildiğim bütün restoranların en iyisi.",
+    "example": "a participle inside a genitive, closed by a superlative"
+  },
+  {
+    "id": 94,
+    "term": "He is the smartest of all my friends.",
+    "definition": "O, bütün arkadaşlarımın en akıllısı.",
+    "example": "'en akıllısı' = the smartest one of them"
+  },
+  {
+    "id": 95,
+    "term": "To be honest, I don't understand this.",
+    "definition": "Dürüst olmak gerekirse bunu anlamıyorum.",
+    "example": "a fixed opener — literally 'if it is necessary to be honest'"
+  },
+  {
+    "id": 96,
+    "term": "Generally speaking, the weather here is nice.",
+    "definition": "Genel olarak buranın havası güzel.",
+    "example": "'genel olarak' = as a general thing"
+  },
+  {
+    "id": 97,
+    "term": "As far as I know, the shop is closed today.",
+    "definition": "Bildiğim kadarıyla dükkân bugün kapalı.",
+    "example": "'bildiğim kadarıyla' = by the amount that I know"
+  },
+  {
+    "id": 98,
+    "term": "In my opinion, this is the right decision.",
+    "definition": "Bence bu doğru karar.",
+    "example": "'bence' — the equative -ce meaning 'according to me'"
+  },
+  {
+    "id": 99,
+    "term": "All things considered, it went well.",
+    "definition": "Her şey göz önüne alındığında iyi geçti.",
+    "example": "an impersonal passive participle: when everything is taken before the eye"
+  },
+  {
+    "id": 100,
+    "term": "In the end, everything turned out fine.",
+    "definition": "Sonunda her şey yolunda gitti.",
+    "example": "'yolunda gitmek' = to go on its road, i.e. to go well"
   }
 ];
 window.QM_NO3S5258_DATA = [
